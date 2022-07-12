@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json.schemastore.org/tsconfig.json",
+  "compilerOptions": {
+    "rootDir": "src",
+    "target": "ES2015",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "outDir": "./dist",
+    "strict": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "noImplicitAny": false,
+    "declaration": true,
+    "resolveJsonModule": true
+  },
+  "include": ["src", "types"],
+  "exclude": ["node_modules"]
+}
