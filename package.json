@@ -1,12 +1,46 @@
 {
   "name": "bundesdatenkrake",
-  "private": true,
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "crawl": "ts-node --project tsconfig-crawl.json src/index.ts"
   },
-  "keywords": [],
   "author": "Jens Ochsenmeier <github@jens-ox.de>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.0.3",
+    "@types/papaparse": "^5.3.2",
+    "@types/react": "18.0.15",
+    "@types/react-dom": "18.0.6",
+    "@typescript-eslint/eslint-plugin": "^5.30.7",
+    "@typescript-eslint/parser": "^5.30.7",
+    "autoprefixer": "^10.4.7",
+    "eslint": "^8.19.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.4",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.0.0",
+    "postcss": "^8.4.14",
+    "prettier": "^2.7.1",
+    "prisma": "^4.1.0",
+    "tailwindcss": "^3.1.6",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.1.0",
+    "aws-sdk": "^2.1178.0",
+    "axios": "^0.27.2",
+    "date-fns": "^2.28.0",
+    "dotenv": "^16.0.1",
+    "next": "12.2.2",
+    "papaparse": "^5.3.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
 }

@@ -1,8 +1,9 @@
 import { createHash } from 'crypto'
 import zlib from 'zlib'
 import AWS from 'aws-sdk'
+import prisma from '../lib/prisma'
 import BafinExporter from './exporters/bafin'
-import prisma from './prisma'
+import 'dotenv/config'
 
 AWS.config.update({ region: 'eu-central-1' })
 
