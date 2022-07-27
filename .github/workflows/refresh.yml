@@ -12,10 +12,10 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-          cache: 'npm'
-      - run: npm install
+          cache: 'pnpm'
+      - run: pnpm install --frozen-lockfile
       - name: Refresh list
-        run: npm run crawl
+        run: pnpm crawl
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
           AWS_BUCKET: ${{ secrets.AWS_BUCKET }}
