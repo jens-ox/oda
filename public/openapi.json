@@ -1,0 +1,161 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "API Bundesdatenkrake",
+    "version": "1.0.0",
+    "description": "Über diese API können maschinenlesbare, versionierte Snapshots verschiedener Register (Ressourcen) bezogen werden."
+  },
+  "servers": [
+    {
+      "url": "https://bundesdatenkrake.vercel.app/api"
+    }
+  ],
+  "components": {
+    "schemas": {
+      "Ressource": {
+        "type": "object",
+        "description": "Ressource",
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Datenbank-Identifikator der Ressource.",
+            "example": "bafin-stimmrechte"
+          },
+          "name": {
+            "type": "string",
+            "description": "Name der Ressource",
+            "example": "Stimmrechte BaFin"
+          },
+          "description": {
+            "type": "string",
+            "description": "Beschreibung der Ressource",
+            "example": "Bedeutende Stimmrechtsanteile"
+          },
+          "url": {
+            "type": "string",
+            "description": "Quelle der Ressource",
+            "example": "https://portal.mvp.bafin.de/database/AnteileInfo/"
+          },
+          "office": {
+            "type": "string",
+            "description": "Für die Ressource verantwortliche Instanz",
+            "example": "Bundesanstalt für Finanzdienstleistungsaufsicht"
+          }
+        }
+      },
+      "Snapshot": {
+        "type": "object",
+        "description": "Snapshot",
+        "properties": {
+          "id": {
+            "type": "number",
+            "description": "ID des Snapshots in der Datenbank",
+            "example": 2
+          },
+          "sourceId": {
+            "type": "string",
+            "description": "ID der Ressource, zu der der Snapshot gehört",
+            "example": "bafin-stimmrechte"
+          },
+          "md5": {
+            "type": "string",
+            "description": "MD5-Hash des eigentlichen Snapshots"
+          },
+          "createdAt": {
+            "type": "string",
+            "format": "date-time",
+            "example": "2022-07-27T08:34:24.432Z",
+            "description": "Zeitstempel, zu dem der Snapshot erstellt wurde"
+          }
+        }
+      },
+      "DetailRessource": {
+        "allOf": [
+          {
+            "$ref": "#/components/schemas/Ressource"
+          },
+          {
+            "type": "object",
+            "properties": {
+              "snapshots": {
+                "type": "array",
+                "items": {
+                  "$ref": "#/components/schemas/Snapshot"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "paths": {
+    "/sources": {
+      "get": {
+        "summary": "Liste aller verfügbaren Ressourcen.",
+        "responses": {
+          "200": {
+            "description": "Liste aller verfügbaren Ressourcen.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Ressource"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/source/{id}": {
+      "get": {
+        "summary": "Details zu einer Ressource anfragen",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Details zu einer Ressource",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/DetailRessource"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/snapshot/{id}": {
+      "get": {
+        "summary": "Snapshot laden",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Snapshot"
+          }
+        }
+      }
+    }
+  }
+}
