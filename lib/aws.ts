@@ -3,7 +3,7 @@ import { decompress } from './compress'
 
 const s3 = new S3Client({
   region: 'eu-central-1',
-  credentials: { accessKeyId: process.env.AWS_ACCESS_KEY!, secretAccessKey: process.env.AWS_ACCESS_KEY_SECRET! }
+  credentials: { accessKeyId: process.env.ACCESS_KEY_ID!, secretAccessKey: process.env.ACCESS_KEY_SECRET! }
 })
 
 const streamToString = (stream: any): Promise<string> =>
@@ -16,7 +16,7 @@ const streamToString = (stream: any): Promise<string> =>
 
 export const upload = async (md5: string, content: string): Promise<void> => {
   const command = new PutObjectCommand({
-    Bucket: process.env.AWS_BUCKET,
+    Bucket: process.env.BUCKET,
     Key: md5,
     Body: content
   })
@@ -25,7 +25,7 @@ export const upload = async (md5: string, content: string): Promise<void> => {
 }
 
 export const download = async (md5: string): Promise<unknown> => {
-  const command = new GetObjectCommand({ Bucket: process.env.AWS_BUCKET, Key: md5 })
+  const command = new GetObjectCommand({ Bucket: process.env.BUCKET, Key: md5 })
 
   const rawData = await s3.send(command)
 

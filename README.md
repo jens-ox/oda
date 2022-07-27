@@ -20,6 +20,6 @@ TODO: OpenAPI spec
 ## Environment variables
 
 * `DATABASE_URL`: pre-authenticated URL to a MySQL-compatible database (e.g. [PlanetScale](https://planetscale.com/))
-* `AWS_BUCKET`: name of a S3 Bucket for storing data snapshots
-* `AWS_ACCESS_KEY`: AWS IAM access key ID. Needs to have `read` and `write` permission to your S3 bucket.
-* `AWS_ACCESS_KEY_SECRET`: AWS IAM access key secret.
+* `BUCKET`: name of a S3 Bucket for storing data snapshots
+* `ACCESS_KEY`: AWS IAM access key ID. Needs to have `read` and `write` permission to your S3 bucket.
+* `ACCESS_KEY_SECRET`: AWS IAM access key secret.

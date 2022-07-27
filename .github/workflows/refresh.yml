@@ -21,8 +21,8 @@ jobs:
         run: pnpm crawl
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
-          AWS_BUCKET: ${{ secrets.AWS_BUCKET }}
-          AWS_ACCESS_KEY: ${{ secrets.AWS_ACCESS_KEY }}
-          AWS_ACCESS_KEY_SECRET: ${{ secrets.AWS_ACCESS_KEY_SECRET }}
+          BUCKET: ${{ secrets.BUCKET }}
+          ACCESS_KEY: ${{ secrets.ACCESS_KEY }}
+          ACCESS_KEY_SECRET: ${{ secrets.ACCESS_KEY_SECRET }}
 
           
