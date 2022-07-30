@@ -2,11 +2,13 @@ lockfileVersion: 5.4
 
 specifiers:
   '@aws-sdk/client-s3': ^3.131.0
+  '@iconicicons/react': ^1.5.0
   '@prisma/client': ^4.1.0
   '@types/node': ^18.0.3
   '@types/papaparse': ^5.3.2
   '@types/react': 18.0.15
   '@types/react-dom': 18.0.6
+  '@types/react-table': ^7.7.12
   '@types/swagger-ui-react': ^4.11.0
   '@typescript-eslint/eslint-plugin': ^5.30.7
   '@typescript-eslint/parser': ^5.30.7
@@ -28,6 +30,7 @@ specifiers:
   prisma: ^4.1.0
   react: 18.2.0
   react-dom: 18.2.0
+  react-table: ^7.8.0
   swagger-ui-react: ^4.13.0
   tailwindcss: ^3.1.6
   ts-node: ^10.8.2
@@ -35,6 +38,7 @@ specifiers:
 
 dependencies:
   '@aws-sdk/client-s3': 3.131.0
+  '@iconicicons/react': 1.5.0_react@18.2.0
   '@prisma/client': 4.1.0_prisma@4.1.0
   axios: 0.27.2
   date-fns: 2.28.0
@@ -43,6 +47,7 @@ dependencies:
   papaparse: 5.3.2
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
+  react-table: 7.8.0_react@18.2.0
   swagger-ui-react: 4.13.0_biqbaboplfbrettd7655fr4n2y
 
 devDependencies:
@@ -50,6 +55,7 @@ devDependencies:
   '@types/papaparse': 5.3.2
   '@types/react': 18.0.15
   '@types/react-dom': 18.0.6
+  '@types/react-table': 7.7.12
   '@types/swagger-ui-react': 4.11.0
   '@typescript-eslint/eslint-plugin': 5.30.7_6wltbjakwuqm7awqswigmiuhd4
   '@typescript-eslint/parser': 5.30.7_he2ccbldppg44uulnyq4rwocfa
@@ -1004,6 +1010,14 @@ packages:
     resolution: {integrity: sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==}
     dev: true
 
+  /@iconicicons/react/1.5.0_react@18.2.0:
+    resolution: {integrity: sha512-WEPtx5uYyz1zSpRSrdpBIY6Wdq2T46vHWedIJQDoSnFZ+BsL1Sk2Sggp0nShetUm7yImtINiPD3To5okGoDprQ==}
+    peerDependencies:
+      react: '>= 16'
+    dependencies:
+      react: 18.2.0
+    dev: false
+
   /@jridgewell/resolve-uri/3.1.0:
     resolution: {integrity: sha512-F2msla3tad+Mfht5cJq7LSXcdudKTWCVYUgw6pLFOOHSTtZlj6SWNYAp+AhuqLmWdBO2X5hPrLcu8cVP8fy28w==}
     engines: {node: '>=6.0.0'}
@@ -1254,6 +1268,12 @@ packages:
       hoist-non-react-statics: 3.3.2
       redux: 4.2.0
     dev: false
+
+  /@types/react-table/7.7.12:
+    resolution: {integrity: sha512-bRUent+NR/WwtDGwI/BqhZ8XnHghwHw0HUKeohzB5xN3K2qKWYE5w19e7GCuOkL1CXD9Gi1HFy7TIm2AvgWUHg==}
+    dependencies:
+      '@types/react': 18.0.15
+    dev: true
 
   /@types/react/18.0.15:
     resolution: {integrity: sha512-iz3BtLuIYH1uWdsv6wXYdhozhqj20oD4/Hk2DNXIn1kFsmp9x8d9QB6FnPhfkbhd2PgEONt9Q1x/ebkwjfFLow==}
@@ -3291,6 +3311,14 @@ packages:
       prismjs: 1.28.0
       react: 18.2.0
       refractor: 3.6.0
+    dev: false
+
+  /react-table/7.8.0_react@18.2.0:
+    resolution: {integrity: sha512-hNaz4ygkZO4bESeFfnfOft73iBUj8K5oKi1EcSHPAibEydfsX2MyU6Z8KCr3mv3C9Kqqh71U+DhZkFvibbnPbA==}
+    peerDependencies:
+      react: ^16.8.3 || ^17.0.0-0 || ^18.0.0
+    dependencies:
+      react: 18.2.0
     dev: false
 
   /react/18.2.0:
