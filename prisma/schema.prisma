@@ -23,5 +23,6 @@ model Snapshot {
   source          Source    @relation(fields: [sourceId], references: [id])
   sourceId        String    @db.VarChar(255)
   md5             String    @db.VarChar(255)
+  size            Int       @default(0)
   createdAt       DateTime  @updatedAt
 }

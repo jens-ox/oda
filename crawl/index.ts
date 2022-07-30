@@ -9,7 +9,7 @@ const main = async () =>
   Promise.all(
     exporters.map(async (e) => {
       const data = await e.exporter()
-      const dataString = await compress(data)
+      const { data: dataString, size } = await compress(data)
 
       // stringify and md5
       const dataMd5 = createHash('md5').update(dataString).digest('hex')
@@ -28,7 +28,8 @@ const main = async () =>
           data: {
             md5: dataMd5,
             createdAt: new Date(),
-            sourceId: e.sourceId
+            sourceId: e.sourceId,
+            size
           }
         })
       }

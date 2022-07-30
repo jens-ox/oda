@@ -1,15 +1,23 @@
 import zlib from 'zlib'
 
-export const compress = async (data: unknown): Promise<string> =>
+interface CompressResult {
+  data: string
+  size: number
+}
+export const compress = async (data: unknown): Promise<CompressResult> =>
   new Promise((resolve, reject) => {
-    zlib.deflate(JSON.stringify(data), (err, buffer) => {
+    const stringified = JSON.stringify(data)
+    zlib.deflate(stringified, (err, buffer) => {
       if (err) {
         return reject(err)
       }
 
       const result = buffer.toString('base64')
 
-      resolve(result)
+      resolve({
+        data: result,
+        size: Math.round(stringified.length / 1000)
+      })
     })
   })
 
