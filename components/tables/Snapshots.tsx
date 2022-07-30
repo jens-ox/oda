@@ -25,7 +25,10 @@ const SnapshotsTable: React.FC<{
         {
           Header: 'MD5',
           id: 'md5',
-          accessor: (e) => e.md5
+          accessor: (e) => e.md5,
+          Cell: ({ value }: CellProps<SerializedSnapshot, SerializedSnapshot['md5']>) => (
+            <span className="font-mono text-sm">{value}</span>
+          )
         },
         {
           Header: '',
