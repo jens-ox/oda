@@ -17,7 +17,11 @@ export const getServerSideProps: GetServerSideProps<SourcePageProps> = async ({ 
       id: `${id}`
     },
     include: {
-      snapshots: true
+      snapshots: {
+        orderBy: {
+          createdAt: 'desc'
+        }
+      }
     }
   })
 
@@ -48,10 +52,10 @@ const SourcePage: NextPage<SourcePageProps> = ({ source, snapshots }) => {
         <div className="flex flex-col gap-12">
           <div className="flex flex-col">
             <h1 className="font-serif font-medium text-5xl mb-4">{source.name}</h1>
-            <small className="text-stone-600">{source.description}</small>
-            <small className="text-stone-600">
+            <small className="text-stone-500">{source.description}</small>
+            <small className="text-stone-500">
               —{' '}
-              <a href={source.url} className="underline">
+              <a href={source.url} className="underline" target="_blank">
                 {source.office}
               </a>
             </small>

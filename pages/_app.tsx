@@ -31,7 +31,7 @@ const App = ({ Component, pageProps }: AppProps) => (
                   <h1 className="cursor-pointer font-medium text-lg">Bundesdatenkrake</h1>
                 </Link>
                 <div className="-mr-2 flex items-center md:hidden">
-                  <Popover.Button className="bg-gray-50 rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
+                  <Popover.Button className="rounded-md p-2 inline-flex items-center justify-center text-stone-400 hover:text-stone-500 hover:bg-stone-100 dark:hover:bg-stone-600 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
                     <span className="sr-only">Open main menu</span>
                     <MenuIcon className="h-6 w-6" aria-hidden="true" />
                   </Popover.Button>
@@ -41,7 +41,9 @@ const App = ({ Component, pageProps }: AppProps) => (
             <div className="hidden md:flex md:space-x-10">
               {navigation.map((item) => (
                 <Link key={item.name} href={item.href}>
-                  <span className="font-medium text-gray-500 hover:text-gray-900 cursor-pointer">{item.name}</span>
+                  <span className="font-medium text-stone-500 dark:text-stone-400 hover:text-stone-900 dark:hover:text-stone-200 cursor-pointer">
+                    {item.name}
+                  </span>
                 </Link>
               ))}
             </div>
@@ -61,13 +63,13 @@ const App = ({ Component, pageProps }: AppProps) => (
             focus
             className="absolute z-10 top-0 inset-x-0 p-2 transition transform origin-top-right md:hidden"
           >
-            <div className="rounded-lg shadow-md bg-white ring-1 ring-black ring-opacity-5 overflow-hidden">
+            <div className="bg-white dark:bg-stone-800 rounded-lg shadow-md ring-1 ring-black ring-opacity-5 overflow-hidden">
               <div className="px-5 pt-4 flex items-center justify-between">
                 <div>
                   <h1 className="font-medium text-lg">Bundesdatenkrake</h1>
                 </div>
                 <div className="-mr-2">
-                  <Popover.Button className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
+                  <Popover.Button className="rounded-md p-2 inline-flex items-center justify-center text-stone-400 hover:text-stone-500 hover:bg-stone-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
                     <span className="sr-only">Close menu</span>
                     <CloseIcon className="h-6 w-6" aria-hidden="true" />
                   </Popover.Button>
@@ -76,7 +78,7 @@ const App = ({ Component, pageProps }: AppProps) => (
               <div className="px-2 pt-2 pb-3">
                 {navigation.map((item) => (
                   <Link key={item.name} href={item.href}>
-                    <span className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 cursor-pointer">
+                    <span className="block px-3 py-2 rounded-md text-base font-medium text-stone-700 dark:text-stone-400 hover:text-stone-900 dark:hover:text-stone-200 hover:bg-stone-50 dark:hover:bg-stone-700 cursor-pointer">
                       {item.name}
                     </span>
                   </Link>
@@ -91,7 +93,7 @@ const App = ({ Component, pageProps }: AppProps) => (
         <Component {...pageProps} />
       </main>
 
-      <footer className="container mx-auto px-4 sm:px-6 border-t border-stone-300 py-4 text-stone-500 flex justify-between">
+      <footer className="container mx-auto px-4 sm:px-6 border-t border-stone-300 dark:border-opacity-50 py-4 text-stone-500 flex justify-between">
         <span>2022, Jens Ochsenmeier</span>
         <a href="https://github.com/jens-ox/bundesdatenkrake" target="_blank">
           GitHub

@@ -21,7 +21,7 @@ const SourcesTable: React.FC<{
           accessor: (e) => e.name,
           Cell: ({ value, row }: CellProps<Source, Source['name']>) => (
             <Link href={`/source/${row.original.id}`}>
-              <div className="cursor-pointer text-indigo-600 underline">{value}</div>
+              <div className="cursor-pointer text-indigo-600 dark:text-indigo-400 underline">{value}</div>
             </Link>
           )
         },

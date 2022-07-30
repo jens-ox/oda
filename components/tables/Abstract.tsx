@@ -12,7 +12,7 @@ function GlobalFilter({ globalFilter, setGlobalFilter }: any) {
   return (
     <div className="flex items-center mb-2 pl-4">
       <label htmlFor="searchList">
-        <SearchIcon className="text-gray-400 mr-5" />
+        <SearchIcon className="text-stone-400 mr-5" />
       </label>
       <input
         type="text"
@@ -101,9 +101,17 @@ const AbstractTable: React.FC<{
                     ) : (
                       column.render('Header')
                     )}
-                    {column.isSorted && (
-                      <span className="ml-2">{column.isSortedDesc ? <ArrowDownIcon /> : <ArrowUpIcon />}</span>
-                    )}
+                    <span className="ml-2">
+                      {column.isSorted ? (
+                        column.isSortedDesc ? (
+                          <ArrowDownIcon />
+                        ) : (
+                          <ArrowUpIcon />
+                        )
+                      ) : (
+                        <ArrowUpIcon className="opacity-0" />
+                      )}
+                    </span>
                   </div>
                 </th>
               ))}
@@ -150,7 +158,7 @@ const AbstractTable: React.FC<{
               | Gehe zu Seite:{' '}
               <input
                 type="number"
-                className="small"
+                className="bg-transparent rounded border border-stone-400 px-2 py-1"
                 style={{ width: '4rem' }}
                 defaultValue={pageIndex + 1}
                 onChange={(e) => {
@@ -160,7 +168,7 @@ const AbstractTable: React.FC<{
               />
             </span>{' '}
             <select
-              className="small"
+              className="bg-transparent"
               value={pageSize}
               onChange={(e) => {
                 setPageSize(Number(e.target.value))

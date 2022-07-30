@@ -4,13 +4,13 @@
 
 /* Table styling */
 .table {
-  @apply bg-white rounded shadow;
+  @apply bg-white rounded shadow dark:bg-opacity-10;
 }
 .table thead {
   @apply rounded-t;
 }
 .table th {
-  @apply font-normal text-left px-4 py-2 text-gray-600 bg-gray-100;
+  @apply font-normal text-left px-4 py-2 text-stone-600 bg-stone-100 dark:bg-stone-800 dark:text-stone-50;
 }
 .table th:first-of-type {
   @apply rounded-l;
