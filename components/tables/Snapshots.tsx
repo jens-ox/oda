@@ -44,7 +44,7 @@ const SnapshotsTable: React.FC<{
     []
   )
 
-  return <AbstractTable columns={columns} data={tableData} />
+  return <AbstractTable columns={columns} data={tableData} withPagination />
 }
 
 export default SnapshotsTable

@@ -45,7 +45,7 @@ const SourcePage: NextPage<SourcePageProps> = ({ source, snapshots }) => {
       {source === null ? (
         <p>Quelle nicht gefunden</p>
       ) : (
-        <div className="flex flex-col gap-6">
+        <div className="flex flex-col gap-12">
           <div className="flex flex-col">
             <h1 className="font-serif font-medium text-5xl">{source.name}</h1>
             <small className="text-stone-600">{source.description}</small>
