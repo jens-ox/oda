@@ -34,11 +34,11 @@ const SourcesTable: React.FC<{
           accessor: (e) => e.office
         },
         {
-          Header: 'Quelle',
+          Header: '',
           id: 'source',
           accessor: (e) => e.url,
           Cell: ({ value }: CellProps<Source, Source['url']>) => (
-            <a target="_blank" href={value}>
+            <a target="_blank" href={value} className="flex justify-end">
               <LinkIcon />
             </a>
           )
