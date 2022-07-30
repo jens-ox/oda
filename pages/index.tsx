@@ -1,10 +1,10 @@
 import { Source } from '@prisma/client'
 import type { GetServerSideProps, NextPage } from 'next'
 import SourcesTable from '../components/tables/Sources'
-import PrismaClient from '../lib/prisma'
+import prisma from '../lib/prisma'
 
 export const getServerSideProps: GetServerSideProps<HomeProps> = async () => {
-  const data = await PrismaClient.source.findMany()
+  const data = await prisma.source.findMany()
 
   return {
     props: {
