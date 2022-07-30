@@ -4,7 +4,7 @@
 
 /* Table styling */
 .table {
-  @apply bg-white rounded;
+  @apply bg-white rounded shadow;
 }
 .table thead {
   @apply rounded-t;

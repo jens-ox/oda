@@ -114,7 +114,7 @@ const AbstractTable: React.FC<{
           {page.map((row) => {
             prepareRow(row)
             return (
-              <tr {...row.getRowProps()} className="border-b border-gray-300">
+              <tr {...row.getRowProps()}>
                 {row.cells.map((cell) => {
                   return <td {...cell.getCellProps()}>{cell.render('Cell')}</td>
                 })}

@@ -1,12 +1,9 @@
 import { LinkIcon } from '@iconicicons/react'
 import { Source } from '@prisma/client'
+import Link from 'next/link'
 import React, { useMemo } from 'react'
-import { Column } from 'react-table'
+import { CellProps, Column } from 'react-table'
 import AbstractTable from './Abstract'
-
-type Value<T> = {
-  value: T
-}
 
 const SourcesTable: React.FC<{
   sources: Array<Source>
@@ -19,7 +16,12 @@ const SourcesTable: React.FC<{
         {
           Header: 'Name',
           id: 'name',
-          accessor: (e) => e.name
+          accessor: (e) => e.name,
+          Cell: ({ value, row }: CellProps<Source, Source['name']>) => (
+            <Link href={`/source/${row.original.id}`}>
+              <div className="cursor-pointer text-indigo-600 underline">{value}</div>
+            </Link>
+          )
         },
         {
           Header: 'Beschreibung',
@@ -35,7 +37,7 @@ const SourcesTable: React.FC<{
           Header: 'Quelle',
           id: 'source',
           accessor: (e) => e.url,
-          Cell: ({ value }: Value<Source['url']>) => (
+          Cell: ({ value }: CellProps<Source, Source['url']>) => (
             <a target="_blank" href={value}>
               <LinkIcon />
             </a>
