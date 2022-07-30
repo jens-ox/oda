@@ -1,6 +1,6 @@
 import axios from 'axios'
-import { formatISO, parse } from 'date-fns'
 import Papa from 'papaparse'
+import germanDateToString from '../../utils/germanDateToString'
 import { Exporter } from '../types/exporter'
 
 interface Entity {
@@ -26,7 +26,7 @@ const BafinExporter: Exporter<Array<BafinResult>> = async () => {
   )
   const stuff = Papa.parse<Array<string>>(data).data.map((e) => {
     return {
-      veroeffentlichung: e[9] ? formatISO(parse(e[9], 'dd.MM.yyyy', new Date()), { format: 'basic' }) : undefined,
+      veroeffentlichung: germanDateToString(e[9]),
       emittent: {
         name: e[0],
         sitz: e[1],

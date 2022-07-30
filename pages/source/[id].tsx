@@ -47,7 +47,7 @@ const SourcePage: NextPage<SourcePageProps> = ({ source, snapshots }) => {
       ) : (
         <div className="flex flex-col gap-12">
           <div className="flex flex-col">
-            <h1 className="font-serif font-medium text-5xl">{source.name}</h1>
+            <h1 className="font-serif font-medium text-5xl mb-4">{source.name}</h1>
             <small className="text-stone-600">{source.description}</small>
             <small className="text-stone-600">
               —{' '}
