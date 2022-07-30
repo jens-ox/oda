@@ -19,3 +19,9 @@ See the [deployed Swagger docs](https://bundesdatenkrake.vercel.app/swagger).
 * `BUCKET`: name of a S3 Bucket for storing data snapshots
 * `ACCESS_KEY`: AWS IAM access key ID. Needs to have `read` and `write` permission to your S3 bucket.
 * `ACCESS_KEY_SECRET`: AWS IAM access key secret.
+
+## Adding exporters
+
+1. Create an exporter in `/crawl/exporters/my-exporter.ts`.
+2. Create a new entry in the `Source` table of your database.
+3. Add the exporter to `/crawl/exporters/index.ts` using the ID you chose when adding the source to the database.
