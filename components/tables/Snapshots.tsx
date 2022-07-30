@@ -5,6 +5,8 @@ import { SerializedSnapshot } from '../../types'
 import { formatDate } from '../../utils/format'
 import AbstractTable from './Abstract'
 
+const sizeFormatter = new Intl.NumberFormat('de-DE', { unit: 'kilobyte' })
+
 const SnapshotsTable: React.FC<{
   snapshots: Array<SerializedSnapshot>
 }> = ({ snapshots }) => {
@@ -25,6 +27,14 @@ const SnapshotsTable: React.FC<{
           accessor: (e) => e.md5,
           Cell: ({ value }: CellProps<SerializedSnapshot, SerializedSnapshot['md5']>) => (
             <span className="font-mono text-sm">{value}</span>
+          )
+        },
+        {
+          Header: 'Größe',
+          id: 'size',
+          accessor: (e) => e.size,
+          Cell: ({ value }: CellProps<SerializedSnapshot, SerializedSnapshot['size']>) => (
+            <span>{value ? sizeFormatter.format(value) : '-'}</span>
           )
         },
         {
