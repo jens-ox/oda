@@ -2,9 +2,8 @@ import { DownloadIcon } from '@iconicicons/react'
 import React, { useMemo } from 'react'
 import { CellProps, Column } from 'react-table'
 import { SerializedSnapshot } from '../../types'
+import { formatDate } from '../../utils/format'
 import AbstractTable from './Abstract'
-
-const formatDate = new Intl.DateTimeFormat('de-DE', { dateStyle: 'short', timeStyle: 'short' })
 
 const SnapshotsTable: React.FC<{
   snapshots: Array<SerializedSnapshot>
@@ -18,9 +17,7 @@ const SnapshotsTable: React.FC<{
           Header: 'Datum',
           id: 'date',
           accessor: (e) => new Date(e.createdAt),
-          Cell: ({ value }: CellProps<SerializedSnapshot, SerializedSnapshot['createdAt']>) => (
-            <span>{formatDate.format(new Date(value))}</span>
-          )
+          Cell: ({ value }: CellProps<SerializedSnapshot, Date>) => <span>{formatDate(value)}</span>
         },
         {
           Header: 'MD5',

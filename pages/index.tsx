@@ -1,20 +1,32 @@
-import { Source } from '@prisma/client'
 import type { GetServerSideProps, NextPage } from 'next'
 import SourcesTable from '../components/tables/Sources'
 import prisma from '../lib/prisma'
+import { SourceWithSnapshot } from '../types'
+
+interface HomeProps {
+  sources: Array<SourceWithSnapshot>
+}
 
 export const getServerSideProps: GetServerSideProps<HomeProps> = async () => {
-  const data = await prisma.source.findMany()
+  const data = await prisma.source.findMany({
+    include: {
+      snapshots: {
+        orderBy: {
+          createdAt: 'desc'
+        },
+        take: 1
+      }
+    }
+  })
 
   return {
     props: {
-      sources: data
+      sources: data.map((s) => ({
+        ...s,
+        snapshots: s.snapshots.map((snap) => ({ ...snap, createdAt: snap.createdAt.toString() }))
+      }))
     }
   }
-}
-
-interface HomeProps {
-  sources: Array<Source>
 }
 
 const Home: NextPage<HomeProps> = ({ sources }) => {
