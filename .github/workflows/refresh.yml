@@ -17,6 +17,8 @@ jobs:
           node-version: 16
           cache: 'pnpm'
       - run: pnpm install --frozen-lockfile
+      - name: Initialize Prisma
+        run: pnpx prisma generate
       - name: Refresh list
         run: pnpm crawl
         env:
