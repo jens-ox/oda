@@ -1,10 +1,10 @@
-import { ReactNode } from 'react'
+import BafinStimmrechte from './bafin-stimmrechte/Component'
 
-interface VisualizationSource {
-  id: string
-  visualization: ReactNode
-}
-
-const visualizationSources: Array<VisualizationSource> = []
+const visualizationSources = [
+  {
+    id: 'bafin-stimmrechte',
+    Component: BafinStimmrechte
+  }
+]
 
 export default visualizationSources

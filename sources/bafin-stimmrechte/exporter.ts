@@ -2,23 +2,7 @@ import axios from 'axios'
 import Papa from 'papaparse'
 import { Exporter } from '../../types/exporter'
 import germanDateToString from '../../utils/germanDateToString'
-
-interface Entity {
-  name: string
-  sitz: string
-  land: string
-}
-
-interface BafinResult {
-  veroeffentlichung?: string
-  emittent: Entity
-  meldepflichtiger: Entity
-  stimmrechtsanteile: {
-    gesamt?: number
-    instrumente?: number
-    summe?: number
-  }
-}
+import { BafinResult } from './types'
 
 const BafinExporter: Exporter<Array<BafinResult>> = async () => {
   const { data } = await axios.get(

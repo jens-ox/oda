@@ -27,7 +27,7 @@ export const getServerSideProps: GetServerSideProps<SnapshotPageProps> = async (
 
   // check if a visualization exists for the sourceId
   const hasVisualization =
-    typeof visualizationSources.find((s) => s.id === snapshot.sourceId)?.visualization !== 'undefined'
+    typeof visualizationSources.find((s) => s.id === snapshot.sourceId)?.Component !== 'undefined'
 
   const data = hasVisualization ? await download(snapshot.md5) : null
 
@@ -43,8 +43,8 @@ export const getServerSideProps: GetServerSideProps<SnapshotPageProps> = async (
 }
 
 const SnapshotPage: NextPage<SnapshotPageProps> = ({ snapshot, data }) => {
-  const visualization = visualizationSources.find((s) => s.id === snapshot?.sourceId)?.visualization
-  const hasVisualization = typeof visualization !== 'undefined'
+  const Component = visualizationSources.find((s) => s.id === snapshot?.sourceId)?.Component
+  const hasVisualization = typeof Component !== 'undefined'
 
   return (
     <div>
@@ -54,7 +54,9 @@ const SnapshotPage: NextPage<SnapshotPageProps> = ({ snapshot, data }) => {
         <div className="flex flex-col gap-12">
           <h1 className="font-serif font-medium text-5xl">Snapshot {snapshot.md5}</h1>
           {hasVisualization ? (
-            <div>{visualization}</div>
+            <div>
+              <Component data={data as any} />
+            </div>
           ) : (
             <p>Für Snapshots dieser Quelle existiert keine Visualisierung.</p>
           )}
