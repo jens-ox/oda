@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "crawl": "ts-node --project tsconfig-crawl.json crawl/index.ts"
+    "crawl": "ts-node --project tsconfig-crawl.json crawl/index.ts",
+    "crawl:dry": "DRY_RUN=1 pnpm crawl"
   },
   "author": "Jens Ochsenmeier <github@jens-ox.de>",
   "license": "MIT",

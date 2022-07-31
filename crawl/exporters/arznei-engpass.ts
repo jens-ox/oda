@@ -33,12 +33,10 @@ const ArzneiEngpassExporter: Exporter<Array<ArzneiEngpassResult>> = async () => 
   await page.goto('https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml')
 
   // select everything
-  console.log('selecting all')
   await Promise.all([
     page.selectOption('#meldungenForm\\:le_table-nb__xc_c', 'all'),
     page.waitForResponse((resp) => resp.url().includes('/meldungen.xhtml') && resp.status() === 200)
   ])
-  console.log('navigation complete, clicking download button')
 
   await page.waitForTimeout(2000)
 
@@ -49,8 +47,6 @@ const ArzneiEngpassExporter: Exporter<Array<ArzneiEngpassResult>> = async () => 
     // Triggers the download.
     page.locator('text=Als CSV Speichern').click()
   ])
-
-  console.log('download complete')
 
   const downloadStream = await download.createReadStream()
 

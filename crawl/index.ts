@@ -19,6 +19,12 @@ const main = async () =>
         where: { sourceId: e.sourceId },
         orderBy: [{ createdAt: 'desc' }]
       })
+
+      if (process.env.DRY_RUN) {
+        console.log(`dry-run: ${e.sourceId}, hash ${dataMd5}, size ${size} kB`)
+        return
+      }
+
       if (currentEntry === null || currentEntry.md5 !== dataMd5) {
         // upload to AWS
         await upload(dataMd5, dataString)

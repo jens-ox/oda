@@ -93,7 +93,7 @@ const App = ({ Component, pageProps }: AppProps) => (
         <Component {...pageProps} />
       </main>
 
-      <footer className="container mx-auto px-4 sm:px-6 border-t border-stone-300 dark:border-opacity-50 py-4 text-stone-500 flex justify-between">
+      <footer className="container mx-auto mt-12 px-4 sm:px-6 border-t border-stone-300 dark:border-opacity-50 py-4 text-stone-500 flex justify-between">
         <span>2022, Jens Ochsenmeier</span>
         <a href="https://github.com/jens-ox/bundesdatenkrake" target="_blank">
           GitHub
