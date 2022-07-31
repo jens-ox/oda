@@ -19,12 +19,14 @@ const SnapshotsTable: React.FC<{
         {
           Header: 'Datum',
           id: 'date',
+          width: 10,
           accessor: (e) => new Date(e.createdAt),
           Cell: ({ value }: CellProps<SerializedSnapshot, Date>) => <span>{formatDate(value)}</span>
         },
         {
           Header: 'MD5',
           id: 'md5',
+          width: 40,
           accessor: (e) => e.md5,
           Cell: ({ value, row }: CellProps<SerializedSnapshot, SerializedSnapshot['md5']>) => (
             <Link href={`/snapshot/${row.original.id}`}>
@@ -35,6 +37,7 @@ const SnapshotsTable: React.FC<{
         {
           Header: 'Größe',
           id: 'size',
+          width: 5,
           accessor: (e) => e.size,
           Cell: ({ value }: CellProps<SerializedSnapshot, SerializedSnapshot['size']>) => (
             <span>{value ? sizeFormatter.format(value) : '-'}</span>
@@ -43,6 +46,7 @@ const SnapshotsTable: React.FC<{
         {
           Header: '',
           id: 'download',
+          width: 5,
           accessor: (e) => e.md5,
           Cell: ({ value }: CellProps<SerializedSnapshot, SerializedSnapshot['md5']>) => (
             <a href={`/api/snapshot/${value}`} target="_blank" className="flex justify-end">

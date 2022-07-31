@@ -1,6 +1,6 @@
 import { ArrowDownIcon, ArrowUpIcon, ChevronLeftIcon, ChevronRightIcon, SearchIcon } from '@iconicicons/react'
 import React, { useMemo, useState } from 'react'
-import { Row, useGlobalFilter, usePagination, useSortBy, useTable, Column } from 'react-table'
+import { Row, useGlobalFilter, usePagination, useSortBy, useTable, Column, useFlexLayout } from 'react-table'
 import DoubleChevronLeft from '../icons/DoubleChevronLeft'
 import DoubleChevronRight from '../icons/DoubleChevronRight'
 
@@ -83,7 +83,8 @@ const AbstractTable: React.FC<{
     { columns, data, sortTypes, initialState: { pageIndex: 0, pageSize: withPagination ? 10 : 10000 } },
     useGlobalFilter,
     useSortBy,
-    usePagination
+    usePagination,
+    useFlexLayout
   )
 
   return (

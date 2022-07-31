@@ -18,6 +18,7 @@ const SourcesTable: React.FC<{
         {
           Header: 'Name',
           id: 'name',
+          width: 20,
           accessor: (e) => e.name,
           Cell: ({ value, row }: CellProps<Source, Source['name']>) => (
             <Link href={`/source/${row.original.id}`}>
@@ -28,22 +29,26 @@ const SourcesTable: React.FC<{
         {
           Header: 'Letzte Änderung',
           id: 'changedAt',
+          width: 15,
           accessor: (e) => new Date(e.snapshots[0].createdAt),
           Cell: ({ value }: CellProps<SourceWithSnapshot, Date>) => <span>{formatDate(value)}</span>
         },
         {
           Header: 'Beschreibung',
           id: 'description',
+          width: 35,
           accessor: (e) => e.description
         },
         {
           Header: 'Stelle',
           id: 'office',
+          width: 25,
           accessor: (e) => e.office
         },
         {
           Header: '',
           id: 'source',
+          width: 5,
           accessor: (e) => e.url,
           Cell: ({ value }: CellProps<Source, Source['url']>) => (
             <a target="_blank" href={value} className="flex justify-end">
