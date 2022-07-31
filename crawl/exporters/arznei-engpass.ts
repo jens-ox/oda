@@ -40,10 +40,7 @@ const ArzneiEngpassExporter: Exporter<Array<ArzneiEngpassResult>> = async () => 
   ])
   console.log('navigation complete, clicking download button')
 
-  await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight))
-
-  await page.waitForTimeout(500)
-  console.log('scrolled to bottom')
+  await page.waitForTimeout(2000)
 
   // click download CSV button
   const [download] = await Promise.all([
