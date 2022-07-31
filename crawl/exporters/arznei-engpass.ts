@@ -27,7 +27,7 @@ interface ArzneiEngpassResult {
 }
 
 const ArzneiEngpassExporter: Exporter<Array<ArzneiEngpassResult>> = async () => {
-  const browser = await playwright.chromium.launch({ headless: process.env.NODE_ENV === 'production' })
+  const browser = await playwright.chromium.launch({ headless: typeof process.env.CI !== 'undefined' })
   const page = await browser.newPage()
 
   await page.goto('https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml')
