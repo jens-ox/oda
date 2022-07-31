@@ -1,8 +1,8 @@
 import Papa from 'papaparse'
 import playwright from 'playwright'
+import { Exporter } from '../../types/exporter'
 import germanDateToString from '../../utils/germanDateToString'
 import streamToString from '../../utils/streamToString'
-import { Exporter } from '../types/exporter'
 
 interface ArzneiEngpassResult {
   pzn: Array<string>

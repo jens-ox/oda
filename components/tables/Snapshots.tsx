@@ -1,11 +1,12 @@
 import { DownloadIcon } from '@iconicicons/react'
+import Link from 'next/link'
 import React, { useMemo } from 'react'
 import { CellProps, Column } from 'react-table'
 import { SerializedSnapshot } from '../../types'
 import { formatDate } from '../../utils/format'
 import AbstractTable from './Abstract'
 
-const sizeFormatter = new Intl.NumberFormat('de-DE', { unit: 'kilobyte' })
+const sizeFormatter = new Intl.NumberFormat('de-DE', { style: 'unit', unit: 'kilobyte' })
 
 const SnapshotsTable: React.FC<{
   snapshots: Array<SerializedSnapshot>
@@ -25,8 +26,10 @@ const SnapshotsTable: React.FC<{
           Header: 'MD5',
           id: 'md5',
           accessor: (e) => e.md5,
-          Cell: ({ value }: CellProps<SerializedSnapshot, SerializedSnapshot['md5']>) => (
-            <span className="font-mono text-sm">{value}</span>
+          Cell: ({ value, row }: CellProps<SerializedSnapshot, SerializedSnapshot['md5']>) => (
+            <Link href={`/snapshot/${row.original.id}`}>
+              <div className="cursor-pointer text-indigo-600 dark:text-indigo-400 underline font-mono">{value}</div>
+            </Link>
           )
         },
         {

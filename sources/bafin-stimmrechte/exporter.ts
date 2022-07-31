@@ -1,7 +1,7 @@
 import axios from 'axios'
 import Papa from 'papaparse'
+import { Exporter } from '../../types/exporter'
 import germanDateToString from '../../utils/germanDateToString'
-import { Exporter } from '../types/exporter'
 
 interface Entity {
   name: string

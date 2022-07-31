@@ -3,12 +3,12 @@ import { createHash } from 'crypto'
 import prisma from '../lib/prisma'
 import { upload } from '../lib/aws'
 import { compress } from '../lib/compress'
-import exporters from './exporters'
+import exporterSources from '../sources/exporters'
 
 const main = async () =>
   Promise.all(
-    exporters.map(async (e) => {
-      const data = await e.exporter()
+    exporterSources.map(async (s) => {
+      const data = await s.exporter()
       const { data: dataString, size } = await compress(data)
 
       // stringify and md5
@@ -16,12 +16,12 @@ const main = async () =>
 
       // check if md5 matches current version -- if not, insert
       const currentEntry = await prisma.snapshot.findFirst({
-        where: { sourceId: e.sourceId },
+        where: { sourceId: s.id },
         orderBy: [{ createdAt: 'desc' }]
       })
 
       if (process.env.DRY_RUN) {
-        console.log(`dry-run: ${e.sourceId}, hash ${dataMd5}, size ${size} kB`)
+        console.log(`dry-run: ${s.id}, hash ${dataMd5}, size ${size} kB`)
         return
       }
 
@@ -34,7 +34,7 @@ const main = async () =>
           data: {
             md5: dataMd5,
             createdAt: new Date(),
-            sourceId: e.sourceId,
+            sourceId: s.id,
             size
           }
         })
