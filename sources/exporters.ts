@@ -1,6 +1,7 @@
 import { Exporter } from '../types/exporter'
 import BafinExporter from './bafin-stimmrechte/exporter'
 import ArzneiEngpassExporter from './bfg-lieferengpass/exporter'
+import { GVExporter } from './destatis-gemeindeverzeichnis/exporter'
 
 interface ExporterSource {
   id: string
@@ -15,6 +16,10 @@ const exporterSources: Array<ExporterSource> = [
   {
     id: 'bfg-lieferengpass',
     exporter: ArzneiEngpassExporter
+  },
+  {
+    id: 'destatis-gemeindeverzeichnis',
+    exporter: GVExporter
   }
 ]
 
