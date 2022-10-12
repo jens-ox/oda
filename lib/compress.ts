@@ -21,7 +21,7 @@ export const compress = async (data: unknown): Promise<CompressResult> =>
     })
   })
 
-export const decompress = async (data?: string): Promise<unknown> =>
+export const decompress = async (data?: string): Promise<string> =>
   new Promise((resolve, reject) => {
     if (!data) {
       return resolve('')
@@ -32,6 +32,6 @@ export const decompress = async (data?: string): Promise<unknown> =>
         return reject(error)
       }
 
-      resolve(JSON.parse(unzipped.toString()))
+      resolve(unzipped.toString())
     })
   })

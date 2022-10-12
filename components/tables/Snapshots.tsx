@@ -49,7 +49,7 @@ const SnapshotsTable: React.FC<{
           width: 5,
           accessor: (e) => e.md5,
           Cell: ({ value }: CellProps<SerializedSnapshot, SerializedSnapshot['md5']>) => (
-            <a href={`/api/snapshot/${value}`} target="_blank" className="flex justify-end">
+            <a href={`/api/snapshot/${value}?asFile=true`} className="flex justify-end">
               <DownloadIcon />
             </a>
           )

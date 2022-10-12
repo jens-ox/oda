@@ -24,12 +24,12 @@ export const upload = async (md5: string, content: string): Promise<void> => {
   await s3.send(command)
 }
 
-export const download = async (md5: string): Promise<unknown> => {
+export const download = async (md5: string): Promise<string> => {
   const command = new GetObjectCommand({ Bucket: process.env.BUCKET, Key: md5 })
 
   const rawData = await s3.send(command)
 
-  if (!rawData.Body) return null
+  if (!rawData.Body) return ''
   const data = await streamToString(rawData.Body)
 
   // extract
