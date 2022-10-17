@@ -3,10 +3,15 @@ import playwright from 'playwright'
 import unzip from 'unzip-stream'
 import { Exporter } from '../../types/exporter'
 import streamToString from '../../utils/streamToString'
-import { parseLine } from './parseLine'
+import { EntryType, Gemeinde, Gemeindeverband, Kreis, Land, parseLine, Regierungsbezirk, Region } from './parseLine'
 
-interface Gemeinde {
-  name: string
+type Result = {
+  land: Array<Land>
+  regierungsbezirk: Array<Regierungsbezirk>
+  region: Array<Region>
+  kreis: Array<Kreis>
+  gemeindeverband: Array<Gemeindeverband>
+  gemeinde: Array<Gemeinde>
 }
 
 const parseDownloadStream = async (downloadStream: Readable): Promise<string> =>
@@ -21,39 +26,56 @@ const parseDownloadStream = async (downloadStream: Readable): Promise<string> =>
     })
   })
 
-const parseRawDownload = (content: string): Array<Gemeinde> => content.split('\n').map(parseLine)
+const parseRawDownload = (content: string) =>
+  content
+    .split('\n')
+    .map(parseLine)
+    .reduce((acc, e) => {
+      if (e === null) return acc
+      const entryType: EntryType = e.type
 
-export const GVExporter: Exporter<Array<Gemeinde>> = async () => {
-  const browser = await playwright.chromium.launch({ headless: typeof process.env.CI !== 'undefined' })
-  const page = await browser.newPage()
+      // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+      // @ts-ignore
+      acc[entryType] = [...(acc[entryType] ?? []), e]
 
-  await page.goto('https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html')
+      return acc
+    }, {} as Result)
 
-  // close cookie banner
-  await page.locator('div[role="dialog"] >> text=Schließen').click()
+export const GVExporter: Exporter<Result, null, null> = {
+  result: async () => {
+    const browser = await playwright.chromium.launch({ headless: typeof process.env.CI !== 'undefined' })
+    const page = await browser.newPage()
 
-  // open regionale gliederung
-  await page.locator('button >> text=Regionale Gliederung').first().click()
+    await page.goto('https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html')
 
-  // click first download link, which is most recent visible
-  await page.locator('.RichTextIntLink.Publication.FTzip:visible').first().click()
+    // close cookie banner
+    await page.locator('div[role="dialog"] >> text=Schließen').click()
 
-  // on new page, click download zip
-  const [download] = await Promise.all([
-    // It is important to call waitForEvent before click to set up waiting.
-    page.waitForEvent('download'),
-    // Triggers the download.
-    page.locator('.downloadLink').click()
-  ])
+    // open regionale gliederung
+    await page.locator('button >> text=Regionale Gliederung').first().click()
 
-  const downloadStream = await download.createReadStream()
-  downloadStream?.on('end', () => browser.close())
+    // click first download link, which is most recent visible
+    await page.locator('.RichTextIntLink.Publication.FTzip:visible').first().click()
 
-  if (downloadStream === null) {
-    throw new Error('could not set up download stream')
-  }
+    // on new page, click download zip
+    const [download] = await Promise.all([
+      // It is important to call waitForEvent before click to set up waiting.
+      page.waitForEvent('download'),
+      // Triggers the download.
+      page.locator('.downloadLink').click()
+    ])
 
-  const content = await parseDownloadStream(downloadStream)
+    const downloadStream = await download.createReadStream()
+    downloadStream?.on('end', () => browser.close())
 
-  return parseRawDownload(content).filter((e) => e !== null)
+    if (downloadStream === null) {
+      throw new Error('could not set up download stream')
+    }
+
+    const content = await parseDownloadStream(downloadStream)
+
+    return parseRawDownload(content)
+  },
+  diff: () => null,
+  digest: () => null
 }

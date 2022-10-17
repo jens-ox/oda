@@ -1,11 +1,13 @@
+export type EntryType = 'land' | 'regierungsbezirk' | 'region' | 'kreis' | 'gemeindeverband' | 'gemeinde'
+
 type Entry = {
-  type: 'land' | 'regierungsbezirk' | 'region' | 'kreis' | 'gemeindeverband' | 'gemeinde'
+  type: EntryType
   date: string
   name: string
   interneAngaben?: string
 }
 
-type Land = Entry & {
+export type Land = Entry & {
   landSchluessel: number
   sitzLandesregierung: string
 }
@@ -37,7 +39,7 @@ const parseLand = (l: string): Land => {
   }
 }
 
-type Regierungsbezirk = Entry & {
+export type Regierungsbezirk = Entry & {
   landSchluessel: number
   regierungsbezirkSchluessel: number
   sitzVerwaltung: string
@@ -71,7 +73,7 @@ const parseRegierungsbezirk = (l: string): Regierungsbezirk => {
   }
 }
 
-type Region = Entry & {
+export type Region = Entry & {
   landSchluessel: number
   regierungsbezirkSchluessel: number
   regionSchluessel: number
@@ -107,7 +109,7 @@ const parseRegion = (l: string): Region => {
   }
 }
 
-type Kreis = Entry & {
+export type Kreis = Entry & {
   landSchluessel: number
   regierungsbezirkSchluessel: number
   kreisSchluessel: number
@@ -153,7 +155,7 @@ const parseKreis = (l: string): Kreis => {
   }
 }
 
-type Gemeindeverband = Entry & {
+export type Gemeindeverband = Entry & {
   landSchluessel: number
   regierungsbezirkSchluessel: number
   kreisSchluessel: number
@@ -205,7 +207,7 @@ const parseGemeindeverband = (l: string): Gemeindeverband => {
   }
 }
 
-type Gemeinde = Entry & {
+export type Gemeinde = Entry & {
   landSchluessel: number
   regierungsbezirkSchluessel: number
   kreisSchluessel: number
@@ -294,9 +296,10 @@ const parseGemeinde = (l: string): Gemeinde => {
   }
 }
 
-export const parseLine = (l: string): any => {
+export const parseLine = (l: string): Land | Regierungsbezirk | Region | Kreis | Gemeindeverband | Gemeinde | null => {
   // get satzart
   const satzart = l.substring(0, 2).trim()
+
   switch (satzart) {
     case '10':
       return parseLand(l)

@@ -1,14 +1,8 @@
-import { Exporter } from '../types/exporter'
 import BafinExporter from './bafin-stimmrechte/exporter'
 import ArzneiEngpassExporter from './bfg-lieferengpass/exporter'
 import { GVExporter } from './destatis-gemeindeverzeichnis/exporter'
 
-interface ExporterSource {
-  id: string
-  exporter: Exporter
-}
-
-const exporterSources: Array<ExporterSource> = [
+const exporterSources = [
   {
     id: 'bafin-stimmrechte',
     exporter: BafinExporter
