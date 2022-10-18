@@ -1,10 +1,10 @@
 import { NextApiHandler } from 'next'
-import { download } from '../../../lib/aws'
+import { getLink } from '../../../lib/aws'
 
 const handler: NextApiHandler = async (req, res) => {
   const md5 = req.query.md5 as string
 
-  const url = await download(md5)
+  const url = await getLink(md5)
 
   if (url && url !== '') {
     res.redirect(url)

@@ -1,7 +1,7 @@
 import 'dotenv/config'
 import { createHash } from 'crypto'
 import prisma from '../lib/prisma'
-import { download, upload } from '../lib/aws'
+import { getData, upload } from '../lib/aws'
 import exporterSources from '../sources/exporters'
 
 const main = async () =>
@@ -22,7 +22,6 @@ const main = async () =>
 
       if (process.env.DRY_RUN) {
         console.log(`dry-run: ${s.id}, hash ${dataMd5}, size ${size} kB`)
-        return
       }
 
       if (recentVersion === null || recentVersion.md5 !== dataMd5) {
@@ -35,8 +34,8 @@ const main = async () =>
 
         // compute diff and digest
         if (recentVersion !== null) {
-          const previousContent = await download(recentVersion?.md5)
-          diff = s.exporter.diff(JSON.parse(previousContent), result as any)
+          const previousContent = await getData(recentVersion.md5)
+          diff = s.exporter.diff(previousContent as any, result as any)
           digest = s.exporter.digest(diff as any)
 
           // upload diff to db
@@ -44,6 +43,9 @@ const main = async () =>
         }
 
         // insert into db
+        if (process.env.DRY_RUN) {
+          console.log(`[dry]: would create snapshot db entry (${dataMd5}, source ${s.id})`)
+        }
         await prisma.snapshot.create({
           data: {
             md5: dataMd5,

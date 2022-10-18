@@ -1,6 +1,7 @@
+import { Readable } from 'stream'
 import { GetObjectCommand, PutObjectCommand, S3Client } from '@aws-sdk/client-s3'
-import { NextApiResponse } from 'next'
 import { getSignedUrl } from '@aws-sdk/s3-request-presigner'
+import streamToString from '../utils/streamToString'
 
 const s3 = new S3Client({
   region: 'eu-central-1',
@@ -8,16 +9,20 @@ const s3 = new S3Client({
 })
 
 export const upload = async (md5: string, content: string): Promise<void> => {
-  const command = new PutObjectCommand({
-    Bucket: process.env.BUCKET,
-    Key: md5,
-    Body: content
-  })
+  if (process.env.DRY_RUN) {
+    console.log(`[dry]: would upload ${md5} (${Math.floor(content.length / 1000)} kB)`)
+  } else {
+    const command = new PutObjectCommand({
+      Bucket: process.env.BUCKET,
+      Key: md5,
+      Body: content
+    })
 
-  await s3.send(command)
+    await s3.send(command)
+  }
 }
 
-export const download = async (md5: string): Promise<string> => {
+export const getLink = async (md5: string): Promise<string> => {
   const command = new GetObjectCommand({ Bucket: process.env.BUCKET, Key: md5 })
 
   // eslint-disable-next-line @typescript-eslint/ban-ts-comment
@@ -27,14 +32,15 @@ export const download = async (md5: string): Promise<string> => {
   return url
 }
 
-export const getStream = async (res: NextApiResponse<any>, md5: string): Promise<void> => {
+export const getData = async (md5: string): Promise<unknown> => {
   const command = new GetObjectCommand({ Bucket: process.env.BUCKET, Key: md5 })
 
   const rawData = await s3.send(command)
 
   if (!rawData.Body) {
-    res.status(404).json({ msg: 'not found' })
+    return null
   } else {
-    res.json(rawData.Body)
+    const content = await streamToString(rawData.Body as Readable)
+    return JSON.parse(content)
   }
 }
