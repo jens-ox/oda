@@ -1,5 +1,5 @@
 import { GetServerSideProps, NextPage } from 'next'
-import { download } from '../../lib/aws'
+import { getData } from '../../lib/aws'
 import prisma from '../../lib/prisma'
 import visualizationSources from '../../sources/visualizations'
 import { SerializedSnapshot } from '../../types'
@@ -29,7 +29,7 @@ export const getServerSideProps: GetServerSideProps<SnapshotPageProps> = async (
   const hasVisualization =
     typeof visualizationSources.find((s) => s.id === snapshot.sourceId)?.Component !== 'undefined'
 
-  const data = hasVisualization ? await download(snapshot.md5) : null
+  const data = hasVisualization ? await getData(snapshot.md5) : null
 
   return {
     props: {
