@@ -1,6 +1,7 @@
 import Papa from 'papaparse'
 import playwright from 'playwright'
 import { Exporter } from '../../types/exporter'
+import { diff, DiffResult } from '../../utils/diff'
 import germanDateToString from '../../utils/germanDateToString'
 import streamToString from '../../utils/streamToString'
 
@@ -26,7 +27,7 @@ interface ArzneiEngpassResult {
   infoFachkreise: string
 }
 
-const ArzneiEngpassExporter: Exporter<Array<ArzneiEngpassResult>, null, null> = {
+const ArzneiEngpassExporter: Exporter<Array<ArzneiEngpassResult>, DiffResult<ArzneiEngpassResult>, null> = {
   result: async () => {
     const browser = await playwright.chromium.launch({ headless: typeof process.env.CI !== 'undefined' })
     const page = await browser.newPage()
@@ -85,7 +86,10 @@ const ArzneiEngpassExporter: Exporter<Array<ArzneiEngpassResult>, null, null> = 
       infoFachkreise: e['Info an Fachkreise']
     }))
   },
-  diff: () => null,
+  diff: (oldData, newData) =>
+    diff<ArzneiEngpassResult>(oldData, newData, (entry) => {
+      return `${entry.enr}--${entry.datumErstmeldung}`
+    }),
   digest: () => null
 }
 
