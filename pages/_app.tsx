@@ -5,6 +5,8 @@ import { Popover, Transition } from '@headlessui/react'
 import { CloseIcon, MenuIcon } from '@iconicicons/react'
 import Link from 'next/link'
 import Head from 'next/head'
+import classNames from 'classnames'
+import { inter } from '../utils/fonts'
 
 const navigation = [
   { name: 'Start', href: '/' },
@@ -21,7 +23,7 @@ const App = ({ Component, pageProps }: AppProps) => (
         href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🦑</text></svg>"
       />
     </Head>
-    <div className="relative min-h-screen flex flex-col">
+    <div className={classNames(inter.className, 'relative min-h-screen flex flex-col')}>
       <Popover>
         <div className="container mx-auto px-4 sm:px-6 py-4">
           <nav className="relative flex items-center justify-between sm:h-10 md:justify-center" aria-label="Global">
@@ -95,7 +97,7 @@ const App = ({ Component, pageProps }: AppProps) => (
 
       <footer className="container mx-auto mt-12 px-4 sm:px-6 border-t border-stone-300 dark:border-opacity-50 py-4 text-stone-500 flex justify-between">
         <span>2022, Jens Ochsenmeier</span>
-        <a href="https://github.com/jens-ox/bundesdatenkrake" target="_blank">
+        <a href="https://github.com/jens-ox/bundesdatenkrake" target="_blank" rel="noreferrer">
           GitHub
         </a>
       </footer>

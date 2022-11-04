@@ -1,8 +1,10 @@
+import classNames from 'classnames'
 import { GetServerSideProps, NextPage } from 'next'
 import { getData } from '../../lib/aws'
 import prisma from '../../lib/prisma'
 import visualizationSources from '../../sources/visualizations'
 import { SerializedSnapshot } from '../../types'
+import { ebGaramond } from '../../utils/fonts'
 
 interface SnapshotPageProps {
   snapshot: SerializedSnapshot | null
@@ -52,7 +54,7 @@ const SnapshotPage: NextPage<SnapshotPageProps> = ({ snapshot, data }) => {
         <p>Snapshot nicht gefunden</p>
       ) : (
         <div className="flex flex-col gap-12">
-          <h1 className="font-serif font-medium text-5xl">Snapshot {snapshot.md5}</h1>
+          <h1 className={classNames(ebGaramond.className, 'font-medium text-5xl')}>Snapshot {snapshot.md5}</h1>
           {hasVisualization ? (
             <div>
               <Component data={data as any} />

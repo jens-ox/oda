@@ -1,7 +1,9 @@
+import classNames from 'classnames'
 import type { GetServerSideProps, NextPage } from 'next'
 import SourcesTable from '../components/tables/Sources'
 import prisma from '../lib/prisma'
 import { SourceWithSnapshot } from '../types'
+import { ebGaramond } from '../utils/fonts'
 
 interface HomeProps {
   sources: Array<SourceWithSnapshot>
@@ -33,7 +35,7 @@ const Home: NextPage<HomeProps> = ({ sources }) => {
   return (
     <div className="flex flex-col gap-16">
       <header>
-        <h1 className="font-serif text-5xl">Bundesdatenkrake</h1>
+        <h1 className={classNames(ebGaramond.className, 'text-5xl')}>Bundesdatenkrake</h1>
         <small className="text-stone-500">
           Extraktion, Versionierung und maschinenlesbare Bereitstellung öffentlicher Daten.
         </small>
