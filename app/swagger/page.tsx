@@ -1,3 +1,5 @@
+'use client'
+
 import dynamic from 'next/dynamic'
 import Spec from '../../public/openapi.json'
 import 'swagger-ui-react/swagger-ui.css'
