@@ -1,17 +1,16 @@
 import { Source } from '@prisma/client'
-import { GetServerSideProps, NextPage } from 'next'
-import SnapshotsTable from '../../components/tables/Snapshots'
-import prisma from '../../lib/prisma'
-import { SerializedSnapshot } from '../../types'
+import classNames from 'classnames'
+import SourceOverview from '../../../components/SourceOverview'
+import prisma from '../../../lib/prisma'
+import { SerializedSnapshot } from '../../../types'
+import { ebGaramond } from '../../../utils/fonts'
 
-interface SourcePageProps {
+interface SourceData {
   source: Source | null
   snapshots: Array<SerializedSnapshot> | null
 }
 
-export const getServerSideProps: GetServerSideProps<SourcePageProps> = async ({ params }) => {
-  const id = params?.id ?? 'unknown'
-
+const getData = async (id: string): Promise<SourceData> => {
   const data = await prisma.source.findFirst({
     where: {
       id: `${id}`
@@ -27,23 +26,26 @@ export const getServerSideProps: GetServerSideProps<SourcePageProps> = async ({ 
 
   if (data === null)
     return {
-      props: {
-        source: null,
-        snapshots: null
-      }
+      source: null,
+      snapshots: null
     }
 
   const { snapshots, ...source } = data
 
   return {
-    props: {
-      source,
-      snapshots: snapshots.map((s) => ({ ...s, createdAt: s.createdAt.toString() }))
-    }
+    source,
+    snapshots: snapshots.map((s) => ({ ...s, createdAt: s.createdAt.toString() }))
   }
 }
 
-const SourcePage: NextPage<SourcePageProps> = ({ source, snapshots }) => {
+interface SourcePageProps {
+  params: {
+    id: string
+  }
+}
+
+const SourcePage = async ({ params }: SourcePageProps) => {
+  const { source, snapshots } = await getData(params.id ?? 'unknown')
   return (
     <div>
       {source === null ? (
@@ -51,7 +53,7 @@ const SourcePage: NextPage<SourcePageProps> = ({ source, snapshots }) => {
       ) : (
         <div className="flex flex-col gap-12">
           <div className="flex flex-col">
-            <h1 className="font-serif font-medium text-5xl mb-4">{source.name}</h1>
+            <h1 className={classNames(ebGaramond.className, 'font-medium text-5xl mb-4')}>{source.name}</h1>
             <small className="text-stone-500">{source.description}</small>
             <small className="text-stone-500">
               —{' '}
@@ -60,7 +62,8 @@ const SourcePage: NextPage<SourcePageProps> = ({ source, snapshots }) => {
               </a>
             </small>
           </div>
-          {snapshots === null ? <p>Keine Snapshots gefunden</p> : <SnapshotsTable snapshots={snapshots} />}
+
+          <SourceOverview snapshots={snapshots} />
         </div>
       )}
     </div>

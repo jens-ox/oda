@@ -1,3 +1,5 @@
+'use client'
+
 import { ArrowDownIcon, ArrowUpIcon, ChevronLeftIcon, ChevronRightIcon, SearchIcon } from '@iconicicons/react'
 import React, { useMemo, useState } from 'react'
 import { Row, useGlobalFilter, usePagination, useSortBy, useTable, Column, useFlexLayout } from 'react-table'

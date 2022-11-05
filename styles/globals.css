@@ -19,18 +19,18 @@
   @apply rounded-r;
 }
 .table tr td {
-  @apply px-4 py-2;
-}
-.table tr:first-of-type td {
-  @apply pt-4;
+  @apply px-4 py-2 flex items-center;
 }
 
 /* Buttons */
 .button {
-  @apply flex items-center gap-1 rounded-full text-sm font-medium px-4 py-1 focus:outline-none hover:bg-black hover:bg-opacity-5;
+  @apply flex items-center gap-2 justify-center rounded text-sm font-medium px-4 py-1 focus:outline-none hover:bg-black hover:bg-opacity-5;
 }
 .button.primary {
   @apply bg-indigo-500 text-white hover:bg-indigo-400;
+}
+.button.secondary {
+  @apply bg-gray-200 hover:bg-gray-300;
 }
 .button.small {
   @apply text-xs;

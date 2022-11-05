@@ -1,3 +1,5 @@
+'use client'
+
 import { LinkIcon } from '@iconicicons/react'
 import { Source } from '@prisma/client'
 import Link from 'next/link'

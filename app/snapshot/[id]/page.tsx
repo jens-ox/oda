@@ -1,17 +1,16 @@
-import { GetServerSideProps, NextPage } from 'next'
-import { getData } from '../../lib/aws'
-import prisma from '../../lib/prisma'
-import visualizationSources from '../../sources/visualizations'
-import { SerializedSnapshot } from '../../types'
+import classNames from 'classnames'
+import { getData } from '../../../lib/aws'
+import prisma from '../../../lib/prisma'
+import visualizationSources from '../../../sources/visualizations'
+import { SerializedSnapshot } from '../../../types'
+import { ebGaramond } from '../../../utils/fonts'
 
-interface SnapshotPageProps {
+interface SnapshotData {
   snapshot: SerializedSnapshot | null
   data?: unknown
 }
 
-export const getServerSideProps: GetServerSideProps<SnapshotPageProps> = async ({ params }) => {
-  const id = params?.id ? parseInt(params.id as string) : -1
-
+const loadData = async (id: number): Promise<SnapshotData> => {
   const snapshot = await prisma.snapshot.findFirst({
     where: {
       id
@@ -20,9 +19,7 @@ export const getServerSideProps: GetServerSideProps<SnapshotPageProps> = async (
 
   if (snapshot === null)
     return {
-      props: {
-        snapshot: null
-      }
+      snapshot: null
     }
 
   // check if a visualization exists for the sourceId
@@ -32,17 +29,23 @@ export const getServerSideProps: GetServerSideProps<SnapshotPageProps> = async (
   const data = hasVisualization ? await getData(snapshot.md5) : null
 
   return {
-    props: {
-      snapshot: {
-        ...snapshot,
-        createdAt: snapshot?.createdAt.toString()
-      },
-      data
-    }
+    snapshot: {
+      ...snapshot,
+      createdAt: snapshot?.createdAt.toString()
+    },
+    data
   }
 }
 
-const SnapshotPage: NextPage<SnapshotPageProps> = ({ snapshot, data }) => {
+interface SnapshotPageProps {
+  params: {
+    id: string
+  }
+}
+
+const SnapshotPage = async ({ params }: SnapshotPageProps) => {
+  const id = parseInt(params.id ?? '-1')
+  const { snapshot, data } = await loadData(id)
   const Component = visualizationSources.find((s) => s.id === snapshot?.sourceId)?.Component
   const hasVisualization = typeof Component !== 'undefined'
 
@@ -52,7 +55,7 @@ const SnapshotPage: NextPage<SnapshotPageProps> = ({ snapshot, data }) => {
         <p>Snapshot nicht gefunden</p>
       ) : (
         <div className="flex flex-col gap-12">
-          <h1 className="font-serif font-medium text-5xl">Snapshot {snapshot.md5}</h1>
+          <h1 className={classNames(ebGaramond.className, 'font-medium text-5xl')}>Snapshot {snapshot.md5}</h1>
           {hasVisualization ? (
             <div>
               <Component data={data as any} />
