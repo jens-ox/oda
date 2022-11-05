@@ -1,3 +1,5 @@
+'use client'
+
 import { DownloadIcon } from '@iconicicons/react'
 import Link from 'next/link'
 import React, { useMemo } from 'react'
