@@ -1,0 +1,254 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://krake.dev/schemas/destatis-gemeindeverzeichnis.json",
+  "title": "gemeindeverzeichnis Destatis",
+  "$defs": {
+    "entry": {
+      "type": "object",
+      "required": [
+        "type",
+        "date",
+        "name"
+      ],
+      "properties": {
+        "type": {
+          "type": "string",
+          "description": "Eintragstyp",
+          "enum": ["land", "regierungsbezirk", "region", "kreis", "gemeindeverband", "gemeinde"]
+        },
+        "date": {
+          "type": "string",
+          "format": "date",
+          "description": "Datum der letzten Änderung"
+        },
+        "name": {
+          "type": "string",
+          "description": "Name des Eintrags"
+        },
+        "interneAngaben": {
+          "type": "string",
+          "description": "Interne Angaben zum Eintrag"
+        }
+      }
+    }
+  },
+  "type": "object",
+  "required": ["land", "regierungsbezirk", "region", "kreis", "gemeindeverband", "gemeinde"],
+  "properties": {
+    "land": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["landSchluessel", "sitzLandesregierung"],
+        "allOf": [{ "$ref": "#/defs/entry" }],
+        "properties": {
+          "landSchluessel": {
+            "type": "number",
+            "description": "ID des Landes"
+          },
+          "sitzLandesregierung": {
+            "type": "string",
+            "description": "Sitz der Landesregierung"
+          }
+        }
+      }
+    },
+    "regierungsbezirk": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["landSchluessel", "regierungsbezirkSchluessel", "sitzVerwaltung"],
+        "allOf": [{ "$ref": "#/defs/entry" }],
+        "properties": {
+          "landSchluessel": {
+            "type": "number",
+            "description": "ID des Landes"
+          },
+          "regierungsbezirkSchluessel": {
+            "type": "number",
+            "description": "ID des Regierungsbezirks"
+          },
+          "sitzVerwaltung": {
+            "type": "string",
+            "description": "Sitz der Verwaltung"
+          }
+        }
+      }
+    },
+    "region": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["landSchluessel", "regierungsbezirkSchluessel", "regionSchluessel", "sitzVerwaltung"],
+        "allOf": [{ "$ref": "#/defs/entry" }],
+        "properties": {
+          "landSchluessel": {
+            "type": "number",
+            "description": "ID des Landes"
+          },
+          "regierungsbezirkSchluessel": {
+            "type": "number",
+            "description": "ID des Regierungsbezirks"
+          },
+          "regionSchluessel": {
+            "type": "number",
+            "description": "ID der Region"
+          },
+          "sitzVerwaltung": {
+            "type": "string",
+            "description": "Sitz der Verwaltung"
+          }
+        }
+      }
+    },
+    "kreis": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["landSchluessel", "regierungsbezirkSchluessel", "kreisSchluessel", "sitzVerwaltung", "kreisTyp"],
+        "allOf": [{ "$ref": "#/defs/entry" }],
+        "properties": {
+          "landSchluessel": {
+            "type": "number",
+            "description": "ID des Landes"
+          },
+          "regierungsbezirkSchluessel": {
+            "type": "number",
+            "description": "ID des Regierungsbezirks"
+          },
+          "kreisSchluessel": {
+            "type": "number",
+            "description": "ID des Kreises"
+          },
+          "sitzVerwaltung": {
+            "type": "string",
+            "description": "Sitz der Verwaltung"
+          },
+          "kreisTyp": {
+            "type": "string",
+            "description": "Typ des Kreises",
+            "enum": ["kreisfreieStadt", "stadtkreis", "kreis", "landkreis", "regionalverband"]
+          }
+        }
+      }
+    },
+    "gemeindeverband": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["landSchluessel", "regierungsbezirkSchluessel", "kreisSchluessel", "gemeindeverbandSchluessel", "sitzVerwaltung", "gemeindeverbandTyp"],
+        "allOf": [{ "$ref": "#/defs/entry" }],
+        "properties": {
+          "landSchluessel": {
+            "type": "number",
+            "description": "ID des Landes"
+          },
+          "regierungsbezirkSchluessel": {
+            "type": "number",
+            "description": "ID des Regierungsbezirks"
+          },
+          "kreisSchluessel": {
+            "type": "number",
+            "description": "ID des Kreises"
+          },
+          "gemeindeverbandSchluessel": {
+            "type": "number",
+            "description": "ID des Gemeindeverbands"
+          },
+          "sitzVerwaltung": {
+            "type": "string",
+            "description": "Sitz der Verwaltung"
+          },
+          "gemeindeverbandTyp": {
+            "type": "string",
+            "description": "Typ des Gemeindeverbands",
+            "enum": ["verbandsfreieGemeinde", "amt", "samtgemeinde", "verbandsgemeinde", "verwaltungsgemeinschaft", "kirchspielslandgemeinde", "verwaltungsverband", "vgTraegermodell", "erfuellendeGemeinde"]
+          }
+        }
+      }
+    },
+    "gemeinde": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["landSchluessel", "regierungsbezirkSchluessel", "kreisSchluessel", "gemeindeverbandSchluessel", "gemeindeSchluessel", "gemeindeTyp", "flaecheHektar", "bevoelkerungInsgesamt", "bevoelkerungMaennlich", "plzVerwaltungssitz", "plzEindeutig", "bezirkFinanzamt", "bezirkAmtsgericht", "bezirkOberlandesgericht", "bezirkLandesgericht", "bezirkAmtsgericht", "bezirkArbeitsagentur", "bundestagswahlkreisVon", "bundestagswahlkreisBis"],
+        "allOf": [{ "$ref": "#/defs/entry" }],
+        "properties": {
+          "landSchluessel": {
+            "type": "number",
+            "description": "ID des Landes"
+          },
+          "regierungsbezirkSchluessel": {
+            "type": "number",
+            "description": "ID des Regierungsbezirks"
+          },
+          "kreisSchluessel": {
+            "type": "number",
+            "description": "ID des Kreises"
+          },
+          "gemeindeverbandSchluessel": {
+            "type": "number",
+            "description": "ID des Gemeindeverbands"
+          },
+          "gemeindeSchluessel": {
+            "type": "number",
+            "description": "ID der Gemeinde"
+          },
+          "gemeindeTyp": {
+            "type": "string",
+            "description": "Typ der Gemeinde",
+            "enum": ["markt", "kreisfreieStadt", "stadtkreis", "stadt", "kreisangehoerigeGemeinde", "gemeindefreiesGebietBewohnt", "gemeindefreiesGebietUnbewohnt", "grosseKreisstadt"]
+          },
+          "flaecheHektar": {
+            "type": "number",
+            "description": "Fläche in Hektar"
+          },
+          "bevoelkerungInsgesamt": {
+            "type": "number",
+            "description": "Bevölkerungszahl insgesamt"
+          },
+          "bevoelkerungMaennlich": {
+            "type": "number",
+            "description": "Männliche Bevölkerungszahl"
+          },
+          "plzVerwaltungssitz": {
+            "type": "string",
+            "description": "PLZ des Verwaltungssitzes"
+          },
+          "plzEindeutig": {
+            "type": "boolean",
+            "description": "Ist die PLZ eindeutig?"
+          },
+          "bezirkFinanzamt": {
+            "type": "number",
+            "description": "ID des zugehörigen Finanzamts"
+          },
+          "bezirkOberlandesgericht": {
+            "type": "number",
+            "description": "ID des zugehörigen Oberlandesgerichts"
+          },
+          "bezirkLandesgericht": {
+            "type": "number",
+            "description": "ID des zugehörigen Landesgerichts"
+          },
+          "bezirkAmtsgericht": {
+            "type": "number",
+            "description": "ID des zugehörigen Amtsgerichts"
+          },
+          "bezirkArbeitsagentur": {
+            "type": "number",
+            "description": "ID der zugehörigen Arbeitsagentur"
+          },
+          "bundestagswahlkreisVon": {
+            "type": "number",
+            "description": "ID des ersten zugehörigen Bundestagswahlkreises"
+          },
+          "bundestagswahlkreisBis": {
+            "type": "number",
+            "description": "ID des letzten zugehörigen Bundestagswahlkreises"
+          }
+        }
+      }
+    }
+  }
+}
