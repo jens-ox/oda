@@ -82,6 +82,10 @@
                 "items": {
                   "$ref": "#/components/schemas/Snapshot"
                 }
+              },
+              "schema": {
+                "type": "string",
+                "description": "Link zum JSON-Schema der Snapshots"
               }
             }
           }

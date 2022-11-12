@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://krake.dev/schemas/bafin-stimmrechte.json",
+  "title": "Stimmrechte BaFin",
+  "$defs": {
+    "entity": {
+      "type": "object",
+      "description": "Emittent oder Meldepflichtiger",
+      "required": [
+        "name",
+        "sitz",
+        "land"
+      ],
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Name der Entität"
+        },
+        "sitz": {
+          "type": "string",
+          "description": "Sitz der Entität"
+        },
+        "land": {
+          "type": "string",
+          "description": "Land des Sitzes der Entiät"
+        }
+      }
+    }
+  },
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "emittent",
+      "meldepflichtiger",
+      "stimmrechtsanteile"
+    ],
+    "properties": {
+      "veroeffentlichung": {
+        "type": "string",
+        "description": "Veröffentlichungsdatum",
+        "format": "date"
+      },
+      "emittent": {
+        "$ref": "#/$defs/entity"
+      },
+      "meldepflichtiger": {
+        "$ref": "#/$defs/entity"
+      },
+      "stimmrechtsanteile": {
+        "type": "object",
+        "properties": {
+          "gesamt": {
+            "type": "number",
+            "description": "Gesamtanteile nach §§ 33, 34 WpHG"
+          },
+          "instrumente": {
+            "type": "number",
+            "description": "Instrumente nach § 38 WpHG"
+          },
+          "summe": {
+            "type": "number",
+            "description": "Summe nach § 39 WpHG"
+          }
+        }
+      }
+    }
+  }
+}

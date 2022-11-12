@@ -1,7 +1,6 @@
 'use client'
 
 import { DownloadIcon } from '@iconicicons/react'
-import Link from 'next/link'
 import React, { useMemo } from 'react'
 import { CellProps, Column } from 'react-table'
 import { SerializedSnapshot } from '../../types'
@@ -30,10 +29,8 @@ const SnapshotsTable: React.FC<{
           id: 'md5',
           width: 40,
           accessor: (e) => e.md5,
-          Cell: ({ value, row }: CellProps<SerializedSnapshot, SerializedSnapshot['md5']>) => (
-            <Link href={`/snapshot/${row.original.id}`}>
-              <div className="cursor-pointer text-indigo-600 dark:text-indigo-400 underline font-mono">{value}</div>
-            </Link>
+          Cell: ({ value }: CellProps<SerializedSnapshot, SerializedSnapshot['md5']>) => (
+            <div className="text-xs font-mono">{value}</div>
           )
         },
         {
@@ -51,9 +48,11 @@ const SnapshotsTable: React.FC<{
           width: 5,
           accessor: (e) => e.md5,
           Cell: ({ value }: CellProps<SerializedSnapshot, SerializedSnapshot['md5']>) => (
-            <a href={`/api/snapshot/${value}`} className="flex justify-end">
-              <DownloadIcon />
-            </a>
+            <div className="flex w-full justify-end">
+              <a href={`/api/snapshot/${value}`}>
+                <DownloadIcon />
+              </a>
+            </div>
           )
         }
       ] as Array<Column<SerializedSnapshot>>,

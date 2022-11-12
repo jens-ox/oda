@@ -14,7 +14,7 @@ const handler: NextApiHandler = async (req, res) => {
     }
   })
 
-  res.status(200).json(sourceData)
+  res.status(200).json({ ...sourceData, schema: `/schemas/${id}.json` })
 }
 
 export default handler
