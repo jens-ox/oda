@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://krake.dev/schemas/bfg-lieferengpass.json",
+  "title": "Lieferengpässe BFG",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "pzn", "enr", "meldungsart", "bezeichnung", "atcCode", "wirkstoffe", "krankenhausrelevant", "zulassungsinhaber", "telefon", "mail", "grund", "grundArt", "infoFachkreise"
+    ],
+    "properties": {
+      "pzn": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Pharmazentralnummer (PZN) der betroffenen Präparate"
+      },
+      "enr": {
+        "type": "string",
+        "description": "Eingangsnummer"
+      },
+      "meldungsart": {
+        "type": "string",
+        "enum": ["Erstmeldung", "Änderungsmeldung", "Löschmeldung"],
+        "description": "Meldungsart"
+      },
+      "datumBeginn": {
+        "type": "string",
+        "format": "date",
+        "description": "Datum Beginn"
+      },
+      "datumEnde": {
+        "type": "string",
+        "format": "date",
+        "description": "Datum Ende"
+      },
+      "datumErstmeldung": {
+        "type": "string",
+        "format": "date",
+        "description": "Datum Erstmeldung"
+      },
+      "datumLetzteMeldung": {
+        "type": "string",
+        "format": "date",
+        "description": "Datum letzte Meldung"
+      },
+      "grundArt": {
+        "type": "string",
+        "enum": ["Produktionsproblem", "Sonstige"],
+        "description": "Grund für den Lieferengpass (bisher nur zwei mögliche Werte beobachtet)"
+      },
+      "bezeichnung": {
+        "type": "string",
+        "description": "Bezeichnung des Präparats"
+      },
+      "atcCode": {
+        "type": "string",
+        "description": "ATC-Klassifikation der betroffenen Präparate"
+      },
+      "wirkstoffe": {
+        "type": "string",
+        "description": "Bezeichnung des Wirkstoffs"
+      },
+      "krankenhausrelevant": {
+        "type": "boolean",
+        "description": "Krankenhausrelevanz des Präparats"
+      },
+      "zulassungsinhaber": {
+        "type": "string",
+        "description": "Firmenname des Zulassungsinhabers"
+      },
+      "telefon": {
+        "type": "string",
+        "description": "Telefonnummer des Zulassungsinhabers"
+      },
+      "mail": {
+        "type": "string",
+        "description": "Mail-Adresse des Zulassungsinhabers"
+      },
+      "grund": {
+        "type": "string",
+        "description": "Beschreibung des Grundes für den Lieferengpass"
+      },
+      "infoFachkreise": {
+        "type": "string",
+        "enum": ["Ja", "Vorgesehen", "Nein"],
+        "description": "Angabe über Info an Fachkreise"
+      }
+    }
+  }
+}
