@@ -1,18 +1,10 @@
 import { Readable } from 'stream'
 import playwright from 'playwright'
 import unzip from 'unzip-stream'
-import { Exporter } from '../../types/exporter'
+import { Exporter } from '../../types'
 import streamToString from '../../utils/streamToString'
-import { EntryType, Gemeinde, Gemeindeverband, Kreis, Land, parseLine, Regierungsbezirk, Region } from './parseLine'
-
-type Result = {
-  land: Array<Land>
-  regierungsbezirk: Array<Regierungsbezirk>
-  region: Array<Region>
-  kreis: Array<Kreis>
-  gemeindeverband: Array<Gemeindeverband>
-  gemeinde: Array<Gemeinde>
-}
+import { parseLine } from './parseLine'
+import { EntryType, Result } from './types'
 
 const parseDownloadStream = async (downloadStream: Readable): Promise<string> =>
   new Promise((resolve) => {
@@ -41,41 +33,42 @@ const parseRawDownload = (content: string) =>
       return acc
     }, {} as Result)
 
-export const GVExporter: Exporter<Result, null, null> = {
-  result: async () => {
-    const browser = await playwright.chromium.launch({ headless: typeof process.env.CI !== 'undefined' })
-    const page = await browser.newPage()
+export const GVExporter: Exporter<Result> = async () => {
+  const browser = await playwright.chromium.launch({ headless: typeof process.env.CI !== 'undefined' })
+  const page = await browser.newPage()
 
-    await page.goto('https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html')
+  await page.goto('https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html')
 
-    // close cookie banner
-    await page.locator('div[role="dialog"] >> text=Schließen').click()
+  // close cookie banner
+  await page.locator('div[role="dialog"] >> text=Schließen').click()
 
-    // open regionale gliederung
-    await page.locator('button >> text=Regionale Gliederung').first().click()
+  // open regionale gliederung
+  await page.locator('button >> text=Regionale Gliederung').first().click()
 
-    // click first download link, which is most recent visible
-    await page.locator('.RichTextIntLink.Publication.FTzip:visible').first().click()
+  // click first download link, which is most recent visible
+  await page.locator('.RichTextIntLink.Publication.FTzip:visible').first().click()
 
-    // on new page, click download zip
-    const [download] = await Promise.all([
-      // It is important to call waitForEvent before click to set up waiting.
-      page.waitForEvent('download'),
-      // Triggers the download.
-      page.locator('.downloadLink').click()
-    ])
+  // on new page, click download zip
+  const [download] = await Promise.all([
+    // It is important to call waitForEvent before click to set up waiting.
+    page.waitForEvent('download'),
+    // Triggers the download.
+    page.locator('.downloadLink').click()
+  ])
 
-    const downloadStream = await download.createReadStream()
-    downloadStream?.on('end', () => browser.close())
+  const downloadStream = await download.createReadStream()
+  downloadStream?.on('end', () => browser.close())
 
-    if (downloadStream === null) {
-      throw new Error('could not set up download stream')
+  if (downloadStream === null) {
+    throw new Error('could not set up download stream')
+  }
+
+  const content = await parseDownloadStream(downloadStream)
+
+  return [
+    {
+      data: parseRawDownload(content),
+      targetFile: 'main.json'
     }
-
-    const content = await parseDownloadStream(downloadStream)
-
-    return parseRawDownload(content)
-  },
-  diff: () => null,
-  digest: () => null
+  ]
 }

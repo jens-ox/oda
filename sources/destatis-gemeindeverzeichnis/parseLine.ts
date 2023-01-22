@@ -1,16 +1,4 @@
-export type EntryType = 'land' | 'regierungsbezirk' | 'region' | 'kreis' | 'gemeindeverband' | 'gemeinde'
-
-type Entry = {
-  type: EntryType
-  date: string
-  name: string
-  interneAngaben?: string
-}
-
-export type Land = Entry & {
-  landSchluessel: number
-  sitzLandesregierung: string
-}
+import { Gemeinde, Gemeindeverband, Kreis, Land, Regierungsbezirk, Region } from './types'
 
 const parseLand = (l: string): Land => {
   const ef2u1 = l.substring(2, 6).trim()
@@ -37,12 +25,6 @@ const parseLand = (l: string): Land => {
     sitzLandesregierung: ef6,
     ...(ef9 !== '' ? { interneAngaben: ef9 } : {})
   }
-}
-
-export type Regierungsbezirk = Entry & {
-  landSchluessel: number
-  regierungsbezirkSchluessel: number
-  sitzVerwaltung: string
 }
 
 const parseRegierungsbezirk = (l: string): Regierungsbezirk => {
@@ -73,13 +55,6 @@ const parseRegierungsbezirk = (l: string): Regierungsbezirk => {
   }
 }
 
-export type Region = Entry & {
-  landSchluessel: number
-  regierungsbezirkSchluessel: number
-  regionSchluessel: number
-  sitzVerwaltung: string
-}
-
 const parseRegion = (l: string): Region => {
   const ef2u1 = l.substring(2, 6).trim()
   const ef2u2 = l.substring(6, 8).trim()
@@ -107,14 +82,6 @@ const parseRegion = (l: string): Region => {
     sitzVerwaltung: ef6,
     ...(ef9 !== '' ? { interneAngaben: ef9 } : {})
   }
-}
-
-export type Kreis = Entry & {
-  landSchluessel: number
-  regierungsbezirkSchluessel: number
-  kreisSchluessel: number
-  sitzVerwaltung: string
-  kreisTyp: string
 }
 
 const parseKreis = (l: string): Kreis => {
@@ -153,15 +120,6 @@ const parseKreis = (l: string): Kreis => {
     kreisTyp: typeMap.get(ef7u1) ?? ef7u1,
     ...(ef9 !== '' ? { interneAngaben: ef9 } : {})
   }
-}
-
-export type Gemeindeverband = Entry & {
-  landSchluessel: number
-  regierungsbezirkSchluessel: number
-  kreisSchluessel: number
-  gemeindeverbandSchluessel: number
-  sitzVerwaltung: string
-  gemeindeverbandTyp: string
 }
 
 const parseGemeindeverband = (l: string): Gemeindeverband => {
@@ -205,27 +163,6 @@ const parseGemeindeverband = (l: string): Gemeindeverband => {
     gemeindeverbandTyp: typeMap.get(ef7u1) ?? ef7u1,
     ...(ef9 !== '' ? { interneAngaben: ef9 } : {})
   }
-}
-
-export type Gemeinde = Entry & {
-  landSchluessel: number
-  regierungsbezirkSchluessel: number
-  kreisSchluessel: number
-  gemeindeverbandSchluessel: number
-  gemeindeSchluessel: number
-  gemeindeTyp: string
-  flaecheHektar: number
-  bevoelkerungInsgesamt: number
-  bevoelkerungMaennlich: number
-  plzVerwaltungssitz: string
-  plzEindeutig: boolean
-  bezirkFinanzamt: number
-  bezirkOberlandesgericht: number
-  bezirkLandesgericht: number
-  bezirkAmtsgericht: number
-  bezirkArbeitsagentur: number
-  bundestagswahlkreisVon: number
-  bundestagswahlkreisBis: number
 }
 
 const parseGemeinde = (l: string): Gemeinde => {
