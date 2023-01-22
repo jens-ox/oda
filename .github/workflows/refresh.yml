@@ -17,8 +17,6 @@ jobs:
           node-version: 16
           cache: 'pnpm'
       - run: pnpm install --frozen-lockfile
-      - name: Initialize Prisma
-        run: pnpx prisma generate
       - name: Set up Playwright
         run: pnpm exec playwright install
       - name: Refresh list
