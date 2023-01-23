@@ -1,4 +1,4 @@
-name: Refresh API list
+name: Refresh all sources
 on:
   schedule:
     - cron: "0 4 * * *" # every day at 4 in the morning
