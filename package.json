@@ -13,6 +13,7 @@
   "author": "Jens Ochsenmeier <github@jens-ox.de>",
   "license": "MIT",
   "devDependencies": {
+    "@types/glob": "^8.0.1",
     "@types/node": "^18.11.9",
     "@types/papaparse": "^5.3.5",
     "@types/react": "18.0.25",
@@ -44,6 +45,7 @@
     "date-fns": "^2.29.3",
     "dotenv": "^16.0.3",
     "eslint-config-next": "^13.0.2",
+    "glob": "^8.1.0",
     "next": "13.0.2",
     "papaparse": "^5.3.2",
     "playwright": "^1.27.1",
