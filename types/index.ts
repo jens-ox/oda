@@ -1,7 +1,19 @@
-import { Snapshot, Source } from '@prisma/client'
+export type Exporter<ResultType = unknown> = () => Promise<
+  Array<{
+    targetFile: string
+    data: ResultType
+  }>
+>
 
-export type SerializedSnapshot = Omit<Snapshot, 'createdAt'> & { createdAt: string }
+export type ExporterMap<ResultType = unknown> = {
+  id: string
+  exporter: Exporter<ResultType>
+}
 
-export interface SourceWithSnapshot extends Source {
-  snapshots: Array<SerializedSnapshot>
+export interface Source {
+  id: string
+  name: string
+  description: string
+  sourceName: string
+  sourceLink: string
 }

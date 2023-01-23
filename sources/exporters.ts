@@ -1,20 +1,22 @@
-import BafinExporter from './bafin-stimmrechte/exporter'
-import ArzneiEngpassExporter from './bfg-lieferengpass/exporter'
+import { ExporterMap } from '../types'
+import { BafinStimmrechte } from './bafin-stimmrechte'
+import { BafinExporter } from './bafin-stimmrechte/exporter'
+import { Lieferengpass } from './bfg-lieferengpass'
+import { ArzneiEngpassExporter } from './bfg-lieferengpass/exporter'
+import { Gemeindeverzeichnis } from './destatis-gemeindeverzeichnis'
 import { GVExporter } from './destatis-gemeindeverzeichnis/exporter'
 
-const exporterSources = [
+export const exporters: Array<ExporterMap> = [
   {
-    id: 'bafin-stimmrechte',
+    id: BafinStimmrechte.id,
     exporter: BafinExporter
   },
   {
-    id: 'bfg-lieferengpass',
+    id: Lieferengpass.id,
     exporter: ArzneiEngpassExporter
   },
   {
-    id: 'destatis-gemeindeverzeichnis',
+    id: Gemeindeverzeichnis.id,
     exporter: GVExporter
   }
 ]
-
-export default exporterSources
