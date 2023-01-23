@@ -21,10 +21,10 @@ jobs:
         run: pnpm exec playwright install
       - name: Refresh list
         run: pnpm crawl
-        env:
-          DATABASE_URL: ${{ secrets.DATABASE_URL }}
-          BUCKET: ${{ secrets.BUCKET }}
-          ACCESS_KEY: ${{ secrets.ACCESS_KEY }}
-          ACCESS_KEY_SECRET: ${{ secrets.ACCESS_KEY_SECRET }}
+      - name: Raise a PR if files have changed
+        uses: peter-evans/create-pull-request@v4
+        with:
+          add-paths: |
+            data/*
 
           
