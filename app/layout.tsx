@@ -16,8 +16,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </head>
-      <body className="bg-stone-50 text-stone-900 dark:bg-stone-900 dark:text-stone-50">
-        <div className={cx(inter.className, ebGaramond.className, 'relative min-h-screen flex flex-col')}>
+      <body
+        className={cx(
+          inter.variable,
+          ebGaramond.variable,
+          'bg-stone-50 text-stone-900 dark:bg-stone-900 dark:text-stone-50'
+        )}
+      >
+        <div className="font-sans relative min-h-screen flex flex-col">
           <div className="container mx-auto px-4 sm:px-6 py-4">
             <nav className="relative flex items-center justify-between sm:h-10 md:justify-center" aria-label="Global">
               <div className="flex items-center flex-1 md:absolute md:inset-y-0 md:left-0">
