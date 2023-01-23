@@ -1,7 +1,7 @@
 import Papa from 'papaparse'
 import playwright from 'playwright'
 import { Exporter } from '../../types'
-import germanDateToString from '../../utils/germanDateToString'
+import { germanDateToString } from '../../utils/germanDateToString'
 import streamToString from '../../utils/streamToString'
 import { ArzneiEngpassResult } from './types'
 

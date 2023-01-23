@@ -1,7 +1,7 @@
 import axios from 'axios'
 import Papa from 'papaparse'
 import { Exporter } from '../../types'
-import germanDateToString from '../../utils/germanDateToString'
+import { germanDateToString } from '../../utils/germanDateToString'
 import { BafinResult } from './types'
 
 export const BafinExporter: Exporter<Array<BafinResult>> = async () => {
