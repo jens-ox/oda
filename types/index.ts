@@ -5,11 +5,15 @@ export type Exporter<ResultType = unknown> = () => Promise<
   }>
 >
 
-export interface Source<ResultType = unknown> {
+export type ExporterMap<ResultType = unknown> = {
+  id: string
+  exporter: Exporter<ResultType>
+}
+
+export interface Source {
   id: string
   name: string
   description: string
   sourceName: string
   sourceLink: string
-  exporter: Exporter<ResultType>
 }

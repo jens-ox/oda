@@ -1,12 +1,10 @@
 import { Source } from '../../types'
-import { GVExporter } from './exporter'
-import { Result } from './types'
+export { GVExporter } from './exporter'
 
-export const Gemeindeverzeichnis: Source<Result> = {
+export const Gemeindeverzeichnis: Source = {
   id: 'destatis-gemeindeverzeichnis',
   name: 'Gemeindeverzeichnis',
   description: 'Gemeindeverzeichnis des Statistischen Bundesamtes',
   sourceName: 'Statistisches Bundesamt',
-  sourceLink: 'https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html',
-  exporter: GVExporter
+  sourceLink: 'https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html'
 }

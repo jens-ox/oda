@@ -1,13 +1,13 @@
 import 'dotenv/config'
 import { writeFile, mkdir } from 'fs/promises'
 import { join } from 'path'
-import { sources } from '../sources'
+import { exporters } from '../sources'
 
 const BASE_DIR = join(__dirname, '../data')
 
 const main = async () =>
   Promise.all(
-    sources.map(async (s) => {
+    exporters.map(async (s) => {
       try {
         const result = await s.exporter()
 
