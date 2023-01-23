@@ -1,5 +1,4 @@
 import { Source } from '../../types'
-export { BafinExporter } from './exporter'
 
 export const BafinStimmrechte: Source = {
   id: 'bafin-stimmrechte',

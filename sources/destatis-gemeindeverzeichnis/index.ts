@@ -1,5 +1,4 @@
 import { Source } from '../../types'
-export { GVExporter } from './exporter'
 
 export const Gemeindeverzeichnis: Source = {
   id: 'destatis-gemeindeverzeichnis',

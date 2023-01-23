@@ -1,5 +1,4 @@
 import { Source } from '../../types'
-export { ArzneiEngpassExporter } from './exporter'
 
 export const Lieferengpass: Source = {
   id: 'bfg-lieferengpass',
