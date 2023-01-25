@@ -11,7 +11,6 @@ interface SourcePageProps {
 const glob = async (pattern: string): Promise<Array<string>> =>
   new Promise((resolve, reject) =>
     globCb(pattern, { nodir: true }, (error, matches) => {
-      console.log('matches', matches)
       if (error) {
         reject(error)
       } else {
@@ -31,7 +30,6 @@ const SourcePage = async ({ params }: SourcePageProps) => {
   const source = sources.find((s) => s.id === params.id)
 
   const data = await getData(params.id)
-  console.log('found files', data)
 
   if (!source) return <p className="text-red-700 italic">Quelle nicht gefunden :(</p>
 
