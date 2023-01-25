@@ -1624,6 +1624,42 @@
     }
   },
   {
+    "veroeffentlichung": "2023-01-24",
+    "emittent": {
+      "name": "HUGO BOSS AG",
+      "sitz": "Metzingen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Amundi S.A.",
+      "sitz": "Paris",
+      "land": "Frankreich"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.14,
+      "instrumente": 0,
+      "summe": 3.14
+    }
+  },
+  {
+    "veroeffentlichung": "2023-01-23",
+    "emittent": {
+      "name": "freenet AG",
+      "sitz": "Büdelsdorf",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Amundi S.A.",
+      "sitz": "Paris",
+      "land": "Frankreich"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.08,
+      "instrumente": 0,
+      "summe": 3.08
+    }
+  },
+  {
     "veroeffentlichung": "2022-10-21",
     "emittent": {
       "name": "DEUTSCHE BANK AKTIENGESELLSCHAFT",
@@ -5290,24 +5326,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-01-18",
-    "emittent": {
-      "name": "CANCOM SE",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.11,
-      "instrumente": 0.16,
-      "summe": 3.27
-    }
-  },
-  {
     "veroeffentlichung": "2023-01-23",
     "emittent": {
       "name": "Brenntag SE",
@@ -8018,24 +8036,6 @@
     }
   },
   {
-    "veroeffentlichung": "2020-05-15",
-    "emittent": {
-      "name": "DEUTZ Aktiengesellschaft",
-      "sitz": "Köln",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Dimensional Holdings Inc.",
-      "sitz": "Austin",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.97,
-      "instrumente": 0,
-      "summe": 4.97
-    }
-  },
-  {
     "veroeffentlichung": "2022-07-27",
     "emittent": {
       "name": "ADTRAN Holdings, Inc.",
@@ -8733,24 +8733,6 @@
       "gesamt": 4.51,
       "instrumente": 0,
       "summe": 4.51
-    }
-  },
-  {
-    "veroeffentlichung": "2022-05-19",
-    "emittent": {
-      "name": "Aareal Bank AG",
-      "sitz": "Wiesbaden",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Duke University",
-      "sitz": "Durham",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.12,
-      "instrumente": 0,
-      "summe": 3.12
     }
   },
   {
@@ -15493,6 +15475,24 @@
     }
   },
   {
+    "veroeffentlichung": "2023-01-24",
+    "emittent": {
+      "name": "NORMA Group SE",
+      "sitz": "Maintal",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Hoek, Nicolaas",
+      "sitz": "",
+      "land": ""
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 5.0034,
+      "instrumente": 0,
+      "summe": 5.0034
+    }
+  },
+  {
     "veroeffentlichung": "2022-03-03",
     "emittent": {
       "name": "pferdewetten.de AG",
@@ -19089,40 +19089,6 @@
     }
   },
   {
-    "veroeffentlichung": "2010-04-26",
-    "emittent": {
-      "name": "Mercedes-Benz Group AG",
-      "sitz": "Stuttgart",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Kuwait Investment Authority",
-      "sitz": "Kuwait",
-      "land": "Kuwait"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 5.33
-    }
-  },
-  {
-    "veroeffentlichung": "2022-11-10",
-    "emittent": {
-      "name": "Daimler Truck Holding AG",
-      "sitz": "Stuttgart",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Kuwait Investment Authority",
-      "sitz": "Kuwait",
-      "land": "Kuwait"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 5.01,
-      "instrumente": 0,
-      "summe": 5.01
-    }
-  },
-  {
     "veroeffentlichung": "2022-11-04",
     "emittent": {
       "name": "NORMA Group SE",
@@ -19796,24 +19762,6 @@
       "gesamt": 27.33,
       "instrumente": 0,
       "summe": 27.33
-    }
-  },
-  {
-    "veroeffentlichung": "2022-04-05",
-    "emittent": {
-      "name": "HENSOLDT AG",
-      "sitz": "Taufkirchen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Lazard Asset Management LLC",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 5.5,
-      "instrumente": 0,
-      "summe": 5.5
     }
   },
   {
@@ -23596,7 +23544,7 @@
     }
   },
   {
-    "veroeffentlichung": "2020-01-15",
+    "veroeffentlichung": "2023-01-24",
     "emittent": {
       "name": "PNE AG",
       "sitz": "Cuxhaven",
@@ -23608,9 +23556,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 39.8,
-      "instrumente": 0,
-      "summe": 39.8
+      "gesamt": 44.19,
+      "instrumente": 0.00301,
+      "summe": 44.2
     }
   },
   {
@@ -23773,24 +23721,6 @@
       "gesamt": 5.3,
       "instrumente": 2.49,
       "summe": 7.79
-    }
-  },
-  {
-    "veroeffentlichung": "2023-01-16",
-    "emittent": {
-      "name": "Aareal Bank AG",
-      "sitz": "Wiesbaden",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Morgan Stanley",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.59,
-      "instrumente": 0.25,
-      "summe": 4.84
     }
   },
   {
@@ -35648,24 +35578,6 @@
     }
   },
   {
-    "veroeffentlichung": "2022-12-23",
-    "emittent": {
-      "name": "Vonovia SE",
-      "sitz": "Bochum",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.67,
-      "instrumente": 4.67,
-      "summe": 5.34
-    }
-  },
-  {
     "veroeffentlichung": "2023-01-23",
     "emittent": {
       "name": "VARTA AKTIENGESELLSCHAFT",
@@ -35756,7 +35668,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-01-20",
+    "veroeffentlichung": "2023-01-24",
     "emittent": {
       "name": "SGL Carbon SE",
       "sitz": "Wiesbaden",
@@ -35768,9 +35680,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.19,
-      "instrumente": 5.003,
-      "summe": 5.2
+      "gesamt": 0.21,
+      "instrumente": 4.98,
+      "summe": 5.19
     }
   },
   {
@@ -35882,24 +35794,6 @@
     }
   },
   {
-    "veroeffentlichung": "2022-12-22",
-    "emittent": {
-      "name": "Deutsche Telekom AG",
-      "sitz": "Bonn",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.27,
-      "instrumente": 5.46,
-      "summe": 5.73
-    }
-  },
-  {
     "veroeffentlichung": "2023-01-02",
     "emittent": {
       "name": "Delivery Hero SE",
@@ -35915,24 +35809,6 @@
       "gesamt": 0.05,
       "instrumente": 9.91,
       "summe": 9.96
-    }
-  },
-  {
-    "veroeffentlichung": "2022-12-23",
-    "emittent": {
-      "name": "adidas AG",
-      "sitz": "Herzogenaurach",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.12,
-      "instrumente": 5.87,
-      "summe": 5.99
     }
   },
   {
@@ -36542,6 +36418,24 @@
     }
   },
   {
+    "veroeffentlichung": "2023-01-23",
+    "emittent": {
+      "name": "Aareal Bank AG",
+      "sitz": "Wiesbaden",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "UBS Group AG",
+      "sitz": "Zürich",
+      "land": "Schweiz"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.18,
+      "instrumente": 0.43,
+      "summe": 3.62
+    }
+  },
+  {
     "veroeffentlichung": "2021-01-07",
     "emittent": {
       "name": "SCHNIGGE Capital Markets SE",
@@ -36789,24 +36683,6 @@
       "gesamt": 3.03,
       "instrumente": 0,
       "summe": 3.03
-    }
-  },
-  {
-    "veroeffentlichung": "2023-01-17",
-    "emittent": {
-      "name": "flatexDEGIRO AG",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Union Investment Privatfonds GmbH",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.01,
-      "instrumente": 0.08,
-      "summe": 3.1
     }
   },
   {
@@ -37098,7 +36974,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-01-11",
+    "veroeffentlichung": "2023-01-24",
     "emittent": {
       "name": "LPKF Laser & Electronics SE",
       "sitz": "Garbsen",
@@ -37110,9 +36986,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.05,
+      "gesamt": 4.99662,
       "instrumente": 0,
-      "summe": 5.05
+      "summe": 4.99662
     }
   },
   {

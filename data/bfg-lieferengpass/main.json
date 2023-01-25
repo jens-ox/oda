@@ -1,6 +1,315 @@
 [
   {
     "pzn": [
+      "00612341",
+      "00614096",
+      "00615380"
+    ],
+    "enr": "2146000",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-01-24",
+    "datumEnde": "2023-03-06",
+    "datumLetzteMeldung": "2023-01-24",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Carbamazepin Aristo 400 mg Retardtabletten",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "telefon": "N/A",
+    "mail": "helen.braun@aristo-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-01-24",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00605772",
+      "00605789",
+      "00607417"
+    ],
+    "enr": "2145999",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-01-24",
+    "datumEnde": "2023-04-01",
+    "datumLetzteMeldung": "2023-01-24",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Carbamazepin Aristo 200 mg Retardtablette",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "telefon": "N/A",
+    "mail": "helen.braun@aristo-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-01-24",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00590852",
+      "00594040"
+    ],
+    "enr": "2133994",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-01-24",
+    "datumEnde": "2023-03-06",
+    "datumLetzteMeldung": "2023-01-24",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Carbamazepin Aristo 200 mg Tabletten",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "telefon": "N/A",
+    "mail": "helen.braun@aristo-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-01-24",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00620524",
+      "00620530",
+      "05507459",
+      "09494771"
+    ],
+    "enr": "2116582",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-01-24",
+    "datumEnde": "2023-04-01",
+    "datumLetzteMeldung": "2023-01-24",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Carbamazepin Aristo 600 mg Retardtabletten",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "telefon": "N/A",
+    "mail": "helen.braun@aristo-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-01-24",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00608606",
+      "00612298"
+    ],
+    "enr": "2116581",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-01-24",
+    "datumEnde": "2023-03-22",
+    "datumLetzteMeldung": "2023-01-24",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Carbamazepin Aristo 300 mg Retardtabletten",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "telefon": "N/A",
+    "mail": "helen.braun@aristo-pharma.de",
+    "grund": "GMP Mängel",
+    "datumErstmeldung": "2023-01-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14061235",
+      "14061241"
+    ],
+    "enr": "2201171",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-01",
+    "datumEnde": "2024-04-01",
+    "datumLetzteMeldung": "2023-01-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Octreo-ratiopharm 30 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension",
+    "atcCode": "H01CB02",
+    "wirkstoffe": "Octreotidacetat (1:x) ((mit Angaben zum Essigsäure-Gehalt))",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0731 402 7028",
+    "mail": "Julian.Simon@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-01-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14061212",
+      "14061229"
+    ],
+    "enr": "2201170",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-01",
+    "datumEnde": "2024-04-01",
+    "datumLetzteMeldung": "2023-01-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Octreo-ratiopharm 20 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension",
+    "atcCode": "H01CB02",
+    "wirkstoffe": "Octreotidacetat (1:x) ((mit Angaben zum Essigsäure-Gehalt))",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0731 4027028",
+    "mail": "Julian.Simon@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-01-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14061198",
+      "14061206"
+    ],
+    "enr": "2201169",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-01",
+    "datumEnde": "2024-04-01",
+    "datumLetzteMeldung": "2023-01-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Octreo-ratiopharm 10 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension",
+    "atcCode": "H01CB02",
+    "wirkstoffe": "Octreotidacetat (1:x) ((mit Angaben zum Essigsäure-Gehalt))",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0731 4027028",
+    "mail": "Julian.Simon@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-01-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03633154"
+    ],
+    "enr": "2126420",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-01-23",
+    "datumEnde": "2023-03-03",
+    "datumLetzteMeldung": "2023-01-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sandimmun 100 mg Weichkapseln",
+    "atcCode": "L04AD01",
+    "wirkstoffe": "Ciclosporin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novartis Pharma GmbH",
+    "telefon": "N/A",
+    "mail": "infoservice.novartis@novartis.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-01-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08535812",
+      "08535829"
+    ],
+    "enr": "2110772",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-14",
+    "datumEnde": "2023-03-03",
+    "datumLetzteMeldung": "2023-01-24",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Flunarizin acis 5 mg",
+    "atcCode": "N07CA03",
+    "wirkstoffe": "Flunarizindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "089  44 23 246  0",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Sonstige",
+    "alternativPraeparat": "Flunarizin acis 5 mg - Einreichungsnummer: 2110772",
+    "datumErstmeldung": "2022-11-18",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06846672"
+    ],
+    "enr": "2161214",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-21",
+    "datumEnde": "2023-02-10",
+    "datumLetzteMeldung": "2023-01-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Dexamethason acis 8 mg",
+    "atcCode": "H02AB02",
+    "wirkstoffe": "Dexamethason",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "089 44 23 246 0",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Dexamethason acis 8 mg - Einreichungsnummer: 2161214",
+    "datumErstmeldung": "2023-01-03",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07577926"
+    ],
+    "enr": "2131179",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-01",
+    "datumEnde": "2023-02-28",
+    "datumLetzteMeldung": "2023-01-24",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Mivacron 20mg",
+    "atcCode": "M03AC10",
+    "wirkstoffe": "Mivacuriumchlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aspen Pharma Trading Limited",
+    "telefon": "+49 89  93 08 38 00",
+    "mail": "de-info@aspenpharma.eu",
+    "grund": "Probleme bei der Endfreigabe",
+    "datumErstmeldung": "2022-11-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02242078"
+    ],
+    "enr": "2153137",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-19",
+    "datumEnde": "2023-01-30",
+    "datumLetzteMeldung": "2023-01-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "CEFUROX BASICS 125mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01DC02",
+    "wirkstoffe": "Cefuroximaxetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Basics GmbH",
+    "telefon": "N/A",
+    "mail": "bilal.baydoun@sunpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09012335"
+    ],
+    "enr": "2127138",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-01-13",
+    "datumEnde": "2023-02-28",
+    "datumLetzteMeldung": "2023-01-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Temgesic forte sublingual",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "0800 270 81 901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-01-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "06648305"
     ],
     "enr": "2124661",
@@ -2333,29 +2642,6 @@
   },
   {
     "pzn": [
-      "08535812",
-      "08535829"
-    ],
-    "enr": "2110772",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-14",
-    "datumEnde": "2023-02-03",
-    "datumLetzteMeldung": "2023-01-11",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Flunarizin acis 5 mg",
-    "atcCode": "N07CA03",
-    "wirkstoffe": "Flunarizindihydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "acis Arzneimittel GmbH",
-    "telefon": "089  44 23 246  0",
-    "mail": "Medwiss.Acis@dermapharm.com",
-    "grund": "Sonstige",
-    "alternativPraeparat": "Flunarizin acis 5 mg - Einreichungsnummer: 2110772",
-    "datumErstmeldung": "2022-11-18",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00592704"
     ],
     "enr": "2142653",
@@ -3604,28 +3890,6 @@
   },
   {
     "pzn": [
-      "06846672"
-    ],
-    "enr": "2161214",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-12-21",
-    "datumEnde": "2023-02-03",
-    "datumLetzteMeldung": "2023-01-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Dexamethason acis 8 mg",
-    "atcCode": "H02AB02",
-    "wirkstoffe": "Dexamethason",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "acis Arzneimittel GmbH",
-    "telefon": "089 44 23 246 0",
-    "mail": "Medwiss.Acis@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Dexamethason acis 8 mg - Einreichungsnummer: 2161214",
-    "datumErstmeldung": "2023-01-03",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00658840"
     ],
     "enr": "2125643",
@@ -3764,27 +4028,6 @@
     "bezeichnung": "CLARITHROMYCIN BASICS 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
     "atcCode": "J01FA09",
     "wirkstoffe": "Clarithromycin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Basics GmbH",
-    "telefon": "N/A",
-    "mail": "bilal.baydoun@sunpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02242078"
-    ],
-    "enr": "2153137",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-12-19",
-    "datumEnde": "2023-01-15",
-    "datumLetzteMeldung": "2023-01-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "CEFUROX BASICS 125mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DC02",
-    "wirkstoffe": "Cefuroximaxetil",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Basics GmbH",
     "telefon": "N/A",
@@ -4066,27 +4309,6 @@
   },
   {
     "pzn": [
-      "09012335"
-    ],
-    "enr": "2127138",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-01-13",
-    "datumEnde": "2023-01-30",
-    "datumLetzteMeldung": "2022-12-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Temgesic forte sublingual",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "0800 270 81 901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-01-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00178548",
       "00178560",
       "04841512",
@@ -4128,27 +4350,6 @@
     "mail": "kontakt@infectpharm.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07577926"
-    ],
-    "enr": "2131179",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-01",
-    "datumEnde": "2023-01-31",
-    "datumLetzteMeldung": "2022-12-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Mivacron 20mg",
-    "atcCode": "M03AC10",
-    "wirkstoffe": "Mivacuriumchlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aspen Pharma Trading Limited",
-    "telefon": "+49 89  93 08 38 00",
-    "mail": "de-info@aspenpharma.eu",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-11-29",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -6207,27 +6408,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aspen Pharma Trading Limited",
     "telefon": " +49 89  93 08 38 00",
-    "mail": "de-info@aspenpharma.eu",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-11-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01137907"
-    ],
-    "enr": "0077095",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-15",
-    "datumEnde": "2023-02-28",
-    "datumLetzteMeldung": "2022-11-29",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Xylocain 1 %",
-    "atcCode": "N01BB02",
-    "wirkstoffe": "Lidocainhydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aspen Pharma Trading Limited",
-    "telefon": "+49 89  93 08 38 00",
     "mail": "de-info@aspenpharma.eu",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-11-29",
