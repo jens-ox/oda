@@ -7,11 +7,14 @@ import type { Ladesaeule, Stecker } from './types'
 const removeEmptyFields = (something: any) =>
   Object.fromEntries(Object.entries(something).filter(([, v]) => typeof v !== 'undefined' && v !== '' && v !== null))
 
-const createStecker = (typ: string, kW: string, publicKey: string): Stecker => ({
-  steckertypen: typ,
-  kW: kW !== '' ? parseInt(kW) : undefined,
-  publicKey
-})
+const createStecker = (typ: string, kW: string, publicKey: string): Stecker => {
+  const parsedKW = kW !== '' ? parseInt(kW) : undefined
+  return {
+    steckertypen: typ,
+    kW: typeof parsedKW === 'undefined' || isNaN(parsedKW) ? undefined : parsedKW,
+    publicKey
+  }
+}
 
 export const LadesaeulenExporter: Exporter<Array<Ladesaeule>> = async () => {
   const { data: rawData } = await axios.get(
@@ -52,7 +55,6 @@ export const LadesaeulenExporter: Exporter<Array<Ladesaeule>> = async () => {
     // filter out stations without actual cables and the header
     .filter((e) => e.stecker.length > 0 && !['Steckertypen1', '1. Ladepunkt'].includes(e.stecker[0].steckertypen))
 
-  console.log(JSON.stringify(data.slice(0, 15)))
   return [
     {
       targetFile: 'main.json',
