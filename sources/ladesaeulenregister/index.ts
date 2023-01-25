@@ -1,6 +1,6 @@
 import { Source } from '../../types'
 
-export const Ladesaulen: Source = {
+export const Ladesaeulen: Source = {
   id: 'ladesaeulenregister',
   name: 'Ladesäulenregister',
   description: 'Ladesäulenregister der Bundesnetzagentur',
