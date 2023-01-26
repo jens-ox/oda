@@ -1,23 +1,12 @@
 import { join, resolve } from 'path'
-import { glob as globCb } from 'glob'
 import { sources } from '../../../sources'
+import { glob } from '../../../utils/glob'
 
 interface SourcePageProps {
   params: {
     id: string
   }
 }
-
-const glob = async (pattern: string): Promise<Array<string>> =>
-  new Promise((resolve, reject) =>
-    globCb(pattern, { nodir: true }, (error, matches) => {
-      if (error) {
-        reject(error)
-      } else {
-        resolve(matches)
-      }
-    })
-  )
 
 const getData = async (id: string) => {
   // find matching files
