@@ -22,7 +22,7 @@ export const SourceList: React.FC = () => {
         className="rounded bg-white px-4 py-2 border border-slate-200 focus:border-slate-400 outline-none transition duration-200"
       />
       {filteredSources.length > 0 ? (
-        <div className="grid grid-cols-3 gap-4">
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
           {filteredSources.map((source) => (
             <Link href={`/source/${source.id}`}>
               <div className="rounded-lg border border-slate-400/25 hover:border-slate-400/50 bg-white p-2">
