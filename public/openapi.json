@@ -12,13 +12,13 @@
   ],
   "components": {
     "schemas": {
-      "Ressource": {
+      "Resource": {
         "type": "object",
         "description": "Ressource",
         "properties": {
           "id": {
             "type": "string",
-            "description": "Datenbank-Identifikator der Ressource.",
+            "description": "Identifikator der Ressource",
             "example": "bafin-stimmrechte"
           },
           "name": {
@@ -31,65 +31,17 @@
             "description": "Beschreibung der Ressource",
             "example": "Bedeutende Stimmrechtsanteile"
           },
-          "url": {
+          "sourceLink": {
             "type": "string",
             "description": "Quelle der Ressource",
             "example": "https://portal.mvp.bafin.de/database/AnteileInfo/"
           },
-          "office": {
+          "sourceName": {
             "type": "string",
             "description": "Für die Ressource verantwortliche Instanz",
             "example": "Bundesanstalt für Finanzdienstleistungsaufsicht"
           }
         }
-      },
-      "Snapshot": {
-        "type": "object",
-        "description": "Snapshot",
-        "properties": {
-          "id": {
-            "type": "number",
-            "description": "ID des Snapshots in der Datenbank",
-            "example": 2
-          },
-          "sourceId": {
-            "type": "string",
-            "description": "ID der Ressource, zu der der Snapshot gehört",
-            "example": "bafin-stimmrechte"
-          },
-          "md5": {
-            "type": "string",
-            "description": "MD5-Hash des eigentlichen Snapshots"
-          },
-          "createdAt": {
-            "type": "string",
-            "format": "date-time",
-            "example": "2022-07-27T08:34:24.432Z",
-            "description": "Zeitstempel, zu dem der Snapshot erstellt wurde"
-          }
-        }
-      },
-      "DetailRessource": {
-        "allOf": [
-          {
-            "$ref": "#/components/schemas/Ressource"
-          },
-          {
-            "type": "object",
-            "properties": {
-              "snapshots": {
-                "type": "array",
-                "items": {
-                  "$ref": "#/components/schemas/Snapshot"
-                }
-              },
-              "schema": {
-                "type": "string",
-                "description": "Link zum JSON-Schema der Snapshots"
-              }
-            }
-          }
-        ]
       }
     }
   },
@@ -105,7 +57,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Ressource"
+                    "$ref": "#/components/schemas/Resource"
                   }
                 }
               }
@@ -116,7 +68,7 @@
     },
     "/source/{id}": {
       "get": {
-        "summary": "Details zu einer Ressource anfragen",
+        "summary": "Verfügbare Dateien zu einer Ressource anzeigen",
         "parameters": [
           {
             "in": "path",
@@ -129,11 +81,12 @@
         ],
         "responses": {
           "200": {
-            "description": "Details zu einer Ressource",
+            "description": "Dateienliste zu einer Ressource",
             "content": {
               "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/DetailRessource"
+                "type": "array",
+                "items": {
+                  "type": "string"
                 }
               }
             }
@@ -141,9 +94,9 @@
         }
       }
     },
-    "/snapshot/{id}": {
+    "/source/{id}/{file}": {
       "get": {
-        "summary": "Snapshot laden",
+        "summary": "Datei laden",
         "parameters": [
           {
             "in": "path",
@@ -152,11 +105,18 @@
               "type": "string"
             },
             "required": true
+          },
+          {
+            "in": "path",
+            "name": "file",
+            "schema": {
+              "type": "string"
+            }
           }
         ],
         "responses": {
           "200": {
-            "description": "Snapshot"
+            "description": "Dateiinhalt als JSON"
           }
         }
       }

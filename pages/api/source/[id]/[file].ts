@@ -9,6 +9,7 @@ const handler: NextApiHandler = async (req, res) => {
     content = await readFile(join(resolve('./data'), id as string, file as string), { encoding: 'utf-8' })
   } catch (error) {
     res.status(500).json(error)
+    return
   }
   res.status(200).json(JSON.parse(content))
 }
