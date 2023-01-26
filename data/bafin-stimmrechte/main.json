@@ -132,6 +132,42 @@
     }
   },
   {
+    "veroeffentlichung": "2023-01-24",
+    "emittent": {
+      "name": "AMADEUS FIRE AG",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "ABRDN INVESTMENT MANAGEMEMT LIMITED",
+      "sitz": "Edinburgh",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.09,
+      "instrumente": 0,
+      "summe": 3.09
+    }
+  },
+  {
+    "veroeffentlichung": "2023-01-24",
+    "emittent": {
+      "name": "AMADEUS FIRE AG",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "abrdn Investments Limited",
+      "sitz": "Aberdeen",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.09,
+      "instrumente": 0,
+      "summe": 3.09
+    }
+  },
+  {
     "veroeffentlichung": "2019-10-11",
     "emittent": {
       "name": "Nordex SE",
@@ -1621,24 +1657,6 @@
       "gesamt": 3.27,
       "instrumente": 0,
       "summe": 3.27
-    }
-  },
-  {
-    "veroeffentlichung": "2023-01-24",
-    "emittent": {
-      "name": "HUGO BOSS AG",
-      "sitz": "Metzingen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Amundi S.A.",
-      "sitz": "Paris",
-      "land": "Frankreich"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.14,
-      "instrumente": 0,
-      "summe": 3.14
     }
   },
   {
@@ -4570,7 +4588,7 @@
     }
   },
   {
-    "veroeffentlichung": "2022-08-26",
+    "veroeffentlichung": "2023-01-25",
     "emittent": {
       "name": "United Internet AG",
       "sitz": "Montabaur",
@@ -4582,9 +4600,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.09,
-      "instrumente": 0.1,
-      "summe": 3.19
+      "gesamt": 3.1,
+      "instrumente": 0.26,
+      "summe": 3.35
     }
   },
   {
@@ -4714,7 +4732,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-01-23",
+    "veroeffentlichung": "2023-01-25",
     "emittent": {
       "name": "RWE Aktiengesellschaft",
       "sitz": "Essen",
@@ -4726,9 +4744,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.53,
-      "instrumente": 0.07,
-      "summe": 6.6
+      "gesamt": 6.61,
+      "instrumente": 0.001,
+      "summe": 6.61
     }
   },
   {
@@ -4894,7 +4912,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-01-19",
+    "veroeffentlichung": "2023-01-25",
     "emittent": {
       "name": "LEG Immobilien SE",
       "sitz": "Düsseldorf",
@@ -4906,9 +4924,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 9.29,
-      "instrumente": 0.36,
-      "summe": 9.66
+      "gesamt": 9.49,
+      "instrumente": 0.25,
+      "summe": 9.74
     }
   },
   {
@@ -5723,24 +5741,6 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 5.05
-    }
-  },
-  {
-    "veroeffentlichung": "2021-06-07",
-    "emittent": {
-      "name": "AKASOL AG",
-      "sitz": "Darmstadt",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BorgWarner Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 89.08,
-      "instrumente": 0,
-      "summe": 89.08
     }
   },
   {
@@ -16799,24 +16799,6 @@
     }
   },
   {
-    "veroeffentlichung": "2022-12-22",
-    "emittent": {
-      "name": "freenet AG",
-      "sitz": "Büdelsdorf",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "J.P. Morgan Investment Management Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0.05,
-      "summe": 3.07
-    }
-  },
-  {
     "veroeffentlichung": "2021-06-14",
     "emittent": {
       "name": "SURTECO GROUP SE",
@@ -17185,24 +17167,6 @@
     }
   },
   {
-    "veroeffentlichung": "2022-12-22",
-    "emittent": {
-      "name": "freenet AG",
-      "sitz": "Büdelsdorf",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JPMorgan Asset Management (UK) Limited",
-      "sitz": "London",
-      "land": "Großbritannien"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0.05,
-      "summe": 3.07
-    }
-  },
-  {
     "veroeffentlichung": "2022-04-20",
     "emittent": {
       "name": "Ströer SE & Co. KGaA",
@@ -17326,24 +17290,6 @@
       "gesamt": 6.23,
       "instrumente": 0.01,
       "summe": 6.24
-    }
-  },
-  {
-    "veroeffentlichung": "2022-12-22",
-    "emittent": {
-      "name": "freenet AG",
-      "sitz": "Büdelsdorf",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JPMorgan Chase Bank, N.A.",
-      "sitz": "Columbus",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0.05,
-      "summe": 3.07
     }
   },
   {
@@ -22036,7 +21982,7 @@
     }
   },
   {
-    "veroeffentlichung": "2015-02-17",
+    "veroeffentlichung": "2023-01-24",
     "emittent": {
       "name": "AMADEUS FIRE AG",
       "sitz": "Frankfurt am Main",
@@ -22048,7 +21994,9 @@
       "land": "Luxemburg"
     },
     "stimmrechtsanteile": {
-      "gesamt": 9.99
+      "gesamt": 4.98,
+      "instrumente": 0,
+      "summe": 4.98
     }
   },
   {
@@ -23652,7 +23600,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-01-23",
+    "veroeffentlichung": "2023-01-24",
     "emittent": {
       "name": "HelloFresh SE",
       "sitz": "Berlin",
@@ -23664,9 +23612,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.84,
-      "instrumente": 4.19,
-      "summe": 7.03
+      "gesamt": 3.06,
+      "instrumente": 3.25,
+      "summe": 6.31
     }
   },
   {
@@ -25655,7 +25603,7 @@
     }
   },
   {
-    "veroeffentlichung": "2022-12-19",
+    "veroeffentlichung": "2023-01-24",
     "emittent": {
       "name": "Epigenomics AG",
       "sitz": "Berlin",
@@ -25667,9 +25615,9 @@
       "land": ""
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.75,
-      "instrumente": 4.34,
-      "summe": 7.09
+      "gesamt": 5.25,
+      "instrumente": 0,
+      "summe": 5.25
     }
   },
   {
@@ -35596,24 +35544,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-01-23",
-    "emittent": {
-      "name": "va-Q-tec AG",
-      "sitz": "Würzburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 1.89,
-      "instrumente": 4.02,
-      "summe": 5.91
-    }
-  },
-  {
     "veroeffentlichung": "2023-01-16",
     "emittent": {
       "name": "TeamViewer AG",
@@ -39389,24 +39319,6 @@
       "gesamt": 7.02,
       "instrumente": 0,
       "summe": 7.02
-    }
-  },
-  {
-    "veroeffentlichung": "2023-01-16",
-    "emittent": {
-      "name": "United Internet AG",
-      "sitz": "Montabaur",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Wellington Management Group LLP",
-      "sitz": "Boston",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.00406,
-      "instrumente": 0,
-      "summe": 3.00406
     }
   },
   {

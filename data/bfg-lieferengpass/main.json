@@ -1,6 +1,245 @@
 [
   {
     "pzn": [
+      "02056111"
+    ],
+    "enr": "2164356",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-02-15",
+    "datumEnde": "2023-02-15",
+    "datumLetzteMeldung": "2023-01-25",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "CARDIOXANE 500 mg, Pulver zur Herstellung einer Infusionslösung",
+    "atcCode": "V03AF02",
+    "wirkstoffe": "Dexrazoxan",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Clinigen Healthcare B.V.",
+    "telefon": "+49 (0)619 6499 3999",
+    "mail": "Deutschland@clinigengroup.com",
+    "grund": "Probleme bei der Chargenprüfung",
+    "alternativPraeparat": "Cyrdanax 20 mg/ml Pulver zur Herstellung einer Infusionslösung - Einreichungsnummer: 2175667",
+    "datumErstmeldung": "2023-01-25",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06305798",
+      "06305806"
+    ],
+    "enr": "2155390",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-25",
+    "datumEnde": "2023-02-28",
+    "datumLetzteMeldung": "2023-01-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ergenyl chrono 300 mg",
+    "atcCode": "N03AG01",
+    "wirkstoffe": "Natriumvalproat; Valproinsäure",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "08005252010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Valproat Chrono Winthrop® 300mg (PZN 00999110, 00999127) oder wirkstoffgleiche Präparate von Mitbewerber.",
+    "datumErstmeldung": "2022-11-25",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01433706"
+    ],
+    "enr": "2122679",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-11",
+    "datumEnde": "2023-02-05",
+    "datumLetzteMeldung": "2023-01-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Volon A 10 - 5ml",
+    "atcCode": "H02AB08",
+    "wirkstoffe": "Triamcinolonacetonid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "N/A",
+    "mail": "service@dermapharm.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-01-12",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00029021"
+    ],
+    "enr": "2155640",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-03",
+    "datumEnde": "2023-03-19",
+    "datumLetzteMeldung": "2023-01-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Terbiderm 250 mg",
+    "atcCode": "D01BA02",
+    "wirkstoffe": "Terbinafinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "N/A",
+    "mail": "service@dermapharm.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundAnmerkung": "Die Packungsgrößen 14 Stk. und 42 Stk. (PZN 00027430 und PZN 00030604) sind während der Dauer des Lieferengpasses voraussichtlich weiterhin verfügbar.",
+    "datumErstmeldung": "2023-01-12",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02421355"
+    ],
+    "enr": "0070621",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-12",
+    "datumEnde": "2023-02-12",
+    "datumLetzteMeldung": "2023-01-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ampho-Moronal Tabletten",
+    "atcCode": "A07AA07",
+    "wirkstoffe": "Amphotericin B",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "N/A",
+    "mail": "service@dermapharm.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundAnmerkung": "Die Packungsgrößen 20 Stk. und 100 Stk. (PZN 01335435 und PZN 01335441) sind voraussichtlich während der Dauer des Lieferengpasses weiterhin lieferbar.",
+    "datumErstmeldung": "2022-12-14",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00676476",
+      "00676482"
+    ],
+    "enr": "2143000",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-07",
+    "datumEnde": "2023-03-03",
+    "datumLetzteMeldung": "2023-01-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Xylocitin-loc 2 % 10 ml",
+    "atcCode": "N01BB02",
+    "wirkstoffe": "Lidocainhydrochlorid-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-11-08",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [],
+    "enr": "2130559",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2020-09-01",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-01-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ranitidin AL 300",
+    "atcCode": "A02BA02",
+    "wirkstoffe": "Ranitidinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "07333/9651-0",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2020-09-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [],
+    "enr": "2130558",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2020-09-01",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-01-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ranitidin AL 150",
+    "atcCode": "A02BA02",
+    "wirkstoffe": "Ranitidinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "07333/9651-0",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2020-09-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "10420269"
+    ],
+    "enr": "2192373",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-01-23",
+    "datumEnde": "2023-03-03",
+    "datumLetzteMeldung": "2023-01-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Dexafluid sine 1,315 mg/ml Augentropfen im Einzeldosisbehältnis",
+    "atcCode": "S01BA01",
+    "wirkstoffe": "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "+49349542470",
+    "mail": "Zulassung-Sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Dexafluid sine 1,315 mg/ml Augentropfen im Einzeldosisbehältnis - Einreichungsnummer: 2192373",
+    "datumErstmeldung": "2023-01-25",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08704321",
+      "08704338",
+      "08704344",
+      "08704367",
+      "14141879"
+    ],
+    "enr": "2138185",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-20",
+    "datumEnde": "2023-03-31",
+    "datumLetzteMeldung": "2023-01-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Dexa 4mg inject JENAPHARM",
+    "atcCode": "H02AB02",
+    "wirkstoffe": "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-01-04",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16498887"
+    ],
+    "enr": "2203709",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-05",
+    "datumEnde": "2023-02-11",
+    "datumLetzteMeldung": "2023-01-25",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "BisoLich 3,75 mg Tabletten",
+    "atcCode": "C07AB07",
+    "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Zentiva Pharma GmbH",
+    "telefon": "0800 53 53 010",
+    "mail": "MedInfo.DE@zentiva.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "allgemeine Verzögerungen in der Lieferkette",
+    "datumErstmeldung": "2022-12-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "00612341",
       "00614096",
       "00615380"
@@ -1301,28 +1540,6 @@
   },
   {
     "pzn": [
-      "00029021"
-    ],
-    "enr": "2155640",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-03",
-    "datumEnde": "2023-03-12",
-    "datumLetzteMeldung": "2023-01-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Terbiderm 250 mg",
-    "atcCode": "D01BA02",
-    "wirkstoffe": "Terbinafinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "N/A",
-    "mail": "service@dermapharm.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "Die Packungsgrößen 14 Stk. und 42 Stk. (PZN 00027430 und PZN 00030604) sind während der Dauer des Lieferengpasses voraussichtlich weiterhin verfügbar.",
-    "datumErstmeldung": "2023-01-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00165296",
       "00165304"
     ],
@@ -1364,28 +1581,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Die Packungsgrößen 15 ml und 50 ml (PZN 02051243 / 02051326) sind  während der Dauer der Lieferunfähigkeit voraussichtlich weiterhin verfügbar.",
     "datumErstmeldung": "2022-11-17",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02421355"
-    ],
-    "enr": "0070621",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-12",
-    "datumEnde": "2023-02-05",
-    "datumLetzteMeldung": "2023-01-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ampho-Moronal Tabletten",
-    "atcCode": "A07AA07",
-    "wirkstoffe": "Amphotericin B",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "N/A",
-    "mail": "service@dermapharm.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "Die Packungsgrößen 20 Stk. und 100 Stk. (PZN 01335435 und PZN 01335441) sind voraussichtlich während der Dauer des Lieferengpasses weiterhin lieferbar.",
-    "datumErstmeldung": "2022-12-14",
     "infoFachkreise": "Nein"
   },
   {
@@ -1525,31 +1720,6 @@
     "mail": "Zulassung-Sekretariat@mibegmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-11-22",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08704338",
-      "08704344",
-      "08704367",
-      "14141879"
-    ],
-    "enr": "2138185",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-20",
-    "datumEnde": "2023-02-24",
-    "datumLetzteMeldung": "2023-01-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Dexa 4mg inject JENAPHARM",
-    "atcCode": "H02AB02",
-    "wirkstoffe": "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Dexa 4mg inject JENAPHARM - Einreichungsnummer: 2138185",
-    "datumErstmeldung": "2023-01-04",
     "infoFachkreise": "Nein"
   },
   {
@@ -2213,27 +2383,6 @@
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-02-16",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01433706"
-    ],
-    "enr": "2122679",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-11",
-    "datumEnde": "2023-02-12",
-    "datumLetzteMeldung": "2023-01-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Volon A 10 - 5ml",
-    "atcCode": "H02AB08",
-    "wirkstoffe": "Triamcinolonacetonid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "N/A",
-    "mail": "service@dermapharm.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-01-12",
     "infoFachkreise": "Nein"
   },
   {
@@ -5301,29 +5450,6 @@
   },
   {
     "pzn": [
-      "16498887",
-      "16498893"
-    ],
-    "enr": "2203709",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-12-05",
-    "datumEnde": "2023-01-21",
-    "datumLetzteMeldung": "2022-12-19",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "BisoLich 3,75 mg Tabletten",
-    "atcCode": "C07AB07",
-    "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Zentiva Pharma GmbH",
-    "telefon": "0800 53 53 010",
-    "mail": "MedInfo.DE@zentiva.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "allgemeine Verzögerungen in der Lieferkette",
-    "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01686353"
     ],
     "enr": "2125465",
@@ -5955,29 +6081,6 @@
   },
   {
     "pzn": [
-      "06305798",
-      "06305806"
-    ],
-    "enr": "2155390",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-25",
-    "datumEnde": "2023-01-31",
-    "datumLetzteMeldung": "2022-12-07",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ergenyl chrono 300 mg",
-    "atcCode": "N03AG01",
-    "wirkstoffe": "Natriumvalproat; Valproinsäure",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Valproat Chrono Winthrop® 300mg (PZN 00999110, 00999127) oder wirkstoffgleiche Präparate von Mitbewerber.",
-    "datumErstmeldung": "2022-11-25",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04008079",
       "04346267"
     ],
@@ -6042,28 +6145,6 @@
     "alternativPraeparat": "Infectomox 750 Saft - Einreichungsnummer: 0727386",
     "datumErstmeldung": "2022-11-30",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00676482"
-    ],
-    "enr": "2143000",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-07",
-    "datumEnde": "2023-02-17",
-    "datumLetzteMeldung": "2022-12-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Xylocitin-loc 2 % 10 ml",
-    "atcCode": "N01BB02",
-    "wirkstoffe": "Lidocainhydrochlorid-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Xylocitin-loc 2 % 10 ml - Einreichungsnummer: 2143000",
-    "datumErstmeldung": "2022-11-08",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -8944,44 +9025,6 @@
     "mail": "regulatory@teofarma.it",
     "grund": "GMP Mängel",
     "datumErstmeldung": "2020-10-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [],
-    "enr": "2130559",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2020-09-01",
-    "datumEnde": "2023-01-31",
-    "datumLetzteMeldung": "2021-05-11",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ranitidin AL 300",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "07333/9651-0",
-    "mail": "info@aliud.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2020-09-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [],
-    "enr": "2130558",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2020-09-01",
-    "datumEnde": "2023-01-31",
-    "datumLetzteMeldung": "2021-05-11",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ranitidin AL 150",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "07333/9651-0",
-    "mail": "info@aliud.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2020-09-30",
     "infoFachkreise": "Nein"
   },
   {
