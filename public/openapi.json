@@ -69,12 +69,12 @@
         }
       }
     },
-    "/source/{id}": {
+    "/source": {
       "get": {
         "summary": "Verfügbare Dateien zu einer Ressource anzeigen",
         "parameters": [
           {
-            "in": "path",
+            "in": "query",
             "name": "id",
             "schema": {
               "type": "string"
@@ -97,12 +97,12 @@
         }
       }
     },
-    "/source/{id}/{file}": {
+    "/file": {
       "get": {
         "summary": "Datei laden",
         "parameters": [
           {
-            "in": "path",
+            "in": "query",
             "name": "id",
             "schema": {
               "type": "string"
@@ -110,7 +110,7 @@
             "required": true
           },
           {
-            "in": "path",
+            "in": "query",
             "name": "file",
             "schema": {
               "type": "string"

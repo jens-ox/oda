@@ -1,6 +1,6 @@
 import { join, resolve } from 'path'
-import { sources } from '../../../sources'
-import { glob } from '../../../utils/glob'
+import { glob } from 'glob'
+import { sources } from '@/sources'
 
 interface SourcePageProps {
   params: {
@@ -11,7 +11,7 @@ interface SourcePageProps {
 const getData = async (id: string) => {
   // find matching files
   const path = join(resolve('./data'), id, '**')
-  const matchingFiles = await glob(path)
+  const matchingFiles = await glob(path, { nodir: true })
   return { files: matchingFiles, base: resolve('./') }
 }
 
