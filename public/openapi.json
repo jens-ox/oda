@@ -7,7 +7,10 @@
   },
   "servers": [
     {
-      "url": "https://bundesdatenkrake.vercel.app/api"
+      "url": "https://krake.dev/api"
+    },
+    {
+      "url": "http://localhost:3000/api"
     }
   ],
   "components": {

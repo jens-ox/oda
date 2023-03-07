@@ -10,7 +10,7 @@ Extraction, versioning and machine-readable provisioning of public data.
 
 ## API
 
-See the [deployed Swagger docs](https://bundesdatenkrake.vercel.app/swagger).
+See the [deployed Swagger docs](https://krake.dev/swagger).
 
 ## Adding exporters
 
