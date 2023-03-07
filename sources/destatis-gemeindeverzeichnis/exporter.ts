@@ -40,7 +40,7 @@ export const GVExporter: Exporter<Result> = async () => {
   await page.goto('https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html')
 
   // close cookie banner
-  await page.locator('div[role="dialog"] >> text=Schließen').click()
+  await page.locator('button >> text=Akzeptieren').click()
 
   // open regionale gliederung
   await page.locator('button >> text=Regionale Gliederung').first().click()
