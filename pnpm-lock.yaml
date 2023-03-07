@@ -3,7 +3,6 @@ lockfileVersion: 5.4
 specifiers:
   '@headlessui/react': ^1.7.13
   '@iconicicons/react': ^1.5.1
-  '@next/font': ^13.2.3
   '@types/glob': ^8.1.0
   '@types/node': ^18.14.6
   '@types/papaparse': ^5.3.7
@@ -44,7 +43,6 @@ specifiers:
 dependencies:
   '@headlessui/react': 1.7.13_biqbaboplfbrettd7655fr4n2y
   '@iconicicons/react': 1.5.1_react@18.2.0
-  '@next/font': 13.2.3
   axios: 1.3.4
   clsx: 1.2.1
   date-fns: 2.29.3
@@ -193,10 +191,6 @@ packages:
     resolution: {integrity: sha512-QmMPItnU7VeojI1KnuwL9SLFWEwmaNHNlnOGpoTwdLoSiP9sc8KYiAHWEc4/44L+cAdCxcZYvn7frcRNP5l84Q==}
     dependencies:
       glob: 7.1.7
-    dev: false
-
-  /@next/font/13.2.3:
-    resolution: {integrity: sha512-7EHzk0f7FVYICLUZTpyPk93IfcTUao++Xt1Sgb+Zk5dVOCYHabqLtlF5ywSoXIqyFlo0qlshEBxsrzHAGTWkDw==}
     dev: false
 
   /@next/swc-android-arm-eabi/13.2.3:
