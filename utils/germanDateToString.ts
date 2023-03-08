@@ -6,6 +6,6 @@ export const germanDateToString = (dateString: string): string | undefined => {
     return formatISO(parse(dateString, 'dd.MM.yyyy', new Date()), { representation: 'date' })
   } catch (error) {
     console.error('error parsing date string: ', dateString)
-    console.error(error)
+    console.error('got error: ', error)
   }
 }
