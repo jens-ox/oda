@@ -7,6 +7,8 @@ import { Gemeindeverzeichnis } from './destatis-gemeindeverzeichnis'
 import { GVExporter } from './destatis-gemeindeverzeichnis/exporter'
 import { Ladesaeulen } from './ladesaeulenregister'
 import { LadesaeulenExporter } from './ladesaeulenregister/exporter'
+import { Rigoletto } from './rigoletto'
+import { RigolettoExporter } from './rigoletto/exporter'
 
 export const exporters: Array<ExporterMap> = [
   {
@@ -24,5 +26,9 @@ export const exporters: Array<ExporterMap> = [
   {
     id: Ladesaeulen.id,
     exporter: LadesaeulenExporter
+  },
+  {
+    id: Rigoletto.id,
+    exporter: RigolettoExporter
   }
 ]
