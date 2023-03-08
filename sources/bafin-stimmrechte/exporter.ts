@@ -1,15 +1,18 @@
 import axios from 'axios'
-import Papa from 'papaparse'
+import { parse } from 'papaparse'
 import { Exporter } from '../../types'
 import { germanDateToString } from '../../utils/germanDateToString'
-import { BafinResult } from './types'
+import { validate } from '../../utils/validate'
+import { bafinObjectSchema, BafinObjectType } from './schema'
 
-export const BafinExporter: Exporter<Array<BafinResult>> = async () => {
+export const BafinExporter: Exporter<Array<BafinObjectType>> = async () => {
   const { data: rawData } = await axios.get(
     'https://portal.mvp.bafin.de/database/AnteileInfo/aktiengesellschaft.do?d-3611442-e=1&cmd=zeigeGesamtExport&6578706f7274=1',
     { insecureHTTPParser: true }
   )
-  const data = Papa.parse<Array<string>>(rawData).data.map((e) => ({
+
+  const parsedData = parse<Array<string>>(rawData).data
+  const data = parsedData.map((e) => ({
     veroeffentlichung: germanDateToString(e[9]),
     emittent: {
       name: e[0],
@@ -27,10 +30,12 @@ export const BafinExporter: Exporter<Array<BafinResult>> = async () => {
       summe: e[8] ? parseFloat(e[8].replace(',', '.')) : undefined
     }
   }))
+
+  const validatedData = validate(bafinObjectSchema, data)
   return [
     {
       targetFile: 'main.json',
-      data
+      data: validatedData
     }
   ]
 }

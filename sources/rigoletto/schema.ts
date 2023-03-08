@@ -1,9 +1,5 @@
 import { z } from 'zod'
-
-const maybeEmptyString = z
-  .string()
-  .optional()
-  .transform((s) => (s === '' ? undefined : s))
+import { dateString, maybeEmptyString } from '../../utils/zod'
 
 export const rigolettoObjectSchema = z.object({
   Kennnummer: z.coerce.number(),
@@ -15,7 +11,7 @@ export const rigolettoObjectSchema = z.object({
   EG_Nr: maybeEmptyString,
   MFaktor: maybeEmptyString,
   Synonym: maybeEmptyString,
-  Veröffentlichungsdatum: z.string().regex(/[0-9]{4}-1[0-2]|[1-9]-3[01]|[12][0-9]|[1-9]/),
+  Veröffentlichungsdatum: dateString,
   WGK: z.string(),
   Fussnoten: maybeEmptyString
 })
