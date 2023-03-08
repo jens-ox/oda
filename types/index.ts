@@ -1,3 +1,5 @@
+import { ZodSchema } from 'zod'
+
 export type Exporter<ResultType = unknown> = () => Promise<
   Array<{
     targetFile: string
@@ -16,4 +18,5 @@ export interface Source {
   description: string
   sourceName: string
   sourceLink: string
+  schema?: ZodSchema
 }
