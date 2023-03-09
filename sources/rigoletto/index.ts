@@ -7,5 +7,7 @@ export const Rigoletto: Source = {
   description: 'Datenbank wassergefährdende Stoffe',
   sourceName: 'Umweltbundesamt',
   sourceLink: 'https://webrigoletto.uba.de/Rigoletto/',
-  schema: rigolettoSchema
+  targets: {
+    'main.json': rigolettoSchema
+  }
 }

@@ -16,7 +16,7 @@ const createStecker = (typ: string, kW: string, publicKey: string): Stecker => {
   }
 }
 
-export const LadesaeulenExporter: Exporter<Array<Ladesaeule>> = async () => {
+export const LadesaeulenExporter: Exporter = async () => {
   const { data: rawData } = await axios.get(
     'https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Energie/Unternehmen_Institutionen/E_Mobilitaet/Ladesaeulenregister_CSV.csv?__blob=publicationFile',
     { insecureHTTPParser: true, responseEncoding: 'latin1' }

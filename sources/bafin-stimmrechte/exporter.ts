@@ -3,9 +3,9 @@ import { parse } from 'papaparse'
 import { Exporter } from '../../types'
 import { germanDateToString } from '../../utils/germanDateToString'
 import { validate } from '../../utils/validate'
-import { bafinObjectSchema, BafinObjectType } from './schema'
+import { bafinObjectSchema } from './schema'
 
-export const BafinExporter: Exporter<Array<BafinObjectType>> = async () => {
+export const BafinExporter: Exporter = async () => {
   const { data: rawData } = await axios.get(
     'https://portal.mvp.bafin.de/database/AnteileInfo/aktiengesellschaft.do?d-3611442-e=1&cmd=zeigeGesamtExport&6578706f7274=1',
     { insecureHTTPParser: true }

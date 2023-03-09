@@ -3,9 +3,8 @@ import playwright from 'playwright'
 import { Exporter } from '../../types'
 import { germanDateToString } from '../../utils/germanDateToString'
 import streamToString from '../../utils/streamToString'
-import { ArzneiEngpassResult } from './types'
 
-export const ArzneiEngpassExporter: Exporter<Array<ArzneiEngpassResult>> = async () => {
+export const ArzneiEngpassExporter: Exporter = async () => {
   const browser = await playwright.chromium.launch({ headless: typeof process.env.CI !== 'undefined' })
   const page = await browser.newPage()
 

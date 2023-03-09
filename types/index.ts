@@ -1,15 +1,15 @@
 import { ZodSchema } from 'zod'
 
-export type Exporter<ResultType = unknown> = () => Promise<
+export type Exporter = () => Promise<
   Array<{
     targetFile: string
-    data: ResultType
+    data: unknown
   }>
 >
 
-export type ExporterMap<ResultType = unknown> = {
+export type ExporterMap = {
   id: string
-  exporter: Exporter<ResultType>
+  exporter: Exporter
 }
 
 export interface Source {
@@ -18,5 +18,5 @@ export interface Source {
   description: string
   sourceName: string
   sourceLink: string
-  schema?: ZodSchema
+  targets?: Record<string, ZodSchema>
 }

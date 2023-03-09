@@ -4,7 +4,7 @@ import { rigolettoObjectSchema, RigolettoType } from './schema'
 import { validate } from '@/utils/validate'
 import { Exporter } from '@/types'
 
-export const RigolettoExporter: Exporter<Array<RigolettoType>> = async () => {
+export const RigolettoExporter: Exporter = async () => {
   const { data: rawData } = await axios.get(
     'https://webrigoletto.uba.de/Rigoletto/Home/GetClassificationFile/Export_Tabelle'
   )

@@ -7,5 +7,7 @@ export const BafinStimmrechte: Source = {
   description: 'Bedeutende Stimmrechtsanteile',
   sourceLink: 'https://portal.mvp.bafin.de/database/AnteileInfo/',
   sourceName: 'Bundesanstalt für Finanzdienstleistungsaufsicht',
-  schema: bafinSchema
+  targets: {
+    'main.json': bafinSchema
+  }
 }

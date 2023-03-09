@@ -33,7 +33,7 @@ const parseRawDownload = (content: string) =>
       return acc
     }, {} as Result)
 
-export const GVExporter: Exporter<Result> = async () => {
+export const GVExporter: Exporter = async () => {
   const browser = await playwright.chromium.launch({ headless: typeof process.env.CI !== 'undefined' })
   const page = await browser.newPage()
 
