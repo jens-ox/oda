@@ -1,5 +1,5 @@
+import { Source } from '../../types'
 import { bafinSchema } from './schema'
-import { Source } from '@/types'
 
 export const BafinStimmrechte: Source = {
   id: 'bafin-stimmrechte',

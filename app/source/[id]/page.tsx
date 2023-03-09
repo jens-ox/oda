@@ -1,6 +1,6 @@
 import { join, resolve } from 'path'
 import { glob } from 'glob'
-import { sources } from '@/sources'
+import { sources } from '../../../sources'
 
 interface SourcePageProps {
   params: {

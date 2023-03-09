@@ -1,8 +1,8 @@
 import axios from 'axios'
 import { parse } from 'papaparse'
+import { validate } from '../../utils/validate'
+import { Exporter } from '../../types'
 import { rigolettoObjectSchema, RigolettoType } from './schema'
-import { validate } from '@/utils/validate'
-import { Exporter } from '@/types'
 
 export const RigolettoExporter: Exporter = async () => {
   const { data: rawData } = await axios.get(

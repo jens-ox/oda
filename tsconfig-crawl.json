@@ -1,9 +1,6 @@
 {
   "$schema": "http://json.schemastore.org/tsconfig.json",
   "compilerOptions": {
-    "paths": {
-      "@/*": ["./*"]
-    },
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,

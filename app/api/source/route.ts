@@ -2,7 +2,7 @@ import { join, resolve } from 'path'
 import { NextResponse } from 'next/server'
 import { glob } from 'glob'
 import { generateSchema } from '@anatine/zod-openapi'
-import { sources } from '@/sources'
+import { sources } from '../../../sources'
 
 export const GET = async (req: Request) => {
   const { searchParams } = new URL(req.url)
@@ -15,7 +15,8 @@ export const GET = async (req: Request) => {
   const files = await glob(path, { nodir: true })
 
   return NextResponse.json({
-    files: files.map((f) => f.replace(basePath, '').replace(/^\//, '')),
-    schema: source?.schema ? generateSchema(source.schema) : undefined
+    files: files
+      .map((f) => f.replace(basePath, '').replace(/^\//, ''))
+      .map((f) => ({ path: f, schema: source?.targets?.[f] ? generateSchema(source.targets[f]) : undefined }))
   })
 }
