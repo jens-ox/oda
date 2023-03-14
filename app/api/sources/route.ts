@@ -2,5 +2,5 @@ import { NextResponse } from 'next/server'
 import { sources } from '../../../sources'
 
 export const GET = async () => {
-  return NextResponse.json(sources.map(({ targets, ...s }) => s))
+  return NextResponse.json(sources.map(({ targets: _, ...s }) => s))
 }
