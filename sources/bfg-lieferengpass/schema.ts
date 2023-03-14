@@ -1,9 +1,13 @@
+import { extendApi } from '@anatine/zod-openapi'
 import { z } from 'zod'
 import { dateString, maybeEmptyString } from '../../utils/zod'
 
 export const bfgObjectSchema = z.object({
-  pzn: z.array(z.coerce.number()),
-  enr: z.array(z.coerce.number()),
+  pzn: extendApi(z.array(z.coerce.number()), { description: 'Pharma-Zentralnummer', example: '01300419' }),
+  enr: extendApi(z.array(z.coerce.number()), {
+    description: 'Eingangsnummer, auch Einreichungsnummer',
+    example: '0245718'
+  }),
   meldungsart: z.enum(['Änderungsmeldung', 'Erstmeldung']),
   datumBeginn: dateString,
   datumEnde: dateString,
@@ -13,7 +17,11 @@ export const bfgObjectSchema = z.object({
   grundArt: z.enum(['Produktionsproblem', 'Sonstige']),
   grundAnmerkung: maybeEmptyString,
   bezeichnung: z.string(),
-  atcCode: z.string(),
+
+  atcCode: extendApi(z.string(), {
+    description: 'Code laut Anatomical Therapeutic Chemical Classification System (ATC)',
+    example: 'H02AB06'
+  }),
   wirkstoffe: z.string(),
   krankenhausrelevant: z.boolean(),
   zulassungsinhaber: z.string(),
