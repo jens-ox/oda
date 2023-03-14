@@ -1,8 +1,11 @@
 import Papa from 'papaparse'
 import playwright from 'playwright'
 import { Exporter } from '../../types'
+import { parseOptionalString, parseStringArray } from '../../utils/format'
 import { germanDateToString } from '../../utils/germanDateToString'
 import streamToString from '../../utils/streamToString'
+import { validate } from '../../utils/validate'
+import { bfgObjectSchema } from './schema'
 
 export const ArzneiEngpassExporter: Exporter = async () => {
   const browser = await playwright.chromium.launch({ headless: typeof process.env.CI !== 'undefined' })
@@ -38,11 +41,10 @@ export const ArzneiEngpassExporter: Exporter = async () => {
 
   // parse downloaded CSV
   const parsedCsv = Papa.parse<any>(data, { header: true }).data
+
   const cleanedData = parsedCsv.map((e) => ({
-    pzn: e.PZN.split(',')
-      .map((s: string) => s.trim())
-      .filter((s: string) => s !== '' && s !== '*'),
-    enr: e.ENR,
+    pzn: parseStringArray(e.PZN),
+    enr: parseStringArray(e.ENR),
     meldungsart: e.Meldungsart,
     datumBeginn: germanDateToString(e.Beginn),
     datumEnde: germanDateToString(e.Ende),
@@ -53,18 +55,23 @@ export const ArzneiEngpassExporter: Exporter = async () => {
     wirkstoffe: e.Wirkstoffe,
     krankenhausrelevant: e.Krankenhausrelevant === 'ja',
     zulassungsinhaber: e.Zulassungsinhaber,
-    telefon: e.Telefon,
-    mail: e['E-Mail'],
+    telefon: parseOptionalString(e.Telefon),
+    mail: parseOptionalString(e['E-Mail']),
     grund: e.Grund,
-    grundAnmerkung: e['Anm. zum Grund'] !== 'N/A' ? e['Anm. zum Grund'] : undefined,
-    alternativPraeparat: e['Alternativpräparat'] !== 'N/A' ? e['Alternativpräparat'] : undefined,
+    grundAnmerkung: parseOptionalString(e['Anm. zum Grund']),
+    alternativPraeparat: parseOptionalString(e['Alternativpräparat']),
     datumErstmeldung: germanDateToString(e['Datum der Erstmeldung']),
-    infoFachkreise: e['Info an Fachkreise']
+    infoFachkreise: parseOptionalString(e['Info an Fachkreise'])
   }))
+
+  // filter out dead fields
+  const filteredData = cleanedData.filter((e) => e.pzn && e.pzn.length > 0)
+
+  const validatedData = validate(bfgObjectSchema, filteredData)
 
   return [
     {
-      data: cleanedData,
+      data: validatedData,
       targetFile: 'main.json'
     }
   ]

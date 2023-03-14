@@ -15,3 +15,15 @@ export const stringToDate = (dateString: string): Date => parseISO(dateString)
 export const formatDate = dateFormatter.format
 export const formatDateTime = dateTimeFormatter.format
 export const formatPercent = percentFormatter.format
+
+export const deadStrings = [null, undefined, '', '-', 'N/A', 'n/a', '*']
+
+export const parseOptionalString = (s?: string) => (deadStrings.includes(s?.trim()) ? undefined : s?.trim())
+
+export const parseStringArray = (stringArray?: string) =>
+  !stringArray
+    ? undefined
+    : stringArray
+        .split(',')
+        .map((s: string) => s.trim())
+        .filter((s: string) => !deadStrings.includes(s))
