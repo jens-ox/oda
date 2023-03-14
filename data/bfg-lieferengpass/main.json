@@ -1,6 +1,814 @@
 [
   {
     "pzn": [
+      "11865312",
+      "11865329",
+      "11865335"
+    ],
+    "enr": "2194220",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-02",
+    "datumEnde": "2023-06-02",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Rasagilin Glenmark 1 mg Tabletten",
+    "atcCode": "N04BD02",
+    "wirkstoffe": "Rasagilintartrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "service.de@glenmarkpharma.com",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "grundAnmerkung": "Überwachung der Nitrosaminkonzentrationen im Wirkstoff und Fertigprodukt und andauernde Ursachenanalyse. Bis zum Abschluss aller Untersuchungen am Produktionsstandort in Indien werden vorsorglich alle bereits produzierten Marktchargen weiterhin im Status \"Quarantäne\" bleiben. Die Qualifizierung eines europäischen Labors zur Testung der Nitrosaminwerte ist außerdem Grundvoraussetzung für die Freigabe neu produzierter Chargen.",
+    "datumErstmeldung": "2023-01-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11543666"
+    ],
+    "enr": "2187981",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-02",
+    "datumEnde": "2023-05-19",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxyconoica 60 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": " 08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11543577"
+    ],
+    "enr": "2187979",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-02-27",
+    "datumEnde": "2023-06-16",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxyconoica 30 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11543531",
+      "11543554"
+    ],
+    "enr": "2187978",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-30",
+    "datumEnde": "2023-06-16",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxyconoica 20 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11543471",
+      "11543494"
+    ],
+    "enr": "2187976",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-26",
+    "datumEnde": "2023-05-19",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxyconoica 10 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11543608",
+      "11543614",
+      "11543620"
+    ],
+    "enr": "2187980",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-02",
+    "datumEnde": "2023-06-02",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxyconoica 40 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-17",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11130639"
+    ],
+    "enr": "2706422",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-30",
+    "datumEnde": "2023-06-02",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Olanzapin Glenmark 5 mg Tabletten - OP56",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09466071"
+    ],
+    "enr": "2706432",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-02",
+    "datumEnde": "2023-05-05",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Olanzapin Glenmark 15 mg Tabletten - OP70",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-16",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13925426",
+      "13925432",
+      "13925449"
+    ],
+    "enr": "2185920",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-30",
+    "datumEnde": "2023-07-14",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-HCl Glenmark 4 mg Hartkapseln, retardiert",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09947540",
+      "09947563"
+    ],
+    "enr": "2185173",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-01",
+    "datumEnde": "2023-05-26",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Glentek 50 mg Filmtabletten",
+    "atcCode": "N07XX02",
+    "wirkstoffe": "Riluzol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14266233"
+    ],
+    "enr": "2200582",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-23",
+    "datumEnde": "2023-04-14",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/40 mg Tabletten",
+    "atcCode": "C10BA02",
+    "wirkstoffe": "Ezetimib; Simvastatin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14266204"
+    ],
+    "enr": "2200581",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-26",
+    "datumEnde": "2023-06-02",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/20 mg Tabletten",
+    "atcCode": "C10BA02",
+    "wirkstoffe": "Ezetimib; Simvastatin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16139881"
+    ],
+    "enr": "2203433",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-02",
+    "datumEnde": "2023-07-28",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Dutasterid/Tamsulosin Glenmark 0,5 mg/0,4 mg Hartkapseln",
+    "atcCode": "G04CA52",
+    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-17",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11532473"
+    ],
+    "enr": "2199817",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-06",
+    "datumEnde": "2023-08-25",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clozapin Glenmark 100 mg Tabletten",
+    "atcCode": "N05AH02",
+    "wirkstoffe": "Clozapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16894229"
+    ],
+    "enr": "2204609",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2023-05-26",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Beclometason Glenmark Dosieraerosol 250 Mikrogramm/Sprühstoß Druckgasinhalation, Lösung",
+    "atcCode": "R03BA01",
+    "wirkstoffe": "Beclometasondipropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16894175",
+      "16894206"
+    ],
+    "enr": "2204608",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-02",
+    "datumEnde": "2023-04-28",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Beclometason Glenmark Dosieraerosol 200 Mikrogramm/Sprühstoß Druckgasinhalation, Lösung",
+    "atcCode": "R03BA01",
+    "wirkstoffe": "Beclometasondipropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09688185",
+      "10843722"
+    ],
+    "enr": "2128207",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-10",
+    "datumEnde": "2023-03-24",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefaclor Aristo forte 250 mg/ 5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "telefon": "N/A",
+    "mail": "helen.braun@aristo-pharma.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09688179"
+    ],
+    "enr": "2128206",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-10",
+    "datumEnde": "2023-03-24",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefaclor Aristo 125 mg/ 5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "telefon": "N/A",
+    "mail": "helen.braun@aristo-pharma.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02129465",
+      "02129494",
+      "02850398",
+      "10549336"
+    ],
+    "enr": "2168100",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-10",
+    "datumEnde": "2023-05-03",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pantoprazol Aristo 40 mg magensaftresistente Tabletten",
+    "atcCode": "A02BC02",
+    "wirkstoffe": "Pantoprazol-Natrium-Sesquihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "telefon": "N/A",
+    "mail": "helen.braun@aristo-pharma.de",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01799838"
+    ],
+    "enr": "2151075",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-13",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Avalox 400 mg/250 ml Infusionslösung",
+    "atcCode": "J01MA14",
+    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wassergehalt))",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bayer Vital GmbH",
+    "telefon": "0800 6422937",
+    "mail": "medical-information@bayer.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2023-03-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02036634"
+    ],
+    "enr": "0613441",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-02",
+    "datumEnde": "2023-05-15",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ampicillin-ratiopharm 2,0g",
+    "atcCode": "J01CA01",
+    "wirkstoffe": "Ampicillin-Natrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0731 402 7028",
+    "mail": "Julian.Simon@teva.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-01-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04240445"
+    ],
+    "enr": "0613406",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-16",
+    "datumEnde": "2023-03-20",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectotrimet 50 Saft",
+    "atcCode": "J01EA01",
+    "wirkstoffe": "Trimethoprim",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7900",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Nachfrage durch Lieferunfähigkeit bei Cotrimoxazol",
+    "datumErstmeldung": "2022-12-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01107213",
+      "03977445",
+      "07507110"
+    ],
+    "enr": "0610075",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-14",
+    "datumEnde": "2023-03-20",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 400 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252-95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01356271"
+    ],
+    "enr": "2132826",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-15",
+    "datumEnde": "2023-03-27",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocef 250 Saft",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252-95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16498835",
+      "16498841"
+    ],
+    "enr": "2203707",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-05",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-03-13",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "BisoLich 1,25 mg Tabletten",
+    "atcCode": "C07AB07",
+    "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Zentiva Pharma GmbH",
+    "telefon": "0800 53 53 010",
+    "mail": "MedInfo.DE@zentiva.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "allgemeine Verzögerungen aufgrund der Gesamtlage im Bereich der Lieferkette",
+    "datumErstmeldung": "2022-12-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16849789"
+    ],
+    "enr": "7000654",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-17",
+    "datumEnde": "2023-03-24",
+    "datumLetzteMeldung": "2023-03-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Penicillin G HEXAL 5 Millionen I.E. Pulver zur Herstellung einer Injektions-/Infusionslösung",
+    "atcCode": "J01CE01",
+    "wirkstoffe": "Benzylpenicillin-Natrium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "telefon": "N/A",
+    "mail": "service@hexal.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-02-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00544674"
+    ],
+    "enr": "2134926",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-06",
+    "datumEnde": "2023-03-17",
+    "datumLetzteMeldung": "2023-03-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoclav Trockensaft",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "telefon": "0800-4392527",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-09-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03495433"
+    ],
+    "enr": "0792053",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-09",
+    "datumEnde": "2023-03-15",
+    "datumLetzteMeldung": "2023-03-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxytocin 5 I.E. Hexal",
+    "atcCode": "H01BB02",
+    "wirkstoffe": "Oxytocin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "telefon": "N/A",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08704338",
+      "08754796"
+    ],
+    "enr": "2138185",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-20",
+    "datumEnde": "2023-05-26",
+    "datumLetzteMeldung": "2023-03-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Dexa 4mg inject JENAPHARM",
+    "atcCode": "H02AB02",
+    "wirkstoffe": "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-01-04",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01343535",
+      "01343541"
+    ],
+    "enr": "2140461",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-14",
+    "datumEnde": "2023-04-28",
+    "datumLetzteMeldung": "2023-03-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 25 mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-12-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09466036"
+    ],
+    "enr": "2706429",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-30",
+    "datumEnde": "2023-04-28",
+    "datumLetzteMeldung": "2023-03-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Olanzapin Glenmark 10 mg Tabletten - OP70",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11532527"
+    ],
+    "enr": "2199818",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-19",
+    "datumEnde": "2023-04-07",
+    "datumLetzteMeldung": "2023-03-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clozapin Glenmark 200 mg Tabletten",
+    "atcCode": "N05AH02",
+    "wirkstoffe": "Clozapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00816842",
+      "00816859"
+    ],
+    "enr": "2146005",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-06-29",
+    "datumEnde": "2023-10-31",
+    "datumLetzteMeldung": "2023-03-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Carbamazepin-neuraxpharm 400 mg retard",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "N/A",
+    "mail": "zulassung@neuraxpharm.de",
+    "grund": "Sonstige",
+    "grundAnmerkung": "n/a",
+    "datumErstmeldung": "2023-01-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00771967",
+      "00771973",
+      "00771996"
+    ],
+    "enr": "2146003",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-09",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-03-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Carbamazepin-neuraxpharm 200mg retard",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "N/A",
+    "mail": "zulassung@neuraxpharm.de",
+    "grund": "Sonstige",
+    "grundAnmerkung": "n/a",
+    "datumErstmeldung": "2023-01-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03220989",
+      "03220995",
+      "04495582"
+    ],
+    "enr": "2107536",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-07",
+    "datumEnde": "2023-06-01",
+    "datumLetzteMeldung": "2023-03-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Carbamazepin-neuraxpharm 200mg",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "N/A",
+    "mail": "zulassung@neuraxpharm.de",
+    "grund": "Sonstige",
+    "grundAnmerkung": "n/a",
+    "datumErstmeldung": "2023-01-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07620639"
+    ],
+    "enr": "0423433",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-12",
+    "datumEnde": "2023-03-17",
+    "datumLetzteMeldung": "2023-03-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hepa-Merz Granulat 3000",
+    "atcCode": "A05BA",
+    "wirkstoffe": "Ornithinaspartat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Merz Pharmaceuticals GmbH",
+    "telefon": "N/A",
+    "mail": "jan.ranau@merz.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferengpass beim API",
+    "datumErstmeldung": "2023-02-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01491276"
+    ],
+    "enr": "0150231",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-02-28",
+    "datumEnde": "2023-05-31",
+    "datumLetzteMeldung": "2023-03-10",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Cyclopentolat Alcon 1%",
+    "atcCode": "S01FA04",
+    "wirkstoffe": "Cyclopentolathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Alcon Deutschland GmbH",
+    "telefon": "N/A",
+    "mail": "produkt.zulassung@alcon.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-03-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "04632582",
       "04835351",
       "07574394"
@@ -106,29 +914,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-03-08",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00816842",
-      "00816859"
-    ],
-    "enr": "2146005",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-06-29",
-    "datumEnde": "2023-09-30",
-    "datumLetzteMeldung": "2023-03-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Carbamazepin-neuraxpharm 400 mg retard",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "N/A",
-    "mail": "zulassung@neuraxpharm.de",
-    "grund": "Sonstige",
-    "grundAnmerkung": "n/a",
-    "datumErstmeldung": "2023-01-20",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -656,27 +1441,6 @@
   },
   {
     "pzn": [
-      "16849789"
-    ],
-    "enr": "7000654",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-17",
-    "datumEnde": "2023-03-10",
-    "datumLetzteMeldung": "2023-03-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Penicillin G HEXAL 5 Millionen I.E. Pulver zur Herstellung einer Injektions-/Infusionslösung",
-    "atcCode": "J01CE01",
-    "wirkstoffe": "Benzylpenicillin-Natrium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
-    "mail": "service@hexal.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-02-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03820206",
       "03820471"
     ],
@@ -905,31 +1669,6 @@
   },
   {
     "pzn": [
-      "02129465",
-      "02129494",
-      "02850398",
-      "10549336",
-      "10549342"
-    ],
-    "enr": "2168100",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-10",
-    "datumEnde": "2023-05-03",
-    "datumLetzteMeldung": "2023-03-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pantoprazol Aristo 40 mg magensaftresistente Tabletten",
-    "atcCode": "A02BC02",
-    "wirkstoffe": "Pantoprazol-Natrium-Sesquihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
-    "mail": "helen.braun@aristo-pharma.de",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03633154"
     ],
     "enr": "2126420",
@@ -971,28 +1710,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
     "datumErstmeldung": "2022-12-09",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04240445"
-    ],
-    "enr": "0613406",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-16",
-    "datumEnde": "2023-03-13",
-    "datumLetzteMeldung": "2023-03-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectotrimet 50 Saft",
-    "atcCode": "J01EA01",
-    "wirkstoffe": "Trimethoprim",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7900",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage durch Lieferunfähigkeit bei Cotrimoxazol",
-    "datumErstmeldung": "2022-12-01",
     "infoFachkreise": "Nein"
   },
   {
@@ -1234,27 +1951,6 @@
   },
   {
     "pzn": [
-      "03495433"
-    ],
-    "enr": "0792053",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-09",
-    "datumEnde": "2023-03-07",
-    "datumLetzteMeldung": "2023-03-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxytocin 5 I.E. Hexal",
-    "atcCode": "H01BB02",
-    "wirkstoffe": "Oxytocin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-12",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "05387630"
     ],
     "enr": "2702570",
@@ -1473,27 +2169,6 @@
     "mail": "de-info@aspenpharma.eu",
     "grund": "Änderung des Herstellverfahrens",
     "datumErstmeldung": "2022-03-30",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02062560"
-    ],
-    "enr": "0080298",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-07-12",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-03-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Thevier 50",
-    "atcCode": "H03AA01",
-    "wirkstoffe": "Levothyroxin-Natrium x H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aspen Pharma Trading Limited",
-    "telefon": "+49 89  93 08 38 00",
-    "mail": "de-info@aspenpharma.eu",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-07-12",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -1949,27 +2624,6 @@
   },
   {
     "pzn": [
-      "12638860"
-    ],
-    "enr": "2198449",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-02",
-    "datumEnde": "2023-03-10",
-    "datumLetzteMeldung": "2023-02-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Abacavir/Lamivudin Glenmark 600 mg/300 mg Filmtabletten",
-    "atcCode": "J05AR02",
-    "wirkstoffe": "Abacavirhydrochlorid; Lamivudin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-16",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01300425"
     ],
     "enr": "2150545",
@@ -2241,27 +2895,6 @@
   },
   {
     "pzn": [
-      "01356271"
-    ],
-    "enr": "2132826",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-15",
-    "datumEnde": "2023-03-13",
-    "datumLetzteMeldung": "2023-02-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocef 250 Saft",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252-95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00829419"
     ],
     "enr": "2164572",
@@ -2300,29 +2933,6 @@
     "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07620639"
-    ],
-    "enr": "0423433",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-12",
-    "datumEnde": "2023-03-17",
-    "datumLetzteMeldung": "2023-02-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hepa-Merz Granulat 3000",
-    "atcCode": "A05BA",
-    "wirkstoffe": "Ornithinaspartat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Merz Pharmaceuticals GmbH",
-    "telefon": "N/A",
-    "mail": "jan.ranau@merz.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferengpass beim API",
-    "alternativPraeparat": "Hepa-Merz Granulat 3000 - Einreichungsnummer: 0423433",
     "datumErstmeldung": "2023-02-27",
     "infoFachkreise": "Vorgesehen"
   },
@@ -2730,28 +3340,6 @@
   },
   {
     "pzn": [
-      "04029940",
-      "04029964"
-    ],
-    "enr": "3000373",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-14",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-02-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Xylocitin 2% mit Epinephrin (Adrenalin) 0,001 % (1:100000)",
-    "atcCode": "N01BB52",
-    "wirkstoffe": "Epinephrinhydrogentartrat / Adrenalinhydrogentartrat (Ph.Eur.); Lidocainhydrochlorid-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-02-22",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "11695086"
     ],
     "enr": "2709890",
@@ -2883,53 +3471,6 @@
   },
   {
     "pzn": [
-      "00000000",
-      "08443754",
-      "11052810"
-    ],
-    "enr": "2132822",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-20",
-    "datumEnde": "2023-03-10",
-    "datumLetzteMeldung": "2023-02-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefaclor AL TS 250",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "extremer Überverkauf!",
-    "datumErstmeldung": "2022-12-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "08443748"
-    ],
-    "enr": "2132821",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-20",
-    "datumEnde": "2023-03-10",
-    "datumLetzteMeldung": "2023-02-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefaclor AL TS 125",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "extremer Überverkauf!",
-    "datumErstmeldung": "2022-12-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08725155"
     ],
     "enr": "2141349",
@@ -2995,29 +3536,6 @@
   },
   {
     "pzn": [
-      "01343529",
-      "01343535",
-      "01343541"
-    ],
-    "enr": "2140461",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-14",
-    "datumEnde": "2023-04-28",
-    "datumLetzteMeldung": "2023-02-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 25 mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-12-21",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01343618",
       "01343653"
     ],
@@ -3056,29 +3574,6 @@
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Sonstige",
-    "datumErstmeldung": "2023-01-04",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08704321",
-      "08704338",
-      "08754796"
-    ],
-    "enr": "2138185",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-20",
-    "datumEnde": "2023-05-26",
-    "datumLetzteMeldung": "2023-02-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Dexa 4mg inject JENAPHARM",
-    "atcCode": "H02AB02",
-    "wirkstoffe": "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-01-04",
     "infoFachkreise": "Nein"
   },
@@ -3249,50 +3744,6 @@
     "grundAnmerkung": "Als Alternative steht die Kombipackung Fasturtec 1,5mg/ml zur Verfügung (PZN 01551110) - siehe auch Informationsschreiben zum Lieferengpass - Stand Februar 2023",
     "datumErstmeldung": "2022-11-29",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "10044346"
-    ],
-    "enr": "2181492",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-21",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-02-21",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Donepezil Elpen 5 mg Filmtabletten",
-    "atcCode": "N06DA02",
-    "wirkstoffe": "Donepezilhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "N/A",
-    "mail": "michaela.kunze@elpen-pharma.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-02-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01107213",
-      "03977445",
-      "07507110"
-    ],
-    "enr": "0610075",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-14",
-    "datumEnde": "2023-03-20",
-    "datumLetzteMeldung": "2023-02-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 400 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252-95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -3957,27 +4408,6 @@
   },
   {
     "pzn": [
-      "09101487"
-    ],
-    "enr": "2181898",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-14",
-    "datumEnde": "2023-03-15",
-    "datumLetzteMeldung": "2023-02-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "flutiform",
-    "atcCode": "R03AK11",
-    "wirkstoffe": "Fluticasonpropionat (Ph.Eur.); Formoterolfumarat-Dihydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-02-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "09280231"
     ],
     "enr": "2180767",
@@ -4132,27 +4562,6 @@
   },
   {
     "pzn": [
-      "00544674"
-    ],
-    "enr": "2134926",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-06",
-    "datumEnde": "2023-03-10",
-    "datumLetzteMeldung": "2023-02-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoclav Trockensaft",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "0800-4392527",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-09-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "09278524"
     ],
     "enr": "2706795",
@@ -4265,48 +4674,6 @@
   },
   {
     "pzn": [
-      "09466036"
-    ],
-    "enr": "2706429",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-30",
-    "datumEnde": "2023-03-10",
-    "datumLetzteMeldung": "2023-02-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Olanzapin Glenmark 10 mg Tabletten - OP70",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11130639"
-    ],
-    "enr": "2706422",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-30",
-    "datumEnde": "2023-04-21",
-    "datumLetzteMeldung": "2023-02-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Olanzapin Glenmark 5 mg Tabletten - OP56",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "10229270"
     ],
     "enr": "2706419",
@@ -4318,241 +4685,6 @@
     "bezeichnung": "Olanzapin Glenmark 2,5 mg Tabletten - OP56",
     "atcCode": "N05AH03",
     "wirkstoffe": "Olanzapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16894206"
-    ],
-    "enr": "2204608",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-02",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-02-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Beclometason Glenmark Dosieraerosol 200 Mikrogramm/Sprühstoß Druckgasinhalation, Lösung",
-    "atcCode": "R03BA01",
-    "wirkstoffe": "Beclometasondipropionat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14266233"
-    ],
-    "enr": "2200582",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-23",
-    "datumEnde": "2023-03-24",
-    "datumLetzteMeldung": "2023-02-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/40 mg Tabletten",
-    "atcCode": "C10BA02",
-    "wirkstoffe": "Ezetimib; Simvastatin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14266204"
-    ],
-    "enr": "2200581",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-26",
-    "datumEnde": "2023-04-21",
-    "datumLetzteMeldung": "2023-02-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/20 mg Tabletten",
-    "atcCode": "C10BA02",
-    "wirkstoffe": "Ezetimib; Simvastatin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11532510",
-      "11532527"
-    ],
-    "enr": "2199818",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-19",
-    "datumEnde": "2023-03-10",
-    "datumLetzteMeldung": "2023-02-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clozapin Glenmark 200 mg Tabletten",
-    "atcCode": "N05AH02",
-    "wirkstoffe": "Clozapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11532473"
-    ],
-    "enr": "2199817",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-06",
-    "datumEnde": "2023-04-07",
-    "datumLetzteMeldung": "2023-02-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clozapin Glenmark 100 mg Tabletten",
-    "atcCode": "N05AH02",
-    "wirkstoffe": "Clozapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11543666"
-    ],
-    "enr": "2187981",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-02",
-    "datumEnde": "2023-04-14",
-    "datumLetzteMeldung": "2023-02-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxyconoica 60 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": " 08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11543554"
-    ],
-    "enr": "2187978",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-30",
-    "datumEnde": "2023-04-14",
-    "datumLetzteMeldung": "2023-02-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxyconoica 20 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11543471",
-      "11543494"
-    ],
-    "enr": "2187976",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-26",
-    "datumEnde": "2023-04-14",
-    "datumLetzteMeldung": "2023-02-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxyconoica 10 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13925432",
-      "13925449"
-    ],
-    "enr": "2185920",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-30",
-    "datumEnde": "2023-04-07",
-    "datumLetzteMeldung": "2023-02-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HCl Glenmark 4 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09947540",
-      "09947563"
-    ],
-    "enr": "2185173",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-01",
-    "datumEnde": "2023-04-14",
-    "datumLetzteMeldung": "2023-02-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Glentek 50 mg Filmtabletten",
-    "atcCode": "N07XX02",
-    "wirkstoffe": "Riluzol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09425801"
-    ],
-    "enr": "2173288",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-06",
-    "datumEnde": "2023-03-10",
-    "datumLetzteMeldung": "2023-02-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Perindopril Erbumin Glenmark 4 mg Tabletten",
-    "atcCode": "C09AA04",
-    "wirkstoffe": "Perindopril-tert-butylamin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "telefon": "08142 44392 0",
@@ -4740,49 +4872,6 @@
   },
   {
     "pzn": [
-      "09688179"
-    ],
-    "enr": "2128206",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-10",
-    "datumEnde": "2023-03-10",
-    "datumLetzteMeldung": "2023-02-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefaclor Aristo 125 mg/ 5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
-    "mail": "helen.braun@aristo-pharma.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09688185",
-      "10843722"
-    ],
-    "enr": "2128207",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-10",
-    "datumEnde": "2023-03-10",
-    "datumLetzteMeldung": "2023-02-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefaclor Aristo forte 250 mg/ 5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
-    "mail": "helen.braun@aristo-pharma.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04029118",
       "06177171"
     ],
@@ -4839,51 +4928,6 @@
     "bezeichnung": "Olanzapin Glenmark 2,5 mg Tabletten - OP70",
     "atcCode": "N05AH03",
     "wirkstoffe": "Olanzapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-17",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16139881",
-      "16139898"
-    ],
-    "enr": "2203433",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-02",
-    "datumEnde": "2023-06-02",
-    "datumLetzteMeldung": "2023-02-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Dutasterid/Tamsulosin Glenmark 0,5 mg/0,4 mg Hartkapseln",
-    "atcCode": "G04CA52",
-    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-17",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11543608",
-      "11543614",
-      "11543620"
-    ],
-    "enr": "2187980",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-02",
-    "datumEnde": "2023-04-14",
-    "datumLetzteMeldung": "2023-02-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxyconoica 40 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "telefon": "08142 44392 0",
@@ -4980,27 +5024,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2022-08-26",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000"
-    ],
-    "enr": "3004002, 3004003",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-07-18",
-    "datumEnde": "2023-02-28",
-    "datumLetzteMeldung": "2023-02-07",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ACCUPAQUE 300",
-    "atcCode": "V08AB02",
-    "wirkstoffe": "Iohexol",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
-    "telefon": "N/A",
-    "mail": "RegulatoryAffairsDE@ge.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-07-18",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [],
@@ -5458,54 +5481,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Versehentlich falsche ENR gemeldet.",
     "datumErstmeldung": "2023-02-01",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03220989",
-      "03220995",
-      "04495582"
-    ],
-    "enr": "2107536",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-07",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-02-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Carbamazepin-neuraxpharm 200mg",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "N/A",
-    "mail": "zulassung@neuraxpharm.de",
-    "grund": "Sonstige",
-    "grundAnmerkung": "n/a",
-    "datumErstmeldung": "2023-01-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00771967",
-      "00771973",
-      "00771996"
-    ],
-    "enr": "2146003",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-09",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2023-02-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Carbamazepin-neuraxpharm 200mg retard",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "N/A",
-    "mail": "zulassung@neuraxpharm.de",
-    "grund": "Sonstige",
-    "grundAnmerkung": "n/a",
-    "datumErstmeldung": "2023-01-20",
     "infoFachkreise": "Nein"
   },
   {
@@ -6392,30 +6367,6 @@
   },
   {
     "pzn": [
-      "11865312",
-      "11865329",
-      "11865335"
-    ],
-    "enr": "2194220",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-02",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-01-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Rasagilin Glenmark 1 mg Tabletten",
-    "atcCode": "N04BD02",
-    "wirkstoffe": "Rasagilintartrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "service.de@glenmarkpharma.com",
-    "grund": "Probleme beim Wirkstoffhersteller",
-    "grundAnmerkung": "Überwachung der Nitrosaminkonzentrationen im Wirkstoff und Fertigprodukt und andauernde Ursachenanalyse. Bis zum Abschluss aller Untersuchungen am Produktionsstandort in Indien werden vorsorglich alle bereits produzierten Marktchargen weiterhin im Status \"Quarantäne\" bleiben. Die Qualifizierung eines europäischen Labors zur Testung der Nitrosaminwerte ist außerdem Grundvoraussetzung für die Freigabe neu produzierter Chargen.",
-    "datumErstmeldung": "2023-01-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "17483132"
     ],
     "enr": "2201628",
@@ -6498,29 +6449,6 @@
     "mail": "info@ratiopharm.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-19",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16498835",
-      "16498841"
-    ],
-    "enr": "2203707",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-05",
-    "datumEnde": "2023-03-04",
-    "datumLetzteMeldung": "2023-01-19",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "BisoLich 1,25 mg Tabletten",
-    "atcCode": "C07AB07",
-    "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Zentiva Pharma GmbH",
-    "telefon": "0800 53 53 010",
-    "mail": "MedInfo.DE@zentiva.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "allgemeine Verzögerungen aufgrund der Gesamtlage im Bereich der Lieferkette",
-    "datumErstmeldung": "2022-12-19",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -6611,27 +6539,6 @@
   },
   {
     "pzn": [
-      "10417758"
-    ],
-    "enr": "2711919",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-02",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-01-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Olanzapin Glenmark 20 mg Tabletten - OP70",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-17",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01620443"
     ],
     "enr": "2146826",
@@ -6649,27 +6556,6 @@
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-16",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09466071"
-    ],
-    "enr": "2706432",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-02",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-01-16",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Olanzapin Glenmark 15 mg Tabletten - OP70",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-16",
     "infoFachkreise": "Nein"
   },
   {
@@ -7384,48 +7270,6 @@
   },
   {
     "pzn": [
-      "02036611"
-    ],
-    "enr": "0613493",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-02",
-    "datumEnde": "2023-02-15",
-    "datumLetzteMeldung": "2023-01-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ampicillin-ratiopharm 0,5g",
-    "atcCode": "J01CA01",
-    "wirkstoffe": "Ampicillin-Natrium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "0731 402 7028",
-    "mail": "Julian.Simon@teva.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-01-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02036634"
-    ],
-    "enr": "0613441",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-02",
-    "datumEnde": "2023-02-15",
-    "datumLetzteMeldung": "2023-01-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ampicillin-ratiopharm 2,0g",
-    "atcCode": "J01CA01",
-    "wirkstoffe": "Ampicillin-Natrium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "0731 402 7028",
-    "mail": "Julian.Simon@teva.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-01-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "12978455"
     ],
     "enr": "2199223",
@@ -7975,27 +7819,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2018-10-24",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "07419624"
-    ],
-    "enr": "2130220",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-15",
-    "datumEnde": "2023-05-18",
-    "datumLetzteMeldung": "2022-12-15",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Tracutil",
-    "atcCode": "B05XA",
-    "wirkstoffe": "Chrom(III)-chlorid 6 H<2>O; Eisen(II)-chlorid 4 H<2>O; Kaliumiodid; Kupfer(II)-chlorid 2 H<2>O; Mangan(II)-chlorid 4 H<2>O; Natriumfluorid; Natriummolybdat-Dihydrat; Natriumselenit-Pentahydrat; Zinkchlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "B. Braun Melsungen Aktiengesellschaft",
-    "telefon": "N/A",
-    "mail": "uwe.aschenbrenner@bbraun.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-08-12",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
