@@ -9,12 +9,17 @@ export const GET = async (req: Request) => {
   const id = searchParams.get('id')
   const source = sources.find((s) => s.id === id)
 
+  if (!source) return NextResponse.json('source not found', { status: 404 })
+
   const basePath = join(resolve('./data'), id as string)
   const path = join(basePath, '**')
 
   const files = await glob(path, { nodir: true })
 
+  const { targets: _, ...sourceFields } = source
+
   return NextResponse.json({
+    ...sourceFields,
     files: files
       .map((f) => f.replace(basePath, '').replace(/^\//, ''))
       .map((f) => ({ path: f, schema: source?.targets?.[f] ? generateSchema(source.targets[f]) : undefined }))
