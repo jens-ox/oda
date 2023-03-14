@@ -8,9 +8,6 @@
   "servers": [
     {
       "url": "https://www.krake.dev/api"
-    },
-    {
-      "url": "http://localhost:3000/api"
     }
   ],
   "components": {
