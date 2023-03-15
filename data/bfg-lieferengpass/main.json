@@ -1,11 +1,266 @@
 [
   {
     "pzn": [
+      "01300419",
+      "01300425"
+    ],
+    "enr": [
+      "2150545"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-21",
+    "datumEnde": "2023-04-14",
+    "datumLetzteMeldung": "2023-03-14",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolon acis 5mg",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Prednisolon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "08944232460",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Prednisolon acis 5mg - Einreichungsnummer: 2150545",
+    "datumErstmeldung": "2023-02-28",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00676424"
+    ],
+    "enr": [
+      "2142998"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-09",
+    "datumEnde": "2023-05-19",
+    "datumLetzteMeldung": "2023-03-14",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Xylocitin-loc 2 % 2 ml",
+    "atcCode": "N01BB02",
+    "wirkstoffe": "Lidocainhydrochlorid-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Xylocitin-loc 2 % 2 ml - Einreichungsnummer: 2142998",
+    "datumErstmeldung": "2023-03-14",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02804926"
+    ],
+    "enr": [
+      "2108243"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-15",
+    "datumEnde": "2023-05-31",
+    "datumLetzteMeldung": "2023-03-14",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ciprobay 250mg",
+    "atcCode": "J01MA02",
+    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bayer Vital GmbH",
+    "telefon": "0800 6422937",
+    "mail": "medical-information@bayer.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-03-14",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "04748391",
+      "04748416",
+      "04748422",
+      "07558225"
+    ],
+    "enr": [
+      "2121767"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-02",
+    "datumEnde": "2023-03-30",
+    "datumLetzteMeldung": "2023-03-14",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nifedipin AL5",
+    "atcCode": "C08CA05",
+    "wirkstoffe": "Nifedipin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "04748362",
+      "04748379",
+      "04748385",
+      "07558231"
+    ],
+    "enr": [
+      "2121768"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-02",
+    "datumEnde": "2023-03-30",
+    "datumLetzteMeldung": "2023-03-14",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nifedipin AL10",
+    "atcCode": "C08CA05",
+    "wirkstoffe": "Nifedipin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "15563714",
+      "15563720",
+      "15563737"
+    ],
+    "enr": [
+      "2200825"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-03-09",
+    "datumEnde": "2023-03-31",
+    "datumLetzteMeldung": "2023-03-14",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Betahistin AL 24 mg Tabletten",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-03-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "15563677",
+      "15563683",
+      "15563708"
+    ],
+    "enr": [
+      "2200824"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-03-09",
+    "datumEnde": "2023-03-31",
+    "datumLetzteMeldung": "2023-03-14",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Betahistin AL 16 mg Tabletten",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-03-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "15563648",
+      "15563654",
+      "15563660"
+    ],
+    "enr": [
+      "2200823"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-05-05",
+    "datumEnde": "2023-03-31",
+    "datumLetzteMeldung": "2023-03-14",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Betahistin AL 8 mg Tabletten",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-05-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "01309159",
+      "01309165",
+      "02395362"
+    ],
+    "enr": [
+      "2112814"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-05",
+    "datumEnde": "2023-03-31",
+    "datumLetzteMeldung": "2023-03-14",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Betahistin AL 6",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindimesilat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-11-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "04751476",
+      "04751482",
+      "09424405"
+    ],
+    "enr": [
+      "2104753"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-28",
+    "datumEnde": "2023-04-12",
+    "datumLetzteMeldung": "2023-03-14",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxicillin AL 500",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-18",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "11865312",
       "11865329",
       "11865335"
     ],
-    "enr": "2194220",
+    "enr": [
+      "2194220"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-02",
     "datumEnde": "2023-06-02",
@@ -27,7 +282,9 @@
     "pzn": [
       "11543666"
     ],
-    "enr": "2187981",
+    "enr": [
+      "2187981"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-02-02",
     "datumEnde": "2023-05-19",
@@ -38,7 +295,7 @@
     "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": " 08142 44392 0",
+    "telefon": "08142 44392 0",
     "mail": "Service.De@glenmarkpharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-10",
@@ -48,7 +305,9 @@
     "pzn": [
       "11543577"
     ],
-    "enr": "2187979",
+    "enr": [
+      "2187979"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-27",
     "datumEnde": "2023-06-16",
@@ -70,7 +329,9 @@
       "11543531",
       "11543554"
     ],
-    "enr": "2187978",
+    "enr": [
+      "2187978"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-30",
     "datumEnde": "2023-06-16",
@@ -92,7 +353,9 @@
       "11543471",
       "11543494"
     ],
-    "enr": "2187976",
+    "enr": [
+      "2187976"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-26",
     "datumEnde": "2023-05-19",
@@ -115,7 +378,9 @@
       "11543614",
       "11543620"
     ],
-    "enr": "2187980",
+    "enr": [
+      "2187980"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-02",
     "datumEnde": "2023-06-02",
@@ -136,7 +401,9 @@
     "pzn": [
       "11130639"
     ],
-    "enr": "2706422",
+    "enr": [
+      "2706422"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-30",
     "datumEnde": "2023-06-02",
@@ -157,7 +424,9 @@
     "pzn": [
       "09466071"
     ],
-    "enr": "2706432",
+    "enr": [
+      "2706432"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-02",
     "datumEnde": "2023-05-05",
@@ -180,7 +449,9 @@
       "13925432",
       "13925449"
     ],
-    "enr": "2185920",
+    "enr": [
+      "2185920"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-30",
     "datumEnde": "2023-07-14",
@@ -202,7 +473,9 @@
       "09947540",
       "09947563"
     ],
-    "enr": "2185173",
+    "enr": [
+      "2185173"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-02-01",
     "datumEnde": "2023-05-26",
@@ -223,7 +496,9 @@
     "pzn": [
       "14266233"
     ],
-    "enr": "2200582",
+    "enr": [
+      "2200582"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-23",
     "datumEnde": "2023-04-14",
@@ -244,7 +519,9 @@
     "pzn": [
       "14266204"
     ],
-    "enr": "2200581",
+    "enr": [
+      "2200581"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-26",
     "datumEnde": "2023-06-02",
@@ -265,7 +542,9 @@
     "pzn": [
       "16139881"
     ],
-    "enr": "2203433",
+    "enr": [
+      "2203433"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-02",
     "datumEnde": "2023-07-28",
@@ -286,7 +565,9 @@
     "pzn": [
       "11532473"
     ],
-    "enr": "2199817",
+    "enr": [
+      "2199817"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-02-06",
     "datumEnde": "2023-08-25",
@@ -307,7 +588,9 @@
     "pzn": [
       "16894229"
     ],
-    "enr": "2204609",
+    "enr": [
+      "2204609"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-06",
     "datumEnde": "2023-05-26",
@@ -329,7 +612,9 @@
       "16894175",
       "16894206"
     ],
-    "enr": "2204608",
+    "enr": [
+      "2204608"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-02-02",
     "datumEnde": "2023-04-28",
@@ -351,7 +636,9 @@
       "09688185",
       "10843722"
     ],
-    "enr": "2128207",
+    "enr": [
+      "2128207"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-02-10",
     "datumEnde": "2023-03-24",
@@ -362,7 +649,6 @@
     "wirkstoffe": "Cefaclor-Monohydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-10",
@@ -372,7 +658,9 @@
     "pzn": [
       "09688179"
     ],
-    "enr": "2128206",
+    "enr": [
+      "2128206"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-02-10",
     "datumEnde": "2023-03-24",
@@ -383,7 +671,6 @@
     "wirkstoffe": "Cefaclor-Monohydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-10",
@@ -396,7 +683,9 @@
       "02850398",
       "10549336"
     ],
-    "enr": "2168100",
+    "enr": [
+      "2168100"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-02-10",
     "datumEnde": "2023-05-03",
@@ -407,7 +696,6 @@
     "wirkstoffe": "Pantoprazol-Natrium-Sesquihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Probleme beim Sonstigen Hersteller",
     "datumErstmeldung": "2023-02-10",
@@ -417,7 +705,9 @@
     "pzn": [
       "01799838"
     ],
-    "enr": "2151075",
+    "enr": [
+      "2151075"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-13",
     "datumEnde": "2023-06-30",
@@ -438,7 +728,9 @@
     "pzn": [
       "02036634"
     ],
-    "enr": "0613441",
+    "enr": [
+      "0613441"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-02",
     "datumEnde": "2023-05-15",
@@ -459,7 +751,9 @@
     "pzn": [
       "04240445"
     ],
-    "enr": "0613406",
+    "enr": [
+      "0613406"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-16",
     "datumEnde": "2023-03-20",
@@ -483,7 +777,9 @@
       "03977445",
       "07507110"
     ],
-    "enr": "0610075",
+    "enr": [
+      "0610075"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-14",
     "datumEnde": "2023-03-20",
@@ -504,7 +800,9 @@
     "pzn": [
       "01356271"
     ],
-    "enr": "2132826",
+    "enr": [
+      "2132826"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-15",
     "datumEnde": "2023-03-27",
@@ -526,7 +824,9 @@
       "16498835",
       "16498841"
     ],
-    "enr": "2203707",
+    "enr": [
+      "2203707"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-05",
     "datumEnde": "2023-04-30",
@@ -548,7 +848,9 @@
     "pzn": [
       "16849789"
     ],
-    "enr": "7000654",
+    "enr": [
+      "7000654"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-02-17",
     "datumEnde": "2023-03-24",
@@ -559,7 +861,6 @@
     "wirkstoffe": "Benzylpenicillin-Natrium",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-02-17",
@@ -569,7 +870,9 @@
     "pzn": [
       "00544674"
     ],
-    "enr": "2134926",
+    "enr": [
+      "2134926"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-06",
     "datumEnde": "2023-03-17",
@@ -590,7 +893,9 @@
     "pzn": [
       "03495433"
     ],
-    "enr": "0792053",
+    "enr": [
+      "0792053"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-09",
     "datumEnde": "2023-03-15",
@@ -601,7 +906,6 @@
     "wirkstoffe": "Oxytocin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-01-12",
@@ -612,7 +916,9 @@
       "08704338",
       "08754796"
     ],
-    "enr": "2138185",
+    "enr": [
+      "2138185"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-20",
     "datumEnde": "2023-05-26",
@@ -634,7 +940,9 @@
       "01343535",
       "01343541"
     ],
-    "enr": "2140461",
+    "enr": [
+      "2140461"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-14",
     "datumEnde": "2023-04-28",
@@ -655,7 +963,9 @@
     "pzn": [
       "09466036"
     ],
-    "enr": "2706429",
+    "enr": [
+      "2706429"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-30",
     "datumEnde": "2023-04-28",
@@ -676,7 +986,9 @@
     "pzn": [
       "11532527"
     ],
-    "enr": "2199818",
+    "enr": [
+      "2199818"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-19",
     "datumEnde": "2023-04-07",
@@ -698,7 +1010,9 @@
       "00816842",
       "00816859"
     ],
-    "enr": "2146005",
+    "enr": [
+      "2146005"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-06-29",
     "datumEnde": "2023-10-31",
@@ -709,10 +1023,8 @@
     "wirkstoffe": "Carbamazepin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "N/A",
     "mail": "zulassung@neuraxpharm.de",
     "grund": "Sonstige",
-    "grundAnmerkung": "n/a",
     "datumErstmeldung": "2023-01-20",
     "infoFachkreise": "Nein"
   },
@@ -722,7 +1034,9 @@
       "00771973",
       "00771996"
     ],
-    "enr": "2146003",
+    "enr": [
+      "2146003"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-09",
     "datumEnde": "2023-07-31",
@@ -733,10 +1047,8 @@
     "wirkstoffe": "Carbamazepin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "N/A",
     "mail": "zulassung@neuraxpharm.de",
     "grund": "Sonstige",
-    "grundAnmerkung": "n/a",
     "datumErstmeldung": "2023-01-20",
     "infoFachkreise": "Nein"
   },
@@ -746,7 +1058,9 @@
       "03220995",
       "04495582"
     ],
-    "enr": "2107536",
+    "enr": [
+      "2107536"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-07",
     "datumEnde": "2023-06-01",
@@ -757,10 +1071,8 @@
     "wirkstoffe": "Carbamazepin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "N/A",
     "mail": "zulassung@neuraxpharm.de",
     "grund": "Sonstige",
-    "grundAnmerkung": "n/a",
     "datumErstmeldung": "2023-01-20",
     "infoFachkreise": "Nein"
   },
@@ -768,7 +1080,9 @@
     "pzn": [
       "07620639"
     ],
-    "enr": "0423433",
+    "enr": [
+      "0423433"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-12",
     "datumEnde": "2023-03-17",
@@ -779,7 +1093,6 @@
     "wirkstoffe": "Ornithinaspartat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Merz Pharmaceuticals GmbH",
-    "telefon": "N/A",
     "mail": "jan.ranau@merz.de",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Lieferengpass beim API",
@@ -790,7 +1103,9 @@
     "pzn": [
       "01491276"
     ],
-    "enr": "0150231",
+    "enr": [
+      "0150231"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-28",
     "datumEnde": "2023-05-31",
@@ -801,7 +1116,6 @@
     "wirkstoffe": "Cyclopentolathydrochlorid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Alcon Deutschland GmbH",
-    "telefon": "N/A",
     "mail": "produkt.zulassung@alcon.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-03-10",
@@ -813,7 +1127,9 @@
       "04835351",
       "07574394"
     ],
-    "enr": "0727386",
+    "enr": [
+      "0727386"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-09",
     "datumEnde": "2023-06-23",
@@ -824,7 +1140,7 @@
     "wirkstoffe": "Amoxicillin-Trihydrat",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": " 06252/95-7000",
+    "telefon": "06252/95-7000",
     "mail": "shortages@infectopharm.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Erhöhte Absätze durch Ausfall der Mitbewerber",
@@ -835,7 +1151,9 @@
     "pzn": [
       "03450034"
     ],
-    "enr": "2173083",
+    "enr": [
+      "2173083"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-31",
     "datumEnde": "2023-03-31",
@@ -846,7 +1164,6 @@
     "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-02-01",
@@ -856,7 +1173,9 @@
     "pzn": [
       "08859851"
     ],
-    "enr": "2133163",
+    "enr": [
+      "2133163"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-06",
     "datumEnde": "2023-04-30",
@@ -867,8 +1186,7 @@
     "wirkstoffe": "Hydromorphonhydrochlorid",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
-    "mail": "medinfo@mundipharma.de  ",
+    "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-12-07",
     "infoFachkreise": "Vorgesehen"
@@ -877,7 +1195,9 @@
     "pzn": [
       "09312764"
     ],
-    "enr": "2159113",
+    "enr": [
+      "2159113"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-03-31",
     "datumEnde": "2023-03-15",
@@ -888,7 +1208,6 @@
     "wirkstoffe": "Hydromorphonhydrochlorid",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-03-31",
@@ -898,7 +1217,9 @@
     "pzn": [
       "07342169"
     ],
-    "enr": "2109010",
+    "enr": [
+      "2109010"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-08",
     "datumEnde": "2023-08-31",
@@ -919,7 +1240,9 @@
     "pzn": [
       "08480910"
     ],
-    "enr": "2177711",
+    "enr": [
+      "2177711"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-08",
     "datumEnde": "2023-04-06",
@@ -930,7 +1253,6 @@
     "wirkstoffe": "Mononatriumibandronat 1 H<2>O",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-08",
@@ -943,7 +1265,9 @@
       "04748356",
       "08671900"
     ],
-    "enr": "2112970",
+    "enr": [
+      "2112970"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-02",
     "datumEnde": "2023-03-27",
@@ -965,7 +1289,9 @@
     "pzn": [
       "04678503"
     ],
-    "enr": "2125157",
+    "enr": [
+      "2125157"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-21",
     "datumEnde": "2023-04-14",
@@ -987,7 +1313,9 @@
     "pzn": [
       "00029021"
     ],
-    "enr": "2155640",
+    "enr": [
+      "2155640"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-03",
     "datumEnde": "2023-04-09",
@@ -998,7 +1326,6 @@
     "wirkstoffe": "Terbinafinhydrochlorid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@dermapharm.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundAnmerkung": "Die Packungsgrößen 14 Stk. und 42 Stk. (PZN 00027430 und PZN 00030604) sind während der Dauer des Lieferengpasses voraussichtlich weiterhin verfügbar.",
@@ -1009,7 +1336,9 @@
     "pzn": [
       "00064135"
     ],
-    "enr": "2143195",
+    "enr": [
+      "2143195"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-09",
     "datumEnde": "2023-06-02",
@@ -1031,7 +1360,9 @@
     "pzn": [
       "10775794"
     ],
-    "enr": "2189383",
+    "enr": [
+      "2189383"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-05-31",
     "datumEnde": "2023-12-31",
@@ -1053,7 +1384,9 @@
       "02481110",
       "99999999"
     ],
-    "enr": "2102405",
+    "enr": [
+      "2102405"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-03-01",
     "datumEnde": "2023-06-30",
@@ -1074,7 +1407,9 @@
     "pzn": [
       "01038447"
     ],
-    "enr": "2160501",
+    "enr": [
+      "2160501"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-06",
     "datumEnde": "2023-03-31",
@@ -1085,8 +1420,7 @@
     "wirkstoffe": "Azithromycin-Dihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
-    "mail": " service@hexal.com",
+    "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-07",
     "infoFachkreise": "Vorgesehen"
@@ -1095,7 +1429,9 @@
     "pzn": [
       "01038430"
     ],
-    "enr": "2160500",
+    "enr": [
+      "2160500"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-06",
     "datumEnde": "2023-04-14",
@@ -1106,8 +1442,7 @@
     "wirkstoffe": "Azithromycin-Dihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
-    "mail": " service@hexal.com",
+    "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-07",
     "infoFachkreise": "Vorgesehen"
@@ -1117,7 +1452,9 @@
       "13902684",
       "13902690"
     ],
-    "enr": "2196936",
+    "enr": [
+      "2196936"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2018-06-01",
     "datumEnde": "2024-03-31",
@@ -1138,7 +1475,9 @@
     "pzn": [
       "14360860"
     ],
-    "enr": "2196924",
+    "enr": [
+      "2196924"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-01",
     "datumEnde": "2023-08-31",
@@ -1149,7 +1488,6 @@
     "wirkstoffe": "Voriconazol",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "N/A",
     "mail": "michaela.kunze@elpen-pharma.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-03-07",
@@ -1159,7 +1497,9 @@
     "pzn": [
       "16398022"
     ],
-    "enr": "2202510",
+    "enr": [
+      "2202510"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-06",
     "datumEnde": "2023-04-16",
@@ -1170,7 +1510,6 @@
     "wirkstoffe": "Amlodipinbesilat; Hydrochlorothiazid; Valsartan",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "N/A",
     "mail": "michaela.kunze@elpen-pharma.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-03-07",
@@ -1181,7 +1520,9 @@
       "16398074",
       "16398080"
     ],
-    "enr": "2202147",
+    "enr": [
+      "2202147"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-03-06",
     "datumEnde": "2023-03-15",
@@ -1192,7 +1533,6 @@
     "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "N/A",
     "mail": "michaela.kunze@elpen-pharma.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-02-02",
@@ -1202,7 +1542,9 @@
     "pzn": [
       "11532616"
     ],
-    "enr": "2192232",
+    "enr": [
+      "2192232"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-01",
     "datumEnde": "2023-04-30",
@@ -1213,7 +1555,6 @@
     "wirkstoffe": "Budesonid; Formoterolfumarat-Dihydrat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "N/A",
     "mail": "michaela.kunze@elpen-pharma.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-03-07",
@@ -1224,7 +1565,9 @@
       "16037850",
       "16037867"
     ],
-    "enr": "2193814",
+    "enr": [
+      "2193814"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-06",
     "datumEnde": "2023-05-31",
@@ -1235,7 +1578,6 @@
     "wirkstoffe": "Rosuvastatin-Hemicalcium",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "N/A",
     "mail": "michaela.kunze@elpen-pharma.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-03-07",
@@ -1246,7 +1588,9 @@
       "14166715",
       "14166721"
     ],
-    "enr": "2193811",
+    "enr": [
+      "2193811"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-03-06",
     "datumEnde": "2023-05-31",
@@ -1257,7 +1601,6 @@
     "wirkstoffe": "Rosuvastatin-Hemicalcium",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "N/A",
     "mail": "michaela.kunze@elpen-pharma.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-02-15",
@@ -1268,7 +1611,9 @@
       "14166750",
       "14166767"
     ],
-    "enr": "2193813",
+    "enr": [
+      "2193813"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-03-06",
     "datumEnde": "2023-05-31",
@@ -1279,7 +1624,6 @@
     "wirkstoffe": "Rosuvastatin-Hemicalcium",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "N/A",
     "mail": "michaela.kunze@elpen-pharma.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-02-21",
@@ -1290,7 +1634,9 @@
       "14166738",
       "14166744"
     ],
-    "enr": "2193812",
+    "enr": [
+      "2193812"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-06",
     "datumEnde": "2023-05-31",
@@ -1301,7 +1647,6 @@
     "wirkstoffe": "Rosuvastatin-Hemicalcium",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "N/A",
     "mail": "michaela.kunze@elpen-pharma.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-03-07",
@@ -1311,7 +1656,9 @@
     "pzn": [
       "03065112"
     ],
-    "enr": "2104496",
+    "enr": [
+      "2104496"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-10-20",
     "datumEnde": "2023-03-20",
@@ -1322,7 +1669,7 @@
     "wirkstoffe": "Dinoproston",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": " +49 (0) 30 550055-51000",
+    "telefon": "+49 (0) 30 550055-51000",
     "mail": "medical.information@pfizer.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-10-20",
@@ -1335,7 +1682,9 @@
       "05515312",
       "05515329"
     ],
-    "enr": "2149055",
+    "enr": [
+      "2149055"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-06",
     "datumEnde": "2024-02-02",
@@ -1346,7 +1695,6 @@
     "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-03-06",
@@ -1356,7 +1704,9 @@
     "pzn": [
       "13836065"
     ],
-    "enr": "2197101",
+    "enr": [
+      "2197101"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-06",
     "datumEnde": "2023-05-01",
@@ -1367,10 +1717,8 @@
     "wirkstoffe": "Rosuvastatin-Hemicalcium",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
-    "telefon": "-",
     "mail": "edith.eigenberger@denkpharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "-",
     "datumErstmeldung": "2023-03-06",
     "infoFachkreise": "Vorgesehen"
   },
@@ -1378,7 +1726,9 @@
     "pzn": [
       "07116993"
     ],
-    "enr": "2160507",
+    "enr": [
+      "2160507"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-06",
     "datumEnde": "2023-04-06",
@@ -1389,7 +1739,6 @@
     "wirkstoffe": "Azithromycin-Dihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-06",
@@ -1399,7 +1748,9 @@
     "pzn": [
       "07116987"
     ],
-    "enr": "2160506",
+    "enr": [
+      "2160506"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-06",
     "datumEnde": "2023-03-31",
@@ -1410,7 +1761,6 @@
     "wirkstoffe": "Azithromycin-Dihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-06",
@@ -1422,7 +1772,9 @@
       "04044336",
       "04044342"
     ],
-    "enr": "2167358",
+    "enr": [
+      "2167358"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-06",
     "datumEnde": "2023-04-10",
@@ -1433,7 +1785,6 @@
     "wirkstoffe": "Azithromycin-Dihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-06",
@@ -1444,7 +1795,9 @@
       "03820206",
       "03820471"
     ],
-    "enr": "2138603",
+    "enr": [
+      "2138603"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-16",
     "datumEnde": "2023-03-31",
@@ -1455,7 +1808,6 @@
     "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-16",
@@ -1466,7 +1818,9 @@
       "04492371",
       "04492394"
     ],
-    "enr": "2149308",
+    "enr": [
+      "2149308"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-06",
     "datumEnde": "2023-05-12",
@@ -1487,7 +1841,9 @@
     "pzn": [
       "00658834"
     ],
-    "enr": "2107213",
+    "enr": [
+      "2107213"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-15",
     "datumEnde": "2023-05-26",
@@ -1498,7 +1854,6 @@
     "wirkstoffe": "Amoxicillin-Trihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-12-15",
@@ -1508,7 +1863,9 @@
     "pzn": [
       "06304528"
     ],
-    "enr": "2142798",
+    "enr": [
+      "2142798"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-15",
     "datumEnde": "2023-03-17",
@@ -1519,7 +1876,6 @@
     "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-15",
@@ -1532,7 +1888,9 @@
       "05515298",
       "05515306"
     ],
-    "enr": "2149054",
+    "enr": [
+      "2149054"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-06",
     "datumEnde": "2024-03-01",
@@ -1543,7 +1901,6 @@
     "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-03-06",
@@ -1557,7 +1914,9 @@
       "09494765",
       "09494771"
     ],
-    "enr": "2116582",
+    "enr": [
+      "2116582"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-24",
     "datumEnde": "2023-05-22",
@@ -1568,7 +1927,6 @@
     "wirkstoffe": "Carbamazepin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-24",
@@ -1580,7 +1938,9 @@
       "00612298",
       "09494759"
     ],
-    "enr": "2116581",
+    "enr": [
+      "2116581"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-24",
     "datumEnde": "2023-05-15",
@@ -1591,7 +1951,6 @@
     "wirkstoffe": "Carbamazepin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-24",
@@ -1603,7 +1962,9 @@
       "00614096",
       "00615380"
     ],
-    "enr": "2146000",
+    "enr": [
+      "2146000"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-24",
     "datumEnde": "2023-06-01",
@@ -1614,7 +1975,6 @@
     "wirkstoffe": "Carbamazepin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-24",
@@ -1625,7 +1985,9 @@
       "00590852",
       "00594040"
     ],
-    "enr": "2133994",
+    "enr": [
+      "2133994"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-24",
     "datumEnde": "2023-06-05",
@@ -1636,7 +1998,6 @@
     "wirkstoffe": "Carbamazepin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-24",
@@ -1650,7 +2011,9 @@
       "10549307",
       "10549313"
     ],
-    "enr": "2168099",
+    "enr": [
+      "2168099"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-02-10",
     "datumEnde": "2023-05-03",
@@ -1661,7 +2024,6 @@
     "wirkstoffe": "Pantoprazol-Natrium-Sesquihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Probleme beim Sonstigen Hersteller",
     "datumErstmeldung": "2023-02-10",
@@ -1671,7 +2033,9 @@
     "pzn": [
       "03633154"
     ],
-    "enr": "2126420",
+    "enr": [
+      "2126420"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-23",
     "datumEnde": "2023-03-31",
@@ -1682,7 +2046,6 @@
     "wirkstoffe": "Ciclosporin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Novartis Pharma GmbH",
-    "telefon": "N/A",
     "mail": "infoservice.novartis@novartis.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-24",
@@ -1694,7 +2057,9 @@
       "04525314",
       "04653443"
     ],
-    "enr": "0727357",
+    "enr": [
+      "0727357"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-09",
     "datumEnde": "2023-05-15",
@@ -1716,7 +2081,9 @@
     "pzn": [
       "03750291"
     ],
-    "enr": "0820714",
+    "enr": [
+      "0820714"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-06",
     "datumEnde": "2023-03-20",
@@ -1739,7 +2106,9 @@
       "04257888",
       "06649612"
     ],
-    "enr": "0149618",
+    "enr": [
+      "0149618"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-07",
     "datumEnde": "2023-05-29",
@@ -1761,7 +2130,9 @@
     "pzn": [
       "04046370"
     ],
-    "enr": "2155224",
+    "enr": [
+      "2155224"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-09",
     "datumEnde": "2023-05-29",
@@ -1783,7 +2154,9 @@
     "pzn": [
       "00592733"
     ],
-    "enr": "2142654",
+    "enr": [
+      "2142654"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-08-01",
     "datumEnde": "2023-03-20",
@@ -1794,10 +2167,9 @@
     "wirkstoffe": "Famotidin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "N/A",
     "mail": "christiane.georgi@stada.de",
     "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Neue Ware bereits geliefert. Es ist zur Zeit nur begrenzt Ware lieferfähig. Nachfrage ist größer als Lagerbestand. Ab März 2023 werden wir wieder voll lieferunfähig sein. ",
+    "grundAnmerkung": "Neue Ware bereits geliefert. Es ist zur Zeit nur begrenzt Ware lieferfähig. Nachfrage ist größer als Lagerbestand. Ab März 2023 werden wir wieder voll lieferunfähig sein.",
     "datumErstmeldung": "2023-01-11",
     "infoFachkreise": "Vorgesehen"
   },
@@ -1805,7 +2177,9 @@
     "pzn": [
       "11130792"
     ],
-    "enr": "2713172",
+    "enr": [
+      "2713172"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-03",
     "datumEnde": "2023-04-30",
@@ -1817,7 +2191,6 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Santen Oy",
     "telefon": "089 8480 780",
-    "mail": "N/A",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-03-03",
     "infoFachkreise": "Vorgesehen"
@@ -1826,7 +2199,9 @@
     "pzn": [
       "11130763"
     ],
-    "enr": "2713171",
+    "enr": [
+      "2713171"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-24",
     "datumEnde": "2023-04-30",
@@ -1838,50 +2213,7 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Santen Oy",
     "telefon": "089 8480 780",
-    "mail": "N/A",
     "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-03-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [],
-    "enr": "0007686",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2020-08-01",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-03-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Staphylex 250 mg Kapseln",
-    "atcCode": "J01CF05",
-    "wirkstoffe": "Flucloxacillin-Natrium  1 H<2>O",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
-    "telefon": "0895589090",
-    "mail": "info@puren-pharma.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2020-08-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11695063"
-    ],
-    "enr": "2709887",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-03-27",
-    "datumLetzteMeldung": "2023-03-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Tresiba 100 Einheiten/ml Injektionslösung in Patrone - OP(10x3ml)",
-    "atcCode": "A10AE06",
-    "wirkstoffe": "Insulin degludec",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine höhere Nachfrage als erwartet",
-    "alternativPraeparat": "Tresiba 100 Einheiten/ml Injektionslösung in Patrone - OP(5x3ml) - Einreichungsnummer: 2709886",
     "datumErstmeldung": "2023-03-03",
     "infoFachkreise": "Vorgesehen"
   },
@@ -1889,7 +2221,9 @@
     "pzn": [
       "08695065"
     ],
-    "enr": "2103822",
+    "enr": [
+      "2103822"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-31",
     "datumEnde": "2023-05-31",
@@ -1911,7 +2245,9 @@
       "07330829",
       "07330835"
     ],
-    "enr": "2164496",
+    "enr": [
+      "2164496"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-15",
     "datumEnde": "2023-06-30",
@@ -1932,7 +2268,9 @@
     "pzn": [
       "08903109"
     ],
-    "enr": "2117377",
+    "enr": [
+      "2117377"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-06-28",
     "datumEnde": "2023-04-30",
@@ -1953,7 +2291,9 @@
     "pzn": [
       "05387630"
     ],
-    "enr": "2702570",
+    "enr": [
+      "2702570"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-02-16",
     "datumEnde": "2023-04-28",
@@ -1975,7 +2315,9 @@
     "pzn": [
       "02071783"
     ],
-    "enr": "2149825",
+    "enr": [
+      "2149825"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-22",
     "datumEnde": "2023-03-31",
@@ -1996,7 +2338,9 @@
     "pzn": [
       "15398534"
     ],
-    "enr": "2714966",
+    "enr": [
+      "2714966"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-01",
     "datumEnde": "2023-04-15",
@@ -2019,7 +2363,9 @@
     "pzn": [
       "13335794"
     ],
-    "enr": "2194866",
+    "enr": [
+      "2194866"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-27",
     "datumEnde": "2023-04-07",
@@ -2042,7 +2388,9 @@
       "01343570",
       "01343587"
     ],
-    "enr": "2143114",
+    "enr": [
+      "2143114"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-14",
     "datumEnde": "2023-04-21",
@@ -2065,7 +2413,9 @@
       "01343469",
       "14142092"
     ],
-    "enr": "2140460",
+    "enr": [
+      "2140460"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-21",
     "datumEnde": "2023-04-21",
@@ -2087,7 +2437,9 @@
       "07289558",
       "07289564"
     ],
-    "enr": "2100296",
+    "enr": [
+      "2100296"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-03-20",
     "datumEnde": "2023-08-15",
@@ -2099,7 +2451,7 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "H e y l Chemisch-pharmazeutische Fabrik GmbH & Co. KG",
     "telefon": "+49 30 816 96  0",
-    "mail": " info@heyl-berlin.de",
+    "mail": "info@heyl-berlin.de",
     "grund": "Sonstige",
     "grundAnmerkung": "Haupt Pharma Wülfing GmbH ....",
     "alternativPraeparat": "Metalcaptase 300 mg - Einreichungsnummer: 0812873",
@@ -2110,7 +2462,9 @@
     "pzn": [
       "04191818"
     ],
-    "enr": "2702634",
+    "enr": [
+      "2702634"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-17",
     "datumEnde": "2023-05-16",
@@ -2131,7 +2485,9 @@
     "pzn": [
       "04599382"
     ],
-    "enr": "2141453",
+    "enr": [
+      "2141453"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-09",
     "datumEnde": "2023-04-12",
@@ -2145,7 +2501,7 @@
     "telefon": "08005252010",
     "mail": "medinfo.de@sanofi.com",
     "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Die erhöhte Nachfrage kann nicht bedient werden. ",
+    "grundAnmerkung": "Die erhöhte Nachfrage kann nicht bedient werden.",
     "datumErstmeldung": "2023-01-11",
     "infoFachkreise": "Nein"
   },
@@ -2154,7 +2510,9 @@
       "01931516",
       "02351442"
     ],
-    "enr": "0102143",
+    "enr": [
+      "0102143"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-03-30",
     "datumEnde": "2023-08-31",
@@ -2175,7 +2533,9 @@
     "pzn": [
       "03079350"
     ],
-    "enr": "0084557",
+    "enr": [
+      "0084557"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-08-15",
     "datumEnde": "2023-08-31",
@@ -2196,7 +2556,9 @@
     "pzn": [
       "03079396"
     ],
-    "enr": "0084586",
+    "enr": [
+      "0084586"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-15",
     "datumEnde": "2023-08-31",
@@ -2217,7 +2579,9 @@
     "pzn": [
       "03070283"
     ],
-    "enr": "0084646",
+    "enr": [
+      "0084646"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-01",
     "datumEnde": "2023-08-31",
@@ -2238,7 +2602,9 @@
     "pzn": [
       "00910860"
     ],
-    "enr": "1444785",
+    "enr": [
+      "1444785"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-01",
     "datumEnde": "2023-08-31",
@@ -2259,7 +2625,9 @@
     "pzn": [
       "01138002"
     ],
-    "enr": "0077126",
+    "enr": [
+      "0077126"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-15",
     "datumEnde": "2023-08-31",
@@ -2270,7 +2638,7 @@
     "wirkstoffe": "Lidocainhydrochlorid-Monohydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aspen Pharma Trading Limited",
-    "telefon": " +49 89  93 08 38 00",
+    "telefon": "+49 89  93 08 38 00",
     "mail": "de-info@aspenpharma.eu",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-11-29",
@@ -2280,7 +2648,9 @@
     "pzn": [
       "00910825"
     ],
-    "enr": "1444779",
+    "enr": [
+      "1444779"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-15",
     "datumEnde": "2023-08-31",
@@ -2299,30 +2669,11 @@
   },
   {
     "pzn": [
-      "07577903"
-    ],
-    "enr": "2131178",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-01",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-03-01",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Mivacron 10mg",
-    "atcCode": "M03AC10",
-    "wirkstoffe": "Mivacuriumchlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aspen Pharma Trading Limited",
-    "telefon": "+49 89  93 08 38 00",
-    "mail": "de-info@aspenpharma.eu",
-    "grund": "Probleme bei der Endfreigabe",
-    "datumErstmeldung": "2022-11-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "07592162"
     ],
-    "enr": "2137101",
+    "enr": [
+      "2137101"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-21",
     "datumEnde": "2023-08-31",
@@ -2342,30 +2693,11 @@
   },
   {
     "pzn": [
-      "07577926"
-    ],
-    "enr": "2131179",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-01",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-03-01",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Mivacron 20mg",
-    "atcCode": "M03AC10",
-    "wirkstoffe": "Mivacuriumchlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aspen Pharma Trading Limited",
-    "telefon": "+49 89  93 08 38 00",
-    "mail": "de-info@aspenpharma.eu",
-    "grund": "Probleme bei der Endfreigabe",
-    "datumErstmeldung": "2022-11-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00081932"
     ],
-    "enr": "2158368",
+    "enr": [
+      "2158368"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-10-26",
     "datumEnde": "2023-03-15",
@@ -2376,7 +2708,6 @@
     "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-10-26",
@@ -2388,7 +2719,9 @@
       "00067866",
       "00067872"
     ],
-    "enr": "2158367",
+    "enr": [
+      "2158367"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-10-26",
     "datumEnde": "2023-04-30",
@@ -2399,7 +2732,6 @@
     "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-10-26",
@@ -2410,7 +2742,9 @@
       "04790111",
       "07590223"
     ],
-    "enr": "2125932",
+    "enr": [
+      "2125932"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-28",
     "datumEnde": "2023-03-31",
@@ -2421,7 +2755,6 @@
     "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-03-01",
@@ -2431,7 +2764,9 @@
     "pzn": [
       "06332329"
     ],
-    "enr": "2106132",
+    "enr": [
+      "2106132"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-01",
     "datumEnde": "2023-03-31",
@@ -2442,7 +2777,6 @@
     "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-09-02",
@@ -2454,7 +2788,9 @@
       "04946286",
       "06332312"
     ],
-    "enr": "2104034",
+    "enr": [
+      "2104034"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-01",
     "datumEnde": "2023-04-30",
@@ -2465,7 +2801,6 @@
     "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-09-02",
@@ -2477,7 +2812,9 @@
       "04946263",
       "06332306"
     ],
-    "enr": "2104033",
+    "enr": [
+      "2104033"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-01",
     "datumEnde": "2023-03-31",
@@ -2488,7 +2825,6 @@
     "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-09-02",
@@ -2499,7 +2835,9 @@
       "08516424",
       "08516447"
     ],
-    "enr": "2141153",
+    "enr": [
+      "2141153"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-08-30",
     "datumEnde": "2023-03-31",
@@ -2510,8 +2848,7 @@
     "wirkstoffe": "Oxycodonhydrochlorid",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
-    "mail": "medinfo@mundipharma.de ",
+    "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-08-31",
     "infoFachkreise": "Vorgesehen"
@@ -2521,7 +2858,9 @@
       "03930432",
       "03930455"
     ],
-    "enr": "2156594",
+    "enr": [
+      "2156594"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-12",
     "datumEnde": "2023-04-30",
@@ -2532,7 +2871,6 @@
     "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-09-13",
@@ -2542,7 +2880,9 @@
     "pzn": [
       "11538694"
     ],
-    "enr": "2191851",
+    "enr": [
+      "2191851"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-28",
     "datumEnde": "2023-03-15",
@@ -2553,7 +2893,6 @@
     "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Krugmann Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@krugmann-gmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-03-01",
@@ -2563,7 +2902,9 @@
     "pzn": [
       "12646256"
     ],
-    "enr": "2194173",
+    "enr": [
+      "2194173"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-03-31",
     "datumEnde": "2023-03-15",
@@ -2574,7 +2915,6 @@
     "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid 1 H<2>O",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-03-31",
@@ -2584,7 +2924,9 @@
     "pzn": [
       "00294444"
     ],
-    "enr": "2173086",
+    "enr": [
+      "2173086"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-06",
     "datumEnde": "2023-03-31",
@@ -2595,8 +2937,7 @@
     "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
-    "mail": "medinfo@mundipharma.de  ",
+    "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-12-07",
     "infoFachkreise": "Vorgesehen"
@@ -2605,7 +2946,9 @@
     "pzn": [
       "09312741"
     ],
-    "enr": "2159112",
+    "enr": [
+      "2159112"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-28",
     "datumEnde": "2023-03-15",
@@ -2616,7 +2959,6 @@
     "wirkstoffe": "Hydromorphonhydrochlorid",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-03-01",
@@ -2624,31 +2966,11 @@
   },
   {
     "pzn": [
-      "01300425"
-    ],
-    "enr": "2150545",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-21",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-02-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolon acis 5mg",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Prednisolon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "acis Arzneimittel GmbH",
-    "telefon": "08944232460",
-    "mail": "Medwiss.Acis@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Prednisolon acis 5mg - Einreichungsnummer: 2150545",
-    "datumErstmeldung": "2023-02-28",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "16045358"
     ],
-    "enr": "2199587",
+    "enr": [
+      "2199587"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-22",
     "datumEnde": "2023-03-31",
@@ -2659,7 +2981,6 @@
     "wirkstoffe": "Clarithromycin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Basics GmbH",
-    "telefon": "N/A",
     "mail": "rabattvertraege@sunpharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-01-02",
@@ -2668,59 +2989,11 @@
   {
     "pzn": [
       "00000000",
-      "04748391",
-      "04748416",
-      "04748422",
-      "07558225"
-    ],
-    "enr": "2121767",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-02",
-    "datumEnde": "2023-03-15",
-    "datumLetzteMeldung": "2023-02-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Nifedipin AL5",
-    "atcCode": "C08CA05",
-    "wirkstoffe": "Nifedipin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "04748362",
-      "04748379",
-      "04748385",
-      "07558231"
-    ],
-    "enr": "2121768",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-02",
-    "datumEnde": "2023-03-15",
-    "datumLetzteMeldung": "2023-02-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Nifedipin AL10",
-    "atcCode": "C08CA05",
-    "wirkstoffe": "Nifedipin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
       "07121540"
     ],
-    "enr": "2129789",
+    "enr": [
+      "2129789"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-01-25",
     "datumEnde": "2023-03-23",
@@ -2742,7 +3015,9 @@
     "pzn": [
       "03247994"
     ],
-    "enr": "2115034",
+    "enr": [
+      "2115034"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-02-23",
     "datumEnde": "2023-07-31",
@@ -2765,7 +3040,9 @@
       "09757957",
       "11296914"
     ],
-    "enr": "2100325",
+    "enr": [
+      "2100325"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-21",
     "datumEnde": "2023-12-15",
@@ -2788,7 +3065,9 @@
     "pzn": [
       "00081990"
     ],
-    "enr": "2100487",
+    "enr": [
+      "2100487"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-24",
     "datumEnde": "2023-04-19",
@@ -2810,7 +3089,9 @@
       "06305798",
       "06305806"
     ],
-    "enr": "2155390",
+    "enr": [
+      "2155390"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-25",
     "datumEnde": "2023-04-28",
@@ -2832,7 +3113,9 @@
     "pzn": [
       "02170304"
     ],
-    "enr": "2170304",
+    "enr": [
+      "2170304"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-02-27",
     "datumEnde": "2023-03-15",
@@ -2843,7 +3126,6 @@
     "wirkstoffe": "Amiodaronhydrochlorid",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "HIKMA Farmaceutica (Portugal), S.A.",
-    "telefon": "N/A",
     "mail": "rluetzner@hikma.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Produkt wird kontingentiert abgegeben um möglichst breite Verteilung im Markt sicherzustellen",
@@ -2855,7 +3137,9 @@
       "11285833",
       "11285856"
     ],
-    "enr": "2160410",
+    "enr": [
+      "2160410"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-02-15",
     "datumEnde": "2023-07-03",
@@ -2876,7 +3160,9 @@
     "pzn": [
       "06649598"
     ],
-    "enr": "0191371",
+    "enr": [
+      "0191371"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-20",
     "datumEnde": "2023-05-15",
@@ -2897,7 +3183,9 @@
     "pzn": [
       "00829419"
     ],
-    "enr": "2164572",
+    "enr": [
+      "2164572"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-24",
     "datumEnde": "2023-04-28",
@@ -2908,7 +3196,6 @@
     "wirkstoffe": "Cefpodoximproxetil",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-27",
@@ -2919,7 +3206,9 @@
       "00826220",
       "00826237"
     ],
-    "enr": "2164571",
+    "enr": [
+      "2164571"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-24",
     "datumEnde": "2023-05-31",
@@ -2930,7 +3219,6 @@
     "wirkstoffe": "Cefpodoximproxetil",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-27",
@@ -2941,7 +3229,9 @@
       "07469993",
       "11130303"
     ],
-    "enr": "0718559",
+    "enr": [
+      "0718559"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-05",
     "datumEnde": "2023-05-19",
@@ -2952,7 +3242,6 @@
     "wirkstoffe": "Ornithinaspartat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Merz Pharmaceuticals GmbH",
-    "telefon": "N/A",
     "mail": "jan.ranau@merz.de",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Lieferengpass beim API",
@@ -2963,7 +3252,9 @@
     "pzn": [
       "11288984"
     ],
-    "enr": "2139772",
+    "enr": [
+      "2139772"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-17",
     "datumEnde": "2023-04-14",
@@ -2985,7 +3276,9 @@
       "02550242",
       "02719250"
     ],
-    "enr": "2164072",
+    "enr": [
+      "2164072"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-24",
     "datumEnde": "2023-06-30",
@@ -2996,7 +3289,6 @@
     "wirkstoffe": "Cefpodoximproxetil",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-24",
@@ -3009,7 +3301,9 @@
       "04841498",
       "04841506"
     ],
-    "enr": "2149014",
+    "enr": [
+      "2149014"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-24",
     "datumEnde": "2023-08-31",
@@ -3020,7 +3314,6 @@
     "wirkstoffe": "Cefuroximaxetil",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-24",
@@ -3031,7 +3324,9 @@
       "03361000",
       "03361017"
     ],
-    "enr": "2149307",
+    "enr": [
+      "2149307"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-24",
     "datumEnde": "2023-05-31",
@@ -3042,7 +3337,6 @@
     "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-24",
@@ -3053,7 +3347,9 @@
       "03126546",
       "03126552"
     ],
-    "enr": "2103603",
+    "enr": [
+      "2103603"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-24",
     "datumEnde": "2023-04-30",
@@ -3064,7 +3360,6 @@
     "wirkstoffe": "Amoxicillin-Trihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-24",
@@ -3074,7 +3369,9 @@
     "pzn": [
       "07727283"
     ],
-    "enr": "2130359",
+    "enr": [
+      "2130359"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-24",
     "datumEnde": "2023-09-30",
@@ -3085,7 +3382,6 @@
     "wirkstoffe": "Amoxicillin-Trihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-24",
@@ -3097,7 +3393,9 @@
       "03126575",
       "03126581"
     ],
-    "enr": "2103604",
+    "enr": [
+      "2103604"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-24",
     "datumEnde": "2023-09-30",
@@ -3108,7 +3406,6 @@
     "wirkstoffe": "Amoxicillin-Trihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-24",
@@ -3120,7 +3417,9 @@
       "03650313",
       "03650342"
     ],
-    "enr": "2161092",
+    "enr": [
+      "2161092"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-24",
     "datumEnde": "2023-06-30",
@@ -3131,7 +3430,6 @@
     "wirkstoffe": "Torasemid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-24",
@@ -3143,7 +3441,9 @@
       "03650394",
       "03650402"
     ],
-    "enr": "2161094",
+    "enr": [
+      "2161094"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-24",
     "datumEnde": "2023-06-23",
@@ -3154,7 +3454,6 @@
     "wirkstoffe": "Torasemid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-24",
@@ -3166,7 +3465,9 @@
       "03650365",
       "03650371"
     ],
-    "enr": "2161093",
+    "enr": [
+      "2161093"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-24",
     "datumEnde": "2023-07-21",
@@ -3177,7 +3478,6 @@
     "wirkstoffe": "Torasemid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-24",
@@ -3189,7 +3489,9 @@
       "00774055",
       "00774061"
     ],
-    "enr": "2161091",
+    "enr": [
+      "2161091"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-24",
     "datumEnde": "2023-06-30",
@@ -3200,7 +3502,6 @@
     "wirkstoffe": "Torasemid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-24",
@@ -3212,7 +3513,9 @@
       "05008058",
       "05008182"
     ],
-    "enr": "2161090",
+    "enr": [
+      "2161090"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-24",
     "datumEnde": "2023-06-30",
@@ -3223,7 +3526,6 @@
     "wirkstoffe": "Torasemid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-24",
@@ -3235,7 +3537,9 @@
       "05007834",
       "05007975"
     ],
-    "enr": "2161089",
+    "enr": [
+      "2161089"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-24",
     "datumEnde": "2023-06-30",
@@ -3246,7 +3550,6 @@
     "wirkstoffe": "Torasemid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-24",
@@ -3257,7 +3560,9 @@
       "00773972",
       "00774003"
     ],
-    "enr": "2158033",
+    "enr": [
+      "2158033"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-24",
     "datumEnde": "2023-04-30",
@@ -3268,7 +3573,6 @@
     "wirkstoffe": "Torasemid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-24",
@@ -3278,7 +3582,9 @@
     "pzn": [
       "07721984"
     ],
-    "enr": "1449914",
+    "enr": [
+      "1449914"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-26",
     "datumEnde": "2023-07-01",
@@ -3299,7 +3605,9 @@
     "pzn": [
       "07721990"
     ],
-    "enr": "1449848",
+    "enr": [
+      "1449848"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-06",
     "datumEnde": "2023-04-01",
@@ -3320,7 +3628,9 @@
     "pzn": [
       "08923075"
     ],
-    "enr": "2700546",
+    "enr": [
+      "2700546"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-23",
     "datumEnde": "2025-05-30",
@@ -3342,7 +3652,9 @@
     "pzn": [
       "11695086"
     ],
-    "enr": "2709890",
+    "enr": [
+      "2709890"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-03-06",
     "datumEnde": "2023-05-15",
@@ -3364,7 +3676,9 @@
     "pzn": [
       "14362600"
     ],
-    "enr": "2714975",
+    "enr": [
+      "2714975"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-20",
     "datumEnde": "2023-03-31",
@@ -3386,7 +3700,9 @@
     "pzn": [
       "00190905"
     ],
-    "enr": "0450944",
+    "enr": [
+      "0450944"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-22",
     "datumEnde": "2023-07-31",
@@ -3397,7 +3713,6 @@
     "wirkstoffe": "Betamethasonacetat (Ph.Eur.); Betamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Organon Healthcare GmbH",
-    "telefon": "N/A",
     "mail": "ra_dach@organon.com",
     "grund": "GMP Mängel",
     "datumErstmeldung": "2023-02-23",
@@ -3407,7 +3722,9 @@
     "pzn": [
       "02510969"
     ],
-    "enr": "0132196",
+    "enr": [
+      "0132196"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-15",
     "datumEnde": "2023-05-12",
@@ -3429,7 +3746,9 @@
       "01463535",
       "01463541"
     ],
-    "enr": "0132227",
+    "enr": [
+      "0132227"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-15",
     "datumEnde": "2023-05-12",
@@ -3450,7 +3769,9 @@
     "pzn": [
       "16634474"
     ],
-    "enr": "7001469",
+    "enr": [
+      "7001469"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-12",
     "datumEnde": "2023-03-17",
@@ -3473,7 +3794,9 @@
     "pzn": [
       "08725155"
     ],
-    "enr": "2141349",
+    "enr": [
+      "2141349"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-08-31",
     "datumEnde": "2023-04-14",
@@ -3494,7 +3817,9 @@
     "pzn": [
       "08725145"
     ],
-    "enr": "2141350",
+    "enr": [
+      "2141350"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-08-31",
     "datumEnde": "2023-04-14",
@@ -3517,7 +3842,9 @@
       "03005021",
       "07385428"
     ],
-    "enr": "2164074",
+    "enr": [
+      "2164074"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-15",
     "datumEnde": "2023-04-07",
@@ -3528,7 +3855,6 @@
     "wirkstoffe": "Cefpodoximproxetil",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-12-15",
@@ -3539,7 +3865,9 @@
       "01343618",
       "01343653"
     ],
-    "enr": "2140401",
+    "enr": [
+      "2140401"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-12",
     "datumEnde": "2023-04-06",
@@ -3560,7 +3888,9 @@
     "pzn": [
       "03524548"
     ],
-    "enr": "3000274",
+    "enr": [
+      "3000274"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-30",
     "datumEnde": "2023-03-31",
@@ -3585,7 +3915,9 @@
       "01084341",
       "04901674"
     ],
-    "enr": "2162507",
+    "enr": [
+      "2162507"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-02",
     "datumEnde": "2023-08-31",
@@ -3610,7 +3942,9 @@
       "01084306",
       "01084312"
     ],
-    "enr": "2162506",
+    "enr": [
+      "2162506"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-02",
     "datumEnde": "2023-08-31",
@@ -3635,7 +3969,9 @@
       "00958370",
       "00989220"
     ],
-    "enr": "2146001",
+    "enr": [
+      "2146001"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-22",
     "datumEnde": "2023-03-31",
@@ -3658,7 +3994,9 @@
       "04751588",
       "09424428"
     ],
-    "enr": "2114031",
+    "enr": [
+      "2114031"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-20",
     "datumEnde": "2023-04-10",
@@ -3685,7 +4023,9 @@
       "13156382",
       "13893264"
     ],
-    "enr": "2104755",
+    "enr": [
+      "2104755"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-29",
     "datumEnde": "2023-03-22",
@@ -3706,7 +4046,9 @@
     "pzn": [
       "07007465"
     ],
-    "enr": "0085781",
+    "enr": [
+      "0085781"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-06",
     "datumEnde": "2023-04-01",
@@ -3727,7 +4069,9 @@
     "pzn": [
       "02245645"
     ],
-    "enr": "2702379",
+    "enr": [
+      "2702379"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-03-31",
     "datumEnde": "2024-06-30",
@@ -3751,7 +4095,9 @@
       "08527103",
       "08857450"
     ],
-    "enr": "2125592",
+    "enr": [
+      "2125592"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-08-15",
     "datumEnde": "2023-04-30",
@@ -3762,7 +4108,6 @@
     "wirkstoffe": "Salbutamolsulfat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "N/A",
     "mail": "info.teva-deutschland@teva.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-08-05",
@@ -3772,7 +4117,9 @@
     "pzn": [
       "09266722"
     ],
-    "enr": "2174800",
+    "enr": [
+      "2174800"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-19",
     "datumEnde": "2023-04-12",
@@ -3794,7 +4141,9 @@
     "pzn": [
       "08922897"
     ],
-    "enr": "2701471",
+    "enr": [
+      "2701471"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-23",
     "datumEnde": "2023-10-31",
@@ -3817,7 +4166,10 @@
       "01493571",
       "01495328"
     ],
-    "enr": "2706674, 2706677",
+    "enr": [
+      "2706674",
+      "2706677"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-23",
     "datumEnde": "2023-10-31",
@@ -3840,7 +4192,10 @@
       "08922845",
       "08922851"
     ],
-    "enr": "2700528, 2701467",
+    "enr": [
+      "2700528",
+      "2701467"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-23",
     "datumEnde": "2023-10-31",
@@ -3863,7 +4218,10 @@
       "01484052",
       "01484069"
     ],
-    "enr": "2706662, 2706665",
+    "enr": [
+      "2706662",
+      "2706665"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-23",
     "datumEnde": "2023-10-31",
@@ -3887,7 +4245,9 @@
       "09071504",
       "12520704"
     ],
-    "enr": "2175572",
+    "enr": [
+      "2175572"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-08-24",
     "datumEnde": "2023-04-28",
@@ -3898,7 +4258,6 @@
     "wirkstoffe": "Lidocain; Prilocain",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Pierre Fabre Dermo-Kosmetik GmbH",
-    "telefon": "N/A",
     "mail": "zulassung_de@pierre-fabre.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-08-24",
@@ -3908,7 +4267,9 @@
     "pzn": [
       "00345928"
     ],
-    "enr": "2100997",
+    "enr": [
+      "2100997"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-19",
     "datumEnde": "2023-06-30",
@@ -3931,7 +4292,9 @@
       "02719296",
       "07793529"
     ],
-    "enr": "2164073",
+    "enr": [
+      "2164073"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-17",
     "datumEnde": "2023-04-14",
@@ -3942,7 +4305,6 @@
     "wirkstoffe": "Cefpodoximproxetil",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-02-17",
@@ -3952,7 +4314,9 @@
     "pzn": [
       "02146877"
     ],
-    "enr": "2151973",
+    "enr": [
+      "2151973"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-01",
     "datumEnde": "2023-04-30",
@@ -3975,7 +4339,9 @@
       "00658946",
       "00658952"
     ],
-    "enr": "2141152",
+    "enr": [
+      "2141152"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-03",
     "datumEnde": "2023-11-30",
@@ -3986,7 +4352,6 @@
     "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-11-03",
@@ -3997,7 +4362,9 @@
       "03899886",
       "03930076"
     ],
-    "enr": "2172847",
+    "enr": [
+      "2172847"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-03",
     "datumEnde": "2023-06-09",
@@ -4008,7 +4375,6 @@
     "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-11-03",
@@ -4020,7 +4386,9 @@
       "00585029",
       "00585035"
     ],
-    "enr": "2103160",
+    "enr": [
+      "2103160"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-04",
     "datumEnde": "2023-09-20",
@@ -4031,7 +4399,7 @@
     "wirkstoffe": "Natriumcromoglicat (Ph.Eur.); Reproterolhydrochlorid",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800-0700-800\t\t",
+    "telefon": "0800-0700-800",
     "mail": "kundenservice@viatris.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-02-17",
@@ -4042,7 +4410,9 @@
       "06057202",
       "06057219"
     ],
-    "enr": "0812873",
+    "enr": [
+      "0812873"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-12",
     "datumEnde": "2023-04-15",
@@ -4064,7 +4434,9 @@
     "pzn": [
       "06312031"
     ],
-    "enr": "2142794",
+    "enr": [
+      "2142794"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-06",
     "datumEnde": "2023-04-14",
@@ -4085,7 +4457,9 @@
     "pzn": [
       "01875433"
     ],
-    "enr": "2100946",
+    "enr": [
+      "2100946"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-17",
     "datumEnde": "2023-03-31",
@@ -4107,7 +4481,9 @@
       "04492282",
       "04492299"
     ],
-    "enr": "2133934",
+    "enr": [
+      "2133934"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-17",
     "datumEnde": "2023-06-30",
@@ -4118,7 +4494,6 @@
     "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-17",
@@ -4130,7 +4505,9 @@
       "00658811",
       "00658828"
     ],
-    "enr": "2132376",
+    "enr": [
+      "2132376"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-07",
     "datumEnde": "2023-04-14",
@@ -4141,7 +4518,6 @@
     "wirkstoffe": "Amoxicillin-Trihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-09-07",
@@ -4153,7 +4529,9 @@
       "00658780",
       "00658797"
     ],
-    "enr": "2136012",
+    "enr": [
+      "2136012"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-17",
     "datumEnde": "2023-04-30",
@@ -4164,7 +4542,6 @@
     "wirkstoffe": "Amoxicillin-Trihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Kapazitätsengpass in Kombination mit erhöhter Nachfrage",
@@ -4175,7 +4552,9 @@
     "pzn": [
       "06198931"
     ],
-    "enr": "2104773",
+    "enr": [
+      "2104773"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-08-16",
     "datumEnde": "2024-08-16",
@@ -4186,7 +4565,6 @@
     "wirkstoffe": "Codeinphosphat-Hemihydrat; Coffein; Paracetamol",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-02-16",
@@ -4197,7 +4575,9 @@
       "00424906",
       "03001069"
     ],
-    "enr": "2145583",
+    "enr": [
+      "2145583"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-16",
     "datumEnde": "2023-03-31",
@@ -4219,7 +4599,9 @@
     "pzn": [
       "01835652"
     ],
-    "enr": "3000637",
+    "enr": [
+      "3000637"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-04-01",
     "datumEnde": "2023-06-30",
@@ -4231,7 +4613,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "TEVA GmbH",
     "telefon": "+49 (0)731 402 - 02",
-    "mail": "N/A",
     "grund": "Herstellerwechsel",
     "datumErstmeldung": "2022-06-24",
     "infoFachkreise": "Vorgesehen"
@@ -4240,7 +4621,9 @@
     "pzn": [
       "09276146"
     ],
-    "enr": "2125933",
+    "enr": [
+      "2125933"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-22",
     "datumEnde": "2023-03-15",
@@ -4251,7 +4634,6 @@
     "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-11-24",
@@ -4261,7 +4643,9 @@
     "pzn": [
       "11532645"
     ],
-    "enr": "2192233",
+    "enr": [
+      "2192233"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-03-22",
     "datumEnde": "2023-04-30",
@@ -4272,7 +4656,6 @@
     "wirkstoffe": "Budesonid; Formoterolfumarat-Dihydrat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "N/A",
     "mail": "michaela.kunze@elpen-pharma.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-03-22",
@@ -4282,7 +4665,9 @@
     "pzn": [
       "01098461"
     ],
-    "enr": "2149598",
+    "enr": [
+      "2149598"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-14",
     "datumEnde": "2023-03-31",
@@ -4293,7 +4678,6 @@
     "wirkstoffe": "Oxycodonhydrochlorid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-02-15",
@@ -4303,7 +4687,9 @@
     "pzn": [
       "11532579"
     ],
-    "enr": "2192231",
+    "enr": [
+      "2192231"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-03-22",
     "datumEnde": "2023-04-30",
@@ -4314,7 +4700,6 @@
     "wirkstoffe": "Budesonid; Formoterolfumarat-Dihydrat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "N/A",
     "mail": "michaela.kunze@elpen-pharma.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-03-22",
@@ -4324,7 +4709,9 @@
     "pzn": [
       "03515153"
     ],
-    "enr": "2115084",
+    "enr": [
+      "2115084"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-05-18",
     "datumEnde": "2023-03-31",
@@ -4335,7 +4722,6 @@
     "wirkstoffe": "Dihydrocodein[(R,R)-tartrat]",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-05-18",
@@ -4345,7 +4731,9 @@
     "pzn": [
       "11538725"
     ],
-    "enr": "2191852",
+    "enr": [
+      "2191852"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-14",
     "datumEnde": "2023-03-31",
@@ -4356,8 +4744,7 @@
     "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Krugmann Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
-    "mail": "medinfo@krugmann-gmbh.de ",
+    "mail": "medinfo@krugmann-gmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-02-15",
     "infoFachkreise": "Vorgesehen"
@@ -4367,7 +4754,9 @@
       "12646291",
       "12646316"
     ],
-    "enr": "2194174",
+    "enr": [
+      "2194174"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-04-20",
     "datumEnde": "2023-03-15",
@@ -4378,7 +4767,6 @@
     "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid 1 H<2>O",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-03-31",
@@ -4389,7 +4777,9 @@
       "00696183",
       "00696208"
     ],
-    "enr": "2173085",
+    "enr": [
+      "2173085"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-06-29",
     "datumEnde": "2023-03-31",
@@ -4400,7 +4790,6 @@
     "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-06-29",
@@ -4410,7 +4799,9 @@
     "pzn": [
       "09280231"
     ],
-    "enr": "2180767",
+    "enr": [
+      "2180767"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-13",
     "datumEnde": "2023-03-31",
@@ -4434,7 +4825,9 @@
       "08535812",
       "08535829"
     ],
-    "enr": "2110772",
+    "enr": [
+      "2110772"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-14",
     "datumEnde": "2023-04-14",
@@ -4455,7 +4848,9 @@
     "pzn": [
       "09404176"
     ],
-    "enr": "2156662",
+    "enr": [
+      "2156662"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-14",
     "datumEnde": "2023-04-15",
@@ -4466,7 +4861,6 @@
     "wirkstoffe": "Ciprofloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wassergehalt))",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Pierre Fabre Pharma GmbH",
-    "telefon": "N/A",
     "mail": "zulassung_de@pierre-fabre.com",
     "grund": "Probleme in der Herstellung",
     "grundAnmerkung": "Nur kurzfristiger Lieferengpass",
@@ -4478,7 +4872,9 @@
       "17550650",
       "17550667"
     ],
-    "enr": "2101494",
+    "enr": [
+      "2101494"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-08-18",
     "datumEnde": "2023-06-30",
@@ -4500,7 +4896,9 @@
       "17550621",
       "17550638"
     ],
-    "enr": "2100170",
+    "enr": [
+      "2100170"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-10-17",
     "datumEnde": "2023-06-30",
@@ -4521,7 +4919,9 @@
     "pzn": [
       "03075375"
     ],
-    "enr": "0385744",
+    "enr": [
+      "0385744"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-20",
     "datumEnde": "2023-03-31",
@@ -4543,7 +4943,9 @@
     "pzn": [
       "01111055"
     ],
-    "enr": "2704615",
+    "enr": [
+      "2704615"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-22",
     "datumEnde": "2023-07-31",
@@ -4554,7 +4956,6 @@
     "wirkstoffe": "Topotecanhydrochlorid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Sandoz Pharmaceuticals d.d.",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-19",
@@ -4564,7 +4965,9 @@
     "pzn": [
       "09278524"
     ],
-    "enr": "2706795",
+    "enr": [
+      "2706795"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-10-26",
     "datumEnde": "2023-06-15",
@@ -4576,7 +4979,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Upjohn EESV",
     "telefon": "+49 (0)800 0700 800",
-    "mail": "N/A",
     "grund": "Probleme bei der Endfreigabe",
     "datumErstmeldung": "2022-07-13",
     "infoFachkreise": "Vorgesehen"
@@ -4586,7 +4988,9 @@
       "01831708",
       "03124978"
     ],
-    "enr": "0156647",
+    "enr": [
+      "0156647"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-02-03",
     "datumEnde": "2023-07-07",
@@ -4609,7 +5013,9 @@
       "04771651",
       "04771680"
     ],
-    "enr": "2184313",
+    "enr": [
+      "2184313"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-30",
     "datumEnde": "2023-06-26",
@@ -4632,7 +5038,9 @@
       "01658374",
       "03124961"
     ],
-    "enr": "0061705",
+    "enr": [
+      "0061705"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-01",
     "datumEnde": "2023-05-26",
@@ -4654,7 +5062,9 @@
     "pzn": [
       "06107727"
     ],
-    "enr": "2177080",
+    "enr": [
+      "2177080"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-12-01",
     "datumEnde": "2024-03-31",
@@ -4676,7 +5086,9 @@
     "pzn": [
       "10229270"
     ],
-    "enr": "2706419",
+    "enr": [
+      "2706419"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-23",
     "datumEnde": "2023-04-28",
@@ -4697,7 +5109,9 @@
     "pzn": [
       "14405350"
     ],
-    "enr": "2194197",
+    "enr": [
+      "2194197"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-10",
     "datumEnde": "2023-07-01",
@@ -4708,7 +5122,6 @@
     "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Probleme bei der Chargenprüfung",
     "datumErstmeldung": "2023-02-10",
@@ -4720,7 +5133,9 @@
       "14405290",
       "14405309"
     ],
-    "enr": "2194196",
+    "enr": [
+      "2194196"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-10",
     "datumEnde": "2023-07-01",
@@ -4731,7 +5146,6 @@
     "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Probleme bei der Chargenprüfung",
     "datumErstmeldung": "2023-02-10",
@@ -4743,7 +5157,9 @@
       "09069074",
       "09069080"
     ],
-    "enr": "2178844",
+    "enr": [
+      "2178844"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-10",
     "datumEnde": "2023-07-01",
@@ -4754,7 +5170,6 @@
     "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Probleme bei der Chargenprüfung",
     "datumErstmeldung": "2023-02-10",
@@ -4766,7 +5181,9 @@
       "09069045",
       "09069051"
     ],
-    "enr": "2178843",
+    "enr": [
+      "2178843"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-10",
     "datumEnde": "2023-07-01",
@@ -4777,7 +5194,6 @@
     "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Probleme bei der Chargenprüfung",
     "datumErstmeldung": "2023-02-10",
@@ -4789,7 +5205,9 @@
       "09069016",
       "09069022"
     ],
-    "enr": "2178842",
+    "enr": [
+      "2178842"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-10",
     "datumEnde": "2023-07-01",
@@ -4800,7 +5218,6 @@
     "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Probleme bei der Chargenprüfung",
     "datumErstmeldung": "2023-02-10",
@@ -4810,7 +5227,9 @@
     "pzn": [
       "09068962"
     ],
-    "enr": "2178841",
+    "enr": [
+      "2178841"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-10",
     "datumEnde": "2023-07-01",
@@ -4821,7 +5240,6 @@
     "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Probleme bei der Chargenprüfung",
     "datumErstmeldung": "2023-02-10",
@@ -4832,7 +5250,9 @@
       "09068933",
       "09068956"
     ],
-    "enr": "2178840",
+    "enr": [
+      "2178840"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-10",
     "datumEnde": "2023-07-01",
@@ -4843,7 +5263,6 @@
     "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Probleme bei der Chargenprüfung",
     "datumErstmeldung": "2023-02-10",
@@ -4853,7 +5272,9 @@
     "pzn": [
       "16596615"
     ],
-    "enr": "2153800",
+    "enr": [
+      "2153800"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-10",
     "datumEnde": "2024-01-31",
@@ -4864,7 +5285,6 @@
     "wirkstoffe": "Cefuroximaxetil",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-10",
@@ -4875,7 +5295,9 @@
       "04029118",
       "06177171"
     ],
-    "enr": "3000071",
+    "enr": [
+      "3000071"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-10",
     "datumEnde": "2023-05-01",
@@ -4886,7 +5308,6 @@
     "wirkstoffe": "Retinolpalmitat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-10",
@@ -4898,7 +5319,9 @@
       "00605789",
       "00607417"
     ],
-    "enr": "2145999",
+    "enr": [
+      "2145999"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-24",
     "datumEnde": "2023-04-01",
@@ -4909,7 +5332,6 @@
     "wirkstoffe": "Carbamazepin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-24",
@@ -4919,7 +5341,9 @@
     "pzn": [
       "09465893"
     ],
-    "enr": "2706420",
+    "enr": [
+      "2706420"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-02",
     "datumEnde": "2023-04-21",
@@ -4944,7 +5368,9 @@
       "17275681",
       "17275735"
     ],
-    "enr": "2613978",
+    "enr": [
+      "2613978"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-03-08",
     "datumEnde": "2023-04-03",
@@ -4954,7 +5380,7 @@
     "atcCode": "J06BA02",
     "wirkstoffe": "Immunglobulin G vom Menschen",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Sanquin Plasma Products B.V.",
+    "zulassungsinhaber": "Prothya Biosolutions Netherlands B.V.",
     "telefon": "+31615045921",
     "mail": "bjorn.vanderklugt@prothya.com",
     "grund": "Probleme in der Herstellung",
@@ -4966,7 +5392,9 @@
     "pzn": [
       "04330929"
     ],
-    "enr": "2160406",
+    "enr": [
+      "2160406"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-15",
     "datumEnde": "2023-03-31",
@@ -4977,7 +5405,6 @@
     "wirkstoffe": "Clarithromycin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-15",
@@ -4987,7 +5414,9 @@
     "pzn": [
       "01314137"
     ],
-    "enr": "0373586",
+    "enr": [
+      "0373586"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-08-15",
     "datumEnde": "2023-04-30",
@@ -4998,7 +5427,6 @@
     "wirkstoffe": "Prothipendylhydrochlorid 1 H<2>O",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "TEVA GmbH",
-    "telefon": "N/A",
     "mail": "info.teva-deutschland@teva.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-08-26",
@@ -5008,7 +5436,9 @@
     "pzn": [
       "14179534"
     ],
-    "enr": "0373669",
+    "enr": [
+      "0373669"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-08-15",
     "datumEnde": "2023-04-30",
@@ -5019,37 +5449,20 @@
     "wirkstoffe": "Prothipendylhydrochlorid 1 H<2>O",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "TEVA GmbH",
-    "telefon": "N/A",
     "mail": "info.teva-deutschland@teva.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-08-26",
     "infoFachkreise": "Vorgesehen"
   },
   {
-    "pzn": [],
-    "enr": "2182014",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2020-03-01",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-02-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Oxaliplatin Aurobindo 5 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
-    "atcCode": "L01XA03",
-    "wirkstoffe": "Oxaliplatin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
-    "telefon": "0895589090",
-    "mail": "info@puren-pharma.de",
-    "grund": "Herstellerwechsel",
-    "datumErstmeldung": "2020-03-17",
-    "infoFachkreise": "Nein"
-  },
-  {
     "pzn": [
       "01913808",
       "01913843"
     ],
-    "enr": "1463475, 1463512",
+    "enr": [
+      "1463475",
+      "1463512"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-08-30",
     "datumEnde": "2023-07-01",
@@ -5070,7 +5483,9 @@
     "pzn": [
       "12671998"
     ],
-    "enr": "2161445",
+    "enr": [
+      "2161445"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-12-30",
     "datumEnde": "2023-04-07",
@@ -5081,7 +5496,6 @@
     "wirkstoffe": "Amoxicillin-Natrium; Kaliumclavulanat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Sonstige",
     "grundAnmerkung": "Kapazitätsengpass",
@@ -5092,7 +5506,9 @@
     "pzn": [
       "12672006"
     ],
-    "enr": "2161444",
+    "enr": [
+      "2161444"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-12-30",
     "datumEnde": "2023-04-07",
@@ -5103,7 +5519,6 @@
     "wirkstoffe": "Amoxicillin-Natrium; Kaliumclavulanat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Sonstige",
     "grundAnmerkung": "Kapazitätsengpass",
@@ -5114,7 +5529,9 @@
     "pzn": [
       "06489120"
     ],
-    "enr": "2161443",
+    "enr": [
+      "2161443"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-12-30",
     "datumEnde": "2023-04-07",
@@ -5125,7 +5542,6 @@
     "wirkstoffe": "Amoxicillin-Natrium; Kaliumclavulanat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Sonstige",
     "grundAnmerkung": "Kapazitätsengpass",
@@ -5137,7 +5553,9 @@
       "03126500",
       "03126517"
     ],
-    "enr": "2170556",
+    "enr": [
+      "2170556"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-07",
     "datumEnde": "2023-11-30",
@@ -5148,7 +5566,6 @@
     "wirkstoffe": "Amoxicillin-Trihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-09-07",
@@ -5162,7 +5579,9 @@
       "18030510",
       "18030527"
     ],
-    "enr": "7009422",
+    "enr": [
+      "7009422"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-02-01",
     "datumEnde": "2023-03-31",
@@ -5173,8 +5592,6 @@
     "wirkstoffe": "Normales Immunglobulin vom Menschen zur intravenösen Anwendung",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Biotest Pharma GmbH",
-    "telefon": "N/A",
-    "mail": "N/A",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-01",
     "infoFachkreise": "Vorgesehen"
@@ -5183,7 +5600,9 @@
     "pzn": [
       "02182643"
     ],
-    "enr": "1461602",
+    "enr": [
+      "1461602"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-01",
     "datumEnde": "2023-05-31",
@@ -5206,7 +5625,9 @@
       "09482779",
       "09482785"
     ],
-    "enr": "2175287",
+    "enr": [
+      "2175287"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-01",
     "datumEnde": "2023-09-30",
@@ -5217,7 +5638,6 @@
     "wirkstoffe": "Candesartancilexetil",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Basics GmbH",
-    "telefon": "N/A",
     "mail": "rabattvertraege@sunpharma.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-02-03",
@@ -5227,7 +5647,9 @@
     "pzn": [
       "10762797"
     ],
-    "enr": "2190682",
+    "enr": [
+      "2190682"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-12-01",
     "datumEnde": "2023-04-30",
@@ -5238,7 +5660,6 @@
     "wirkstoffe": "Paricalcitol",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Sun Pharmaceuticals Germany GmbH",
-    "telefon": "N/A",
     "mail": "rabattvertraege@sunpharma.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-02-03",
@@ -5249,7 +5670,9 @@
       "10762805",
       "10762811"
     ],
-    "enr": "2190683",
+    "enr": [
+      "2190683"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-12-01",
     "datumEnde": "2023-04-30",
@@ -5260,7 +5683,6 @@
     "wirkstoffe": "Paricalcitol",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Sun Pharmaceuticals Germany GmbH",
-    "telefon": "N/A",
     "mail": "rabattvertraege@sunpharma.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-02-03",
@@ -5270,7 +5692,9 @@
     "pzn": [
       "02182637"
     ],
-    "enr": "2106383",
+    "enr": [
+      "2106383"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-01",
     "datumEnde": "2023-05-31",
@@ -5291,7 +5715,9 @@
     "pzn": [
       "05492309"
     ],
-    "enr": "2100038",
+    "enr": [
+      "2100038"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-02",
     "datumEnde": "2023-04-30",
@@ -5313,7 +5739,9 @@
     "pzn": [
       "02231494"
     ],
-    "enr": "2124625",
+    "enr": [
+      "2124625"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-03",
     "datumEnde": "2023-03-31",
@@ -5324,7 +5752,6 @@
     "wirkstoffe": "Cefaclor-Monohydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Basics GmbH",
-    "telefon": "N/A",
     "mail": "rabattvertraege@sunpharma.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Erhöhte Nachfrage",
@@ -5332,30 +5759,12 @@
     "infoFachkreise": "Vorgesehen"
   },
   {
-    "pzn": [],
-    "enr": "2191507",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2020-01-01",
-    "datumEnde": "2022-06-30",
-    "datumLetzteMeldung": "2023-02-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Esomeprazol-Elpen 40 mg Pulver zur Herstellung einer Injektions- bzw. Infusionslösung",
-    "atcCode": "A02BC05",
-    "wirkstoffe": "Esomeprazol-Natrium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "030 7974040 0",
-    "mail": "info@elpen-pharma.de",
-    "grund": "GMP Mängel",
-    "grundAnmerkung": "Die Zulassung des Arzneimittels wurde 2022 zurück gezogen",
-    "datumErstmeldung": "2020-04-30",
-    "infoFachkreise": "Nein"
-  },
-  {
     "pzn": [
       "00113750"
     ],
-    "enr": "2139962",
+    "enr": [
+      "2139962"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-18",
     "datumEnde": "2023-07-31",
@@ -5366,7 +5775,6 @@
     "wirkstoffe": "Cefaclor-Monohydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-02",
@@ -5376,7 +5784,9 @@
     "pzn": [
       "00113744"
     ],
-    "enr": "2139961",
+    "enr": [
+      "2139961"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-18",
     "datumEnde": "2023-07-31",
@@ -5387,7 +5797,6 @@
     "wirkstoffe": "Cefaclor-Monohydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-02",
@@ -5399,7 +5808,9 @@
       "00230007",
       "00278379"
     ],
-    "enr": "2155619",
+    "enr": [
+      "2155619"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-09",
     "datumEnde": "2023-07-07",
@@ -5410,7 +5821,6 @@
     "wirkstoffe": "Azithromycin-Dihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-02",
@@ -5422,7 +5832,9 @@
       "14138475",
       "14138481"
     ],
-    "enr": "2194194",
+    "enr": [
+      "2194194"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-25",
     "datumEnde": "2023-04-26",
@@ -5444,7 +5856,9 @@
       "08827667",
       "14307742"
     ],
-    "enr": "2138389",
+    "enr": [
+      "2138389"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-12-29",
     "datumEnde": "2023-05-31",
@@ -5455,7 +5869,6 @@
     "wirkstoffe": "Molsidomin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "N/A",
     "mail": "a.kredba@aliud.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-02-01",
@@ -5465,7 +5878,9 @@
     "pzn": [
       "16155489"
     ],
-    "enr": "2716087",
+    "enr": [
+      "2716087"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-02-14",
     "datumEnde": "2023-04-14",
@@ -5487,7 +5902,9 @@
     "pzn": [
       "08831255"
     ],
-    "enr": "2168389",
+    "enr": [
+      "2168389"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-10",
     "datumEnde": "2023-03-31",
@@ -5498,7 +5915,6 @@
     "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-01-11",
@@ -5508,7 +5924,9 @@
     "pzn": [
       "08831249"
     ],
-    "enr": "2168388",
+    "enr": [
+      "2168388"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-21",
     "datumEnde": "2023-03-31",
@@ -5519,7 +5937,6 @@
     "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-12-21",
@@ -5529,7 +5946,9 @@
     "pzn": [
       "08831232"
     ],
-    "enr": "2168387",
+    "enr": [
+      "2168387"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-21",
     "datumEnde": "2023-03-31",
@@ -5540,7 +5959,6 @@
     "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-12-21",
@@ -5550,7 +5968,9 @@
     "pzn": [
       "06332335"
     ],
-    "enr": "2106133",
+    "enr": [
+      "2106133"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-06",
     "datumEnde": "2023-03-31",
@@ -5561,7 +5981,6 @@
     "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-12-07",
@@ -5573,7 +5992,9 @@
       "15298169",
       "15298175"
     ],
-    "enr": "2200025",
+    "enr": [
+      "2200025"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-04-07",
     "datumEnde": "2023-03-31",
@@ -5584,7 +6005,6 @@
     "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Krugmann Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@krugmann-gmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-04-07",
@@ -5596,7 +6016,9 @@
       "15298123",
       "15298146"
     ],
-    "enr": "2200024",
+    "enr": [
+      "2200024"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-04-07",
     "datumEnde": "2023-03-31",
@@ -5607,7 +6029,6 @@
     "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Krugmann Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@krugmann-gmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-04-07",
@@ -5617,7 +6038,9 @@
     "pzn": [
       "11538665"
     ],
-    "enr": "2191850",
+    "enr": [
+      "2191850"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-21",
     "datumEnde": "2023-03-31",
@@ -5628,7 +6051,6 @@
     "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Krugmann Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-12-21",
@@ -5638,7 +6060,9 @@
     "pzn": [
       "08859905"
     ],
-    "enr": "2133164",
+    "enr": [
+      "2133164"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-08-10",
     "datumEnde": "2023-03-31",
@@ -5649,7 +6073,6 @@
     "wirkstoffe": "Hydromorphonhydrochlorid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-08-10",
@@ -5659,7 +6082,9 @@
     "pzn": [
       "14289895"
     ],
-    "enr": "2199941",
+    "enr": [
+      "2199941"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-02",
     "datumEnde": "2023-03-31",
@@ -5670,7 +6095,6 @@
     "wirkstoffe": "Melphalanhydrochlorid",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Sun Pharmaceuticals Germany GmbH",
-    "telefon": "N/A",
     "mail": "rabattvertraege@sunpharma.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-11-16",
@@ -5680,7 +6104,9 @@
     "pzn": [
       "03524502"
     ],
-    "enr": "3000404",
+    "enr": [
+      "3000404"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-30",
     "datumEnde": "2023-03-31",
@@ -5699,108 +6125,13 @@
   },
   {
     "pzn": [
-      "00000000",
-      "01309159",
-      "01309165",
-      "02395362"
-    ],
-    "enr": "2112814",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-05",
-    "datumEnde": "2023-03-15",
-    "datumLetzteMeldung": "2023-01-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Betahistin AL 6",
-    "atcCode": "N07CA01",
-    "wirkstoffe": "Betahistindimesilat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-11-22",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "15563648",
-      "15563654",
-      "15563660"
-    ],
-    "enr": "2200823",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-05-05",
-    "datumEnde": "2023-03-15",
-    "datumLetzteMeldung": "2023-01-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Betahistin AL 8 mg Tabletten",
-    "atcCode": "N07CA01",
-    "wirkstoffe": "Betahistindihydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "N/A",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "-",
-    "datumErstmeldung": "2022-05-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "15563677",
-      "15563683",
-      "15563708"
-    ],
-    "enr": "2200824",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-03-09",
-    "datumEnde": "2023-03-15",
-    "datumLetzteMeldung": "2023-01-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Betahistin AL 16 mg Tabletten",
-    "atcCode": "N07CA01",
-    "wirkstoffe": "Betahistindihydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "N/A",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-03-09",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "15563714",
-      "15563720",
-      "15563737"
-    ],
-    "enr": "2200825",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-03-09",
-    "datumEnde": "2023-03-15",
-    "datumLetzteMeldung": "2023-01-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Betahistin AL 24 mg Tabletten",
-    "atcCode": "N07CA01",
-    "wirkstoffe": "Betahistindihydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "N/A",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-03-09",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03751706",
       "03751712",
       "08456774"
     ],
-    "enr": "2110057",
+    "enr": [
+      "2110057"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-06-01",
     "datumEnde": "2023-03-31",
@@ -5822,7 +6153,9 @@
     "pzn": [
       "00557576"
     ],
-    "enr": "2140373",
+    "enr": [
+      "2140373"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-30",
     "datumEnde": "2023-05-30",
@@ -5834,7 +6167,7 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Viatris Healthcare GmbH",
     "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com\t\t",
+    "mail": "kundenservice@viatris.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-01-31",
     "infoFachkreise": "Nein"
@@ -5846,7 +6179,9 @@
       "00173964",
       "99999999"
     ],
-    "enr": "2126067",
+    "enr": [
+      "2126067"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-04-01",
     "datumEnde": "2023-09-30",
@@ -5869,7 +6204,9 @@
       "06983630",
       "06983676"
     ],
-    "enr": "2126034",
+    "enr": [
+      "2126034"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-07-21",
     "datumEnde": "2023-06-30",
@@ -5892,7 +6229,9 @@
       "04152592",
       "04152617"
     ],
-    "enr": "2171880",
+    "enr": [
+      "2171880"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-16",
     "datumEnde": "2023-05-05",
@@ -5903,7 +6242,6 @@
     "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-16",
@@ -5914,7 +6252,9 @@
       "07382890",
       "07382909"
     ],
-    "enr": "2127523",
+    "enr": [
+      "2127523"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-07-08",
     "datumEnde": "2023-06-30",
@@ -5937,7 +6277,9 @@
       "00350349",
       "00460888"
     ],
-    "enr": "2158919",
+    "enr": [
+      "2158919"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-06",
     "datumEnde": "2023-04-21",
@@ -5959,7 +6301,9 @@
       "02557959",
       "02563575"
     ],
-    "enr": "2158918",
+    "enr": [
+      "2158918"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-06",
     "datumEnde": "2023-05-05",
@@ -5981,7 +6325,9 @@
       "11511040",
       "11511063"
     ],
-    "enr": "2191242",
+    "enr": [
+      "2191242"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-19",
     "datumEnde": "2023-12-31",
@@ -6003,7 +6349,9 @@
       "11510980",
       "11511011"
     ],
-    "enr": "2191241",
+    "enr": [
+      "2191241"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-19",
     "datumEnde": "2023-12-31",
@@ -6025,7 +6373,9 @@
       "11510939",
       "11510951"
     ],
-    "enr": "2191240",
+    "enr": [
+      "2191240"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-19",
     "datumEnde": "2023-12-31",
@@ -6046,7 +6396,9 @@
     "pzn": [
       "01950726"
     ],
-    "enr": "0451228",
+    "enr": [
+      "0451228"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-23",
     "datumEnde": "2023-07-31",
@@ -6057,7 +6409,6 @@
     "wirkstoffe": "Betamethasondihydrogenphosphat-Dinatrium (Ph.Eur.); Betamethasondipropionat (Ph.Eur.)",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Organon Healthcare GmbH",
-    "telefon": "N/A",
     "mail": "ra_dach@organon.com",
     "grund": "GMP Mängel",
     "datumErstmeldung": "2023-01-30",
@@ -6068,7 +6419,9 @@
       "04008079",
       "04346267"
     ],
-    "enr": "3000655",
+    "enr": [
+      "3000655"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-07",
     "datumEnde": "2023-03-31",
@@ -6080,7 +6433,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "TEVA GmbH",
     "telefon": "+49 (0)731 402 - 02",
-    "mail": "N/A",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Ausfall bzw. Rückzug des Mitbewerbers führte bei uns zu stark erhöhten Absätzen. Diese zusätzlich sehr hohe Nachfrage konnten wir kurzfristig so nicht kompensieren. Wir arbeiten mit Hochdruck daran, den Marktbedarf schnellstmöglich bedienen zu können, um die Versorgung der Patientinnen und Patienten sicherstellen zu können.",
     "datumErstmeldung": "2022-12-07",
@@ -6091,7 +6443,9 @@
       "03098123",
       "03204424"
     ],
-    "enr": "2105437",
+    "enr": [
+      "2105437"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-20",
     "datumEnde": "2023-03-31",
@@ -6114,7 +6468,9 @@
       "05391726",
       "05391732"
     ],
-    "enr": "2171909",
+    "enr": [
+      "2171909"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-16",
     "datumEnde": "2023-04-30",
@@ -6125,48 +6481,9 @@
     "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-16",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [],
-    "enr": "2130559",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2020-09-01",
-    "datumEnde": "2023-07-31",
-    "datumLetzteMeldung": "2023-01-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ranitidin AL 300",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "07333/9651-0",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2020-09-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [],
-    "enr": "2130558",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2020-09-01",
-    "datumEnde": "2023-07-31",
-    "datumLetzteMeldung": "2023-01-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ranitidin AL 150",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "07333/9651-0",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2020-09-30",
     "infoFachkreise": "Nein"
   },
   {
@@ -6174,7 +6491,9 @@
       "14061235",
       "14061241"
     ],
-    "enr": "2201171",
+    "enr": [
+      "2201171"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-04-01",
     "datumEnde": "2024-04-01",
@@ -6196,7 +6515,9 @@
       "14061212",
       "14061229"
     ],
-    "enr": "2201170",
+    "enr": [
+      "2201170"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-01",
     "datumEnde": "2024-04-01",
@@ -6218,7 +6539,9 @@
       "14061198",
       "14061206"
     ],
-    "enr": "2201169",
+    "enr": [
+      "2201169"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-03-01",
     "datumEnde": "2024-04-01",
@@ -6239,7 +6562,9 @@
     "pzn": [
       "06648305"
     ],
-    "enr": "2124661",
+    "enr": [
+      "2124661"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-13",
     "datumEnde": "2023-06-23",
@@ -6262,7 +6587,9 @@
       "00225443",
       "00225466"
     ],
-    "enr": "2103159",
+    "enr": [
+      "2103159"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-23",
     "datumEnde": "2023-07-31",
@@ -6284,7 +6611,9 @@
     "pzn": [
       "02021377"
     ],
-    "enr": "2100328",
+    "enr": [
+      "2100328"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-23",
     "datumEnde": "2023-03-31",
@@ -6305,7 +6634,9 @@
     "pzn": [
       "00713013"
     ],
-    "enr": "2137243",
+    "enr": [
+      "2137243"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-16",
     "datumEnde": "2023-04-30",
@@ -6316,7 +6647,6 @@
     "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-16",
@@ -6327,7 +6657,9 @@
       "00544651",
       "00544668"
     ],
-    "enr": "2133933",
+    "enr": [
+      "2133933"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-06",
     "datumEnde": "2023-07-31",
@@ -6348,7 +6680,9 @@
     "pzn": [
       "14375146"
     ],
-    "enr": "2714545",
+    "enr": [
+      "2714545"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-01",
     "datumEnde": "2023-03-31",
@@ -6369,7 +6703,9 @@
     "pzn": [
       "17483132"
     ],
-    "enr": "2201628",
+    "enr": [
+      "2201628"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-23",
     "datumEnde": "2023-03-31",
@@ -6390,7 +6726,9 @@
     "pzn": [
       "17483149"
     ],
-    "enr": "2201629",
+    "enr": [
+      "2201629"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-23",
     "datumEnde": "2023-06-01",
@@ -6412,7 +6750,9 @@
       "00601248",
       "00601260"
     ],
-    "enr": "2141619",
+    "enr": [
+      "2141619"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-05-02",
     "datumEnde": "2023-06-30",
@@ -6423,7 +6763,6 @@
     "wirkstoffe": "Famotidin",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "N/A",
     "mail": "info@ratiopharm.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-19",
@@ -6434,7 +6773,9 @@
       "00601219",
       "00601225"
     ],
-    "enr": "2141599",
+    "enr": [
+      "2141599"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-05-02",
     "datumEnde": "2023-06-30",
@@ -6445,7 +6786,6 @@
     "wirkstoffe": "Famotidin",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "N/A",
     "mail": "info@ratiopharm.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-19",
@@ -6453,53 +6793,11 @@
   },
   {
     "pzn": [
-      "00000000",
-      "04751476",
-      "04751482",
-      "09424405"
-    ],
-    "enr": "2104753",
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-12-28",
-    "datumEnde": "2023-03-15",
-    "datumLetzteMeldung": "2023-01-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxicillin AL 500",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-18",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [],
-    "enr": "2602432",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-03-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-01-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "OncoTICE",
-    "atcCode": "L03AX03",
-    "wirkstoffe": "BCG-Bakterien, Stamm TICE, lebend, attenuiert",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "MSD Sharp & Dohme Gesellschaft mit beschränkter Haftung",
-    "telefon": "0800 673 673 673",
-    "mail": "infocenter@msd.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "BCG-medac - Einreichungsnummer: 2602431",
-    "datumErstmeldung": "2021-03-18",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "06834798"
     ],
-    "enr": "2169218",
+    "enr": [
+      "2169218"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-17",
     "datumEnde": "2023-04-28",
@@ -6520,7 +6818,9 @@
     "pzn": [
       "06834769"
     ],
-    "enr": "2169217",
+    "enr": [
+      "2169217"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-17",
     "datumEnde": "2023-04-28",
@@ -6541,7 +6841,9 @@
     "pzn": [
       "01620443"
     ],
-    "enr": "2146826",
+    "enr": [
+      "2146826"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-16",
     "datumEnde": "2023-04-15",
@@ -6552,7 +6854,6 @@
     "wirkstoffe": "Bisoprololfumarat (Ph.Eur.); Hydrochlorothiazid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-16",
@@ -6562,7 +6863,9 @@
     "pzn": [
       "09780382"
     ],
-    "enr": "2711006",
+    "enr": [
+      "2711006"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-01",
     "datumEnde": "2023-12-31",
@@ -6573,7 +6876,6 @@
     "wirkstoffe": "Abatacept",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Bristol-Myers Squibb Pharma EEIG",
-    "telefon": "N/A",
     "mail": "medwiss.info@bms.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Erhöhte Nachfrage. Der Verordnungsanteil von Parallelimporten von Orencia Fertigspritzen (Gesamtzahl) ist von Okt 21 bis Okt 22 stark gesunken.Für 2023 werden bei geplanter Mengenerhöhung nur moderate Mengenkürzungen erwartet.",
@@ -6584,7 +6886,9 @@
     "pzn": [
       "09780399"
     ],
-    "enr": "2711619",
+    "enr": [
+      "2711619"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-01",
     "datumEnde": "2023-12-31",
@@ -6595,7 +6899,6 @@
     "wirkstoffe": "Abatacept",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Bristol-Myers Squibb Pharma EEIG",
-    "telefon": "N/A",
     "mail": "medwiss.info@bms.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Erhöhte Nachfrage. Der Verordnungsanteil von Parallelimporten von Orencia Fertigspritzen (Gesamtzahl) ist von Okt 21 bis Okt 22 stark gesunken. Für 2023 werden bei geplanter Mengenerhöhung nur moderate Mengenkürzungen erwartet.",
@@ -6606,7 +6909,9 @@
     "pzn": [
       "11095570"
     ],
-    "enr": "2714012",
+    "enr": [
+      "2714012"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-01",
     "datumEnde": "2023-12-31",
@@ -6617,7 +6922,6 @@
     "wirkstoffe": "Abatacept",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Bristol-Myers Squibb Pharma EEIG",
-    "telefon": "N/A",
     "mail": "medwiss.info@bms.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Erhöhte Nachfrage. Der Verordnungsanteil vonParallelimporten von Orencia Fertigpens (Gesamtzahl)ist von Okt 21 bis Okt 22 stark gesunken. Für 2023werden bei geplanter Mengenerhöhung nur moderateMengenkürzungen erwartet.",
@@ -6628,7 +6932,9 @@
     "pzn": [
       "11095587"
     ],
-    "enr": "2714013",
+    "enr": [
+      "2714013"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-03-01",
     "datumEnde": "2023-12-31",
@@ -6639,7 +6945,6 @@
     "wirkstoffe": "Abatacept",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Bristol-Myers Squibb Pharma EEIG",
-    "telefon": "N/A",
     "mail": "medwiss.info@bms.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Erhöhte Nachfrage. Der Verordnungsanteil von Parallelimporten von Orencia Fertigpens (Gesamtzahl) ist von Okt 21 bis Okt 22 stark gesunken. Für 2023 werden bei geplanter Mengenerhöhung nur moderate Mengenkürzungen erwartet.",
@@ -6651,7 +6956,9 @@
       "10410466",
       "10410472"
     ],
-    "enr": "2114449",
+    "enr": [
+      "2114449"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-02-25",
     "datumEnde": "2023-12-31",
@@ -6662,7 +6969,6 @@
     "wirkstoffe": "Tamoxifencitrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-02-16",
@@ -6673,7 +6979,9 @@
       "10410472",
       "10410489"
     ],
-    "enr": "2114448",
+    "enr": [
+      "2114448"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-02-25",
     "datumEnde": "2023-12-31",
@@ -6684,7 +6992,6 @@
     "wirkstoffe": "Tamoxifencitrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
-    "telefon": "N/A",
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-02-16",
@@ -6695,7 +7002,9 @@
       "07480196",
       "07480204"
     ],
-    "enr": "0196782",
+    "enr": [
+      "0196782"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-20",
     "datumEnde": "2023-03-17",
@@ -6718,7 +7027,9 @@
       "01623683",
       "01623708"
     ],
-    "enr": "2146822",
+    "enr": [
+      "2146822"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-16",
     "datumEnde": "2023-04-15",
@@ -6729,7 +7040,6 @@
     "wirkstoffe": "Bisoprololfumarat (Ph.Eur.); Hydrochlorothiazid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-16",
@@ -6739,7 +7049,9 @@
     "pzn": [
       "00592704"
     ],
-    "enr": "2142653",
+    "enr": [
+      "2142653"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-01",
     "datumEnde": "2023-05-22",
@@ -6750,10 +7062,9 @@
     "wirkstoffe": "Famotidin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "N/A",
     "mail": "christiane.georgi@stada.de",
     "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Lieferunfähigkeit wegen hoher Überverkäufe durch out of stock Mitbewerber - Nachbestellung getätigt. Liefertermin neuer Ware wird versucht vorzuziehen. ",
+    "grundAnmerkung": "Lieferunfähigkeit wegen hoher Überverkäufe durch out of stock Mitbewerber - Nachbestellung getätigt. Liefertermin neuer Ware wird versucht vorzuziehen.",
     "datumErstmeldung": "2023-01-11",
     "infoFachkreise": "Vorgesehen"
   },
@@ -6761,7 +7072,9 @@
     "pzn": [
       "17313306"
     ],
-    "enr": "2701559",
+    "enr": [
+      "2701559"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-07-01",
     "datumEnde": "2023-04-30",
@@ -6783,7 +7096,9 @@
       "00000000",
       "02682937"
     ],
-    "enr": "2125597",
+    "enr": [
+      "2125597"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-12-26",
     "datumEnde": "2023-03-31",
@@ -6805,7 +7120,9 @@
       "03570956",
       "12350372"
     ],
-    "enr": "2111213",
+    "enr": [
+      "2111213"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-10-21",
     "datumEnde": "2023-06-30",
@@ -6816,7 +7133,6 @@
     "wirkstoffe": "Tamoxifencitrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "telefon": "N/A",
     "mail": "info@heumann.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2021-11-09",
@@ -6826,7 +7142,9 @@
     "pzn": [
       "08730399"
     ],
-    "enr": "2141161",
+    "enr": [
+      "2141161"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-12-29",
     "datumEnde": "2023-04-18",
@@ -6837,7 +7155,6 @@
     "wirkstoffe": "Salbutamolsulfat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "N/A",
     "mail": "christiane.georgi@stada.de",
     "grund": "Probleme in der Herstellung",
     "grundAnmerkung": "Überverkäufe durch out of stock Mitbewerber im November - Dezember 2022",
@@ -6850,7 +7167,9 @@
       "16086297",
       "16086311"
     ],
-    "enr": "2202350",
+    "enr": [
+      "2202350"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-02",
     "datumEnde": "2023-03-31",
@@ -6869,32 +7188,13 @@
   },
   {
     "pzn": [
-      "01017020"
-    ],
-    "enr": "2140302",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-09-01",
-    "datumEnde": "2023-02-28",
-    "datumLetzteMeldung": "2023-01-09",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Tamoxifen AbZ 20 mg Tabletten",
-    "atcCode": "L02BA01",
-    "wirkstoffe": "Tamoxifencitrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "telefon": "N/A",
-    "mail": "info@abz.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-02-11",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01016960",
       "01016977",
       "99999999"
     ],
-    "enr": "2134271",
+    "enr": [
+      "2134271"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2019-09-01",
     "datumEnde": "2023-06-30",
@@ -6916,7 +7216,9 @@
       "01016931",
       "99999999"
     ],
-    "enr": "2134277",
+    "enr": [
+      "2134277"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2019-09-01",
     "datumEnde": "2023-06-30",
@@ -6935,32 +7237,12 @@
   },
   {
     "pzn": [
-      "03095225",
-      "03095231"
-    ],
-    "enr": "2106253",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-09-01",
-    "datumEnde": "2023-02-28",
-    "datumLetzteMeldung": "2023-01-09",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Tamoxifen-ratiopharm 20mg Tabletten",
-    "atcCode": "L02BA01",
-    "wirkstoffe": "Tamoxifencitrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "N/A",
-    "mail": "info@ratiopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-02-11",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "07430749",
       "99999999"
     ],
-    "enr": "2134537",
+    "enr": [
+      "2134537"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2019-09-01",
     "datumEnde": "2023-06-30",
@@ -6984,7 +7266,9 @@
       "07156389",
       "99999999"
     ],
-    "enr": "2134272",
+    "enr": [
+      "2134272"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2019-09-01",
     "datumEnde": "2023-06-30",
@@ -7008,7 +7292,9 @@
       "07156337",
       "99999999"
     ],
-    "enr": "2134278",
+    "enr": [
+      "2134278"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2019-09-01",
     "datumEnde": "2023-06-30",
@@ -7030,7 +7316,9 @@
       "08776071",
       "08776088"
     ],
-    "enr": "2102842",
+    "enr": [
+      "2102842"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-06",
     "datumEnde": "2023-04-03",
@@ -7041,7 +7329,6 @@
     "wirkstoffe": "Cefadroxil-Monohydrat",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "N/A",
     "mail": "regulatory@infectpharm.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-01-06",
@@ -7051,7 +7338,9 @@
     "pzn": [
       "01442993"
     ],
-    "enr": "0813022",
+    "enr": [
+      "0813022"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-02-24",
     "datumEnde": "2023-12-31",
@@ -7063,7 +7352,7 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "H e y l Chemisch-pharmazeutische Fabrik GmbH & Co. KG",
     "telefon": "+49 30 816 96  0",
-    "mail": " info@heyl-berlin.de",
+    "mail": "info@heyl-berlin.de",
     "grund": "Sonstige",
     "grundAnmerkung": "Durch die Betriebsschließung des bisherigen Lohnherstellers Haupt Pharma Berlin GmbH müssen die Produkte zu einem neuen Lohnhersteller transferiert werden. Dabei wurde Antidotum Thallii vom Produkttransfer aus wirtschaftlichen Gründen von bisher allen, verfügbaren Herstellern ausgeschlossenn.",
     "alternativPraeparat": "Radiogardase - Cs - Einreichungsnummer: 0813163",
@@ -7071,30 +7360,12 @@
     "infoFachkreise": "Nein"
   },
   {
-    "pzn": [],
-    "enr": "0813973",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2020-01-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-01-05",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "B6-Vicotrat 300 mg",
-    "atcCode": "A11HA02",
-    "wirkstoffe": "Pyridoxinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "H e y l Chemisch-pharmazeutische Fabrik GmbH & Co. KG",
-    "telefon": "030816960",
-    "mail": "info@heyl-berlin.de",
-    "grund": "Herstellerwechsel",
-    "grundAnmerkung": "Haupt Pharma Berlin wurde geschlossen, neuer Lohnhersteller noch nicht verfügbar",
-    "datumErstmeldung": "2020-01-24",
-    "infoFachkreise": "Nein"
-  },
-  {
     "pzn": [
       "06960557"
     ],
-    "enr": "2144244",
+    "enr": [
+      "2144244"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-02-02",
     "datumEnde": "2023-12-31",
@@ -7115,7 +7386,9 @@
     "pzn": [
       "04324188"
     ],
-    "enr": "2154243",
+    "enr": [
+      "2154243"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-04",
     "datumEnde": "2023-04-30",
@@ -7138,7 +7411,9 @@
       "00618622",
       "00618639"
     ],
-    "enr": "2163073",
+    "enr": [
+      "2163073"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-04",
     "datumEnde": "2023-10-31",
@@ -7149,7 +7424,6 @@
     "wirkstoffe": "Meloxicam",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-01-04",
@@ -7162,7 +7436,9 @@
       "09295310",
       "99999999"
     ],
-    "enr": "2181706",
+    "enr": [
+      "2181706"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2018-07-01",
     "datumEnde": "2023-12-31",
@@ -7185,7 +7461,9 @@
       "00618579",
       "00618591"
     ],
-    "enr": "2163072",
+    "enr": [
+      "2163072"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-01-04",
     "datumEnde": "2023-10-31",
@@ -7196,7 +7474,6 @@
     "wirkstoffe": "Meloxicam",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-01-04",
@@ -7207,7 +7484,9 @@
       "08881649",
       "99999999"
     ],
-    "enr": "5104359",
+    "enr": [
+      "5104359"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2020-03-01",
     "datumEnde": "2023-03-31",
@@ -7230,7 +7509,9 @@
       "09295362",
       "09295379"
     ],
-    "enr": "2181707",
+    "enr": [
+      "2181707"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-11-24",
     "datumEnde": "2023-12-31",
@@ -7251,7 +7532,9 @@
     "pzn": [
       "17857472"
     ],
-    "enr": "0127367",
+    "enr": [
+      "0127367"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-07-01",
     "datumEnde": "2023-03-31",
@@ -7272,7 +7555,9 @@
     "pzn": [
       "12978455"
     ],
-    "enr": "2199223",
+    "enr": [
+      "2199223"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2023-02-01",
     "datumEnde": "2025-01-01",
@@ -7284,7 +7569,7 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "ratiopharm GmbH",
     "telefon": "0731 402 7028",
-    "mail": "Julian.Simon@teva.de ",
+    "mail": "Julian.Simon@teva.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-02",
     "infoFachkreise": "Vorgesehen"
@@ -7293,7 +7578,9 @@
     "pzn": [
       "00000000"
     ],
-    "enr": "0820921",
+    "enr": [
+      "0820921"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-01",
     "datumEnde": "2023-06-30",
@@ -7304,7 +7591,6 @@
     "wirkstoffe": "Rheniumsulfid o.w.A.",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Curium Germany GmbH",
-    "telefon": "N/A",
     "mail": "annette.brinker-ext@curiumpharma.com",
     "grund": "Sonstige",
     "alternativPraeparat": "NANOTOP - Einreichungsnummer: 2182367",
@@ -7315,7 +7601,9 @@
     "pzn": [
       "12642459"
     ],
-    "enr": "2712087",
+    "enr": [
+      "2712087"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-06-01",
     "datumEnde": "2023-12-31",
@@ -7338,7 +7626,10 @@
       "01474384",
       "01483785"
     ],
-    "enr": "2706656, 2706659",
+    "enr": [
+      "2706656",
+      "2706659"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-12-23",
     "datumEnde": "2023-10-31",
@@ -7352,7 +7643,7 @@
     "telefon": "08005252010",
     "mail": "medinfo.de@sanofi.com",
     "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "Sehr stark eingeschränkte Lieferfähigkeit ",
+    "grundAnmerkung": "Sehr stark eingeschränkte Lieferfähigkeit",
     "datumErstmeldung": "2022-12-28",
     "infoFachkreise": "Ja"
   },
@@ -7361,7 +7652,10 @@
       "08923000",
       "08923023"
     ],
-    "enr": "2700523, 2701465",
+    "enr": [
+      "2700523",
+      "2701465"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-12-23",
     "datumEnde": "2023-10-31",
@@ -7375,7 +7669,7 @@
     "telefon": "08005252010",
     "mail": "medinfo.de@sanofi.com",
     "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "Sehr stark eingeschränkte Lieferfähigkeit ",
+    "grundAnmerkung": "Sehr stark eingeschränkte Lieferfähigkeit",
     "datumErstmeldung": "2022-12-28",
     "infoFachkreise": "Ja"
   },
@@ -7383,7 +7677,9 @@
     "pzn": [
       "00544697"
     ],
-    "enr": "2134927",
+    "enr": [
+      "2134927"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-06",
     "datumEnde": "2023-03-31",
@@ -7406,7 +7702,9 @@
       "00829431",
       "00832485"
     ],
-    "enr": "2164573",
+    "enr": [
+      "2164573"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-15",
     "datumEnde": "2023-04-04",
@@ -7417,7 +7715,6 @@
     "wirkstoffe": "Cefpodoximproxetil",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-12-15",
@@ -7430,7 +7727,9 @@
       "04841512",
       "04841529"
     ],
-    "enr": "2149019",
+    "enr": [
+      "2149019"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-12-20",
     "datumEnde": "2023-04-07",
@@ -7441,7 +7740,6 @@
     "wirkstoffe": "Cefuroximaxetil",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-12-23",
@@ -7451,7 +7749,9 @@
     "pzn": [
       "00776798"
     ],
-    "enr": "2126575",
+    "enr": [
+      "2126575"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-12-14",
     "datumEnde": "2023-03-31",
@@ -7478,7 +7778,15 @@
       "05382704",
       "06974708"
     ],
-    "enr": "2670541, 2670542, 2670543, 2670646, 2670647, 2670648, 2672569",
+    "enr": [
+      "2670541",
+      "2670542",
+      "2670543",
+      "2670646",
+      "2670647",
+      "2670648",
+      "2672569"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-02-01",
     "datumEnde": "2023-03-31",
@@ -7500,7 +7808,9 @@
     "pzn": [
       "07764019"
     ],
-    "enr": "2670858",
+    "enr": [
+      "2670858"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-02-01",
     "datumEnde": "2023-03-31",
@@ -7514,7 +7824,7 @@
     "telefon": "+49 69 305 40300",
     "mail": "CCC@cslbehring.com",
     "grund": "Sonstige",
-    "grundAnmerkung": "Vermindertes Plasmasammelvolumen aufgrund der COVID-19-Pandemie;betroffenen Packungsgrößen: alle; PZN: 07764019, 07764025, 07764048, 07764054, 07764077, 06613991 ",
+    "grundAnmerkung": "Vermindertes Plasmasammelvolumen aufgrund der COVID-19-Pandemie;betroffenen Packungsgrößen: alle; PZN: 07764019, 07764025, 07764048, 07764054, 07764077, 06613991",
     "datumErstmeldung": "2021-02-26",
     "infoFachkreise": "Ja"
   },
@@ -7524,7 +7834,9 @@
       "04930598",
       "04930606"
     ],
-    "enr": "2146289",
+    "enr": [
+      "2146289"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-07-28",
     "datumEnde": "2023-06-30",
@@ -7536,7 +7848,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "ALIUD PHARMA GmbH",
     "telefon": "+49733396510",
-    "mail": "N/A",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-07-28",
     "infoFachkreise": "Vorgesehen"
@@ -7550,7 +7861,14 @@
       "04668858",
       "06587176"
     ],
-    "enr": "2670218, 2670219, 2670220, 2670221, 2670222, 2670735",
+    "enr": [
+      "2670218",
+      "2670219",
+      "2670220",
+      "2670221",
+      "2670222",
+      "2670735"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-08-01",
     "datumEnde": "2023-03-31",
@@ -7575,7 +7893,13 @@
       "10003287",
       "10003293"
     ],
-    "enr": "2671295, 2671296, 2671297, 2671298, 2671299",
+    "enr": [
+      "2671295",
+      "2671296",
+      "2671297",
+      "2671298",
+      "2671299"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-08-01",
     "datumEnde": "2023-03-31",
@@ -7607,7 +7931,9 @@
       "16358293",
       "16604065"
     ],
-    "enr": "2613604",
+    "enr": [
+      "2613604"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-08-01",
     "datumEnde": "2023-03-31",
@@ -7629,7 +7955,9 @@
       "04938358",
       "04938364"
     ],
-    "enr": "2108425",
+    "enr": [
+      "2108425"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-08-10",
     "datumEnde": "2023-06-30",
@@ -7651,7 +7979,9 @@
       "04938370",
       "04938387"
     ],
-    "enr": "2106712",
+    "enr": [
+      "2106712"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-28",
     "datumEnde": "2023-06-30",
@@ -7672,7 +8002,9 @@
     "pzn": [
       "01686353"
     ],
-    "enr": "2125465",
+    "enr": [
+      "2125465"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-24",
     "datumEnde": "2023-08-31",
@@ -7683,7 +8015,6 @@
     "wirkstoffe": "(RS)-2,3-Bis(sulfanyl)propan-1-sulfonsäure-Natriumsalz 1 H<2>O",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "H e y l Chemisch-pharmazeutische Fabrik GmbH & Co. KG",
-    "telefon": "N/A",
     "mail": "info@heyl-berlin.de",
     "grund": "Sonstige",
     "alternativPraeparat": "Dimaval - Einreichungsnummer: 2125465",
@@ -7696,7 +8027,9 @@
       "00658886",
       "00658923"
     ],
-    "enr": "2141151",
+    "enr": [
+      "2141151"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-03",
     "datumEnde": "2023-06-30",
@@ -7707,7 +8040,6 @@
     "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-11-03",
@@ -7719,7 +8051,9 @@
       "08437156",
       "08541391"
     ],
-    "enr": "2141148",
+    "enr": [
+      "2141148"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-03",
     "datumEnde": "2023-05-31",
@@ -7730,7 +8064,6 @@
     "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-11-03",
@@ -7741,7 +8074,9 @@
       "03820614",
       "03820850"
     ],
-    "enr": "2138606",
+    "enr": [
+      "2138606"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-12-16",
     "datumEnde": "2023-04-15",
@@ -7752,7 +8087,6 @@
     "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-16",
@@ -7764,7 +8098,9 @@
       "00712930",
       "00712947"
     ],
-    "enr": "2137246",
+    "enr": [
+      "2137246"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-12-16",
     "datumEnde": "2023-03-17",
@@ -7775,57 +8111,19 @@
     "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-16",
     "infoFachkreise": "Nein"
   },
   {
-    "pzn": [],
-    "enr": "2111785",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2020-07-01",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2022-12-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Bezafibrat AL 400 retard",
-    "atcCode": "C10AB02",
-    "wirkstoffe": "Bezafibrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "07333/9651-1167",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "-",
-    "datumErstmeldung": "2020-07-08",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [],
-    "enr": "2190452",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2018-10-01",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2022-12-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefixim AL 100 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DD08",
-    "wirkstoffe": "Cefixim 3 H<2>O",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "07333/9651-0",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2018-10-24",
-    "infoFachkreise": "Ja"
-  },
-  {
     "pzn": [
       "02492295",
       "02492303"
     ],
-    "enr": "2101841",
+    "enr": [
+      "2101841"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-07",
     "datumEnde": "2023-06-30",
@@ -7848,7 +8146,9 @@
       "02492272",
       "02492289"
     ],
-    "enr": "2101839",
+    "enr": [
+      "2101839"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-07",
     "datumEnde": "2023-06-30",
@@ -7870,7 +8170,9 @@
       "03820324",
       "06154626"
     ],
-    "enr": "2114902",
+    "enr": [
+      "2114902"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-08-01",
     "datumEnde": "2023-04-03",
@@ -7881,7 +8183,6 @@
     "wirkstoffe": "Cefalexin-Monohydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "infoa@abz.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-12",
@@ -7892,7 +8193,9 @@
       "03820301",
       "06154922"
     ],
-    "enr": "2114901",
+    "enr": [
+      "2114901"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-10-01",
     "datumEnde": "2023-04-03",
@@ -7903,7 +8206,6 @@
     "wirkstoffe": "Cefalexin-Monohydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "info@abz.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-12",
@@ -7914,7 +8216,9 @@
       "03574204",
       "03574210"
     ],
-    "enr": "2109216",
+    "enr": [
+      "2109216"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-08-01",
     "datumEnde": "2023-04-03",
@@ -7925,7 +8229,6 @@
     "wirkstoffe": "Cefalexin-Monohydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "N/A",
     "mail": "info@ratiopharm.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-12",
@@ -7936,7 +8239,9 @@
       "03574173",
       "03574196"
     ],
-    "enr": "2109215",
+    "enr": [
+      "2109215"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-09-01",
     "datumEnde": "2023-04-03",
@@ -7947,7 +8252,6 @@
     "wirkstoffe": "Cefalexin-Monohydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "N/A",
     "mail": "info@ratiopharm.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-12",
@@ -7958,7 +8262,9 @@
       "00860926",
       "00860984"
     ],
-    "enr": "2106568",
+    "enr": [
+      "2106568"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-09",
     "datumEnde": "2023-03-31",
@@ -7969,7 +8275,6 @@
     "wirkstoffe": "Somatostatinacetat",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Inresa Arzneimittel GmbH",
-    "telefon": "N/A",
     "mail": "qsra@inresa.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-10-11",
@@ -7981,7 +8286,9 @@
       "00505007",
       "02514766"
     ],
-    "enr": "0419615",
+    "enr": [
+      "0419615"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-12-27",
     "datumEnde": "2023-04-30",
@@ -8005,7 +8312,9 @@
       "08703994",
       "08704002"
     ],
-    "enr": "2136599",
+    "enr": [
+      "2136599"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-11-15",
     "datumEnde": "2023-06-01",
@@ -8016,7 +8325,6 @@
     "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "N/A",
     "mail": "info@ratiopharm.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-12-05",
@@ -8028,7 +8336,9 @@
       "04908015",
       "08730666"
     ],
-    "enr": "2118340",
+    "enr": [
+      "2118340"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-11-15",
     "datumEnde": "2023-05-01",
@@ -8039,7 +8349,6 @@
     "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "N/A",
     "mail": "info@ratiopharm.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-12-05",
@@ -8049,7 +8358,9 @@
     "pzn": [
       "12554206"
     ],
-    "enr": "2137446",
+    "enr": [
+      "2137446"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-01-01",
     "datumEnde": "2023-06-30",
@@ -8070,7 +8381,9 @@
     "pzn": [
       "15583214"
     ],
-    "enr": "2137444",
+    "enr": [
+      "2137444"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2020-01-01",
     "datumEnde": "2023-06-30",
@@ -8093,7 +8406,9 @@
       "14290970",
       "14290987"
     ],
-    "enr": "2197787",
+    "enr": [
+      "2197787"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2020-08-01",
     "datumEnde": "2023-06-30",
@@ -8117,7 +8432,9 @@
       "03518186",
       "99999999"
     ],
-    "enr": "0728693",
+    "enr": [
+      "0728693"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-01",
     "datumEnde": "2023-05-31",
@@ -8128,7 +8445,7 @@
     "wirkstoffe": "Ethinylestradiol; Norethisteron",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000 ",
+    "telefon": "+49 (0) 30 550055-51000",
     "mail": "medical.information@pfizer.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-08-24",
@@ -8138,7 +8455,9 @@
     "pzn": [
       "03751764"
     ],
-    "enr": "2110058",
+    "enr": [
+      "2110058"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-02-22",
     "datumEnde": "2023-12-31",
@@ -8159,7 +8478,9 @@
     "pzn": [
       "16164229"
     ],
-    "enr": "2189553",
+    "enr": [
+      "2189553"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-05-06",
     "datumEnde": "2023-10-15",
@@ -8170,7 +8491,6 @@
     "wirkstoffe": "Calciumfolinat",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "EVER Valinject GmbH",
-    "telefon": "N/A",
     "mail": "markus.hinterberger@everpharma.com",
     "grund": "Probleme beim Sonstigen Hersteller",
     "datumErstmeldung": "2022-05-06",
@@ -8181,7 +8501,9 @@
       "06983245",
       "06983274"
     ],
-    "enr": "3001934",
+    "enr": [
+      "3001934"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-06-09",
     "datumEnde": "2023-05-15",
@@ -8192,10 +8514,9 @@
     "wirkstoffe": "Calciumfolinat-Pentahydrat",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "N/A",
     "mail": "christiane.georgi@stadapharm.de",
     "grund": "Probleme beim Sonstigen Hersteller",
-    "grundAnmerkung": "CMO related issue ",
+    "grundAnmerkung": "CMO related issue",
     "datumErstmeldung": "2022-06-09",
     "infoFachkreise": "Vorgesehen"
   },
@@ -8205,7 +8526,9 @@
       "03703067",
       "03703073"
     ],
-    "enr": "0813507",
+    "enr": [
+      "0813507"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-04-05",
     "datumEnde": "2023-03-31",
@@ -8228,7 +8551,9 @@
     "pzn": [
       "04627836"
     ],
-    "enr": "2126902",
+    "enr": [
+      "2126902"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-03-03",
     "datumEnde": "2024-01-31",
@@ -8250,7 +8575,9 @@
     "pzn": [
       "04627865"
     ],
-    "enr": "2129555",
+    "enr": [
+      "2129555"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-03-03",
     "datumEnde": "2024-01-31",
@@ -8272,7 +8599,9 @@
     "pzn": [
       "00923236"
     ],
-    "enr": "2126905",
+    "enr": [
+      "2126905"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-03-03",
     "datumEnde": "2024-01-31",
@@ -8294,7 +8623,9 @@
     "pzn": [
       "11856224"
     ],
-    "enr": "2117443",
+    "enr": [
+      "2117443"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-04-11",
     "datumEnde": "2024-01-31",
@@ -8316,7 +8647,9 @@
     "pzn": [
       "03738798"
     ],
-    "enr": "2117444",
+    "enr": [
+      "2117444"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-04-11",
     "datumEnde": "2024-01-31",
@@ -8338,7 +8671,9 @@
     "pzn": [
       "03738829"
     ],
-    "enr": "2117445",
+    "enr": [
+      "2117445"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-04-11",
     "datumEnde": "2024-01-31",
@@ -8349,7 +8684,7 @@
     "wirkstoffe": "Quinaprilhydrochlorid",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000 ",
+    "telefon": "+49 (0) 30 550055-51000",
     "mail": "medical.information@pfizer.com",
     "grund": "Sonstige",
     "alternativPraeparat": "Ramipril AL 10 mg Tabletten - Einreichungsnummer: 2155949",
@@ -8362,7 +8697,9 @@
       "00569510",
       "04173157"
     ],
-    "enr": "2144336",
+    "enr": [
+      "2144336"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-08-31",
     "datumEnde": "2023-03-31",
@@ -8384,7 +8721,9 @@
     "pzn": [
       "04191801"
     ],
-    "enr": "2702511",
+    "enr": [
+      "2702511"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-11-03",
     "datumEnde": "2023-03-22",
@@ -8395,8 +8734,8 @@
     "wirkstoffe": "Fondaparinux-Natrium",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Mylan IRE Healthcare Limited",
-    "telefon": "0800-0700-800\t\t",
-    "mail": "kundenservice@viatris.com\t\t",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
     "grund": "Unzureichende Produktionskapazitäten",
     "alternativPraeparat": "Mono-Embolex 3000 I.E. Prophylaxe Sicherheitsspritze - Einreichungsnummer: 2114101",
     "datumErstmeldung": "2022-11-18",
@@ -8408,7 +8747,9 @@
       "01128392",
       "04712306"
     ],
-    "enr": "2604148",
+    "enr": [
+      "2604148"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-08-26",
     "datumEnde": "2023-03-31",
@@ -8419,7 +8760,6 @@
     "wirkstoffe": "Immunglobulin G vom Menschen",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Octapharma GmbH",
-    "telefon": "N/A",
     "mail": "thomas.franken@octapharma.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-08-26",
@@ -8430,7 +8770,9 @@
       "04712275",
       "05373958"
     ],
-    "enr": "2613934",
+    "enr": [
+      "2613934"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-08-26",
     "datumEnde": "2023-03-31",
@@ -8441,7 +8783,6 @@
     "wirkstoffe": "Immunglobulin G vom Menschen",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Octapharma GmbH",
-    "telefon": "N/A",
     "mail": "thomas.franken@octapharma.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-08-26",
@@ -8452,7 +8793,9 @@
       "08515459",
       "08515465"
     ],
-    "enr": "2134065",
+    "enr": [
+      "2134065"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-07-31",
     "datumEnde": "2023-12-31",
@@ -8463,7 +8806,6 @@
     "wirkstoffe": "Fluphenazindecanoat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "N/A",
     "mail": "Zulassung@neuraxpharm.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-11-10",
@@ -8474,7 +8816,9 @@
       "04935584",
       "04935590"
     ],
-    "enr": "2122198",
+    "enr": [
+      "2122198"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-04-30",
     "datumEnde": "2023-12-31",
@@ -8485,7 +8829,6 @@
     "wirkstoffe": "Fluphenazindecanoat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "N/A",
     "mail": "Zulassung@neuraxpharm.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-11-10",
@@ -8496,7 +8839,9 @@
       "08515471",
       "08515488"
     ],
-    "enr": "2134066",
+    "enr": [
+      "2134066"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-03-31",
     "datumEnde": "2023-12-31",
@@ -8507,7 +8852,6 @@
     "wirkstoffe": "Fluphenazindecanoat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "N/A",
     "mail": "Zulassung@neuraxpharm.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-11-10",
@@ -8518,7 +8862,9 @@
       "04935621",
       "04935638"
     ],
-    "enr": "2122199",
+    "enr": [
+      "2122199"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-10-31",
     "datumEnde": "2023-12-31",
@@ -8529,7 +8875,6 @@
     "wirkstoffe": "Fluphenazindecanoat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "N/A",
     "mail": "Zulassung@neuraxpharm.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-11-10",
@@ -8539,7 +8884,9 @@
     "pzn": [
       "01852277"
     ],
-    "enr": "2146515",
+    "enr": [
+      "2146515"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-30",
     "datumEnde": "2023-12-31",
@@ -8550,7 +8897,6 @@
     "wirkstoffe": "Fluphenazindecanoat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "N/A",
     "mail": "Zulassung@neuraxpharm.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-11-10",
@@ -8562,7 +8908,9 @@
       "01527695",
       "01527703"
     ],
-    "enr": "2139412",
+    "enr": [
+      "2139412"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-11-25",
     "datumEnde": "2023-06-15",
@@ -8585,7 +8933,9 @@
       "01541577",
       "03045285"
     ],
-    "enr": "2105686",
+    "enr": [
+      "2105686"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-20",
     "datumEnde": "2023-06-30",
@@ -8596,7 +8946,6 @@
     "wirkstoffe": "Sulfamethoxazol; Trimethoprim",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-10-12",
@@ -8607,7 +8956,10 @@
       "00143024",
       "06809636"
     ],
-    "enr": "2705196, 2710695",
+    "enr": [
+      "2705196",
+      "2710695"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-12-15",
     "datumEnde": "2023-08-01",
@@ -8631,7 +8983,9 @@
       "03300636",
       "03974381"
     ],
-    "enr": "2142414",
+    "enr": [
+      "2142414"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-05-03",
     "datumEnde": "2023-12-31",
@@ -8654,7 +9008,9 @@
       "08412038",
       "08412044"
     ],
-    "enr": "2141147",
+    "enr": [
+      "2141147"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-11-03",
     "datumEnde": "2023-05-31",
@@ -8665,7 +9021,6 @@
     "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-11-03",
@@ -8676,7 +9031,9 @@
       "02855728",
       "02855734"
     ],
-    "enr": "2157982",
+    "enr": [
+      "2157982"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-11-03",
     "datumEnde": "2023-07-31",
@@ -8687,31 +9044,9 @@
     "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00581008"
-    ],
-    "enr": "",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-04-01",
-    "datumEnde": "2023-06-06",
-    "datumLetzteMeldung": "2022-11-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Doxepin dura T 100mg",
-    "atcCode": "N06AA12",
-    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Germany GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Änderung des Herstellverfahrens",
-    "datumErstmeldung": "2022-05-04",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -8721,7 +9056,9 @@
       "03434093",
       "03434236"
     ],
-    "enr": "2603300",
+    "enr": [
+      "2603300"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-12-01",
     "datumEnde": "2023-03-31",
@@ -8745,7 +9082,9 @@
       "00225472",
       "00226833"
     ],
-    "enr": "2612712",
+    "enr": [
+      "2612712"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-12-01",
     "datumEnde": "2023-03-31",
@@ -8766,7 +9105,9 @@
     "pzn": [
       "08725091"
     ],
-    "enr": "2137196",
+    "enr": [
+      "2137196"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-11-14",
     "datumEnde": "2023-04-30",
@@ -8777,7 +9118,6 @@
     "wirkstoffe": "Ondansetronhydrochlorid-Dihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "N/A",
     "mail": "service@hexal.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-10-21",
@@ -8787,7 +9127,9 @@
     "pzn": [
       "09074164"
     ],
-    "enr": "2708677",
+    "enr": [
+      "2708677"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2016-10-01",
     "datumEnde": "2023-09-30",
@@ -8808,7 +9150,9 @@
     "pzn": [
       "09074158"
     ],
-    "enr": "2708676",
+    "enr": [
+      "2708676"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2016-10-01",
     "datumEnde": "2023-09-30",
@@ -8820,7 +9164,6 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Bristol-Myers Squibb Pharmaceuticals Limited",
     "telefon": "0800-7 24 24 10",
-    "mail": "-",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2017-02-16",
     "infoFachkreise": "Ja"
@@ -8836,7 +9179,9 @@
       "11862302",
       "11862319"
     ],
-    "enr": "2613595",
+    "enr": [
+      "2613595"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-01-01",
     "datumEnde": "2023-12-31",
@@ -8847,7 +9192,6 @@
     "wirkstoffe": "Immunglobulin G vom Menschen",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Octapharma GmbH",
-    "telefon": "N/A",
     "mail": "thomas.franken@octapharma.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-10-05",
@@ -8859,7 +9203,9 @@
       "03773748",
       "04957769"
     ],
-    "enr": "2155533",
+    "enr": [
+      "2155533"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-09-15",
     "datumEnde": "2023-03-30",
@@ -8882,7 +9228,9 @@
       "02646373",
       "04957752"
     ],
-    "enr": "2155532",
+    "enr": [
+      "2155532"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-09-15",
     "datumEnde": "2023-03-30",
@@ -8905,7 +9253,9 @@
       "03410916",
       "03410974"
     ],
-    "enr": "2103441",
+    "enr": [
+      "2103441"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-09-07",
     "datumEnde": "2023-07-31",
@@ -8916,56 +9266,18 @@
     "wirkstoffe": "Amoxicillin-Trihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "N/A",
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-09-07",
     "infoFachkreise": "Vorgesehen"
   },
   {
-    "pzn": [],
-    "enr": "2196141",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2020-04-01",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2022-09-28",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Clindamycin AL 600 mg Hartkapseln",
-    "atcCode": "J01FF01",
-    "wirkstoffe": "Clindamycinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "07333/9651-1167",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Herstellerwechsel",
-    "datumErstmeldung": "2020-04-08",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [],
-    "enr": "2192222",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2018-10-01",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2022-09-28",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Cefixim AL 200 mg Filmtabletten",
-    "atcCode": "J01DD08",
-    "wirkstoffe": "Cefixim 3 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "07333/9651-0",
-    "mail": "info@aliud.de",
-    "grund": "Sonstige",
-    "grundAnmerkung": "-",
-    "datumErstmeldung": "2018-10-24",
-    "infoFachkreise": "Nein"
-  },
-  {
     "pzn": [
       "01528915"
     ],
-    "enr": "2184261",
+    "enr": [
+      "2184261"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-10-04",
     "datumEnde": "2023-07-31",
@@ -8983,69 +9295,14 @@
     "infoFachkreise": "Ja"
   },
   {
-    "pzn": [],
-    "enr": "2180295",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2018-07-01",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2022-09-07",
-    "grundArt": "Sonstige",
-    "bezeichnung": "VALSARTAN COMP BASICS 160 mg/12,5 mg Filmtabletten",
-    "atcCode": "C09DA03",
-    "wirkstoffe": "Hydrochlorothiazid; Valsartan",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Basics GmbH",
-    "telefon": "0214403990",
-    "mail": "info@basics.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2018-07-10",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [],
-    "enr": "2180296",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2018-07-01",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2022-09-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "VALSARTAN COMP BASICS 160 mg/25 mg Filmtabletten",
-    "atcCode": "C09DA03",
-    "wirkstoffe": "Hydrochlorothiazid; Valsartan",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Basics GmbH",
-    "telefon": "0214403990",
-    "mail": "info@basics.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2018-07-10",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [],
-    "enr": "2180294",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2018-07-01",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2022-09-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "VALSARTAN COMP BASICS 80 mg/12,5 mg Filmtabletten",
-    "atcCode": "C09DA03",
-    "wirkstoffe": "Hydrochlorothiazid; Valsartan",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Basics GmbH",
-    "telefon": "0214403990",
-    "mail": "info@basics.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2018-07-10",
-    "infoFachkreise": "Ja"
-  },
-  {
     "pzn": [
       "01120858",
       "08630433",
       "99999999"
     ],
-    "enr": "0007657",
+    "enr": [
+      "0007657"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2020-08-01",
     "datumEnde": "2022-02-28",
@@ -9067,7 +9324,9 @@
       "04998461",
       "04998478"
     ],
-    "enr": "2121794",
+    "enr": [
+      "2121794"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-09-30",
     "datumEnde": "2024-01-01",
@@ -9090,7 +9349,9 @@
     "pzn": [
       "17550615"
     ],
-    "enr": "0688456",
+    "enr": [
+      "0688456"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-08-18",
     "datumEnde": "2023-06-30",
@@ -9111,7 +9372,9 @@
     "pzn": [
       "17550609"
     ],
-    "enr": "0030716",
+    "enr": [
+      "0030716"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-05-19",
     "datumEnde": "2023-03-31",
@@ -9132,7 +9395,9 @@
     "pzn": [
       "17550590"
     ],
-    "enr": "0030691",
+    "enr": [
+      "0030691"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-05-19",
     "datumEnde": "2023-03-31",
@@ -9143,7 +9408,7 @@
     "wirkstoffe": "Sulfamethoxazol; Trimethoprim",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "0731 402 7028 ",
+    "telefon": "0731 402 7028",
     "mail": "Julian.Simon@teva.de",
     "grund": "Probleme bei der Chargenprüfung",
     "datumErstmeldung": "2022-05-19",
@@ -9153,7 +9418,9 @@
     "pzn": [
       "01016612"
     ],
-    "enr": "2132330",
+    "enr": [
+      "2132330"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-07-01",
     "datumEnde": "2023-07-31",
@@ -9164,7 +9431,6 @@
     "wirkstoffe": "Nifedipin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "telefon": "N/A",
     "mail": "info@abz.de",
     "grund": "Herstellerwechsel",
     "datumErstmeldung": "2022-08-16",
@@ -9176,7 +9442,9 @@
       "07097528",
       "07097534"
     ],
-    "enr": "2132328",
+    "enr": [
+      "2132328"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-09-30",
     "datumEnde": "2023-07-31",
@@ -9187,8 +9455,7 @@
     "wirkstoffe": "Nifedipin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "N/A",
-    "mail": " info@ratiopharm.de",
+    "mail": "info@ratiopharm.de",
     "grund": "Herstellerwechsel",
     "datumErstmeldung": "2022-08-16",
     "infoFachkreise": "Vorgesehen"
@@ -9198,7 +9465,9 @@
       "03525921",
       "99999999"
     ],
-    "enr": "2103726",
+    "enr": [
+      "2103726"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2020-03-01",
     "datumEnde": "2023-03-31",
@@ -9219,7 +9488,9 @@
     "pzn": [
       "14001693"
     ],
-    "enr": "2714227",
+    "enr": [
+      "2714227"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-07-25",
     "datumEnde": "2023-06-01",
@@ -9247,7 +9518,9 @@
       "02298392",
       "05974764"
     ],
-    "enr": "0072873",
+    "enr": [
+      "0072873"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-08-10",
     "datumEnde": "2023-06-13",
@@ -9261,53 +9534,16 @@
     "telefon": "+49 6251 1083 284",
     "mail": "m.weidlich@koehler-chemie.de",
     "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "-",
     "datumErstmeldung": "2022-08-09",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [],
-    "enr": "0037397",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-01-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2022-08-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Protamin ME 5000 I.E./ml",
-    "atcCode": "TERM_ID_NA_2090010129, V03AB",
-    "wirkstoffe": "Protaminhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDA Pharma GmbH & Co. KG",
-    "telefon": "0800 0700 800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "GMP Mängel",
-    "datumErstmeldung": "2021-01-27",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [],
-    "enr": "0037368",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-01-01",
-    "datumEnde": "2024-08-31",
-    "datumLetzteMeldung": "2022-08-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Protamin ME 1000 I.E./ml",
-    "atcCode": "TERM_ID_NA_2090010129, V03AB",
-    "wirkstoffe": "Protaminhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDA Pharma GmbH & Co. KG",
-    "telefon": "0800 0700 800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "GMP Mängel",
-    "datumErstmeldung": "2021-01-27",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
       "14261419"
     ],
-    "enr": "2164906",
+    "enr": [
+      "2164906"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-09-01",
     "datumEnde": "2023-09-01",
@@ -9328,7 +9564,9 @@
     "pzn": [
       "14261402"
     ],
-    "enr": "2164904",
+    "enr": [
+      "2164904"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-09-16",
     "datumEnde": "2023-09-15",
@@ -9350,7 +9588,9 @@
       "09228259",
       "99999999"
     ],
-    "enr": "2179736",
+    "enr": [
+      "2179736"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-03-01",
     "datumEnde": "2023-07-30",
@@ -9368,71 +9608,15 @@
     "infoFachkreise": "Nein"
   },
   {
-    "pzn": [],
-    "enr": "2172253",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2020-05-01",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2022-06-20",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Gemedac 38 mg/ml Pulver zur Herstellung einer Infusionslösung",
-    "atcCode": "L01BC05",
-    "wirkstoffe": "Gemcitabinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medac Gesellschaft für klinische Spezialpräparate m.b.H.",
-    "telefon": "verkaufnational@medac.de",
-    "mail": "verkaufnational@medac.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2020-04-30",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [],
-    "enr": "0802981",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2019-07-01",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2022-06-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydrocortison PANPHARMA 250 mg",
-    "atcCode": "H02AB09",
-    "wirkstoffe": "Natrium(hydrocortison-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PANPHARMA GmbH",
-    "telefon": "04154 862 0",
-    "mail": "CustomerService@rotexmedica.com",
-    "grund": "GMP Mängel",
-    "datumErstmeldung": "2019-07-29",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [],
-    "enr": "0625007",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2019-07-01",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2022-06-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydrocortison PANPHARMA 100 mg",
-    "atcCode": "H02AB09",
-    "wirkstoffe": "Natrium(hydrocortison-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PANPHARMA GmbH",
-    "telefon": "04154 862 0",
-    "mail": "CustomerService@rotexmedica.com",
-    "grund": "GMP Mängel",
-    "alternativPraeparat": "HYDROCORTISON Pfizer 100 mg sine - Einreichungsnummer: 0177448",
-    "datumErstmeldung": "2019-07-26",
-    "infoFachkreise": "Ja"
-  },
-  {
     "pzn": [
       "08427264",
       "08435996",
       "08436056",
       "16010176"
     ],
-    "enr": "0072844",
+    "enr": [
+      "0072844"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-06-13",
     "datumEnde": "2023-06-13",
@@ -9446,7 +9630,6 @@
     "telefon": "+49 6251 1083 284",
     "mail": "m.weidlich@koehler-chemie.de",
     "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "-",
     "datumErstmeldung": "2022-06-13",
     "infoFachkreise": "Nein"
   },
@@ -9458,7 +9641,9 @@
       "01224782",
       "01224799"
     ],
-    "enr": "2150106",
+    "enr": [
+      "2150106"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2015-04-01",
     "datumEnde": "2023-04-30",
@@ -9481,7 +9666,9 @@
     "pzn": [
       "01440250"
     ],
-    "enr": "2702474",
+    "enr": [
+      "2702474"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-05-03",
     "datumEnde": "2023-12-31",
@@ -9504,7 +9691,9 @@
     "pzn": [
       "10552203"
     ],
-    "enr": "2179189",
+    "enr": [
+      "2179189"
+    ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2022-06-15",
     "datumEnde": "2023-12-31",
@@ -9526,7 +9715,9 @@
     "pzn": [
       "00869382"
     ],
-    "enr": "2701101",
+    "enr": [
+      "2701101"
+    ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-07-01",
     "datumEnde": "2023-12-31",
@@ -9537,54 +9728,9 @@
     "wirkstoffe": "Verteporfin",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "telefon": "N/A",
     "mail": "RA-Visudyne@cheplapharm.com",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2021-02-25",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [],
-    "enr": "2613347",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2019-05-01",
-    "datumEnde": "2022-12-31",
-    "datumLetzteMeldung": "2022-01-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "FibCLOT",
-    "atcCode": "B02BB01",
-    "wirkstoffe": "Fibrinogen vom Menschen",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Laboratoire Francais du Fractionnement et des Biotechnologies",
-    "telefon": "+49 (0) 151-259 80-123",
-    "mail": "bubikata@lfb.fr",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Fibryga - Einreichungsnummer: 2613723",
-    "datumErstmeldung": "2019-05-28",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [],
-    "enr": "2101579",
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2017-04-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2021-01-12",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Erythrocin 500 mg Neo",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinethylsuccinat (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Amdipharm Limited",
-    "telefon": "+49 (0) 21 29 53 01 571",
-    "mail": "-",
-    "grund": "Herstellerwechsel",
-    "alternativPraeparat": "Erythrocin-i.v.500mg - Einreichungsnummer: 2107663",
-    "datumErstmeldung": "2017-04-28",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [],
-    "krankenhausrelevant": false
   }
 ]
