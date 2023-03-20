@@ -1,8 +1,173 @@
 [
   {
     "pzn": [
-      "01300419",
-      "01300425"
+      "00000000"
+    ],
+    "enr": [
+      "2712360",
+      "2713758"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-17",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-03-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "EndolucinBeta 40 GBq/ml Markerzubereitung, Lösung - OP0,075-2ml",
+    "atcCode": "V10X",
+    "wirkstoffe": "((177)Lu)Lutetium(III)-chlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ITM Medical Isotopes GmbH",
+    "telefon": "+49 89 - 329 8986 - 2501",
+    "mail": "wolfgang.seidel@itm-radiopharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "massiver Anstieg der weltweiten Nachfrage und lange Vorlaufzeit zur Erhöhung der Kapazität",
+    "datumErstmeldung": "2023-03-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07480196",
+      "07480204"
+    ],
+    "enr": [
+      "0196782"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-20",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-03-17",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "L-Polamidon Tropfen",
+    "atcCode": "TERM_ID_NA_2090005265",
+    "wirkstoffe": "Levomethadonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "08005252010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Geeignete Alternativpräparate: Levomethadon Aristo 5 mg/ml Tropfen zum Einnehmen von Aristo Pharma GmbH oder Levomethadon-neuraxpharm 5 mg/ml Tropfen zum Einnehmen von neuraxpharm Arzneimittel GmbH.Weitere Alternativen der WHO-Stufe 3 können der S3 Leitlinie Palliativmedizin entnommen werden.Bei hospitalisierten Patienten mit Zugang ist L-Polamidon Injektionslösung 5 mg von Sanofi als Alternative verfügbar.",
+    "datumErstmeldung": "2023-01-12",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00424906",
+      "03001069"
+    ],
+    "enr": [
+      "2145583"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-16",
+    "datumEnde": "2023-04-15",
+    "datumLetzteMeldung": "2023-03-17",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "L-Polamidon Lösung zur Substitution",
+    "atcCode": "TERM_ID_NA_2090005949",
+    "wirkstoffe": "Levomethadonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "08005252010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Alternativen sind von G.L. Pharma, Neuraxpharma oder Hexal verfügbar",
+    "datumErstmeldung": "2023-01-12",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16398074",
+      "16398080"
+    ],
+    "enr": [
+      "2202147"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2023-04-15",
+    "datumLetzteMeldung": "2023-03-17",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Amoxiclav-Elpen 875 mg/125 mg Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "mail": "michaela.kunze@elpen-pharma.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-02-02",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01875433"
+    ],
+    "enr": [
+      "2100946"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-17",
+    "datumEnde": "2023-04-14",
+    "datumLetzteMeldung": "2023-03-17",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Glycylpressin 1mg",
+    "atcCode": "H01BA",
+    "wirkstoffe": "Terlipressinmonoacetat 5 H<2>O",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Ferring GmbH",
+    "telefon": "+494315852134",
+    "mail": "petra.wagner@ferring.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-02-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09688185"
+    ],
+    "enr": [
+      "2128207"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-10",
+    "datumEnde": "2023-03-24",
+    "datumLetzteMeldung": "2023-03-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefaclor Aristo forte 250 mg/ 5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "helen.braun@aristo-pharma.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08754796"
+    ],
+    "enr": [
+      "2138185"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-20",
+    "datumEnde": "2023-05-26",
+    "datumLetzteMeldung": "2023-03-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Dexa 4mg inject JENAPHARM",
+    "atcCode": "H02AB02",
+    "wirkstoffe": "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-01-04",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01300419"
     ],
     "enr": [
       "2150545"
@@ -10,7 +175,7 @@
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-02-21",
     "datumEnde": "2023-04-14",
-    "datumLetzteMeldung": "2023-03-14",
+    "datumLetzteMeldung": "2023-03-16",
     "grundArt": "Sonstige",
     "bezeichnung": "Prednisolon acis 5mg",
     "atcCode": "H02AB06",
@@ -23,6 +188,518 @@
     "alternativPraeparat": "Prednisolon acis 5mg - Einreichungsnummer: 2150545",
     "datumErstmeldung": "2023-02-28",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11695086"
+    ],
+    "enr": [
+      "2709890"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2023-05-15",
+    "datumLetzteMeldung": "2023-03-16",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tresiba 200 Einheiten/ml Injektionslösung in Fertigpen - OP(3x3ml)",
+    "atcCode": "A10AE06",
+    "wirkstoffe": "Insulin degludec",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
+    "alternativPraeparat": "Tresiba 200 Einheiten/ml Injektionslösung in Fertigpen - OP(5x3ml) - Einreichungsnummer: 2714975",
+    "datumErstmeldung": "2023-02-23",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "12571914",
+      "12571920",
+      "12571937",
+      "12571943",
+      "16023486",
+      "16023492",
+      "16023500",
+      "16023523",
+      "16023569",
+      "16358264",
+      "16358293",
+      "16604065"
+    ],
+    "enr": [
+      "2613604"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-01",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-03-16",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cuvitru 200 mg/ml Injektionslösung",
+    "atcCode": "J06BA01",
+    "wirkstoffe": "Immunglobulin G vom Menschen",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Takeda GmbH",
+    "telefon": "0800 825 332 5",
+    "mail": "medinfoEMEA@takeda.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-07-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10003258",
+      "10003264",
+      "10003270",
+      "10003287",
+      "10003293"
+    ],
+    "enr": [
+      "2671295",
+      "2671296",
+      "2671297",
+      "2671298",
+      "2671299"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-01",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-03-16",
+    "grundArt": "Sonstige",
+    "bezeichnung": "HyQvia",
+    "atcCode": "J06BA",
+    "wirkstoffe": "Immunglobulin G vom Menschen",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Baxalta Innovations GmbH",
+    "telefon": "0800 825 332 5",
+    "mail": "medinfoEMEA@takeda.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-07-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04668769",
+      "04668775",
+      "04668835",
+      "04668841",
+      "04668858",
+      "06587176"
+    ],
+    "enr": [
+      "2670218",
+      "2670219",
+      "2670220",
+      "2670221",
+      "2670222",
+      "2670735"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-01",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-03-16",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Kiovig",
+    "atcCode": "J06BA02",
+    "wirkstoffe": "Immunglobulin G vom Menschen",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Takeda Manufacturing Austria AG",
+    "telefon": "0800 825 332 5",
+    "mail": "medinfoEMEA@takeda.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-07-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15298100",
+      "15298146"
+    ],
+    "enr": [
+      "2200024"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-04-07",
+    "datumEnde": "2023-03-31",
+    "datumLetzteMeldung": "2023-03-16",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycodon/Naloxon KRUGMANN 60 mg/30 mg Retardtabletten",
+    "atcCode": "N02AA55",
+    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Krugmann Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@krugmann-gmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-04-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01711536",
+      "01711542",
+      "01711559",
+      "01711565",
+      "05382696",
+      "05382704",
+      "06974708"
+    ],
+    "enr": [
+      "2670541",
+      "2670542",
+      "2670543",
+      "2670646",
+      "2670647",
+      "2670648",
+      "2672569"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2021-02-01",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-03-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Privigen",
+    "atcCode": "J06BA02",
+    "wirkstoffe": "Immunglobulin G vom Menschen",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "CSL Behring GmbH",
+    "telefon": "+49 69 30540300",
+    "mail": "CCC@cslbehring.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Vermindertes Plasmasammelvolumen aufgrund der COVID-19-Pandemie; betroffene Packungsgrößen: alle; PZN: 01711536, 01711542, 01711559, 01711565, 05382696, 06974708, 05382704, 01711602 (Klinikpackung), 01711625 (Klinikpackung), 01711631 (Klinikpackung)",
+    "datumErstmeldung": "2022-08-08",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "07764019"
+    ],
+    "enr": [
+      "2670858"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2021-02-01",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-03-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hizentra",
+    "atcCode": "J06BA01",
+    "wirkstoffe": "Immunglobulin G vom Menschen",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "CSL Behring GmbH",
+    "telefon": "+49 69 305 40300",
+    "mail": "CCC@cslbehring.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Vermindertes Plasmasammelvolumen aufgrund der COVID-19-Pandemie;betroffenen Packungsgrößen: alle; PZN: 07764019, 07764025, 07764048, 07764054, 07764077, 06613991",
+    "datumErstmeldung": "2021-02-26",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "01343564",
+      "01343570",
+      "01343587",
+      "14142169"
+    ],
+    "enr": [
+      "2143114"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-14",
+    "datumEnde": "2023-04-21",
+    "datumLetzteMeldung": "2023-03-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 50mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "+49349542470",
+    "mail": "Zulassung-Sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-11-16",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01343535",
+      "01343541",
+      "14142146"
+    ],
+    "enr": [
+      "2140461"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-14",
+    "datumEnde": "2023-04-28",
+    "datumLetzteMeldung": "2023-03-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 25 mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-12-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08670556"
+    ],
+    "enr": [
+      "2107604"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-15",
+    "datumEnde": "2023-05-31",
+    "datumLetzteMeldung": "2023-03-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ribofolin 10 mg/ml",
+    "atcCode": "V03AF03",
+    "wirkstoffe": "Calciumfolinat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "HIKMA Farmaceutica (Portugal), S.A.",
+    "telefon": "089 45450250",
+    "mail": "rluetzner@hikma.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Produkt wird kontigentiert abgegeben, um möglichst breite Verteilung im Markt sicher zustellen.",
+    "datumErstmeldung": "2023-03-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16634474"
+    ],
+    "enr": [
+      "7001469"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-12",
+    "datumEnde": "2023-04-14",
+    "datumLetzteMeldung": "2023-03-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fiasp",
+    "atcCode": "A10AB05",
+    "wirkstoffe": "Insulin aspart",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
+    "alternativPraeparat": "Fiasp - Einreichungsnummer: 7001468",
+    "datumErstmeldung": "2023-01-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01138798"
+    ],
+    "enr": [
+      "0084793"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-15",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-03-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Xylonest 0,5 % Fl. 50 ml",
+    "atcCode": "N01BB04",
+    "wirkstoffe": "Prilocainhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aspen Pharma Trading Limited",
+    "telefon": "+49 89  93 08 38 00",
+    "mail": "de-info@aspenpharma.eu",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-03-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08516424",
+      "08516447"
+    ],
+    "enr": [
+      "2141153"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-30",
+    "datumEnde": "2023-03-31",
+    "datumLetzteMeldung": "2023-03-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "OXYGESIC 10 mg",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-08-31",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00081932"
+    ],
+    "enr": [
+      "2158368"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-10-26",
+    "datumEnde": "2023-03-31",
+    "datumLetzteMeldung": "2023-03-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxygesic akut 10 mg",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-10-26",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07590246",
+      "09276146"
+    ],
+    "enr": [
+      "2125933"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-22",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-03-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sevredol 20mg",
+    "atcCode": "N02AA01",
+    "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-11-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08523832"
+    ],
+    "enr": [
+      "2139298"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-13",
+    "datumEnde": "2023-05-31",
+    "datumLetzteMeldung": "2023-03-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Adenoscan",
+    "atcCode": "C01EB10",
+    "wirkstoffe": "Adenosin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "0800 5252010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Alternativen: wirkstoff- und dosierungsgleiche Präparate von Mitbewerbern",
+    "datumErstmeldung": "2023-03-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12646291",
+      "12646316"
+    ],
+    "enr": [
+      "2194174"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-04-20",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-03-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Targin 80 mg/40 mg Retardtabletten",
+    "atcCode": "N02AA55",
+    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid 1 H<2>O",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-03-31",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09071504",
+      "12520704"
+    ],
+    "enr": [
+      "2175572"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-24",
+    "datumEnde": "2023-04-28",
+    "datumLetzteMeldung": "2023-03-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "ANESDERM 25 mg/g + 25 mg/g Creme",
+    "atcCode": "N01BB52",
+    "wirkstoffe": "Lidocain; Prilocain",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pierre Fabre Dermo-Kosmetik GmbH",
+    "mail": "zulassung_de@pierre-fabre.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2022-08-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12646256"
+    ],
+    "enr": [
+      "2194173"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-03-31",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-03-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Targin 60 mg/30 mg Retardtabletten",
+    "atcCode": "N02AA55",
+    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid 1 H<2>O",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-03-31",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08859897",
+      "08859905"
+    ],
+    "enr": [
+      "2133164"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-10",
+    "datumEnde": "2023-03-31",
+    "datumLetzteMeldung": "2023-03-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Palladon retard 16mg",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-08-10",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -633,29 +1310,6 @@
   },
   {
     "pzn": [
-      "09688185",
-      "10843722"
-    ],
-    "enr": [
-      "2128207"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-10",
-    "datumEnde": "2023-03-24",
-    "datumLetzteMeldung": "2023-03-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefaclor Aristo forte 250 mg/ 5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "helen.braun@aristo-pharma.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "09688179"
     ],
     "enr": [
@@ -913,54 +1567,6 @@
   },
   {
     "pzn": [
-      "08704338",
-      "08754796"
-    ],
-    "enr": [
-      "2138185"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-20",
-    "datumEnde": "2023-05-26",
-    "datumLetzteMeldung": "2023-03-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Dexa 4mg inject JENAPHARM",
-    "atcCode": "H02AB02",
-    "wirkstoffe": "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-01-04",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01343535",
-      "01343541"
-    ],
-    "enr": [
-      "2140461"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-14",
-    "datumEnde": "2023-04-28",
-    "datumLetzteMeldung": "2023-03-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 25 mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-12-21",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "09466036"
     ],
     "enr": [
@@ -1189,28 +1795,6 @@
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-12-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09312764"
-    ],
-    "enr": [
-      "2159113"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-03-31",
-    "datumEnde": "2023-03-15",
-    "datumLetzteMeldung": "2023-03-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Palladon 2,6 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-03-31",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -1513,29 +2097,6 @@
     "mail": "michaela.kunze@elpen-pharma.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-03-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16398074",
-      "16398080"
-    ],
-    "enr": [
-      "2202147"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-03-15",
-    "datumLetzteMeldung": "2023-03-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Amoxiclav-Elpen 875 mg/125 mg Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "mail": "michaela.kunze@elpen-pharma.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-02-02",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2384,31 +2945,6 @@
   },
   {
     "pzn": [
-      "01343564",
-      "01343570",
-      "01343587"
-    ],
-    "enr": [
-      "2143114"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-14",
-    "datumEnde": "2023-04-21",
-    "datumLetzteMeldung": "2023-03-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 50mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "+49349542470",
-    "mail": "Zulassung-Sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-11-16",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01343446",
       "01343469",
       "14142092"
@@ -2693,28 +3229,6 @@
   },
   {
     "pzn": [
-      "00081932"
-    ],
-    "enr": [
-      "2158368"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-10-26",
-    "datumEnde": "2023-03-15",
-    "datumLetzteMeldung": "2023-03-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxygesic akut 10 mg",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-10-26",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00067843",
       "00067866",
       "00067872"
@@ -2832,29 +3346,6 @@
   },
   {
     "pzn": [
-      "08516424",
-      "08516447"
-    ],
-    "enr": [
-      "2141153"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-30",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-03-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "OXYGESIC 10 mg",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-08-31",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03930432",
       "03930455"
     ],
@@ -2874,94 +3365,6 @@
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-09-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11538694"
-    ],
-    "enr": [
-      "2191851"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-28",
-    "datumEnde": "2023-03-15",
-    "datumLetzteMeldung": "2023-03-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycodon/Naloxon Krugmann 20 mg/10 mg Retardtabletten",
-    "atcCode": "N02AA55",
-    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Krugmann Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@krugmann-gmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-03-01",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12646256"
-    ],
-    "enr": [
-      "2194173"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-03-31",
-    "datumEnde": "2023-03-15",
-    "datumLetzteMeldung": "2023-03-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Targin 60 mg/30 mg Retardtabletten",
-    "atcCode": "N02AA55",
-    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid 1 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-03-31",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00294444"
-    ],
-    "enr": [
-      "2173086"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-06",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-03-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Targin 5 mg/2,5 mg Retardtabletten",
-    "atcCode": "N02AA55",
-    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-12-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09312741"
-    ],
-    "enr": [
-      "2159112"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-28",
-    "datumEnde": "2023-03-15",
-    "datumLetzteMeldung": "2023-03-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Palladon 1,3 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-03-01",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -3107,29 +3510,6 @@
     "grund": "Sonstige",
     "grundAnmerkung": "Eingeschränkte Lieferfähigkeit. Alternativen: Valproat Chrono Winthrop® 300mg (PZN 00999110, 00999127) oder wirkstoffgleiche Präparate von Mitbewerbern.",
     "datumErstmeldung": "2022-11-25",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02170304"
-    ],
-    "enr": [
-      "2170304"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-27",
-    "datumEnde": "2023-03-15",
-    "datumLetzteMeldung": "2023-02-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amiodaron HCl Hikma 50 mg/ml, Injektionslösung",
-    "atcCode": "C01BD01",
-    "wirkstoffe": "Amiodaronhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "HIKMA Farmaceutica (Portugal), S.A.",
-    "mail": "rluetzner@hikma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Produkt wird kontingentiert abgegeben um möglichst breite Verteilung im Markt sicherzustellen",
-    "datumErstmeldung": "2023-02-27",
     "infoFachkreise": "Nein"
   },
   {
@@ -3650,54 +4030,6 @@
   },
   {
     "pzn": [
-      "11695086"
-    ],
-    "enr": [
-      "2709890"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-05-15",
-    "datumLetzteMeldung": "2023-02-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Tresiba 200 Einheiten/ml Injektionslösung in Fertigpen - OP(3x3ml)",
-    "atcCode": "A10AE06",
-    "wirkstoffe": "Insulin degludec",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
-    "datumErstmeldung": "2023-02-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14362600"
-    ],
-    "enr": [
-      "2714975"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-20",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-02-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Tresiba 200 Einheiten/ml Injektionslösung in Fertigpen - OP(5x3ml)",
-    "atcCode": "A10AE06",
-    "wirkstoffe": "Insulin degludec",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
-    "datumErstmeldung": "2023-02-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00190905"
     ],
     "enr": [
@@ -3764,31 +4096,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-02-23",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16634474"
-    ],
-    "enr": [
-      "7001469"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-12",
-    "datumEnde": "2023-03-17",
-    "datumLetzteMeldung": "2023-02-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fiasp",
-    "atcCode": "A10AB05",
-    "wirkstoffe": "Insulin aspart",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
-    "alternativPraeparat": "Fiasp - Einreichungsnummer: 7001468",
-    "datumErstmeldung": "2023-01-12",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -3882,29 +4189,6 @@
     "mail": "Zulassung-Sekretariat@mibegmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-12-14",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03524548"
-    ],
-    "enr": [
-      "3000274"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-30",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-02-22",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Prednisolon-Augensalbe Jenapharm",
-    "atcCode": "S01BA04",
-    "wirkstoffe": "Prednisolon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-01-04",
     "infoFachkreise": "Nein"
   },
   {
@@ -4241,30 +4525,6 @@
   },
   {
     "pzn": [
-      "09071496",
-      "09071504",
-      "12520704"
-    ],
-    "enr": [
-      "2175572"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-24",
-    "datumEnde": "2023-04-28",
-    "datumLetzteMeldung": "2023-02-20",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "ANESDERM 25 mg/g + 25 mg/g Creme",
-    "atcCode": "N01BB52",
-    "wirkstoffe": "Lidocain; Prilocain",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pierre Fabre Dermo-Kosmetik GmbH",
-    "mail": "zulassung_de@pierre-fabre.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-08-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00345928"
     ],
     "enr": [
@@ -4455,29 +4715,6 @@
   },
   {
     "pzn": [
-      "01875433"
-    ],
-    "enr": [
-      "2100946"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-17",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-02-17",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Glycylpressin 1mg",
-    "atcCode": "H01BA",
-    "wirkstoffe": "Terlipressinmonoacetat 5 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Ferring GmbH",
-    "telefon": "+494315852134",
-    "mail": "petra.wagner@ferring.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-02-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04492282",
       "04492299"
     ],
@@ -4572,31 +4809,6 @@
   },
   {
     "pzn": [
-      "00424906",
-      "03001069"
-    ],
-    "enr": [
-      "2145583"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-16",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-02-16",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "L-Polamidon Lösung zur Substitution",
-    "atcCode": "TERM_ID_NA_2090005949",
-    "wirkstoffe": "Levomethadonhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Alternativen sind von G.L. Pharma, Neuraxpharma oder Hexal verfügbar",
-    "datumErstmeldung": "2023-01-12",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01835652"
     ],
     "enr": [
@@ -4615,28 +4827,6 @@
     "telefon": "+49 (0)731 402 - 02",
     "grund": "Herstellerwechsel",
     "datumErstmeldung": "2022-06-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09276146"
-    ],
-    "enr": [
-      "2125933"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-22",
-    "datumEnde": "2023-03-15",
-    "datumLetzteMeldung": "2023-02-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sevredol 20mg",
-    "atcCode": "N02AA01",
-    "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-11-24",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -4747,29 +4937,6 @@
     "mail": "medinfo@krugmann-gmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-02-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12646291",
-      "12646316"
-    ],
-    "enr": [
-      "2194174"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-04-20",
-    "datumEnde": "2023-03-15",
-    "datumLetzteMeldung": "2023-02-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Targin 80 mg/40 mg Retardtabletten",
-    "atcCode": "N02AA55",
-    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid 1 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-03-31",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5944,28 +6111,6 @@
   },
   {
     "pzn": [
-      "08831232"
-    ],
-    "enr": [
-      "2168387"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-21",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-02-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxygesic Dispersa akut 5 mg",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-12-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "06332335"
     ],
     "enr": [
@@ -6012,30 +6157,6 @@
   },
   {
     "pzn": [
-      "15298100",
-      "15298123",
-      "15298146"
-    ],
-    "enr": [
-      "2200024"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-04-07",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-02-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycodon/Naloxon KRUGMANN 60 mg/30 mg Retardtabletten",
-    "atcCode": "N02AA55",
-    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Krugmann Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@krugmann-gmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-04-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "11538665"
     ],
     "enr": [
@@ -6054,28 +6175,6 @@
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-12-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08859905"
-    ],
-    "enr": [
-      "2133164"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-10",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-02-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Palladon retard 16mg",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-08-10",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -6999,31 +7098,6 @@
   },
   {
     "pzn": [
-      "07480196",
-      "07480204"
-    ],
-    "enr": [
-      "0196782"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-20",
-    "datumEnde": "2023-03-17",
-    "datumLetzteMeldung": "2023-01-12",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "L-Polamidon Tropfen",
-    "atcCode": "TERM_ID_NA_2090005265",
-    "wirkstoffe": "Levomethadonhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Geeignete Alternativpräparate: Levomethadon Aristo 5 mg/ml Tropfen zum Einnehmen von Aristo Pharma GmbH oder Levomethadon-neuraxpharm 5 mg/ml Tropfen zum Einnehmen von neuraxpharm Arzneimittel GmbH.Weitere Alternativen der WHO-Stufe 3 können der S3 Leitlinie Palliativmedizin entnommen werden.Bei hospitalisierten Patienten mit Zugang ist L-Polamidon Injektionslösung 5 mg von Sanofi als Alternative verfügbar.",
-    "datumErstmeldung": "2023-01-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01623683",
       "01623708"
     ],
@@ -7770,66 +7844,6 @@
   },
   {
     "pzn": [
-      "01711536",
-      "01711542",
-      "01711559",
-      "01711565",
-      "05382696",
-      "05382704",
-      "06974708"
-    ],
-    "enr": [
-      "2670541",
-      "2670542",
-      "2670543",
-      "2670646",
-      "2670647",
-      "2670648",
-      "2672569"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-02-01",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2022-12-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Privigen",
-    "atcCode": "J06BA02",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "CSL Behring GmbH",
-    "telefon": "+49 69 30540300",
-    "mail": "CCC@cslbehring.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Vermindertes Plasmasammelvolumen aufgrund der COVID-19-Pandemie; betroffene Packungsgrößen: alle; PZN: 01711536, 01711542, 01711559, 01711565, 05382696, 06974708, 05382704, 01711602 (Klinikpackung), 01711625 (Klinikpackung), 01711631 (Klinikpackung)",
-    "datumErstmeldung": "2022-08-08",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "07764019"
-    ],
-    "enr": [
-      "2670858"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-02-01",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2022-12-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hizentra",
-    "atcCode": "J06BA01",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "CSL Behring GmbH",
-    "telefon": "+49 69 305 40300",
-    "mail": "CCC@cslbehring.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Vermindertes Plasmasammelvolumen aufgrund der COVID-19-Pandemie;betroffenen Packungsgrößen: alle; PZN: 07764019, 07764025, 07764048, 07764054, 07764077, 06613991",
-    "datumErstmeldung": "2021-02-26",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
       "00000000",
       "04930598",
       "04930606"
@@ -7850,104 +7864,6 @@
     "telefon": "+49733396510",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-07-28",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04668769",
-      "04668775",
-      "04668835",
-      "04668841",
-      "04668858",
-      "06587176"
-    ],
-    "enr": [
-      "2670218",
-      "2670219",
-      "2670220",
-      "2670221",
-      "2670222",
-      "2670735"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-01",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2022-12-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Kiovig",
-    "atcCode": "J06BA02",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda Manufacturing Austria AG",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-07-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "10003258",
-      "10003264",
-      "10003270",
-      "10003287",
-      "10003293"
-    ],
-    "enr": [
-      "2671295",
-      "2671296",
-      "2671297",
-      "2671298",
-      "2671299"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-01",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2022-12-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "HyQvia",
-    "atcCode": "J06BA",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Baxalta Innovations GmbH",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-07-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12571914",
-      "12571920",
-      "12571937",
-      "12571943",
-      "16023486",
-      "16023492",
-      "16023500",
-      "16023523",
-      "16023569",
-      "16358264",
-      "16358293",
-      "16604065"
-    ],
-    "enr": [
-      "2613604"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-01",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2022-12-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cuvitru 200 mg/ml Injektionslösung",
-    "atcCode": "J06BA01",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda GmbH",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-07-29",
     "infoFachkreise": "Vorgesehen"
   },
   {
