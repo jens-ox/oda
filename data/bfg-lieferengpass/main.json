@@ -1,6 +1,243 @@
 [
   {
     "pzn": [
+      "03050949",
+      "04114663"
+    ],
+    "enr": [
+      "2155032"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-20",
+    "datumEnde": "2023-05-30",
+    "datumLetzteMeldung": "2023-03-20",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Aquacort 50 Mikrogramm Nasenspray",
+    "atcCode": "R01AD05",
+    "wirkstoffe": "Budesonid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "helen.braun@aristo-pharma.de",
+    "grund": "Änderung des Herstellverfahrens",
+    "datumErstmeldung": "2023-03-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03065112"
+    ],
+    "enr": [
+      "2104496"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-10-20",
+    "datumEnde": "2023-04-03",
+    "datumLetzteMeldung": "2023-03-20",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Minprostin E2 Vaginaltabletten",
+    "atcCode": "G02AD02",
+    "wirkstoffe": "Dinoproston",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2022-10-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04946286",
+      "06332312"
+    ],
+    "enr": [
+      "2104034"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-01",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "MST 30 mg Mundipharma",
+    "atcCode": "N02AA01",
+    "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-09-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04046370",
+      "04834512"
+    ],
+    "enr": [
+      "2155224"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-14",
+    "datumEnde": "2023-05-19",
+    "datumLetzteMeldung": "2023-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocef 500 Saft",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
+    "datumErstmeldung": "2022-12-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04543944"
+    ],
+    "enr": [
+      "0820163"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-14",
+    "datumEnde": "2023-07-01",
+    "datumLetzteMeldung": "2023-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 600 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252957900",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06648311"
+    ],
+    "enr": [
+      "2124662"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-14",
+    "datumEnde": "2023-06-23",
+    "datumLetzteMeldung": "2023-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectomox 500 Saft",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252957900",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01107213",
+      "03977445",
+      "07507110"
+    ],
+    "enr": [
+      "0610075"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-14",
+    "datumEnde": "2023-03-27",
+    "datumLetzteMeldung": "2023-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 400 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252-95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03750291"
+    ],
+    "enr": [
+      "0820714"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-06",
+    "datumEnde": "2023-03-27",
+    "datumLetzteMeldung": "2023-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 200 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252957900",
+    "mail": "shortages@infectpharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-06",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04678503",
+      "07130987"
+    ],
+    "enr": [
+      "2125157"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-21",
+    "datumEnde": "2023-04-14",
+    "datumLetzteMeldung": "2023-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Zithromax Trockensaft",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Die 15 ml Flasche ist seit 01.02.2023 wieder verfügbar. Der Lieferengpaß wird aufrechterhalten, da die 30 ml Flasche weiterhin lieferunfähig ist und der Bedarf nicht abgedeckt werden kann.Update 20.03.2023: Die 15 ml Flasche ist seit 17.03.2023 auch wieder lieferunfähig aufgrund anhaltender Nachfrage und bestehender Lieferunfähigkeit der 30 ml Flasche und wird deshalb wieder in die bestehende Meldung integriert.",
+    "alternativPraeparat": "Azithromycin-ratiopharm 200mg/5ml Pulver zur Herstellung einer Suspension zum Einnehmen - Einreichungsnummer: 2159606",
+    "datumErstmeldung": "2022-12-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01137907"
+    ],
+    "enr": [
+      "0077095"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-20",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-03-20",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Xylocain 1 %",
+    "atcCode": "N01BB02",
+    "wirkstoffe": "Lidocainhydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aspen Pharma Trading Limited",
+    "telefon": "+49 89  93 08 38 00",
+    "mail": "de-info@aspenpharma.eu",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-03-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "00000000"
     ],
     "enr": [
@@ -1403,55 +1640,6 @@
   },
   {
     "pzn": [
-      "04240445"
-    ],
-    "enr": [
-      "0613406"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-16",
-    "datumEnde": "2023-03-20",
-    "datumLetzteMeldung": "2023-03-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectotrimet 50 Saft",
-    "atcCode": "J01EA01",
-    "wirkstoffe": "Trimethoprim",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7900",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage durch Lieferunfähigkeit bei Cotrimoxazol",
-    "datumErstmeldung": "2022-12-01",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01107213",
-      "03977445",
-      "07507110"
-    ],
-    "enr": [
-      "0610075"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-14",
-    "datumEnde": "2023-03-20",
-    "datumLetzteMeldung": "2023-03-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 400 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252-95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01356271"
     ],
     "enr": [
@@ -1871,30 +2059,6 @@
   },
   {
     "pzn": [
-      "04678503"
-    ],
-    "enr": [
-      "2125157"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-21",
-    "datumEnde": "2023-04-14",
-    "datumLetzteMeldung": "2023-03-07",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Zithromax Trockensaft",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Die PZN 07130987 (15 ml Flasche) war seit dem 02.02.2023 wieder lieferfähig und wurde aus der Meldung herausgenommen. Die techn. Änderungsmeldung wird gelöscht.",
-    "datumErstmeldung": "2022-12-21",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00029021"
     ],
     "enr": [
@@ -2211,29 +2375,6 @@
     "mail": "michaela.kunze@elpen-pharma.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-03-07",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03065112"
-    ],
-    "enr": [
-      "2104496"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-10-20",
-    "datumEnde": "2023-03-20",
-    "datumLetzteMeldung": "2023-03-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Minprostin E2 Vaginaltabletten",
-    "atcCode": "G02AD02",
-    "wirkstoffe": "Dinoproston",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-10-20",
     "infoFachkreise": "Nein"
   },
   {
@@ -2640,29 +2781,6 @@
   },
   {
     "pzn": [
-      "03750291"
-    ],
-    "enr": [
-      "0820714"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-06",
-    "datumEnde": "2023-03-20",
-    "datumLetzteMeldung": "2023-03-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 200 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252957900",
-    "mail": "shortages@infectpharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-06",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01512311",
       "04257888",
       "06649612"
@@ -2685,30 +2803,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Erhöhte Nachfrage wegen Lieferunfähigkeit von Mitbewerbern",
     "datumErstmeldung": "2022-12-07",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04046370"
-    ],
-    "enr": [
-      "2155224"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-09",
-    "datumEnde": "2023-05-29",
-    "datumLetzteMeldung": "2023-03-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocef 500 Saft",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
-    "datumErstmeldung": "2022-12-09",
     "infoFachkreise": "Nein"
   },
   {
@@ -3290,30 +3384,6 @@
     "atcCode": "N02AA01",
     "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-09-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03632634",
-      "04946286",
-      "06332312"
-    ],
-    "enr": [
-      "2104034"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-01",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-03-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "MST 30 mg Mundipharma",
-    "atcCode": "N02AA01",
-    "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
-    "krankenhausrelevant": true,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
@@ -5547,7 +5617,7 @@
     "atcCode": "J06BA02",
     "wirkstoffe": "Immunglobulin G vom Menschen",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Prothya Biosolutions Netherlands B.V.",
+    "zulassungsinhaber": "Sanquin Plasma Products B.V.",
     "telefon": "+31615045921",
     "mail": "bjorn.vanderklugt@prothya.com",
     "grund": "Probleme in der Herstellung",
@@ -6705,29 +6775,6 @@
     "grundAnmerkung": "Im Markt ist nur noch eingeschränkt Ware mit kurzen Restlaufzeiten verfügbar (PZN 00225466 haltbar bis April 2023, PZN 00225437 haltbar bis Mai 2023). Als Alternative empfiehlt die Leitlinie* bevorzugt inhalative Kortikosteroide oder Leukotrienrezeptor-Antagonisten in Kombination mit einem kurzwirksamen Beta-2-Sympathomimetikum. *Buhl R et al. S2k-Leitlinie zur Diagnostik und Therapie von Patienten mit Asthma; Pneumologie 2017; 71: 849919",
     "datumErstmeldung": "2023-01-23",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02021377"
-    ],
-    "enr": [
-      "2100328"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-23",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-01-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ovestin 1 mg Creme",
-    "atcCode": "G03CA04",
-    "wirkstoffe": "Estriol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aspen Pharma Trading Limited",
-    "telefon": "+49 89 93 08 38 00",
-    "mail": "de-info@aspenpharma.eu",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-23",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
