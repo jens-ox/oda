@@ -1,6 +1,466 @@
 [
   {
     "pzn": [
+      "01343564",
+      "01343570",
+      "01343587",
+      "14142169"
+    ],
+    "enr": [
+      "2143114"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-14",
+    "datumEnde": "2023-05-12",
+    "datumLetzteMeldung": "2023-03-28",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 50mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "+49349542470",
+    "mail": "Zulassung-Sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-11-16",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01343541"
+    ],
+    "enr": [
+      "2140461"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-14",
+    "datumEnde": "2023-05-12",
+    "datumLetzteMeldung": "2023-03-28",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 25 mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-12-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01343446",
+      "01343469",
+      "14142092"
+    ],
+    "enr": [
+      "2140460"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-21",
+    "datumEnde": "2023-05-26",
+    "datumLetzteMeldung": "2023-03-28",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 10 mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "+49349542470",
+    "mail": "Zulassung-Sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-11-22",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "05459387"
+    ],
+    "enr": [
+      "2178464"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-28",
+    "datumEnde": "2023-04-28",
+    "datumLetzteMeldung": "2023-03-28",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Norditropin FlexPro 5 mg/1,5 ml Injektionslösung in einem Fertigpen",
+    "atcCode": "H01AC01",
+    "wirkstoffe": "Somatropin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "höhere Nachfrage als erwartet",
+    "alternativPraeparat": "Norditropin FlexPro 5 mg/1,5 ml Injektionslösung in einem Fertigpen - Einreichungsnummer: 2178464",
+    "datumErstmeldung": "2023-03-28",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "05459401",
+      "05459418"
+    ],
+    "enr": [
+      "2178465"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-21",
+    "datumEnde": "2023-04-28",
+    "datumLetzteMeldung": "2023-03-28",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Norditropin FlexPro 10 mg/1,5 ml Injektionslösung in einem Fertigpen",
+    "atcCode": "H01AC01",
+    "wirkstoffe": "Somatropin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine höhere Nachfrage als erwartet",
+    "datumErstmeldung": "2023-03-21",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "03075375"
+    ],
+    "enr": [
+      "0385744"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-20",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-03-28",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ferrlecit 62,5 mg",
+    "atcCode": "B03AC",
+    "wirkstoffe": "Eisen(III)-natrium-D-gluconat-hydroxid-oxid-Komplex (ca. 2:1:1:x:y)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "08005252010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
+    "datumErstmeldung": "2023-01-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04958214",
+      "04958220"
+    ],
+    "enr": [
+      "2100184"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-20",
+    "datumEnde": "2023-08-25",
+    "datumLetzteMeldung": "2023-03-28",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Grüncef 1 g",
+    "atcCode": "J01DB05",
+    "wirkstoffe": "Cefadroxil-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252957000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-28",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00860926",
+      "00860984"
+    ],
+    "enr": [
+      "2106568"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-09",
+    "datumEnde": "2023-10-15",
+    "datumLetzteMeldung": "2023-03-28",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Somatostatin 3 mg Inresa",
+    "atcCode": "H01CB01",
+    "wirkstoffe": "Somatostatinacetat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Inresa Arzneimittel GmbH",
+    "mail": "qsra@inresa.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2022-10-11",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00568640",
+      "10796336"
+    ],
+    "enr": [
+      "2703490",
+      "2707566"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-13",
+    "datumEnde": "2023-05-05",
+    "datumLetzteMeldung": "2023-03-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "TOVIAZ 4 mg Retardtabletten - OP14",
+    "atcCode": "G04BD11",
+    "wirkstoffe": "Fesoterodinfumarat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Europe MA EEIG",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Fesoterodin Aristo 4 mg Retardtabletten - Einreichungsnummer: 7000588",
+    "datumErstmeldung": "2023-03-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04046370",
+      "04834512"
+    ],
+    "enr": [
+      "2155224"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-14",
+    "datumEnde": "2023-05-19",
+    "datumLetzteMeldung": "2023-03-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocef 500 Saft",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
+    "datumErstmeldung": "2022-12-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01512311",
+      "04257799",
+      "04257888",
+      "06649612"
+    ],
+    "enr": [
+      "0149618"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-07",
+    "datumEnde": "2023-05-29",
+    "datumLetzteMeldung": "2023-03-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocillin 500 Saft",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Nachfrage wegen Lieferunfähigkeit von Mitbewerbern",
+    "datumErstmeldung": "2022-12-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04771651",
+      "04771680"
+    ],
+    "enr": [
+      "2184313"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-30",
+    "datumEnde": "2023-06-26",
+    "datumLetzteMeldung": "2023-03-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "InfectoSupramox Saft 400 mg / 57 mg / 5 ml",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "erhöhter Nachfrage aufgrund Lieferunfähigkeit von Mitbewerbern",
+    "datumErstmeldung": "2022-11-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01107213",
+      "03977445",
+      "07507110"
+    ],
+    "enr": [
+      "0610075"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-14",
+    "datumEnde": "2023-04-17",
+    "datumLetzteMeldung": "2023-03-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 400 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252-95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03750291"
+    ],
+    "enr": [
+      "0820714"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-06",
+    "datumEnde": "2023-04-03",
+    "datumLetzteMeldung": "2023-03-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 200 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252957900",
+    "mail": "shortages@infectpharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-06",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01356271"
+    ],
+    "enr": [
+      "2132826"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-15",
+    "datumEnde": "2023-04-17",
+    "datumLetzteMeldung": "2023-03-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocef 250 Saft",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252-95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03204424"
+    ],
+    "enr": [
+      "2105437"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-20",
+    "datumEnde": "2023-03-31",
+    "datumLetzteMeldung": "2023-03-27",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Betoptima",
+    "atcCode": "S01ED02",
+    "wirkstoffe": "Betaxololhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Immedica Pharma AB",
+    "telefon": "01737179964",
+    "mail": "fabrizio.zucca@immedica.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Kapazitätsengpässe bei der Produktion; seit 27.03.2023 wieder erhältlich",
+    "datumErstmeldung": "2022-12-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01697724"
+    ],
+    "enr": [
+      "0451286"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-23",
+    "datumEnde": "2023-05-12",
+    "datumLetzteMeldung": "2023-03-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Diprosone Creme",
+    "atcCode": "D07AC01",
+    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Organon Healthcare GmbH",
+    "mail": "ra_dach@organon.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-03-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00776798"
+    ],
+    "enr": [
+      "2126575"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-14",
+    "datumEnde": "2023-06-15",
+    "datumLetzteMeldung": "2023-03-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Klacid Saft",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08725091"
+    ],
+    "enr": [
+      "2137196"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-14",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-03-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Zofran Lösung",
+    "atcCode": "A04AA01",
+    "wirkstoffe": "Ondansetronhydrochlorid-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-10-21",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "09491382",
       "09491399"
     ],
@@ -435,29 +895,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-23",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01343541"
-    ],
-    "enr": [
-      "2140461"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-14",
-    "datumEnde": "2023-04-28",
-    "datumLetzteMeldung": "2023-03-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 25 mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-12-21",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -1062,31 +1499,6 @@
   },
   {
     "pzn": [
-      "05459418"
-    ],
-    "enr": [
-      "2178465"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-21",
-    "datumEnde": "2023-04-17",
-    "datumLetzteMeldung": "2023-03-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Norditropin FlexPro 10 mg/1,5 ml Injektionslösung in einem Fertigpen",
-    "atcCode": "H01AC01",
-    "wirkstoffe": "Somatropin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine höhere Nachfrage als erwartet",
-    "alternativPraeparat": "Norditropin FlexPro 10 mg/1,5 ml Injektionslösung in einem Fertigpen - Einreichungsnummer: 2178465",
-    "datumErstmeldung": "2023-03-21",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
       "03050949",
       "04114663"
     ],
@@ -1133,31 +1545,6 @@
   },
   {
     "pzn": [
-      "04046370",
-      "04834512"
-    ],
-    "enr": [
-      "2155224"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-14",
-    "datumEnde": "2023-05-19",
-    "datumLetzteMeldung": "2023-03-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocef 500 Saft",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
-    "datumErstmeldung": "2022-12-09",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04543944"
     ],
     "enr": [
@@ -1200,54 +1587,6 @@
     "mail": "shortages@infectopharm.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01107213",
-      "03977445",
-      "07507110"
-    ],
-    "enr": [
-      "0610075"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-14",
-    "datumEnde": "2023-03-27",
-    "datumLetzteMeldung": "2023-03-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 400 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252-95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03750291"
-    ],
-    "enr": [
-      "0820714"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-06",
-    "datumEnde": "2023-03-27",
-    "datumLetzteMeldung": "2023-03-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 200 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252957900",
-    "mail": "shortages@infectpharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-06",
     "infoFachkreise": "Nein"
   },
   {
@@ -1649,32 +1988,6 @@
     "grundAnmerkung": "Vermindertes Plasmasammelvolumen aufgrund der COVID-19-Pandemie;betroffenen Packungsgrößen: alle; PZN: 07764019, 07764025, 07764048, 07764054, 07764077, 06613991",
     "datumErstmeldung": "2021-02-26",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "01343564",
-      "01343570",
-      "01343587",
-      "14142169"
-    ],
-    "enr": [
-      "2143114"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-14",
-    "datumEnde": "2023-04-21",
-    "datumLetzteMeldung": "2023-03-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 50mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "+49349542470",
-    "mail": "Zulassung-Sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-11-16",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -2540,28 +2853,6 @@
   },
   {
     "pzn": [
-      "09688179"
-    ],
-    "enr": [
-      "2128206"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-10",
-    "datumEnde": "2023-03-24",
-    "datumLetzteMeldung": "2023-03-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefaclor Aristo 125 mg/ 5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "helen.braun@aristo-pharma.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02129465",
       "02129494",
       "02850398",
@@ -2630,29 +2921,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-01-02",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01356271"
-    ],
-    "enr": [
-      "2132826"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-15",
-    "datumEnde": "2023-03-27",
-    "datumLetzteMeldung": "2023-03-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocef 250 Saft",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252-95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -3609,32 +3877,6 @@
   },
   {
     "pzn": [
-      "01512311",
-      "04257888",
-      "06649612"
-    ],
-    "enr": [
-      "0149618"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-07",
-    "datumEnde": "2023-05-29",
-    "datumLetzteMeldung": "2023-03-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocillin 500 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage wegen Lieferunfähigkeit von Mitbewerbern",
-    "datumErstmeldung": "2022-12-07",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "11130792"
     ],
     "enr": [
@@ -3840,31 +4082,6 @@
     "mail": "Zulassung-Sekretariat@mibegmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-03-01",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01343446",
-      "01343469",
-      "14142092"
-    ],
-    "enr": [
-      "2140460"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-21",
-    "datumEnde": "2023-04-21",
-    "datumLetzteMeldung": "2023-03-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 10 mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "+49349542470",
-    "mail": "Zulassung-Sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-11-22",
     "infoFachkreise": "Nein"
   },
   {
@@ -5812,30 +6029,6 @@
   },
   {
     "pzn": [
-      "03075375"
-    ],
-    "enr": [
-      "0385744"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-20",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-02-14",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ferrlecit 62,5 mg",
-    "atcCode": "B03AC",
-    "wirkstoffe": "Eisen(III)-natrium-D-gluconat-hydroxid-oxid-Komplex (ca. 2:1:1:x:y)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
-    "datumErstmeldung": "2023-01-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01111055"
     ],
     "enr": [
@@ -5901,31 +6094,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Erhöhte Nachfrage auf Grund der Lieferunfähigkeit der Mitbewerber",
     "datumErstmeldung": "2023-02-03",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04771651",
-      "04771680"
-    ],
-    "enr": [
-      "2184313"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-30",
-    "datumEnde": "2023-06-26",
-    "datumLetzteMeldung": "2023-02-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "InfectoSupramox Saft 400 mg / 57 mg / 5 ml",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "kontakt@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "erhöhter Nachfrage aufgrund Lieferunfähigkeit von Mitbewerbern",
-    "datumErstmeldung": "2022-11-30",
     "infoFachkreise": "Nein"
   },
   {
@@ -7244,31 +7412,6 @@
   },
   {
     "pzn": [
-      "03098123",
-      "03204424"
-    ],
-    "enr": [
-      "2105437"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-20",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-01-27",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Betoptima",
-    "atcCode": "S01ED02",
-    "wirkstoffe": "Betaxololhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Immedica Pharma AB",
-    "telefon": "01737179964",
-    "mail": "fabrizio.zucca@immedica.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Kapazitätsengpässe bei der Produktion",
-    "datumErstmeldung": "2022-12-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "05391726",
       "05391732"
     ],
@@ -7455,52 +7598,6 @@
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-09-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14375146"
-    ],
-    "enr": [
-      "2714545"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-01",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-01-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pazenir 5 mg/ml Pulver zur Herstellung einer Infusionsdispersion",
-    "atcCode": "L01CD01",
-    "wirkstoffe": "Paclitaxel",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Teva B.V. Beiname: Teva Generics",
-    "telefon": "0800/800 50 13",
-    "mail": "gks-post@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-11-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17483132"
-    ],
-    "enr": [
-      "2201628"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-23",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-01-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Syner-KINASE",
-    "atcCode": "B01AD04",
-    "wirkstoffe": "Urokinase",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Syner-Medica B.V.",
-    "telefon": "+49 (89) 45 08 08 78-44",
-    "mail": "sales@lyomark.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-19",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -8503,29 +8600,6 @@
   },
   {
     "pzn": [
-      "00776798"
-    ],
-    "enr": [
-      "2126575"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-12-14",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2022-12-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Klacid Saft",
-    "atcCode": "J01FA09",
-    "wirkstoffe": "Clarithromycin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-21",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00000000",
       "04930598",
       "04930606"
@@ -8830,29 +8904,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-12",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00860926",
-      "00860984"
-    ],
-    "enr": [
-      "2106568"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-09",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2022-12-09",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Somatostatin 3 mg Inresa",
-    "atcCode": "H01CB01",
-    "wirkstoffe": "Somatostatinacetat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Inresa Arzneimittel GmbH",
-    "mail": "qsra@inresa.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-10-11",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -9602,28 +9653,6 @@
     "mail": "mail@biotest.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2021-11-30",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08725091"
-    ],
-    "enr": [
-      "2137196"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-11-14",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2022-10-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Zofran Lösung",
-    "atcCode": "A04AA01",
-    "wirkstoffe": "Ondansetronhydrochlorid-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-10-21",
     "infoFachkreise": "Vorgesehen"
   },
   {
