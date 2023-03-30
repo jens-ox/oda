@@ -1,6 +1,370 @@
 [
   {
     "pzn": [
+      "07007465"
+    ],
+    "enr": [
+      "0085781"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-06",
+    "datumEnde": "2023-05-01",
+    "datumLetzteMeldung": "2023-03-29",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ultracain 1%-Suprarenin 5 ml",
+    "atcCode": "N01BB58",
+    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "SEPTODONT GmbH",
+    "telefon": "+49 228 971260",
+    "mail": "info@septodont.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-02-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15398557"
+    ],
+    "enr": [
+      "2714968"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-06",
+    "datumEnde": "2023-04-17",
+    "datumLetzteMeldung": "2023-03-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ozempic 1 mg Injektionslösung in einem Fertigpen - OP3ml",
+    "atcCode": "A10BJ06",
+    "wirkstoffe": "Semaglutid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "höhere Nachfrage als erwartet",
+    "datumErstmeldung": "2023-03-29",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "00869382"
+    ],
+    "enr": [
+      "2701101"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2021-07-01",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-03-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Visudyne 15 mg Pulver zur Herstellung einer Infusionslösung - OP1",
+    "atcCode": "S01LA01",
+    "wirkstoffe": "Verteporfin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+    "mail": "RA-Visudyne@cheplapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundAnmerkung": "ab Ende 05/2023  bis Ende 08/2023 wird keinerlei Arzneimittel \"Visudyne 15 mg Pulver zur Herstellung einer Infusionslösung\" zur Verfügung stehen",
+    "datumErstmeldung": "2021-02-25",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "07121540"
+    ],
+    "enr": [
+      "2129789"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-01-25",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-03-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tamoxifen AL 30",
+    "atcCode": "L02BA01",
+    "wirkstoffe": "Tamoxifencitrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Produkttransfer zu Granules",
+    "datumErstmeldung": "2022-01-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16512618"
+    ],
+    "enr": [
+      "2715897"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-07",
+    "datumEnde": "2023-04-27",
+    "datumLetzteMeldung": "2023-03-29",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Suboxone 8 mg/2 mg Sublingualfilm",
+    "atcCode": "N07BC51",
+    "wirkstoffe": "Buprenorphinhydrochlorid; Naloxonhydrochlorid-Dihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-03-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17857472"
+    ],
+    "enr": [
+      "0127367"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-07-01",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-03-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fluorouracil Hikma 50 mg/ml Injektionslösung",
+    "atcCode": "L01BC02",
+    "wirkstoffe": "Fluorouracil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "HIKMA Farmaceutica (Portugal), S.A.",
+    "telefon": "015785126413",
+    "mail": "rluetzner@hikma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-06-30",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "02682937"
+    ],
+    "enr": [
+      "2125597"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-26",
+    "datumEnde": "2023-05-12",
+    "datumLetzteMeldung": "2023-03-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Salbutamol AL Fertiginhalat",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "extremer Überverkauf!",
+    "datumErstmeldung": "2023-01-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16512593"
+    ],
+    "enr": [
+      "2715891"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-03",
+    "datumEnde": "2023-04-27",
+    "datumLetzteMeldung": "2023-03-29",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Suboxone 2 mg/0,5 mg Schmelzfilm zur sublingualen Anwendung",
+    "atcCode": "N07BC51",
+    "wirkstoffe": "Buprenorphinhydrochlorid; Naloxonhydrochlorid-Dihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-03-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "00958364",
+      "00958370",
+      "00989220"
+    ],
+    "enr": [
+      "2146001"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-22",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-03-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Carbamazepin AL 200 retard",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-11-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04324188"
+    ],
+    "enr": [
+      "2154243"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-04",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-03-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Aspirin i.v. 500 mg",
+    "atcCode": "N02BA01",
+    "wirkstoffe": "DL-Lysin-2-(acetyloxy)benzoat (1:1) - Glycin (9:1)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bayer Vital GmbH",
+    "telefon": "0800/6422937",
+    "mail": "medical-information@bayer.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-01-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "04748362",
+      "04748379",
+      "04748385",
+      "07558231"
+    ],
+    "enr": [
+      "2121768"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-02",
+    "datumEnde": "2023-04-19",
+    "datumLetzteMeldung": "2023-03-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nifedipin AL10",
+    "atcCode": "C08CA05",
+    "wirkstoffe": "Nifedipin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "04748391",
+      "04748416",
+      "04748422",
+      "07558225"
+    ],
+    "enr": [
+      "2121767"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-02",
+    "datumEnde": "2023-04-19",
+    "datumLetzteMeldung": "2023-03-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nifedipin AL5",
+    "atcCode": "C08CA05",
+    "wirkstoffe": "Nifedipin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "16086297",
+      "16086311"
+    ],
+    "enr": [
+      "2202350"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-02",
+    "datumEnde": "2023-05-15",
+    "datumLetzteMeldung": "2023-03-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Dutasterid/Tamsulosin AL 0,5 mg/0,4 mg Hartkapseln",
+    "atcCode": "G04CA52",
+    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02129376",
+      "02850352"
+    ],
+    "enr": [
+      "2168099"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-10",
+    "datumEnde": "2023-05-03",
+    "datumLetzteMeldung": "2023-03-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pantoprazol Aristo 20 mg magensaftresistente Tabletten",
+    "atcCode": "A02BC02",
+    "wirkstoffe": "Pantoprazol-Natrium-Sesquihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "helen.braun@aristo-pharma.de",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04958214",
+      "04958220"
+    ],
+    "enr": [
+      "2100184"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-20",
+    "datumEnde": "2023-09-11",
+    "datumLetzteMeldung": "2023-03-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Grüncef 1 g",
+    "atcCode": "J01DB05",
+    "wirkstoffe": "Cefadroxil-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252957000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-28",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "01343564",
       "01343570",
       "01343587",
@@ -145,30 +509,6 @@
     "grund": "Probleme in der Herstellung",
     "grundAnmerkung": "Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
     "datumErstmeldung": "2023-01-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04958214",
-      "04958220"
-    ],
-    "enr": [
-      "2100184"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-20",
-    "datumEnde": "2023-08-25",
-    "datumLetzteMeldung": "2023-03-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Grüncef 1 g",
-    "atcCode": "J01DB05",
-    "wirkstoffe": "Cefadroxil-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252957000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-28",
     "infoFachkreise": "Nein"
   },
   {
@@ -1109,31 +1449,6 @@
   {
     "pzn": [
       "00000000",
-      "07121540"
-    ],
-    "enr": [
-      "2129789"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-01-25",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-03-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Tamoxifen AL 30",
-    "atcCode": "L02BA01",
-    "wirkstoffe": "Tamoxifencitrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Produkttransfer zu Granules",
-    "datumErstmeldung": "2022-01-25",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
       "00038706",
       "04751424",
       "04751430",
@@ -1225,30 +1540,6 @@
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-09-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02129376",
-      "02850352",
-      "10549307"
-    ],
-    "enr": [
-      "2168099"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-10",
-    "datumEnde": "2023-05-03",
-    "datumLetzteMeldung": "2023-03-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pantoprazol Aristo 20 mg magensaftresistente Tabletten",
-    "atcCode": "A02BC02",
-    "wirkstoffe": "Pantoprazol-Natrium-Sesquihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "helen.braun@aristo-pharma.de",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2023-02-10",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2290,60 +2581,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-03-14",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "04748391",
-      "04748416",
-      "04748422",
-      "07558225"
-    ],
-    "enr": [
-      "2121767"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-02",
-    "datumEnde": "2023-03-30",
-    "datumLetzteMeldung": "2023-03-14",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Nifedipin AL5",
-    "atcCode": "C08CA05",
-    "wirkstoffe": "Nifedipin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "04748362",
-      "04748379",
-      "04748385",
-      "07558231"
-    ],
-    "enr": [
-      "2121768"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-02",
-    "datumEnde": "2023-03-30",
-    "datumLetzteMeldung": "2023-03-14",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Nifedipin AL10",
-    "atcCode": "C08CA05",
-    "wirkstoffe": "Nifedipin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-10",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -5050,29 +5287,6 @@
   },
   {
     "pzn": [
-      "07721990"
-    ],
-    "enr": [
-      "1449848"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-06",
-    "datumEnde": "2023-04-01",
-    "datumLetzteMeldung": "2023-02-24",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ultracain D-S forte 1:100.000 20ml",
-    "atcCode": "N01BB58",
-    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "SEPTODONT GmbH",
-    "telefon": "+49 228 971260",
-    "mail": "info@septodont.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-02-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08923075"
     ],
     "enr": [
@@ -5292,32 +5506,6 @@
   {
     "pzn": [
       "00000000",
-      "00958364",
-      "00958370",
-      "00989220"
-    ],
-    "enr": [
-      "2146001"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-22",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-02-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Carbamazepin AL 200 retard",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-11-22",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
       "04751588",
       "09424428"
     ],
@@ -5339,29 +5527,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "extremer Überverkauf",
     "datumErstmeldung": "2022-12-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07007465"
-    ],
-    "enr": [
-      "0085781"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-06",
-    "datumEnde": "2023-04-01",
-    "datumLetzteMeldung": "2023-02-22",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ultracain 1%-Suprarenin 5 ml",
-    "atcCode": "N01BB58",
-    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "SEPTODONT GmbH",
-    "telefon": "+49 228 971260",
-    "mail": "info@septodont.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-02-06",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -7946,30 +8111,6 @@
   },
   {
     "pzn": [
-      "00000000",
-      "02682937"
-    ],
-    "enr": [
-      "2125597"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-12-26",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-01-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Salbutamol AL Fertiginhalat",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03570956",
       "12350372"
     ],
@@ -8012,31 +8153,6 @@
     "grund": "Probleme in der Herstellung",
     "grundAnmerkung": "Überverkäufe durch out of stock Mitbewerber im November - Dezember 2022",
     "datumErstmeldung": "2023-01-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "16086297",
-      "16086311"
-    ],
-    "enr": [
-      "2202350"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-02",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-01-09",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Dutasterid/Tamsulosin AL 0,5 mg/0,4 mg Hartkapseln",
-    "atcCode": "G04CA52",
-    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-09",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -8237,29 +8353,6 @@
   },
   {
     "pzn": [
-      "04324188"
-    ],
-    "enr": [
-      "2154243"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-04",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-01-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Aspirin i.v. 500 mg",
-    "atcCode": "N02BA01",
-    "wirkstoffe": "DL-Lysin-2-(acetyloxy)benzoat (1:1) - Glycin (9:1)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bayer Vital GmbH",
-    "telefon": "0214/30-51348",
-    "mail": "medical-information@bayer.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-01-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00618616",
       "00618622",
       "00618639"
@@ -8379,29 +8472,6 @@
     "mail": "service@dexcel.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2021-11-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17857472"
-    ],
-    "enr": [
-      "0127367"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-07-01",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-01-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fluorouracil Hikma 50 mg/ml Injektionslösung",
-    "atcCode": "L01BC02",
-    "wirkstoffe": "Fluorouracil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "HIKMA Farmaceutica (Portugal), S.A.",
-    "telefon": "015785126413",
-    "mail": "rluetzner@hikma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-06-30",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -10242,27 +10312,5 @@
     "grundAnmerkung": "Einstellung der Produktion von Actilyse® Cathflo®, um den Wirkstoff in der Zwischenzeit für die anderen Stärken und Indikationen von Actilyse® zu verwenden.",
     "datumErstmeldung": "2022-05-02",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "00869382"
-    ],
-    "enr": [
-      "2701101"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-07-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2022-03-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Visudyne 15 mg Pulver zur Herstellung einer Infusionslösung - OP1",
-    "atcCode": "S01LA01",
-    "wirkstoffe": "Verteporfin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "mail": "RA-Visudyne@cheplapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2021-02-25",
-    "infoFachkreise": "Nein"
   }
 ]
