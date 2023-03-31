@@ -11,12 +11,14 @@ export const RigolettoExporter: Exporter = async () => {
 
   const parsedData = parse<RigolettoType>(rawData, { delimiter: '|', header: true }).data
 
-  const data = validate(rigolettoObjectSchema, parsedData)
+  const data = validate<RigolettoType>(rigolettoObjectSchema, parsedData)
+
+  const sortedData = data.sort((a, b) => b.Kennnummer - a.Kennnummer)
 
   return [
     {
       targetFile: 'main.json',
-      data
+      data: sortedData
     }
   ]
 }

@@ -1,14 +1,14 @@
 import { ZodSchema, SafeParseSuccess, SafeParseError, z } from 'zod'
 
-export const validate = (schema: ZodSchema, data: Array<unknown>) => {
+export const validate = <T = unknown>(schema: ZodSchema, data: Array<T>) => {
   type SuccessEntry = {
-    data: unknown
+    data: T
     zod: SafeParseSuccess<z.infer<typeof schema>>
   }
 
   type ErrorEntry = {
-    data: unknown
-    zod: SafeParseError<unknown>
+    data: T
+    zod: SafeParseError<T>
   }
 
   const result = data.map((e) => ({ data: e, zod: schema.safeParse(e) }))
