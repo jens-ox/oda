@@ -1572,24 +1572,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-03-29",
-    "emittent": {
-      "name": "RWE Aktiengesellschaft",
-      "sitz": "Essen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Amundi S.A.",
-      "sitz": "Paris",
-      "land": "Frankreich"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.06,
-      "instrumente": 0,
-      "summe": 3.06
-    }
-  },
-  {
     "veroeffentlichung": "2022-12-15",
     "emittent": {
       "name": "PUMA SE",
@@ -3178,7 +3160,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-03-30",
+    "veroeffentlichung": "2023-03-31",
     "emittent": {
       "name": "Nordex SE",
       "sitz": "Rostock",
@@ -3190,9 +3172,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.93,
-      "instrumente": 5.02,
-      "summe": 5.95
+      "gesamt": 1.13,
+      "instrumente": 4.83,
+      "summe": 5.96
     }
   },
   {
@@ -4400,7 +4382,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-03-29",
+    "veroeffentlichung": "2023-03-30",
     "emittent": {
       "name": "TAG Immobilien AG",
       "sitz": "Hamburg",
@@ -4412,9 +4394,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.16,
-      "instrumente": 1.06,
-      "summe": 6.22
+      "gesamt": 4.79,
+      "instrumente": 1.27,
+      "summe": 6.05
     }
   },
   {
@@ -4580,7 +4562,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-03-22",
+    "veroeffentlichung": "2023-03-30",
     "emittent": {
       "name": "PUMA SE",
       "sitz": "Herzogenaurach",
@@ -4592,9 +4574,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.49,
-      "instrumente": 0.1,
-      "summe": 5.59
+      "gesamt": 5.36,
+      "instrumente": 0.26,
+      "summe": 5.61
     }
   },
   {
@@ -4940,7 +4922,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-03-29",
+    "veroeffentlichung": "2023-03-30",
     "emittent": {
       "name": "freenet AG",
       "sitz": "Büdelsdorf",
@@ -4952,9 +4934,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.36,
-      "instrumente": 0.38,
-      "summe": 6.74
+      "gesamt": 6.33,
+      "instrumente": 0.32,
+      "summe": 6.65
     }
   },
   {
@@ -5102,7 +5084,7 @@
     }
   },
   {
-    "veroeffentlichung": "2021-01-07",
+    "veroeffentlichung": "2023-03-30",
     "emittent": {
       "name": "DEUTSCHE BANK AKTIENGESELLSCHAFT",
       "sitz": "Frankfurt am Main",
@@ -5114,9 +5096,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.23,
-      "instrumente": 0.32,
-      "summe": 5.55
+      "gesamt": 3.81,
+      "instrumente": 2.59,
+      "summe": 6.4
     }
   },
   {
@@ -5192,24 +5174,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-03-28",
-    "emittent": {
-      "name": "Continental Aktiengesellschaft",
-      "sitz": "Hannover",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0.19,
-      "summe": 3.21
-    }
-  },
-  {
     "veroeffentlichung": "2023-03-27",
     "emittent": {
       "name": "COMMERZBANK Aktiengesellschaft",
@@ -5228,7 +5192,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-03-29",
+    "veroeffentlichung": "2023-03-30",
     "emittent": {
       "name": "Brenntag SE",
       "sitz": "Essen",
@@ -5240,8 +5204,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.12,
-      "instrumente": 0.2,
+      "gesamt": 5.18,
+      "instrumente": 0.14,
       "summe": 5.32
     }
   },
@@ -7436,6 +7400,24 @@
     }
   },
   {
+    "veroeffentlichung": "2023-03-31",
+    "emittent": {
+      "name": "DEUTZ Aktiengesellschaft",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Daimler Truck Holding AG",
+      "sitz": "Stuttgart",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 4.19,
+      "instrumente": 0,
+      "summe": 4.19
+    }
+  },
+  {
     "veroeffentlichung": "2014-06-04",
     "emittent": {
       "name": "SMA Solar Technology AG",
@@ -8908,7 +8890,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-03-28",
+    "veroeffentlichung": "2023-03-30",
     "emittent": {
       "name": "SAF-HOLLAND SE",
       "sitz": "Bessenbach",
@@ -8920,9 +8902,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.98,
+      "gesamt": 4.41,
       "instrumente": 0,
-      "summe": 3.98
+      "summe": 4.41
     }
   },
   {
@@ -9636,7 +9618,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-03-22",
+    "veroeffentlichung": "2023-03-30",
     "emittent": {
       "name": "Deutsche Konsum REIT-AG",
       "sitz": "Broderstorf",
@@ -9649,8 +9631,8 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 28.69,
-      "instrumente": 0,
-      "summe": 28.69
+      "instrumente": 0.69,
+      "summe": 29.38
     }
   },
   {
@@ -13436,6 +13418,24 @@
       "gesamt": 18.37,
       "instrumente": 0,
       "summe": 18.37
+    }
+  },
+  {
+    "veroeffentlichung": "2023-03-30",
+    "emittent": {
+      "name": "aap Implantate AG",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Haindl, Simon",
+      "sitz": "",
+      "land": ""
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 9.99,
+      "instrumente": 0,
+      "summe": 9.99
     }
   },
   {
@@ -17309,7 +17309,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-03-29",
+    "veroeffentlichung": "2023-03-30",
     "emittent": {
       "name": "Aareal Bank AG",
       "sitz": "Wiesbaden",
@@ -17321,9 +17321,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.99,
+      "gesamt": 4.97,
       "instrumente": 0.03,
-      "summe": 5.02
+      "summe": 4.99
     }
   },
   {
@@ -28176,7 +28176,7 @@
     }
   },
   {
-    "veroeffentlichung": "2021-10-04",
+    "veroeffentlichung": "2023-03-30",
     "emittent": {
       "name": "aap Implantate AG",
       "sitz": "Berlin",
@@ -28188,9 +28188,9 @@
       "land": "Niederlande"
     },
     "stimmrechtsanteile": {
-      "gesamt": 14.99,
+      "gesamt": 8.33,
       "instrumente": 0,
-      "summe": 14.99
+      "summe": 8.33
     }
   },
   {
@@ -32585,24 +32585,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-03-28",
-    "emittent": {
-      "name": "BAUER Aktiengesellschaft",
-      "sitz": "Schrobenhausen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Small & Mid Cap Investmentbank AG",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 11.49,
-      "instrumente": 0,
-      "summe": 11.49
-    }
-  },
-  {
     "veroeffentlichung": "2023-03-14",
     "emittent": {
       "name": "NORMA Group SE",
@@ -34036,7 +34018,7 @@
     }
   },
   {
-    "veroeffentlichung": "2021-10-04",
+    "veroeffentlichung": "2023-03-30",
     "emittent": {
       "name": "aap Implantate AG",
       "sitz": "Berlin",
@@ -34048,9 +34030,9 @@
       "land": "Niederlande"
     },
     "stimmrechtsanteile": {
-      "gesamt": 14.99,
+      "gesamt": 8.33,
       "instrumente": 0,
-      "summe": 14.99
+      "summe": 8.33
     }
   },
   {
@@ -36288,7 +36270,7 @@
     }
   },
   {
-    "veroeffentlichung": "2022-11-17",
+    "veroeffentlichung": "2023-03-31",
     "emittent": {
       "name": "ADVA Optical Networking SE",
       "sitz": "Meiningen",
@@ -36300,9 +36282,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.99,
+      "gesamt": 5.01,
       "instrumente": 0,
-      "summe": 4.996
+      "summe": 5.01
     }
   },
   {
