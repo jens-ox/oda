@@ -1,6 +1,645 @@
 [
   {
     "pzn": [
+      "04922989"
+    ],
+    "enr": [
+      "2113103"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-03",
+    "datumEnde": "2023-05-19",
+    "datumLetzteMeldung": "2023-04-04",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Tegretal 200mg retard",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novartis Pharma GmbH",
+    "mail": "infoservice.novartis@novartis.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-04-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03075346"
+    ],
+    "enr": [
+      "1441686"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2023-04-28",
+    "datumLetzteMeldung": "2023-04-04",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ferrlecit 40 mg",
+    "atcCode": "B03AC",
+    "wirkstoffe": "Eisen(III)-natrium-D-gluconat-hydroxid-oxid-Komplex (ca. 2:1:1:x:y)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "0800 52 52 010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Eingeschränkte Lieferfähigkeit. Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
+    "datumErstmeldung": "2023-04-04",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "12392703",
+      "12392726"
+    ],
+    "enr": [
+      "2672744",
+      "2672745"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-24",
+    "datumEnde": "2023-04-23",
+    "datumLetzteMeldung": "2023-04-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Coagadex",
+    "atcCode": "TERM_ID_NA_2090001243",
+    "wirkstoffe": "Blutgerinnungsfaktor X",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "BPL Bioproducts Laboratory GmbH",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Verzögerung beim Hersteller Charles Rive Ireland, der für die Testung im Rahmen der Freigabe verantwortlich ist",
+    "datumErstmeldung": "2023-04-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07298391"
+    ],
+    "enr": [
+      "0614765"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-28",
+    "datumEnde": "2023-04-21",
+    "datumLetzteMeldung": "2023-04-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectotrimet 100 Saft",
+    "atcCode": "J01EA01",
+    "wirkstoffe": "Trimethoprim",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-04",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06092641",
+      "06092658"
+    ],
+    "enr": [
+      "2160576"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-03",
+    "datumEnde": "2023-04-28",
+    "datumLetzteMeldung": "2023-04-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefadroxil - 1 A Pharma 1000 mg Tabletten",
+    "atcCode": "J01DB05",
+    "wirkstoffe": "Cefadroxil-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-04-03",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04046370",
+      "04834512"
+    ],
+    "enr": [
+      "2155224"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-14",
+    "datumEnde": "2023-08-07",
+    "datumLetzteMeldung": "2023-04-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocef 500 Saft",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
+    "datumErstmeldung": "2022-12-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04543944"
+    ],
+    "enr": [
+      "0820163"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-14",
+    "datumEnde": "2023-07-10",
+    "datumLetzteMeldung": "2023-04-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 600 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252957000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03750291"
+    ],
+    "enr": [
+      "0820714"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-06",
+    "datumEnde": "2023-04-11",
+    "datumLetzteMeldung": "2023-04-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 200 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252957900",
+    "mail": "shortages@infectpharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-06",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01107213",
+      "03977445",
+      "07507110"
+    ],
+    "enr": [
+      "0610075"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-14",
+    "datumEnde": "2023-04-17",
+    "datumLetzteMeldung": "2023-04-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 400 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252-95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08776071",
+      "08776088"
+    ],
+    "enr": [
+      "2102842"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-06",
+    "datumEnde": "2023-04-17",
+    "datumLetzteMeldung": "2023-04-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Grüncef 500 mg/5ml Trockensaft",
+    "atcCode": "J01DB05",
+    "wirkstoffe": "Cefadroxil-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252957000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-06",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07382890",
+      "07382909"
+    ],
+    "enr": [
+      "2127523"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-07-08",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-04-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sabril Beutel",
+    "atcCode": "N03AG04",
+    "wirkstoffe": "Vigabatrin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "0800 52 52 010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "grundAnmerkung": "Eingeschränkte Lieferfähigkeit. Abgabe auf Einzelanfrage nach Rezeptvorlage.",
+    "datumErstmeldung": "2022-07-08",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "06983624",
+      "06983630",
+      "06983676"
+    ],
+    "enr": [
+      "2126034"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-07-21",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-04-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sabril 500 mg Filmtabletten",
+    "atcCode": "N03AG04",
+    "wirkstoffe": "Vigabatrin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "0800 52 52 010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "grundAnmerkung": "Abgabe auf Einzelanfrage nach Rezeptvorlage. Mehrwöchiger Lieferabriss ab Anfang April 2023 mit anschließender starker Kontingentierung erwartet. Umstellung auf eine alternative Behandlung oder einen alternativen Wirkstoff empfohlen (siehe auch aktualisierter Informationsbrief mit Stand April 2023)",
+    "datumErstmeldung": "2022-07-21",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "12642459"
+    ],
+    "enr": [
+      "2712087"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-06-01",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2023-04-03",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Natpar 100 Mikrogramm/Dosis Pulver und Lösungsmittel zur Herstellung einer Injektionslösung in Fertigpen - OP(2x(37,37+1,13g))",
+    "atcCode": "H05AA03",
+    "wirkstoffe": "Parathyroidhormon vom Menschen",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Shire Pharmaceuticals Ireland Limited",
+    "telefon": "0800 825 332 5",
+    "mail": "medinfoEMEA@takeda.com",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Natpar 50 Mikrogramm/Dosis Pulver und Lösungsmittel zur Herstellung einer Injektionslösung in Fertigpen - OP(2x(36,56+1,13g)) - Einreichungsnummer: 2712085",
+    "datumErstmeldung": "2022-04-11",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "04596857",
+      "04596863"
+    ],
+    "enr": [
+      "0584604"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-03",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-04-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quensyl",
+    "atcCode": "P01BA02",
+    "wirkstoffe": "Hydroxychloroquinsulfat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "0800 5252010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Nachfrage kann nicht bedient werden.",
+    "datumErstmeldung": "2023-04-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08881649",
+      "99999999"
+    ],
+    "enr": [
+      "5104359"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2020-03-01",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-04-03",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Paracetamol Dexcel 500 mg Tabletten",
+    "atcCode": "N02BE01",
+    "wirkstoffe": "Paracetamol",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dexcel Pharma GmbH",
+    "telefon": "06023 9480-0",
+    "mail": "service@dexcel.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2020-05-11",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00829425",
+      "00829431",
+      "00832485"
+    ],
+    "enr": [
+      "2164573"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-15",
+    "datumEnde": "2023-04-14",
+    "datumLetzteMeldung": "2023-04-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefpodoxim HEXAL 40 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01DD13",
+    "wirkstoffe": "Cefpodoximproxetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-12-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00544697"
+    ],
+    "enr": [
+      "2134927"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-06",
+    "datumEnde": "2023-04-06",
+    "datumLetzteMeldung": "2023-04-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoclav forte Trockensaft",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "telefon": "0800-4392527",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-09-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04330929",
+      "04332176"
+    ],
+    "enr": [
+      "2160406"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-15",
+    "datumEnde": "2023-06-23",
+    "datumLetzteMeldung": "2023-04-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clarithromycin - 1 A Pharma 125 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07116987"
+    ],
+    "enr": [
+      "2160506"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2023-04-07",
+    "datumLetzteMeldung": "2023-04-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin 250 - 1 A Pharma",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06304528"
+    ],
+    "enr": [
+      "2142798"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-15",
+    "datumEnde": "2023-04-14",
+    "datumLetzteMeldung": "2023-04-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "AmoxiClav 125/31,25 TS - 1 A Pharma",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03446311",
+      "03446570",
+      "04957746"
+    ],
+    "enr": [
+      "2153453"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-03",
+    "datumEnde": "2023-05-05",
+    "datumLetzteMeldung": "2023-04-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Levocomp 250 / 25 mg",
+    "atcCode": "N04BA02",
+    "wirkstoffe": "Carbidopa-Monohydrat; Levodopa",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2023-04-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14359147",
+      "14359153",
+      "14359176"
+    ],
+    "enr": [
+      "2193183"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-01-01",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-04-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Arpilif 30 mg Tabletten",
+    "atcCode": "N05AX12",
+    "wirkstoffe": "Aripiprazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "mail": "michaela.kunze@elpen-pharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-04-03",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14359058",
+      "14359070",
+      "14359087"
+    ],
+    "enr": [
+      "2193181"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-01-01",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-04-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Arpilif 10 mg Tabletten",
+    "atcCode": "N05AX12",
+    "wirkstoffe": "Aripiprazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "mail": "michaela.kunze@elpen-pharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-04-03",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00113721",
+      "00113738"
+    ],
+    "enr": [
+      "2134964"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-03",
+    "datumEnde": "2023-12-30",
+    "datumLetzteMeldung": "2023-04-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefaclor 500 - 1 A Pharma",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-04-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16822537",
+      "16822543"
+    ],
+    "enr": [
+      "2137023"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-03",
+    "datumEnde": "2023-06-05",
+    "datumLetzteMeldung": "2023-04-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefaclor - 1 A Pharma 250 mg Filmtabletten",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-04-03",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07620616",
+      "07620639"
+    ],
+    "enr": [
+      "0423433"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-12",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-04-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hepa-Merz Granulat 3000",
+    "atcCode": "A05BA",
+    "wirkstoffe": "Ornithinaspartat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Merz Pharmaceuticals GmbH",
+    "mail": "jan.ranau@merz.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferengpass beim API",
+    "datumErstmeldung": "2023-02-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16155489"
+    ],
+    "enr": [
+      "2716087"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-14",
+    "datumEnde": "2023-05-17",
+    "datumLetzteMeldung": "2023-04-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Xarelto 1 mg/ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "B01AF01",
+    "wirkstoffe": "Rivaroxaban",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bayer Aktiengesellschaft - Geschäftsanschrift -",
+    "telefon": "0800 6422937",
+    "mail": "medical-information@bayer.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "08831255"
     ],
     "enr": [
@@ -1749,31 +2388,6 @@
   },
   {
     "pzn": [
-      "04046370",
-      "04834512"
-    ],
-    "enr": [
-      "2155224"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-14",
-    "datumEnde": "2023-05-19",
-    "datumLetzteMeldung": "2023-03-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocef 500 Saft",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
-    "datumErstmeldung": "2022-12-09",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01512311",
       "04257799",
       "04257888",
@@ -1822,54 +2436,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "erhöhter Nachfrage aufgrund Lieferunfähigkeit von Mitbewerbern",
     "datumErstmeldung": "2022-11-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01107213",
-      "03977445",
-      "07507110"
-    ],
-    "enr": [
-      "0610075"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-14",
-    "datumEnde": "2023-04-17",
-    "datumLetzteMeldung": "2023-03-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 400 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252-95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03750291"
-    ],
-    "enr": [
-      "0820714"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-06",
-    "datumEnde": "2023-04-03",
-    "datumLetzteMeldung": "2023-03-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 200 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252957900",
-    "mail": "shortages@infectpharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-06",
     "infoFachkreise": "Nein"
   },
   {
@@ -2358,29 +2924,6 @@
   },
   {
     "pzn": [
-      "00592733"
-    ],
-    "enr": [
-      "2142654"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-01",
-    "datumEnde": "2023-03-30",
-    "datumLetzteMeldung": "2023-03-23",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Famotidin STADA 40 mg Filmtabletten",
-    "atcCode": "A02BA03",
-    "wirkstoffe": "Famotidin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Neue Ware bereits geliefert. Es ist zur Zeit nur begrenzt Ware lieferfähig. Nachfrage ist größer als Lagerbestand. Ab März 2023 werden wir wieder voll lieferunfähig sein.",
-    "datumErstmeldung": "2023-01-11",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00000000",
       "04748333",
       "04748356",
@@ -2431,30 +2974,6 @@
   },
   {
     "pzn": [
-      "07620616",
-      "07620639"
-    ],
-    "enr": [
-      "0423433"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-12",
-    "datumEnde": "2023-04-28",
-    "datumLetzteMeldung": "2023-03-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hepa-Merz Granulat 3000",
-    "atcCode": "A05BA",
-    "wirkstoffe": "Ornithinaspartat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Merz Pharmaceuticals GmbH",
-    "mail": "jan.ranau@merz.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferengpass beim API",
-    "datumErstmeldung": "2023-02-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00712930",
       "00712947"
     ],
@@ -2475,28 +2994,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-16",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06304528"
-    ],
-    "enr": [
-      "2142798"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-15",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-03-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "AmoxiClav 125/31,25 TS - 1 A Pharma",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-15",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -2815,29 +3312,6 @@
   },
   {
     "pzn": [
-      "04543944"
-    ],
-    "enr": [
-      "0820163"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-14",
-    "datumEnde": "2023-07-01",
-    "datumLetzteMeldung": "2023-03-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 600 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252957900",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "06648311"
     ],
     "enr": [
@@ -2980,29 +3454,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-02-02",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01875433"
-    ],
-    "enr": [
-      "2100946"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-17",
-    "datumEnde": "2023-04-14",
-    "datumLetzteMeldung": "2023-03-17",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Glycylpressin 1mg",
-    "atcCode": "H01BA",
-    "wirkstoffe": "Terlipressinmonoacetat 5 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Ferring GmbH",
-    "telefon": "+494315852134",
-    "mail": "petra.wagner@ferring.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-02-17",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -4203,28 +4654,6 @@
   },
   {
     "pzn": [
-      "01038447"
-    ],
-    "enr": [
-      "2160501"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-03-07",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin HEXAL 500 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01038430"
     ],
     "enr": [
@@ -4498,28 +4927,6 @@
   },
   {
     "pzn": [
-      "07116987"
-    ],
-    "enr": [
-      "2160506"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-03-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin 250 - 1 A Pharma",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04044313",
       "04044336",
       "04044342"
@@ -4541,29 +4948,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-06",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03820206",
-      "03820471"
-    ],
-    "enr": [
-      "2138603"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-16",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-03-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Bisoprolol 5-1A Pharma",
-    "atcCode": "C07AB07",
-    "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-16",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -7037,28 +7421,6 @@
   },
   {
     "pzn": [
-      "04330929"
-    ],
-    "enr": [
-      "2160406"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-15",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-02-09",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clarithromycin - 1 A Pharma 125 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA09",
-    "wirkstoffe": "Clarithromycin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01314137"
     ],
     "enr": [
@@ -7475,30 +7837,6 @@
   },
   {
     "pzn": [
-      "16155489"
-    ],
-    "enr": [
-      "2716087"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-14",
-    "datumEnde": "2023-04-14",
-    "datumLetzteMeldung": "2023-02-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Xarelto 1 mg/ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "B01AF01",
-    "wirkstoffe": "Rivaroxaban",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bayer Aktiengesellschaft - Geschäftsanschrift -",
-    "telefon": "0800 6422937",
-    "mail": "medical-information@bayer.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Versehentlich falsche ENR gemeldet.",
-    "datumErstmeldung": "2023-02-01",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00557576"
     ],
     "enr": [
@@ -7548,32 +7886,6 @@
   },
   {
     "pzn": [
-      "06983624",
-      "06983630",
-      "06983676"
-    ],
-    "enr": [
-      "2126034"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-07-21",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2023-01-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sabril 500 mg Filmtabletten",
-    "atcCode": "N03AG04",
-    "wirkstoffe": "Vigabatrin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "0800 52 52 010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Probleme beim Wirkstoffhersteller",
-    "grundAnmerkung": "Abgabe auf Einzelanfrage nach Rezeptvorlage. Mehrwöchiger Lieferabriss ab Ende Februar 23 erwartet. Umstellung auf eine alternative Behandlung oder einen alternativen Wirkstoff empfohlen (siehe auch Informationsbrief mit Stand Juli 2022)",
-    "datumErstmeldung": "2022-07-21",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
       "04152592",
       "04152617"
     ],
@@ -7594,31 +7906,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-16",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07382890",
-      "07382909"
-    ],
-    "enr": [
-      "2127523"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-07-08",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2023-01-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sabril Beutel",
-    "atcCode": "N03AG04",
-    "wirkstoffe": "Vigabatrin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "0800 52 52 010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Probleme beim Wirkstoffhersteller",
-    "grundAnmerkung": "Eingeschränkte Lieferfähigkeit. Abgabe auf Einzelanfrage nach Rezeptvorlage.",
-    "datumErstmeldung": "2022-07-08",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
@@ -8469,29 +8756,6 @@
   },
   {
     "pzn": [
-      "08776071",
-      "08776088"
-    ],
-    "enr": [
-      "2102842"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-06",
-    "datumEnde": "2023-04-03",
-    "datumLetzteMeldung": "2023-01-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Grüncef 500 mg/5ml Trockensaft",
-    "atcCode": "J01DB05",
-    "wirkstoffe": "Cefadroxil-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "mail": "regulatory@infectpharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01442993"
     ],
     "enr": [
@@ -8614,30 +8878,6 @@
   },
   {
     "pzn": [
-      "08881649",
-      "99999999"
-    ],
-    "enr": [
-      "5104359"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2020-03-01",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-01-04",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Paracetamol Dexcel 500 mg Tabletten",
-    "atcCode": "N02BE01",
-    "wirkstoffe": "Paracetamol",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dexcel Pharma GmbH",
-    "telefon": "06023 9480-0",
-    "mail": "service@dexcel.com",
-    "grund": "Herstellerwechsel",
-    "datumErstmeldung": "2020-05-11",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "09295356",
       "09295362",
       "09295379"
@@ -8709,30 +8949,6 @@
   },
   {
     "pzn": [
-      "12642459"
-    ],
-    "enr": [
-      "2712087"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-06-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2022-12-29",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Natpar 100 Mikrogramm/Dosis Pulver und Lösungsmittel zur Herstellung einer Injektionslösung in Fertigpen - OP(2x(37,37+1,13g))",
-    "atcCode": "H05AA03",
-    "wirkstoffe": "Parathyroidhormon vom Menschen",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Shire Pharmaceuticals Ireland Limited",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "Natpar 50 Mikrogramm/Dosis Pulver und Lösungsmittel zur Herstellung einer Injektionslösung in Fertigpen - OP(2x(36,56+1,13g)) - Einreichungsnummer: 2712085",
-    "datumErstmeldung": "2022-04-11",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
       "01474384",
       "01483785"
     ],
@@ -8782,53 +8998,6 @@
     "grundAnmerkung": "Sehr stark eingeschränkte Lieferfähigkeit",
     "datumErstmeldung": "2022-12-28",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "00544697"
-    ],
-    "enr": [
-      "2134927"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-06",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2022-12-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoclav forte Trockensaft",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "0800-4392527",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-09-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00829425",
-      "00829431",
-      "00832485"
-    ],
-    "enr": [
-      "2164573"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-15",
-    "datumEnde": "2023-04-04",
-    "datumLetzteMeldung": "2022-12-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefpodoxim HEXAL 40 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DD13",
-    "wirkstoffe": "Cefpodoximproxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-12-15",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
