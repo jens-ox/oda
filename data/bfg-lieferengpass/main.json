@@ -1,6 +1,555 @@
 [
   {
     "pzn": [
+      "14238691",
+      "14238716"
+    ],
+    "enr": [
+      "0243027"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2023-05-23",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Codein - 1 A Pharma 16 mg/ml Tropfen zum Einnehmen, Lösung",
+    "atcCode": "R05DA04",
+    "wirkstoffe": "Codeinphosphat-Hemihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01624524",
+      "01624530",
+      "05489112"
+    ],
+    "enr": [
+      "2158770"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2023-04-14",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clindamycin - 1 A Pharma 600 mg Filmtabletten",
+    "atcCode": "J01FF01",
+    "wirkstoffe": "Clindamycinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04332377",
+      "04332466"
+    ],
+    "enr": [
+      "2160407"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2023-08-11",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clarithromycin - 1 A Pharma 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16634468"
+    ],
+    "enr": [
+      "7001468"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fiasp",
+    "atcCode": "A10AB05",
+    "wirkstoffe": "Insulin aspart",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "61319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
+    "alternativPraeparat": "NovoRapid PumpCart 100 E/ml Injektionslösung in Patrone - OP[25x(5x1,6ml)] - Einreichungsnummer: 2712151",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14362600"
+    ],
+    "enr": [
+      "2714975"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2023-04-19",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tresiba 200 Einheiten/ml Injektionslösung in Fertigpen - OP(5x3ml)",
+    "atcCode": "A10AE06",
+    "wirkstoffe": "Insulin degludec",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11695086"
+    ],
+    "enr": [
+      "2709890"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2023-05-15",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tresiba 200 Einheiten/ml Injektionslösung in Fertigpen - OP(3x3ml)",
+    "atcCode": "A10AE06",
+    "wirkstoffe": "Insulin degludec",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
+    "datumErstmeldung": "2023-02-23",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "03703050",
+      "03703067",
+      "03703073"
+    ],
+    "enr": [
+      "0813507"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-04-05",
+    "datumEnde": "2023-08-06",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Dimaval (DMPS) 100 mg Hartkapseln",
+    "atcCode": "TERM_ID_NA_2090010126, V03AB",
+    "wirkstoffe": "(RS)-2,3-Bis(sulfanyl)propan-1-sulfonsäure-Natriumsalz 1 H<2>O",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "H e y l Chemisch-pharmazeutische Fabrik GmbH & Co. KG",
+    "telefon": "+49 30 816 96  0",
+    "mail": "info@heyl-berlin.de",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Haupt Pharma Wülfing GmbH.....",
+    "alternativPraeparat": "Dimaval - Einreichungsnummer: 2125465",
+    "datumErstmeldung": "2022-04-05",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11288984"
+    ],
+    "enr": [
+      "2139772"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-17",
+    "datumEnde": "2023-05-19",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Wellvone Suspension",
+    "atcCode": "P01AX06",
+    "wirkstoffe": "Atovaquon",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
+    "telefon": "08001223355",
+    "mail": "service.info@gsk.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-24",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02071783"
+    ],
+    "enr": [
+      "2149825"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-22",
+    "datumEnde": "2023-04-24",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Lamictal 2 mg Tabletten zur Herstellung einer Suspension zum Einnehmen bzw. Kautabletten",
+    "atcCode": "N03AX09",
+    "wirkstoffe": "Lamotrigin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
+    "telefon": "08001223355",
+    "mail": "service.info@gsk.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-02",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07289558",
+      "07289564"
+    ],
+    "enr": [
+      "2100296"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-03-20",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Metalcaptase 150 mg",
+    "atcCode": "M01CC01, TERM_ID_NA_2090010126, V03AB",
+    "wirkstoffe": "Penicillamin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "H e y l Chemisch-pharmazeutische Fabrik GmbH & Co. KG",
+    "telefon": "+49 30 816 96  0",
+    "mail": "info@heyl-berlin.de",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Haupt Pharma Wülfing GmbH ....",
+    "alternativPraeparat": "Metalcaptase 300 mg - Einreichungsnummer: 0812873",
+    "datumErstmeldung": "2022-02-17",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01822916"
+    ],
+    "enr": [
+      "2140254"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2023-05-31",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fluoxetin HEXAL 10 mg Tabletten",
+    "atcCode": "N06AB03",
+    "wirkstoffe": "Fluoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01822951",
+      "01822968",
+      "01822974"
+    ],
+    "enr": [
+      "2140447"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2023-05-31",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fluoxetin HEXAL 40 mg Tabletten",
+    "atcCode": "N06AB03",
+    "wirkstoffe": "Fluoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04834133",
+      "04834334",
+      "04834417"
+    ],
+    "enr": [
+      "2140448"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2023-05-31",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fluoxetin 40 - 1 A Pharma",
+    "atcCode": "N06AB03",
+    "wirkstoffe": "Fluoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02421964",
+      "02421987"
+    ],
+    "enr": [
+      "2144586"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-15",
+    "datumEnde": "2023-07-20",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Nimodipin Hexal 30mg",
+    "atcCode": "C08CA06",
+    "wirkstoffe": "Nimodipin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Nimodipin Hexal 30mg - Einreichungsnummer: 2144586",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08998682"
+    ],
+    "enr": [
+      "2142450"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-04",
+    "datumEnde": "2023-06-09",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methaddict 10 mg Tabletten",
+    "atcCode": "N07BC02",
+    "wirkstoffe": "Methadonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "alternativPraeparat": "Methaddict 10 mg Tabletten - Einreichungsnummer: 2142450",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06834769"
+    ],
+    "enr": [
+      "2169217"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-17",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Tobramycin B. Braun 1 mg/ml Infusionslösung",
+    "atcCode": "J01GB01",
+    "wirkstoffe": "Tobramycin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "B. Braun Melsungen Aktiengesellschaft",
+    "telefon": "056617191477309",
+    "mail": "benjamin.strippel@bbraun.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-01-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06834798"
+    ],
+    "enr": [
+      "2169218"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-17",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Tobramycin B. Braun 3 mg/ml Infusionslösung",
+    "atcCode": "J01GB01",
+    "wirkstoffe": "Tobramycin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "B. Braun Melsungen Aktiengesellschaft",
+    "telefon": "056617191477309",
+    "mail": "benjamin.strippel@bbraun.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-01-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08704404"
+    ],
+    "enr": [
+      "2138321"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-28",
+    "datumEnde": "2023-05-12",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Dexa 8mg inject JENAPHARM",
+    "atcCode": "H02AB02",
+    "wirkstoffe": "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Dexa 8mg inject JENAPHARM - Einreichungsnummer: 2138321",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04004377"
+    ],
+    "enr": [
+      "3000410"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-31",
+    "datumEnde": "2023-05-05",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Bupivacain 0,5 % mit Epinephrin 0,0005 % (1:200 000) JENAPHARM",
+    "atcCode": "N01B",
+    "wirkstoffe": "Bupivacainhydrochlorid (Ph.Eur.); Epinephrinhydrogentartrat/Adrenalinhydrogentartrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01343653"
+    ],
+    "enr": [
+      "2140401"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-30",
+    "datumEnde": "2023-05-26",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 100 mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Prednisolut 100 mg L - Einreichungsnummer: 2140401",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01343541",
+      "14142146"
+    ],
+    "enr": [
+      "2140461"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-14",
+    "datumEnde": "2023-05-26",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 25 mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-12-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "15821470",
+      "15821487",
+      "15821493",
+      "15821501"
+    ],
+    "enr": [
+      "2613853"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cutaquig",
+    "atcCode": "J06BA01",
+    "wirkstoffe": "Immunglobulin G vom Menschen",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Octapharma GmbH",
+    "mail": "thomas.franken@octapharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01177870"
+    ],
+    "enr": [
+      "0077681"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-04-05",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Carbostesin 0,25%",
+    "atcCode": "N01BB01",
+    "wirkstoffe": "Bupivacainhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aspen Pharma Trading Limited",
+    "telefon": "+49 89  93 08 38 00",
+    "mail": "de-info@aspenpharma.eu",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Carbostesin 0,25% - Einreichungsnummer: 0077681",
+    "datumErstmeldung": "2023-03-30",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "04922989"
     ],
     "enr": [
@@ -1421,30 +1970,6 @@
   },
   {
     "pzn": [
-      "01177870"
-    ],
-    "enr": [
-      "0077681"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-14",
-    "datumEnde": "2023-08-31",
-    "datumLetzteMeldung": "2023-03-30",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Carbostesin 0,25%",
-    "atcCode": "N01BB01",
-    "wirkstoffe": "Bupivacainhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aspen Pharma Trading Limited",
-    "telefon": "+49 89  93 08 38 00",
-    "mail": "de-info@aspenpharma.eu",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "Carbostesin 0,25% - Einreichungsnummer: 0077681",
-    "datumErstmeldung": "2023-03-30",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "13923918",
       "13923924",
       "13923930"
@@ -2066,33 +2591,6 @@
   {
     "pzn": [
       "00000000",
-      "04748362",
-      "04748379",
-      "04748385",
-      "07558231"
-    ],
-    "enr": [
-      "2121768"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-02",
-    "datumEnde": "2023-04-19",
-    "datumLetzteMeldung": "2023-03-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Nifedipin AL10",
-    "atcCode": "C08CA05",
-    "wirkstoffe": "Nifedipin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
       "04748391",
       "04748416",
       "04748422",
@@ -2115,31 +2613,6 @@
     "mail": "a.kredba@aliud.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-01-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "16086297",
-      "16086311"
-    ],
-    "enr": [
-      "2202350"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-02",
-    "datumEnde": "2023-05-15",
-    "datumLetzteMeldung": "2023-03-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Dutasterid/Tamsulosin AL 0,5 mg/0,4 mg Hartkapseln",
-    "atcCode": "G04CA52",
-    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-09",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2213,29 +2686,6 @@
     "mail": "Zulassung-Sekretariat@mibegmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-11-16",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01343541"
-    ],
-    "enr": [
-      "2140461"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-14",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-03-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 25 mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-12-21",
     "infoFachkreise": "Nein"
   },
   {
@@ -3454,31 +3904,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-02-02",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11695086"
-    ],
-    "enr": [
-      "2709890"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-05-15",
-    "datumLetzteMeldung": "2023-03-16",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Tresiba 200 Einheiten/ml Injektionslösung in Fertigpen - OP(3x3ml)",
-    "atcCode": "A10AE06",
-    "wirkstoffe": "Insulin degludec",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
-    "alternativPraeparat": "Tresiba 200 Einheiten/ml Injektionslösung in Fertigpen - OP(5x3ml) - Einreichungsnummer: 2714975",
-    "datumErstmeldung": "2023-02-23",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
@@ -5283,29 +5708,6 @@
   },
   {
     "pzn": [
-      "02071783"
-    ],
-    "enr": [
-      "2149825"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-22",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2023-03-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Lamictal 2 mg Tabletten zur Herstellung einer Suspension zum Einnehmen bzw. Kautabletten",
-    "atcCode": "N03AX09",
-    "wirkstoffe": "Lamotrigin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
-    "telefon": "08001223355",
-    "mail": "service.info@gsk.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-02",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "15398534"
     ],
     "enr": [
@@ -5328,32 +5730,6 @@
     "alternativPraeparat": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP(3x1,5ml) - Einreichungsnummer: 2714967",
     "datumErstmeldung": "2023-03-02",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07289558",
-      "07289564"
-    ],
-    "enr": [
-      "2100296"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-03-20",
-    "datumEnde": "2023-08-15",
-    "datumLetzteMeldung": "2023-03-01",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Metalcaptase 150 mg",
-    "atcCode": "M01CC01, TERM_ID_NA_2090010126, V03AB",
-    "wirkstoffe": "Penicillamin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "H e y l Chemisch-pharmazeutische Fabrik GmbH & Co. KG",
-    "telefon": "+49 30 816 96  0",
-    "mail": "info@heyl-berlin.de",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Haupt Pharma Wülfing GmbH ....",
-    "alternativPraeparat": "Metalcaptase 300 mg - Einreichungsnummer: 0812873",
-    "datumErstmeldung": "2022-02-17",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -5848,29 +6224,6 @@
     "grundAnmerkung": "Lieferengpass beim API",
     "datumErstmeldung": "2023-02-27",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11288984"
-    ],
-    "enr": [
-      "2139772"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-17",
-    "datumEnde": "2023-04-14",
-    "datumLetzteMeldung": "2023-02-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Wellvone Suspension",
-    "atcCode": "P01AX06",
-    "wirkstoffe": "Atovaquon",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
-    "telefon": "08001223355",
-    "mail": "service.info@gsk.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-24",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -8310,52 +8663,6 @@
   },
   {
     "pzn": [
-      "06834798"
-    ],
-    "enr": [
-      "2169218"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-17",
-    "datumEnde": "2023-04-28",
-    "datumLetzteMeldung": "2023-01-17",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Tobramycin B. Braun 3 mg/ml Infusionslösung",
-    "atcCode": "J01GB01",
-    "wirkstoffe": "Tobramycin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "B. Braun Melsungen Aktiengesellschaft",
-    "telefon": "056617191477309",
-    "mail": "benjamin.strippel@bbraun.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-01-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06834769"
-    ],
-    "enr": [
-      "2169217"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-17",
-    "datumEnde": "2023-04-28",
-    "datumLetzteMeldung": "2023-01-17",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Tobramycin B. Braun 1 mg/ml Infusionslösung",
-    "atcCode": "J01GB01",
-    "wirkstoffe": "Tobramycin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "B. Braun Melsungen Aktiengesellschaft",
-    "telefon": "056617191477309",
-    "mail": "benjamin.strippel@bbraun.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-01-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01620443"
     ],
     "enr": [
@@ -8581,29 +8888,6 @@
     "mail": "info_de@baxter.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-06-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03570956",
-      "12350372"
-    ],
-    "enr": [
-      "2111213"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-10-21",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2023-01-10",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Tamoxifen 20 Heumann",
-    "atcCode": "L02BA01",
-    "wirkstoffe": "Tamoxifencitrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2021-11-09",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -9573,33 +9857,6 @@
   },
   {
     "pzn": [
-      "03703050",
-      "03703067",
-      "03703073"
-    ],
-    "enr": [
-      "0813507"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-04-05",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2022-11-25",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Dimaval (DMPS) 100 mg Hartkapseln",
-    "atcCode": "TERM_ID_NA_2090010126, V03AB",
-    "wirkstoffe": "(RS)-2,3-Bis(sulfanyl)propan-1-sulfonsäure-Natriumsalz 1 H<2>O",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "H e y l Chemisch-pharmazeutische Fabrik GmbH & Co. KG",
-    "telefon": "+49 30 816 96  0",
-    "mail": "info@heyl-berlin.de",
-    "grund": "Herstellerwechsel",
-    "grundAnmerkung": "Haupt Pharma Wülfing GmbH.....",
-    "alternativPraeparat": "Dimaval - Einreichungsnummer: 2125465",
-    "datumErstmeldung": "2022-04-05",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04627836"
     ],
     "enr": [
@@ -10198,32 +10455,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2020-08-13",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04998461",
-      "04998478"
-    ],
-    "enr": [
-      "2121794"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-09-30",
-    "datumEnde": "2024-01-01",
-    "datumLetzteMeldung": "2022-08-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Glucagen",
-    "atcCode": "H04AA01",
-    "wirkstoffe": "Glucagonhydrochlorid (1:x) ((mit Angaben zum Chlorwasserstoff-Gehalt))",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
-    "telefon": "01706311655",
-    "mail": "trei@novonordisk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "der Lieferengpass wird bis voraussichtlich Anfang 2024 andauern",
-    "alternativPraeparat": "Glucagen Hypokit - Einreichungsnummer: 2128288",
-    "datumErstmeldung": "2022-08-24",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
