@@ -1,6 +1,388 @@
 [
   {
     "pzn": [
+      "04790111"
+    ],
+    "enr": [
+      "2125932"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-28",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-04-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sevredol 10mg",
+    "atcCode": "N02AA01",
+    "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-03-01",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07620616"
+    ],
+    "enr": [
+      "0423433"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-12",
+    "datumEnde": "2023-04-28",
+    "datumLetzteMeldung": "2023-04-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hepa-Merz Granulat 3000",
+    "atcCode": "A05BA",
+    "wirkstoffe": "Ornithinaspartat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Merz Pharmaceuticals GmbH",
+    "mail": "jan.ranau@merz.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferengpass beim API",
+    "datumErstmeldung": "2023-02-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00067843",
+      "00067866"
+    ],
+    "enr": [
+      "2158367"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-10-26",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-04-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxygesic akut 5 mg",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-10-26",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06332312"
+    ],
+    "enr": [
+      "2104034"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-01",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-04-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "MST 30 mg Mundipharma",
+    "atcCode": "N02AA01",
+    "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-09-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17275646",
+      "17275652",
+      "17275669",
+      "17275681",
+      "17275735"
+    ],
+    "enr": [
+      "2613978"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-03-08",
+    "datumEnde": "2023-04-28",
+    "datumLetzteMeldung": "2023-04-06",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Optiglobin 100 mg/ml",
+    "atcCode": "J06BA02",
+    "wirkstoffe": "Immunglobulin G vom Menschen",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Sanquin Plasma Products B.V.",
+    "telefon": "+31615045921",
+    "mail": "bjorn.vanderklugt@prothya.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Pink coloration of the product, observed in an additional color monitoring method.Update 09FEB2023: Other production issues, which have been identified and now resolved, had an impact on the amount of product available. Prothya is currently producing and working to supply its markets as soon as possible.",
+    "datumErstmeldung": "2022-03-23",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06332306"
+    ],
+    "enr": [
+      "2104033"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-01",
+    "datumEnde": "2023-04-15",
+    "datumLetzteMeldung": "2023-04-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "MST 10mg Mundipharma",
+    "atcCode": "N02AA01",
+    "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-09-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16398039"
+    ],
+    "enr": [
+      "2202511"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-06",
+    "datumEnde": "2023-05-31",
+    "datumLetzteMeldung": "2023-04-06",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Amlodipin/Valsartan/Hydrochlorothiazid ELPEN 10 mg/320 mg/25 mg Filmtabletten",
+    "atcCode": "TERM_ID_NA_2090002384",
+    "wirkstoffe": "Amlodipinbesilat; Hydrochlorothiazid; Valsartan",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "mail": "michaela.kunze@elpen-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-04-06",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00582999"
+    ],
+    "enr": [
+      "2142770"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-03",
+    "datumEnde": "2023-04-24",
+    "datumLetzteMeldung": "2023-04-06",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "SUBUTEX 2 mg",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "00800 270 81 901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-03-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16512593"
+    ],
+    "enr": [
+      "2715891"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-03",
+    "datumEnde": "2023-04-12",
+    "datumLetzteMeldung": "2023-04-06",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Suboxone 2 mg/0,5 mg Schmelzfilm zur sublingualen Anwendung",
+    "atcCode": "N07BC51",
+    "wirkstoffe": "Buprenorphinhydrochlorid; Naloxonhydrochlorid-Dihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-03-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16512618"
+    ],
+    "enr": [
+      "2715897"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-07",
+    "datumEnde": "2023-04-12",
+    "datumLetzteMeldung": "2023-04-06",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Suboxone 8 mg/2 mg Sublingualfilm",
+    "atcCode": "N07BC51",
+    "wirkstoffe": "Buprenorphinhydrochlorid; Naloxonhydrochlorid-Dihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-03-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "04751588",
+      "09424428"
+    ],
+    "enr": [
+      "2114031"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-20",
+    "datumEnde": "2023-05-16",
+    "datumLetzteMeldung": "2023-04-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxicillin AL TS",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "extremer Überverkauf",
+    "datumErstmeldung": "2022-12-21",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "04748333",
+      "04748356",
+      "08671900"
+    ],
+    "enr": [
+      "2112970"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-02",
+    "datumEnde": "2023-05-14",
+    "datumLetzteMeldung": "2023-04-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Penicillin V AL 1 M",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "extremer Überverkauf",
+    "datumErstmeldung": "2022-12-14",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "04751476",
+      "04751482",
+      "09424405"
+    ],
+    "enr": [
+      "2104753"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-28",
+    "datumEnde": "2023-05-16",
+    "datumLetzteMeldung": "2023-04-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxicillin AL 500",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-18",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03773725",
+      "03773748",
+      "04957769"
+    ],
+    "enr": [
+      "2155533"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2021-09-15",
+    "datumEnde": "2023-08-30",
+    "datumLetzteMeldung": "2023-04-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Levocomp retard 200 mg/50 mg Retardtabletten",
+    "atcCode": "N04BA02",
+    "wirkstoffe": "Carbidopa-Monohydrat; Levodopa",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "telefon": "0800-4392527",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2021-09-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02646350",
+      "02646373",
+      "04957752"
+    ],
+    "enr": [
+      "2155532"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2021-09-15",
+    "datumEnde": "2023-08-30",
+    "datumLetzteMeldung": "2023-04-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Levocomp retard 100 mg/25 mg Retardtabletten",
+    "atcCode": "N04BA02",
+    "wirkstoffe": "Carbidopa-Monohydrat; Levodopa",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "telefon": "0800-4392527",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2021-09-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08480910"
+    ],
+    "enr": [
+      "2177711"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-08",
+    "datumEnde": "2023-04-14",
+    "datumLetzteMeldung": "2023-04-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ibandronsäure HEXAL 3 mg/3 ml Injektionslösung",
+    "atcCode": "M05BA06",
+    "wirkstoffe": "Mononatriumibandronat 1 H<2>O",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "14238691",
       "14238716"
     ],
@@ -980,28 +1362,6 @@
   },
   {
     "pzn": [
-      "07116987"
-    ],
-    "enr": [
-      "2160506"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-04-07",
-    "datumLetzteMeldung": "2023-04-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin 250 - 1 A Pharma",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "06304528"
     ],
     "enr": [
@@ -1142,30 +1502,6 @@
   },
   {
     "pzn": [
-      "07620616",
-      "07620639"
-    ],
-    "enr": [
-      "0423433"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-12",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-04-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hepa-Merz Granulat 3000",
-    "atcCode": "A05BA",
-    "wirkstoffe": "Ornithinaspartat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Merz Pharmaceuticals GmbH",
-    "mail": "jan.ranau@merz.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferengpass beim API",
-    "datumErstmeldung": "2023-02-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "16155489"
     ],
     "enr": [
@@ -1279,51 +1615,6 @@
   },
   {
     "pzn": [
-      "00081932"
-    ],
-    "enr": [
-      "2158368"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-10-26",
-    "datumEnde": "2023-04-15",
-    "datumLetzteMeldung": "2023-03-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxygesic akut 10 mg",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-10-26",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04790111",
-      "07590223"
-    ],
-    "enr": [
-      "2125932"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-28",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-03-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sevredol 10mg",
-    "atcCode": "N02AA01",
-    "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-03-01",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "06332335"
     ],
     "enr": [
@@ -1357,30 +1648,6 @@
     "datumLetzteMeldung": "2023-03-31",
     "grundArt": "Sonstige",
     "bezeichnung": "MST 60 mg Mundipharma",
-    "atcCode": "N02AA01",
-    "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-09-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04636918",
-      "04946263",
-      "06332306"
-    ],
-    "enr": [
-      "2104033"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-01",
-    "datumEnde": "2023-04-15",
-    "datumLetzteMeldung": "2023-03-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "MST 10mg Mundipharma",
     "atcCode": "N02AA01",
     "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
     "krankenhausrelevant": false,
@@ -2447,29 +2714,6 @@
   },
   {
     "pzn": [
-      "16512618"
-    ],
-    "enr": [
-      "2715897"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-07",
-    "datumEnde": "2023-04-27",
-    "datumLetzteMeldung": "2023-03-29",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Suboxone 8 mg/2 mg Sublingualfilm",
-    "atcCode": "N07BC51",
-    "wirkstoffe": "Buprenorphinhydrochlorid; Naloxonhydrochlorid-Dihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-03-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "17857472"
     ],
     "enr": [
@@ -2514,29 +2758,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "extremer Überverkauf!",
     "datumErstmeldung": "2023-01-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16512593"
-    ],
-    "enr": [
-      "2715891"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-03",
-    "datumEnde": "2023-04-27",
-    "datumLetzteMeldung": "2023-03-29",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Suboxone 2 mg/0,5 mg Schmelzfilm zur sublingualen Anwendung",
-    "atcCode": "N07BC51",
-    "wirkstoffe": "Buprenorphinhydrochlorid; Naloxonhydrochlorid-Dihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-03-29",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -3234,29 +3455,6 @@
   },
   {
     "pzn": [
-      "00582999"
-    ],
-    "enr": [
-      "2142770"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-03",
-    "datumEnde": "2023-05-01",
-    "datumLetzteMeldung": "2023-03-24",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "SUBUTEX 2 mg",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "00800 270 81 901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-03-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02410009"
     ],
     "enr": [
@@ -3370,33 +3568,6 @@
     "mail": "de-info@aspenpharma.eu",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "04748333",
-      "04748356",
-      "08671900"
-    ],
-    "enr": [
-      "2112970"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-02",
-    "datumEnde": "2023-04-15",
-    "datumLetzteMeldung": "2023-03-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Penicillin V AL 1 M",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "extremer Überverkauf",
-    "datumErstmeldung": "2022-12-14",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -3735,29 +3906,6 @@
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Änderung des Herstellverfahrens",
     "datumErstmeldung": "2023-03-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04946286",
-      "06332312"
-    ],
-    "enr": [
-      "2104034"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-01",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-03-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "MST 30 mg Mundipharma",
-    "atcCode": "N02AA01",
-    "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-09-02",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -4272,32 +4420,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-03-14",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "04751476",
-      "04751482",
-      "09424405"
-    ],
-    "enr": [
-      "2104753"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-28",
-    "datumEnde": "2023-04-12",
-    "datumLetzteMeldung": "2023-03-14",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxicillin AL 500",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-18",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -4986,28 +5108,6 @@
   },
   {
     "pzn": [
-      "08480910"
-    ],
-    "enr": [
-      "2177711"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-08",
-    "datumEnde": "2023-04-06",
-    "datumLetzteMeldung": "2023-03-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ibandronsäure HEXAL 3 mg/3 ml Injektionslösung",
-    "atcCode": "M05BA06",
-    "wirkstoffe": "Mononatriumibandronat 1 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-08",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00064135"
     ],
     "enr": [
@@ -5325,28 +5425,6 @@
     "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
     "mail": "edith.eigenberger@denkpharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-03-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07116993"
-    ],
-    "enr": [
-      "2160507"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-04-06",
-    "datumLetzteMeldung": "2023-03-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin 500 - 1 A Pharma",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-06",
     "infoFachkreise": "Vorgesehen"
   },
@@ -5962,30 +6040,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "alternativPraeparat": "NAROPIN 2mg/ml Amp. 10ml Injektionslösung - Einreichungsnummer: 2137100",
     "datumErstmeldung": "2023-01-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00067843",
-      "00067866",
-      "00067872"
-    ],
-    "enr": [
-      "2158367"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-10-26",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-03-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxygesic akut 5 mg",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-10-26",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -6775,32 +6829,6 @@
   },
   {
     "pzn": [
-      "00000000",
-      "04751588",
-      "09424428"
-    ],
-    "enr": [
-      "2114031"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-20",
-    "datumEnde": "2023-04-10",
-    "datumLetzteMeldung": "2023-02-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxicillin AL TS",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "extremer Überverkauf",
-    "datumErstmeldung": "2022-12-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08527095",
       "08527103",
       "08857450"
@@ -6821,30 +6849,6 @@
     "mail": "info.teva-deutschland@teva.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-08-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09266722"
-    ],
-    "enr": [
-      "2174800"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-19",
-    "datumEnde": "2023-04-12",
-    "datumLetzteMeldung": "2023-02-20",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Amiodaron-hameln 50 mg/ml Konzentrat zur Herstellung einer Injektions- /Infusionslösung",
-    "atcCode": "C01BD01",
-    "wirkstoffe": "Amiodaronhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "hameln pharma gmbh",
-    "telefon": "00491607047311",
-    "mail": "stefan.bartsch@hameln-pharma.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Produktionsstau",
-    "datumErstmeldung": "2022-12-19",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -7742,34 +7746,6 @@
     "mail": "Service.De@glenmarkpharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-01-17",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "17275646",
-      "17275652",
-      "17275669",
-      "17275681",
-      "17275735"
-    ],
-    "enr": [
-      "2613978"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-03-08",
-    "datumEnde": "2023-04-03",
-    "datumLetzteMeldung": "2023-02-09",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Optiglobin 100 mg/ml",
-    "atcCode": "J06BA02",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Prothya Biosolutions Netherlands B.V.",
-    "telefon": "+31615045921",
-    "mail": "bjorn.vanderklugt@prothya.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Pink coloration of the product, observed in an additional color monitoring method.Update 09FEB2023: Other production issues, which have been identified and now resolved, had an impact on the amount of product available. Prothya is currently producing and working to supply its markets as soon as possible.",
-    "datumErstmeldung": "2022-03-23",
     "infoFachkreise": "Nein"
   },
   {
@@ -8888,6 +8864,29 @@
     "mail": "info_de@baxter.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-06-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03570956",
+      "12350372"
+    ],
+    "enr": [
+      "2111213"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2021-10-21",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-01-10",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Tamoxifen 20 Heumann",
+    "atcCode": "L02BA01",
+    "wirkstoffe": "Tamoxifencitrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2021-11-09",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -10333,56 +10332,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2022-10-05",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03773725",
-      "03773748",
-      "04957769"
-    ],
-    "enr": [
-      "2155533"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-09-15",
-    "datumEnde": "2023-03-30",
-    "datumLetzteMeldung": "2022-10-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Levocomp retard 200 mg/50 mg Retardtabletten",
-    "atcCode": "N04BA02",
-    "wirkstoffe": "Carbidopa-Monohydrat; Levodopa",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "0800-4392527",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2021-09-15",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02646350",
-      "02646373",
-      "04957752"
-    ],
-    "enr": [
-      "2155532"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-09-15",
-    "datumEnde": "2023-03-30",
-    "datumLetzteMeldung": "2022-10-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Levocomp retard 100 mg/25 mg Retardtabletten",
-    "atcCode": "N04BA02",
-    "wirkstoffe": "Carbidopa-Monohydrat; Levodopa",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "0800-4392527",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2021-09-15",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
