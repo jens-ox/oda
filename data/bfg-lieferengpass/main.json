@@ -1,6 +1,146 @@
 [
   {
     "pzn": [
+      "04044313",
+      "04044336",
+      "04044342"
+    ],
+    "enr": [
+      "2167358"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2023-04-14",
+    "datumLetzteMeldung": "2023-04-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05391784"
+    ],
+    "enr": [
+      "2167871"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-24",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-04-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Budesonid - 1 A Pharma 64 Mikrogramm/Sprühstoß Nasenspray, Suspension",
+    "atcCode": "R01AD05",
+    "wirkstoffe": "Budesonid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-03-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00178548",
+      "00178560",
+      "04841512",
+      "04841529"
+    ],
+    "enr": [
+      "2149019"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-20",
+    "datumEnde": "2023-04-28",
+    "datumLetzteMeldung": "2023-04-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefuroxim 500 mg - 1 A Pharma",
+    "atcCode": "J01DC02",
+    "wirkstoffe": "Cefuroximaxetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-12-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06489120"
+    ],
+    "enr": [
+      "2161443"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-30",
+    "datumEnde": "2023-04-21",
+    "datumLetzteMeldung": "2023-04-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "AmoxClav HEXAL i. v. 500/100 mg Pulver zur Herstellung einer Injektions- oder Infusionslösung",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Natrium; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Kapazitätsengpass",
+    "datumErstmeldung": "2023-01-30",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12671998"
+    ],
+    "enr": [
+      "2161445"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-30",
+    "datumEnde": "2023-04-11",
+    "datumLetzteMeldung": "2023-04-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "AmoxClav HEXAL i. v. 2000/200 mg Pulver zur Herstellung einer Infusionslösung",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Natrium; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Kapazitätsengpass",
+    "datumErstmeldung": "2023-02-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12672006"
+    ],
+    "enr": [
+      "2161444"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-30",
+    "datumEnde": "2023-06-16",
+    "datumLetzteMeldung": "2023-04-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "AmoxClav HEXAL i. v. 1000/200 mg Pulver zur Herstellung einer Injektions- oder Infusionslösung",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Natrium; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Kapazitätsengpass",
+    "datumErstmeldung": "2023-02-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "04790111"
     ],
     "enr": [
@@ -3363,29 +3503,6 @@
   },
   {
     "pzn": [
-      "05391784",
-      "05391790"
-    ],
-    "enr": [
-      "2167871"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-24",
-    "datumEnde": "2023-04-07",
-    "datumLetzteMeldung": "2023-03-24",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Budesonid - 1 A Pharma 64 Mikrogramm/Sprühstoß Nasenspray, Suspension",
-    "atcCode": "R01AD05",
-    "wirkstoffe": "Budesonid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-03-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03495752",
       "03847688"
     ],
@@ -5425,30 +5542,6 @@
     "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
     "mail": "edith.eigenberger@denkpharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-03-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04044313",
-      "04044336",
-      "04044342"
-    ],
-    "enr": [
-      "2167358"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-04-10",
-    "datumLetzteMeldung": "2023-03-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-06",
     "infoFachkreise": "Vorgesehen"
   },
@@ -7819,75 +7912,6 @@
   },
   {
     "pzn": [
-      "12671998"
-    ],
-    "enr": [
-      "2161445"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-12-30",
-    "datumEnde": "2023-04-07",
-    "datumLetzteMeldung": "2023-02-06",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "AmoxClav HEXAL i. v. 2000/200 mg Pulver zur Herstellung einer Infusionslösung",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Natrium; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Kapazitätsengpass",
-    "datumErstmeldung": "2023-02-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12672006"
-    ],
-    "enr": [
-      "2161444"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-12-30",
-    "datumEnde": "2023-04-07",
-    "datumLetzteMeldung": "2023-02-06",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "AmoxClav HEXAL i. v. 1000/200 mg Pulver zur Herstellung einer Injektions- oder Infusionslösung",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Natrium; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Kapazitätsengpass",
-    "datumErstmeldung": "2023-02-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06489120"
-    ],
-    "enr": [
-      "2161443"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-12-30",
-    "datumEnde": "2023-04-07",
-    "datumLetzteMeldung": "2023-02-06",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "AmoxClav HEXAL i. v. 500/100 mg Pulver zur Herstellung einer Injektions- oder Infusionslösung",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Natrium; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Kapazitätsengpass",
-    "datumErstmeldung": "2023-01-30",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03126500",
       "03126517"
     ],
@@ -9281,31 +9305,6 @@
     "grundAnmerkung": "Sehr stark eingeschränkte Lieferfähigkeit",
     "datumErstmeldung": "2022-12-28",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "00178548",
-      "00178560",
-      "04841512",
-      "04841529"
-    ],
-    "enr": [
-      "2149019"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-12-20",
-    "datumEnde": "2023-04-07",
-    "datumLetzteMeldung": "2022-12-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefuroxim 500 mg - 1 A Pharma",
-    "atcCode": "J01DC02",
-    "wirkstoffe": "Cefuroximaxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-12-23",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
