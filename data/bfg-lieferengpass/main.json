@@ -1,6 +1,177 @@
 [
   {
     "pzn": [
+      "11304915"
+    ],
+    "enr": [
+      "2711753"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-12",
+    "datumEnde": "2023-06-14",
+    "datumLetzteMeldung": "2023-04-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Saxenda 6 mg/ml Injektionslösung in Fertigpen - OP(3x3ml)",
+    "atcCode": "TERM_ID_NA_2090000841",
+    "wirkstoffe": "Liraglutid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
+    "datumErstmeldung": "2023-04-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15398528"
+    ],
+    "enr": [
+      "2714965"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-12",
+    "datumEnde": "2023-05-10",
+    "datumLetzteMeldung": "2023-04-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ozempic 0,25 mg Injektionslösung in einem Fertigpen - OP1,5 ml",
+    "atcCode": "A10BJ06",
+    "wirkstoffe": "Semaglutid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "61319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
+    "datumErstmeldung": "2023-04-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14362600"
+    ],
+    "enr": [
+      "2714975"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2023-05-03",
+    "datumLetzteMeldung": "2023-04-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tresiba 200 Einheiten/ml Injektionslösung in Fertigpen - OP(5x3ml)",
+    "atcCode": "A10AE06",
+    "wirkstoffe": "Insulin degludec",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15398557"
+    ],
+    "enr": [
+      "2714968"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-06",
+    "datumEnde": "2023-04-26",
+    "datumLetzteMeldung": "2023-04-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ozempic 1 mg Injektionslösung in einem Fertigpen - OP3ml",
+    "atcCode": "A10BJ06",
+    "wirkstoffe": "Semaglutid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "höhere Nachfrage als erwartet",
+    "datumErstmeldung": "2023-03-29",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "15398534"
+    ],
+    "enr": [
+      "2714966"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-01",
+    "datumEnde": "2023-04-26",
+    "datumLetzteMeldung": "2023-04-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP1,5 ml",
+    "atcCode": "A10BJ06",
+    "wirkstoffe": "Semaglutid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine höhere Nachfrage als erwartet",
+    "alternativPraeparat": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP(3x1,5ml) - Einreichungsnummer: 2714967",
+    "datumErstmeldung": "2023-03-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08535806",
+      "08535812",
+      "08535829"
+    ],
+    "enr": [
+      "2110772"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-14",
+    "datumEnde": "2023-05-05",
+    "datumLetzteMeldung": "2023-04-12",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Flunarizin acis 5 mg",
+    "atcCode": "N07CA03",
+    "wirkstoffe": "Flunarizindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "089  44 23 246  0",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-18",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06057202",
+      "06057219"
+    ],
+    "enr": [
+      "0812873"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-12",
+    "datumEnde": "2023-05-31",
+    "datumLetzteMeldung": "2023-04-12",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Metalcaptase 300 mg",
+    "atcCode": "M01CC01, TERM_ID_NA_2090010126, V03AB",
+    "wirkstoffe": "Penicillamin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "H e y l Chemisch-pharmazeutische Fabrik GmbH & Co. KG",
+    "telefon": "030 816960",
+    "mail": "info@heyl-berlin.de",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundAnmerkung": "Auf Grund der zuletzt vorliegenden, längeren Lieferunfähigkeit wurde die im Dezember freigebende Ware innerhalb kürzester Zeit abverkauft",
+    "datumErstmeldung": "2023-01-12",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "09068927",
       "09068933",
       "09068956"
@@ -1253,30 +1424,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
     "alternativPraeparat": "NovoRapid PumpCart 100 E/ml Injektionslösung in Patrone - OP[25x(5x1,6ml)] - Einreichungsnummer: 2712151",
-    "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14362600"
-    ],
-    "enr": [
-      "2714975"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-05",
-    "datumEnde": "2023-04-19",
-    "datumLetzteMeldung": "2023-04-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Tresiba 200 Einheiten/ml Injektionslösung in Fertigpen - OP(5x3ml)",
-    "atcCode": "A10AE06",
-    "wirkstoffe": "Insulin degludec",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
     "datumErstmeldung": "2023-04-05",
     "infoFachkreise": "Vorgesehen"
   },
@@ -2878,28 +3025,6 @@
   },
   {
     "pzn": [
-      "03633154"
-    ],
-    "enr": [
-      "2126420"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-23",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-03-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sandimmun 100 mg Weichkapseln",
-    "atcCode": "L04AD01",
-    "wirkstoffe": "Ciclosporin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novartis Pharma GmbH",
-    "mail": "infoservice.novartis@novartis.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-01-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "07428764"
     ],
     "enr": [
@@ -3324,30 +3449,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-02-06",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15398557"
-    ],
-    "enr": [
-      "2714968"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-06",
-    "datumEnde": "2023-04-17",
-    "datumLetzteMeldung": "2023-03-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ozempic 1 mg Injektionslösung in einem Fertigpen - OP3ml",
-    "atcCode": "A10BJ06",
-    "wirkstoffe": "Semaglutid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "höhere Nachfrage als erwartet",
-    "datumErstmeldung": "2023-03-29",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
@@ -6091,31 +6192,6 @@
   },
   {
     "pzn": [
-      "15398534"
-    ],
-    "enr": [
-      "2714966"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-01",
-    "datumEnde": "2023-04-15",
-    "datumLetzteMeldung": "2023-03-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP1,5 ml",
-    "atcCode": "A10BJ06",
-    "wirkstoffe": "Semaglutid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine höhere Nachfrage als erwartet",
-    "alternativPraeparat": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP(3x1,5ml) - Einreichungsnummer: 2714967",
-    "datumErstmeldung": "2023-03-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04191818"
     ],
     "enr": [
@@ -6136,30 +6212,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-03-01",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "04599382"
-    ],
-    "enr": [
-      "2141453"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-09",
-    "datumEnde": "2023-04-12",
-    "datumLetzteMeldung": "2023-03-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cordarex Injektionslösung",
-    "atcCode": "C01BD01",
-    "wirkstoffe": "Amiodaronhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Die erhöhte Nachfrage kann nicht bedient werden.",
-    "datumErstmeldung": "2023-01-11",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -7355,31 +7407,6 @@
   },
   {
     "pzn": [
-      "06057202",
-      "06057219"
-    ],
-    "enr": [
-      "0812873"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-12",
-    "datumEnde": "2023-04-15",
-    "datumLetzteMeldung": "2023-02-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Metalcaptase 300 mg",
-    "atcCode": "M01CC01, TERM_ID_NA_2090010126, V03AB",
-    "wirkstoffe": "Penicillamin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "H e y l Chemisch-pharmazeutische Fabrik GmbH & Co. KG",
-    "telefon": "030 816960",
-    "mail": "info@heyl-berlin.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Auf Grund der zuletzt vorliegenden, längeren Lieferunfähigkeit wurde die im Dezember freigebende Ware innerhalb kürzester Zeit abverkauft",
-    "datumErstmeldung": "2023-01-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "06312031"
     ],
     "enr": [
@@ -7537,31 +7564,6 @@
     "mail": "michaela.kunze@elpen-pharma.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-03-22",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08535806",
-      "08535812",
-      "08535829"
-    ],
-    "enr": [
-      "2110772"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-14",
-    "datumEnde": "2023-04-14",
-    "datumLetzteMeldung": "2023-02-14",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Flunarizin acis 5 mg",
-    "atcCode": "N07CA03",
-    "wirkstoffe": "Flunarizindihydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "acis Arzneimittel GmbH",
-    "telefon": "089  44 23 246  0",
-    "mail": "Medwiss.Acis@dermapharm.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-18",
     "infoFachkreise": "Nein"
   },
   {
