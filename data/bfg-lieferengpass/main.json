@@ -1,6 +1,122 @@
 [
   {
     "pzn": [
+      "03820301",
+      "06154922"
+    ],
+    "enr": [
+      "2114901"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-10-01",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-04-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cephalex-CT 500mg Filmtabletten",
+    "atcCode": "J01DB01",
+    "wirkstoffe": "Cefalexin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "mail": "info@abz.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03820324",
+      "06154626"
+    ],
+    "enr": [
+      "2114902"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-01",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-04-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cephalex-CT 1000mg Filmtabletten",
+    "atcCode": "J01DB01",
+    "wirkstoffe": "Cefalexin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "mail": "info@abz.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03574204",
+      "03574210"
+    ],
+    "enr": [
+      "2109216"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-01",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-04-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cephalexin-ratiopharm 1000 mg Filmtabletten",
+    "atcCode": "J01DB01",
+    "wirkstoffe": "Cefalexin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03574173",
+      "03574196"
+    ],
+    "enr": [
+      "2109215"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-01",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-04-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cephalexin-ratiopharm 500 mg Filmtabletten",
+    "atcCode": "J01DB01",
+    "wirkstoffe": "Cefalexin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03525921",
+      "99999999"
+    ],
+    "enr": [
+      "2103726"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2020-03-01",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-04-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxicillin-ratiopharm 250mg/5ml TS",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0800 10 117 07",
+    "mail": "info@ratiopharm.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2020-03-26",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "11304915"
     ],
     "enr": [
@@ -1734,29 +1850,6 @@
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "alternativPraeparat": "Dexa 8mg inject JENAPHARM - Einreichungsnummer: 2138321",
-    "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04004377"
-    ],
-    "enr": [
-      "3000410"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-31",
-    "datumEnde": "2023-05-05",
-    "datumLetzteMeldung": "2023-04-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Bupivacain 0,5 % mit Epinephrin 0,0005 % (1:200 000) JENAPHARM",
-    "atcCode": "N01B",
-    "wirkstoffe": "Bupivacainhydrochlorid (Ph.Eur.); Epinephrinhydrogentartrat/Adrenalinhydrogentartrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-04-05",
     "infoFachkreise": "Nein"
   },
@@ -4978,30 +5071,6 @@
   },
   {
     "pzn": [
-      "00676424"
-    ],
-    "enr": [
-      "2142998"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-09",
-    "datumEnde": "2023-05-19",
-    "datumLetzteMeldung": "2023-03-14",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Xylocitin-loc 2 % 2 ml",
-    "atcCode": "N01BB02",
-    "wirkstoffe": "Lidocainhydrochlorid-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Xylocitin-loc 2 % 2 ml - Einreichungsnummer: 2142998",
-    "datumErstmeldung": "2023-03-14",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "02804926"
     ],
     "enr": [
@@ -6470,29 +6539,6 @@
     "grundAnmerkung": "Unvorhergesehene Verzögerungen bei der Herstellung des Fertigproduktes aufgrund von nicht Verfügbarkeit der PVC-Folie, die Bestandteil des Blisters ist.",
     "alternativPraeparat": "Narcaricin mite - Einreichungsnummer: 2100325",
     "datumErstmeldung": "2022-11-22",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00081990"
-    ],
-    "enr": [
-      "2100487"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-24",
-    "datumEnde": "2023-04-19",
-    "datumLetzteMeldung": "2023-02-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fortecortin Inject 100 mg Injektionslösung in einer Ampulle Fortecortin Inject 100 mg Injektionslösung in einer Fertigspritze",
-    "atcCode": "H02AB02",
-    "wirkstoffe": "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Merck Healthcare Germany GmbH",
-    "telefon": "08004288373",
-    "mail": "service@merckgroup.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-27",
     "infoFachkreise": "Nein"
   },
   {
@@ -9505,98 +9551,6 @@
   },
   {
     "pzn": [
-      "03820324",
-      "06154626"
-    ],
-    "enr": [
-      "2114902"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-08-01",
-    "datumEnde": "2023-04-03",
-    "datumLetzteMeldung": "2022-12-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cephalex-CT 1000mg Filmtabletten",
-    "atcCode": "J01DB01",
-    "wirkstoffe": "Cefalexin-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "mail": "infoa@abz.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-12",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03820301",
-      "06154922"
-    ],
-    "enr": [
-      "2114901"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-10-01",
-    "datumEnde": "2023-04-03",
-    "datumLetzteMeldung": "2022-12-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cephalex-CT 500mg Filmtabletten",
-    "atcCode": "J01DB01",
-    "wirkstoffe": "Cefalexin-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "mail": "info@abz.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-12",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03574204",
-      "03574210"
-    ],
-    "enr": [
-      "2109216"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-08-01",
-    "datumEnde": "2023-04-03",
-    "datumLetzteMeldung": "2022-12-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cephalexin-ratiopharm 1000 mg Filmtabletten",
-    "atcCode": "J01DB01",
-    "wirkstoffe": "Cefalexin-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-12",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03574173",
-      "03574196"
-    ],
-    "enr": [
-      "2109215"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-09-01",
-    "datumEnde": "2023-04-03",
-    "datumLetzteMeldung": "2022-12-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cephalexin-ratiopharm 500 mg Filmtabletten",
-    "atcCode": "J01DB01",
-    "wirkstoffe": "Cefalexin-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-12",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00000000",
       "00505007",
       "02514766"
@@ -10500,30 +10454,6 @@
     "grund": "Herstellerwechsel",
     "datumErstmeldung": "2022-08-16",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03525921",
-      "99999999"
-    ],
-    "enr": [
-      "2103726"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2020-03-01",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2022-08-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxicillin-ratiopharm 250mg/5ml TS",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "0800 10 117 07",
-    "mail": "info@ratiopharm.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2020-03-26",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
