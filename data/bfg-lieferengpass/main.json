@@ -1,6 +1,358 @@
 [
   {
     "pzn": [
+      "04678503",
+      "07130987"
+    ],
+    "enr": [
+      "2125157"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-21",
+    "datumEnde": "2023-07-28",
+    "datumLetzteMeldung": "2023-04-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Zithromax Trockensaft",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Die 15 ml Flasche ist seit 01.02.2023 wieder verfügbar. Der Lieferengpaß wird aufrechterhalten, da die 30 ml Flasche weiterhin lieferunfähig ist und der Bedarf nicht abgedeckt werden kann.Update 17.04.2023: Löschung der techn. Änderungsmeldung für die 15 ml Flasche. Der Lieferengpass wurde in die Meldung LE2023001520 integriert, beide PG sind voraussichtl. bis 28.07.23 lieferunfähig  siehe LE2023001520.",
+    "datumErstmeldung": "2022-12-21"
+  },
+  {
+    "pzn": [
+      "02012929",
+      "02012935"
+    ],
+    "enr": [
+      "2104036"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-17",
+    "datumEnde": "2023-06-09",
+    "datumLetzteMeldung": "2023-04-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Frisium 10mg",
+    "atcCode": "N05BA09",
+    "wirkstoffe": "Clobazam",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "0800 52 52 010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Eingeschränkte Lieferfähigkeit",
+    "alternativPraeparat": "Frisium 20mg Tabs - Einreichungsnummer: 2104038",
+    "datumErstmeldung": "2023-04-17",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11309410"
+    ],
+    "enr": [
+      "2613975"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-15",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-04-17",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atgam",
+    "atcCode": "L04AA03",
+    "wirkstoffe": "Anti-Human-T-Zell-Lymphozytenglobulin vom Pferd",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-04-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07605953"
+    ],
+    "enr": [
+      "2136544"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-17",
+    "datumEnde": "2023-07-01",
+    "datumLetzteMeldung": "2023-04-17",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Furosemid-ratiopharm 40 mg/4 ml Injektionslösung",
+    "atcCode": "C03CA01",
+    "wirkstoffe": "Furosemid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0731 402 7028",
+    "mail": "Julian.Simon@teva.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-04-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03930432"
+    ],
+    "enr": [
+      "2156594"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-12",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-04-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxygesic 5 mg",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-09-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07298391"
+    ],
+    "enr": [
+      "0614765"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-28",
+    "datumEnde": "2023-05-22",
+    "datumLetzteMeldung": "2023-04-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectotrimet 100 Saft",
+    "atcCode": "J01EA01",
+    "wirkstoffe": "Trimethoprim",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-04",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01479542"
+    ],
+    "enr": [
+      "2105941"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-17",
+    "datumEnde": "2023-07-01",
+    "datumLetzteMeldung": "2023-04-17",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Furosemid-ratiopharm 250 mg/25 ml Infusionslösung",
+    "atcCode": "C03CA01",
+    "wirkstoffe": "Furosemid-Natrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0731 402 7028",
+    "mail": "Julian.Simon@teva.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-04-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01107213",
+      "03977445",
+      "07507110"
+    ],
+    "enr": [
+      "0610075"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-14",
+    "datumEnde": "2023-05-08",
+    "datumLetzteMeldung": "2023-04-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 400 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252-95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17550609"
+    ],
+    "enr": [
+      "0030716"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-05-19",
+    "datumEnde": "2023-05-15",
+    "datumLetzteMeldung": "2023-04-17",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Cotrim K-ratiopharm 200 mg/5 ml + 40 mg/5 ml Suspension zum Einnehmen",
+    "atcCode": "J01EE01",
+    "wirkstoffe": "Sulfamethoxazol; Trimethoprim",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0731 4027028",
+    "mail": "Julian.Simon@teva.de",
+    "grund": "Probleme bei der Chargenprüfung",
+    "datumErstmeldung": "2022-05-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02036640"
+    ],
+    "enr": [
+      "0614452"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-17",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-04-17",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ampicillin-ratiopharm 5,0g",
+    "atcCode": "J01CA01",
+    "wirkstoffe": "Ampicillin-Natrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0731 402 7028",
+    "mail": "Julian.Simon@teva.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-04-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02036634"
+    ],
+    "enr": [
+      "0613441"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-02",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-04-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ampicillin-ratiopharm 2,0g",
+    "atcCode": "J01CA01",
+    "wirkstoffe": "Ampicillin-Natrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0731 402 7028",
+    "mail": "Julian.Simon@teva.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-01-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03750291"
+    ],
+    "enr": [
+      "0820714"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-06",
+    "datumEnde": "2023-04-24",
+    "datumLetzteMeldung": "2023-04-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 200 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252957000",
+    "mail": "shortages@infectpharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-06",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01356271"
+    ],
+    "enr": [
+      "2132826"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-15",
+    "datumEnde": "2023-05-08",
+    "datumLetzteMeldung": "2023-04-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocef 250 Saft",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252-95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11285833",
+      "11285856"
+    ],
+    "enr": [
+      "2160410"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-15",
+    "datumEnde": "2023-07-03",
+    "datumLetzteMeldung": "2023-04-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOOPTICEF Saft 100 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01DD08",
+    "wirkstoffe": "Cefixim (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252957000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08776071",
+      "08776088"
+    ],
+    "enr": [
+      "2102842"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-06",
+    "datumEnde": "2023-05-02",
+    "datumLetzteMeldung": "2023-04-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Grüncef 500 mg/5ml Trockensaft",
+    "atcCode": "J01DB05",
+    "wirkstoffe": "Cefadroxil-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252957000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-06",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "08859897"
     ],
     "enr": [
@@ -723,31 +1075,6 @@
   },
   {
     "pzn": [
-      "01107213",
-      "03977445",
-      "07507110"
-    ],
-    "enr": [
-      "0610075"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-14",
-    "datumEnde": "2023-04-18",
-    "datumLetzteMeldung": "2023-04-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 400 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252-95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00612341",
       "00614096",
       "00615380"
@@ -768,29 +1095,6 @@
     "mail": "info@aristo-pharma.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-24",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03750291"
-    ],
-    "enr": [
-      "0820714"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-06",
-    "datumEnde": "2023-04-18",
-    "datumLetzteMeldung": "2023-04-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 200 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252957000",
-    "mail": "shortages@infectpharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-06",
     "infoFachkreise": "Nein"
   },
   {
@@ -1453,52 +1757,6 @@
     "mail": "PatientSafetyRoW@indivior.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-03-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16512593"
-    ],
-    "enr": [
-      "2715891"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-03",
-    "datumEnde": "2023-04-12",
-    "datumLetzteMeldung": "2023-04-06",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Suboxone 2 mg/0,5 mg Schmelzfilm zur sublingualen Anwendung",
-    "atcCode": "N07BC51",
-    "wirkstoffe": "Buprenorphinhydrochlorid; Naloxonhydrochlorid-Dihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-03-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16512618"
-    ],
-    "enr": [
-      "2715897"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-07",
-    "datumEnde": "2023-04-12",
-    "datumLetzteMeldung": "2023-04-06",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Suboxone 8 mg/2 mg Sublingualfilm",
-    "atcCode": "N07BC51",
-    "wirkstoffe": "Buprenorphinhydrochlorid; Naloxonhydrochlorid-Dihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-03-29",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2202,29 +2460,6 @@
   },
   {
     "pzn": [
-      "07298391"
-    ],
-    "enr": [
-      "0614765"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-28",
-    "datumEnde": "2023-04-21",
-    "datumLetzteMeldung": "2023-04-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectotrimet 100 Saft",
-    "atcCode": "J01EA01",
-    "wirkstoffe": "Trimethoprim",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-04-04",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "06092641",
       "06092658"
     ],
@@ -2292,30 +2527,6 @@
     "mail": "shortages@infectopharm.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08776071",
-      "08776088"
-    ],
-    "enr": [
-      "2102842"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-06",
-    "datumEnde": "2023-04-17",
-    "datumLetzteMeldung": "2023-04-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Grüncef 500 mg/5ml Trockensaft",
-    "atcCode": "J01DB05",
-    "wirkstoffe": "Cefadroxil-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252957000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-06",
     "infoFachkreise": "Nein"
   },
   {
@@ -2969,32 +3180,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-06-29",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03751706",
-      "03751712",
-      "08456774"
-    ],
-    "enr": [
-      "2110057"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-06-01",
-    "datumEnde": "2023-04-14",
-    "datumLetzteMeldung": "2023-03-31",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Unacid PD oral",
-    "atcCode": "J01CR04",
-    "wirkstoffe": "Sultamicillintosilat-Dihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49(0)30/550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Herstellerwechsel",
-    "alternativPraeparat": "Sultamicillin-ratiopharm 375 mg Filmtabletten - Einreichungsnummer: 2176292",
-    "datumErstmeldung": "2022-06-02",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -4079,29 +4264,6 @@
   },
   {
     "pzn": [
-      "01356271"
-    ],
-    "enr": [
-      "2132826"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-15",
-    "datumEnde": "2023-04-17",
-    "datumLetzteMeldung": "2023-03-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocef 250 Saft",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252-95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "03204424"
     ],
     "enr": [
@@ -4736,32 +4898,6 @@
     "mail": "shortages@infectopharm.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04678503",
-      "07130987"
-    ],
-    "enr": [
-      "2125157"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-21",
-    "datumEnde": "2023-04-14",
-    "datumLetzteMeldung": "2023-03-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Zithromax Trockensaft",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Die 15 ml Flasche ist seit 01.02.2023 wieder verfügbar. Der Lieferengpaß wird aufrechterhalten, da die 30 ml Flasche weiterhin lieferunfähig ist und der Bedarf nicht abgedeckt werden kann.Update 20.03.2023: Die 15 ml Flasche ist seit 17.03.2023 auch wieder lieferunfähig aufgrund anhaltender Nachfrage und bestehender Lieferunfähigkeit der 30 ml Flasche und wird deshalb wieder in die bestehende Meldung integriert.",
-    "alternativPraeparat": "Azithromycin-ratiopharm 200mg/5ml Pulver zur Herstellung einer Suspension zum Einnehmen - Einreichungsnummer: 2159606",
-    "datumErstmeldung": "2022-12-21",
     "infoFachkreise": "Nein"
   },
   {
@@ -5557,29 +5693,6 @@
     "grund": "Probleme beim Sonstigen Hersteller",
     "datumErstmeldung": "2023-03-13",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02036634"
-    ],
-    "enr": [
-      "0613441"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-02",
-    "datumEnde": "2023-05-15",
-    "datumLetzteMeldung": "2023-03-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ampicillin-ratiopharm 2,0g",
-    "atcCode": "J01CA01",
-    "wirkstoffe": "Ampicillin-Natrium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "0731 402 7028",
-    "mail": "Julian.Simon@teva.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-01-02",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -6512,29 +6625,6 @@
   },
   {
     "pzn": [
-      "03930432",
-      "03930455"
-    ],
-    "enr": [
-      "2156594"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-12",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-03-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxygesic 5 mg",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-09-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03247994"
     ],
     "enr": [
@@ -6559,32 +6649,6 @@
   },
   {
     "pzn": [
-      "09757957",
-      "11296914"
-    ],
-    "enr": [
-      "2100325"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-21",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-02-27",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Narcaricin mite",
-    "atcCode": "M04AB03",
-    "wirkstoffe": "Benzbromaron",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Sano Arzneimittelfabrik GmbH",
-    "telefon": "+49 (0) 89 458 142 36",
-    "mail": "regaffairs@cso-pharma.eu",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Unvorhergesehene Verzögerungen bei der Herstellung des Fertigproduktes aufgrund von nicht Verfügbarkeit der PVC-Folie, die Bestandteil des Blisters ist.",
-    "alternativPraeparat": "Narcaricin mite - Einreichungsnummer: 2100325",
-    "datumErstmeldung": "2022-11-22",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "06305798",
       "06305806"
     ],
@@ -6606,30 +6670,6 @@
     "grund": "Sonstige",
     "grundAnmerkung": "Eingeschränkte Lieferfähigkeit. Alternativen: Valproat Chrono Winthrop® 300mg (PZN 00999110, 00999127) oder wirkstoffgleiche Präparate von Mitbewerbern.",
     "datumErstmeldung": "2022-11-25",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11285833",
-      "11285856"
-    ],
-    "enr": [
-      "2160410"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-15",
-    "datumEnde": "2023-07-03",
-    "datumLetzteMeldung": "2023-02-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOOPTICEF Saft 100 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DD08",
-    "wirkstoffe": "Cefixim (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252957000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-20",
     "infoFachkreise": "Nein"
   },
   {
@@ -10403,52 +10443,6 @@
     "mail": "Julian.Simon@teva.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-08-18",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17550609"
-    ],
-    "enr": [
-      "0030716"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-05-19",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2022-08-18",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Cotrim K-ratiopharm 200 mg/5 ml + 40 mg/5 ml Suspension zum Einnehmen",
-    "atcCode": "J01EE01",
-    "wirkstoffe": "Sulfamethoxazol; Trimethoprim",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "0731 4027028",
-    "mail": "Julian.Simon@teva.de",
-    "grund": "Probleme bei der Chargenprüfung",
-    "datumErstmeldung": "2022-05-19",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17550590"
-    ],
-    "enr": [
-      "0030691"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-05-19",
-    "datumEnde": "2023-03-31",
-    "datumLetzteMeldung": "2022-08-18",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Cotrim E-ratiopharm 400 mg/5 ml + 80 mg/5 ml Suspension zum Einnehmen",
-    "atcCode": "J01EE01",
-    "wirkstoffe": "Sulfamethoxazol; Trimethoprim",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "0731 402 7028",
-    "mail": "Julian.Simon@teva.de",
-    "grund": "Probleme bei der Chargenprüfung",
-    "datumErstmeldung": "2022-05-19",
     "infoFachkreise": "Vorgesehen"
   },
   {
