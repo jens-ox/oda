@@ -1,6 +1,129 @@
 [
   {
     "pzn": [
+      "02068551",
+      "02068568"
+    ],
+    "enr": [
+      "2152912"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-02-03",
+    "datumEnde": "2023-04-28",
+    "datumLetzteMeldung": "2023-04-20",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Laif 900",
+    "atcCode": "N06AX25",
+    "wirkstoffe": "Johanniskraut, TE mit Ethanol/Ethanol-Wasser (%-Angaben)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Bayer Vital GmbH",
+    "mail": "ulrike.vonhaslingen@bayer.com",
+    "grund": "Probleme bei der Chargenprüfung",
+    "datumErstmeldung": "2023-04-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03277653"
+    ],
+    "enr": [
+      "2706025"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-01",
+    "datumEnde": "2023-06-14",
+    "datumLetzteMeldung": "2023-04-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Victoza 6 mg/ml Injektionslösung in Fertigpen - OP(5x3ml)",
+    "atcCode": "TERM_ID_NA_2090000841",
+    "wirkstoffe": "Liraglutid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
+    "alternativPraeparat": "Victoza 6 mg/ml Injektionslösung in Fertigpen - OP(10x3ml) - Einreichungsnummer: 2706026",
+    "datumErstmeldung": "2023-04-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00497199"
+    ],
+    "enr": [
+      "2136212"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-24",
+    "datumEnde": "2023-06-15",
+    "datumLetzteMeldung": "2023-04-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ciprobay Saft 5 %",
+    "atcCode": "J01MA02",
+    "wirkstoffe": "Ciprofloxacin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bayer Vital GmbH",
+    "telefon": "0800 6422937",
+    "mail": "medical-information@bayer.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "05459424",
+      "05459430"
+    ],
+    "enr": [
+      "2178466"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-21",
+    "datumEnde": "2023-04-30",
+    "datumLetzteMeldung": "2023-04-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Norditropin FlexPro 15 mg/1,5 ml Injektionslösung in einem Fertigpen",
+    "atcCode": "H01AC01",
+    "wirkstoffe": "Somatropin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine höhere Nachfrage als erwartet",
+    "datumErstmeldung": "2023-03-21",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "07020342",
+      "07020394",
+      "07072439",
+      "07072445",
+      "15895741"
+    ],
+    "enr": [
+      "2155983"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-24",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-04-20",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Benda-5 FU",
+    "atcCode": "L01BC02",
+    "wirkstoffe": "Fluorouracil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bendalis GmbH",
+    "telefon": "089 45 08 08 78 72",
+    "mail": "sales@bendalis.com",
+    "grund": "Probleme bei der Chargenprüfung",
+    "datumErstmeldung": "2023-04-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "07392641"
     ],
     "enr": [
@@ -936,30 +1059,6 @@
     "alternativPraeparat": "Fiasp - Einreichungsnummer: 7001469",
     "datumErstmeldung": "2023-04-05",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04678503",
-      "07130987"
-    ],
-    "enr": [
-      "2125157"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-21",
-    "datumEnde": "2023-07-28",
-    "datumLetzteMeldung": "2023-04-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Zithromax Trockensaft",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Die 15 ml Flasche ist seit 01.02.2023 wieder verfügbar. Der Lieferengpaß wird aufrechterhalten, da die 30 ml Flasche weiterhin lieferunfähig ist und der Bedarf nicht abgedeckt werden kann.Update 17.04.2023: Löschung der techn. Änderungsmeldung für die 15 ml Flasche. Der Lieferengpass wurde in die Meldung LE2023001520 integriert, beide PG sind voraussichtl. bis 28.07.23 lieferunfähig  siehe LE2023001520.",
-    "datumErstmeldung": "2022-12-21"
   },
   {
     "pzn": [
@@ -2570,7 +2669,7 @@
     "atcCode": "J06BA02",
     "wirkstoffe": "Immunglobulin G vom Menschen",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Sanquin Plasma Products B.V.",
+    "zulassungsinhaber": "Prothya Biosolutions Netherlands B.V.",
     "telefon": "+31615045921",
     "mail": "bjorn.vanderklugt@prothya.com",
     "grund": "Probleme in der Herstellung",
@@ -5526,31 +5625,6 @@
   },
   {
     "pzn": [
-      "05459424",
-      "05459430"
-    ],
-    "enr": [
-      "2178466"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-21",
-    "datumEnde": "2023-04-17",
-    "datumLetzteMeldung": "2023-03-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Norditropin FlexPro 15 mg/1,5 ml Injektionslösung in einem Fertigpen",
-    "atcCode": "H01AC01",
-    "wirkstoffe": "Somatropin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine höhere Nachfrage als erwartet",
-    "datumErstmeldung": "2023-03-21",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
       "06648311"
     ],
     "enr": [
@@ -5570,6 +5644,32 @@
     "mail": "shortages@infectopharm.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04678503",
+      "07130987"
+    ],
+    "enr": [
+      "2125157"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-21",
+    "datumEnde": "2023-04-14",
+    "datumLetzteMeldung": "2023-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Zithromax Trockensaft",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Die 15 ml Flasche ist seit 01.02.2023 wieder verfügbar. Der Lieferengpaß wird aufrechterhalten, da die 30 ml Flasche weiterhin lieferunfähig ist und der Bedarf nicht abgedeckt werden kann.Update 20.03.2023: Die 15 ml Flasche ist seit 17.03.2023 auch wieder lieferunfähig aufgrund anhaltender Nachfrage und bestehender Lieferunfähigkeit der 30 ml Flasche und wird deshalb wieder in die bestehende Meldung integriert.",
+    "alternativPraeparat": "Azithromycin-ratiopharm 200mg/5ml Pulver zur Herstellung einer Suspension zum Einnehmen - Einreichungsnummer: 2159606",
+    "datumErstmeldung": "2022-12-21",
     "infoFachkreise": "Nein"
   },
   {
