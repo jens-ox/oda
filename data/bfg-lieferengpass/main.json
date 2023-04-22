@@ -1,6 +1,191 @@
 [
   {
     "pzn": [
+      "04954067"
+    ],
+    "enr": [
+      "2151100"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-23",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-04-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cipro-1 A Pharma 100mg",
+    "atcCode": "J01MA02",
+    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00350349",
+      "00460888"
+    ],
+    "enr": [
+      "2158919"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-06",
+    "datumEnde": "2023-06-09",
+    "datumLetzteMeldung": "2023-04-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "AmoxiClav 400/57 TS-1A Pharma",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "telefon": "089/61388250",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-09-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02727858",
+      "03005021"
+    ],
+    "enr": [
+      "2164074"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-15",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-04-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefpodoxim - 1 A Pharma 40 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01DD13",
+    "wirkstoffe": "Cefpodoximproxetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-12-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00829425",
+      "00829431",
+      "00832485"
+    ],
+    "enr": [
+      "2164573"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-15",
+    "datumEnde": "2023-07-21",
+    "datumLetzteMeldung": "2023-04-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefpodoxim HEXAL 40 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01DD13",
+    "wirkstoffe": "Cefpodoximproxetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-12-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09465953"
+    ],
+    "enr": [
+      "2706424"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-14",
+    "datumEnde": "2023-05-26",
+    "datumLetzteMeldung": "2023-04-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Olanzapin Glenmark 7,5 mg Tabletten - OP28",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "service.de@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "10417758"
+    ],
+    "enr": [
+      "2711919"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-14",
+    "datumEnde": "2023-06-02",
+    "datumLetzteMeldung": "2023-04-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Olanzapin Glenmark 20 mg Tabletten - OP70",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "service.de@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11130651"
+    ],
+    "enr": [
+      "2706428"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-14",
+    "datumEnde": "2023-06-02",
+    "datumLetzteMeldung": "2023-04-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Olanzapin Glenmark 10 mg Tabletten - OP56",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "service.de@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16155472"
+    ],
+    "enr": [
+      "2716086"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-20",
+    "datumEnde": "2023-07-10",
+    "datumLetzteMeldung": "2023-04-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Xarelto 1 mg/ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "B01AF01",
+    "wirkstoffe": "Rivaroxaban",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bayer Aktiengesellschaft - Geschäftsanschrift -",
+    "telefon": "0800 6422937",
+    "mail": "medical-information@bayer.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "02068551",
       "02068568"
     ],
@@ -94,33 +279,6 @@
     "grundAnmerkung": "Lieferverzögerung durch eine höhere Nachfrage als erwartet",
     "datumErstmeldung": "2023-03-21",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "07020342",
-      "07020394",
-      "07072439",
-      "07072445",
-      "15895741"
-    ],
-    "enr": [
-      "2155983"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-24",
-    "datumEnde": "2023-07-31",
-    "datumLetzteMeldung": "2023-04-20",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Benda-5 FU",
-    "atcCode": "L01BC02",
-    "wirkstoffe": "Fluorouracil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bendalis GmbH",
-    "telefon": "089 45 08 08 78 72",
-    "mail": "sales@bendalis.com",
-    "grund": "Probleme bei der Chargenprüfung",
-    "datumErstmeldung": "2023-04-20",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -831,30 +989,6 @@
   },
   {
     "pzn": [
-      "00829425",
-      "00829431",
-      "00832485"
-    ],
-    "enr": [
-      "2164573"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-15",
-    "datumEnde": "2023-04-21",
-    "datumLetzteMeldung": "2023-04-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefpodoxim HEXAL 40 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DD13",
-    "wirkstoffe": "Cefpodoximproxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-12-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01624524",
       "01624530"
     ],
@@ -874,28 +1008,6 @@
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08480910"
-    ],
-    "enr": [
-      "2177711"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-08",
-    "datumEnde": "2023-04-21",
-    "datumLetzteMeldung": "2023-04-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ibandronsäure HEXAL 3 mg/3 ml Injektionslösung",
-    "atcCode": "M05BA06",
-    "wirkstoffe": "Mononatriumibandronat 1 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-08",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2421,30 +2533,6 @@
   },
   {
     "pzn": [
-      "02727858",
-      "03005021",
-      "07385428"
-    ],
-    "enr": [
-      "2164074"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-15",
-    "datumEnde": "2023-04-21",
-    "datumLetzteMeldung": "2023-04-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefpodoxim - 1 A Pharma 40 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DD13",
-    "wirkstoffe": "Cefpodoximproxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-12-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00544697"
     ],
     "enr": [
@@ -2511,29 +2599,6 @@
     "mail": "info@1apharma.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-12-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06489120"
-    ],
-    "enr": [
-      "2161443"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-30",
-    "datumEnde": "2023-04-21",
-    "datumLetzteMeldung": "2023-04-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "AmoxClav HEXAL i. v. 500/100 mg Pulver zur Herstellung einer Injektions- oder Infusionslösung",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Natrium; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Kapazitätsengpass",
-    "datumErstmeldung": "2023-01-30",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -4143,28 +4208,6 @@
   },
   {
     "pzn": [
-      "04954067"
-    ],
-    "enr": [
-      "2151100"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-23",
-    "datumEnde": "2023-04-21",
-    "datumLetzteMeldung": "2023-03-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cipro-1 A Pharma 100mg",
-    "atcCode": "J01MA02",
-    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08523832"
     ],
     "enr": [
@@ -5648,32 +5691,6 @@
   },
   {
     "pzn": [
-      "04678503",
-      "07130987"
-    ],
-    "enr": [
-      "2125157"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-21",
-    "datumEnde": "2023-04-14",
-    "datumLetzteMeldung": "2023-03-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Zithromax Trockensaft",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Die 15 ml Flasche ist seit 01.02.2023 wieder verfügbar. Der Lieferengpaß wird aufrechterhalten, da die 30 ml Flasche weiterhin lieferunfähig ist und der Bedarf nicht abgedeckt werden kann.Update 20.03.2023: Die 15 ml Flasche ist seit 17.03.2023 auch wieder lieferunfähig aufgrund anhaltender Nachfrage und bestehender Lieferunfähigkeit der 30 ml Flasche und wird deshalb wieder in die bestehende Meldung integriert.",
-    "alternativPraeparat": "Azithromycin-ratiopharm 200mg/5ml Pulver zur Herstellung einer Suspension zum Einnehmen - Einreichungsnummer: 2159606",
-    "datumErstmeldung": "2022-12-21",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01137907"
     ],
     "enr": [
@@ -6419,6 +6436,33 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-03-08",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "04678503",
+      "07130987"
+    ],
+    "enr": [
+      "2125157"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-21",
+    "datumEnde": "2023-04-14",
+    "datumLetzteMeldung": "2023-03-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Zithromax Trockensaft",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Die 15 ml Flasche ist seit 01.02.2023 wieder verfügbar. Der Lieferengpaß wird aufrechterhalten, da die 30 ml Flasche weiterhin lieferunfähig ist und der Bedarf nicht abgedeckt werden kann.",
+    "alternativPraeparat": "Azithromycin-ratiopharm 200mg/5ml Pulver zur Herstellung einer Suspension zum Einnehmen - Einreichungsnummer: 2159606",
+    "datumErstmeldung": "2022-12-21",
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -8651,30 +8695,6 @@
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-16",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00350349",
-      "00460888"
-    ],
-    "enr": [
-      "2158919"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-06",
-    "datumEnde": "2023-04-21",
-    "datumLetzteMeldung": "2023-01-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "AmoxiClav 400/57 TS-1A Pharma",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "089/61388250",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-09-06",
     "infoFachkreise": "Vorgesehen"
   },
   {
