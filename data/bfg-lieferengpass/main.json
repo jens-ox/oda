@@ -1,6 +1,553 @@
 [
   {
     "pzn": [
+      "08535806",
+      "08535812",
+      "08535829"
+    ],
+    "enr": [
+      "2110772"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-14",
+    "datumEnde": "2023-06-09",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Flunarizin acis 5 mg",
+    "atcCode": "N07CA03",
+    "wirkstoffe": "Flunarizindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "089  44 23 246  0",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-18",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00658863",
+      "00658886",
+      "00658923"
+    ],
+    "enr": [
+      "2141151"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2023-09-29",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pen Mega - 1 A Pharma",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00658917",
+      "00658946",
+      "00658952"
+    ],
+    "enr": [
+      "2141152"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2023-09-22",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pen 1,5 Mega - 1 A Pharma",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02855728",
+      "02855734"
+    ],
+    "enr": [
+      "2157982"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2023-05-12",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pen 0,4 Mega TS - 1 A Pharma",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04492371",
+      "04492394"
+    ],
+    "enr": [
+      "2149308"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-06",
+    "datumEnde": "2023-05-05",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "AmoxiClav 875/125 - 1 A Pharma",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "telefon": "089/61388250",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-09-06",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04492282",
+      "04492299"
+    ],
+    "enr": [
+      "2133934"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-17",
+    "datumEnde": "2023-07-28",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "AmoxiClav 500/125 - 1 A Pharma",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06312031"
+    ],
+    "enr": [
+      "2142794"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-25",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "AmoxiClav 250/62,5 TS - 1 A Pharma",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06304528"
+    ],
+    "enr": [
+      "2142798"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-25",
+    "datumEnde": "2023-09-30",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "AmoxiClav 125/31,25 TS - 1 A Pharma",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00658774",
+      "00658780",
+      "00658797"
+    ],
+    "enr": [
+      "2136012"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-17",
+    "datumEnde": "2023-08-25",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxi 750 - 1 A Pharma",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpass in Kombination mit erhöhter Nachfrage",
+    "datumErstmeldung": "2023-02-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03410891",
+      "03410916",
+      "03410974"
+    ],
+    "enr": [
+      "2103441"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-07",
+    "datumEnde": "2023-08-18",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxi 500 - 1 A Pharma",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-09-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00658834"
+    ],
+    "enr": [
+      "2107213"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-15",
+    "datumEnde": "2023-06-09",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxi 250 TS - 1 A Pharma",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-12-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03899886",
+      "03930076"
+    ],
+    "enr": [
+      "2172847"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2023-05-12",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "PenHEXAL Saft 0,4 Mega Einheiten/5 ml",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06190378",
+      "08437156",
+      "08541391"
+    ],
+    "enr": [
+      "2141148"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2023-07-21",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "PenHEXAL 1,5 Mega",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06190384",
+      "08412038",
+      "08412044"
+    ],
+    "enr": [
+      "2141147"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2023-07-21",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "PenHEXAL 1,0 Mega",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01343593",
+      "01343601",
+      "01343618",
+      "01343653",
+      "14142100"
+    ],
+    "enr": [
+      "2140401"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-30",
+    "datumEnde": "2023-05-26",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 100 mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01343529",
+      "01343535",
+      "01343541",
+      "14142146"
+    ],
+    "enr": [
+      "2140461"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-14",
+    "datumEnde": "2023-05-26",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 25 mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-12-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01436509"
+    ],
+    "enr": [
+      "2142862"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-24",
+    "datumEnde": "2023-06-02",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Dexamethason 8 mg Jenapharm",
+    "atcCode": "H02AB02",
+    "wirkstoffe": "Dexamethason",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "+49349542470",
+    "mail": "Zulassung-Sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Dexamethason 8 mg Jenapharm - Einreichungsnummer: 2142862",
+    "datumErstmeldung": "2023-04-25",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01970781"
+    ],
+    "enr": [
+      "0514673"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-25",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFLANEFRAN FORTE",
+    "atcCode": "S01BA04",
+    "wirkstoffe": "Prednisolonacetat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "AbbVie Deutschland GmbH & Co. KG - Zweigniederlassung -",
+    "telefon": "+49 (0)  621 589 1132",
+    "mail": "laura.volpi@abbvie.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Für Inflanefran Forte wird ein unvorhersehbarer Lieferengpass mit sofortiger Auswirkung erwartet. Hintergrund dafür ist eine deutlich vermehrte Nachfrage, der nicht angemessen nachgekommen werden kann.",
+    "datumErstmeldung": "2023-04-25",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00544674"
+    ],
+    "enr": [
+      "2134926"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-06",
+    "datumEnde": "2024-11-21",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoclav Trockensaft",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "telefon": "0800-4392527",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-09-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00544697"
+    ],
+    "enr": [
+      "2134927"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-06",
+    "datumEnde": "2023-07-14",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoclav forte Trockensaft",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "telefon": "0800-4392527",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-09-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00544651",
+      "00544668"
+    ],
+    "enr": [
+      "2133933"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-06",
+    "datumEnde": "2023-09-01",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoclav 500 Plus Filmtabletten",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "telefon": "0800-4392527",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-09-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03361000",
+      "03361017"
+    ],
+    "enr": [
+      "2149307"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-24",
+    "datumEnde": "2023-08-30",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoclav 875 mg + 125 mg Filmtabletten",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02557959",
+      "02563575"
+    ],
+    "enr": [
+      "2158918"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-06",
+    "datumEnde": "2023-05-12",
+    "datumLetzteMeldung": "2023-04-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoclav 400+57 mg/5 ml Trockensaft",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "telefon": "0800-4392527",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-09-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "01512311",
       "04257799",
       "04257888",
@@ -401,31 +948,6 @@
     "alternativPraeparat": "Volon A 40 - Einreichungsnummer: 2113068",
     "datumErstmeldung": "2023-04-19",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01343618",
-      "01343653"
-    ],
-    "enr": [
-      "2140401"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-30",
-    "datumEnde": "2023-05-26",
-    "datumLetzteMeldung": "2023-04-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 100 mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Prednisolut 100 mg L - Einreichungsnummer: 2140401",
-    "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -1918,31 +2440,6 @@
   },
   {
     "pzn": [
-      "08535806",
-      "08535812",
-      "08535829"
-    ],
-    "enr": [
-      "2110772"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-14",
-    "datumEnde": "2023-05-05",
-    "datumLetzteMeldung": "2023-04-12",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Flunarizin acis 5 mg",
-    "atcCode": "N07CA03",
-    "wirkstoffe": "Flunarizindihydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "acis Arzneimittel GmbH",
-    "telefon": "089  44 23 246  0",
-    "mail": "Medwiss.Acis@dermapharm.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-18",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "06057202",
       "06057219"
     ],
@@ -2536,29 +3033,6 @@
   },
   {
     "pzn": [
-      "00544697"
-    ],
-    "enr": [
-      "2134927"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-06",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-04-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoclav forte Trockensaft",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "0800-4392527",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-09-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "05391784"
     ],
     "enr": [
@@ -2995,29 +3469,6 @@
   },
   {
     "pzn": [
-      "11288984"
-    ],
-    "enr": [
-      "2139772"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-17",
-    "datumEnde": "2023-05-19",
-    "datumLetzteMeldung": "2023-04-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Wellvone Suspension",
-    "atcCode": "P01AX06",
-    "wirkstoffe": "Atovaquon",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
-    "telefon": "08001223355",
-    "mail": "service.info@gsk.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-24",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "07289558",
       "07289564"
     ],
@@ -3204,30 +3655,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-01-17",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01343541",
-      "14142146"
-    ],
-    "enr": [
-      "2140461"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-14",
-    "datumEnde": "2023-05-26",
-    "datumLetzteMeldung": "2023-04-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 25 mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-12-21",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -4888,30 +5315,6 @@
   },
   {
     "pzn": [
-      "03075375"
-    ],
-    "enr": [
-      "0385744"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-20",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-03-28",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ferrlecit 62,5 mg",
-    "atcCode": "B03AC",
-    "wirkstoffe": "Eisen(III)-natrium-D-gluconat-hydroxid-oxid-Komplex (ca. 2:1:1:x:y)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
-    "datumErstmeldung": "2023-01-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00860926",
       "00860984"
     ],
@@ -5329,29 +5732,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-16",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00544674"
-    ],
-    "enr": [
-      "2134926"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-06",
-    "datumEnde": "2023-06-02",
-    "datumLetzteMeldung": "2023-03-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoclav Trockensaft",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "0800-4392527",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-09-06",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -6600,52 +6980,6 @@
   },
   {
     "pzn": [
-      "04492371",
-      "04492394"
-    ],
-    "enr": [
-      "2149308"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-06",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-03-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "AmoxiClav 875/125 - 1 A Pharma",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "089/61388250",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-09-06",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00658834"
-    ],
-    "enr": [
-      "2107213"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-15",
-    "datumEnde": "2023-05-26",
-    "datumLetzteMeldung": "2023-03-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxi 250 TS - 1 A Pharma",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-12-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04525308",
       "04525314",
       "04653443"
@@ -7208,52 +7542,6 @@
   },
   {
     "pzn": [
-      "03361000",
-      "03361017"
-    ],
-    "enr": [
-      "2149307"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-24",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-02-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoclav 875 mg + 125 mg Filmtabletten",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03126546",
-      "03126552"
-    ],
-    "enr": [
-      "2103603"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-24",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-02-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxihexal 750",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "07727283"
     ],
     "enr": [
@@ -7764,53 +8052,6 @@
   },
   {
     "pzn": [
-      "00658917",
-      "00658946",
-      "00658952"
-    ],
-    "enr": [
-      "2141152"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2023-11-30",
-    "datumLetzteMeldung": "2023-02-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pen 1,5 Mega - 1 A Pharma",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03899886",
-      "03930076"
-    ],
-    "enr": [
-      "2172847"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2023-06-09",
-    "datumLetzteMeldung": "2023-02-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "PenHEXAL Saft 0,4 Mega Einheiten/5 ml",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00585012",
       "00585029",
       "00585035"
@@ -7833,54 +8074,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-02-17",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04492282",
-      "04492299"
-    ],
-    "enr": [
-      "2133934"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-17",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2023-02-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "AmoxiClav 500/125 - 1 A Pharma",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00658774",
-      "00658780",
-      "00658797"
-    ],
-    "enr": [
-      "2136012"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-17",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-02-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxi 750 - 1 A Pharma",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Kapazitätsengpass in Kombination mit erhöhter Nachfrage",
-    "datumErstmeldung": "2023-02-17",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -8557,30 +8750,6 @@
   },
   {
     "pzn": [
-      "02557959",
-      "02563575"
-    ],
-    "enr": [
-      "2158918"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-06",
-    "datumEnde": "2023-05-05",
-    "datumLetzteMeldung": "2023-01-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoclav 400+57 mg/5 ml Trockensaft",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "0800-4392527",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-09-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "11511040",
       "11511063"
     ],
@@ -8838,30 +9007,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-16",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00544651",
-      "00544668"
-    ],
-    "enr": [
-      "2133933"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-06",
-    "datumEnde": "2023-07-31",
-    "datumLetzteMeldung": "2023-01-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoclav 500 Plus Filmtabletten",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "0800-4392527",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-09-06",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -9632,54 +9777,6 @@
   },
   {
     "pzn": [
-      "00658863",
-      "00658886",
-      "00658923"
-    ],
-    "enr": [
-      "2141151"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2022-12-16",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pen Mega - 1 A Pharma",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06190378",
-      "08437156",
-      "08541391"
-    ],
-    "enr": [
-      "2141148"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2022-12-16",
-    "grundArt": "Sonstige",
-    "bezeichnung": "PenHEXAL 1,5 Mega",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02492295",
       "02492303"
     ],
@@ -10327,53 +10424,6 @@
   },
   {
     "pzn": [
-      "06190384",
-      "08412038",
-      "08412044"
-    ],
-    "enr": [
-      "2141147"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2022-11-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "PenHEXAL 1,0 Mega",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02855728",
-      "02855734"
-    ],
-    "enr": [
-      "2157982"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2023-07-31",
-    "datumLetzteMeldung": "2022-11-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pen 0,4 Mega TS - 1 A Pharma",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "09074164"
     ],
     "enr": [
@@ -10444,30 +10494,6 @@
     "mail": "thomas.franken@octapharma.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-10-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03410891",
-      "03410916",
-      "03410974"
-    ],
-    "enr": [
-      "2103441"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-07",
-    "datumEnde": "2023-07-31",
-    "datumLetzteMeldung": "2022-09-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxi 500 - 1 A Pharma",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-09-07",
     "infoFachkreise": "Vorgesehen"
   },
   {

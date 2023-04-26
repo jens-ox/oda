@@ -3178,7 +3178,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-04-17",
+    "veroeffentlichung": "2023-04-25",
     "emittent": {
       "name": "Nordex SE",
       "sitz": "Rostock",
@@ -3186,13 +3186,13 @@
     },
     "meldepflichtiger": {
       "name": "Bank of America Corporation",
-      "sitz": "Vereinigte Staaten von Amerika",
+      "sitz": "Wilmington",
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.51,
-      "instrumente": 9.63,
-      "summe": 11.14
+      "gesamt": 0.81,
+      "instrumente": 9.97,
+      "summe": 10.79
     }
   },
   {
@@ -3204,7 +3204,7 @@
     },
     "meldepflichtiger": {
       "name": "Bank of America Corporation",
-      "sitz": "Vereinigte Staaten von Amerika",
+      "sitz": "Wilmington",
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
@@ -3222,7 +3222,7 @@
     },
     "meldepflichtiger": {
       "name": "Bank of America Corporation",
-      "sitz": "Vereinigte Staaten von Amerika",
+      "sitz": "Wilmington",
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
@@ -5102,7 +5102,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-04-21",
+    "veroeffentlichung": "2023-04-25",
     "emittent": {
       "name": "Delivery Hero SE",
       "sitz": "Berlin",
@@ -5114,8 +5114,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.07,
-      "instrumente": 0.63,
+      "gesamt": 3.04,
+      "instrumente": 0.65,
       "summe": 3.7
     }
   },
@@ -5156,7 +5156,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-04-24",
+    "veroeffentlichung": "2023-04-25",
     "emittent": {
       "name": "Covestro AG",
       "sitz": "Leverkusen",
@@ -5168,8 +5168,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.01,
-      "instrumente": 0.59,
+      "gesamt": 5.22,
+      "instrumente": 0.38,
       "summe": 5.6
     }
   },
@@ -9128,24 +9128,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-02-17",
-    "emittent": {
-      "name": "Deutsche Pfandbriefbank AG",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "DWS Investment GmbH",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.02,
-      "instrumente": 0,
-      "summe": 4.02
-    }
-  },
-  {
     "veroeffentlichung": "2020-07-17",
     "emittent": {
       "name": "Brockhaus Technologies AG",
@@ -10040,7 +10022,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-04-21",
+    "veroeffentlichung": "2023-04-24",
     "emittent": {
       "name": "GK Software SE",
       "sitz": "Schöneck/Vogtl.",
@@ -10052,9 +10034,9 @@
       "land": ""
     },
     "stimmrechtsanteile": {
-      "gesamt": 14.72,
+      "gesamt": 16.53,
       "instrumente": 0,
-      "summe": 14.72
+      "summe": 16.53
     }
   },
   {
@@ -10991,6 +10973,24 @@
       "gesamt": 3.00059,
       "instrumente": 0,
       "summe": 3.00059
+    }
+  },
+  {
+    "veroeffentlichung": "2023-04-25",
+    "emittent": {
+      "name": "Gerresheimer AG",
+      "sitz": "Düsseldorf",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "FMR LLC",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.18,
+      "instrumente": 0,
+      "summe": 3.18
     }
   },
   {
@@ -13808,6 +13808,24 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 5.43
+    }
+  },
+  {
+    "veroeffentlichung": "2023-04-25",
+    "emittent": {
+      "name": "Aumann AG",
+      "sitz": "Beelen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "HANSAINVEST Hanseatische Investment-GmbH",
+      "sitz": "Hamburg",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.02,
+      "instrumente": 0,
+      "summe": 3.02
     }
   },
   {
@@ -30925,16 +30943,16 @@
     }
   },
   {
-    "veroeffentlichung": "2023-04-19",
+    "veroeffentlichung": "2023-04-25",
     "emittent": {
       "name": "ADTRAN Holdings, Inc.",
       "sitz": "Wilmington",
       "land": "Vereinigte Staaten von Amerika"
     },
     "meldepflichtiger": {
-      "name": "Schonfeld Strategic Advisors LLC",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
+      "name": "Schonfeld, Steven",
+      "sitz": "",
+      "land": ""
     },
     "stimmrechtsanteile": {
       "gesamt": 3.05,
@@ -32755,6 +32773,24 @@
     }
   },
   {
+    "veroeffentlichung": "2023-04-24",
+    "emittent": {
+      "name": "TUI AG",
+      "sitz": "Hannover",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Société Générale S.A.",
+      "sitz": "Paris",
+      "land": "Frankreich"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.75,
+      "instrumente": 4.82,
+      "summe": 5.56
+    }
+  },
+  {
     "veroeffentlichung": "2021-10-07",
     "emittent": {
       "name": "Deutsche Telekom AG",
@@ -33326,24 +33362,6 @@
       "gesamt": 3.31,
       "instrumente": 0.02,
       "summe": 3.33
-    }
-  },
-  {
-    "veroeffentlichung": "2023-04-19",
-    "emittent": {
-      "name": "Covestro AG",
-      "sitz": "Leverkusen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Staat Norwegen",
-      "sitz": "Oslo",
-      "land": "Norwegen"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.46,
-      "instrumente": 0.68,
-      "summe": 4.14
     }
   },
   {
@@ -35582,7 +35600,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-03-21",
+    "veroeffentlichung": "2023-04-25",
     "emittent": {
       "name": "va-Q-tec AG",
       "sitz": "Würzburg",
@@ -35594,9 +35612,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.81,
-      "instrumente": 1.7,
-      "summe": 6.51
+      "gesamt": 0.15,
+      "instrumente": 5.59,
+      "summe": 5.74
     }
   },
   {
@@ -35798,7 +35816,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-04-17",
+    "veroeffentlichung": "2023-04-25",
     "emittent": {
       "name": "Delivery Hero SE",
       "sitz": "Berlin",
@@ -35810,9 +35828,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.32,
-      "instrumente": 9.57,
-      "summe": 9.89
+      "gesamt": 0.05,
+      "instrumente": 10.35,
+      "summe": 10.4
     }
   },
   {
@@ -35834,7 +35852,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-04-20",
+    "veroeffentlichung": "2023-04-24",
     "emittent": {
       "name": "adidas AG",
       "sitz": "Herzogenaurach",
@@ -35846,9 +35864,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.18,
-      "instrumente": 4.85,
-      "summe": 5.03
+      "gesamt": 0.32,
+      "instrumente": 4.92,
+      "summe": 5.25
     }
   },
   {
