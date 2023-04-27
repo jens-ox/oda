@@ -1,6 +1,7 @@
 import { join, resolve } from 'path'
 import { glob } from 'glob'
 import { sources } from '../../../sources'
+import { FileComponent } from '../../../components/File'
 
 interface SourcePageProps {
   params: {
@@ -33,22 +34,13 @@ const SourcePage = async ({ params }: SourcePageProps) => {
           </a>
         </small>
       </div>
-      <div>
-        <h3 className="font-serif text-xl">Files</h3>
-        <ul className="list-disc">
-          {data.files.map((file) => (
-            <li className="ml-6">
-              <a
-                href={`https://github.com/jens-ox/bundesdatenkrake/blob/main${file.replace(data.base, '')}`}
-                target="_blank"
-                rel="noreferrer noopener"
-                className="text-indigo-600 underline"
-              >
-                {file.split('/').pop()}
-              </a>
-            </li>
+      <div className="flex flex-col gap-2">
+        <h3 className="text-xl font-medium">Files</h3>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          {data.files.map((f) => (
+            <FileComponent base={data.base} file={f} id={params.id} />
           ))}
-        </ul>
+        </div>
       </div>
     </div>
   )
