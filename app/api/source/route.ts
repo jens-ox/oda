@@ -19,8 +19,6 @@ export const GET = async (req: Request) => {
 
   return NextResponse.json({
     ...sourceFields,
-    files: files
-      .map((f) => f.replace(basePath, '').replace(/^\//, ''))
-      .map((f) => ({ path: f, schema: source?.targets?.[f] ? generateSchema(source.targets[f]) : undefined }))
+    files: files.map((f) => f.replace(basePath, '').replace(/^\//, ''))
   })
 }

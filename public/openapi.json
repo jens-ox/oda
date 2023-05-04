@@ -3,42 +3,45 @@
   "info": {
     "title": "API Bundesdatenkrake",
     "version": "1.0.0",
-    "description": "Über diese API können maschinenlesbare, versionierte Snapshots verschiedener Register (Ressourcen) bezogen werden."
+    "description": "Über diese API können maschinenlesbare, versionierte Snapshots verschiedener Register (Quellen) bezogen werden."
   },
   "servers": [
     {
       "url": "https://www.krake.dev/api"
+    },
+    {
+      "url": "http://localhost:3003/api"
     }
   ],
   "components": {
     "schemas": {
       "Resource": {
         "type": "object",
-        "description": "Ressource",
+        "description": "Quelle",
         "properties": {
           "id": {
             "type": "string",
-            "description": "Identifikator der Ressource",
+            "description": "Identifikator der Quelle",
             "example": "bafin-stimmrechte"
           },
           "name": {
             "type": "string",
-            "description": "Name der Ressource",
+            "description": "Name der Quelle",
             "example": "Stimmrechte BaFin"
           },
           "description": {
             "type": "string",
-            "description": "Beschreibung der Ressource",
+            "description": "Beschreibung der Quelle",
             "example": "Bedeutende Stimmrechtsanteile"
           },
           "sourceLink": {
             "type": "string",
-            "description": "Quelle der Ressource",
+            "description": "URL der Quelle",
             "example": "https://portal.mvp.bafin.de/database/AnteileInfo/"
           },
           "sourceName": {
             "type": "string",
-            "description": "Für die Ressource verantwortliche Instanz",
+            "description": "Für die Quelle verantwortliche Instanz",
             "example": "Bundesanstalt für Finanzdienstleistungsaufsicht"
           }
         }
@@ -48,10 +51,10 @@
   "paths": {
     "/sources": {
       "get": {
-        "summary": "Liste aller verfügbaren Ressourcen.",
+        "summary": "Liste aller verfügbaren Quellen.",
         "responses": {
           "200": {
-            "description": "Liste aller verfügbaren Ressourcen.",
+            "description": "Liste aller verfügbaren Quellen.",
             "content": {
               "application/json": {
                 "schema": {
@@ -68,11 +71,12 @@
     },
     "/source": {
       "get": {
-        "summary": "Verfügbare Dateien zu einer Ressource anzeigen",
+        "summary": "Verfügbare Dateien zu einer Quelle anzeigen",
         "parameters": [
           {
             "in": "query",
             "name": "id",
+            "description": "ID der Quelle",
             "schema": {
               "type": "string"
             },
@@ -81,7 +85,7 @@
         ],
         "responses": {
           "200": {
-            "description": "Dateienliste zu einer Ressource",
+            "description": "Dateienliste zu einer Quelle",
             "content": {
               "application/json": {
                 "type": "array",
@@ -101,6 +105,7 @@
           {
             "in": "query",
             "name": "id",
+            "description": "ID der Quelle",
             "schema": {
               "type": "string"
             },
@@ -117,6 +122,34 @@
         "responses": {
           "200": {
             "description": "Dateiinhalt als JSON"
+          }
+        }
+      }
+    },
+    "/schema": {
+      "get": {
+        "summary": "Schema einer Datei laden",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "id",
+            "description": "ID der Quelle",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "query",
+            "name": "file",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Schema als JSON-Schema"
           }
         }
       }
