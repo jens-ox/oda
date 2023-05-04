@@ -24,7 +24,7 @@
 
 /* Buttons */
 .button {
-  @apply flex items-center gap-2 rounded text-sm font-medium px-4 py-1 focus:outline-none hover:bg-black/5 transition duration-150;
+  @apply flex items-center gap-2 rounded text-sm font-medium px-3 py-1 focus:outline-none hover:bg-black/5 transition duration-150;
 }
 .button.primary {
   @apply bg-indigo-500 text-white hover:bg-indigo-400;
