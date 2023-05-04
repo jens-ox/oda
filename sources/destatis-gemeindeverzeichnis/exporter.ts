@@ -1,10 +1,10 @@
 import { Readable } from 'stream'
 import playwright from 'playwright'
 import unzip from 'unzip-stream'
-import { Exporter } from '../../types'
-import streamToString from '../../utils/streamToString'
 import { parseLine } from './parseLine'
 import { EntryType, Result } from './types'
+import streamToString from '@/utils/streamToString'
+import { Exporter } from '@/types'
 
 const parseDownloadStream = async (downloadStream: Readable): Promise<string> =>
   new Promise((resolve) => {

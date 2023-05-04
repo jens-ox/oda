@@ -1,5 +1,5 @@
-import { Source } from '../../types'
 import { bfgSchema } from './schema'
+import { Source } from '@/types'
 
 export const Lieferengpass: Source = {
   id: 'bfg-lieferengpass',

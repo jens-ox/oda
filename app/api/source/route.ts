@@ -1,8 +1,7 @@
 import { join, resolve } from 'path'
 import { NextResponse } from 'next/server'
 import { glob } from 'glob'
-import { generateSchema } from '@anatine/zod-openapi'
-import { sources } from '../../../sources'
+import { sources } from '@/sources'
 
 export const GET = async (req: Request) => {
   const { searchParams } = new URL(req.url)

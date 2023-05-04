@@ -2,7 +2,7 @@
 
 import Link from 'next/link'
 import { useMemo, useState } from 'react'
-import { sources } from '../sources'
+import { sources } from '@/sources'
 
 export const SourceList: React.FC = () => {
   const [search, setSearch] = useState('')

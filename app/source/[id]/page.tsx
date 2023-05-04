@@ -1,7 +1,7 @@
 import { join, resolve } from 'path'
 import { glob } from 'glob'
-import { sources } from '../../../sources'
-import { FileComponent } from '../../../components/File'
+import { sources } from '@/sources'
+import { FileComponent } from '@/components/File'
 
 interface SourcePageProps {
   params: {

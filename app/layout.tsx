@@ -1,8 +1,8 @@
 import cx from 'clsx'
 import Link from 'next/link'
-import { inter, ebGaramond } from '../utils/fonts'
+import { inter, ebGaramond } from '@/utils/fonts'
 
-import '../styles/globals.css'
+import '@/styles/globals.css'
 
 const navigation = [
   { name: 'Start', href: '/' },

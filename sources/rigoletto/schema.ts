@@ -1,5 +1,5 @@
 import { z } from 'zod'
-import { dateString, maybeEmptyString } from '../../utils/zod'
+import { dateString, maybeEmptyString } from '@/utils/zod'
 
 export const rigolettoObjectSchema = z.object({
   Kennnummer: z.coerce.number(),

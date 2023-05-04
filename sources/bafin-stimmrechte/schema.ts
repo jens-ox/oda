@@ -1,5 +1,5 @@
 import { z } from 'zod'
-import { maybeEmptyString } from '../../utils/zod'
+import { maybeEmptyString } from '@/utils/zod'
 
 export const entitySchema = z.object({
   name: z.string(),

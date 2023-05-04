@@ -1,8 +1,8 @@
 import axios from 'axios'
 import Papa from 'papaparse'
-import { Exporter } from '../../types'
-import { germanDateToString } from '../../utils/germanDateToString'
 import type { Ladesaeule, Stecker } from './types'
+import { germanDateToString } from '@/utils/germanDateToString'
+import { Exporter } from '@/types'
 
 const removeEmptyFields = (something: any) =>
   Object.fromEntries(Object.entries(something).filter(([, v]) => typeof v !== 'undefined' && v !== '' && v !== null))

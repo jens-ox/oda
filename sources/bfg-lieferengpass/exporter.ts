@@ -1,11 +1,11 @@
 import Papa from 'papaparse'
 import playwright from 'playwright'
-import { Exporter } from '../../types'
-import { parseOptionalString, parseStringArray } from '../../utils/format'
-import { germanDateToString } from '../../utils/germanDateToString'
-import streamToString from '../../utils/streamToString'
-import { validate } from '../../utils/validate'
 import { bfgObjectSchema } from './schema'
+import { parseOptionalString, parseStringArray } from '@/utils/format'
+import { germanDateToString } from '@/utils/germanDateToString'
+import streamToString from '@/utils/streamToString'
+import { validate } from '@/utils/validate'
+import { Exporter } from '@/types'
 
 export const ArzneiEngpassExporter: Exporter = async () => {
   const browser = await playwright.chromium.launch({ headless: typeof process.env.CI !== 'undefined' })

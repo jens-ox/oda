@@ -1,4 +1,4 @@
-import Swagger from '../../components/Swagger'
+import Swagger from '@/components/Swagger'
 
 const SwaggerPage = () => (
   <div>

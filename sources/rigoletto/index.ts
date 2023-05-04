@@ -1,5 +1,5 @@
-import { Source } from '../../types'
 import { rigolettoSchema } from './schema'
+import { Source } from '@/types'
 
 export const Rigoletto: Source = {
   id: 'rigoletto',

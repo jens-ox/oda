@@ -1,6 +1,6 @@
 import { extendApi } from '@anatine/zod-openapi'
 import { z } from 'zod'
-import { dateString, maybeEmptyString } from '../../utils/zod'
+import { dateString, maybeEmptyString } from '@/utils/zod'
 
 export const bfgObjectSchema = z.object({
   pzn: extendApi(z.array(z.coerce.number()), { description: 'Pharma-Zentralnummer', example: '01300419' }),

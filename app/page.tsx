@@ -1,4 +1,4 @@
-import { SourceList } from '../components/SourceList'
+import { SourceList } from '@/components/SourceList'
 
 export const metadata = {
   title: 'Bundesdatenkrake',

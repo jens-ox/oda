@@ -1,9 +1,9 @@
 import axios from 'axios'
 import { parse } from 'papaparse'
-import { Exporter } from '../../types'
-import { germanDateToString } from '../../utils/germanDateToString'
-import { validate } from '../../utils/validate'
 import { bafinObjectSchema } from './schema'
+import { Exporter } from '@/types'
+import { germanDateToString } from '@/utils/germanDateToString'
+import { validate } from '@/utils/validate'
 
 export const BafinExporter: Exporter = async () => {
   const { data: rawData } = await axios.get(

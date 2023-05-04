@@ -1,4 +1,3 @@
-import { ExporterMap } from '../types'
 import { BafinStimmrechte } from './bafin-stimmrechte'
 import { BafinExporter } from './bafin-stimmrechte/exporter'
 import { Lieferengpass } from './bfg-lieferengpass'
@@ -9,6 +8,7 @@ import { Ladesaeulen } from './ladesaeulenregister'
 import { LadesaeulenExporter } from './ladesaeulenregister/exporter'
 import { Rigoletto } from './rigoletto'
 import { RigolettoExporter } from './rigoletto/exporter'
+import { ExporterMap } from '@/types'
 
 export const exporters: Array<ExporterMap> = [
   {

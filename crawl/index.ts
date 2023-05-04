@@ -1,7 +1,7 @@
 import 'dotenv/config'
 import { writeFile, mkdir } from 'fs/promises'
 import { join } from 'path'
-import { exporters } from '../sources/exporters'
+import { exporters } from '@/sources/exporters'
 
 const BASE_DIR = join(__dirname, '../data')
 
