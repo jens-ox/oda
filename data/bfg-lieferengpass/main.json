@@ -1,6 +1,80 @@
 [
   {
     "pzn": [
+      "07008080"
+    ],
+    "enr": [
+      "0124765"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-04",
+    "datumEnde": "2023-06-01",
+    "datumLetzteMeldung": "2023-05-04",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ultracain 2%-Suprarenin 5 ml",
+    "atcCode": "N01BB58",
+    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "SEPTODONT GmbH",
+    "telefon": "+49 228 971260",
+    "mail": "info@septodont.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-05-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09012358"
+    ],
+    "enr": [
+      "2127138"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-04",
+    "datumEnde": "2023-05-22",
+    "datumLetzteMeldung": "2023-05-04",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Temgesic forte sublingual",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-05-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17275646",
+      "17275652",
+      "17275669",
+      "17275681",
+      "17275735"
+    ],
+    "enr": [
+      "2613978"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-03-08",
+    "datumEnde": "2023-08-25",
+    "datumLetzteMeldung": "2023-05-04",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Optiglobin 100 mg/ml",
+    "atcCode": "J06BA02",
+    "wirkstoffe": "Immunglobulin G vom Menschen",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Sanquin Plasma Products B.V.",
+    "telefon": "+31615045921",
+    "mail": "bjorn.vanderklugt@prothya.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Update 09FEB2023: Other production issues, which have been identified and now resolved, had an impact on the amount of product available. Prothya is currently producing and working to supply its markets as soon as possible.",
+    "datumErstmeldung": "2022-03-23",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "03751764"
     ],
     "enr": [
@@ -44,30 +118,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "13815703"
-    ],
-    "enr": [
-      "2182990"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-10",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-05-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ibandronsäure AL 3 mg Injektionslösung in einer Fertigspritze",
-    "atcCode": "M05BA06",
-    "wirkstoffe": "Mononatriumibandronat 1 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-04-19",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -4261,34 +4311,6 @@
     "grundAnmerkung": "Kapazitätsengpass",
     "datumErstmeldung": "2023-02-06",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17275646",
-      "17275652",
-      "17275669",
-      "17275681",
-      "17275735"
-    ],
-    "enr": [
-      "2613978"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-03-08",
-    "datumEnde": "2023-04-28",
-    "datumLetzteMeldung": "2023-04-06",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Optiglobin 100 mg/ml",
-    "atcCode": "J06BA02",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Sanquin Plasma Products B.V.",
-    "telefon": "+31615045921",
-    "mail": "bjorn.vanderklugt@prothya.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Pink coloration of the product, observed in an additional color monitoring method.Update 09FEB2023: Other production issues, which have been identified and now resolved, had an impact on the amount of product available. Prothya is currently producing and working to supply its markets as soon as possible.",
-    "datumErstmeldung": "2022-03-23",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
