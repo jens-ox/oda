@@ -11,7 +11,10 @@
     "noImplicitAny": true,
     "resolveJsonModule": true,
     "strict": true,
-    "target": "ES2015"
+    "target": "ES2015",
+    "paths": {
+      "@/*": ["./*"]
+    }
   },
   "exclude": ["node_modules"]
 }
