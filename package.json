@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint .",
-    "crawl": "ts-node --project tsconfig-crawl.json crawl/index.ts",
+    "crawl": "ts-node -r tsconfig-paths/register --project tsconfig-crawl.json crawl/index.ts",
     "crawl:dry": "DRY_RUN=1 pnpm crawl"
   },
   "author": "Jens Ochsenmeier <github@jens-ox.de>",
@@ -34,6 +34,7 @@
     "prettier": "^2.8.8",
     "tailwindcss": "^3.3.2",
     "ts-node": "^10.9.1",
+    "tsconfig-paths": "^4.2.0",
     "typescript": "^5.0.4"
   },
   "dependencies": {
