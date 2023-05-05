@@ -1,6 +1,52 @@
 [
   {
     "pzn": [
+      "13836065"
+    ],
+    "enr": [
+      "2197101"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2023-08-01",
+    "datumLetzteMeldung": "2023-05-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Rosuvastatin Denk 10 mg Filmtabletten",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
+    "mail": "edith.eigenberger@denkpharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-03-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05556423"
+    ],
+    "enr": [
+      "2106891"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-28",
+    "datumEnde": "2023-06-09",
+    "datumLetzteMeldung": "2023-05-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "SOBELIN Granulat",
+    "atcCode": "J01FF01",
+    "wirkstoffe": "Clindamycin-2-palmitat-hydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Durch Verzögerung der angekündigten nächsten Lieferung erfolgt die Meldung verspätet",
+    "datumErstmeldung": "2023-05-04",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "07008080"
     ],
     "enr": [
@@ -65,7 +111,7 @@
     "atcCode": "J06BA02",
     "wirkstoffe": "Immunglobulin G vom Menschen",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Sanquin Plasma Products B.V.",
+    "zulassungsinhaber": "Prothya Biosolutions Netherlands B.V.",
     "telefon": "+31615045921",
     "mail": "bjorn.vanderklugt@prothya.com",
     "grund": "Probleme in der Herstellung",
@@ -541,30 +587,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-02-06",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02481966"
-    ],
-    "enr": [
-      "2137175"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-28",
-    "datumEnde": "2023-05-03",
-    "datumLetzteMeldung": "2023-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Zithromax 500 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Erhöhte Nachfrage",
-    "alternativPraeparat": "AZI-TEVA 500 mg Filmtabletten - Einreichungsnummer: 2163514",
-    "datumErstmeldung": "2023-03-31",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -7303,28 +7325,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-03-07",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13836065"
-    ],
-    "enr": [
-      "2197101"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-05-01",
-    "datumLetzteMeldung": "2023-03-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Rosuvastatin Denk 10 mg Filmtabletten",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
-    "mail": "edith.eigenberger@denkpharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-03-06",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
