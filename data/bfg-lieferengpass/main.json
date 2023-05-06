@@ -1,6 +1,291 @@
 [
   {
     "pzn": [
+      "16840400"
+    ],
+    "enr": [
+      "7005770"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-28",
+    "datumEnde": "2023-05-12",
+    "datumLetzteMeldung": "2023-05-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Trulicity 4,5 mg Injektionslösung in einem Fertigpen",
+    "atcCode": "A10BJ05",
+    "wirkstoffe": "Dulaglutid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Eli Lilly Nederland B.V.",
+    "telefon": "06172 2732222",
+    "mail": "regulatory_lillydeutschland@lilly.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Die 4er Packung Trulicity 4,5mg ist verfügbar.",
+    "alternativPraeparat": "Trulicity 4,5 mg Injektionslösung in einem Fertigpen - Einreichungsnummer: 7005769",
+    "datumErstmeldung": "2023-05-05",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01343564",
+      "01343587"
+    ],
+    "enr": [
+      "2143114"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-14",
+    "datumEnde": "2023-05-12",
+    "datumLetzteMeldung": "2023-05-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 50mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "+49349542470",
+    "mail": "Zulassung-Sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-11-16",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01343529",
+      "01343535",
+      "01343541"
+    ],
+    "enr": [
+      "2140461"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-14",
+    "datumEnde": "2023-05-26",
+    "datumLetzteMeldung": "2023-05-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 25 mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-12-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08881649",
+      "99999999"
+    ],
+    "enr": [
+      "5104359"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2020-03-01",
+    "datumEnde": "2023-05-15",
+    "datumLetzteMeldung": "2023-05-05",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Paracetamol Dexcel 500 mg Tabletten",
+    "atcCode": "N02BE01",
+    "wirkstoffe": "Paracetamol",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dexcel Pharma GmbH",
+    "telefon": "06023 9480-0",
+    "mail": "service@dexcel.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2020-05-11",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00413156",
+      "00413185"
+    ],
+    "enr": [
+      "2164953"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-01",
+    "datumEnde": "2023-07-05",
+    "datumLetzteMeldung": "2023-05-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tostran 2% Gel",
+    "atcCode": "G03BA03",
+    "wirkstoffe": "Testosteron",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Kyowa Kirin Holdings B.V.",
+    "mail": "vttrang.nguyen@kyowakirin.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-05-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04152592",
+      "04152617"
+    ],
+    "enr": [
+      "2171880"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-16",
+    "datumEnde": "2023-05-25",
+    "datumLetzteMeldung": "2023-05-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "BisoHEXAL 3,75 mg Filmtabletten",
+    "atcCode": "C07AB07",
+    "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-16",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03446311",
+      "03446570",
+      "04957746"
+    ],
+    "enr": [
+      "2153453"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-03",
+    "datumEnde": "2023-05-19",
+    "datumLetzteMeldung": "2023-05-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Levocomp 250 / 25 mg",
+    "atcCode": "N04BA02",
+    "wirkstoffe": "Carbidopa-Monohydrat; Levodopa",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2023-04-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04492371",
+      "04492394"
+    ],
+    "enr": [
+      "2149308"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-06",
+    "datumEnde": "2023-05-12",
+    "datumLetzteMeldung": "2023-05-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "AmoxiClav 875/125 - 1 A Pharma",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "telefon": "089/61388250",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-09-06",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07116987"
+    ],
+    "enr": [
+      "2160506"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-05",
+    "datumEnde": "2023-07-07",
+    "datumLetzteMeldung": "2023-05-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin 250 - 1 A Pharma",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-05-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07116993"
+    ],
+    "enr": [
+      "2160507"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-05",
+    "datumEnde": "2023-07-28",
+    "datumLetzteMeldung": "2023-05-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin 500 - 1 A Pharma",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-05-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03838270"
+    ],
+    "enr": [
+      "0061616"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-15",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-05-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Eremfat Sirup",
+    "atcCode": "J04AB02",
+    "wirkstoffe": "Rifampicin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "telefon": "030338427306",
+    "mail": "nleppkes@esteve.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "n.a.",
+    "alternativPraeparat": "EREMFAT 600 mg - Einreichungsnummer: 2103263",
+    "datumErstmeldung": "2023-05-05",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "05387630"
+    ],
+    "enr": [
+      "2702570"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-16",
+    "datumEnde": "2023-05-21",
+    "datumLetzteMeldung": "2023-05-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Apidra 100 I.E./ml Injektionslösung in Patrone - OP(5x3ml)",
+    "atcCode": "A10AB06",
+    "wirkstoffe": "Insulin glulisin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "08005252010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Eingeschränkt lieferfähig",
+    "datumErstmeldung": "2023-02-17",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "13836065"
     ],
     "enr": [
@@ -111,7 +396,7 @@
     "atcCode": "J06BA02",
     "wirkstoffe": "Immunglobulin G vom Menschen",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Prothya Biosolutions Netherlands B.V.",
+    "zulassungsinhaber": "Sanquin Plasma Products B.V.",
     "telefon": "+31615045921",
     "mail": "bjorn.vanderklugt@prothya.com",
     "grund": "Probleme in der Herstellung",
@@ -989,30 +1274,6 @@
   },
   {
     "pzn": [
-      "05387630"
-    ],
-    "enr": [
-      "2702570"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-16",
-    "datumEnde": "2023-05-07",
-    "datumLetzteMeldung": "2023-04-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Apidra 100 I.E./ml Injektionslösung in Patrone - OP(5x3ml)",
-    "atcCode": "A10AB06",
-    "wirkstoffe": "Insulin glulisin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Eingeschränkt lieferfähig",
-    "datumErstmeldung": "2023-02-17",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "11532579"
     ],
     "enr": [
@@ -1846,30 +2107,6 @@
   },
   {
     "pzn": [
-      "04492371",
-      "04492394"
-    ],
-    "enr": [
-      "2149308"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-06",
-    "datumEnde": "2023-05-05",
-    "datumLetzteMeldung": "2023-04-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "AmoxiClav 875/125 - 1 A Pharma",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "089/61388250",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-09-06",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04492282",
       "04492299"
     ],
@@ -2102,32 +2339,6 @@
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01343529",
-      "01343535",
-      "01343541",
-      "14142146"
-    ],
-    "enr": [
-      "2140461"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-14",
-    "datumEnde": "2023-05-26",
-    "datumLetzteMeldung": "2023-04-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 25 mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-12-21",
     "infoFachkreise": "Nein"
   },
   {
@@ -4723,31 +4934,6 @@
   },
   {
     "pzn": [
-      "15821470",
-      "15821487",
-      "15821493",
-      "15821501"
-    ],
-    "enr": [
-      "2613853"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-05",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-04-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cutaquig",
-    "atcCode": "J06BA01",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Octapharma GmbH",
-    "mail": "thomas.franken@octapharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01177870"
     ],
     "enr": [
@@ -4944,30 +5130,6 @@
   },
   {
     "pzn": [
-      "08881649",
-      "99999999"
-    ],
-    "enr": [
-      "5104359"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2020-03-01",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-04-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Paracetamol Dexcel 500 mg Tabletten",
-    "atcCode": "N02BE01",
-    "wirkstoffe": "Paracetamol",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dexcel Pharma GmbH",
-    "telefon": "06023 9480-0",
-    "mail": "service@dexcel.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2020-05-11",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04330929",
       "04332176"
     ],
@@ -4987,30 +5149,6 @@
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03446311",
-      "03446570",
-      "04957746"
-    ],
-    "enr": [
-      "2153453"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-03",
-    "datumEnde": "2023-05-05",
-    "datumLetzteMeldung": "2023-04-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Levocomp 250 / 25 mg",
-    "atcCode": "N04BA02",
-    "wirkstoffe": "Carbidopa-Monohydrat; Levodopa",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2023-04-03",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5865,32 +6003,6 @@
   },
   {
     "pzn": [
-      "01343564",
-      "01343570",
-      "01343587",
-      "14142169"
-    ],
-    "enr": [
-      "2143114"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-14",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-03-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 50mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "+49349542470",
-    "mail": "Zulassung-Sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-11-16",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01343446",
       "01343469",
       "14142092"
@@ -6428,53 +6540,6 @@
     "grund": "GMP Mängel",
     "datumErstmeldung": "2023-03-21",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04712275",
-      "05373958"
-    ],
-    "enr": [
-      "2613934"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-26",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-03-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Octagam 5%",
-    "atcCode": "J06BA02",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Octapharma GmbH",
-    "mail": "thomas.franken@octapharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-08-26",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01128386",
-      "01128392",
-      "04712306"
-    ],
-    "enr": [
-      "2604148"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-26",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-03-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Octagam 10%",
-    "atcCode": "J06BA02",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Octapharma GmbH",
-    "mail": "thomas.franken@octapharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-08-26",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -8814,29 +8879,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2021-04-19",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04152592",
-      "04152617"
-    ],
-    "enr": [
-      "2171880"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-16",
-    "datumEnde": "2023-05-05",
-    "datumLetzteMeldung": "2023-01-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "BisoHEXAL 3,75 mg Filmtabletten",
-    "atcCode": "C07AB07",
-    "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-16",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
