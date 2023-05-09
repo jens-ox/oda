@@ -1,6 +1,358 @@
 [
   {
     "pzn": [
+      "01043106"
+    ],
+    "enr": [
+      "2702547"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-12",
+    "datumEnde": "2023-05-11",
+    "datumLetzteMeldung": "2023-05-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Liprolog 100 E/ml Injektionslösung in Durchstechflasche - OP[5x(1x10ml)]",
+    "atcCode": "A10AB04",
+    "wirkstoffe": "Insulin lispro",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Eli Lilly Nederland B.V.",
+    "telefon": "06172-2732222",
+    "mail": "regulatory_lillydeutschland@lilly.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-05-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07242491"
+    ],
+    "enr": [
+      "2702480"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-12",
+    "datumEnde": "2023-05-29",
+    "datumLetzteMeldung": "2023-05-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Humalog 100 E/ml Injektionslösung in Durchstechflasche - OP(5x10ml)",
+    "atcCode": "A10AB04",
+    "wirkstoffe": "Insulin lispro",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Eli Lilly Nederland B.V.",
+    "telefon": "06172 2732222",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-05-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07242485"
+    ],
+    "enr": [
+      "2700028"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-10",
+    "datumEnde": "2023-05-29",
+    "datumLetzteMeldung": "2023-05-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Humalog 100 E/ml Injektionslösung in Durchstechflasche - OP10ml",
+    "atcCode": "A10AB04",
+    "wirkstoffe": "Insulin lispro",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Eli Lilly Nederland B.V.",
+    "telefon": "06172-2732222",
+    "mail": "regulatory_lillydeutschland@lilly.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-05-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08670556"
+    ],
+    "enr": [
+      "2107604"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-15",
+    "datumEnde": "2023-05-31",
+    "datumLetzteMeldung": "2023-05-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ribofolin 10 mg/ml",
+    "atcCode": "V03AF03",
+    "wirkstoffe": "Calciumfolinat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "HIKMA Farmaceutica (Portugal), S.A.",
+    "telefon": "089 45450250",
+    "mail": "rluetzner@hikma.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Produkt wird kontigentiert abgegeben, um möglichst breite Verteilung im Markt sicher zustellen.",
+    "datumErstmeldung": "2023-03-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17857472"
+    ],
+    "enr": [
+      "0127367"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-07-01",
+    "datumEnde": "2023-05-31",
+    "datumLetzteMeldung": "2023-05-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fluorouracil Hikma 50 mg/ml Injektionslösung",
+    "atcCode": "L01BC02",
+    "wirkstoffe": "Fluorouracil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "HIKMA Farmaceutica (Portugal), S.A.",
+    "telefon": "015785126413",
+    "mail": "rluetzner@hikma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-06-30",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02021377"
+    ],
+    "enr": [
+      "2100328"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-23",
+    "datumEnde": "2023-05-31",
+    "datumLetzteMeldung": "2023-05-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ovestin 1 mg Creme",
+    "atcCode": "G03CA04",
+    "wirkstoffe": "Estriol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aspen Pharma Trading Limited",
+    "telefon": "+49 89  93 08 38 00",
+    "mail": "de-info@aspenpharma.eu",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03719542",
+      "03719559"
+    ],
+    "enr": [
+      "2167719",
+      "2167720"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-08",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-05-08",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Piperacillin/Tazobactam Kabi 2 g/0,25 g Pulver zur Herstellung einer Infusionslösung",
+    "atcCode": "J01CR05",
+    "wirkstoffe": "Piperacillin-Natrium; Tazobactam-Natrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "telefon": "061726867883",
+    "mail": "frank.jethon@fresenius-kabi.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Die Variante Piperacillin/Tazobactam 4,5 g ist für alle Kunden über die Dauer des Engpasses mit ca. 50 % der monatlichen Bedarfsmenge lieferbar.",
+    "datumErstmeldung": "2023-05-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03789123"
+    ],
+    "enr": [
+      "2160825"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-01",
+    "datumEnde": "2023-05-31",
+    "datumLetzteMeldung": "2023-05-08",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ampicillin/Sulbactam Kabi 2000mg/1000mg",
+    "atcCode": "J01CA01, J01CG01",
+    "wirkstoffe": "Ampicillin-Natrium; Sulbactam-Natrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "telefon": "061726867883",
+    "mail": "frank.jethon@fresenius-kabi.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Die alternative PZN ist für die Dauer des Engpasses mit 50 % des Monatsbedarfs der Kunden lieferbar, um Kunden, die üblicherweise die vom Lieferengpass betroffene PZN beziehen, ebenfalls 50 % ihres Bedarfes liefern zu können.",
+    "datumErstmeldung": "2023-05-08",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "03071822"
+    ],
+    "enr": [
+      "2160360"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-31",
+    "datumEnde": "2023-08-29",
+    "datumLetzteMeldung": "2023-05-08",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Miranova überzogene Tabletten",
+    "atcCode": "G03AA07",
+    "wirkstoffe": "Ethinylestradiol; Levonorgestrel",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Jenapharm GmbH & Co. KG",
+    "telefon": "036418797444",
+    "mail": "kundenservice@jenapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Minisiston 20 fem - Einreichungsnummer: 0928653",
+    "datumErstmeldung": "2023-05-08",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08776088"
+    ],
+    "enr": [
+      "2102842"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-02",
+    "datumEnde": "2023-08-07",
+    "datumLetzteMeldung": "2023-05-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Grüncef 500 mg/5ml Trockensaft",
+    "atcCode": "J01DB05",
+    "wirkstoffe": "Cefadroxil-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "062 52/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-05-08",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04240445"
+    ],
+    "enr": [
+      "0613406"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-04",
+    "datumEnde": "2023-06-05",
+    "datumLetzteMeldung": "2023-05-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectotrimet 50 Saft",
+    "atcCode": "J01EA01",
+    "wirkstoffe": "Trimethoprim",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "062 52/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-05-08",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07507110"
+    ],
+    "enr": [
+      "0610075"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-09",
+    "datumEnde": "2023-06-05",
+    "datumLetzteMeldung": "2023-05-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 400 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252-95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01356271"
+    ],
+    "enr": [
+      "2132826"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-15",
+    "datumEnde": "2023-05-15",
+    "datumLetzteMeldung": "2023-05-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocef 250 Saft",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252-95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04771680"
+    ],
+    "enr": [
+      "2184313"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-08",
+    "datumEnde": "2023-06-26",
+    "datumLetzteMeldung": "2023-05-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "InfectoSupramox Saft 400 mg / 57 mg / 5 ml",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "erhöhter Nachfrage aufgrund Lieferunfähigkeit von Mitbewerbern",
+    "datumErstmeldung": "2022-11-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08881649",
+      "99999999"
+    ],
+    "enr": [
+      "5104359"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2020-03-01",
+    "datumEnde": "2023-05-15",
+    "datumLetzteMeldung": "2023-05-08",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Paracetamol Dexcel 500 mg Tabletten",
+    "atcCode": "N02BE01",
+    "wirkstoffe": "Paracetamol",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dexcel Pharma GmbH",
+    "telefon": "06023 9480-0",
+    "mail": "service@dexcel.com",
+    "grund": "Herstellerwechsel",
+    "datumErstmeldung": "2020-05-11",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "16840400"
     ],
     "enr": [
@@ -71,30 +423,6 @@
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-12-21",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08881649",
-      "99999999"
-    ],
-    "enr": [
-      "5104359"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2020-03-01",
-    "datumEnde": "2023-05-15",
-    "datumLetzteMeldung": "2023-05-05",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Paracetamol Dexcel 500 mg Tabletten",
-    "atcCode": "N02BE01",
-    "wirkstoffe": "Paracetamol",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dexcel Pharma GmbH",
-    "telefon": "06023 9480-0",
-    "mail": "service@dexcel.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2020-05-11",
     "infoFachkreise": "Nein"
   },
   {
@@ -1037,29 +1365,6 @@
   },
   {
     "pzn": [
-      "07507110"
-    ],
-    "enr": [
-      "0610075"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-09",
-    "datumEnde": "2023-05-08",
-    "datumLetzteMeldung": "2023-04-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 400 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252-95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "11285856"
     ],
     "enr": [
@@ -1553,32 +1858,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Upd. 26.04.23: 30 ml Fl. (PZN04678503) wieder lieferbar seit 11.04.23, Meldg wird gelöscht. 15 ml (PZN 07130987) wieder lieferunfähig seit 17.03.23 (Melded. 20.03.23-LE2023001121) u. wird bis vrsl 28.07.23 lieferunfähig sein. Zwischenzeitl war d. 15 ml Fl. (PZN07130987) wieder lieferbar seit 01.02.23 (01.02.-16.03.23, seit 17.03.23 wieder lieferunfähig bis vrsl 28.07.23), s. Änderungsmeldg LE2023001701 v. 26.04.23",
     "datumErstmeldung": "2022-12-21",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "00505007",
-      "02514766"
-    ],
-    "enr": [
-      "0419615"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-27",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-04-26",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Humatin Kapseln",
-    "atcCode": "A07AA06",
-    "wirkstoffe": "Paromomycinsulfat (1:x) ((mit Angaben zum Schwefelsäure-Gehalt))",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49(0)30/550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Die Packungsgrößen 160 (10 X 16) und 1600 Hartkapseln sind nicht im Handel.",
-    "datumErstmeldung": "2022-12-05",
     "infoFachkreise": "Nein"
   },
   {
@@ -3519,29 +3798,6 @@
   },
   {
     "pzn": [
-      "07298391"
-    ],
-    "enr": [
-      "0614765"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-28",
-    "datumEnde": "2023-05-22",
-    "datumLetzteMeldung": "2023-04-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectotrimet 100 Saft",
-    "atcCode": "J01EA01",
-    "wirkstoffe": "Trimethoprim",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-04-04",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01479542"
     ],
     "enr": [
@@ -3631,29 +3887,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-01-02",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01356271"
-    ],
-    "enr": [
-      "2132826"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-15",
-    "datumEnde": "2023-05-08",
-    "datumLetzteMeldung": "2023-04-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocef 250 Saft",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252-95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -5908,29 +6141,6 @@
   },
   {
     "pzn": [
-      "17857472"
-    ],
-    "enr": [
-      "0127367"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-07-01",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-03-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fluorouracil Hikma 50 mg/ml Injektionslösung",
-    "atcCode": "L01BC02",
-    "wirkstoffe": "Fluorouracil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "HIKMA Farmaceutica (Portugal), S.A.",
-    "telefon": "015785126413",
-    "mail": "rluetzner@hikma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-06-30",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00000000",
       "02682937"
     ],
@@ -6047,31 +6257,6 @@
     "mail": "qsra@inresa.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-10-11",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04771651",
-      "04771680"
-    ],
-    "enr": [
-      "2184313"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-30",
-    "datumEnde": "2023-06-26",
-    "datumLetzteMeldung": "2023-03-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "InfectoSupramox Saft 400 mg / 57 mg / 5 ml",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "erhöhter Nachfrage aufgrund Lieferunfähigkeit von Mitbewerbern",
-    "datumErstmeldung": "2022-11-30",
     "infoFachkreise": "Nein"
   },
   {
@@ -6348,29 +6533,6 @@
     "mail": "de-info@aspenpharma.eu",
     "grund": "Probleme in der Herstellung",
     "alternativPraeparat": "NAROPIN 7,5mg/ml Amp.10ml Injektionslösung - Einreichungsnummer: 2137104",
-    "datumErstmeldung": "2023-03-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02021377"
-    ],
-    "enr": [
-      "2100328"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-23",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-03-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ovestin 1 mg Creme",
-    "atcCode": "G03CA04",
-    "wirkstoffe": "Estriol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aspen Pharma Trading Limited",
-    "telefon": "+49 89  93 08 38 00",
-    "mail": "de-info@aspenpharma.eu",
-    "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-23",
     "infoFachkreise": "Vorgesehen"
   },
@@ -6709,30 +6871,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-07-29",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08670556"
-    ],
-    "enr": [
-      "2107604"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-15",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-03-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ribofolin 10 mg/ml",
-    "atcCode": "V03AF03",
-    "wirkstoffe": "Calciumfolinat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "HIKMA Farmaceutica (Portugal), S.A.",
-    "telefon": "089 45450250",
-    "mail": "rluetzner@hikma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Produkt wird kontigentiert abgegeben, um möglichst breite Verteilung im Markt sicher zustellen.",
-    "datumErstmeldung": "2023-03-15",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
