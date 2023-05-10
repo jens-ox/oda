@@ -1,6 +1,98 @@
 [
   {
     "pzn": [
+      "07617732"
+    ],
+    "enr": [
+      "0253221"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-09",
+    "datumEnde": "2023-08-14",
+    "datumLetzteMeldung": "2023-05-09",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Zyklolat EDO",
+    "atcCode": "S01FA04",
+    "wirkstoffe": "Cyclopentolathydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
+    "mail": "Pharma.Kundenservice@bausch.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-05-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01084648"
+    ],
+    "enr": [
+      "0309602"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-09",
+    "datumEnde": "2023-06-15",
+    "datumLetzteMeldung": "2023-05-09",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Miochol-E Pulver und Lösungsmittel zur Herstellung einer Instillationslösung zur intraokularen Anwendung",
+    "atcCode": "S01EB09",
+    "wirkstoffe": "Acetylcholinchlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
+    "mail": "Pharma.Kundenservice@bausch.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-05-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02592878"
+    ],
+    "enr": [
+      "2140259"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-27",
+    "datumEnde": "2023-07-14",
+    "datumLetzteMeldung": "2023-05-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Dexamethason acis 8 mg Injektionslösung",
+    "atcCode": "H02AB02",
+    "wirkstoffe": "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "08944232460",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Dexamethason acis 8 mg Injektionslösung - Einreichungsnummer: 2140259",
+    "datumErstmeldung": "2023-05-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01140430"
+    ],
+    "enr": [
+      "2709663"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-06",
+    "datumEnde": "2023-07-18",
+    "datumLetzteMeldung": "2023-05-09",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Zyclara 3,75 % Creme - OP(28x250mg)",
+    "atcCode": "D06BB10",
+    "wirkstoffe": "Imiquimod",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare Limited",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Aldara 5% Creme - OP24 - Einreichungsnummer: 2708571",
+    "datumErstmeldung": "2023-05-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "01043106"
     ],
     "enr": [
@@ -579,7 +671,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "030338427306",
     "mail": "nleppkes@esteve.com",
     "grund": "Erhöhte Nachfrage",
@@ -724,7 +816,7 @@
     "atcCode": "J06BA02",
     "wirkstoffe": "Immunglobulin G vom Menschen",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Sanquin Plasma Products B.V.",
+    "zulassungsinhaber": "Prothya Biosolutions Netherlands B.V.",
     "telefon": "+31615045921",
     "mail": "bjorn.vanderklugt@prothya.com",
     "grund": "Probleme in der Herstellung",
@@ -4165,31 +4257,6 @@
   },
   {
     "pzn": [
-      "06057202",
-      "06057219"
-    ],
-    "enr": [
-      "0812873"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-12",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-04-12",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Metalcaptase 300 mg",
-    "atcCode": "M01CC01, TERM_ID_NA_2090010126, V03AB",
-    "wirkstoffe": "Penicillamin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "H e y l Chemisch-pharmazeutische Fabrik GmbH & Co. KG",
-    "telefon": "030 816960",
-    "mail": "info@heyl-berlin.de",
-    "grund": "Probleme bei der Endfreigabe",
-    "grundAnmerkung": "Auf Grund der zuletzt vorliegenden, längeren Lieferunfähigkeit wurde die im Dezember freigebende Ware innerhalb kürzester Zeit abverkauft",
-    "datumErstmeldung": "2023-01-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "09068927",
       "09068933",
       "09068956"
@@ -7554,50 +7621,6 @@
     "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
     "datumErstmeldung": "2022-12-09",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11130792"
-    ],
-    "enr": [
-      "2713172"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-03",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-03-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "IKERVIS 1 mg/ml Augentropfen, Emulsion - OP(90x0,3ml)",
-    "atcCode": "S01XA18",
-    "wirkstoffe": "Ciclosporin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Santen Oy",
-    "telefon": "089 8480 780",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-03-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11130763"
-    ],
-    "enr": [
-      "2713171"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-24",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2023-03-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "IKERVIS 1 mg/ml Augentropfen, Emulsion - OP(30x0,3ml)",
-    "atcCode": "S01XA18",
-    "wirkstoffe": "Ciclosporin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Santen Oy",
-    "telefon": "089 8480 780",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-03-03",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
