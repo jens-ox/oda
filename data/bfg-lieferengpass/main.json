@@ -1,6 +1,375 @@
 [
   {
     "pzn": [
+      "17923772"
+    ],
+    "enr": [
+      "2190459"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-15",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-05-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ADENOSIN BAXTER 6 mg/2 ml Injektionslösung",
+    "atcCode": "C01EB10",
+    "wirkstoffe": "Adenosin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Baxter Holding B.V.",
+    "mail": "info_de@baxter.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "seit dem Lieferausfall eines Wettbewerbers stellen wir eine erhöhte Nachfrage fest.",
+    "datumErstmeldung": "2023-05-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01687832",
+      "01693399"
+    ],
+    "enr": [
+      "2167867"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-24",
+    "datumEnde": "2023-06-23",
+    "datumLetzteMeldung": "2023-05-12",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Budes 64 Mikrogramm/Sprühstoß Nasenspray, Suspension",
+    "atcCode": "R01AD05",
+    "wirkstoffe": "Budesonid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-03-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05024809",
+      "05024815"
+    ],
+    "enr": [
+      "2182316"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-24",
+    "datumEnde": "2023-05-26",
+    "datumLetzteMeldung": "2023-05-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "MometaHEXAL",
+    "atcCode": "R01AD09",
+    "wirkstoffe": "Mometasonfuroat-Monohydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-03-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09465893"
+    ],
+    "enr": [
+      "2706420"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-02",
+    "datumEnde": "2023-05-26",
+    "datumLetzteMeldung": "2023-05-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Olanzapin Glenmark 2,5 mg Tabletten - OP70",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-17",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09466071"
+    ],
+    "enr": [
+      "2706432"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-02",
+    "datumEnde": "2023-05-26",
+    "datumLetzteMeldung": "2023-05-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Olanzapin Glenmark 15 mg Tabletten - OP70",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-16",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09947540"
+    ],
+    "enr": [
+      "2185173"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-01",
+    "datumEnde": "2023-07-28",
+    "datumLetzteMeldung": "2023-05-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Glentek 50 mg Filmtabletten",
+    "atcCode": "N07XX02",
+    "wirkstoffe": "Riluzol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16894229"
+    ],
+    "enr": [
+      "2204609"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2023-06-23",
+    "datumLetzteMeldung": "2023-05-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Beclometason Glenmark Dosieraerosol 250 Mikrogramm/Sprühstoß Druckgasinhalation, Lösung",
+    "atcCode": "R03BA01",
+    "wirkstoffe": "Beclometasondipropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16894175"
+    ],
+    "enr": [
+      "2204608"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-02",
+    "datumEnde": "2023-06-23",
+    "datumLetzteMeldung": "2023-05-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Beclometason Glenmark Dosieraerosol 200 Mikrogramm/Sprühstoß Druckgasinhalation, Lösung",
+    "atcCode": "R03BA01",
+    "wirkstoffe": "Beclometasondipropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01620443"
+    ],
+    "enr": [
+      "2146826"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-16",
+    "datumEnde": "2023-06-23",
+    "datumLetzteMeldung": "2023-05-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Bisoprolol plus 5/12,5 - 1 A Pharma",
+    "atcCode": "C07BB07",
+    "wirkstoffe": "Bisoprololfumarat (Ph.Eur.); Hydrochlorothiazid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-16",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03899886",
+      "03930076"
+    ],
+    "enr": [
+      "2172847"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2023-08-25",
+    "datumLetzteMeldung": "2023-05-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "PenHEXAL Saft 0,4 Mega Einheiten/5 ml",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02855728",
+      "02855734"
+    ],
+    "enr": [
+      "2157982"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2023-08-25",
+    "datumLetzteMeldung": "2023-05-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pen 0,4 Mega TS - 1 A Pharma",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06092641",
+      "06092658"
+    ],
+    "enr": [
+      "2160576"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-03",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-05-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefadroxil - 1 A Pharma 1000 mg Tabletten",
+    "atcCode": "J01DB05",
+    "wirkstoffe": "Cefadroxil-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-04-03",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04492371",
+      "04492394"
+    ],
+    "enr": [
+      "2149308"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-06",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-05-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "AmoxiClav 875/125 - 1 A Pharma",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "telefon": "089/61388250",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-09-06",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16239424",
+      "16239430"
+    ],
+    "enr": [
+      "2204918"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-20",
+    "datumEnde": "2023-05-19",
+    "datumLetzteMeldung": "2023-05-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tamsublock Duo 0,5 mg/0,4 mg Hartkapseln",
+    "atcCode": "G04CA52",
+    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dr. Pfleger Arzneimittel GmbH - Geschäftsanschrift -",
+    "mail": "regaffairs@dr-pfleger.de",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2023-05-12",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16155489"
+    ],
+    "enr": [
+      "2716087"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-14",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-05-12",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Xarelto 1 mg/ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "B01AF01",
+    "wirkstoffe": "Rivaroxaban",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bayer Aktiengesellschaft - Geschäftsanschrift -",
+    "telefon": "0800 6422937",
+    "mail": "medical-information@bayer.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-02-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01343593",
+      "01343601"
+    ],
+    "enr": [
+      "2140401"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-30",
+    "datumEnde": "2023-05-26",
+    "datumLetzteMeldung": "2023-05-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 100 mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "11024506",
       "11024794"
     ],
@@ -263,32 +632,6 @@
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-12-21",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01343593",
-      "01343601",
-      "01343618",
-      "01343653"
-    ],
-    "enr": [
-      "2140401"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-30",
-    "datumEnde": "2023-05-26",
-    "datumLetzteMeldung": "2023-05-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 100 mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-04-05",
     "infoFachkreise": "Nein"
   },
   {
@@ -1153,30 +1496,6 @@
   },
   {
     "pzn": [
-      "04492371",
-      "04492394"
-    ],
-    "enr": [
-      "2149308"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-06",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-05-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "AmoxiClav 875/125 - 1 A Pharma",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "089/61388250",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-09-06",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "07116987"
     ],
     "enr": [
@@ -1649,29 +1968,6 @@
   },
   {
     "pzn": [
-      "06092641",
-      "06092658"
-    ],
-    "enr": [
-      "2160576"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-03",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefadroxil - 1 A Pharma 1000 mg Tabletten",
-    "atcCode": "J01DB05",
-    "wirkstoffe": "Cefadroxil-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-04-03",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00829419"
     ],
     "enr": [
@@ -1740,29 +2036,6 @@
     "alternativPraeparat": "Dexa 8mg inject JENAPHARM - Einreichungsnummer: 2138321",
     "datumErstmeldung": "2023-05-02",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "07620616"
-    ],
-    "enr": [
-      "0423433"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-12",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hepa-Merz Granulat 3000",
-    "atcCode": "A05BA",
-    "wirkstoffe": "Ornithinaspartat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Merz Pharmaceuticals GmbH",
-    "mail": "jan.ranau@merz.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferengpass beim API",
-    "datumErstmeldung": "2023-02-27",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -2863,29 +3136,6 @@
   },
   {
     "pzn": [
-      "02855728",
-      "02855734"
-    ],
-    "enr": [
-      "2157982"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-04-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pen 0,4 Mega TS - 1 A Pharma",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04492282",
       "04492299"
     ],
@@ -3020,29 +3270,6 @@
     "mail": "info@1apharma.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-12-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03899886",
-      "03930076"
-    ],
-    "enr": [
-      "2172847"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-04-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "PenHEXAL Saft 0,4 Mega Einheiten/5 ml",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -3232,30 +3459,6 @@
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02557959",
-      "02563575"
-    ],
-    "enr": [
-      "2158918"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-06",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-04-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoclav 400+57 mg/5 ml Trockensaft",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "0800-4392527",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-09-06",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -3544,29 +3747,6 @@
   },
   {
     "pzn": [
-      "09465893"
-    ],
-    "enr": [
-      "2706420"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-02",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-04-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Olanzapin Glenmark 2,5 mg Tabletten - OP70",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-17",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "10229270"
     ],
     "enr": [
@@ -3631,30 +3811,6 @@
     "wirkstoffe": "Clozapin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16894175",
-      "16894206"
-    ],
-    "enr": [
-      "2204608"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-02",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-04-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Beclometason Glenmark Dosieraerosol 200 Mikrogramm/Sprühstoß Druckgasinhalation, Lösung",
-    "atcCode": "R03BA01",
-    "wirkstoffe": "Beclometasondipropionat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "telefon": "08142 44392 0",
     "mail": "Service.De@glenmarkpharma.com",
     "grund": "Erhöhte Nachfrage",
@@ -3747,29 +3903,6 @@
     "bezeichnung": "Hydromorphon-HCl Glenmark 4 mg Hartkapseln, retardiert",
     "atcCode": "N02AA03",
     "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09947540"
-    ],
-    "enr": [
-      "2185173"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-01",
-    "datumEnde": "2023-05-26",
-    "datumLetzteMeldung": "2023-04-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Glentek 50 mg Filmtabletten",
-    "atcCode": "N07XX02",
-    "wirkstoffe": "Riluzol",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "telefon": "08142 44392 0",
@@ -3893,28 +4026,6 @@
   },
   {
     "pzn": [
-      "01620443"
-    ],
-    "enr": [
-      "2146826"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-16",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-04-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Bisoprolol plus 5/12,5 - 1 A Pharma",
-    "atcCode": "C07BB07",
-    "wirkstoffe": "Bisoprololfumarat (Ph.Eur.); Hydrochlorothiazid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-16",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01623683"
     ],
     "enr": [
@@ -3928,29 +4039,6 @@
     "bezeichnung": "Bisoprolol plus 10/25 - 1 A Pharma",
     "atcCode": "C07BB07",
     "wirkstoffe": "Bisoprololfumarat (Ph.Eur.); Hydrochlorothiazid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-16",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03820614",
-      "03820850"
-    ],
-    "enr": [
-      "2138606"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-16",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-04-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Bisoprolol 10-1A Pharma",
-    "atcCode": "C07AB07",
-    "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
     "mail": "info@1apharma.com",
@@ -5806,29 +5894,6 @@
   },
   {
     "pzn": [
-      "16155489"
-    ],
-    "enr": [
-      "2716087"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-14",
-    "datumEnde": "2023-05-17",
-    "datumLetzteMeldung": "2023-04-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Xarelto 1 mg/ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "B01AF01",
-    "wirkstoffe": "Rivaroxaban",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bayer Aktiengesellschaft - Geschäftsanschrift -",
-    "telefon": "0800 6422937",
-    "mail": "medical-information@bayer.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-01",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "18030450",
       "18030467",
       "18030473",
@@ -6631,29 +6696,6 @@
   },
   {
     "pzn": [
-      "05024809",
-      "05024815"
-    ],
-    "enr": [
-      "2182316"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-24",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-03-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "MometaHEXAL",
-    "atcCode": "R01AD09",
-    "wirkstoffe": "Mometasonfuroat-Monohydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-03-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03495752",
       "03847688"
     ],
@@ -6672,29 +6714,6 @@
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
     "grund": "Sonstige",
-    "datumErstmeldung": "2023-03-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01687832",
-      "01693399"
-    ],
-    "enr": [
-      "2167867"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-24",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-03-24",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Budes 64 Mikrogramm/Sprühstoß Nasenspray, Suspension",
-    "atcCode": "R01AD05",
-    "wirkstoffe": "Budesonid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-03-24",
     "infoFachkreise": "Vorgesehen"
   },
@@ -6837,29 +6856,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-11-28",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00712930",
-      "00712947"
-    ],
-    "enr": [
-      "2137246"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-16",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-03-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Bisohexal 10mg",
-    "atcCode": "C07AB07",
-    "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-16",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -7225,29 +7221,6 @@
   },
   {
     "pzn": [
-      "11543666"
-    ],
-    "enr": [
-      "2187981"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-02",
-    "datumEnde": "2023-05-19",
-    "datumLetzteMeldung": "2023-03-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxyconoica 60 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "11543531",
       "11543554"
     ],
@@ -7260,30 +7233,6 @@
     "datumLetzteMeldung": "2023-03-13",
     "grundArt": "Sonstige",
     "bezeichnung": "Oxyconoica 20 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11543471",
-      "11543494"
-    ],
-    "enr": [
-      "2187976"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-26",
-    "datumEnde": "2023-05-19",
-    "datumLetzteMeldung": "2023-03-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxyconoica 10 mg Retardtabletten",
     "atcCode": "N02AA05",
     "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
@@ -7344,29 +7293,6 @@
   },
   {
     "pzn": [
-      "09466071"
-    ],
-    "enr": [
-      "2706432"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-02",
-    "datumEnde": "2023-05-05",
-    "datumLetzteMeldung": "2023-03-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Olanzapin Glenmark 15 mg Tabletten - OP70",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-16",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "14266204"
     ],
     "enr": [
@@ -7386,29 +7312,6 @@
     "mail": "Service.De@glenmarkpharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16894229"
-    ],
-    "enr": [
-      "2204609"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-05-26",
-    "datumLetzteMeldung": "2023-03-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Beclometason Glenmark Dosieraerosol 250 Mikrogramm/Sprühstoß Druckgasinhalation, Lösung",
-    "atcCode": "R03BA01",
-    "wirkstoffe": "Beclometasondipropionat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-13",
     "infoFachkreise": "Nein"
   },
   {
@@ -8421,53 +8324,6 @@
     "grund": "GMP Mängel",
     "datumErstmeldung": "2023-02-23",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02510969"
-    ],
-    "enr": [
-      "0132196"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-15",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-02-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Lasix 40 mg Tabletten",
-    "atcCode": "C03CA01",
-    "wirkstoffe": "Furosemid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "0800 52 52 010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-02-23",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01463535",
-      "01463541"
-    ],
-    "enr": [
-      "0132227"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-15",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-02-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Lasix 500mg Tabs",
-    "atcCode": "C03CA01",
-    "wirkstoffe": "Furosemid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "0800 52 52 010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-02-23",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -10893,35 +10749,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-06-13",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "01224753",
-      "01224776",
-      "01224782",
-      "01224799"
-    ],
-    "enr": [
-      "2150106"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2015-04-01",
-    "datumEnde": "2023-04-30",
-    "datumLetzteMeldung": "2022-05-18",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Kreon 40 000",
-    "atcCode": "A09AA02",
-    "wirkstoffe": "Pankreas-Pulver vom Schwein",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Abbott Laboratories GmbH",
-    "telefon": "+49 (0) 511/47543400",
-    "mail": "de.regaffairs@viatris.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Der Lieferengpass von Kreon 40000, beruht nicht auf Qualitäts-, Sicherheits- oder Wirksamkeitsproblemen mit dem Wirkstoff/Arzneimittel, oder Problemen im Produktionsprozess, sondern der weltweit begrenzten Verfügbarkeit von Schweine-Bauchspeicheldrüsen mit hoher Lipaseaktivität (elementares Ausgangsmaterial für Kreon 40.000). Kreon 40.000 kann durch niedrigere Kreon Stärken ersetzt werden.",
-    "alternativPraeparat": "Kreon 25 000 - Einreichungsnummer: 2122525",
-    "datumErstmeldung": "2018-05-03",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
