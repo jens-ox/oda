@@ -1,6 +1,416 @@
 [
   {
     "pzn": [
+      "02183737"
+    ],
+    "enr": [
+      "2122523"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-07-03",
+    "datumEnde": "2023-10-31",
+    "datumLetzteMeldung": "2023-05-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "PERITRAST RE/36 %",
+    "atcCode": "V08AA",
+    "wirkstoffe": "Amidotrizoesäure-Lysin-Salz",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Franz Köhler Chemie Gesellschaft mit beschränkter Haftung",
+    "telefon": "+49 6251 1083 373",
+    "mail": "info@koehler-chemie.de",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "GASTROLUX RE 180 mg/ml Lösung - Einreichungsnummer: 2165147",
+    "datumErstmeldung": "2023-05-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06996070"
+    ],
+    "enr": [
+      "2128680"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-04-26",
+    "datumEnde": "2023-07-07",
+    "datumLetzteMeldung": "2023-05-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sobelin Vaginalcreme",
+    "atcCode": "G01AA10",
+    "wirkstoffe": "Clindamycin-2-dihydrogenphosphat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Durch Verzögerung der angekündigten nächsten Lieferung erfolgt die Meldung verspätet",
+    "datumErstmeldung": "2023-05-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14439656"
+    ],
+    "enr": [
+      "7003504"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-15",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-05-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Braftovi 50 mg Hartkapseln",
+    "atcCode": "L01XE46",
+    "wirkstoffe": "Encorafenib",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pierre Fabre Medicament",
+    "telefon": "076145261233",
+    "mail": "zulassung_de@pierre-fabre.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-05-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17244700"
+    ],
+    "enr": [
+      "2205682"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-17",
+    "datumEnde": "2023-06-12",
+    "datumLetzteMeldung": "2023-05-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ezetimib/Atorvastatin ELPEN 10 mg/40 mg Filmtabletten",
+    "atcCode": "C10BA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.); Ezetimib",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "telefon": "030 7974040 0",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-04-18",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08776071",
+      "08776088"
+    ],
+    "enr": [
+      "2102842"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-02",
+    "datumEnde": "2023-08-07",
+    "datumLetzteMeldung": "2023-05-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Grüncef 500 mg/5ml Trockensaft",
+    "atcCode": "J01DB05",
+    "wirkstoffe": "Cefadroxil-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "062 52/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-05-08",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04771651",
+      "04771680"
+    ],
+    "enr": [
+      "2184313"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-08",
+    "datumEnde": "2023-08-28",
+    "datumLetzteMeldung": "2023-05-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "InfectoSupramox Saft 400 mg / 57 mg / 5 ml",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "erhöhter Nachfrage aufgrund Lieferunfähigkeit von Mitbewerbern",
+    "datumErstmeldung": "2022-11-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03124961"
+    ],
+    "enr": [
+      "0061705"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-01",
+    "datumEnde": "2023-06-05",
+    "datumLetzteMeldung": "2023-05-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocillin 300 Saft",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "kontakt@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Nachfrage wegen Lieferunfähigkeit von Mitbewerbern",
+    "datumErstmeldung": "2022-12-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04632582",
+      "04835351",
+      "07574394"
+    ],
+    "enr": [
+      "0727386"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-09",
+    "datumEnde": "2023-08-21",
+    "datumLetzteMeldung": "2023-05-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectomox 750 Saft",
+    "atcCode": "J01CA",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Absätze durch Ausfall der Mitbewerber",
+    "datumErstmeldung": "2022-12-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06648311"
+    ],
+    "enr": [
+      "2124662"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-14",
+    "datumEnde": "2023-07-24",
+    "datumLetzteMeldung": "2023-05-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectomox 500 Saft",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252957000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06648305"
+    ],
+    "enr": [
+      "2124661"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-13",
+    "datumEnde": "2023-08-21",
+    "datumLetzteMeldung": "2023-05-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectomox 250 Saft",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252 95-7000",
+    "mail": "regulatory@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01512311",
+      "04257799",
+      "04257888",
+      "06649606",
+      "06649612"
+    ],
+    "enr": [
+      "0149618"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-07",
+    "datumEnde": "2023-09-04",
+    "datumLetzteMeldung": "2023-05-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocillin 500 Saft",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Nachfrage wegen Lieferunfähigkeit von Mitbewerbern",
+    "datumErstmeldung": "2022-12-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00568640",
+      "10796336"
+    ],
+    "enr": [
+      "2703490",
+      "2707566"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-13",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-05-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "TOVIAZ 4 mg Retardtabletten - OP14",
+    "atcCode": "G04BD11",
+    "wirkstoffe": "Fesoterodinfumarat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Europe MA EEIG",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Fesoterodin Aristo 4 mg Retardtabletten - Einreichungsnummer: 7000588",
+    "datumErstmeldung": "2023-03-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01831708",
+      "03124978"
+    ],
+    "enr": [
+      "0156647"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-03",
+    "datumEnde": "2023-07-07",
+    "datumLetzteMeldung": "2023-05-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOCILLIN 400 Saft",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252957000",
+    "mail": "kontakt@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Nachfrage auf Grund der Lieferunfähigkeit der Mitbewerber",
+    "datumErstmeldung": "2023-02-03",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17583750"
+    ],
+    "enr": [
+      "2168387"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-15",
+    "datumEnde": "2023-05-31",
+    "datumLetzteMeldung": "2023-05-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxygesic Dispersa akut 5 mg",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-05-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06649598"
+    ],
+    "enr": [
+      "0191371"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-20",
+    "datumEnde": "2023-06-05",
+    "datumLetzteMeldung": "2023-05-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocillin 250 Saft",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "+49 06252957000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04525308",
+      "04525314",
+      "04653443"
+    ],
+    "enr": [
+      "0727357"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-09",
+    "datumEnde": "2023-09-18",
+    "datumLetzteMeldung": "2023-05-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectobicillin Saft 750",
+    "atcCode": "J01CE10",
+    "wirkstoffe": "Phenoxymethylpenicillin-Benzathin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
+    "datumErstmeldung": "2022-12-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01697724"
+    ],
+    "enr": [
+      "0451286"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-23",
+    "datumEnde": "2023-05-22",
+    "datumLetzteMeldung": "2023-05-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Diprosone Creme",
+    "atcCode": "D07AC01",
+    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Organon Healthcare GmbH",
+    "mail": "ra_dach@organon.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-03-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "17923772"
     ],
     "enr": [
@@ -936,29 +1346,6 @@
   },
   {
     "pzn": [
-      "14439656"
-    ],
-    "enr": [
-      "7003504"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-31",
-    "datumEnde": "2023-08-31",
-    "datumLetzteMeldung": "2023-05-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Braftovi 50 mg Hartkapseln",
-    "atcCode": "L01XE46",
-    "wirkstoffe": "Encorafenib",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pierre Fabre Medicament",
-    "telefon": "076145261233",
-    "mail": "zulassung_de@pierre-fabre.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-05-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "09071504",
       "12520704"
     ],
@@ -1094,29 +1481,6 @@
     "alternativPraeparat": "Aldara 5% Creme - OP24 - Einreichungsnummer: 2708571",
     "datumErstmeldung": "2023-05-09",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01043106"
-    ],
-    "enr": [
-      "2702547"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-12",
-    "datumEnde": "2023-05-11",
-    "datumLetzteMeldung": "2023-05-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Liprolog 100 E/ml Injektionslösung in Durchstechflasche - OP[5x(1x10ml)]",
-    "atcCode": "A10AB04",
-    "wirkstoffe": "Insulin lispro",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Eli Lilly Nederland B.V.",
-    "telefon": "06172-2732222",
-    "mail": "regulatory_lillydeutschland@lilly.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-05-08",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -1309,29 +1673,6 @@
   },
   {
     "pzn": [
-      "08776088"
-    ],
-    "enr": [
-      "2102842"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-02",
-    "datumEnde": "2023-08-07",
-    "datumLetzteMeldung": "2023-05-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Grüncef 500 mg/5ml Trockensaft",
-    "atcCode": "J01DB05",
-    "wirkstoffe": "Cefadroxil-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "062 52/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-05-08",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04240445"
     ],
     "enr": [
@@ -1374,53 +1715,6 @@
     "mail": "shortages@infectopharm.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01356271"
-    ],
-    "enr": [
-      "2132826"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-15",
-    "datumEnde": "2023-05-15",
-    "datumLetzteMeldung": "2023-05-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocef 250 Saft",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252-95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04771680"
-    ],
-    "enr": [
-      "2184313"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-08",
-    "datumEnde": "2023-06-26",
-    "datumLetzteMeldung": "2023-05-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "InfectoSupramox Saft 400 mg / 57 mg / 5 ml",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "erhöhter Nachfrage aufgrund Lieferunfähigkeit von Mitbewerbern",
-    "datumErstmeldung": "2022-11-30",
     "infoFachkreise": "Nein"
   },
   {
@@ -1554,7 +1848,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "030338427306",
     "mail": "nleppkes@esteve.com",
     "grund": "Erhöhte Nachfrage",
@@ -1699,7 +1993,7 @@
     "atcCode": "J06BA02",
     "wirkstoffe": "Immunglobulin G vom Menschen",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Prothya Biosolutions Netherlands B.V.",
+    "zulassungsinhaber": "Sanquin Plasma Products B.V.",
     "telefon": "+31615045921",
     "mail": "bjorn.vanderklugt@prothya.com",
     "grund": "Probleme in der Herstellung",
@@ -2157,28 +2451,6 @@
   },
   {
     "pzn": [
-      "17583750"
-    ],
-    "enr": [
-      "2168387"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-01",
-    "datumEnde": "2023-05-15",
-    "datumLetzteMeldung": "2023-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxygesic Dispersa akut 5 mg",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-05-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08523832"
     ],
     "enr": [
@@ -2412,32 +2684,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-04-28",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00568640",
-      "10796336"
-    ],
-    "enr": [
-      "2703490",
-      "2707566"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-13",
-    "datumEnde": "2023-05-19",
-    "datumLetzteMeldung": "2023-04-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "TOVIAZ 4 mg Retardtabletten - OP14",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Fesoterodin Aristo 4 mg Retardtabletten - Einreichungsnummer: 7000588",
-    "datumErstmeldung": "2023-03-27",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -3463,34 +3709,6 @@
   },
   {
     "pzn": [
-      "01512311",
-      "04257799",
-      "04257888",
-      "06649606",
-      "06649612"
-    ],
-    "enr": [
-      "0149618"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-07",
-    "datumEnde": "2023-05-30",
-    "datumLetzteMeldung": "2023-04-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocillin 500 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage wegen Lieferunfähigkeit von Mitbewerbern",
-    "datumErstmeldung": "2022-12-07",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04954067"
     ],
     "enr": [
@@ -4209,29 +4427,6 @@
     "grundAnmerkung": "Überverkäufe durch out of stock Mitbewerber im November - Dezember 2022",
     "datumErstmeldung": "2023-01-10",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17244700",
-      "17244717"
-    ],
-    "enr": [
-      "2205682"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-17",
-    "datumEnde": "2023-05-15",
-    "datumLetzteMeldung": "2023-04-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ezetimib/Atorvastatin ELPEN 10 mg/40 mg Filmtabletten",
-    "atcCode": "C10BA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.); Ezetimib",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "030 7974040 0",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-04-18",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -6629,28 +6824,6 @@
   },
   {
     "pzn": [
-      "01697724"
-    ],
-    "enr": [
-      "0451286"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-23",
-    "datumEnde": "2023-05-12",
-    "datumLetzteMeldung": "2023-03-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Diprosone Creme",
-    "atcCode": "D07AC01",
-    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Organon Healthcare GmbH",
-    "mail": "ra_dach@organon.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-03-27",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00776798"
     ],
     "enr": [
@@ -6976,29 +7149,6 @@
     "mail": "info@neuraxpharm.de",
     "grund": "GMP Mängel",
     "datumErstmeldung": "2023-03-21",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06648311"
-    ],
-    "enr": [
-      "2124662"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-14",
-    "datumEnde": "2023-06-23",
-    "datumLetzteMeldung": "2023-03-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectomox 500 Saft",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252957900",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-20",
     "infoFachkreise": "Nein"
   },
   {
@@ -7432,32 +7582,6 @@
   },
   {
     "pzn": [
-      "04632582",
-      "04835351",
-      "07574394"
-    ],
-    "enr": [
-      "0727386"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-09",
-    "datumEnde": "2023-06-23",
-    "datumLetzteMeldung": "2023-03-09",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectomox 750 Saft",
-    "atcCode": "J01CA",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Absätze durch Ausfall der Mitbewerber",
-    "datumErstmeldung": "2022-12-09",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "07342169"
     ],
     "enr": [
@@ -7686,32 +7810,6 @@
     "mail": "michaela.kunze@elpen-pharma.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-03-07",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04525308",
-      "04525314",
-      "04653443"
-    ],
-    "enr": [
-      "0727357"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-09",
-    "datumEnde": "2023-05-15",
-    "datumLetzteMeldung": "2023-03-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectobicillin Saft 750",
-    "atcCode": "J01CE10",
-    "wirkstoffe": "Phenoxymethylpenicillin-Benzathin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7900",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
-    "datumErstmeldung": "2022-12-09",
     "infoFachkreise": "Nein"
   },
   {
@@ -7970,29 +8068,6 @@
     "alternativPraeparat": "Bendafolin 10 mg/ml - Einreichungsnummer: 2144053",
     "datumErstmeldung": "2022-03-11",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "06649598"
-    ],
-    "enr": [
-      "0191371"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-20",
-    "datumEnde": "2023-05-15",
-    "datumLetzteMeldung": "2023-02-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocillin 250 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "+49 06252957000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-27",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -8623,56 +8698,6 @@
   },
   {
     "pzn": [
-      "01831708",
-      "03124978"
-    ],
-    "enr": [
-      "0156647"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-03",
-    "datumEnde": "2023-07-07",
-    "datumLetzteMeldung": "2023-02-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOCILLIN 400 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252957000",
-    "mail": "kontakt@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage auf Grund der Lieferunfähigkeit der Mitbewerber",
-    "datumErstmeldung": "2023-02-03",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01658374",
-      "03124961"
-    ],
-    "enr": [
-      "0061705"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-01",
-    "datumEnde": "2023-05-26",
-    "datumLetzteMeldung": "2023-02-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocillin 300 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "kontakt@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage wegen Lieferunfähigkeit von Mitbewerbern",
-    "datumErstmeldung": "2022-12-01",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "06107727"
     ],
     "enr": [
@@ -9115,29 +9140,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-24",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06648305"
-    ],
-    "enr": [
-      "2124661"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-13",
-    "datumEnde": "2023-06-23",
-    "datumLetzteMeldung": "2023-01-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectomox 250 Saft",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252 95-7900",
-    "mail": "regulatory@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
