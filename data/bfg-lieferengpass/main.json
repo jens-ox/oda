@@ -1,6 +1,213 @@
 [
   {
     "pzn": [
+      "11184925",
+      "11483177"
+    ],
+    "enr": [
+      "2188376"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-15",
+    "datumEnde": "2023-05-31",
+    "datumLetzteMeldung": "2023-05-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "COMBIPRASAL 0,5 mg / 2,5 mg Lösung für einen Vernebler",
+    "atcCode": "R03AL02",
+    "wirkstoffe": "Ipratropiumbromid (Ph.Eur.); Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Penta Arzneimittel GmbH",
+    "telefon": "09435 3008 440",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-05-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02129465",
+      "02850398",
+      "10549336"
+    ],
+    "enr": [
+      "2168100"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-10",
+    "datumEnde": "2023-05-20",
+    "datumLetzteMeldung": "2023-05-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pantoprazol Aristo 40 mg magensaftresistente Tabletten",
+    "atcCode": "A02BC02",
+    "wirkstoffe": "Pantoprazol-Natrium-Sesquihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09012358"
+    ],
+    "enr": [
+      "2127138"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-04",
+    "datumEnde": "2023-06-06",
+    "datumLetzteMeldung": "2023-05-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Temgesic forte sublingual",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-05-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00178548",
+      "04841529"
+    ],
+    "enr": [
+      "2149019"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-20",
+    "datumEnde": "2023-06-09",
+    "datumLetzteMeldung": "2023-05-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefuroxim 500 mg - 1 A Pharma",
+    "atcCode": "J01DC02",
+    "wirkstoffe": "Cefuroximaxetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-12-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05024809",
+      "05024815"
+    ],
+    "enr": [
+      "2182316"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-24",
+    "datumEnde": "2023-06-02",
+    "datumLetzteMeldung": "2023-05-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "MometaHEXAL",
+    "atcCode": "R01AD09",
+    "wirkstoffe": "Mometasonfuroat-Monohydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-03-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14238691",
+      "14238716"
+    ],
+    "enr": [
+      "0243027"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2023-06-02",
+    "datumLetzteMeldung": "2023-05-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Codein - 1 A Pharma 16 mg/ml Tropfen zum Einnehmen, Lösung",
+    "atcCode": "R05DA04",
+    "wirkstoffe": "Codeinphosphat-Hemihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01623683"
+    ],
+    "enr": [
+      "2146822"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-16",
+    "datumEnde": "2023-06-23",
+    "datumLetzteMeldung": "2023-05-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Bisoprolol plus 10/25 - 1 A Pharma",
+    "atcCode": "C07BB07",
+    "wirkstoffe": "Bisoprololfumarat (Ph.Eur.); Hydrochlorothiazid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-16",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "05391732"
+    ],
+    "enr": [
+      "2171909"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-16",
+    "datumEnde": "2023-06-02",
+    "datumLetzteMeldung": "2023-05-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Bisoprolol - 1A Pharma 2,5 mg Filmtabletten",
+    "atcCode": "C07AB07",
+    "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-16",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03446311",
+      "03446570",
+      "04957746"
+    ],
+    "enr": [
+      "2153453"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-03",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-05-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Levocomp 250 / 25 mg",
+    "atcCode": "N04BA02",
+    "wirkstoffe": "Carbidopa-Monohydrat; Levodopa",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2023-04-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "01697724"
     ],
     "enr": [
@@ -819,29 +1026,6 @@
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
     "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-03-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05024809",
-      "05024815"
-    ],
-    "enr": [
-      "2182316"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-24",
-    "datumEnde": "2023-05-26",
-    "datumLetzteMeldung": "2023-05-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "MometaHEXAL",
-    "atcCode": "R01AD09",
-    "wirkstoffe": "Mometasonfuroat-Monohydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
     "datumErstmeldung": "2023-03-24",
     "infoFachkreise": "Vorgesehen"
   },
@@ -1990,53 +2174,6 @@
   },
   {
     "pzn": [
-      "04152592",
-      "04152617"
-    ],
-    "enr": [
-      "2171880"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-16",
-    "datumEnde": "2023-05-25",
-    "datumLetzteMeldung": "2023-05-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "BisoHEXAL 3,75 mg Filmtabletten",
-    "atcCode": "C07AB07",
-    "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-16",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03446311",
-      "03446570",
-      "04957746"
-    ],
-    "enr": [
-      "2153453"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-03",
-    "datumEnde": "2023-05-19",
-    "datumLetzteMeldung": "2023-05-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Levocomp 250 / 25 mg",
-    "atcCode": "N04BA02",
-    "wirkstoffe": "Carbidopa-Monohydrat; Levodopa",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2023-04-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "07116987"
     ],
     "enr": [
@@ -2169,29 +2306,6 @@
     "zulassungsinhaber": "SEPTODONT GmbH",
     "telefon": "+49 228 971260",
     "mail": "info@septodont.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-05-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09012358"
-    ],
-    "enr": [
-      "2127138"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-04",
-    "datumEnde": "2023-05-22",
-    "datumLetzteMeldung": "2023-05-04",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Temgesic forte sublingual",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-05-04",
     "infoFachkreise": "Vorgesehen"
@@ -2463,28 +2577,6 @@
   },
   {
     "pzn": [
-      "05391732"
-    ],
-    "enr": [
-      "2171909"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-16",
-    "datumEnde": "2023-05-19",
-    "datumLetzteMeldung": "2023-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Bisoprolol - 1A Pharma 2,5 mg Filmtabletten",
-    "atcCode": "C07AB07",
-    "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-16",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00829419"
     ],
     "enr": [
@@ -2503,31 +2595,6 @@
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00178548",
-      "00178560",
-      "04841512",
-      "04841529"
-    ],
-    "enr": [
-      "2149019"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-20",
-    "datumEnde": "2023-05-26",
-    "datumLetzteMeldung": "2023-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefuroxim 500 mg - 1 A Pharma",
-    "atcCode": "J01DC02",
-    "wirkstoffe": "Cefuroximaxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-12-23",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -4371,28 +4438,6 @@
   },
   {
     "pzn": [
-      "01623683"
-    ],
-    "enr": [
-      "2146822"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-16",
-    "datumEnde": "2023-05-19",
-    "datumLetzteMeldung": "2023-04-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Bisoprolol plus 10/25 - 1 A Pharma",
-    "atcCode": "C07BB07",
-    "wirkstoffe": "Bisoprololfumarat (Ph.Eur.); Hydrochlorothiazid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-16",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00658805",
       "00658811",
       "00658828"
@@ -5288,31 +5333,6 @@
   },
   {
     "pzn": [
-      "02129465",
-      "02129494",
-      "02850398",
-      "10549336"
-    ],
-    "enr": [
-      "2168100"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-10",
-    "datumEnde": "2023-05-20",
-    "datumLetzteMeldung": "2023-04-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pantoprazol Aristo 40 mg magensaftresistente Tabletten",
-    "atcCode": "A02BC02",
-    "wirkstoffe": "Pantoprazol-Natrium-Sesquihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "13588578",
       "13588584"
     ],
@@ -5612,29 +5632,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2021-09-15",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14238691",
-      "14238716"
-    ],
-    "enr": [
-      "0243027"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-05",
-    "datumEnde": "2023-05-23",
-    "datumLetzteMeldung": "2023-04-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Codein - 1 A Pharma 16 mg/ml Tropfen zum Einnehmen, Lösung",
-    "atcCode": "R05DA04",
-    "wirkstoffe": "Codeinphosphat-Hemihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
