@@ -1,6 +1,335 @@
 [
   {
     "pzn": [
+      "02182637"
+    ],
+    "enr": [
+      "2106383"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-01",
+    "datumEnde": "2023-08-15",
+    "datumLetzteMeldung": "2023-05-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Arilin 250 mg",
+    "atcCode": "J01XD01",
+    "wirkstoffe": "Metronidazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dr. August Wolff GmbH & Co. KG Arzneimittel",
+    "telefon": "0521 8808 7640",
+    "mail": "tatjana.siemens@drwolffgroup.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2023-01-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02182643"
+    ],
+    "enr": [
+      "1461602"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-01",
+    "datumEnde": "2023-08-15",
+    "datumLetzteMeldung": "2023-05-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Arilin Kombipackung",
+    "atcCode": "G01AF01",
+    "wirkstoffe": "Metronidazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dr. August Wolff GmbH & Co. KG Arzneimittel",
+    "telefon": "052188087640",
+    "mail": "tatjana.siemens@drwolffgroup.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2023-01-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03750291"
+    ],
+    "enr": [
+      "0820714"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-08",
+    "datumEnde": "2023-05-30",
+    "datumLetzteMeldung": "2023-05-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 200 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-05-22",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07507110",
+      "11072132"
+    ],
+    "enr": [
+      "0610075"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-09",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-05-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 400 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252-95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11285833",
+      "11285856"
+    ],
+    "enr": [
+      "2160410"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-15",
+    "datumEnde": "2023-07-15",
+    "datumLetzteMeldung": "2023-05-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOOPTICEF Saft 100 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01DD08",
+    "wirkstoffe": "Cefixim (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00067872"
+    ],
+    "enr": [
+      "2158367"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-10-26",
+    "datumEnde": "2023-05-31",
+    "datumLetzteMeldung": "2023-05-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxygesic akut 5 mg",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-10-26",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01356271"
+    ],
+    "enr": [
+      "2132826"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-15",
+    "datumEnde": "2023-05-30",
+    "datumLetzteMeldung": "2023-05-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocef 250 Saft",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-05-22",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17483132"
+    ],
+    "enr": [
+      "2201628"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-22",
+    "datumEnde": "2023-06-09",
+    "datumLetzteMeldung": "2023-05-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Syner-KINASE",
+    "atcCode": "B01AD04",
+    "wirkstoffe": "Urokinase",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Syner-Medica B.V.",
+    "telefon": "+49(89)450808780",
+    "mail": "sales@lyomark.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-05-22",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "15398557"
+    ],
+    "enr": [
+      "2714968"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-22",
+    "datumEnde": "2023-06-07",
+    "datumLetzteMeldung": "2023-05-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ozempic 1 mg Injektionslösung in einem Fertigpen - OP3ml",
+    "atcCode": "A10BJ06",
+    "wirkstoffe": "Semaglutid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
+    "datumErstmeldung": "2023-05-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15398540"
+    ],
+    "enr": [
+      "2714967"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-22",
+    "datumEnde": "2023-06-07",
+    "datumLetzteMeldung": "2023-05-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP(3x1,5ml)",
+    "atcCode": "A10BJ06",
+    "wirkstoffe": "Semaglutid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
+    "alternativPraeparat": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP1,5 ml - Einreichungsnummer: 2714966",
+    "datumErstmeldung": "2023-05-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07469993",
+      "11130303"
+    ],
+    "enr": [
+      "0718559"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-05",
+    "datumEnde": "2023-07-28",
+    "datumLetzteMeldung": "2023-05-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hepa-Merz Granulat 6000",
+    "atcCode": "A05BA",
+    "wirkstoffe": "Ornithinaspartat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Merz Pharmaceuticals GmbH",
+    "mail": "jan.ranau@merz.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferengpass beim API",
+    "datumErstmeldung": "2023-02-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06983245",
+      "06983274"
+    ],
+    "enr": [
+      "3001934"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-06-09",
+    "datumEnde": "2023-12-15",
+    "datumLetzteMeldung": "2023-05-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "FOLI-cell",
+    "atcCode": "V03AF03",
+    "wirkstoffe": "Calciumfolinat-Pentahydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "mail": "christiane.georgi@stadapharm.de",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundAnmerkung": "CMO related issue",
+    "datumErstmeldung": "2022-06-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00592704"
+    ],
+    "enr": [
+      "2142653"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-01",
+    "datumEnde": "2023-05-26",
+    "datumLetzteMeldung": "2023-05-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Famotidin STADA 20 mg Filmtabletten",
+    "atcCode": "A02BA03",
+    "wirkstoffe": "Famotidin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "mail": "christiane.georgi@stada.de",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Lieferunfähigkeit wegen hoher Überverkäufe durch out of stock Mitbewerber - Nachbestellung getätigt. Liefertermin neuer Ware wird versucht vorzuziehen.",
+    "datumErstmeldung": "2023-01-11",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08881649",
+      "99999999"
+    ],
+    "enr": [
+      "5104359"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2020-03-01",
+    "datumEnde": "2023-05-31",
+    "datumLetzteMeldung": "2023-05-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Paracetamol Dexcel 500 mg Tabletten",
+    "atcCode": "N02BE01",
+    "wirkstoffe": "Paracetamol",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dexcel Pharma GmbH",
+    "telefon": "06023 9480-0",
+    "mail": "service@dexcel.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2020-05-11",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "11184925",
       "11483177"
     ],
@@ -230,30 +559,6 @@
   },
   {
     "pzn": [
-      "08881649",
-      "99999999"
-    ],
-    "enr": [
-      "5104359"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2020-03-01",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-05-17",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Paracetamol Dexcel 500 mg Tabletten",
-    "atcCode": "N02BE01",
-    "wirkstoffe": "Paracetamol",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dexcel Pharma GmbH",
-    "telefon": "06023 9480-0",
-    "mail": "service@dexcel.com",
-    "grund": "Herstellerwechsel",
-    "datumErstmeldung": "2020-05-11",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01491276"
     ],
     "enr": [
@@ -323,30 +628,6 @@
     "grundAnmerkung": "Lieferverzögerung durch eine niedrigere Produktionskapazität als erwartet",
     "datumErstmeldung": "2023-03-28",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "05387630"
-    ],
-    "enr": [
-      "2702570"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-16",
-    "datumEnde": "2023-05-22",
-    "datumLetzteMeldung": "2023-05-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Apidra 100 I.E./ml Injektionslösung in Patrone - OP(5x3ml)",
-    "atcCode": "A10AB06",
-    "wirkstoffe": "Insulin glulisin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Eingeschränkt lieferfähig",
-    "datumErstmeldung": "2023-02-17",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -1424,29 +1705,6 @@
   },
   {
     "pzn": [
-      "00067843",
-      "00067872"
-    ],
-    "enr": [
-      "2158367"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-10-26",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-05-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxygesic akut 5 mg",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-10-26",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00413156",
       "00413185"
     ],
@@ -2151,29 +2409,6 @@
   },
   {
     "pzn": [
-      "07507110"
-    ],
-    "enr": [
-      "0610075"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-09",
-    "datumEnde": "2023-06-05",
-    "datumLetzteMeldung": "2023-05-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 400 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252-95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "07116987"
     ],
     "enr": [
@@ -2786,29 +3021,6 @@
     "grundAnmerkung": "Vermindertes Plasmasammelvolumen aufgrund der COVID-19-Pandemie;betroffenen Packungsgrößen: alle; PZN: 07764019, 07764025, 07764048, 07764054, 07764077, 06613991",
     "datumErstmeldung": "2021-02-26",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "11285856"
-    ],
-    "enr": [
-      "2160410"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-15",
-    "datumEnde": "2023-07-03",
-    "datumLetzteMeldung": "2023-04-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOOPTICEF Saft 100 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DD08",
-    "wirkstoffe": "Cefixim (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252957000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-20",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -8097,30 +8309,6 @@
   },
   {
     "pzn": [
-      "07469993",
-      "11130303"
-    ],
-    "enr": [
-      "0718559"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-05",
-    "datumEnde": "2023-05-19",
-    "datumLetzteMeldung": "2023-02-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hepa-Merz Granulat 6000",
-    "atcCode": "A05BA",
-    "wirkstoffe": "Ornithinaspartat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Merz Pharmaceuticals GmbH",
-    "mail": "jan.ranau@merz.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferengpass beim API",
-    "datumErstmeldung": "2023-02-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02550242",
       "02719250"
     ],
@@ -8770,29 +8958,6 @@
   },
   {
     "pzn": [
-      "02182643"
-    ],
-    "enr": [
-      "1461602"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-01",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-02-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Arilin Kombipackung",
-    "atcCode": "G01AF01",
-    "wirkstoffe": "Metronidazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dr. August Wolff GmbH & Co. KG Arzneimittel",
-    "telefon": "052188087640",
-    "mail": "tatjana.siemens@drwolffgroup.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2023-01-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "09482762",
       "09482779",
       "09482785"
@@ -8814,29 +8979,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-02-03",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02182637"
-    ],
-    "enr": [
-      "2106383"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-01",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-02-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Arilin 250 mg",
-    "atcCode": "J01XD01",
-    "wirkstoffe": "Metronidazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dr. August Wolff GmbH & Co. KG Arzneimittel",
-    "telefon": "0521 8808 7640",
-    "mail": "tatjana.siemens@drwolffgroup.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2023-01-20",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -9376,29 +9518,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-02-16",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00592704"
-    ],
-    "enr": [
-      "2142653"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-01",
-    "datumEnde": "2023-05-22",
-    "datumLetzteMeldung": "2023-01-11",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Famotidin STADA 20 mg Filmtabletten",
-    "atcCode": "A02BA03",
-    "wirkstoffe": "Famotidin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Lieferunfähigkeit wegen hoher Überverkäufe durch out of stock Mitbewerber - Nachbestellung getätigt. Liefertermin neuer Ware wird versucht vorzuziehen.",
-    "datumErstmeldung": "2023-01-11",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -10055,30 +10174,6 @@
     "grund": "Probleme beim Sonstigen Hersteller",
     "datumErstmeldung": "2022-05-06",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06983245",
-      "06983274"
-    ],
-    "enr": [
-      "3001934"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-06-09",
-    "datumEnde": "2023-05-15",
-    "datumLetzteMeldung": "2022-11-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "FOLI-cell",
-    "atcCode": "V03AF03",
-    "wirkstoffe": "Calciumfolinat-Pentahydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "christiane.georgi@stadapharm.de",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundAnmerkung": "CMO related issue",
-    "datumErstmeldung": "2022-06-09",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
