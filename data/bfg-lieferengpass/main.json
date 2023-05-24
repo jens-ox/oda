@@ -1,6 +1,298 @@
 [
   {
     "pzn": [
+      "03405306"
+    ],
+    "enr": [
+      "2134838"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-16",
+    "datumEnde": "2023-07-15",
+    "datumLetzteMeldung": "2023-05-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Cefuroxim Fresenius 1500 mg zur Infusion",
+    "atcCode": "J01DC02",
+    "wirkstoffe": "Cefuroxim-Natrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "telefon": "061726867883",
+    "mail": "frank.jethon@fresenius-kabi.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Cefuroxim Fresenius 1500 mg Infusion steht aktuell nur eingeschränkt zur Verfügung und wird bis voraussichtlich Anfang/Mitte Juli für alle Kunden in 40% kundenindividuellen Kontingenten ausgeliefert.",
+    "datumErstmeldung": "2023-05-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08420262"
+    ],
+    "enr": [
+      "2138986"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-16",
+    "datumEnde": "2023-07-15",
+    "datumLetzteMeldung": "2023-05-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Cefuroxim Fresenius 750 mg",
+    "atcCode": "J01DC02",
+    "wirkstoffe": "Cefuroxim-Natrium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "telefon": "061726867883",
+    "mail": "frank.jethon@fresenius-kabi.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Cefuroxim Fresenius 750 mg zur Injektion steht ab sofort nur eingeschränkt zur Verfügung und wird bis voraussichtlich Anfang/Mitte Juli für Klinikkunden mit 50% des kundenindividuellen Bedarfes ausgeliefert.",
+    "datumErstmeldung": "2023-05-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08535806",
+      "08535812",
+      "08535829"
+    ],
+    "enr": [
+      "2110772"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-14",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2023-05-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Flunarizin acis 5 mg",
+    "atcCode": "N07CA03",
+    "wirkstoffe": "Flunarizindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "089  44 23 246  0",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-18",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01343529",
+      "01343535",
+      "14142146"
+    ],
+    "enr": [
+      "2140461"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-14",
+    "datumEnde": "2023-07-14",
+    "datumLetzteMeldung": "2023-05-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 25 mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01343564",
+      "01343570",
+      "01343587",
+      "14142169"
+    ],
+    "enr": [
+      "2143114"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-15",
+    "datumEnde": "2023-07-28",
+    "datumLetzteMeldung": "2023-05-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 50mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "+49349542470",
+    "mail": "Zulassung-Sekretariat@mibegmbh.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-05-16",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01343593"
+    ],
+    "enr": [
+      "2140401"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-30",
+    "datumEnde": "2023-07-14",
+    "datumLetzteMeldung": "2023-05-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 100 mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04108088"
+    ],
+    "enr": [
+      "2113316"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-23",
+    "datumEnde": "2023-08-01",
+    "datumLetzteMeldung": "2023-05-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Methotrexat-GRY 5000 mg/50 ml Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "L01BA01",
+    "wirkstoffe": "Methotrexat-Dinatrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TEVA GmbH",
+    "telefon": "0731 402 7657",
+    "mail": "Rui.Araujo@ratiopharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-05-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01343446"
+    ],
+    "enr": [
+      "2140460"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-21",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-05-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 10 mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "+49349542470",
+    "mail": "Zulassung-Sekretariat@mibegmbh.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-11-22",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07691349"
+    ],
+    "enr": [
+      "2103192"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-23",
+    "datumEnde": "2023-08-01",
+    "datumLetzteMeldung": "2023-05-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Methotrexat-GRY 1000 mg/10 ml Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "L01BA01",
+    "wirkstoffe": "Methotrexat-Dinatrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TEVA GmbH",
+    "telefon": "0731 402 7567",
+    "mail": "Rui.Araujo@ratiopharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-05-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00053999",
+      "00054065",
+      "00055857"
+    ],
+    "enr": [
+      "2176707"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-13",
+    "datumEnde": "2023-07-17",
+    "datumLetzteMeldung": "2023-05-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Fexofenadin Winthrop 180 mg Filmtabletten",
+    "atcCode": "R06AX26",
+    "wirkstoffe": "Fexofenadinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Winthrop Arzneimittel GmbH",
+    "telefon": "08005353010",
+    "mail": "MedInfo.DE@zentiva.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "technische Probleme in der Produktionsanlage",
+    "datumErstmeldung": "2023-03-21",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00039901",
+      "00053290",
+      "00053309",
+      "00053982"
+    ],
+    "enr": [
+      "2140860"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2023-07-17",
+    "datumLetzteMeldung": "2023-05-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Fexofenadin Winthrop 120 mg Filmtabletten",
+    "atcCode": "R06AX26",
+    "wirkstoffe": "Fexofenadinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Winthrop Arzneimittel GmbH",
+    "telefon": "08005353010",
+    "mail": "MedInfo.DE@zentiva.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Technische Probleme in der Produktionsanlage",
+    "datumErstmeldung": "2023-03-21",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02021377"
+    ],
+    "enr": [
+      "2100328"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-23",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-05-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ovestin 1 mg Creme",
+    "atcCode": "G03CA04",
+    "wirkstoffe": "Estriol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aspen Pharma Trading Limited",
+    "telefon": "+49 89  93 08 38 00",
+    "mail": "de-info@aspenpharma.eu",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-05-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "02182637"
     ],
     "enr": [
@@ -656,29 +948,6 @@
   },
   {
     "pzn": [
-      "01343593"
-    ],
-    "enr": [
-      "2140401"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-30",
-    "datumEnde": "2023-05-26",
-    "datumLetzteMeldung": "2023-05-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 100 mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "03751706",
       "03751712",
       "08456774"
@@ -706,31 +975,6 @@
   },
   {
     "pzn": [
-      "01343570",
-      "01343587",
-      "14142169"
-    ],
-    "enr": [
-      "2143114"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-15",
-    "datumEnde": "2023-07-28",
-    "datumLetzteMeldung": "2023-05-16",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 50mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "+49349542470",
-    "mail": "Zulassung-Sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-05-16",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00064135",
       "00064141"
     ],
@@ -751,30 +995,6 @@
     "mail": "Zulassung-Sekretariat@mibegmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-01-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01343529",
-      "01343535"
-    ],
-    "enr": [
-      "2140461"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-14",
-    "datumEnde": "2023-07-14",
-    "datumLetzteMeldung": "2023-05-16",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 25 mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-12-21",
     "infoFachkreise": "Nein"
   },
   {
@@ -1538,29 +1758,6 @@
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-09-06",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16239424",
-      "16239430"
-    ],
-    "enr": [
-      "2204918"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-20",
-    "datumEnde": "2023-05-19",
-    "datumLetzteMeldung": "2023-05-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Tamsublock Duo 0,5 mg/0,4 mg Hartkapseln",
-    "atcCode": "G04CA52",
-    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dr. Pfleger Arzneimittel GmbH - Geschäftsanschrift -",
-    "mail": "regaffairs@dr-pfleger.de",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2023-05-12",
     "infoFachkreise": "Nein"
   },
   {
@@ -2647,59 +2844,6 @@
   },
   {
     "pzn": [
-      "00053999",
-      "00054065",
-      "00055857"
-    ],
-    "enr": [
-      "2176707"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-13",
-    "datumEnde": "2023-06-01",
-    "datumLetzteMeldung": "2023-05-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Fexofenadin Winthrop 180 mg Filmtabletten",
-    "atcCode": "R06AX26",
-    "wirkstoffe": "Fexofenadinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Winthrop Arzneimittel GmbH",
-    "telefon": "08005353010",
-    "mail": "MedInfo.DE@zentiva.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "technische Probleme in der Produktionsanlage",
-    "datumErstmeldung": "2023-03-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00039901",
-      "00053290",
-      "00053309",
-      "00053982"
-    ],
-    "enr": [
-      "2140860"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-06-01",
-    "datumLetzteMeldung": "2023-05-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Fexofenadin Winthrop 120 mg Filmtabletten",
-    "atcCode": "R06AX26",
-    "wirkstoffe": "Fexofenadinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Winthrop Arzneimittel GmbH",
-    "telefon": "08005353010",
-    "mail": "MedInfo.DE@zentiva.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Technische Probleme in der Produktionsanlage",
-    "datumErstmeldung": "2023-03-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "17244746"
     ],
     "enr": [
@@ -3735,31 +3879,6 @@
     "grund": "Sonstige",
     "grundAnmerkung": "Eingeschränkte Lieferfähigkeit. Alternativen: Valproat Chrono Winthrop® 300mg (PZN 00999110, 00999127) oder wirkstoffgleiche Präparate von Mitbewerbern.",
     "datumErstmeldung": "2022-11-25",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08535806",
-      "08535812",
-      "08535829"
-    ],
-    "enr": [
-      "2110772"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-14",
-    "datumEnde": "2023-06-09",
-    "datumLetzteMeldung": "2023-04-25",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Flunarizin acis 5 mg",
-    "atcCode": "N07CA03",
-    "wirkstoffe": "Flunarizindihydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "acis Arzneimittel GmbH",
-    "telefon": "089  44 23 246  0",
-    "mail": "Medwiss.Acis@dermapharm.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-18",
     "infoFachkreise": "Nein"
   },
   {
@@ -7032,31 +7151,6 @@
     "mail": "shortages@infectopharm.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-28",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01343446",
-      "01343469",
-      "14142092"
-    ],
-    "enr": [
-      "2140460"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-21",
-    "datumEnde": "2023-05-26",
-    "datumLetzteMeldung": "2023-03-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 10 mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "+49349542470",
-    "mail": "Zulassung-Sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-11-22",
     "infoFachkreise": "Nein"
   },
   {
