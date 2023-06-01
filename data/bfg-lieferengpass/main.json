@@ -1,29 +1,496 @@
 [
   {
     "pzn": [
-      "03045149",
-      "03045256"
+      "02404799"
     ],
     "enr": [
-      "2702371",
-      "2702372"
+      "2115920"
     ],
     "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-17",
+    "datumBeginn": "2023-06-01",
     "datumEnde": "2023-07-31",
-    "datumLetzteMeldung": "2023-05-30",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Diazepam Desitin rectal tube 10mg",
+    "atcCode": "N05BA01",
+    "wirkstoffe": "Diazepam",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
+    "telefon": "040591010",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-05-31",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02404782"
+    ],
+    "enr": [
+      "2115919"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-01",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Diazepam Desitin rectal tube 5mg",
+    "atcCode": "N05BA01",
+    "wirkstoffe": "Diazepam",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
+    "telefon": "040591010",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-05-31",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02231494"
+    ],
+    "enr": [
+      "2124625"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-03",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-05-31",
     "grundArt": "Sonstige",
-    "bezeichnung": "LITAK 2mg/ml Injektionslösung - OP1",
-    "atcCode": "L01BB04",
-    "wirkstoffe": "Cladribin",
+    "bezeichnung": "CEFACLOR BASICS 125 mg TS",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Basics GmbH",
+    "mail": "rabattvertraege@sunpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14235853",
+      "14235876"
+    ],
+    "enr": [
+      "2199569"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-15",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Sonstige",
+    "bezeichnung": "AKSUNIM 50 mg/g Creme",
+    "atcCode": "D06BB10",
+    "wirkstoffe": "Imiquimod",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Basics GmbH",
+    "mail": "rabattvertraege@sunpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-05-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03220989",
+      "03220995",
+      "04495582"
+    ],
+    "enr": [
+      "2107536"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-07",
+    "datumEnde": "2023-07-01",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Carbamazepin-neuraxpharm 200mg",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Lipomed GmbH",
-    "telefon": "+49 7621 1693 472",
-    "mail": "lipomed@lipomed.com",
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "mail": "info@neuraxpharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-01-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02173472"
+    ],
+    "enr": [
+      "2150328"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-25",
+    "datumEnde": "2023-08-18",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednison acis 50mg",
+    "atcCode": "H02AB07",
+    "wirkstoffe": "Prednison",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "08944232460",
+    "mail": "Medwiss.Acis@dermapharm.com",
     "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "Der aktuell zugelassene Auftragshersteller für das Arzneimittel ist zurzeit nicht in der Lage, das Arzneimittel herzustellen.",
-    "alternativPraeparat": "Leustatin 10mg/10ml Konzentrat zur Herstellung einer Infusionslösung - Einreichungsnummer: 2130426",
-    "datumErstmeldung": "2023-05-30",
+    "datumErstmeldung": "2023-05-31",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01300402"
+    ],
+    "enr": [
+      "2150545"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-15",
+    "datumEnde": "2023-06-09",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolon acis 5mg",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Prednisolon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "08944232460",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-05-31",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "10269542"
+    ],
+    "enr": [
+      "2181074"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-25",
+    "datumEnde": "2023-07-07",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Phenprocoumon acis 3 mg Tabletten",
+    "atcCode": "B01AA04",
+    "wirkstoffe": "Phenprocoumon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "08944232460",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-05-31",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13923887"
+    ],
+    "enr": [
+      "2192652"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-01",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Algecia 25 mg Hartkapseln",
+    "atcCode": "N03AX16",
+    "wirkstoffe": "Pregabalin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "mail": "michaela.kunze@elpen-pharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundAnmerkung": "Artikel \"außer Vertrieb\" zum 01.06.2023",
+    "datumErstmeldung": "2023-03-30",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "13923918",
+      "13923924"
+    ],
+    "enr": [
+      "2192654"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-01",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Algecia 75 mg Hartkapseln",
+    "atcCode": "N03AX16",
+    "wirkstoffe": "Pregabalin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "mail": "michaela.kunze@elpen-pharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundAnmerkung": "Artikel \"außer Vertrieb\" zum 01.06.2023",
+    "datumErstmeldung": "2023-03-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17244663"
+    ],
+    "enr": [
+      "2205680"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-17",
+    "datumEnde": "2023-06-05",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ezetimib/Atorvastatin ELPEN 10 mg/10 mg Filmtabletten",
+    "atcCode": "C10BA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.); Ezetimib",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "telefon": "030 7974040 0",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-04-18",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14166715",
+      "14166721"
+    ],
+    "enr": [
+      "2193811"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ROSUVASTATIN-ELPEN 5 mg Filmtabletten",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "telefon": "030 7974040 0",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-02-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16037850",
+      "16037867"
+    ],
+    "enr": [
+      "2193814"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ROSUVASTATIN-ELPEN 40 mg Filmtabletten",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "telefon": "030 7974040 0",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-03-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02587877",
+      "02724311"
+    ],
+    "enr": [
+      "2108287"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-30",
+    "datumEnde": "2023-08-15",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Arilin 500 mg",
+    "atcCode": "J01XD01, P01AB01",
+    "wirkstoffe": "Metronidazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dr. August Wolff GmbH & Co. KG Arzneimittel",
+    "telefon": "052188087640",
+    "mail": "tatjana.siemens@drwolffgroup.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2023-05-31",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18030450",
+      "18030467",
+      "18030473",
+      "18030510",
+      "18030527"
+    ],
+    "enr": [
+      "7009422"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-01",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Yimmugo",
+    "atcCode": "J06BA02",
+    "wirkstoffe": "Normales Immunglobulin vom Menschen zur intravenösen Anwendung",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Biotest Pharma GmbH",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-01",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "18155513",
+      "18155536"
+    ],
+    "enr": [
+      "7005873"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-31",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Dimethylfumarat AL 240 mg magensaftresistente Hartkapseln",
+    "atcCode": "L04AX07",
+    "wirkstoffe": "Dimethylfumarat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-05-31",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "18155507"
+    ],
+    "enr": [
+      "7005872"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-31",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Dimethylfumarat AL 120 mg magensaftresistente Hartkapseln",
+    "atcCode": "L04AX07",
+    "wirkstoffe": "Dimethylfumarat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-05-31",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "04748391",
+      "04748416",
+      "04748422",
+      "07558225"
+    ],
+    "enr": [
+      "2121767"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-02",
+    "datumEnde": "2023-06-14",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nifedipin AL5",
+    "atcCode": "C08CA05",
+    "wirkstoffe": "Nifedipin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "00958312",
+      "00958335"
+    ],
+    "enr": [
+      "2146002"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-30",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Carbamazepin AL 400 retard",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "m.schwabe@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-05-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10946617"
+    ],
+    "enr": [
+      "2102089"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-02-07",
+    "datumEnde": "2023-07-14",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Tambocor",
+    "atcCode": "C01BC04",
+    "wirkstoffe": "Flecainidacetat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800 0700 800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-05-31",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02067020"
+    ],
+    "enr": [
+      "2100358"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-13",
+    "datumEnde": "2023-06-15",
+    "datumLetzteMeldung": "2023-05-31",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Rytmonorm",
+    "atcCode": "C01BC03",
+    "wirkstoffe": "Propafenonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800-0700800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-19",
     "infoFachkreise": "Nein"
   },
   {
@@ -2097,29 +2564,6 @@
   },
   {
     "pzn": [
-      "00592704"
-    ],
-    "enr": [
-      "2142653"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-01",
-    "datumEnde": "2023-05-26",
-    "datumLetzteMeldung": "2023-05-22",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Famotidin STADA 20 mg Filmtabletten",
-    "atcCode": "A02BA03",
-    "wirkstoffe": "Famotidin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Lieferunfähigkeit wegen hoher Überverkäufe durch out of stock Mitbewerber - Nachbestellung getätigt. Liefertermin neuer Ware wird versucht vorzuziehen.",
-    "datumErstmeldung": "2023-01-11",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08881649",
       "99999999"
     ],
@@ -2324,28 +2768,6 @@
     "grund": "Probleme beim Sonstigen Hersteller",
     "datumErstmeldung": "2023-04-03",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01697724"
-    ],
-    "enr": [
-      "0451286"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-23",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-05-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Diprosone Creme",
-    "atcCode": "D07AC01",
-    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Organon Healthcare GmbH",
-    "mail": "ra_dach@organon.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-03-27",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -3281,33 +3703,6 @@
   },
   {
     "pzn": [
-      "00000000",
-      "04748391",
-      "04748416",
-      "04748422",
-      "07558225"
-    ],
-    "enr": [
-      "2121767"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-02",
-    "datumEnde": "2023-06-05",
-    "datumLetzteMeldung": "2023-05-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Nifedipin AL5",
-    "atcCode": "C08CA05",
-    "wirkstoffe": "Nifedipin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "15869850",
       "15869867"
     ],
@@ -3420,51 +3815,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-05-10",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16045358"
-    ],
-    "enr": [
-      "2199587"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-22",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-05-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "CLARITHROMYCIN BASICS 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA09",
-    "wirkstoffe": "Clarithromycin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Basics GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14235853",
-      "14235876"
-    ],
-    "enr": [
-      "2199569"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-15",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-05-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "AKSUNIM 50 mg/g Creme",
-    "atcCode": "D06BB10",
-    "wirkstoffe": "Imiquimod",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Basics GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-05-10",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -3673,29 +4023,6 @@
   },
   {
     "pzn": [
-      "07242485"
-    ],
-    "enr": [
-      "2700028"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-10",
-    "datumEnde": "2023-05-29",
-    "datumLetzteMeldung": "2023-05-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Humalog 100 E/ml Injektionslösung in Durchstechflasche - OP10ml",
-    "atcCode": "A10AB04",
-    "wirkstoffe": "Insulin lispro",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Eli Lilly Nederland B.V.",
-    "telefon": "06172-2732222",
-    "mail": "regulatory_lillydeutschland@lilly.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-05-08",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03789123"
     ],
     "enr": [
@@ -3825,7 +4152,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "030338427306",
     "mail": "nleppkes@esteve.com",
     "grund": "Erhöhte Nachfrage",
@@ -3899,7 +4226,7 @@
     "atcCode": "J06BA02",
     "wirkstoffe": "Immunglobulin G vom Menschen",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Prothya Biosolutions Netherlands B.V.",
+    "zulassungsinhaber": "Sanquin Plasma Products B.V.",
     "telefon": "+31615045921",
     "mail": "bjorn.vanderklugt@prothya.com",
     "grund": "Probleme in der Herstellung",
@@ -3981,28 +4308,6 @@
   },
   {
     "pzn": [
-      "17244746"
-    ],
-    "enr": [
-      "2205683"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-03",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-05-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ezetimib/Atorvastatin ELPEN 10 mg/80 mg Filmtabletten",
-    "atcCode": "C10BA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.); Ezetimib",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "03079740400",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-05-03",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "11532616"
     ],
     "enr": [
@@ -4022,28 +4327,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-03-07",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17244663"
-    ],
-    "enr": [
-      "2205680"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-17",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-05-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ezetimib/Atorvastatin ELPEN 10 mg/10 mg Filmtabletten",
-    "atcCode": "C10BA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.); Ezetimib",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "030 7974040 0",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-04-18",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -4206,31 +4489,6 @@
     "mail": "info@septodont.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-02-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "00958312",
-      "00958335"
-    ],
-    "enr": [
-      "2146002"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-30",
-    "datumEnde": "2023-06-09",
-    "datumLetzteMeldung": "2023-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Carbamazepin AL 400 retard",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "m.schwabe@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-05-02",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5308,29 +5566,6 @@
   },
   {
     "pzn": [
-      "02067020"
-    ],
-    "enr": [
-      "2100358"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-13",
-    "datumEnde": "2023-05-30",
-    "datumLetzteMeldung": "2023-04-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Rytmonorm",
-    "atcCode": "C01BC03",
-    "wirkstoffe": "Propafenonhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800-0700800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-04-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "06324726"
     ],
     "enr": [
@@ -6200,28 +6435,6 @@
   },
   {
     "pzn": [
-      "16398039"
-    ],
-    "enr": [
-      "2202511"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-06",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-04-06",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Amlodipin/Valsartan/Hydrochlorothiazid ELPEN 10 mg/320 mg/25 mg Filmtabletten",
-    "atcCode": "TERM_ID_NA_2090002384",
-    "wirkstoffe": "Amlodipinbesilat; Hydrochlorothiazid; Valsartan",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "mail": "michaela.kunze@elpen-pharma.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-04-06",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "03773725",
       "03773748",
       "04957769"
@@ -6678,54 +6891,6 @@
   },
   {
     "pzn": [
-      "14359147",
-      "14359153",
-      "14359176"
-    ],
-    "enr": [
-      "2193183"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-04-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Arpilif 30 mg Tabletten",
-    "atcCode": "N05AX12",
-    "wirkstoffe": "Aripiprazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "mail": "michaela.kunze@elpen-pharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-04-03",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14359058",
-      "14359070",
-      "14359087"
-    ],
-    "enr": [
-      "2193181"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-04-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Arpilif 10 mg Tabletten",
-    "atcCode": "N05AX12",
-    "wirkstoffe": "Aripiprazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "mail": "michaela.kunze@elpen-pharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-04-03",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00113721",
       "00113738"
     ],
@@ -6769,31 +6934,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-04-03",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "18030450",
-      "18030467",
-      "18030473",
-      "18030510",
-      "18030527"
-    ],
-    "enr": [
-      "7009422"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-01",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-03-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Yimmugo",
-    "atcCode": "J06BA02",
-    "wirkstoffe": "Normales Immunglobulin vom Menschen zur intravenösen Anwendung",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Biotest Pharma GmbH",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-01",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -7029,53 +7169,6 @@
   },
   {
     "pzn": [
-      "13923918",
-      "13923924",
-      "13923930"
-    ],
-    "enr": [
-      "2192654"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-03-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Algecia 75 mg Hartkapseln",
-    "atcCode": "N03AX16",
-    "wirkstoffe": "Pregabalin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "mail": "michaela.kunze@elpen-pharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-03-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13923887",
-      "13923893"
-    ],
-    "enr": [
-      "2192652"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-03-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Algecia 25 mg Hartkapseln",
-    "atcCode": "N03AX16",
-    "wirkstoffe": "Pregabalin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "mail": "michaela.kunze@elpen-pharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-03-30",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "13923999"
     ],
     "enr": [
@@ -7117,51 +7210,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-03-30",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13923901"
-    ],
-    "enr": [
-      "2192653"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-03-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Algecia 50 mg Hartkapseln",
-    "atcCode": "N03AX16",
-    "wirkstoffe": "Pregabalin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "mail": "michaela.kunze@elpen-pharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-03-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02231494"
-    ],
-    "enr": [
-      "2124625"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-03",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-03-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "CEFACLOR BASICS 125 mg TS",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Basics GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-02",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -8000,30 +8048,6 @@
   },
   {
     "pzn": [
-      "03220989",
-      "03220995",
-      "04495582"
-    ],
-    "enr": [
-      "2107536"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-07",
-    "datumEnde": "2023-06-01",
-    "datumLetzteMeldung": "2023-03-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Carbamazepin-neuraxpharm 200mg",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "mail": "zulassung@neuraxpharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-01-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "07342169"
     ],
     "enr": [
@@ -8113,52 +8137,6 @@
     "mail": "michaela.kunze@elpen-pharma.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-03-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16037850",
-      "16037867"
-    ],
-    "enr": [
-      "2193814"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-03-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "ROSUVASTATIN-ELPEN 40 mg Filmtabletten",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "mail": "michaela.kunze@elpen-pharma.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-03-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14166715",
-      "14166721"
-    ],
-    "enr": [
-      "2193811"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-03-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "ROSUVASTATIN-ELPEN 5 mg Filmtabletten",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "mail": "michaela.kunze@elpen-pharma.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-02-15",
     "infoFachkreise": "Vorgesehen"
   },
   {
