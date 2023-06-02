@@ -1,6 +1,589 @@
 [
   {
     "pzn": [
+      "03530721"
+    ],
+    "enr": [
+      "2108244"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-01",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ciprobay 500mg",
+    "atcCode": "J01MA02",
+    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bayer Vital GmbH",
+    "telefon": "0800 6422937",
+    "mail": "medical-information@bayer.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16398074",
+      "16398080"
+    ],
+    "enr": [
+      "2202147"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-01",
+    "datumEnde": "2023-06-12",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxiclav-Elpen 875 mg/125 mg Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "telefon": "030 7974040 0",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03524548"
+    ],
+    "enr": [
+      "3000274"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-30",
+    "datumEnde": "2023-07-30",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Prednisolon-Augensalbe Jenapharm",
+    "atcCode": "S01BA04",
+    "wirkstoffe": "Prednisolon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04821484"
+    ],
+    "enr": [
+      "2140631"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-12",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolon 1mg JENAPHARM",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Prednisolon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Prednisolon 1mg JENAPHARM - Einreichungsnummer: 2140631",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "10775794"
+    ],
+    "enr": [
+      "2189383"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-25",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Prednifluid 10 mg/ml Augentropfensuspension",
+    "atcCode": "S01BA04",
+    "wirkstoffe": "Prednisolonacetat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08890447"
+    ],
+    "enr": [
+      "2140190"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-25",
+    "datumEnde": "2023-06-23",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Decostriol 0,25 Mikrogramm Weichkapsel",
+    "atcCode": "A11CC04",
+    "wirkstoffe": "Calcitriol",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00134601",
+      "01343593",
+      "01343618",
+      "14142100"
+    ],
+    "enr": [
+      "2140401"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-30",
+    "datumEnde": "2023-07-14",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 100 mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06324726"
+    ],
+    "enr": [
+      "2130124"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-14",
+    "datumEnde": "2023-09-22",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Adrekar",
+    "atcCode": "C01EB",
+    "wirkstoffe": "Adenosin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "0800 52 52 010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Mögliche Alternativen: wirkstoff- und dosierungsgleiche Präparate von Mitbewerbern",
+    "datumErstmeldung": "2023-04-18",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08523832"
+    ],
+    "enr": [
+      "2139298"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-13",
+    "datumEnde": "2023-10-31",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Adenoscan",
+    "atcCode": "C01EB10",
+    "wirkstoffe": "Adenosin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "0800 5252010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Alternativen: wirkstoff- und dosierungsgleiche Präparate von Mitbewerbern",
+    "datumErstmeldung": "2023-03-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14166738",
+      "14166744"
+    ],
+    "enr": [
+      "2193812"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ROSUVASTATIN-ELPEN 10 mg Filmtabletten",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "telefon": "030 7974040 0",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-03-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14166750",
+      "14166767"
+    ],
+    "enr": [
+      "2193813"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ROSUVASTATIN-ELPEN 20 mg Filmtabletten",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "telefon": "030 7974040 0",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-02-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09465918"
+    ],
+    "enr": [
+      "2706421"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-11",
+    "datumEnde": "2023-07-28",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Olanzapin Glenmark 5 mg Tabletten - OP28",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "service.de@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13912530",
+      "14190435"
+    ],
+    "enr": [
+      "2200128"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-10",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Nortriptylin Glenmark 25 mg Filmtabletten",
+    "atcCode": "N06AA10",
+    "wirkstoffe": "Nortriptylinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "service.de@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11323195",
+      "15785780"
+    ],
+    "enr": [
+      "2201251"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-23",
+    "datumEnde": "2023-10-20",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Levetiracetam Glenmark 100 mg/ml Lösung zum Einnehmen",
+    "atcCode": "N03AX14",
+    "wirkstoffe": "Levetiracetam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "service.de@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17534881",
+      "17534898"
+    ],
+    "enr": [
+      "2198825"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-04",
+    "datumEnde": "2023-11-10",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Lacosamid Glenmark 50 mg Filmtabletten",
+    "atcCode": "N03AX18",
+    "wirkstoffe": "Lacosamid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "service.de@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Hohe Nachfrage und gleichzeitig Kapazitätsengpässe",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17534869",
+      "17534875"
+    ],
+    "enr": [
+      "2198828"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-23",
+    "datumEnde": "2023-11-10",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Lacosamid Glenmark 200 mg Filmtabletten",
+    "atcCode": "N03AX18",
+    "wirkstoffe": "Lacosamid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "service.de@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Hohe Nachfrage und gleichzeitig Kapazitätsengpässe",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17534823",
+      "17534929"
+    ],
+    "enr": [
+      "2198826"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-09",
+    "datumEnde": "2023-11-24",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Lacosamid Glenmark 100 mg Filmtabletten",
+    "atcCode": "N03AX18",
+    "wirkstoffe": "Lacosamid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "service.de@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Hohe Nachfrage und gleichzeitig Kapazitätsengpässe",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13925484",
+      "13925490"
+    ],
+    "enr": [
+      "2185921"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-03",
+    "datumEnde": "2023-07-28",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Hydromorphon-HCl Glenmark 8 mg Hartkapseln, retardiert",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "service.de@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13925426",
+      "13925432",
+      "13925449"
+    ],
+    "enr": [
+      "2185920"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-30",
+    "datumEnde": "2023-08-18",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Hydromorphon-HCl Glenmark 4 mg Hartkapseln, retardiert",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13925596"
+    ],
+    "enr": [
+      "2185923"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-24",
+    "datumEnde": "2023-08-04",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Hydromorphon-HCl Glenmark 24 mg Hartkapseln, retardiert",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "service.de@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13925389",
+      "13925403"
+    ],
+    "enr": [
+      "2185919"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-17",
+    "datumEnde": "2023-09-22",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Hydromorphon-HCl Glenmark 2 mg Hartkapseln, retardiert",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "service.de@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13925538"
+    ],
+    "enr": [
+      "2185922"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-23",
+    "datumEnde": "2023-07-28",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Hydromorphon-HCl Glenmark 16 mg Hartkapseln, retardiert",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "service.de@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13589589",
+      "13589595"
+    ],
+    "enr": [
+      "2197380"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-10",
+    "datumEnde": "2023-08-04",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Gabapentin Glenmark 800 mg Filmtabletten",
+    "atcCode": "N03AX12",
+    "wirkstoffe": "Gabapentin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "service.de@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14266144",
+      "14266262"
+    ],
+    "enr": [
+      "2200583"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-24",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/80 mg Tabletten",
+    "atcCode": "C10BA02",
+    "wirkstoffe": "Ezetimib; Simvastatin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "service.de@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16894212",
+      "16894229"
+    ],
+    "enr": [
+      "2204609"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2023-06-23",
+    "datumLetzteMeldung": "2023-06-01",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Beclometason Glenmark Dosieraerosol 250 Mikrogramm/Sprühstoß Druckgasinhalation, Lösung",
+    "atcCode": "R03BA01",
+    "wirkstoffe": "Beclometasondipropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "telefon": "08142 44392 0",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "02404799"
     ],
     "enr": [
@@ -204,30 +787,6 @@
     "grundAnmerkung": "Artikel \"außer Vertrieb\" zum 01.06.2023",
     "datumErstmeldung": "2023-03-30",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "13923918",
-      "13923924"
-    ],
-    "enr": [
-      "2192654"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-05-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Algecia 75 mg Hartkapseln",
-    "atcCode": "N03AX16",
-    "wirkstoffe": "Pregabalin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "mail": "michaela.kunze@elpen-pharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "Artikel \"außer Vertrieb\" zum 01.06.2023",
-    "datumErstmeldung": "2023-03-30",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -2231,29 +2790,6 @@
   },
   {
     "pzn": [
-      "01343593"
-    ],
-    "enr": [
-      "2140401"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-30",
-    "datumEnde": "2023-07-14",
-    "datumLetzteMeldung": "2023-05-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 100 mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04108088"
     ],
     "enr": [
@@ -3352,29 +3888,6 @@
   },
   {
     "pzn": [
-      "16894229"
-    ],
-    "enr": [
-      "2204609"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-06-23",
-    "datumLetzteMeldung": "2023-05-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Beclometason Glenmark Dosieraerosol 250 Mikrogramm/Sprühstoß Druckgasinhalation, Lösung",
-    "atcCode": "R03BA01",
-    "wirkstoffe": "Beclometasondipropionat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "16894175"
     ],
     "enr": [
@@ -3886,29 +4399,6 @@
   },
   {
     "pzn": [
-      "04191818"
-    ],
-    "enr": [
-      "2702634"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-17",
-    "datumEnde": "2023-06-02",
-    "datumLetzteMeldung": "2023-05-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Arixtra 5 mg/0,4 ml Injektionslösung, Fertigspritze - OP7",
-    "atcCode": "B01AX05",
-    "wirkstoffe": "Fondaparinux-Natrium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mylan IRE Healthcare Limited",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-03-01",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "07617732"
     ],
     "enr": [
@@ -4152,7 +4642,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "030338427306",
     "mail": "nleppkes@esteve.com",
     "grund": "Erhöhte Nachfrage",
@@ -4226,7 +4716,7 @@
     "atcCode": "J06BA02",
     "wirkstoffe": "Immunglobulin G vom Menschen",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Sanquin Plasma Products B.V.",
+    "zulassungsinhaber": "Prothya Biosolutions Netherlands B.V.",
     "telefon": "+31615045921",
     "mail": "bjorn.vanderklugt@prothya.com",
     "grund": "Probleme in der Herstellung",
@@ -4489,30 +4979,6 @@
     "mail": "info@septodont.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-02-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08523832"
-    ],
-    "enr": [
-      "2139298"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-13",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-04-28",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Adenoscan",
-    "atcCode": "C01EB10",
-    "wirkstoffe": "Adenosin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "0800 5252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Alternativen: wirkstoff- und dosierungsgleiche Präparate von Mitbewerbern",
-    "datumErstmeldung": "2023-03-15",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5448,29 +5914,6 @@
   },
   {
     "pzn": [
-      "00497199"
-    ],
-    "enr": [
-      "2136212"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-24",
-    "datumEnde": "2023-06-15",
-    "datumLetzteMeldung": "2023-04-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ciprobay Saft 5 %",
-    "atcCode": "J01MA02",
-    "wirkstoffe": "Ciprofloxacin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bayer Vital GmbH",
-    "telefon": "0800 6422937",
-    "mail": "medical-information@bayer.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-04-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "07392641"
     ],
     "enr": [
@@ -5519,29 +5962,6 @@
   },
   {
     "pzn": [
-      "13925426"
-    ],
-    "enr": [
-      "2185920"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-30",
-    "datumEnde": "2023-07-14",
-    "datumLetzteMeldung": "2023-04-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HCl Glenmark 4 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "telefon": "08142 44392 0",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00000000",
       "09530484"
     ],
@@ -5562,30 +5982,6 @@
     "mail": "a.kredba@aliud.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-04-19",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06324726"
-    ],
-    "enr": [
-      "2130124"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-14",
-    "datumEnde": "2023-09-22",
-    "datumLetzteMeldung": "2023-04-18",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Adrekar",
-    "atcCode": "C01EB",
-    "wirkstoffe": "Adenosin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "0800 52 52 010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Mögliche Alternativen: wirkstoff- und dosierungsgleiche Präparate von Mitbewerbern",
-    "datumErstmeldung": "2023-04-18",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -7169,50 +7565,6 @@
   },
   {
     "pzn": [
-      "13923999"
-    ],
-    "enr": [
-      "2192658"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-03-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Algecia 225 mg Hartkapseln",
-    "atcCode": "N03AX16",
-    "wirkstoffe": "Pregabalin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "mail": "michaela.kunze@elpen-pharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-03-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13923953"
-    ],
-    "enr": [
-      "2192656"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-03-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Algecia 150 mg Hartkapseln",
-    "atcCode": "N03AX16",
-    "wirkstoffe": "Pregabalin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "mail": "michaela.kunze@elpen-pharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-03-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "14289895"
     ],
     "enr": [
@@ -8141,52 +8493,6 @@
   },
   {
     "pzn": [
-      "14166750",
-      "14166767"
-    ],
-    "enr": [
-      "2193813"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-03-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "ROSUVASTATIN-ELPEN 20 mg Filmtabletten",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "mail": "michaela.kunze@elpen-pharma.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-02-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14166738",
-      "14166744"
-    ],
-    "enr": [
-      "2193812"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-03-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "ROSUVASTATIN-ELPEN 10 mg Filmtabletten",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "mail": "michaela.kunze@elpen-pharma.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-03-07",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "07330829",
       "07330835"
     ],
@@ -8780,108 +9086,6 @@
     "grundAnmerkung": "Transfer zu neuem Lieferanten.",
     "datumErstmeldung": "2023-01-04",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08922897"
-    ],
-    "enr": [
-      "2701471"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-23",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-02-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Insuman Comb 25 100 I.E./ml Injektionssuspension in Patrone - OP(10x3ml)",
-    "atcCode": "A10AD01",
-    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung))",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "Stark eingeschränkte Lieferfähigkeit",
-    "datumErstmeldung": "2022-12-28",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "01493571",
-      "01495328"
-    ],
-    "enr": [
-      "2706674",
-      "2706677"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-23",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-02-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Insuman Comb 25 100 I.E./ml SoloStar Injektionssuspension in Fertigpen - OP(5x3ml)",
-    "atcCode": "A10AD01",
-    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung))",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "Stark eingeschränkte Lieferfähigkeit",
-    "datumErstmeldung": "2022-12-28",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "08922845",
-      "08922851"
-    ],
-    "enr": [
-      "2700528",
-      "2701467"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-23",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-02-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Insuman Basal 100 I.E./ml Injektionssuspension in Patrone - OP(5x3ml)",
-    "atcCode": "A10AC01",
-    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung))",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "Stark eingeschränkte Lieferfähigkeit",
-    "datumErstmeldung": "2022-12-28",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "01484052",
-      "01484069"
-    ],
-    "enr": [
-      "2706662",
-      "2706665"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-23",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-02-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Insuman Basal 100 I.E./ml SoloStar Injektionssuspension in Fertigpen - OP(5x3ml)",
-    "atcCode": "A10AC01",
-    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung))",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "Stark eingeschränkte Lieferfähigkeit",
-    "datumErstmeldung": "2022-12-28",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
@@ -9948,58 +10152,6 @@
     "alternativPraeparat": "NANOTOP - Einreichungsnummer: 2182367",
     "datumErstmeldung": "2022-11-29",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01474384",
-      "01483785"
-    ],
-    "enr": [
-      "2706656",
-      "2706659"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-12-23",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2022-12-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Insuman Rapid 100 I.E./ml SoloStar Injektionslösung in Fertigpen - OP(5x3ml)",
-    "atcCode": "A10AB01",
-    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung))",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "Sehr stark eingeschränkte Lieferfähigkeit",
-    "datumErstmeldung": "2022-12-28",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "08923000",
-      "08923023"
-    ],
-    "enr": [
-      "2700523",
-      "2701465"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-12-23",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2022-12-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Insuman Rapid 100 I.E./ml Injektionslösung in Patrone - OP(5x3ml)",
-    "atcCode": "A10AB01",
-    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung))",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "Sehr stark eingeschränkte Lieferfähigkeit",
-    "datumErstmeldung": "2022-12-28",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
