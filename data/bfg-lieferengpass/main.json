@@ -1,6 +1,122 @@
 [
   {
     "pzn": [
+      "00000000"
+    ],
+    "enr": [
+      "0820921"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-01",
+    "datumEnde": "2023-08-01",
+    "datumLetzteMeldung": "2023-06-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "NANOCIS",
+    "atcCode": "V09DB06",
+    "wirkstoffe": "Rheniumsulfid o.w.A.",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Curium Germany GmbH",
+    "mail": "annette.brinker-ext@curiumpharma.com",
+    "grund": "Sonstige",
+    "alternativPraeparat": "NANOTOP - Einreichungsnummer: 2182367",
+    "datumErstmeldung": "2022-11-29",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "12520704"
+    ],
+    "enr": [
+      "2175572"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-24",
+    "datumEnde": "2022-10-15",
+    "datumLetzteMeldung": "2023-06-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "ANESDERM 25 mg/g + 25 mg/g Creme",
+    "atcCode": "N01BB52",
+    "wirkstoffe": "Lidocain; Prilocain",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pierre Fabre Dermo-Kosmetik GmbH",
+    "mail": "zulassung_de@pierre-fabre.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2022-08-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07008080"
+    ],
+    "enr": [
+      "0124765"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-04",
+    "datumEnde": "2023-07-01",
+    "datumLetzteMeldung": "2023-06-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ultracain 2%-Suprarenin 5 ml",
+    "atcCode": "N01BB58",
+    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "SEPTODONT GmbH",
+    "telefon": "+49 228 971260",
+    "mail": "info@septodont.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-05-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07007465"
+    ],
+    "enr": [
+      "0085781"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-06",
+    "datumEnde": "2023-07-01",
+    "datumLetzteMeldung": "2023-06-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ultracain 1%-Suprarenin 5 ml",
+    "atcCode": "N01BB58",
+    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "SEPTODONT GmbH",
+    "telefon": "+49 228 971260",
+    "mail": "info@septodont.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-02-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01913808",
+      "01913843"
+    ],
+    "enr": [
+      "1463475",
+      "1463512"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-30",
+    "datumEnde": "2023-09-01",
+    "datumLetzteMeldung": "2023-06-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ultracain 1%-Suprarenin 50 ml",
+    "atcCode": "N01BB58",
+    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "SEPTODONT GmbH",
+    "telefon": "+49 228 971260",
+    "mail": "info@septodont.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-02-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "03530721"
     ],
     "enr": [
@@ -4376,29 +4492,6 @@
   },
   {
     "pzn": [
-      "09071504",
-      "12520704"
-    ],
-    "enr": [
-      "2175572"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-24",
-    "datumEnde": "2023-05-26",
-    "datumLetzteMeldung": "2023-05-10",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "ANESDERM 25 mg/g + 25 mg/g Creme",
-    "atcCode": "N01BB52",
-    "wirkstoffe": "Lidocain; Prilocain",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pierre Fabre Dermo-Kosmetik GmbH",
-    "mail": "zulassung_de@pierre-fabre.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-08-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "07617732"
     ],
     "enr": [
@@ -4675,29 +4768,6 @@
   },
   {
     "pzn": [
-      "07008080"
-    ],
-    "enr": [
-      "0124765"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-04",
-    "datumEnde": "2023-06-01",
-    "datumLetzteMeldung": "2023-05-04",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ultracain 2%-Suprarenin 5 ml",
-    "atcCode": "N01BB58",
-    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "SEPTODONT GmbH",
-    "telefon": "+49 228 971260",
-    "mail": "info@septodont.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-05-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "17275646",
       "17275652",
       "17275669",
@@ -4912,31 +4982,6 @@
   },
   {
     "pzn": [
-      "01913808",
-      "01913843"
-    ],
-    "enr": [
-      "1463475",
-      "1463512"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-30",
-    "datumEnde": "2023-08-01",
-    "datumLetzteMeldung": "2023-05-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ultracain 1%-Suprarenin 50 ml",
-    "atcCode": "N01BB58",
-    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "SEPTODONT GmbH",
-    "telefon": "+49 228 971260",
-    "mail": "info@septodont.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-02-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "07721984"
     ],
     "enr": [
@@ -4951,29 +4996,6 @@
     "atcCode": "N01BB58",
     "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "SEPTODONT GmbH",
-    "telefon": "+49 228 971260",
-    "mail": "info@septodont.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-02-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07007465"
-    ],
-    "enr": [
-      "0085781"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-06",
-    "datumEnde": "2023-06-01",
-    "datumLetzteMeldung": "2023-05-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ultracain 1%-Suprarenin 5 ml",
-    "atcCode": "N01BB58",
-    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrochlorid",
-    "krankenhausrelevant": true,
     "zulassungsinhaber": "SEPTODONT GmbH",
     "telefon": "+49 228 971260",
     "mail": "info@septodont.de",
@@ -10129,29 +10151,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-02",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000"
-    ],
-    "enr": [
-      "0820921"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-01",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2023-01-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "NANOCIS",
-    "atcCode": "V09DB06",
-    "wirkstoffe": "Rheniumsulfid o.w.A.",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Curium Germany GmbH",
-    "mail": "annette.brinker-ext@curiumpharma.com",
-    "grund": "Sonstige",
-    "alternativPraeparat": "NANOTOP - Einreichungsnummer: 2182367",
-    "datumErstmeldung": "2022-11-29",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
