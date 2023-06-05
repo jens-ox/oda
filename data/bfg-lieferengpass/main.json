@@ -1,6 +1,331 @@
 [
   {
     "pzn": [
+      "00294929",
+      "01345830"
+    ],
+    "enr": [
+      "2153282"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-23",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-06-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ciprohexal 500 mg",
+    "atcCode": "J01MA02",
+    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00658834"
+    ],
+    "enr": [
+      "2107213"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-15",
+    "datumEnde": "2023-06-16",
+    "datumLetzteMeldung": "2023-06-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxi 250 TS - 1 A Pharma",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-12-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00658840"
+    ],
+    "enr": [
+      "2125643"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-19",
+    "datumEnde": "2023-09-22",
+    "datumLetzteMeldung": "2023-06-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxi 500 TS - 1 A Pharma",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-05-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16822537",
+      "16822543"
+    ],
+    "enr": [
+      "2137023"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-03",
+    "datumEnde": "2023-06-10",
+    "datumLetzteMeldung": "2023-06-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefaclor - 1 A Pharma 250 mg Filmtabletten",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-04-03",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00658805",
+      "00658811",
+      "00658828"
+    ],
+    "enr": [
+      "2132376"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-07",
+    "datumEnde": "2023-06-16",
+    "datumLetzteMeldung": "2023-06-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxi 1000-1 A Pharma",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "Amoxihexal 1000 - Einreichungsnummer: 2103604",
+    "datumErstmeldung": "2022-09-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14238691",
+      "14238716"
+    ],
+    "enr": [
+      "0243027"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2023-06-10",
+    "datumLetzteMeldung": "2023-06-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Codein - 1 A Pharma 16 mg/ml Tropfen zum Einnehmen, Lösung",
+    "atcCode": "R05DA04",
+    "wirkstoffe": "Codeinphosphat-Hemihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05024809",
+      "05024815"
+    ],
+    "enr": [
+      "2182316"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-24",
+    "datumEnde": "2023-06-09",
+    "datumLetzteMeldung": "2023-06-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "MometaHEXAL",
+    "atcCode": "R01AD09",
+    "wirkstoffe": "Mometasonfuroat-Monohydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-03-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04568855"
+    ],
+    "enr": [
+      "2107786"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-24",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-06-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxihexal Saft",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-05-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00826220",
+      "00826237"
+    ],
+    "enr": [
+      "2164571"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-24",
+    "datumEnde": "2023-07-07",
+    "datumLetzteMeldung": "2023-06-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefpodoxim HEXAL 100 mg Filmtabletten",
+    "atcCode": "J01DD13",
+    "wirkstoffe": "Cefpodoximproxetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01822951",
+      "01822968",
+      "01822974"
+    ],
+    "enr": [
+      "2140447"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-06-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fluoxetin HEXAL 40 mg Tabletten",
+    "atcCode": "N06AB03",
+    "wirkstoffe": "Fluoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01822916"
+    ],
+    "enr": [
+      "2140254"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2023-08-15",
+    "datumLetzteMeldung": "2023-06-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fluoxetin HEXAL 10 mg Tabletten",
+    "atcCode": "N06AB03",
+    "wirkstoffe": "Fluoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04834133",
+      "04834334",
+      "04834417"
+    ],
+    "enr": [
+      "2140448"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-06-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fluoxetin 40 - 1 A Pharma",
+    "atcCode": "N06AB03",
+    "wirkstoffe": "Fluoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07553328",
+      "07553334",
+      "07553340"
+    ],
+    "enr": [
+      "2107552"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2023-09-30",
+    "datumLetzteMeldung": "2023-06-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "MCP Hexal 10",
+    "atcCode": "A03FA01",
+    "wirkstoffe": "Metoclopramidhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-05-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01882640",
+      "01882657"
+    ],
+    "enr": [
+      "2176877"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-05-19",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-06-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Duodart 0,5 mg / 0,4 mg Hartkapseln",
+    "atcCode": "G04CA52",
+    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
+    "telefon": "08001223355",
+    "mail": "service.info@gsk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhter Bedarf aufgrund von Lieferengpässen bei anderen Dutasterid+Tamsulosin-haltigen Produkten.",
+    "datumErstmeldung": "2023-06-04",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "00000000"
     ],
     "enr": [
@@ -1865,30 +2190,6 @@
   },
   {
     "pzn": [
-      "07553328",
-      "07553334",
-      "07553340"
-    ],
-    "enr": [
-      "2107552"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-05-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "MCP Hexal 10",
-    "atcCode": "A03FA01",
-    "wirkstoffe": "Metoclopramidhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-05-25",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02742912",
       "03518163",
       "03518186",
@@ -2672,28 +2973,6 @@
   },
   {
     "pzn": [
-      "04568855"
-    ],
-    "enr": [
-      "2107786"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-24",
-    "datumEnde": "2023-06-02",
-    "datumLetzteMeldung": "2023-05-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxihexal Saft",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-05-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04599790"
     ],
     "enr": [
@@ -2732,28 +3011,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-05-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00658840"
-    ],
-    "enr": [
-      "2125643"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-19",
-    "datumEnde": "2023-06-09",
-    "datumLetzteMeldung": "2023-05-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxi 500 TS - 1 A Pharma",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-05-24",
     "infoFachkreise": "Vorgesehen"
@@ -3309,52 +3566,6 @@
   },
   {
     "pzn": [
-      "05024809",
-      "05024815"
-    ],
-    "enr": [
-      "2182316"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-24",
-    "datumEnde": "2023-06-02",
-    "datumLetzteMeldung": "2023-05-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "MometaHEXAL",
-    "atcCode": "R01AD09",
-    "wirkstoffe": "Mometasonfuroat-Monohydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-03-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14238691",
-      "14238716"
-    ],
-    "enr": [
-      "0243027"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-05",
-    "datumEnde": "2023-06-02",
-    "datumLetzteMeldung": "2023-05-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Codein - 1 A Pharma 16 mg/ml Tropfen zum Einnehmen, Lösung",
-    "atcCode": "R05DA04",
-    "wirkstoffe": "Codeinphosphat-Hemihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01623683"
     ],
     "enr": [
@@ -3374,28 +3585,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-16",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "05391732"
-    ],
-    "enr": [
-      "2171909"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-16",
-    "datumEnde": "2023-06-02",
-    "datumLetzteMeldung": "2023-05-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Bisoprolol - 1A Pharma 2,5 mg Filmtabletten",
-    "atcCode": "C07AB07",
-    "wirkstoffe": "Bisoprololfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-16",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -5656,28 +5845,6 @@
   },
   {
     "pzn": [
-      "00658834"
-    ],
-    "enr": [
-      "2107213"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-15",
-    "datumEnde": "2023-06-09",
-    "datumLetzteMeldung": "2023-04-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxi 250 TS - 1 A Pharma",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-12-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "06190378",
       "08437156",
       "08541391"
@@ -6004,31 +6171,6 @@
     "mail": "a.kredba@aliud.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-04-19",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00658805",
-      "00658811",
-      "00658828"
-    ],
-    "enr": [
-      "2132376"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-07",
-    "datumEnde": "2023-06-02",
-    "datumLetzteMeldung": "2023-04-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxi 1000-1 A Pharma",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "alternativPraeparat": "Amoxihexal 1000 - Einreichungsnummer: 2103604",
-    "datumErstmeldung": "2022-09-07",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -6953,76 +7095,6 @@
   },
   {
     "pzn": [
-      "01822916"
-    ],
-    "enr": [
-      "2140254"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-05",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-04-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fluoxetin HEXAL 10 mg Tabletten",
-    "atcCode": "N06AB03",
-    "wirkstoffe": "Fluoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01822951",
-      "01822968",
-      "01822974"
-    ],
-    "enr": [
-      "2140447"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-05",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-04-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fluoxetin HEXAL 40 mg Tabletten",
-    "atcCode": "N06AB03",
-    "wirkstoffe": "Fluoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04834133",
-      "04834334",
-      "04834417"
-    ],
-    "enr": [
-      "2140448"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-05",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-04-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fluoxetin 40 - 1 A Pharma",
-    "atcCode": "N06AB03",
-    "wirkstoffe": "Fluoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02421964",
       "02421987"
     ],
@@ -7332,29 +7404,6 @@
   },
   {
     "pzn": [
-      "16822537",
-      "16822543"
-    ],
-    "enr": [
-      "2137023"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-03",
-    "datumEnde": "2023-06-05",
-    "datumLetzteMeldung": "2023-04-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefaclor - 1 A Pharma 250 mg Filmtabletten",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-04-03",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01345847",
       "01345853"
     ],
@@ -7367,29 +7416,6 @@
     "datumLetzteMeldung": "2023-03-30",
     "grundArt": "Sonstige",
     "bezeichnung": "Ciprohexal 750 mg",
-    "atcCode": "J01MA02",
-    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00294929",
-      "01345830"
-    ],
-    "enr": [
-      "2153282"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-23",
-    "datumEnde": "2023-06-09",
-    "datumLetzteMeldung": "2023-03-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ciprohexal 500 mg",
     "atcCode": "J01MA02",
     "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
     "krankenhausrelevant": true,
@@ -8746,29 +8772,6 @@
     "alternativPraeparat": "Bendafolin 10 mg/ml - Einreichungsnummer: 2144053",
     "datumErstmeldung": "2022-03-11",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "00826220",
-      "00826237"
-    ],
-    "enr": [
-      "2164571"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-24",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-02-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefpodoxim HEXAL 100 mg Filmtabletten",
-    "atcCode": "J01DD13",
-    "wirkstoffe": "Cefpodoximproxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-27",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
