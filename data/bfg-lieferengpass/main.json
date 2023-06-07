@@ -1,6 +1,101 @@
 [
   {
     "pzn": [
+      "08890447"
+    ],
+    "enr": [
+      "2140190"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-25",
+    "datumEnde": "2023-07-28",
+    "datumLetzteMeldung": "2023-06-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Decostriol 0,25 Mikrogramm Weichkapsel",
+    "atcCode": "A11CC04",
+    "wirkstoffe": "Calcitriol",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00108849"
+    ],
+    "enr": [
+      "2152306"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-01",
+    "datumEnde": "2023-09-01",
+    "datumLetzteMeldung": "2023-06-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydrocortison acis 10 mg",
+    "atcCode": "H02AB09",
+    "wirkstoffe": "Hydrocortison",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "08944232460",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Hydrocortison acis 10 mg - Einreichungsnummer: 2152306",
+    "datumErstmeldung": "2023-06-06",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06305798",
+      "06305806"
+    ],
+    "enr": [
+      "2155390"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-25",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-06-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ergenyl chrono 300 mg",
+    "atcCode": "N03AG01",
+    "wirkstoffe": "Natriumvalproat; Valproinsäure",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "08005252010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Eingeschränkte Lieferfähigkeit. Alternativen: Valproat Chrono Winthrop® 300mg (PZN 00999110, 00999127) oder wirkstoffgleiche Präparate von Mitbewerbern.",
+    "datumErstmeldung": "2022-11-25",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00413156",
+      "00413185"
+    ],
+    "enr": [
+      "2164953"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-01",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-06-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tostran 2% Gel",
+    "atcCode": "G03BA03",
+    "wirkstoffe": "Testosteron",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Kyowa Kirin Holdings B.V.",
+    "mail": "vttrang.nguyen@kyowakirin.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-05-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "16575300"
     ],
     "enr": [
@@ -860,29 +955,6 @@
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-06-01",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08890447"
-    ],
-    "enr": [
-      "2140190"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-25",
-    "datumEnde": "2023-06-23",
-    "datumLetzteMeldung": "2023-06-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Decostriol 0,25 Mikrogramm Weichkapsel",
-    "atcCode": "A11CC04",
-    "wirkstoffe": "Calcitriol",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-06-01",
     "infoFachkreise": "Nein"
   },
@@ -4614,29 +4686,6 @@
   },
   {
     "pzn": [
-      "00413156",
-      "00413185"
-    ],
-    "enr": [
-      "2164953"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-01",
-    "datumEnde": "2023-07-05",
-    "datumLetzteMeldung": "2023-05-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Tostran 2% Gel",
-    "atcCode": "G03BA03",
-    "wirkstoffe": "Testosteron",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Kyowa Kirin Holdings B.V.",
-    "mail": "vttrang.nguyen@kyowakirin.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-05-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00000000",
       "04748333",
       "04748356",
@@ -5022,7 +5071,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "030338427306",
     "mail": "nleppkes@esteve.com",
     "grund": "Erhöhte Nachfrage",
@@ -5073,7 +5122,7 @@
     "atcCode": "J06BA02",
     "wirkstoffe": "Immunglobulin G vom Menschen",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Prothya Biosolutions Netherlands B.V.",
+    "zulassungsinhaber": "Sanquin Plasma Products B.V.",
     "telefon": "+31615045921",
     "mail": "bjorn.vanderklugt@prothya.com",
     "grund": "Probleme in der Herstellung",
@@ -5704,31 +5753,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-04-26",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06305798",
-      "06305806"
-    ],
-    "enr": [
-      "2155390"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-25",
-    "datumEnde": "2023-06-11",
-    "datumLetzteMeldung": "2023-04-26",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ergenyl chrono 300 mg",
-    "atcCode": "N03AG01",
-    "wirkstoffe": "Natriumvalproat; Valproinsäure",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Eingeschränkte Lieferfähigkeit. Alternativen: Valproat Chrono Winthrop® 300mg (PZN 00999110, 00999127) oder wirkstoffgleiche Präparate von Mitbewerbern.",
-    "datumErstmeldung": "2022-11-25",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -7978,29 +8002,6 @@
     "grundAnmerkung": "Kapazitätsengpässe bei der Produktion; seit 27.03.2023 wieder erhältlich",
     "datumErstmeldung": "2022-12-20",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00776798"
-    ],
-    "enr": [
-      "2126575"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-14",
-    "datumEnde": "2023-06-15",
-    "datumLetzteMeldung": "2023-03-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Klacid Saft",
-    "atcCode": "J01FA09",
-    "wirkstoffe": "Clarithromycin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-21",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
