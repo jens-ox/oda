@@ -1,6 +1,260 @@
 [
   {
     "pzn": [
+      "00674968",
+      "07532964",
+      "07532970"
+    ],
+    "enr": [
+      "2140393"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-30",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-06-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sultanol Dosier-Aerosol",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
+    "telefon": "08001223355",
+    "mail": "service.info@gsk.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03719542"
+    ],
+    "enr": [
+      "2167720"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-08",
+    "datumEnde": "2023-06-19",
+    "datumLetzteMeldung": "2023-06-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Piperacillin/Tazobactam Kabi 4 g/0,5 g Pulver zur Herstellung einer Infusionslösung",
+    "atcCode": "J01CR05",
+    "wirkstoffe": "Piperacillin-Natrium; Tazobactam-Natrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "telefon": "061726867883",
+    "mail": "frank.jethon@fresenius-kabi.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Auslieferung von 100% des durchschnittlichen Kundenbedarfs ab Mitte Juni.",
+    "datumErstmeldung": "2023-05-25",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "04946292",
+      "06332329"
+    ],
+    "enr": [
+      "2106132"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-01",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-06-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "MST 60 mg Mundipharma",
+    "atcCode": "N02AA01",
+    "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-09-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01098455",
+      "01098461"
+    ],
+    "enr": [
+      "2149598"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-14",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-06-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxygesic 80 mg",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-02-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08859756"
+    ],
+    "enr": [
+      "2141154"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-06",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-06-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "OXYGESIC 20 mg",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-06-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11871011"
+    ],
+    "enr": [
+      "2131571"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-24",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-06-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Substitol 100mg",
+    "atcCode": "TERM_ID_NA_2090010356",
+    "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-05-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00696177",
+      "00696183"
+    ],
+    "enr": [
+      "2173085"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-06-29",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-06-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Targin 40 mg/20 mg Retardtabletten",
+    "atcCode": "N02AA55",
+    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-06-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08859934"
+    ],
+    "enr": [
+      "2133165"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-24",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-06-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Palladon retard 24mg",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-05-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00821056",
+      "09312764"
+    ],
+    "enr": [
+      "2159113"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-25",
+    "datumEnde": "2023-06-30",
+    "datumLetzteMeldung": "2023-06-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Palladon 2,6 mg Hartkapseln",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-04-26",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03789123"
+    ],
+    "enr": [
+      "2160825"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-01",
+    "datumEnde": "2023-06-15",
+    "datumLetzteMeldung": "2023-06-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ampicillin/Sulbactam Kabi 2000mg/1000mg",
+    "atcCode": "J01CA01, J01CG01",
+    "wirkstoffe": "Ampicillin-Natrium; Sulbactam-Natrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "telefon": "061726867883",
+    "mail": "frank.jethon@fresenius-kabi.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Die alternative PZN ist für die Dauer des Engpasses mit 50 % des Monatsbedarfs der Kunden lieferbar, um Kunden, die üblicherweise die vom Lieferengpass betroffene PZN beziehen, ebenfalls 50 % ihres Bedarfes liefern zu können.",
+    "datumErstmeldung": "2023-05-08",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "09615743"
+    ],
+    "enr": [
+      "2175114"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-07",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-06-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Urapidil Stragen i.v. 25 mg Injektionslösung",
+    "atcCode": "C02CA06",
+    "wirkstoffe": "Urapidil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Stragen Pharma GmbH - Zweigniederlassung Hilden -",
+    "telefon": "021038809708",
+    "mail": "a.gerold@stragen-pharma.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "08890447"
     ],
     "enr": [
@@ -2500,30 +2754,6 @@
   },
   {
     "pzn": [
-      "03719542"
-    ],
-    "enr": [
-      "2167720"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-08",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2023-05-25",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Piperacillin/Tazobactam Kabi 4 g/0,5 g Pulver zur Herstellung einer Infusionslösung",
-    "atcCode": "J01CR05",
-    "wirkstoffe": "Piperacillin-Natrium; Tazobactam-Natrium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-    "telefon": "061726867883",
-    "mail": "frank.jethon@fresenius-kabi.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Piperacillin/Tazobactam Kabi 4 g/0,5 g steht derzeit nur eingeschränkt zur Verfügung und wird bis voraussichtlich Mitte Juni in kundenindividuellen Kontingenten entsprechend ca. 50% des durchschnittlichen Kundenbedarfs ausgeliefert.",
-    "datumErstmeldung": "2023-05-25",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
       "02242078"
     ],
     "enr": [
@@ -2741,50 +2971,6 @@
   },
   {
     "pzn": [
-      "08859934"
-    ],
-    "enr": [
-      "2133165"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-24",
-    "datumEnde": "2023-06-15",
-    "datumLetzteMeldung": "2023-05-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Palladon retard 24mg",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-05-25",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11871011"
-    ],
-    "enr": [
-      "2131571"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-24",
-    "datumEnde": "2023-06-15",
-    "datumLetzteMeldung": "2023-05-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Substitol 100mg",
-    "atcCode": "TERM_ID_NA_2090010356",
-    "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-05-25",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00081903",
       "00081926",
       "00081932",
@@ -2854,28 +3040,6 @@
   },
   {
     "pzn": [
-      "06332329"
-    ],
-    "enr": [
-      "2106132"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-01",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2023-05-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "MST 60 mg Mundipharma",
-    "atcCode": "N02AA01",
-    "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-09-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04946286",
       "06332312"
     ],
@@ -2917,28 +3081,6 @@
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-09-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01098461"
-    ],
-    "enr": [
-      "2149598"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-14",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2023-05-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxygesic 80 mg",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-02-15",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -3074,28 +3216,6 @@
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-03-31",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00696183"
-    ],
-    "enr": [
-      "2173085"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-06-29",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2023-05-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Targin 40 mg/20 mg Retardtabletten",
-    "atcCode": "N02AA55",
-    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-06-29",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -3803,29 +3923,6 @@
     "mail": "service@dexcel.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2020-05-11",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11184925",
-      "11483177"
-    ],
-    "enr": [
-      "2188376"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-15",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-05-19",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "COMBIPRASAL 0,5 mg / 2,5 mg Lösung für einen Vernebler",
-    "atcCode": "R03AL02",
-    "wirkstoffe": "Ipratropiumbromid (Ph.Eur.); Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Penta Arzneimittel GmbH",
-    "telefon": "09435 3008 440",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-05-19",
     "infoFachkreise": "Nein"
   },
   {
@@ -4965,30 +5062,6 @@
   },
   {
     "pzn": [
-      "03789123"
-    ],
-    "enr": [
-      "2160825"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-01",
-    "datumEnde": "2023-05-31",
-    "datumLetzteMeldung": "2023-05-08",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ampicillin/Sulbactam Kabi 2000mg/1000mg",
-    "atcCode": "J01CA01, J01CG01",
-    "wirkstoffe": "Ampicillin-Natrium; Sulbactam-Natrium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-    "telefon": "061726867883",
-    "mail": "frank.jethon@fresenius-kabi.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Die alternative PZN ist für die Dauer des Engpasses mit 50 % des Monatsbedarfs der Kunden lieferbar, um Kunden, die üblicherweise die vom Lieferengpass betroffene PZN beziehen, ebenfalls 50 % ihres Bedarfes liefern zu können.",
-    "datumErstmeldung": "2023-05-08",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
       "03071822"
     ],
     "enr": [
@@ -5730,28 +5803,6 @@
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-08-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00821056"
-    ],
-    "enr": [
-      "2159113"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-25",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2023-04-26",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Palladon 2,6 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-04-26",
     "infoFachkreise": "Vorgesehen"
   },
   {
