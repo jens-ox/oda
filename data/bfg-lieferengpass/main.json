@@ -1,6 +1,55 @@
 [
   {
     "pzn": [
+      "02492272",
+      "02492289"
+    ],
+    "enr": [
+      "2101839"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-07",
+    "datumEnde": "2023-10-27",
+    "datumLetzteMeldung": "2023-06-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Lonolox 2,5",
+    "atcCode": "C02DC01",
+    "wirkstoffe": "Minoxidil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-08",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02492295",
+      "02492303"
+    ],
+    "enr": [
+      "2101841"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-07",
+    "datumEnde": "2023-10-27",
+    "datumLetzteMeldung": "2023-06-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Lonolox 10",
+    "atcCode": "C02DC01",
+    "wirkstoffe": "Minoxidil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "The interruption of supply is due to a manufacturing process change for the milling operation of minoxidil API at the API manufacturing site Pharmacia & Upjohn Company LLC, Kalamazoo. The reason for the interruption in supply does not impact the quality, safety or efficacy of the finished product currently available on the market.",
+    "datumErstmeldung": "2022-11-08",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "00674968",
       "07532964",
       "07532970"
@@ -1167,30 +1216,6 @@
   },
   {
     "pzn": [
-      "04821484"
-    ],
-    "enr": [
-      "2140631"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-12",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2023-06-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolon 1mg JENAPHARM",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Prednisolon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Prednisolon 1mg JENAPHARM - Einreichungsnummer: 2140631",
-    "datumErstmeldung": "2023-06-01",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "10775794"
     ],
     "enr": [
@@ -1861,28 +1886,6 @@
     "grundAnmerkung": "Artikel \"außer Vertrieb\" zum 01.06.2023",
     "datumErstmeldung": "2023-03-30",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17244663"
-    ],
-    "enr": [
-      "2205680"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-17",
-    "datumEnde": "2023-06-05",
-    "datumLetzteMeldung": "2023-05-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ezetimib/Atorvastatin ELPEN 10 mg/10 mg Filmtabletten",
-    "atcCode": "C10BA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.); Ezetimib",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "030 7974040 0",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-04-18",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -5340,30 +5343,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-27",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08704396"
-    ],
-    "enr": [
-      "2138321"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-02",
-    "datumEnde": "2023-06-16",
-    "datumLetzteMeldung": "2023-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Dexa 8mg inject JENAPHARM",
-    "atcCode": "H02AB02",
-    "wirkstoffe": "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "+49349542470",
-    "mail": "Zulassung-Sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Dexa 8mg inject JENAPHARM - Einreichungsnummer: 2138321",
-    "datumErstmeldung": "2023-05-02",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -10303,55 +10282,6 @@
     "grund": "Sonstige",
     "alternativPraeparat": "Dimaval - Einreichungsnummer: 2125465",
     "datumErstmeldung": "2022-12-16",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02492295",
-      "02492303"
-    ],
-    "enr": [
-      "2101841"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-07",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2022-12-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Lonolox 10",
-    "atcCode": "C02DC01",
-    "wirkstoffe": "Minoxidil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "The interruption of supply is due to a manufacturing process change for the milling operation of minoxidil API at the API manufacturing site Pharmacia & Upjohn Company LLC, Kalamazoo. The reason for the interruption in supply does not impact the quality, safety or efficacy of the finished product currently available on the market.",
-    "datumErstmeldung": "2022-11-08",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02492272",
-      "02492289"
-    ],
-    "enr": [
-      "2101839"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-07",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2022-12-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Lonolox 2,5",
-    "atcCode": "C02DC01",
-    "wirkstoffe": "Minoxidil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-08",
     "infoFachkreise": "Nein"
   },
   {
