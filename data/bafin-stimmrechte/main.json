@@ -1536,24 +1536,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-06-16",
-    "emittent": {
-      "name": "thyssenkrupp AG",
-      "sitz": "Essen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Amundi S.A.",
-      "sitz": "Paris",
-      "land": "Frankreich"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.06,
-      "instrumente": 0,
-      "summe": 3.06
-    }
-  },
-  {
     "veroeffentlichung": "2023-05-17",
     "emittent": {
       "name": "MERCK Kommanditgesellschaft auf Aktien",
@@ -2006,7 +1988,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-02-22",
+    "veroeffentlichung": "2023-06-20",
     "emittent": {
       "name": "HUGO BOSS AG",
       "sitz": "Metzingen",
@@ -2019,8 +2001,8 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 2.63,
-      "instrumente": 24.96,
-      "summe": 27.59
+      "instrumente": 21.77,
+      "summe": 24.39
     }
   },
   {
@@ -3124,24 +3106,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-06-14",
-    "emittent": {
-      "name": "Nordex SE",
-      "sitz": "Rostock",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Bank of America Corporation",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.22,
-      "instrumente": 10.65,
-      "summe": 10.86
-    }
-  },
-  {
     "veroeffentlichung": "2022-12-29",
     "emittent": {
       "name": "MorphoSys AG",
@@ -3214,7 +3178,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-06-07",
+    "veroeffentlichung": "2023-06-21",
     "emittent": {
       "name": "LANXESS Aktiengesellschaft",
       "sitz": "Köln",
@@ -3226,9 +3190,9 @@
       "land": "Großbritannien"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.7,
-      "instrumente": 0.33,
-      "summe": 4.03
+      "gesamt": 3.26,
+      "instrumente": 0.55,
+      "summe": 3.81
     }
   },
   {
@@ -3369,42 +3333,6 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 23.59
-    }
-  },
-  {
-    "veroeffentlichung": "2023-03-24",
-    "emittent": {
-      "name": "BAUER Aktiengesellschaft",
-      "sitz": "Schrobenhausen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Bauer, Dr.-Ing. Sebastian",
-      "sitz": "",
-      "land": ""
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.83,
-      "instrumente": 0,
-      "summe": 3.83
-    }
-  },
-  {
-    "veroeffentlichung": "2023-03-24",
-    "emittent": {
-      "name": "BAUER Aktiengesellschaft",
-      "sitz": "Schrobenhausen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Bauer, Prof. Dipl.-Kfm. Thomas",
-      "sitz": "",
-      "land": ""
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.91,
-      "instrumente": 0,
-      "summe": 4.91
     }
   },
   {
@@ -4384,7 +4312,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-06-16",
+    "veroeffentlichung": "2023-06-21",
     "emittent": {
       "name": "RWE Aktiengesellschaft",
       "sitz": "Essen",
@@ -4396,9 +4324,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.15,
-      "instrumente": 0.03,
-      "summe": 6.17
+      "gesamt": 5.92,
+      "instrumente": 0.28,
+      "summe": 6.21
     }
   },
   {
@@ -4510,7 +4438,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-06-19",
+    "veroeffentlichung": "2023-06-20",
     "emittent": {
       "name": "MTU Aero Engines AG",
       "sitz": "München",
@@ -4522,9 +4450,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 9.38,
-      "instrumente": 0.21,
-      "summe": 9.59
+      "gesamt": 9.43,
+      "instrumente": 0.17,
+      "summe": 9.6
     }
   },
   {
@@ -4816,7 +4744,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-06-14",
+    "veroeffentlichung": "2023-06-20",
     "emittent": {
       "name": "freenet AG",
       "sitz": "Büdelsdorf",
@@ -4828,9 +4756,27 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.36,
-      "instrumente": 0.26,
-      "summe": 6.61
+      "gesamt": 6.33,
+      "instrumente": 0.22,
+      "summe": 6.55
+    }
+  },
+  {
+    "veroeffentlichung": "2023-06-21",
+    "emittent": {
+      "name": "Evotec SE",
+      "sitz": "Hamburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "BlackRock, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.29,
+      "instrumente": 0.28,
+      "summe": 3.57
     }
   },
   {
@@ -5032,7 +4978,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-06-19",
+    "veroeffentlichung": "2023-06-21",
     "emittent": {
       "name": "Covestro AG",
       "sitz": "Leverkusen",
@@ -5044,13 +4990,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.99,
-      "instrumente": 0.69,
-      "summe": 5.69
+      "gesamt": 5.03,
+      "instrumente": 0.68,
+      "summe": 5.71
     }
   },
   {
-    "veroeffentlichung": "2023-06-08",
+    "veroeffentlichung": "2023-06-20",
     "emittent": {
       "name": "Continental Aktiengesellschaft",
       "sitz": "Hannover",
@@ -5062,13 +5008,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.04,
-      "instrumente": 0.17,
+      "gesamt": 3.09,
+      "instrumente": 0.11,
       "summe": 3.2
     }
   },
   {
-    "veroeffentlichung": "2023-06-15",
+    "veroeffentlichung": "2023-06-21",
     "emittent": {
       "name": "COMMERZBANK Aktiengesellschaft",
       "sitz": "Frankfurt am Main",
@@ -5080,9 +5026,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 8.13,
-      "instrumente": 1.49,
-      "summe": 9.62
+      "gesamt": 8.2,
+      "instrumente": 1.47,
+      "summe": 9.66
     }
   },
   {
@@ -5284,7 +5230,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-06-12",
+    "veroeffentlichung": "2023-06-20",
     "emittent": {
       "name": "adidas AG",
       "sitz": "Herzogenaurach",
@@ -5296,8 +5242,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.29,
-      "instrumente": 0.22,
+      "gesamt": 5.28,
+      "instrumente": 0.23,
       "summe": 5.51
     }
   },
@@ -8158,24 +8104,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-04-05",
-    "emittent": {
-      "name": "BAUER Aktiengesellschaft",
-      "sitz": "Schrobenhausen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Doblinger, Alfons",
-      "sitz": "",
-      "land": ""
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 52.81,
-      "instrumente": 0,
-      "summe": 52.81
-    }
-  },
-  {
     "veroeffentlichung": "2022-12-20",
     "emittent": {
       "name": "Fresenius Medical Care AG & Co. KGaA",
@@ -8697,24 +8625,6 @@
       "gesamt": 5.27,
       "instrumente": 0,
       "summe": 5.27
-    }
-  },
-  {
-    "veroeffentlichung": "2023-04-18",
-    "emittent": {
-      "name": "Siemens Energy AG",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "DWS Investment GmbH",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.00032,
-      "instrumente": 0.15,
-      "summe": 3.15
     }
   },
   {
@@ -16339,24 +16249,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-06-06",
-    "emittent": {
-      "name": "Aareal Bank AG",
-      "sitz": "Wiesbaden",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Internationale Kapitalanlagegesellschaft mit beschränkter Haftung",
-      "sitz": "Düsseldorf",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 5.58,
-      "instrumente": 0,
-      "summe": 5.58
-    }
-  },
-  {
     "veroeffentlichung": "2015-11-10",
     "emittent": {
       "name": "Hapag-Lloyd Aktiengesellschaft",
@@ -23317,7 +23209,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-06-14",
+    "veroeffentlichung": "2023-06-21",
     "emittent": {
       "name": "Adtran Networks SE",
       "sitz": "Meiningen",
@@ -23329,9 +23221,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.09,
+      "gesamt": 3.18,
       "instrumente": 0.01,
-      "summe": 3.1
+      "summe": 3.19
     }
   },
   {
@@ -24142,24 +24034,6 @@
       "gesamt": 4.51,
       "instrumente": 0,
       "summe": 4.51
-    }
-  },
-  {
-    "veroeffentlichung": "2023-04-05",
-    "emittent": {
-      "name": "BAUER Aktiengesellschaft",
-      "sitz": "Schrobenhausen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Newin, Helmuth",
-      "sitz": "",
-      "land": ""
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 53.41,
-      "instrumente": 0,
-      "summe": 53.41
     }
   },
   {
@@ -30519,24 +30393,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-04-25",
-    "emittent": {
-      "name": "ADTRAN Holdings, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "meldepflichtiger": {
-      "name": "Schonfeld, Steven",
-      "sitz": "",
-      "land": ""
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.05,
-      "instrumente": 0,
-      "summe": 3.05
-    }
-  },
-  {
     "veroeffentlichung": "2020-04-15",
     "emittent": {
       "name": "SCHNIGGE Capital Markets SE",
@@ -35146,7 +35002,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-06-15",
+    "veroeffentlichung": "2023-06-20",
     "emittent": {
       "name": "va-Q-tec AG",
       "sitz": "Würzburg",
@@ -35158,9 +35014,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.003,
-      "instrumente": 5.52,
-      "summe": 5.52
+      "gesamt": 4.03,
+      "instrumente": 1.48,
+      "summe": 5.51
     }
   },
   {
@@ -35326,6 +35182,24 @@
     }
   },
   {
+    "veroeffentlichung": "2023-06-20",
+    "emittent": {
+      "name": "DIC Asset AG",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.67,
+      "instrumente": 4.54,
+      "summe": 5.21
+    }
+  },
+  {
     "veroeffentlichung": "2023-06-19",
     "emittent": {
       "name": "Deutsche Telekom AG",
@@ -35398,7 +35272,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-06-16",
+    "veroeffentlichung": "2023-06-21",
     "emittent": {
       "name": "ADTRAN Holdings, Inc.",
       "sitz": "Wilmington",
@@ -35410,9 +35284,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.08,
-      "instrumente": 4.9,
-      "summe": 5.98
+      "gesamt": 0.15,
+      "instrumente": 6.43,
+      "summe": 6.58
     }
   },
   {
@@ -35900,7 +35774,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-06-19",
+    "veroeffentlichung": "2023-06-20",
     "emittent": {
       "name": "Nordex SE",
       "sitz": "Rostock",
@@ -35912,9 +35786,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 8.98,
-      "instrumente": 2.47,
-      "summe": 11.45
+      "gesamt": 5.24,
+      "instrumente": 5.06,
+      "summe": 10.31
     }
   },
   {
@@ -35936,7 +35810,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-06-15",
+    "veroeffentlichung": "2023-06-21",
     "emittent": {
       "name": "Gerresheimer AG",
       "sitz": "Düsseldorf",
@@ -35948,9 +35822,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.54,
-      "instrumente": 4.07,
-      "summe": 5.6
+      "gesamt": 1.18,
+      "instrumente": 4.22,
+      "summe": 5.4
     }
   },
   {
