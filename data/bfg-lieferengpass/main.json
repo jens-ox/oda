@@ -1,6 +1,361 @@
 [
   {
     "pzn": [
+      "00568640",
+      "10796336"
+    ],
+    "enr": [
+      "2703490",
+      "2707566"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-13",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-06-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "TOVIAZ 4 mg Retardtabletten - OP14",
+    "atcCode": "G04BD11",
+    "wirkstoffe": "Fesoterodinfumarat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Europe MA EEIG",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Fesoterodin Aristo 4 mg Retardtabletten - Einreichungsnummer: 7000588",
+    "datumErstmeldung": "2023-03-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16155472"
+    ],
+    "enr": [
+      "2716086"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-20",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-06-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Xarelto 1 mg/ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "B01AF01",
+    "wirkstoffe": "Rivaroxaban",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bayer Aktiengesellschaft - Geschäftsanschrift -",
+    "telefon": "0800 6422937",
+    "mail": "medical-information@bayer.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-04-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00575858",
+      "00575870"
+    ],
+    "enr": [
+      "2141127"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-17",
+    "datumEnde": "2023-10-31",
+    "datumLetzteMeldung": "2023-06-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Zopiclon-neuraxpharm 7,5 mg",
+    "atcCode": "N05CF01",
+    "wirkstoffe": "Zopiclon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49 2173 1060 0",
+    "mail": "info@neuraxpharm.de",
+    "grund": "GMP Mängel",
+    "datumErstmeldung": "2023-06-22",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00575812",
+      "00575829"
+    ],
+    "enr": [
+      "2141125"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-17",
+    "datumEnde": "2023-06-22",
+    "datumLetzteMeldung": "2023-06-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Zopiclon-neuraxpharm 3,75 mg",
+    "atcCode": "N05CF01",
+    "wirkstoffe": "Zopiclon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49 2173 1060 0",
+    "mail": "info@neuraxpharm.de",
+    "grund": "GMP Mängel",
+    "datumErstmeldung": "2023-06-22",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09680120",
+      "09680137"
+    ],
+    "enr": [
+      "2184842"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-17",
+    "datumEnde": "2023-06-22",
+    "datumLetzteMeldung": "2023-06-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Clonazepam-neuraxpharm 2,5 mg/ml Tropfen zum Einnehmen, Lösung",
+    "atcCode": "N03AE01",
+    "wirkstoffe": "Clonazepam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49 2173 1060 0",
+    "mail": "info@neuraxpharm.de",
+    "grund": "GMP Mängel",
+    "datumErstmeldung": "2023-06-22",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17441375",
+      "17441381"
+    ],
+    "enr": [
+      "7000145"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-17",
+    "datumEnde": "2023-10-31",
+    "datumLetzteMeldung": "2023-06-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Clonazepam neuraxpharm 2 mg Tabletten",
+    "atcCode": "N03AE01",
+    "wirkstoffe": "Clonazepam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49 2173 1060 0",
+    "mail": "info@neuraxpharm.de",
+    "grund": "GMP Mängel",
+    "datumErstmeldung": "2023-06-22",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17441352",
+      "17441369"
+    ],
+    "enr": [
+      "7000144"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-17",
+    "datumEnde": "2023-10-31",
+    "datumLetzteMeldung": "2023-06-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Clonazepam neuraxpharm 1 mg Tabletten",
+    "atcCode": "N03AE01",
+    "wirkstoffe": "Clonazepam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49 2173 1060 0",
+    "mail": "info@neuraxpharm.de",
+    "grund": "GMP Mängel",
+    "datumErstmeldung": "2023-06-22",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17441300",
+      "17441323"
+    ],
+    "enr": [
+      "7000143"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-17",
+    "datumEnde": "2023-10-31",
+    "datumLetzteMeldung": "2023-06-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Clonazepam neuraxpharm 0,5 mg Tabletten",
+    "atcCode": "N03AE01",
+    "wirkstoffe": "Clonazepam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "02173 1060 0",
+    "mail": "info@neuraxpharm.de",
+    "grund": "GMP Mängel",
+    "datumErstmeldung": "2023-06-22",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13836071"
+    ],
+    "enr": [
+      "2197102"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-22",
+    "datumEnde": "2023-09-11",
+    "datumLetzteMeldung": "2023-06-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rosuvastatin Denk 20 mg Filmtabletten",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
+    "mail": "edith.eigenberger@denkpharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-06-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06160791"
+    ],
+    "enr": [
+      "0451286"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-16",
+    "datumEnde": "2023-07-21",
+    "datumLetzteMeldung": "2023-06-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Diprosone Creme",
+    "atcCode": "D07AC01",
+    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Organon Healthcare GmbH",
+    "telefon": "+436645446577",
+    "mail": "verena.poetsch@organon.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "01025491"
+    ],
+    "enr": [
+      "2156802"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-22",
+    "datumEnde": "2023-08-01",
+    "datumLetzteMeldung": "2023-06-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clarithromycin AL pro 250 mg Filmtabletten",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "03169828"
+    ],
+    "enr": [
+      "2159948"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-22",
+    "datumEnde": "2023-08-01",
+    "datumLetzteMeldung": "2023-06-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clarithromycin AL 500 mg Filmtabletten",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01343618"
+    ],
+    "enr": [
+      "2140401"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-30",
+    "datumEnde": "2023-07-14",
+    "datumLetzteMeldung": "2023-06-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 100 mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09266722"
+    ],
+    "enr": [
+      "2174800"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-22",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-06-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Amiodaron-hameln 50 mg/ml Konzentrat zur Herstellung einer Injektions- /Infusionslösung",
+    "atcCode": "C01BD01",
+    "wirkstoffe": "Amiodaronhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "hameln pharma gmbh",
+    "telefon": "051518050245",
+    "mail": "stefan.bartsch@hameln-pharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-06-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14404959"
+    ],
+    "enr": [
+      "2142771"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-20",
+    "datumEnde": "2023-07-10",
+    "datumLetzteMeldung": "2023-06-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "SUBUTEX 8 mg",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-06-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "12652452"
     ],
     "enr": [
@@ -1062,29 +1417,6 @@
   },
   {
     "pzn": [
-      "14404959"
-    ],
-    "enr": [
-      "2142771"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-06-20",
-    "datumEnde": "2023-07-03",
-    "datumLetzteMeldung": "2023-06-20",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "SUBUTEX 8 mg",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-06-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "13836065"
     ],
     "enr": [
@@ -1408,29 +1740,6 @@
     "grund": "Erhöhte Nachfrage",
     "alternativPraeparat": "Amoxihexal 1000 - Einreichungsnummer: 2103604",
     "datumErstmeldung": "2022-09-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "13827617"
-    ],
-    "enr": [
-      "2198209"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-04",
-    "datumEnde": "2023-06-23",
-    "datumLetzteMeldung": "2023-06-16",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Bendamustin Kabi 2,5 mg/ml Pulver für ein Konzentrat zur Herstellung einer Infusionslösung",
-    "atcCode": "L01AA09",
-    "wirkstoffe": "Bendamustinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-    "telefon": "061726867883",
-    "mail": "frank.jethon@fresenius-kabi.com",
-    "grund": "Probleme bei der Endfreigabe",
-    "datumErstmeldung": "2023-06-16",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -3046,32 +3355,6 @@
   },
   {
     "pzn": [
-      "00134601",
-      "01343593",
-      "01343618",
-      "14142100"
-    ],
-    "enr": [
-      "2140401"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-30",
-    "datumEnde": "2023-07-14",
-    "datumLetzteMeldung": "2023-06-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 100 mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "06324726"
     ],
     "enr": [
@@ -3593,29 +3876,6 @@
     "bezeichnung": "Prednison acis 50mg",
     "atcCode": "H02AB07",
     "wirkstoffe": "Prednison",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "acis Arzneimittel GmbH",
-    "telefon": "08944232460",
-    "mail": "Medwiss.Acis@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-05-31",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "10269542"
-    ],
-    "enr": [
-      "2181074"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-25",
-    "datumEnde": "2023-07-07",
-    "datumLetzteMeldung": "2023-05-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Phenprocoumon acis 3 mg Tabletten",
-    "atcCode": "B01AA04",
-    "wirkstoffe": "Phenprocoumon",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "acis Arzneimittel GmbH",
     "telefon": "08944232460",
@@ -5205,32 +5465,6 @@
   },
   {
     "pzn": [
-      "00568640",
-      "10796336"
-    ],
-    "enr": [
-      "2703490",
-      "2707566"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-13",
-    "datumEnde": "2023-06-30",
-    "datumLetzteMeldung": "2023-05-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "TOVIAZ 4 mg Retardtabletten - OP14",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Fesoterodin Aristo 4 mg Retardtabletten - Einreichungsnummer: 7000588",
-    "datumErstmeldung": "2023-03-27",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04525308",
       "04525314",
       "04653443"
@@ -6638,29 +6872,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-12-15",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16155472"
-    ],
-    "enr": [
-      "2716086"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-20",
-    "datumEnde": "2023-07-10",
-    "datumLetzteMeldung": "2023-04-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Xarelto 1 mg/ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "B01AF01",
-    "wirkstoffe": "Rivaroxaban",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bayer Aktiengesellschaft - Geschäftsanschrift -",
-    "telefon": "0800 6422937",
-    "mail": "medical-information@bayer.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-04-21",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
