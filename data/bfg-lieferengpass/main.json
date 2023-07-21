@@ -1,6 +1,266 @@
 [
   {
     "pzn": [
+      "17411434"
+    ],
+    "enr": [
+      "2192407"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-04",
+    "datumEnde": "2023-08-04",
+    "datumLetzteMeldung": "2023-07-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Rosuvastatin HEXAL 5 mg Filmtabletten ",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-26",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06312031"
+    ],
+    "enr": [
+      "2142794"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-25",
+    "datumEnde": "2023-07-28",
+    "datumLetzteMeldung": "2023-07-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "AmoxiClav 250/62,5 TS - 1 A Pharma",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00178548",
+      "04841529"
+    ],
+    "enr": [
+      "2149019"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-20",
+    "datumEnde": "2023-08-04",
+    "datumLetzteMeldung": "2023-07-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefuroxim 500 mg - 1 A Pharma",
+    "atcCode": "J01DC02",
+    "wirkstoffe": "Cefuroximaxetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-12-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00658805",
+      "00658811"
+    ],
+    "enr": [
+      "2132376"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-07",
+    "datumEnde": "2023-07-25",
+    "datumLetzteMeldung": "2023-07-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxi 1000-1 A Pharma",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "Amoxihexal 1000 - Einreichungsnummer: 2103604",
+    "datumErstmeldung": "2022-09-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07722179"
+    ],
+    "enr": [
+      "2134011"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-07-12",
+    "datumEnde": "2023-12-27",
+    "datumLetzteMeldung": "2023-07-20",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Bronchospray novo",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
+    "telefon": "06252-95 7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03501027"
+    ],
+    "enr": [
+      "2106148"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-07-20",
+    "datumEnde": "2023-09-29",
+    "datumLetzteMeldung": "2023-07-20",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Diazepam-Lipuro",
+    "atcCode": "N05BA01",
+    "wirkstoffe": "Diazepam",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "B. Braun Melsungen Aktiengesellschaft",
+    "telefon": "056617191477309",
+    "mail": "benjamin.strippel@bbraun.com",
+    "grund": "Probleme bei der Chargenprüfung",
+    "datumErstmeldung": "2023-07-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03277630"
+    ],
+    "enr": [
+      "2706023"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-03",
+    "datumEnde": "2023-07-24",
+    "datumLetzteMeldung": "2023-07-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Victoza 6 mg/ml Injektionslösung in Fertigpen - OP(2x3ml)",
+    "atcCode": "TERM_ID_NA_2090000841",
+    "wirkstoffe": "Liraglutid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Victoza 6 mg/ml Injektionslösung in Fertigpen - OP(10x3ml) - Einreichungsnummer: 2706026",
+    "datumErstmeldung": "2023-07-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00542882"
+    ],
+    "enr": [
+      "2702254"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-07-20",
+    "datumEnde": "2023-09-13",
+    "datumLetzteMeldung": "2023-07-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Actraphane 50 Penfill 100 IE/ml Injektionssuspension in Zylinderampulle - OP(10x3ml)",
+    "atcCode": "A10AD01",
+    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung)); Isophan-Insulin-Suspension zur Injektion (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-07-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "04748391",
+      "04748416",
+      "04748422",
+      "07558225"
+    ],
+    "enr": [
+      "2121767"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-02",
+    "datumEnde": "2023-07-28",
+    "datumLetzteMeldung": "2023-07-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nifedipin AL5",
+    "atcCode": "C08CA05",
+    "wirkstoffe": "Nifedipin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-01-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01343564",
+      "14142169"
+    ],
+    "enr": [
+      "2143114"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-07",
+    "datumEnde": "2023-08-31",
+    "datumLetzteMeldung": "2023-07-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 50mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01894117",
+      "15238954"
+    ],
+    "enr": [
+      "0739722"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-03-15",
+    "datumEnde": "2023-09-01",
+    "datumLetzteMeldung": "2023-07-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Robinul zur Injektion",
+    "atcCode": "A03AB02",
+    "wirkstoffe": "Glycopyrroniumbromid (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "mail": "info.germany@esteve.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "n.a",
+    "datumErstmeldung": "2023-07-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "11228404",
       "11228410"
     ],
@@ -636,28 +896,6 @@
   },
   {
     "pzn": [
-      "06312031"
-    ],
-    "enr": [
-      "2142794"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-25",
-    "datumEnde": "2023-07-20",
-    "datumLetzteMeldung": "2023-07-14",
-    "grundArt": "Sonstige",
-    "bezeichnung": "AmoxiClav 250/62,5 TS - 1 A Pharma",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-04-25",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "13251324"
     ],
     "enr": [
@@ -961,56 +1199,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-04-19",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "04748391",
-      "04748416",
-      "04748422",
-      "07558225"
-    ],
-    "enr": [
-      "2121767"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-02",
-    "datumEnde": "2023-07-21",
-    "datumLetzteMeldung": "2023-07-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Nifedipin AL5",
-    "atcCode": "C08CA05",
-    "wirkstoffe": "Nifedipin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14142169"
-    ],
-    "enr": [
-      "2143114"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-07",
-    "datumEnde": "2023-08-31",
-    "datumLetzteMeldung": "2023-07-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 50mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-13",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -1965,56 +2153,6 @@
   },
   {
     "pzn": [
-      "16634474"
-    ],
-    "enr": [
-      "7001469"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-05",
-    "datumEnde": "2023-07-19",
-    "datumLetzteMeldung": "2023-07-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fiasp",
-    "atcCode": "A10AB05",
-    "wirkstoffe": "Insulin aspart",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
-    "alternativPraeparat": "Fiasp - Einreichungsnummer: 7001468",
-    "datumErstmeldung": "2023-07-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11072505"
-    ],
-    "enr": [
-      "2712151"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-05",
-    "datumEnde": "2023-07-19",
-    "datumLetzteMeldung": "2023-07-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "NovoRapid PumpCart 100 E/ml Injektionslösung in Patrone - OP[25x(5x1,6ml)]",
-    "atcCode": "A10AB05",
-    "wirkstoffe": "Insulin aspart",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
-    "alternativPraeparat": "NovoRapid PumpCart 100 E/ml Injektionslösung in Patrone - OP(5x1,6ml) - Einreichungsnummer: 2711804",
-    "datumErstmeldung": "2023-07-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00542356"
     ],
     "enr": [
@@ -2278,29 +2416,6 @@
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "13569658",
-      "17411434"
-    ],
-    "enr": [
-      "2192407"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-04",
-    "datumEnde": "2023-07-21",
-    "datumLetzteMeldung": "2023-07-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Rosuvastatin HEXAL 5 mg Filmtabletten ",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-06-26",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2585,29 +2700,6 @@
   },
   {
     "pzn": [
-      "03277707"
-    ],
-    "enr": [
-      "2706026"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-03",
-    "datumEnde": "2023-07-19",
-    "datumLetzteMeldung": "2023-07-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Victoza 6 mg/ml Injektionslösung in Fertigpen - OP(10x3ml)",
-    "atcCode": "TERM_ID_NA_2090000841",
-    "wirkstoffe": "Liraglutid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-07-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "11695063"
     ],
     "enr": [
@@ -2630,53 +2722,6 @@
     "alternativPraeparat": "Tresiba 200 Einheiten/ml Injektionslösung in Fertigpen - OP(3x3ml) - Einreichungsnummer: 2709890",
     "datumErstmeldung": "2023-06-29",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03277630"
-    ],
-    "enr": [
-      "2706023"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-03",
-    "datumEnde": "2023-07-19",
-    "datumLetzteMeldung": "2023-07-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Victoza 6 mg/ml Injektionslösung in Fertigpen - OP(2x3ml)",
-    "atcCode": "TERM_ID_NA_2090000841",
-    "wirkstoffe": "Liraglutid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-07-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03277653"
-    ],
-    "enr": [
-      "2706025"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-01",
-    "datumEnde": "2023-07-19",
-    "datumLetzteMeldung": "2023-07-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Victoza 6 mg/ml Injektionslösung in Fertigpen - OP(5x3ml)",
-    "atcCode": "TERM_ID_NA_2090000841",
-    "wirkstoffe": "Liraglutid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
-    "datumErstmeldung": "2023-04-20",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -3550,30 +3595,6 @@
   },
   {
     "pzn": [
-      "00658805",
-      "00658811"
-    ],
-    "enr": [
-      "2132376"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-07",
-    "datumEnde": "2023-07-21",
-    "datumLetzteMeldung": "2023-06-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxi 1000-1 A Pharma",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "alternativPraeparat": "Amoxihexal 1000 - Einreichungsnummer: 2103604",
-    "datumErstmeldung": "2022-09-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00000000",
       "15563714",
       "15563720",
@@ -4428,29 +4449,6 @@
     "mail": "service@hexal.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-03-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00178548",
-      "04841529"
-    ],
-    "enr": [
-      "2149019"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-20",
-    "datumEnde": "2023-07-21",
-    "datumLetzteMeldung": "2023-06-26",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefuroxim 500 mg - 1 A Pharma",
-    "atcCode": "J01DC02",
-    "wirkstoffe": "Cefuroximaxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-12-23",
     "infoFachkreise": "Vorgesehen"
   },
   {
