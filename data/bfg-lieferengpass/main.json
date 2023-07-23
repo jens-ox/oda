@@ -1,6 +1,379 @@
 [
   {
     "pzn": [
+      "13420850"
+    ],
+    "enr": [
+      "2196985"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-24",
+    "datumEnde": "2023-08-15",
+    "datumLetzteMeldung": "2023-07-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil Hormosan 200 mg/245 mg Filmtabletten",
+    "atcCode": "J05AR03",
+    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilphosphat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "erhöhte Nachfrage nach beiden Packungsgrößen im Juni und Juli",
+    "datumErstmeldung": "2023-07-21",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01882657"
+    ],
+    "enr": [
+      "2176877"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-19",
+    "datumEnde": "2023-08-18",
+    "datumLetzteMeldung": "2023-07-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Duodart 0,5 mg / 0,4 mg Hartkapseln",
+    "atcCode": "G04CA52",
+    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
+    "telefon": "08001223355",
+    "mail": "service.info@gsk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhter Bedarf aufgrund von Lieferengpässen bei anderen Dutasterid+Tamsulosin-haltigen Produkten.",
+    "datumErstmeldung": "2023-06-04",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "05391873",
+      "05391896",
+      "05391904"
+    ],
+    "enr": [
+      "2167868"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-07-20",
+    "datumEnde": "2023-07-26",
+    "datumLetzteMeldung": "2023-07-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Salbutamol - 1 A Pharma 0,1 mg Druckgasinhalation, Suspension",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-21",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03650359",
+      "03650365",
+      "03650371"
+    ],
+    "enr": [
+      "2161093"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-24",
+    "datumEnde": "2023-08-04",
+    "datumLetzteMeldung": "2023-07-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Torasemid HEXAL 100 mg Tabletten",
+    "atcCode": "C03CA04",
+    "wirkstoffe": "Torasemid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00819154",
+      "01969938",
+      "01969967"
+    ],
+    "enr": [
+      "2153287"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-23",
+    "datumEnde": "2023-10-13",
+    "datumLetzteMeldung": "2023-07-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cipro-1 A Pharma 250 mg",
+    "atcCode": "J01MA02",
+    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00241270",
+      "01345801",
+      "01345818"
+    ],
+    "enr": [
+      "2153281"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-23",
+    "datumEnde": "2023-10-13",
+    "datumLetzteMeldung": "2023-07-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ciprohexal 250 mg",
+    "atcCode": "J01MA02",
+    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00829425",
+      "00829431",
+      "00832485"
+    ],
+    "enr": [
+      "2164573"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-15",
+    "datumEnde": "2023-07-28",
+    "datumLetzteMeldung": "2023-07-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefpodoxim HEXAL 40 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01DD13",
+    "wirkstoffe": "Cefpodoximproxetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-12-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "13569687"
+    ],
+    "enr": [
+      "2192408"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-16",
+    "datumEnde": "2023-09-30",
+    "datumLetzteMeldung": "2023-07-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Rosuvastatin HEXAL 10 mg Filmtabletten ",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-26",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13569701"
+    ],
+    "enr": [
+      "2192409"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-26",
+    "datumEnde": "2023-09-15",
+    "datumLetzteMeldung": "2023-07-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Rosuvastatin HEXAL 20 mg Filmtabletten ",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-26",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13569724"
+    ],
+    "enr": [
+      "2192410"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-05",
+    "datumEnde": "2023-10-13",
+    "datumLetzteMeldung": "2023-07-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Rosuvastatin HEXAL 40 mg Filmtabletten",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-26",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17412132",
+      "17412161"
+    ],
+    "enr": [
+      "2192414"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-17",
+    "datumEnde": "2023-09-22",
+    "datumLetzteMeldung": "2023-07-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Rosuvastatin - 1 A Pharma 20 mg Filmtabletten",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-26",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02550242",
+      "02719250"
+    ],
+    "enr": [
+      "2164072"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-24",
+    "datumEnde": "2023-07-24",
+    "datumLetzteMeldung": "2023-07-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefpodoxim - 1 A Pharma 100 mg Filmtabletten",
+    "atcCode": "J01DD13",
+    "wirkstoffe": "Cefpodoximproxetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01448777"
+    ],
+    "enr": [
+      "2145315"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-07-19",
+    "datumEnde": "2023-09-18",
+    "datumLetzteMeldung": "2023-07-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Salbutamol-ratiopharm N Dosieraerosol",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-21",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05124126"
+    ],
+    "enr": [
+      "2180269"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-29",
+    "datumEnde": "2023-07-31",
+    "datumLetzteMeldung": "2023-07-21",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Cefixim STADA 400 mg Filmtabletten",
+    "atcCode": "J01DD08",
+    "wirkstoffe": "Cefixim (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "mail": "christiane.georgi@stadapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Nachbestellung getätigt",
+    "datumErstmeldung": "2023-07-21",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06983245",
+      "06983274"
+    ],
+    "enr": [
+      "3001934"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-06-09",
+    "datumEnde": "2023-09-20",
+    "datumLetzteMeldung": "2023-07-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "FOLI-cell",
+    "atcCode": "V03AF03",
+    "wirkstoffe": "Calciumfolinat-Pentahydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "mail": "christiane.georgi@stadapharm.de",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundAnmerkung": "CMO related issue",
+    "datumErstmeldung": "2022-06-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08827667",
+      "14307742"
+    ],
+    "enr": [
+      "2138389"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-29",
+    "datumEnde": "2023-11-01",
+    "datumLetzteMeldung": "2023-07-21",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Molsidomin STADA 8 mg Retardtabletten",
+    "atcCode": "C01DX12",
+    "wirkstoffe": "Molsidomin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Betrifft auch (ENR: 2138389)Molsidomin STADA 8 mg Aliud 60 St - PZN: 15316795Molsidomin STADA 8 mg Aliud 100 St - PZN: 11011751",
+    "datumErstmeldung": "2023-02-01",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "17411434"
     ],
     "enr": [
@@ -92,7 +465,8 @@
   },
   {
     "pzn": [
-      "07722179"
+      "07722179",
+      "08872024"
     ],
     "enr": [
       "2134011"
@@ -989,30 +1363,6 @@
   },
   {
     "pzn": [
-      "08827667",
-      "14307742"
-    ],
-    "enr": [
-      "2138389"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-29",
-    "datumEnde": "2023-09-05",
-    "datumLetzteMeldung": "2023-07-14",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Molsidomin STADA 8 mg Retardtabletten",
-    "atcCode": "C01DX12",
-    "wirkstoffe": "Molsidomin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Betrifft auch (ENR: 2138389)Molsidomin STADA 8 mg Aliud 60 St - PZN: 15316795Molsidomin STADA 8 mg Aliud 100 St - PZN: 11011751",
-    "datumErstmeldung": "2023-02-01",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00546555"
     ],
     "enr": [
@@ -1365,29 +1715,6 @@
     "alternativPraeparat": "Norditropin FlexPro 15 mg/1,5 ml Injektionslösung in einem Fertigpen - Einreichungsnummer: 2178466",
     "datumErstmeldung": "2023-03-21",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02065127"
-    ],
-    "enr": [
-      "2155205"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-06-26",
-    "datumEnde": "2023-08-18",
-    "datumLetzteMeldung": "2023-07-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolon 10mg JENAPHARM",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Prednisolon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-07-12",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -2793,31 +3120,6 @@
   },
   {
     "pzn": [
-      "01882640",
-      "01882657"
-    ],
-    "enr": [
-      "2176877"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-19",
-    "datumEnde": "2023-08-18",
-    "datumLetzteMeldung": "2023-07-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Duodart 0,5 mg / 0,4 mg Hartkapseln",
-    "atcCode": "G04CA52",
-    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
-    "telefon": "08001223355",
-    "mail": "service.info@gsk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhter Bedarf aufgrund von Lieferengpässen bei anderen Dutasterid+Tamsulosin-haltigen Produkten.",
-    "datumErstmeldung": "2023-06-04",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "09900751",
       "10144852"
     ],
@@ -3096,29 +3398,6 @@
     "mail": "info@1apharma.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-10-12",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02550242",
-      "02719250"
-    ],
-    "enr": [
-      "2164072"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-24",
-    "datumEnde": "2023-07-21",
-    "datumLetzteMeldung": "2023-06-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefpodoxim - 1 A Pharma 100 mg Filmtabletten",
-    "atcCode": "J01DD13",
-    "wirkstoffe": "Cefpodoximproxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-24",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -4083,97 +4362,6 @@
   },
   {
     "pzn": [
-      "13569724",
-      "13569753"
-    ],
-    "enr": [
-      "2192410"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-05",
-    "datumEnde": "2023-07-21",
-    "datumLetzteMeldung": "2023-06-26",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Rosuvastatin HEXAL 40 mg Filmtabletten",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-06-26",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13569701",
-      "13569718"
-    ],
-    "enr": [
-      "2192409"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-26",
-    "datumEnde": "2023-07-21",
-    "datumLetzteMeldung": "2023-06-26",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Rosuvastatin HEXAL 20 mg Filmtabletten ",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-06-26",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13569670"
-    ],
-    "enr": [
-      "2192408"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-16",
-    "datumEnde": "2023-07-21",
-    "datumLetzteMeldung": "2023-06-26",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Rosuvastatin HEXAL 10 mg Filmtabletten ",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-06-26",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "17412132",
-      "17412161"
-    ],
-    "enr": [
-      "2192414"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-17",
-    "datumEnde": "2023-07-21",
-    "datumLetzteMeldung": "2023-06-26",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Rosuvastatin - 1 A Pharma 20 mg Filmtabletten",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-06-26",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "17412089",
       "17412103"
     ],
@@ -4383,29 +4571,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-16",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01687832",
-      "01693399"
-    ],
-    "enr": [
-      "2167867"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-24",
-    "datumEnde": "2023-07-21",
-    "datumLetzteMeldung": "2023-06-26",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Budes 64 Mikrogramm/Sprühstoß Nasenspray, Suspension",
-    "atcCode": "R01AD05",
-    "wirkstoffe": "Budesonid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-03-24",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -4831,31 +4996,6 @@
     "mail": "stefan.bartsch@hameln-pharma.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-06-22",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12652452"
-    ],
-    "enr": [
-      "2197258"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-06-21",
-    "datumEnde": "2023-07-12",
-    "datumLetzteMeldung": "2023-06-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Etorican 90 mg Filmtabletten",
-    "atcCode": "M01AH05",
-    "wirkstoffe": "Etoricoxib",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "deutliche höhere Nachfrage in April und Mai, dadurch Engpass Ende Juni",
-    "alternativPraeparat": "Etorican 90 mg Filmtabletten - Einreichungsnummer: 2197258",
-    "datumErstmeldung": "2023-06-21",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5543,53 +5683,6 @@
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-30",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06983044"
-    ],
-    "enr": [
-      "2144694"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-01",
-    "datumEnde": "2023-08-23",
-    "datumLetzteMeldung": "2023-06-15",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "ARA-cell 1000mg Infusionslösung",
-    "atcCode": "L01BC01",
-    "wirkstoffe": "Cytarabin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "+4961016032416",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-06-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06983245",
-      "06983274"
-    ],
-    "enr": [
-      "3001934"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-06-09",
-    "datumEnde": "2023-09-20",
-    "datumLetzteMeldung": "2023-06-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "FOLI-cell",
-    "atcCode": "V03AF03",
-    "wirkstoffe": "Calciumfolinat-Pentahydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "christiane.georgi@stadapharm.de",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundAnmerkung": "CMO related issue",
-    "datumErstmeldung": "2022-06-09",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -8199,30 +8292,6 @@
   },
   {
     "pzn": [
-      "00829425",
-      "00829431",
-      "00832485"
-    ],
-    "enr": [
-      "2164573"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-15",
-    "datumEnde": "2023-07-21",
-    "datumLetzteMeldung": "2023-04-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefpodoxim HEXAL 40 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DD13",
-    "wirkstoffe": "Cefpodoximproxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-12-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "11532467",
       "11532473",
       "11532496"
@@ -8910,30 +8979,6 @@
   },
   {
     "pzn": [
-      "00241270",
-      "01345801",
-      "01345818"
-    ],
-    "enr": [
-      "2153281"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-23",
-    "datumEnde": "2023-07-21",
-    "datumLetzteMeldung": "2023-03-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ciprohexal 250 mg",
-    "atcCode": "J01MA02",
-    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00036357",
       "00819183",
       "01969973"
@@ -8947,30 +8992,6 @@
     "datumLetzteMeldung": "2023-03-30",
     "grundArt": "Sonstige",
     "bezeichnung": "Cipro-1 A Pharma 500 mg",
-    "atcCode": "J01MA02",
-    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00819154",
-      "01969938",
-      "01969967"
-    ],
-    "enr": [
-      "2153287"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-23",
-    "datumEnde": "2023-07-21",
-    "datumLetzteMeldung": "2023-03-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cipro-1 A Pharma 250 mg",
     "atcCode": "J01MA02",
     "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
     "krankenhausrelevant": true,
@@ -9628,30 +9649,6 @@
     "bezeichnung": "AmoxiHEXAL 1000 mg HP",
     "atcCode": "J01CA04",
     "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03650359",
-      "03650365",
-      "03650371"
-    ],
-    "enr": [
-      "2161093"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-24",
-    "datumEnde": "2023-07-21",
-    "datumLetzteMeldung": "2023-02-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Torasemid HEXAL 100 mg Tabletten",
-    "atcCode": "C03CA04",
-    "wirkstoffe": "Torasemid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
