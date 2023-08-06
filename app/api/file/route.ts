@@ -1,4 +1,4 @@
-import { join, resolve } from 'path'
+import { join } from 'path'
 import { readFile } from 'fs/promises'
 import { NextResponse } from 'next/server'
 
@@ -8,7 +8,7 @@ export const GET = async (req: Request) => {
   const file = searchParams.get('file')
   let content
   try {
-    content = await readFile(join(resolve('./data'), id as string, file as string), { encoding: 'utf-8' })
+    content = await readFile(join(process.cwd(), 'data', id as string, file as string), { encoding: 'utf-8' })
   } catch (error) {
     return NextResponse.json(error, { status: 500 })
   }
