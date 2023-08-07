@@ -43,6 +43,7 @@ export type Gemeindeverband = Entry & {
 }
 
 export type Gemeinde = Entry & {
+  ars: number
   landSchluessel: number
   regierungsbezirkSchluessel: number
   kreisSchluessel: number

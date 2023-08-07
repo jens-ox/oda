@@ -5,16 +5,16 @@ const parseLand = (l: string): Land => {
   const ef2u2 = l.substring(6, 8).trim()
   const ef2u3 = l.substring(8, 10).trim()
   const ef3u1 = l.substring(10, 12).trim()
-  const ef3u2 = l.substring(12, 13).trim()
-  const ef3u3 = l.substring(13, 15).trim()
-  const ef3u4 = l.substring(15, 18).trim()
-  const ef4 = l.substring(18, 22).trim()
+  // const ef3u2 = l.substring(12, 13).trim()
+  // const ef3u3 = l.substring(13, 15).trim()
+  // const ef3u4 = l.substring(15, 18).trim()
+  // const ef4 = l.substring(18, 22).trim()
   const ef5 = l.substring(22, 72).trim()
   const ef6 = l.substring(72, 122).trim()
-  const ef7u1 = l.substring(122, 124).trim()
-  const ef7u2 = l.substring(124, 126).trim()
-  const ef7u3 = l.substring(126, 128).trim()
-  const ef8 = l.substring(128, 200).trim()
+  // const ef7u1 = l.substring(122, 124).trim()
+  // const ef7u2 = l.substring(124, 126).trim()
+  // const ef7u3 = l.substring(126, 128).trim()
+  // const ef8 = l.substring(128, 200).trim()
   const ef9 = l.substring(200, 220).trim()
 
   return {
@@ -33,15 +33,15 @@ const parseRegierungsbezirk = (l: string): Regierungsbezirk => {
   const ef2u3 = l.substring(8, 10).trim()
   const ef3u1 = l.substring(10, 12).trim()
   const ef3u2 = l.substring(12, 13).trim()
-  const ef3u3 = l.substring(13, 15).trim()
-  const ef3u4 = l.substring(15, 18).trim()
-  const ef4 = l.substring(18, 22).trim()
+  // const ef3u3 = l.substring(13, 15).trim()
+  // const ef3u4 = l.substring(15, 18).trim()
+  // const ef4 = l.substring(18, 22).trim()
   const ef5 = l.substring(22, 72).trim()
   const ef6 = l.substring(72, 122).trim()
-  const ef7u1 = l.substring(122, 124).trim()
-  const ef7u2 = l.substring(124, 126).trim()
-  const ef7u3 = l.substring(126, 128).trim()
-  const ef8 = l.substring(128, 200).trim()
+  // const ef7u1 = l.substring(122, 124).trim()
+  // const ef7u2 = l.substring(124, 126).trim()
+  // const ef7u3 = l.substring(126, 128).trim()
+  // const ef8 = l.substring(128, 200).trim()
   const ef9 = l.substring(200, 220).trim()
 
   return {
@@ -62,14 +62,14 @@ const parseRegion = (l: string): Region => {
   const ef3u1 = l.substring(10, 12).trim()
   const ef3u2 = l.substring(12, 13).trim()
   const ef3u3 = l.substring(13, 15).trim()
-  const ef3u4 = l.substring(15, 18).trim()
-  const ef4 = l.substring(18, 22).trim()
+  // const ef3u4 = l.substring(15, 18).trim()
+  // const ef4 = l.substring(18, 22).trim()
   const ef5 = l.substring(22, 72).trim()
   const ef6 = l.substring(72, 122).trim()
-  const ef7u1 = l.substring(122, 124).trim()
-  const ef7u2 = l.substring(124, 126).trim()
-  const ef7u3 = l.substring(126, 128).trim()
-  const ef8 = l.substring(128, 200).trim()
+  // const ef7u1 = l.substring(122, 124).trim()
+  // const ef7u2 = l.substring(124, 126).trim()
+  // const ef7u3 = l.substring(126, 128).trim()
+  // const ef8 = l.substring(128, 200).trim()
   const ef9 = l.substring(200, 220).trim()
 
   return {
@@ -91,14 +91,14 @@ const parseKreis = (l: string): Kreis => {
   const ef3u1 = l.substring(10, 12).trim()
   const ef3u2 = l.substring(12, 13).trim()
   const ef3u3 = l.substring(13, 15).trim()
-  const ef3u4 = l.substring(15, 18).trim()
-  const ef4 = l.substring(18, 22).trim()
+  // const ef3u4 = l.substring(15, 18).trim()
+  // const ef4 = l.substring(18, 22).trim()
   const ef5 = l.substring(22, 72).trim()
   const ef6 = l.substring(72, 122).trim()
   const ef7u1 = l.substring(122, 124).trim()
-  const ef7u2 = l.substring(124, 126).trim()
-  const ef7u3 = l.substring(126, 128).trim()
-  const ef8 = l.substring(128, 200).trim()
+  // const ef7u2 = l.substring(124, 126).trim()
+  // const ef7u3 = l.substring(126, 128).trim()
+  // const ef8 = l.substring(128, 200).trim()
   const ef9 = l.substring(200, 220).trim()
 
   const typeMap = new Map([
@@ -129,14 +129,14 @@ const parseGemeindeverband = (l: string): Gemeindeverband => {
   const ef3u1 = l.substring(10, 12).trim()
   const ef3u2 = l.substring(12, 13).trim()
   const ef3u3 = l.substring(13, 15).trim()
-  const ef3u4 = l.substring(15, 18).trim()
+  // const ef3u4 = l.substring(15, 18).trim()
   const ef4 = l.substring(18, 22).trim()
   const ef5 = l.substring(22, 72).trim()
   const ef6 = l.substring(72, 122).trim()
   const ef7u1 = l.substring(122, 124).trim()
-  const ef7u2 = l.substring(124, 126).trim()
-  const ef7u3 = l.substring(126, 128).trim()
-  const ef8 = l.substring(128, 200).trim()
+  // const ef7u2 = l.substring(124, 126).trim()
+  // const ef7u3 = l.substring(126, 128).trim()
+  // const ef8 = l.substring(128, 200).trim()
   const ef9 = l.substring(200, 220).trim()
 
   const typeMap = new Map([
@@ -175,17 +175,17 @@ const parseGemeinde = (l: string): Gemeinde => {
   const ef3u4 = l.substring(15, 18).trim()
   const ef4 = l.substring(18, 22).trim()
   const ef5 = l.substring(22, 72).trim()
-  const ef6 = l.substring(72, 122).trim()
+  // const ef6 = l.substring(72, 122).trim()
   const ef7u1 = l.substring(122, 124).trim()
-  const ef7u2 = l.substring(124, 126).trim()
-  const ef7u3 = l.substring(126, 128).trim()
+  // const ef7u2 = l.substring(124, 126).trim()
+  // const ef7u3 = l.substring(126, 128).trim()
   const ef8 = l.substring(128, 139).trim()
   const ef9 = l.substring(139, 150).trim()
   const ef10 = l.substring(150, 161).trim()
-  const ef11 = l.substring(161, 165).trim()
+  // const ef11 = l.substring(161, 165).trim()
   const ef12u1 = l.substring(165, 170).trim()
   const ef12u2 = l.substring(170, 175).trim()
-  const ef13 = l.substring(175, 177).trim()
+  // const ef13 = l.substring(175, 177).trim()
   const ef14 = l.substring(177, 181).trim()
   const ef15u1 = l.substring(181, 183).trim()
   const ef15u2 = l.substring(183, 184).trim()
@@ -193,7 +193,7 @@ const parseGemeinde = (l: string): Gemeinde => {
   const ef16 = l.substring(185, 190).trim()
   const ef17u1 = l.substring(190, 193).trim()
   const ef17u2 = l.substring(193, 196).trim()
-  const ef18 = l.substring(196, 200).trim()
+  // const ef18 = l.substring(196, 200).trim()
   const ef19 = l.substring(200, 220).trim()
 
   const typeMap = new Map([
@@ -207,14 +207,22 @@ const parseGemeinde = (l: string): Gemeinde => {
     ['67', 'grosseKreisstadt']
   ])
 
+  const landSchluessel = ef3u1
+  const rbzSchluessel = ef3u2
+  const kreisSchluessel = ef3u3
+  const verbandSchluessel = ef4
+  const gemeindeSchluessel = ef3u4
+  const ars = parseInt(`${landSchluessel}${rbzSchluessel}${kreisSchluessel}${verbandSchluessel}${gemeindeSchluessel}`)
+
   return {
     type: 'gemeinde',
     date: `${ef2u1}-${ef2u2}-${ef2u3}`,
-    landSchluessel: parseInt(ef3u1),
-    regierungsbezirkSchluessel: parseInt(ef3u2),
-    kreisSchluessel: parseInt(ef3u3),
-    gemeindeverbandSchluessel: parseInt(ef4),
-    gemeindeSchluessel: parseInt(ef3u4),
+    ars,
+    landSchluessel: parseInt(landSchluessel),
+    regierungsbezirkSchluessel: parseInt(rbzSchluessel),
+    kreisSchluessel: parseInt(kreisSchluessel),
+    gemeindeverbandSchluessel: parseInt(verbandSchluessel),
+    gemeindeSchluessel: parseInt(gemeindeSchluessel),
     name: ef5,
     gemeindeTyp: typeMap.get(ef7u1) ?? ef7u1,
     flaecheHektar: parseInt(ef8),
