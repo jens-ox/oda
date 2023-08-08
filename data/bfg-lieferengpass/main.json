@@ -1,6 +1,391 @@
 [
   {
     "pzn": [
+      "15619030"
+    ],
+    "enr": [
+      "2202543"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-09-11",
+    "datumEnde": "2023-09-30",
+    "datumLetzteMeldung": "2023-08-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Asacol 1600 mg Tablette mit veränderter Wirkstofffreisetzung",
+    "atcCode": "A07EC02",
+    "wirkstoffe": "Mesalazin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Tillotts Pharma GmbH",
+    "mail": "florian.poell@tillotts.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-08-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01902124",
+      "04962233",
+      "04973076",
+      "04994931",
+      "04994948",
+      "04994954"
+    ],
+    "enr": [
+      "0078947",
+      "0078976",
+      "0078999"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-03",
+    "datumEnde": "2023-10-31",
+    "datumLetzteMeldung": "2023-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "LOCACORTEN-Vioform",
+    "atcCode": "D07BB01",
+    "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "telefon": "+49 38351 76-0",
+    "mail": "info.germany@esteve.com",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "grundAnmerkung": "geplanter Wechsel Wirkstoffhersteller aufgrund von Insolvenz",
+    "datumErstmeldung": "2023-08-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04366689",
+      "17601643"
+    ],
+    "enr": [
+      "2163386"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-07-19",
+    "datumEnde": "2023-09-25",
+    "datumLetzteMeldung": "2023-08-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Cefpodoxim STADA 200mg Filmtabletten",
+    "atcCode": "J01DD13",
+    "wirkstoffe": "Cefpodoximproxetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "telefon": "+4961016032416",
+    "mail": "christiane.georgi@stada.de",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Nachbestellung getätigt",
+    "datumErstmeldung": "2023-08-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04366614",
+      "04366666"
+    ],
+    "enr": [
+      "2163385"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-07-03",
+    "datumEnde": "2023-09-25",
+    "datumLetzteMeldung": "2023-08-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Cefpodoxim STADA 100 mg Filmtabletten",
+    "atcCode": "J01DD13",
+    "wirkstoffe": "Cefpodoximproxetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "telefon": "+4961016032416",
+    "mail": "christiane.georgi@stada.de",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Nachbestellung getätigt",
+    "datumErstmeldung": "2023-08-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05138602"
+    ],
+    "enr": [
+      "2703306"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-21",
+    "datumEnde": "2023-08-18",
+    "datumLetzteMeldung": "2023-08-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Suboxone 8 mg/2 mg Sublingualtabletten - OP28",
+    "atcCode": "N07BC51",
+    "wirkstoffe": "Buprenorphinhydrochlorid; Naloxonhydrochlorid-Dihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-07-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00583088"
+    ],
+    "enr": [
+      "2142771"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-21",
+    "datumEnde": "2023-09-04",
+    "datumLetzteMeldung": "2023-08-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "SUBUTEX 8 mg",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-07-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00583007"
+    ],
+    "enr": [
+      "2142769"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-07",
+    "datumEnde": "2023-08-18",
+    "datumLetzteMeldung": "2023-08-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "SUBUTEX 0,4 mg",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-08-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14266144",
+      "14266262"
+    ],
+    "enr": [
+      "2200583"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-24",
+    "datumEnde": "2023-09-29",
+    "datumLetzteMeldung": "2023-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/80 mg Tabletten",
+    "atcCode": "C10BA02",
+    "wirkstoffe": "Ezetimib; Simvastatin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "service.de@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11285856"
+    ],
+    "enr": [
+      "2160410"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-15",
+    "datumEnde": "2023-09-11",
+    "datumLetzteMeldung": "2023-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOOPTICEF Saft 100 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01DD08",
+    "wirkstoffe": "Cefixim (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04834512"
+    ],
+    "enr": [
+      "2155224"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-14",
+    "datumEnde": "2023-09-04",
+    "datumLetzteMeldung": "2023-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocef 500 Saft",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
+    "datumErstmeldung": "2022-12-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04525308",
+      "04653443"
+    ],
+    "enr": [
+      "0727357"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-09",
+    "datumEnde": "2023-09-18",
+    "datumLetzteMeldung": "2023-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectobicillin Saft 750",
+    "atcCode": "J01CE10",
+    "wirkstoffe": "Phenoxymethylpenicillin-Benzathin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
+    "datumErstmeldung": "2022-12-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06649598"
+    ],
+    "enr": [
+      "0191371"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-26",
+    "datumEnde": "2023-09-04",
+    "datumLetzteMeldung": "2023-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocillin 250 Saft",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-26",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03977445",
+      "07507110",
+      "11072132"
+    ],
+    "enr": [
+      "0610075"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-15",
+    "datumEnde": "2023-09-08",
+    "datumLetzteMeldung": "2023-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 400 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252-95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08776071",
+      "08776088"
+    ],
+    "enr": [
+      "2102842"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-02",
+    "datumEnde": "2023-09-04",
+    "datumLetzteMeldung": "2023-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Grüncef 500 mg/5ml Trockensaft",
+    "atcCode": "J01DB05",
+    "wirkstoffe": "Cefadroxil-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "062 52/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-05-08",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00669565"
+    ],
+    "enr": [
+      "2139325"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-12",
+    "datumEnde": "2023-08-17",
+    "datumLetzteMeldung": "2023-08-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Amoxi-Clavulan STADA TS 250/62,5 mg Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "telefon": "+4961016032416",
+    "mail": "christiane.georgi@stada.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-06-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00669559"
+    ],
+    "enr": [
+      "2139320"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-19",
+    "datumEnde": "2023-08-17",
+    "datumLetzteMeldung": "2023-08-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Amoxi-Clavulan STADA TS 125/31,25 mg Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "telefon": "+4961016032416",
+    "mail": "christiane.georgi@stada.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-06-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "08705349",
       "08705355",
       "08705361"
@@ -1818,29 +2203,6 @@
   },
   {
     "pzn": [
-      "06983274"
-    ],
-    "enr": [
-      "3001934"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-06-09",
-    "datumEnde": "2023-09-20",
-    "datumLetzteMeldung": "2023-08-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "FOLI-cell",
-    "atcCode": "V03AF03",
-    "wirkstoffe": "Calciumfolinat-Pentahydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "christiane.georgi@stadapharm.de",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundAnmerkung": "CMO related issue",
-    "datumErstmeldung": "2022-06-09",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "09327702"
     ],
     "enr": [
@@ -1926,7 +2288,7 @@
     "atcCode": "B06AA03",
     "wirkstoffe": "Hyaluronidase",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Sonstigen Hersteller",
@@ -1953,7 +2315,7 @@
     "atcCode": "H02AB08",
     "wirkstoffe": "Triamcinolonhexacetonid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -2653,32 +3015,6 @@
   },
   {
     "pzn": [
-      "04046370",
-      "04834512",
-      "04834529"
-    ],
-    "enr": [
-      "2155224"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-14",
-    "datumEnde": "2023-08-14",
-    "datumLetzteMeldung": "2023-07-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocef 500 Saft",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
-    "datumErstmeldung": "2022-12-09",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01356271"
     ],
     "enr": [
@@ -2699,29 +3035,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-05-22",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "05138602"
-    ],
-    "enr": [
-      "2703306"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-21",
-    "datumEnde": "2023-08-11",
-    "datumLetzteMeldung": "2023-07-28",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Suboxone 8 mg/2 mg Sublingualtabletten - OP28",
-    "atcCode": "N07BC51",
-    "wirkstoffe": "Buprenorphinhydrochlorid; Naloxonhydrochlorid-Dihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-07-19",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -3182,29 +3495,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "extremer Überverkauf",
     "datumErstmeldung": "2022-12-14",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12412222"
-    ],
-    "enr": [
-      "2193327"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-18",
-    "datumEnde": "2023-07-31",
-    "datumLetzteMeldung": "2023-07-27",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Calciumfolinat Kabi 10 mg/ml Injektions-/Infusionslösung",
-    "atcCode": "V03AF03",
-    "wirkstoffe": "Calciumfolinat-Hydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-    "telefon": "061726867883",
-    "mail": "frank.jethon@fresenius-kabi.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-07-18",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -3748,29 +4038,6 @@
   },
   {
     "pzn": [
-      "05124126"
-    ],
-    "enr": [
-      "2180269"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-06-29",
-    "datumEnde": "2023-07-31",
-    "datumLetzteMeldung": "2023-07-21",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Cefixim STADA 400 mg Filmtabletten",
-    "atcCode": "J01DD08",
-    "wirkstoffe": "Cefixim (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "christiane.georgi@stadapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Nachbestellung getätigt",
-    "datumErstmeldung": "2023-07-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08827667",
       "14307742"
     ],
@@ -3881,7 +4148,7 @@
     "atcCode": "A03AB02",
     "wirkstoffe": "Glycopyrroniumbromid (Ph.Eur.)",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Sonstige",
     "grundAnmerkung": "n.a",
@@ -3954,29 +4221,6 @@
     "zulassungsinhaber": "Aristo Pharma GmbH",
     "mail": "info@aristo-pharma.de",
     "grund": "Sonstige",
-    "datumErstmeldung": "2023-07-19",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00583088"
-    ],
-    "enr": [
-      "2142771"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-21",
-    "datumEnde": "2023-08-11",
-    "datumLetzteMeldung": "2023-07-19",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "SUBUTEX 8 mg",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-07-19",
     "infoFachkreise": "Vorgesehen"
   },
@@ -4266,7 +4510,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -4343,30 +4587,6 @@
   },
   {
     "pzn": [
-      "11285833",
-      "11285856"
-    ],
-    "enr": [
-      "2160410"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-15",
-    "datumEnde": "2023-09-11",
-    "datumLetzteMeldung": "2023-07-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOOPTICEF Saft 100 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DD08",
-    "wirkstoffe": "Cefixim (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00811804"
     ],
     "enr": [
@@ -4409,75 +4629,6 @@
     "grund": "Sonstige",
     "grundAnmerkung": "Behördlich angeforderte Rückruf.",
     "datumErstmeldung": "2023-07-14",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07127057"
-    ],
-    "enr": [
-      "2146558"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-12",
-    "datumEnde": "2023-08-21",
-    "datumLetzteMeldung": "2023-07-14",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "FOLI-cell 1000mg",
-    "atcCode": "V03AF03",
-    "wirkstoffe": "Calciumfolinat-Pentahydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "+49 6101 603 2416",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-06-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00669565"
-    ],
-    "enr": [
-      "2139325"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-12",
-    "datumEnde": "2023-08-04",
-    "datumLetzteMeldung": "2023-07-14",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Amoxi-Clavulan STADA TS 250/62,5 mg Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "+4961016032416",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-06-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00669559"
-    ],
-    "enr": [
-      "2139320"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-19",
-    "datumEnde": "2023-08-04",
-    "datumLetzteMeldung": "2023-07-14",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Amoxi-Clavulan STADA TS 125/31,25 mg Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "+4961016032416",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-06-15",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -4668,54 +4819,6 @@
   },
   {
     "pzn": [
-      "00345928"
-    ],
-    "enr": [
-      "2100997"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-19",
-    "datumEnde": "2023-09-30",
-    "datumLetzteMeldung": "2023-07-12",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Temgesic Ampullen",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "00800 270 81 901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Die Arzneimittelzulassung von Temgesic wurde an Eumedica übertragen.",
-    "datumErstmeldung": "2022-11-28",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09012358"
-    ],
-    "enr": [
-      "2127138"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-04",
-    "datumEnde": "2023-07-03",
-    "datumLetzteMeldung": "2023-07-12",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Temgesic forte sublingual",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Die Arzneimittelzulassung von Temgesic wurde an Eumedica übertragen.",
-    "datumErstmeldung": "2023-05-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "05459424"
     ],
     "enr": [
@@ -4830,29 +4933,6 @@
     "mail": "frank.jethon@fresenius-kabi.com",
     "grund": "Probleme in der Herstellung",
     "grundAnmerkung": "Versorgung ist mit 60 % des Kundenbedarfs gewährleistet.",
-    "datumErstmeldung": "2023-07-11",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17198733"
-    ],
-    "enr": [
-      "2204134"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-11",
-    "datumEnde": "2023-08-15",
-    "datumLetzteMeldung": "2023-07-11",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Flucloxacillin Kabi 1000 mg Pulver zur Herstellung einer Injektions-/Infusionslösung",
-    "atcCode": "J01CF05",
-    "wirkstoffe": "Flucloxacillin-Natrium-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-    "telefon": "061726867883",
-    "mail": "frank.jethon@fresenius-kabi.com",
-    "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-07-11",
     "infoFachkreise": "Vorgesehen"
   },
@@ -5126,31 +5206,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-12-15",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03977445",
-      "07507110",
-      "11072132"
-    ],
-    "enr": [
-      "0610075"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-15",
-    "datumEnde": "2023-09-08",
-    "datumLetzteMeldung": "2023-07-07",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 400 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252-95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -5578,29 +5633,6 @@
   },
   {
     "pzn": [
-      "14266144",
-      "14266262"
-    ],
-    "enr": [
-      "2200583"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-24",
-    "datumEnde": "2023-07-28",
-    "datumLetzteMeldung": "2023-06-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/80 mg Tabletten",
-    "atcCode": "C10BA02",
-    "wirkstoffe": "Ezetimib; Simvastatin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "service.de@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-06-01",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "05007834",
       "05007975"
     ],
@@ -5691,29 +5723,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-15",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07298391"
-    ],
-    "enr": [
-      "0614765"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-01",
-    "datumEnde": "2023-08-14",
-    "datumLetzteMeldung": "2023-06-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectotrimet 100 Saft",
-    "atcCode": "J01EA01",
-    "wirkstoffe": "Trimethoprim",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-06-05",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -6601,29 +6610,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-03-24",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06649598"
-    ],
-    "enr": [
-      "0191371"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-06-26",
-    "datumEnde": "2023-08-07",
-    "datumLetzteMeldung": "2023-06-26",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocillin 250 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-06-26",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -8439,30 +8425,6 @@
   },
   {
     "pzn": [
-      "08776071",
-      "08776088"
-    ],
-    "enr": [
-      "2102842"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-02",
-    "datumEnde": "2023-08-07",
-    "datumLetzteMeldung": "2023-05-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Grüncef 500 mg/5ml Trockensaft",
-    "atcCode": "J01DB05",
-    "wirkstoffe": "Cefadroxil-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "062 52/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-05-08",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "06648305"
     ],
     "enr": [
@@ -8482,32 +8444,6 @@
     "mail": "regulatory@infectopharm.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04525308",
-      "04525314",
-      "04653443"
-    ],
-    "enr": [
-      "0727357"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-09",
-    "datumEnde": "2023-09-18",
-    "datumLetzteMeldung": "2023-05-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectobicillin Saft 750",
-    "atcCode": "J01CE10",
-    "wirkstoffe": "Phenoxymethylpenicillin-Benzathin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
-    "datumErstmeldung": "2022-12-09",
     "infoFachkreise": "Nein"
   },
   {
@@ -8780,7 +8716,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "030338427306",
     "mail": "nleppkes@esteve.com",
     "grund": "Erhöhte Nachfrage",
@@ -8809,7 +8745,7 @@
     "atcCode": "J06BA02",
     "wirkstoffe": "Immunglobulin G vom Menschen",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Prothya Biosolutions Netherlands B.V.",
+    "zulassungsinhaber": "Sanquin Plasma Products B.V.",
     "telefon": "+31615045921",
     "mail": "bjorn.vanderklugt@prothya.com",
     "grund": "Probleme in der Herstellung",
