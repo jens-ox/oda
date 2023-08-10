@@ -1,6 +1,103 @@
 [
   {
     "pzn": [
+      "03703050",
+      "03703067",
+      "03703073"
+    ],
+    "enr": [
+      "0813507"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-04-05",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2023-08-09",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Dimaval (DMPS) 100 mg Hartkapseln",
+    "atcCode": "TERM_ID_NA_2090010126, V03AB",
+    "wirkstoffe": "(RS)-2,3-Bis(sulfanyl)propan-1-sulfonsäure-Natriumsalz 1 H<2>O",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "H e y l Chemisch-pharmazeutische Fabrik GmbH & Co. KG",
+    "telefon": "+49 30 816 96  0",
+    "mail": "info@heyl-berlin.de",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Haupt Pharma Wülfing GmbH.....",
+    "alternativPraeparat": "Dimaval - Einreichungsnummer: 2125465",
+    "datumErstmeldung": "2022-04-05",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "10180724"
+    ],
+    "enr": [
+      "2711804"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-08-09",
+    "datumEnde": "2023-09-13",
+    "datumLetzteMeldung": "2023-08-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "NovoRapid PumpCart 100 E/ml Injektionslösung in Patrone - OP(5x1,6ml)",
+    "atcCode": "A10AB05",
+    "wirkstoffe": "Insulin aspart",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
+    "datumErstmeldung": "2023-08-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18139371"
+    ],
+    "enr": [
+      "2100997"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-07-01",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-08-09",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Temgesic Ampullen",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "EUMEDICA Pharmaceuticals GmbH",
+    "mail": "h.bornemann@eumedica.ch",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Die Erstmeldung wurde bereits am 19.12.2022 vom ehemaligen MAH Indivior durchgeführt.",
+    "datumErstmeldung": "2023-08-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11558047"
+    ],
+    "enr": [
+      "2713667"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-08-09",
+    "datumEnde": "2023-08-14",
+    "datumLetzteMeldung": "2023-08-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Benepali 50 mg Injektionslösung in Fertigspritze - OP12[3x(4x0,98ml)]",
+    "atcCode": "L04AB01",
+    "wirkstoffe": "Etanercept",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Samsung Bioepis NL B.V.",
+    "telefon": "01607431920",
+    "mail": "jenny.lauterbach@biogen.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2023-08-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "13414714"
     ],
     "enr": [
@@ -4069,30 +4166,6 @@
   },
   {
     "pzn": [
-      "11304915"
-    ],
-    "enr": [
-      "2711753"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-26",
-    "datumEnde": "2023-08-09",
-    "datumLetzteMeldung": "2023-07-26",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Saxenda 6 mg/ml Injektionslösung in Fertigpen - OP(3x3ml)",
-    "atcCode": "TERM_ID_NA_2090000841",
-    "wirkstoffe": "Liraglutid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
-    "datumErstmeldung": "2023-07-26",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02792755"
     ],
     "enr": [
@@ -4532,30 +4605,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-07-20",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01894117",
-      "15238954"
-    ],
-    "enr": [
-      "0739722"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-15",
-    "datumEnde": "2023-09-01",
-    "datumLetzteMeldung": "2023-07-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Robinul zur Injektion",
-    "atcCode": "A03AB02",
-    "wirkstoffe": "Glycopyrroniumbromid (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
-    "mail": "info.germany@esteve.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "n.a",
-    "datumErstmeldung": "2023-07-20",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -9646,33 +9695,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-04-05",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03703050",
-      "03703067",
-      "03703073"
-    ],
-    "enr": [
-      "0813507"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-04-05",
-    "datumEnde": "2023-08-06",
-    "datumLetzteMeldung": "2023-04-05",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Dimaval (DMPS) 100 mg Hartkapseln",
-    "atcCode": "TERM_ID_NA_2090010126, V03AB",
-    "wirkstoffe": "(RS)-2,3-Bis(sulfanyl)propan-1-sulfonsäure-Natriumsalz 1 H<2>O",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "H e y l Chemisch-pharmazeutische Fabrik GmbH & Co. KG",
-    "telefon": "+49 30 816 96  0",
-    "mail": "info@heyl-berlin.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Haupt Pharma Wülfing GmbH.....",
-    "alternativPraeparat": "Dimaval - Einreichungsnummer: 2125465",
-    "datumErstmeldung": "2022-04-05",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
