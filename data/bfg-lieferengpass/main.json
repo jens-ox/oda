@@ -1,6 +1,98 @@
 [
   {
     "pzn": [
+      "18139388"
+    ],
+    "enr": [
+      "2102412"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-01",
+    "datumEnde": "2023-09-15",
+    "datumLetzteMeldung": "2023-08-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Temgesic-sublingual",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "EUMEDICA Pharmaceuticals GmbH",
+    "mail": "h.bornemann@eumedica.ch",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundAnmerkung": "Probleme bei der Freigabe der aktuell produzierten Charge",
+    "datumErstmeldung": "2023-08-04",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "18139425"
+    ],
+    "enr": [
+      "2127138"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-07-01",
+    "datumEnde": "2023-09-15",
+    "datumLetzteMeldung": "2023-08-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Temgesic forte sublingual",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "EUMEDICA Pharmaceuticals GmbH",
+    "mail": "h.bornemann@eumedica.ch",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundAnmerkung": "Probleme bei der Freigabe der aktuell produzierten Charge",
+    "datumErstmeldung": "2023-08-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00583065"
+    ],
+    "enr": [
+      "2142770"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-08-14",
+    "datumEnde": "2023-09-04",
+    "datumLetzteMeldung": "2023-08-10",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "SUBUTEX 2 mg",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-08-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00583007"
+    ],
+    "enr": [
+      "2142769"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-07",
+    "datumEnde": "2023-09-04",
+    "datumLetzteMeldung": "2023-08-10",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "SUBUTEX 0,4 mg",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-08-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "03703050",
       "03703067",
       "03703073"
@@ -611,7 +703,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -713,29 +805,6 @@
     "mail": "PatientSafetyRoW@indivior.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-07-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00583007"
-    ],
-    "enr": [
-      "2142769"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-07",
-    "datumEnde": "2023-08-18",
-    "datumLetzteMeldung": "2023-08-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "SUBUTEX 0,4 mg",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-07",
     "infoFachkreise": "Nein"
   },
   {
@@ -1341,29 +1410,6 @@
     "grundAnmerkung": "Qualitätsprobleme mit den gelieferten Ampullen",
     "datumErstmeldung": "2023-07-05",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "18139388"
-    ],
-    "enr": [
-      "2102412"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-01",
-    "datumEnde": "2023-08-15",
-    "datumLetzteMeldung": "2023-08-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Temgesic-sublingual",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "EUMEDICA Pharmaceuticals GmbH",
-    "mail": "h.bornemann@eumedica.ch",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundAnmerkung": "Probleme bei der Freigabe der aktuell produzierten Charge",
-    "datumErstmeldung": "2023-08-04",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -2832,7 +2878,7 @@
     "atcCode": "B06AA03",
     "wirkstoffe": "Hyaluronidase",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Sonstigen Hersteller",
@@ -2859,7 +2905,7 @@
     "atcCode": "H02AB08",
     "wirkstoffe": "Triamcinolonhexacetonid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -3945,33 +3991,6 @@
   {
     "pzn": [
       "00000000",
-      "04748391",
-      "04748416",
-      "04748422",
-      "07558225"
-    ],
-    "enr": [
-      "2121767"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-02",
-    "datumEnde": "2023-08-25",
-    "datumLetzteMeldung": "2023-07-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Nifedipin AL5",
-    "atcCode": "C08CA05",
-    "wirkstoffe": "Nifedipin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-01-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
       "04748333",
       "04748356",
       "08671900"
@@ -4938,7 +4957,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -9049,7 +9068,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "030338427306",
     "mail": "nleppkes@esteve.com",
     "grund": "Erhöhte Nachfrage",
@@ -9078,7 +9097,7 @@
     "atcCode": "J06BA02",
     "wirkstoffe": "Immunglobulin G vom Menschen",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Sanquin Plasma Products B.V.",
+    "zulassungsinhaber": "Prothya Biosolutions Netherlands B.V.",
     "telefon": "+31615045921",
     "mail": "bjorn.vanderklugt@prothya.com",
     "grund": "Probleme in der Herstellung",
