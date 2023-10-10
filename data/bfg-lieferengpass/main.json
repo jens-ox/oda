@@ -1,6 +1,245 @@
 [
   {
     "pzn": [
+      "06323307",
+      "06323313"
+    ],
+    "enr": [
+      "2121913"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-07-03",
+    "datumEnde": "2024-01-15",
+    "datumLetzteMeldung": "2023-10-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Aponal Tropfen",
+    "atcCode": "N06AA12",
+    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+    "telefon": "038343914465",
+    "mail": "ra-aponal@cheplapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-10-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03524525"
+    ],
+    "enr": [
+      "3000312"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-09-27",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-10-09",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Oxytetracyclin-Prednisolon-Augensalbe JENAPHARM",
+    "atcCode": "S01CA02",
+    "wirkstoffe": "Oxytetracyclinhydrochlorid; Prednisolon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "034954 2470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-10-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16218801"
+    ],
+    "enr": [
+      "2202354"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-18",
+    "datumEnde": "2023-10-23",
+    "datumLetzteMeldung": "2023-10-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Dutasterid/Tamsulosin Mylan 0,5 mg/0,4 mg Hartkapseln",
+    "atcCode": "G04CA52",
+    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Germany GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Sonstige",
+    "alternativPraeparat": "Dutasterid/Tamsulosin Mylan 0,5 mg/0,4 mg Hartkapseln - Einreichungsnummer: 2202354",
+    "datumErstmeldung": "2023-04-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00868951",
+      "03630167"
+    ],
+    "enr": [
+      "2145814"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-11",
+    "datumEnde": "2023-10-31",
+    "datumLetzteMeldung": "2023-10-09",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Nocutil 0,1 mg/ml - Nasenspray",
+    "atcCode": "H01BA02",
+    "wirkstoffe": "Desmopressinacetat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "APOGEPHA Arzneimittel GmbH",
+    "telefon": "03513363465",
+    "mail": "sbeier@apogepha.de",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "geplante Umstellung auf neuen Pumpenaufsatz konnte wg. behördlicher Auflagen in AT nicht durchgeführt werden",
+    "datumErstmeldung": "2023-08-11",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10168835",
+      "10168841"
+    ],
+    "enr": [
+      "2185210"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-09",
+    "datumEnde": "2023-11-15",
+    "datumLetzteMeldung": "2023-10-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Acnatac 10 mg/g + 0,25 mg/g Gel",
+    "atcCode": "D10AF51",
+    "wirkstoffe": "Clindamycin-2-dihydrogenphosphat; Tretinoin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kunderservice@viatris.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2023-10-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01512311",
+      "04257799",
+      "04257888",
+      "06649612"
+    ],
+    "enr": [
+      "0149618"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-07",
+    "datumEnde": "2023-12-11",
+    "datumLetzteMeldung": "2023-10-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocillin 500 Saft",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11285833",
+      "11285856"
+    ],
+    "enr": [
+      "2160410"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-15",
+    "datumEnde": "2024-02-05",
+    "datumLetzteMeldung": "2023-10-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOOPTICEF Saft 100 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01DD08",
+    "wirkstoffe": "Cefixim (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03977445",
+      "07507110"
+    ],
+    "enr": [
+      "0610075"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-16",
+    "datumEnde": "2023-10-23",
+    "datumLetzteMeldung": "2023-10-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 400 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252-95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03750291"
+    ],
+    "enr": [
+      "0820714"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-07",
+    "datumEnde": "2023-11-06",
+    "datumLetzteMeldung": "2023-10-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 200 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07273534"
+    ],
+    "enr": [
+      "2140877"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-20",
+    "datumEnde": "2023-12-15",
+    "datumLetzteMeldung": "2023-10-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefaclor STADA 500 mg Hartkapseln",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "mail": "Minyoung.seo@stadapharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "16228722",
       "16228797"
     ],
@@ -466,7 +705,7 @@
     "atcCode": "B06AA03",
     "wirkstoffe": "Hyaluronidase",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Sonstigen Hersteller",
@@ -1377,57 +1616,6 @@
   },
   {
     "pzn": [
-      "03977445",
-      "07507110"
-    ],
-    "enr": [
-      "0610075"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-16",
-    "datumEnde": "2023-10-16",
-    "datumLetzteMeldung": "2023-09-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 400 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252-95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01512311",
-      "04257799",
-      "04257888",
-      "06649606",
-      "06649612"
-    ],
-    "enr": [
-      "0149618"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-07",
-    "datumEnde": "2023-12-11",
-    "datumLetzteMeldung": "2023-09-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocillin 500 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-07",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01658374",
       "03124961"
     ],
@@ -2024,30 +2212,6 @@
   },
   {
     "pzn": [
-      "01038246"
-    ],
-    "enr": [
-      "2146280"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-30",
-    "datumEnde": "2023-10-06",
-    "datumLetzteMeldung": "2023-09-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Allergodil Kombipackung",
-    "atcCode": "R01AC03, S01GX07",
-    "wirkstoffe": "Azelastinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Erhöhte Nachfrage",
-    "alternativPraeparat": "Allergodil akut Duo - Einreichungsnummer: 2146278",
-    "datumErstmeldung": "2023-07-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "02240783"
     ],
     "enr": [
@@ -2592,29 +2756,6 @@
   },
   {
     "pzn": [
-      "04191876"
-    ],
-    "enr": [
-      "2702640"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-11",
-    "datumEnde": "2023-10-14",
-    "datumLetzteMeldung": "2023-09-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Arixtra 10 mg/0,8 ml Injektionslösung, Fertigspritze - OP7",
-    "atcCode": "B01AX05",
-    "wirkstoffe": "Fondaparinux-Natrium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan IRE Healthcare Limited",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-09-25",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "13880758",
       "13880764"
     ],
@@ -2867,7 +3008,7 @@
     "atcCode": "B06AA03",
     "wirkstoffe": "Hyaluronidase",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Sonstige",
@@ -2944,30 +3085,6 @@
     "alternativPraeparat": "AmoxClav HEXAL i. v. 500/100 mg Pulver zur Herstellung einer Injektions- oder Infusionslösung - Einreichungsnummer: 2161443",
     "datumErstmeldung": "2023-09-22",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "16218801"
-    ],
-    "enr": [
-      "2202354"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-18",
-    "datumEnde": "2023-10-09",
-    "datumLetzteMeldung": "2023-09-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Dutasterid/Tamsulosin Mylan 0,5 mg/0,4 mg Hartkapseln",
-    "atcCode": "G04CA52",
-    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Germany GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Sonstige",
-    "alternativPraeparat": "Dutasterid/Tamsulosin Mylan 0,5 mg/0,4 mg Hartkapseln - Einreichungsnummer: 2202354",
-    "datumErstmeldung": "2023-04-27",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -4517,30 +4634,6 @@
   },
   {
     "pzn": [
-      "11285833",
-      "11285856"
-    ],
-    "enr": [
-      "2160410"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-15",
-    "datumEnde": "2024-02-05",
-    "datumLetzteMeldung": "2023-09-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOOPTICEF Saft 100 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DD08",
-    "wirkstoffe": "Cefixim (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01356271"
     ],
     "enr": [
@@ -5266,29 +5359,6 @@
     "telefon": "08001223355",
     "mail": "service.info@gsk.com",
     "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-08-31",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "07271825"
-    ],
-    "enr": [
-      "2131385"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-17",
-    "datumEnde": "2023-09-30",
-    "datumLetzteMeldung": "2023-08-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Differin 0,1% Gel",
-    "atcCode": "D10AD03",
-    "wirkstoffe": "Adapalen",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Galderma Laboratorium GmbH",
-    "mail": "zulassung@galderma.com",
-    "grund": "Erhöhte Nachfrage",
-    "alternativPraeparat": "Differin 0,1% Creme - Einreichungsnummer: 2141443",
     "datumErstmeldung": "2023-08-31",
     "infoFachkreise": "Nein"
   },
@@ -6282,29 +6352,6 @@
   },
   {
     "pzn": [
-      "03750291"
-    ],
-    "enr": [
-      "0820714"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-07",
-    "datumEnde": "2023-10-09",
-    "datumLetzteMeldung": "2023-08-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 200 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-06-09",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "17571066"
     ],
     "enr": [
@@ -6999,30 +7046,6 @@
   },
   {
     "pzn": [
-      "03630167"
-    ],
-    "enr": [
-      "2145814"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-11",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-08-11",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Nocutil 0,1 mg/ml - Nasenspray",
-    "atcCode": "H01BA02",
-    "wirkstoffe": "Desmopressinacetat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "APOGEPHA Arzneimittel GmbH",
-    "telefon": "03513363465",
-    "mail": "sbeier@apogepha.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "geplante Umstellung auf neuen Pumpenaufsatz konnte wg. behördlicher Auflagen in AT nicht durchgeführt werden",
-    "datumErstmeldung": "2023-08-11",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03703050",
       "03703067",
       "03703073"
@@ -7285,7 +7308,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -7801,28 +7824,6 @@
   },
   {
     "pzn": [
-      "07273534"
-    ],
-    "enr": [
-      "2140877"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-20",
-    "datumEnde": "2023-10-06",
-    "datumLetzteMeldung": "2023-08-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefaclor STADA 500 mg Hartkapseln",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "Minyoung.seo@stadapharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-08-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03347804",
       "03626527",
       "15024354"
@@ -7839,7 +7840,7 @@
     "atcCode": "H02AB08",
     "wirkstoffe": "Triamcinolonhexacetonid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -8515,7 +8516,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
