@@ -1,6 +1,250 @@
 [
   {
     "pzn": [
+      "00028412"
+    ],
+    "enr": [
+      "2174371"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-10",
+    "datumEnde": "2024-04-22",
+    "datumLetzteMeldung": "2023-10-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fludarabin HEXAL 25 mg/ml Konzentrat zur Herstellung einer Injektions- oder Infusionslösung",
+    "atcCode": "L01BB05",
+    "wirkstoffe": "Fludarabinphosphat (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Ware wird kontigentiert",
+    "datumErstmeldung": "2023-10-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01637662"
+    ],
+    "enr": [
+      "0077681"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-07",
+    "datumEnde": "2023-10-31",
+    "datumLetzteMeldung": "2023-10-10",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Carbostesin 0,25%",
+    "atcCode": "N01BB01",
+    "wirkstoffe": "Bupivacainhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aspen Pharma Trading Limited",
+    "telefon": "+49 89 930 838 00",
+    "mail": "DE-info@aspenpharma.eu",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Carbostesin 0,25% - Einreichungsnummer: 0077681",
+    "datumErstmeldung": "2023-06-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00914131",
+      "00914148",
+      "00914154"
+    ],
+    "enr": [
+      "2113716"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-24",
+    "datumEnde": "2023-12-15",
+    "datumLetzteMeldung": "2023-10-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "carbadura 400 mg retard",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Germany GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Sonstige",
+    "alternativPraeparat": "carbadura 300 mg retard - Einreichungsnummer: 2113715",
+    "datumErstmeldung": "2023-08-08",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07820775",
+      "07820781"
+    ],
+    "enr": [
+      "2141202"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-12",
+    "datumEnde": "2023-10-23",
+    "datumLetzteMeldung": "2023-10-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Bronchospray Autohaler",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
+    "telefon": "06252-95 7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03479150",
+      "04524786"
+    ],
+    "enr": [
+      "2106890"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-05",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2023-10-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sobelin 300 mg",
+    "atcCode": "J01FF01",
+    "wirkstoffe": "Clindamycinhydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "Clindastad 300 mg Hartkapseln - Einreichungsnummer: 0289118",
+    "datumErstmeldung": "2023-10-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00669565"
+    ],
+    "enr": [
+      "2139325"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-12",
+    "datumEnde": "2023-10-30",
+    "datumLetzteMeldung": "2023-10-10",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Amoxi-Clavulan STADA TS 250/62,5 mg Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "telefon": "+4961016032416",
+    "mail": "christiane.georgi@stada.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-06-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04366689",
+      "17601643"
+    ],
+    "enr": [
+      "2163386"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-19",
+    "datumEnde": "2023-10-25",
+    "datumLetzteMeldung": "2023-10-10",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Cefpodoxim STADA 200mg Filmtabletten",
+    "atcCode": "J01DD13",
+    "wirkstoffe": "Cefpodoximproxetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "telefon": "+4961016032416",
+    "mail": "christiane.georgi@stada.de",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Nachbestellung getätigt",
+    "datumErstmeldung": "2023-08-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01343618"
+    ],
+    "enr": [
+      "2140401"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-23",
+    "datumEnde": "2023-11-15",
+    "datumLetzteMeldung": "2023-10-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 100 mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "Prednisolut 100 mg L - Einreichungsnummer: 2140401",
+    "datumErstmeldung": "2023-07-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01343529",
+      "01343541"
+    ],
+    "enr": [
+      "2140461"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-07",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-10-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 25 mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "Prednisolut 25 mg L - Einreichungsnummer: 2140461",
+    "datumErstmeldung": "2023-07-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01343564",
+      "01343570",
+      "01343587"
+    ],
+    "enr": [
+      "2143114"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-07",
+    "datumEnde": "2023-10-31",
+    "datumLetzteMeldung": "2023-10-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 50mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "06323307",
       "06323313"
     ],
@@ -1849,31 +2093,6 @@
   },
   {
     "pzn": [
-      "04366689",
-      "17601643"
-    ],
-    "enr": [
-      "2163386"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-19",
-    "datumEnde": "2023-10-09",
-    "datumLetzteMeldung": "2023-09-28",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Cefpodoxim STADA 200mg Filmtabletten",
-    "atcCode": "J01DD13",
-    "wirkstoffe": "Cefpodoximproxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "+4961016032416",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Nachbestellung getätigt",
-    "datumErstmeldung": "2023-08-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03673254"
     ],
     "enr": [
@@ -2658,32 +2877,6 @@
   },
   {
     "pzn": [
-      "01343564",
-      "01343570",
-      "01343587",
-      "14142169"
-    ],
-    "enr": [
-      "2143114"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-07",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-09-26",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 50mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04433552"
     ],
     "enr": [
@@ -2704,55 +2897,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-08-03",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01343529",
-      "01343541",
-      "14142146"
-    ],
-    "enr": [
-      "2140461"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-07",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-09-26",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 25 mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Erhöhte Nachfrage",
-    "alternativPraeparat": "Prednisolut 25 mg L - Einreichungsnummer: 2140461",
-    "datumErstmeldung": "2023-07-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00669565"
-    ],
-    "enr": [
-      "2139325"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-12",
-    "datumEnde": "2023-10-16",
-    "datumLetzteMeldung": "2023-09-26",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Amoxi-Clavulan STADA TS 250/62,5 mg Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "+4961016032416",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-06-15",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -3251,28 +3395,6 @@
     "grund": "Probleme bei der Endfreigabe",
     "grundAnmerkung": "Restbestand wird kontingentiert",
     "datumErstmeldung": "2023-09-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00629784"
-    ],
-    "enr": [
-      "2169626"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-21",
-    "datumEnde": "2023-10-09",
-    "datumLetzteMeldung": "2023-09-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Finasterid STADA 5 mg Filmtabletten",
-    "atcCode": "G04CB01",
-    "wirkstoffe": "Finasterid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "Minyoung.seo@stadapharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-08-04",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -3881,31 +4003,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-09-13",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01343618",
-      "14142100"
-    ],
-    "enr": [
-      "2140401"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-23",
-    "datumEnde": "2023-11-15",
-    "datumLetzteMeldung": "2023-09-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 100 mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Erhöhte Nachfrage",
-    "alternativPraeparat": "Prednisolut 100 mg L - Einreichungsnummer: 2140401",
-    "datumErstmeldung": "2023-07-13",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -4985,30 +5082,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-09-05",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00647345",
-      "00647374"
-    ],
-    "enr": [
-      "2139769"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-11",
-    "datumEnde": "2023-10-08",
-    "datumLetzteMeldung": "2023-09-04",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Enantone-Gyn Monats-Depot 3,75mg Retardmikrokapseln und Suspensionsmittel",
-    "atcCode": "L02AE02",
-    "wirkstoffe": "Leuprorelin (Ph.Eur.) ((mit Angaben zum Essigsäure-Gehalt))",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda GmbH",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-09-04",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -7261,32 +7334,6 @@
   },
   {
     "pzn": [
-      "00914131",
-      "00914148",
-      "00914154"
-    ],
-    "enr": [
-      "2113716"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-24",
-    "datumEnde": "2023-10-16",
-    "datumLetzteMeldung": "2023-08-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "carbadura 400 mg retard",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Germany GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Sonstige",
-    "alternativPraeparat": "carbadura 300 mg retard - Einreichungsnummer: 2113715",
-    "datumErstmeldung": "2023-08-08",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01902124",
       "04962233",
       "04973076",
@@ -7946,31 +7993,6 @@
   },
   {
     "pzn": [
-      "01637662",
-      "03455681"
-    ],
-    "enr": [
-      "0077681"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-07",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-07-28",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Carbostesin 0,25%",
-    "atcCode": "N01BB01",
-    "wirkstoffe": "Bupivacainhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aspen Pharma Trading Limited",
-    "telefon": "+49 89 930 838 00",
-    "mail": "DE-info@aspenpharma.eu",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "Carbostesin 0,25% - Einreichungsnummer: 0077681",
-    "datumErstmeldung": "2023-06-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01693991"
     ],
     "enr": [
@@ -8163,30 +8185,6 @@
     "alternativPraeparat": "Laif 900 - Einreichungsnummer: 2152912",
     "datumErstmeldung": "2023-05-26",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "07820775",
-      "07820781"
-    ],
-    "enr": [
-      "2141202"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-12",
-    "datumEnde": "2023-10-09",
-    "datumLetzteMeldung": "2023-07-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Bronchospray Autohaler",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
-    "telefon": "06252-95 7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-24",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
