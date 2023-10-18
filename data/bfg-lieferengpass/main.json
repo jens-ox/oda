@@ -1,6 +1,396 @@
 [
   {
     "pzn": [
+      "11543703"
+    ],
+    "enr": [
+      "2187982"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-14",
+    "datumEnde": "2023-11-17",
+    "datumLetzteMeldung": "2023-10-17",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Oxyconoica 80 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-08-03",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02592861"
+    ],
+    "enr": [
+      "2140258"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-13",
+    "datumEnde": "2023-11-24",
+    "datumLetzteMeldung": "2023-10-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Dexamethason acis 4 mg Injektionslösung",
+    "atcCode": "H02AB02",
+    "wirkstoffe": "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "+498944232460",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11538079",
+      "11538091"
+    ],
+    "enr": [
+      "2176825"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-04",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2023-10-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon HCl Hormosan 4 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "aufgrund erhöhter Nachfrage im Juli und August 2023 Produktknappheit bei der Packungsgröße 100 Retardtabletten",
+    "datumErstmeldung": "2023-09-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16682964",
+      "16682970",
+      "16682987"
+    ],
+    "enr": [
+      "2188012"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-01-18",
+    "datumLetzteMeldung": "2023-10-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 80 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11538116",
+      "11538122",
+      "11538139"
+    ],
+    "enr": [
+      "2176826"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2023-10-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon HCl Hormosan 8 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "erhöhte Nachfrage und Kapazitätsengpässe beim Lieferanten",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16682935",
+      "16682941"
+    ],
+    "enr": [
+      "2188011"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-01-18",
+    "datumLetzteMeldung": "2023-10-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 40 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "00887397",
+      "00887405",
+      "07558159"
+    ],
+    "enr": [
+      "2146067"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-09-30",
+    "datumEnde": "2023-11-30",
+    "datumLetzteMeldung": "2023-10-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clindamycin AL 300",
+    "atcCode": "J01FF01",
+    "wirkstoffe": "Clindamycinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16682912"
+    ],
+    "enr": [
+      "2188010"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2023-10-31",
+    "datumLetzteMeldung": "2023-10-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 20 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01491276"
+    ],
+    "enr": [
+      "0150231"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-06-17",
+    "datumLetzteMeldung": "2023-10-17",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Cyclopentolat Alcon 1%",
+    "atcCode": "S01FA04",
+    "wirkstoffe": "Cyclopentolathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Alcon Deutschland GmbH",
+    "telefon": "+497611304481",
+    "mail": "produkt.zulassung@alcon.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16682875",
+      "16682881",
+      "16682898"
+    ],
+    "enr": [
+      "2188009"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2023-10-31",
+    "datumLetzteMeldung": "2023-10-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 10 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11538197"
+    ],
+    "enr": [
+      "2176828"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2023-10-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon HCl Hormosan 24 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "erhöhte Nachfrage, Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04232138",
+      "04232167"
+    ],
+    "enr": [
+      "2160055"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2023-12-18",
+    "datumLetzteMeldung": "2023-10-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Mirtazapin-Hormosan 15 mg Filmtabletten",
+    "atcCode": "N06AX11",
+    "wirkstoffe": "Mirtazapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "erhöhte Nachfrage beider Packungsgrößen",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "13420850",
+      "13420867"
+    ],
+    "enr": [
+      "2196985"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-23",
+    "datumEnde": "2023-12-04",
+    "datumLetzteMeldung": "2023-10-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil Hormosan 200 mg/245 mg Filmtabletten",
+    "atcCode": "J05AR03",
+    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilphosphat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "erhöhte Nachfrage nach beiden Packungsgrößen im Juni, Juli August und September",
+    "datumErstmeldung": "2023-08-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16045358"
+    ],
+    "enr": [
+      "2199587"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-25",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-10-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "CLARITHROMYCIN BASICS 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Basics GmbH",
+    "mail": "rabattvertraege@sunpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02242078"
+    ],
+    "enr": [
+      "2153137"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-20",
+    "datumEnde": "2023-12-14",
+    "datumLetzteMeldung": "2023-10-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "CEFUROX BASICS 125mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01DC02",
+    "wirkstoffe": "Cefuroximaxetil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Basics GmbH",
+    "mail": "rabattvertraege@sunpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-08-14",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09482839",
+      "09482845",
+      "09482851"
+    ],
+    "enr": [
+      "2175289"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-01",
+    "datumEnde": "2023-11-30",
+    "datumLetzteMeldung": "2023-10-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "CANDESARTAN BASICS 16 mg Tabletten",
+    "atcCode": "C09CA06",
+    "wirkstoffe": "Candesartancilexetil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Basics GmbH",
+    "mail": "rabattvertraege@sunpharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-10-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "05024815"
     ],
     "enr": [
@@ -1886,30 +2276,6 @@
   },
   {
     "pzn": [
-      "09482839",
-      "09482845",
-      "09482851"
-    ],
-    "enr": [
-      "2175289"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-01",
-    "datumEnde": "2023-08-31",
-    "datumLetzteMeldung": "2023-10-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "CANDESARTAN BASICS 16 mg Tabletten",
-    "atcCode": "C09CA06",
-    "wirkstoffe": "Candesartancilexetil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Basics GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-10-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "09482762",
       "09482779",
       "09482785"
@@ -2069,7 +2435,7 @@
     "atcCode": "B06AA03",
     "wirkstoffe": "Hyaluronidase",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Sonstigen Hersteller",
@@ -3002,50 +3368,6 @@
   },
   {
     "pzn": [
-      "11543703"
-    ],
-    "enr": [
-      "2187982"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-14",
-    "datumEnde": "2023-10-13",
-    "datumLetzteMeldung": "2023-09-28",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Oxyconoica 80 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-03",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13912493"
-    ],
-    "enr": [
-      "2200127"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-19",
-    "datumEnde": "2023-10-13",
-    "datumLetzteMeldung": "2023-09-28",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Nortriptylin Glenmark 10 mg Filmtabletten",
-    "atcCode": "N06AA10",
-    "wirkstoffe": "Nortriptylinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-03",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "03673254"
     ],
     "enr": [
@@ -3889,7 +4211,7 @@
     "atcCode": "B06AA03",
     "wirkstoffe": "Hyaluronidase",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Sonstige",
@@ -4249,28 +4571,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-07-19",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11509824"
-    ],
-    "enr": [
-      "2182006"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-23",
-    "datumEnde": "2023-09-08",
-    "datumLetzteMeldung": "2023-09-18",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ipratropiumbromid 250 Mikrogramm / 1 ml Stulln",
-    "atcCode": "R03BB01",
-    "wirkstoffe": "Ipratropiumbromid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Penta Arzneimittel GmbH",
-    "mail": "cornelius@penta-arzneimittel.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-23",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -5619,31 +5919,6 @@
   },
   {
     "pzn": [
-      "11538091"
-    ],
-    "enr": [
-      "2176825"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-04",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-09-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon HCl Hormosan 4 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "info@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "aufgrund erhöhter Nachfrage im Juli und August 2023 Produktknappheit bei der Packungsgröße 100 Retardtabletten",
-    "alternativPraeparat": "Hydromorphon HCl Hormosan 4 mg Retardtabletten - Einreichungsnummer: 2176825",
-    "datumErstmeldung": "2023-09-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04324188"
     ],
     "enr": [
@@ -6270,29 +6545,6 @@
   },
   {
     "pzn": [
-      "16045358"
-    ],
-    "enr": [
-      "2199587"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-04",
-    "datumEnde": "2023-09-15",
-    "datumLetzteMeldung": "2023-08-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "CLARITHROMYCIN BASICS 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA09",
-    "wirkstoffe": "Clarithromycin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Basics GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00000000",
       "04748333",
       "04748356",
@@ -6752,31 +7004,6 @@
   },
   {
     "pzn": [
-      "13420850",
-      "13420867"
-    ],
-    "enr": [
-      "2196985"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-23",
-    "datumEnde": "2023-10-16",
-    "datumLetzteMeldung": "2023-08-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil Hormosan 200 mg/245 mg Filmtabletten",
-    "atcCode": "J05AR03",
-    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilphosphat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "erhöhte Nachfrage nach beiden Packungsgrößen im Juni und Juli",
-    "datumErstmeldung": "2023-08-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "11509801"
     ],
     "enr": [
@@ -7192,29 +7419,6 @@
   },
   {
     "pzn": [
-      "02242078"
-    ],
-    "enr": [
-      "2153137"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-14",
-    "datumEnde": "2023-09-30",
-    "datumLetzteMeldung": "2023-08-14",
-    "grundArt": "Sonstige",
-    "bezeichnung": "CEFUROX BASICS 125mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DC02",
-    "wirkstoffe": "Cefuroximaxetil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Basics GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-08-14",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03820324",
       "06154626"
     ],
@@ -7566,7 +7770,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -8050,7 +8254,7 @@
     "atcCode": "H02AB08",
     "wirkstoffe": "Triamcinolonhexacetonid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -8583,7 +8787,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
