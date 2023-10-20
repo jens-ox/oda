@@ -1,6 +1,283 @@
 [
   {
     "pzn": [
+      "03853714"
+    ],
+    "enr": [
+      "2131040"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-19",
+    "datumEnde": "2023-12-01",
+    "datumLetzteMeldung": "2023-10-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sempera Kapseln",
+    "atcCode": "J02AC02",
+    "wirkstoffe": "Itraconazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
+    "telefon": "0800 7910010",
+    "mail": "jancil@its.jnj.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Da der Lieferengpass seitens des Mitbewerbers auf der BfArM-Lieferengpass-Seite nicht sichtbar war, konnten wir in diesem Fall nicht vorbeugend tätig werden und unsere Liefermengen nicht rechtzeitig erhöhen.",
+    "datumErstmeldung": "2023-10-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01833699",
+      "01833707"
+    ],
+    "enr": [
+      "2142840"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-19",
+    "datumEnde": "2024-02-01",
+    "datumLetzteMeldung": "2023-10-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clindamycin-ratiopharm 300 mg Hartkapseln",
+    "atcCode": "J01FF01",
+    "wirkstoffe": "Clindamycinhydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08695065"
+    ],
+    "enr": [
+      "2103822"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-31",
+    "datumEnde": "2023-12-15",
+    "datumLetzteMeldung": "2023-10-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Somatostatin Lyomark 3 mg",
+    "atcCode": "H01CB01",
+    "wirkstoffe": "Somatostatinacetat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Lyomark Pharma GmbH",
+    "telefon": "089 / 450808780",
+    "mail": "sales@lyomark.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2022-10-10",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "11864353"
+    ],
+    "enr": [
+      "2191563"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-19",
+    "datumEnde": "2024-04-30",
+    "datumLetzteMeldung": "2023-10-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Linezolid Denk 600 mg Filmtabletten",
+    "atcCode": "J01XX08",
+    "wirkstoffe": "Linezolid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
+    "mail": "edith.eigenberger@denkpharma.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00583088",
+      "00583094",
+      "14404959"
+    ],
+    "enr": [
+      "2142771"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-21",
+    "datumEnde": "2024-01-22",
+    "datumLetzteMeldung": "2023-10-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "SUBUTEX 8 mg",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-07-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00582999",
+      "00583065",
+      "14404913"
+    ],
+    "enr": [
+      "2142770"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-14",
+    "datumEnde": "2023-11-24",
+    "datumLetzteMeldung": "2023-10-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "SUBUTEX 2 mg",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-08-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11127732",
+      "11127749"
+    ],
+    "enr": [
+      "2195136"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-11",
+    "datumEnde": "2023-12-29",
+    "datumLetzteMeldung": "2023-10-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Zonisamid Glenmark 100 mg Hartkapseln",
+    "atcCode": "N03AX15",
+    "wirkstoffe": "Zonisamid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-10-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11543413"
+    ],
+    "enr": [
+      "2187975"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-09-29",
+    "datumEnde": "2024-02-23",
+    "datumLetzteMeldung": "2023-10-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Oxyconoica 5 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-10-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11543548"
+    ],
+    "enr": [
+      "2187978"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-04",
+    "datumEnde": "2024-01-26",
+    "datumLetzteMeldung": "2023-10-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Oxyconoica 20 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-10-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09098472"
+    ],
+    "enr": [
+      "2172061"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-09-12",
+    "datumEnde": "2024-01-19",
+    "datumLetzteMeldung": "2023-10-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Glepark 0,35 mg Tabletten",
+    "atcCode": "N04BC05",
+    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-10-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14261402"
+    ],
+    "enr": [
+      "2164904"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-16",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-10-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Urapidil Carinopharm 25 mg",
+    "atcCode": "C02CA06",
+    "wirkstoffe": "Urapidil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Carinopharm GmbH",
+    "telefon": "05182 586 69 0",
+    "mail": "info@carinopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-07-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14261419"
+    ],
+    "enr": [
+      "2164906"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-01",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-10-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Urapidil Carinopharm 50 mg",
+    "atcCode": "C02CA06",
+    "wirkstoffe": "Urapidil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Carinopharm GmbH",
+    "telefon": "05182 586 69 0",
+    "mail": "info@carinopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-07-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "01744932",
       "01744949"
     ],
@@ -1427,34 +1704,6 @@
   },
   {
     "pzn": [
-      "00141516",
-      "00141522",
-      "10273816",
-      "10273822",
-      "10273839",
-      "11601145",
-      "16201628"
-    ],
-    "enr": [
-      "2158766"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-16",
-    "datumEnde": "2023-10-27",
-    "datumLetzteMeldung": "2023-10-16",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clindamycin Aristo 600 mg Filmtabletten",
-    "atcCode": "J01FF01",
-    "wirkstoffe": "Clindamycinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-16",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "10273785",
       "10273791",
       "10301323"
@@ -1658,31 +1907,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-07-19",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00583088",
-      "00583094",
-      "14404959"
-    ],
-    "enr": [
-      "2142771"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-21",
-    "datumEnde": "2024-01-22",
-    "datumLetzteMeldung": "2023-10-16",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "SUBUTEX 8 mg",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-07-19",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -1919,31 +2143,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
     "datumErstmeldung": "2022-12-09",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00582999",
-      "00583065",
-      "14404913"
-    ],
-    "enr": [
-      "2142770"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-14",
-    "datumEnde": "2023-12-08",
-    "datumLetzteMeldung": "2023-10-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "SUBUTEX 2 mg",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-10",
     "infoFachkreise": "Nein"
   },
   {
@@ -2365,28 +2564,6 @@
     "mail": "info@aliud.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-06-22",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00081903"
-    ],
-    "enr": [
-      "2158368"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-11",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-10-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxygesic akut 10 mg",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-07-12",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -3167,7 +3344,7 @@
     "atcCode": "B06AA03",
     "wirkstoffe": "Hyaluronidase",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Sonstigen Hersteller",
@@ -4318,30 +4495,6 @@
   },
   {
     "pzn": [
-      "03853708"
-    ],
-    "enr": [
-      "2131040"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-07",
-    "datumEnde": "2023-10-23",
-    "datumLetzteMeldung": "2023-09-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sempera Kapseln",
-    "atcCode": "J02AC02",
-    "wirkstoffe": "Itraconazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
-    "telefon": "0800 7910010",
-    "mail": "jancil@its.jnj.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Da der Lieferengpass seitens des Mitbewerbers auf der BfArM-Lieferengpass-Seite nicht sichtbar war, konnten wir in diesem Fall nicht vorbeugend tätig werden und unsere Liefermengen nicht rechtzeitig erhöhen.",
-    "datumErstmeldung": "2023-09-08",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "10920776",
       "10920782",
       "10920799"
@@ -4648,29 +4801,6 @@
   },
   {
     "pzn": [
-      "00821033",
-      "09312764"
-    ],
-    "enr": [
-      "2159113"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-25",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-09-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Palladon 2,6 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-04-26",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04433552"
     ],
     "enr": [
@@ -4898,7 +5028,7 @@
     "atcCode": "B06AA03",
     "wirkstoffe": "Hyaluronidase",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Sonstige",
@@ -6904,33 +7034,6 @@
   },
   {
     "pzn": [
-      "00000000",
-      "04748333",
-      "04748356",
-      "08671900"
-    ],
-    "enr": [
-      "2112970"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-02",
-    "datumEnde": "2023-12-01",
-    "datumLetzteMeldung": "2023-08-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Penicillin V AL 1 M",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "extremer Überverkauf",
-    "datumErstmeldung": "2022-12-14",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "16037850",
       "16037867"
     ],
@@ -7213,29 +7316,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "alternativPraeparat": "Fesoterodin Aristo 4 mg Retardtabletten - Einreichungsnummer: 7000588",
     "datumErstmeldung": "2023-03-27",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01799838"
-    ],
-    "enr": [
-      "2151075"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-13",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-08-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Avalox 400 mg/250 ml Infusionslösung",
-    "atcCode": "J01MA14",
-    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wassergehalt))",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bayer Vital GmbH",
-    "telefon": "0800 6422937",
-    "mail": "medical-information@bayer.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2023-03-13",
     "infoFachkreise": "Nein"
   },
   {
@@ -8036,52 +8116,6 @@
   },
   {
     "pzn": [
-      "14261419"
-    ],
-    "enr": [
-      "2164906"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-01",
-    "datumEnde": "2023-10-16",
-    "datumLetzteMeldung": "2023-08-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Urapidil Carinopharm 50 mg",
-    "atcCode": "C02CA06",
-    "wirkstoffe": "Urapidil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Carinopharm GmbH",
-    "telefon": "05182 586 69 0",
-    "mail": "info@carinopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-07-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14261402"
-    ],
-    "enr": [
-      "2164904"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-16",
-    "datumEnde": "2023-10-16",
-    "datumLetzteMeldung": "2023-08-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Urapidil Carinopharm 25 mg",
-    "atcCode": "C02CA06",
-    "wirkstoffe": "Urapidil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Carinopharm GmbH",
-    "telefon": "05182 586 69 0",
-    "mail": "info@carinopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-07-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00143024",
       "06809636"
     ],
@@ -8129,7 +8163,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -8566,7 +8600,7 @@
     "atcCode": "H02AB08",
     "wirkstoffe": "Triamcinolonhexacetonid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -9075,7 +9109,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -10406,29 +10440,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-08-24",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08695065"
-    ],
-    "enr": [
-      "2103822"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-31",
-    "datumEnde": "2023-10-15",
-    "datumLetzteMeldung": "2023-05-24",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Somatostatin Lyomark 3 mg",
-    "atcCode": "H01CB01",
-    "wirkstoffe": "Somatostatinacetat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Lyomark Pharma GmbH",
-    "telefon": "089 / 450808780",
-    "mail": "sales@lyomark.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-10-10",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
