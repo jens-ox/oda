@@ -1,6 +1,276 @@
 [
   {
     "pzn": [
+      "07588338",
+      "18268269",
+      "18268275",
+      "18268281",
+      "18268298"
+    ],
+    "enr": [
+      "2131362"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-01",
+    "datumEnde": "2023-11-30",
+    "datumLetzteMeldung": "2023-10-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Disoprivan 1%",
+    "atcCode": "N01AX10",
+    "wirkstoffe": "Propofol",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Aspen Pharma Trading Limited",
+    "telefon": "+49 89  93 08 38 00",
+    "mail": "de-info@aspenpharma.eu",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Disoprivan 1% - Einreichungsnummer: 2131362",
+    "datumErstmeldung": "2023-08-14",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02231502",
+      "05486467"
+    ],
+    "enr": [
+      "2124626"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-16",
+    "datumEnde": "2023-10-31",
+    "datumLetzteMeldung": "2023-10-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "CEFACLOR BASICS 250 mg TS",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Basics GmbH",
+    "mail": "rabattvertraege@sunpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Stark erhöhte Nachfrage",
+    "datumErstmeldung": "2023-09-14",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11228367"
+    ],
+    "enr": [
+      "2204962"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-17",
+    "datumEnde": "2023-10-31",
+    "datumLetzteMeldung": "2023-10-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Alfacalcidol Aristo 0,5 Mikrogramm Weichkapseln",
+    "atcCode": "A11CC03",
+    "wirkstoffe": "Alfacalcidol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-07-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16164229"
+    ],
+    "enr": [
+      "2189553"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-05-06",
+    "datumEnde": "2024-09-15",
+    "datumLetzteMeldung": "2023-10-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Calciumfolinat EVER Pharma 10 mg/ml Injektionslösung",
+    "atcCode": "V03AF03",
+    "wirkstoffe": "Calciumfolinat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "EVER Valinject GmbH",
+    "mail": "markus.hinterberger@everpharma.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2022-05-06",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01289037",
+      "01289043"
+    ],
+    "enr": [
+      "2142784"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-04",
+    "datumEnde": "2023-10-26",
+    "datumLetzteMeldung": "2023-10-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Vasomotal 24 mg",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-18",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07382890",
+      "07382909"
+    ],
+    "enr": [
+      "2127523"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-07-08",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2023-10-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sabril Beutel",
+    "atcCode": "N03AG04",
+    "wirkstoffe": "Vigabatrin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "0800 52 52 010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "grundAnmerkung": "Eingeschränkte Lieferfähigkeit. Abgabe auf Einzelanfrage nach Rezeptvorlage.",
+    "datumErstmeldung": "2022-07-08",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "06983630",
+      "06983676"
+    ],
+    "enr": [
+      "2126034"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-07-21",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2023-10-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sabril 500 mg Filmtabletten",
+    "atcCode": "N03AG04",
+    "wirkstoffe": "Vigabatrin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "0800 52 52 010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "grundAnmerkung": "Beide Packungsgrößen sind weitgehend eingeschränkt verfügbar. Abgabe auf Einzelanfrage nach Rezeptvorlage. Die Rezeptmengen werden abhängig von der Verfügbarkeit bedient.",
+    "datumErstmeldung": "2022-07-21",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "16832731",
+      "16832748",
+      "16832754"
+    ],
+    "enr": [
+      "2204196"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-14",
+    "datumEnde": "2024-03-29",
+    "datumLetzteMeldung": "2023-10-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Methysym",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "helen.braun@aristo-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-08-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04257799",
+      "04257888",
+      "06649606",
+      "06649612"
+    ],
+    "enr": [
+      "0149618"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-07",
+    "datumEnde": "2023-12-11",
+    "datumLetzteMeldung": "2023-10-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocillin 500 Saft",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03977445",
+      "07507110"
+    ],
+    "enr": [
+      "0610075"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-16",
+    "datumEnde": "2023-10-30",
+    "datumLetzteMeldung": "2023-10-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 400 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252-95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04525308",
+      "04525314",
+      "04653443"
+    ],
+    "enr": [
+      "0727357"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-09",
+    "datumEnde": "2023-11-01",
+    "datumLetzteMeldung": "2023-10-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectobicillin Saft 750",
+    "atcCode": "J01CE10",
+    "wirkstoffe": "Phenoxymethylpenicillin-Benzathin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
+    "datumErstmeldung": "2022-12-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "01527554",
       "01527695",
       "01527703"
@@ -774,31 +1044,6 @@
     "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
     "datumErstmeldung": "2023-10-18",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01289020",
-      "01289037",
-      "01289043"
-    ],
-    "enr": [
-      "2142784"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-04",
-    "datumEnde": "2023-10-26",
-    "datumLetzteMeldung": "2023-10-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Vasomotal 24 mg",
-    "atcCode": "N07CA01",
-    "wirkstoffe": "Betahistindihydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-18",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -2048,30 +2293,6 @@
   },
   {
     "pzn": [
-      "03977445",
-      "07507110"
-    ],
-    "enr": [
-      "0610075"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-16",
-    "datumEnde": "2023-10-30",
-    "datumLetzteMeldung": "2023-10-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 400 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252-95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "17570055",
       "17570061"
     ],
@@ -2187,31 +2408,6 @@
   },
   {
     "pzn": [
-      "04257799",
-      "04257888",
-      "06649612"
-    ],
-    "enr": [
-      "0149618"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-07",
-    "datumEnde": "2023-12-11",
-    "datumLetzteMeldung": "2023-10-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocillin 500 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-07",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "08776071",
       "08776088"
     ],
@@ -2255,32 +2451,6 @@
     "mail": "shortages@infectopharm.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04525308",
-      "04525314",
-      "04653443"
-    ],
-    "enr": [
-      "0727357"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-09",
-    "datumEnde": "2023-11-01",
-    "datumLetzteMeldung": "2023-10-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectobicillin Saft 750",
-    "atcCode": "J01CE10",
-    "wirkstoffe": "Phenoxymethylpenicillin-Benzathin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
-    "datumErstmeldung": "2022-12-09",
     "infoFachkreise": "Nein"
   },
   {
@@ -2420,31 +2590,6 @@
     "mail": "medical.information@pfizer.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-10-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13880758",
-      "13880764"
-    ],
-    "enr": [
-      "2714031",
-      "2714918"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-03",
-    "datumEnde": "2023-11-17",
-    "datumLetzteMeldung": "2023-10-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ritonavir Mylan 100 mg Filmtabletten - OP30",
-    "atcCode": "J05AE03",
-    "wirkstoffe": "Ritonavir",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Pharmaceuticals Limited",
-    "telefon": "08000 700 800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-09-25",
     "infoFachkreise": "Nein"
   },
   {
@@ -2924,31 +3069,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-10-09",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00868951",
-      "03630167"
-    ],
-    "enr": [
-      "2145814"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-11",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-10-09",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Nocutil 0,1 mg/ml - Nasenspray",
-    "atcCode": "H01BA02",
-    "wirkstoffe": "Desmopressinacetat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "APOGEPHA Arzneimittel GmbH",
-    "telefon": "03513363465",
-    "mail": "sbeier@apogepha.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "geplante Umstellung auf neuen Pumpenaufsatz konnte wg. behördlicher Auflagen in AT nicht durchgeführt werden",
-    "datumErstmeldung": "2023-08-11",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -4331,52 +4451,6 @@
   },
   {
     "pzn": [
-      "02021377"
-    ],
-    "enr": [
-      "2100328"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-27",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-09-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ovestin 1 mg Creme",
-    "atcCode": "G03CA04",
-    "wirkstoffe": "Estriol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aspen Pharma Trading Limited",
-    "telefon": "+49 89  93 08 38 00",
-    "mail": "de-info@aspenpharma.eu",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-09-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00751999"
-    ],
-    "enr": [
-      "0101712"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-27",
-    "datumEnde": "2023-10-18",
-    "datumLetzteMeldung": "2023-09-27",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Osnervan",
-    "atcCode": "N04AA04",
-    "wirkstoffe": "Procyclidinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aspen Pharma Trading Limited",
-    "telefon": "+49 89  93 08 38 00",
-    "mail": "de-info@aspenpharma.eu",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-09-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00541629"
     ],
     "enr": [
@@ -5302,29 +5376,6 @@
   },
   {
     "pzn": [
-      "11228367",
-      "11228373"
-    ],
-    "enr": [
-      "2204962"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-17",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-09-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Alfacalcidol Aristo 0,5 Mikrogramm Weichkapseln",
-    "atcCode": "A11CC03",
-    "wirkstoffe": "Alfacalcidol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-07-19",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04632582",
       "04835351",
       "07574394"
@@ -5442,30 +5493,6 @@
     "grundAnmerkung": "Mögliche Alternativen: wirkstoff- und dosierungsgleiche Präparate von Mitbewerbern",
     "datumErstmeldung": "2023-04-18",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "02231502",
-      "05486467"
-    ],
-    "enr": [
-      "2124626"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-16",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-09-14",
-    "grundArt": "Sonstige",
-    "bezeichnung": "CEFACLOR BASICS 250 mg TS",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Basics GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Stark erhöhte Nachfrage",
-    "datumErstmeldung": "2023-09-14",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -6550,29 +6577,6 @@
   },
   {
     "pzn": [
-      "08602744"
-    ],
-    "enr": [
-      "2134164"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-31",
-    "datumEnde": "2023-11-15",
-    "datumLetzteMeldung": "2023-08-31",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Omegaven-Fresenius",
-    "atcCode": "B05BA02",
-    "wirkstoffe": "Eilecithin; Glycerol; Öl von Hochseefischen",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-    "telefon": "061726080",
-    "mail": "lieferengpassmeldung@fresenius-kabi.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-31",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "05505940"
     ],
     "enr": [
@@ -7583,30 +7587,6 @@
   },
   {
     "pzn": [
-      "16832731",
-      "16832748",
-      "16832754"
-    ],
-    "enr": [
-      "2204196"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-14",
-    "datumEnde": "2023-10-20",
-    "datumLetzteMeldung": "2023-08-15",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Methysym",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "helen.braun@aristo-pharma.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01822916"
     ],
     "enr": [
@@ -7670,30 +7650,6 @@
     "telefon": "+49 89  93 08 38 00",
     "mail": "de-info@aspenpharma.eu",
     "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-14",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07588338"
-    ],
-    "enr": [
-      "2131362"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-01",
-    "datumEnde": "2023-11-30",
-    "datumLetzteMeldung": "2023-08-14",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Disoprivan 1%",
-    "atcCode": "N01AX10",
-    "wirkstoffe": "Propofol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aspen Pharma Trading Limited",
-    "telefon": "+49 89  93 08 38 00",
-    "mail": "de-info@aspenpharma.eu",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "Disoprivan 1% - Einreichungsnummer: 2131362",
     "datumErstmeldung": "2023-08-14",
     "infoFachkreise": "Vorgesehen"
   },
@@ -8153,28 +8109,6 @@
   },
   {
     "pzn": [
-      "08641862"
-    ],
-    "enr": [
-      "2111303"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-25",
-    "datumEnde": "2023-10-20",
-    "datumLetzteMeldung": "2023-08-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "MCP STADA 10 mg Tabletten",
-    "atcCode": "A03FA01",
-    "wirkstoffe": "Metoclopramidhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "Minyoung.seo@stadapharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-08-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "11259155",
       "11259161",
       "11259178"
@@ -8473,31 +8407,6 @@
     "alternativPraeparat": "Linezolid Ascend 600 mg Filmtabletten - Einreichungsnummer: 2199427",
     "datumErstmeldung": "2023-07-31",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06983630",
-      "06983676"
-    ],
-    "enr": [
-      "2126034"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-07-21",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-07-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sabril 500 mg Filmtabletten",
-    "atcCode": "N03AG04",
-    "wirkstoffe": "Vigabatrin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "0800 52 52 010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Probleme beim Wirkstoffhersteller",
-    "grundAnmerkung": "Beide Packungsgrößen sind eingeschränkt verfügbar. Abgabe auf Einzelanfrage nach Rezeptvorlage.",
-    "datumErstmeldung": "2022-07-21",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
@@ -10566,31 +10475,6 @@
   },
   {
     "pzn": [
-      "07382890",
-      "07382909"
-    ],
-    "enr": [
-      "2127523"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-07-08",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-04-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sabril Beutel",
-    "atcCode": "N03AG04",
-    "wirkstoffe": "Vigabatrin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "0800 52 52 010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Probleme beim Wirkstoffhersteller",
-    "grundAnmerkung": "Eingeschränkte Lieferfähigkeit. Abgabe auf Einzelanfrage nach Rezeptvorlage.",
-    "datumErstmeldung": "2022-07-08",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
       "12642459"
     ],
     "enr": [
@@ -11350,28 +11234,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-02",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16164229"
-    ],
-    "enr": [
-      "2189553"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-05-06",
-    "datumEnde": "2023-10-15",
-    "datumLetzteMeldung": "2022-11-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Calciumfolinat EVER Pharma 10 mg/ml Injektionslösung",
-    "atcCode": "V03AF03",
-    "wirkstoffe": "Calciumfolinat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "EVER Valinject GmbH",
-    "mail": "markus.hinterberger@everpharma.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2022-05-06",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
