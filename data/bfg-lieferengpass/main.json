@@ -1,6 +1,182 @@
 [
   {
     "pzn": [
+      "01289037",
+      "01289043"
+    ],
+    "enr": [
+      "2142784"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-04",
+    "datumEnde": "2023-11-17",
+    "datumLetzteMeldung": "2023-10-26",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Vasomotal 24 mg",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-18",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17601643"
+    ],
+    "enr": [
+      "2163386"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-19",
+    "datumEnde": "2023-11-30",
+    "datumLetzteMeldung": "2023-10-26",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Cefpodoxim STADA 200mg Filmtabletten",
+    "atcCode": "J01DD13",
+    "wirkstoffe": "Cefpodoximproxetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "telefon": "+4961016032416",
+    "mail": "christiane.georgi@stada.de",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Nachbestellung getätigt",
+    "datumErstmeldung": "2023-08-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08827667",
+      "14307742"
+    ],
+    "enr": [
+      "2138389"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-29",
+    "datumEnde": "2023-11-07",
+    "datumLetzteMeldung": "2023-10-26",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Molsidomin STADA 8 mg Retardtabletten",
+    "atcCode": "C01DX12",
+    "wirkstoffe": "Molsidomin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Betrifft auch (ENR: 2138389)Molsidomin STADA 8 mg Aliud 60 St - PZN: 15316795Molsidomin STADA 8 mg Aliud 100 St - PZN: 11011751",
+    "datumErstmeldung": "2023-02-01",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10920776",
+      "10920782",
+      "10920799"
+    ],
+    "enr": [
+      "2109212"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-27",
+    "datumEnde": "2023-11-30",
+    "datumLetzteMeldung": "2023-10-26",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Penicillin V STADA 1,2 Mega Filmtabletten",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "telefon": "0733396511167",
+    "mail": "a.kredba@aliud.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-09-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "04351736"
+    ],
+    "enr": [
+      "2163308"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-14",
+    "datumEnde": "2023-12-15",
+    "datumLetzteMeldung": "2023-10-26",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Benazepril AL 20 mg Filmtabletten",
+    "atcCode": "C09AA07",
+    "wirkstoffe": "Benazeprilhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-09-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "04351707"
+    ],
+    "enr": [
+      "2163307"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-14",
+    "datumEnde": "2023-12-15",
+    "datumLetzteMeldung": "2023-10-26",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Benazepril AL 10 mg Filmtabletten",
+    "atcCode": "C09AA07",
+    "wirkstoffe": "Benazeprilhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-09-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01902124",
+      "04962233",
+      "04973076",
+      "04994931",
+      "04994948",
+      "04994954"
+    ],
+    "enr": [
+      "0078947",
+      "0078976",
+      "0078999"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-03",
+    "datumEnde": "2024-01-30",
+    "datumLetzteMeldung": "2023-10-26",
+    "grundArt": "Sonstige",
+    "bezeichnung": "LOCACORTEN-Vioform",
+    "atcCode": "D07BB01",
+    "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "telefon": "+49 38351 76-0",
+    "mail": "info.germany@esteve.com",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "grundAnmerkung": "geplanter Wechsel Wirkstoffhersteller aufgrund von Insolvenz",
+    "datumErstmeldung": "2023-08-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "04686276"
     ],
     "enr": [
@@ -70,54 +246,6 @@
     "grundAnmerkung": "Lieferverzögerung durch eine niedrigere Produktionskapazität als erwartet",
     "datumErstmeldung": "2023-03-28",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "13577882"
-    ],
-    "enr": [
-      "2715697"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-23",
-    "datumEnde": "2023-11-15",
-    "datumLetzteMeldung": "2023-10-25",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "XELJANZ 5 mg Filmtabletten",
-    "atcCode": "L04AA29",
-    "wirkstoffe": "Tofacitinibcitrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "Olumiant 2 mg Filmtabletten - OP98 - Einreichungsnummer: 2713448",
-    "datumErstmeldung": "2023-10-25",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13577882"
-    ],
-    "enr": [
-      "2715697"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-23",
-    "datumEnde": "2023-11-15",
-    "datumLetzteMeldung": "2023-10-25",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "XELJANZ 5 mg Filmtabletten",
-    "atcCode": "L04AA29",
-    "wirkstoffe": "Tofacitinibcitrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "Olumiant 2 mg Filmtabletten - OP98 - Einreichungsnummer: 2713448",
-    "datumErstmeldung": "2023-10-25",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -453,30 +581,6 @@
     "mail": "markus.hinterberger@everpharma.com",
     "grund": "Probleme beim Sonstigen Hersteller",
     "datumErstmeldung": "2022-05-06",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01289037",
-      "01289043"
-    ],
-    "enr": [
-      "2142784"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-04",
-    "datumEnde": "2023-10-26",
-    "datumLetzteMeldung": "2023-10-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Vasomotal 24 mg",
-    "atcCode": "N07CA01",
-    "wirkstoffe": "Betahistindihydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-18",
     "infoFachkreise": "Nein"
   },
   {
@@ -3213,31 +3317,6 @@
   },
   {
     "pzn": [
-      "04366689",
-      "17601643"
-    ],
-    "enr": [
-      "2163386"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-19",
-    "datumEnde": "2023-10-25",
-    "datumLetzteMeldung": "2023-10-10",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Cefpodoxim STADA 200mg Filmtabletten",
-    "atcCode": "J01DD13",
-    "wirkstoffe": "Cefpodoximproxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "+4961016032416",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Nachbestellung getätigt",
-    "datumErstmeldung": "2023-08-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01343618"
     ],
     "enr": [
@@ -3750,7 +3829,7 @@
     "atcCode": "B06AA03",
     "wirkstoffe": "Hyaluronidase",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Sonstigen Hersteller",
@@ -4544,30 +4623,6 @@
   },
   {
     "pzn": [
-      "06639677"
-    ],
-    "enr": [
-      "2703298"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-14",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-09-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Nexavar 200 mg Filmtabletten - OP112(4x28)",
-    "atcCode": "L01XE05",
-    "wirkstoffe": "Sorafenibtosilat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bayer Aktiengesellschaft - Geschäftsanschrift -",
-    "telefon": "0800 6422937",
-    "mail": "medical-information@bayer.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Erhöhte Marktnachfrage aufgrund von Lieferengpässen anderer PUs",
-    "datumErstmeldung": "2023-09-14",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "06983073"
     ],
     "enr": [
@@ -4829,31 +4884,6 @@
     "grund": "Probleme in der Herstellung",
     "grundAnmerkung": "Versorgung ist mit 70 % des Kundenbedarfs gewährleistet.",
     "datumErstmeldung": "2023-07-11",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "10920776",
-      "10920782",
-      "10920799"
-    ],
-    "enr": [
-      "2109212"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-27",
-    "datumEnde": "2023-10-30",
-    "datumLetzteMeldung": "2023-09-27",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Penicillin V STADA 1,2 Mega Filmtabletten",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "0733396511167",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-09-27",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5321,7 +5351,7 @@
     "atcCode": "B06AA03",
     "wirkstoffe": "Hyaluronidase",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Sonstige",
@@ -5919,54 +5949,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "grundAnmerkung": "Lieferverzögerung durch eine niedrigere Produktionskapazität als erwartet",
     "datumErstmeldung": "2023-08-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "04351736"
-    ],
-    "enr": [
-      "2163308"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-14",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-09-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Benazepril AL 20 mg Filmtabletten",
-    "atcCode": "C09AA07",
-    "wirkstoffe": "Benazeprilhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-09-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "04351707"
-    ],
-    "enr": [
-      "2163307"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-14",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-09-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Benazepril AL 10 mg Filmtabletten",
-    "atcCode": "C09AA07",
-    "wirkstoffe": "Benazeprilhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-09-13",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -8083,37 +8065,6 @@
   },
   {
     "pzn": [
-      "01902124",
-      "04962233",
-      "04973076",
-      "04994931",
-      "04994948",
-      "04994954"
-    ],
-    "enr": [
-      "0078947",
-      "0078976",
-      "0078999"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-06-03",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-08-07",
-    "grundArt": "Sonstige",
-    "bezeichnung": "LOCACORTEN-Vioform",
-    "atcCode": "D07BB01",
-    "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
-    "telefon": "+49 38351 76-0",
-    "mail": "info.germany@esteve.com",
-    "grund": "Probleme beim Wirkstoffhersteller",
-    "grundAnmerkung": "geplanter Wechsel Wirkstoffhersteller aufgrund von Insolvenz",
-    "datumErstmeldung": "2023-08-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08705349",
       "08705355",
       "08705361"
@@ -8519,7 +8470,7 @@
     "atcCode": "H02AB08",
     "wirkstoffe": "Triamcinolonhexacetonid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -8817,30 +8768,6 @@
   },
   {
     "pzn": [
-      "08827667",
-      "14307742"
-    ],
-    "enr": [
-      "2138389"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-29",
-    "datumEnde": "2023-11-01",
-    "datumLetzteMeldung": "2023-07-21",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Molsidomin STADA 8 mg Retardtabletten",
-    "atcCode": "C01DX12",
-    "wirkstoffe": "Molsidomin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "a.kredba@aliud.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Betrifft auch (ENR: 2138389)Molsidomin STADA 8 mg Aliud 60 St - PZN: 15316795Molsidomin STADA 8 mg Aliud 100 St - PZN: 11011751",
-    "datumErstmeldung": "2023-02-01",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "17550621",
       "17550638"
     ],
@@ -9003,7 +8930,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
