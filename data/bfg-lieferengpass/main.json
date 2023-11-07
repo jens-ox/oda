@@ -1,6 +1,340 @@
 [
   {
     "pzn": [
+      "01434120"
+    ],
+    "enr": [
+      "2145643"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-28",
+    "datumEnde": "2024-05-31",
+    "datumLetzteMeldung": "2023-11-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Felodipin STADA 10mg Retardtabletten",
+    "atcCode": "C08CA02",
+    "wirkstoffe": "Felodipin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "telefon": "+4961016033466",
+    "mail": "minyoung.seo@stadapharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04837717"
+    ],
+    "enr": [
+      "0067702"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-06",
+    "datumEnde": "2023-12-15",
+    "datumLetzteMeldung": "2023-11-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fluclox Stragen 2g",
+    "atcCode": "J01CF05",
+    "wirkstoffe": "Flucloxacillin-Natrium-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Stragen Pharma GmbH - Zweigniederlassung Hilden -",
+    "telefon": "+4921038809708",
+    "mail": "a.gerold@stragen-pharma.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Stark erhöhte Nachfrage wegen Lieferengpass des Marktführers",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04837700"
+    ],
+    "enr": [
+      "0067085"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-06",
+    "datumEnde": "2023-12-04",
+    "datumLetzteMeldung": "2023-11-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fluclox Stragen 1g",
+    "atcCode": "J01CF05",
+    "wirkstoffe": "Flucloxacillin-Natrium-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Stragen Pharma GmbH - Zweigniederlassung Hilden -",
+    "telefon": "+4921038809708",
+    "mail": "a.gerold@stragen-pharma.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Stark erhöhte Nachfrage",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15415818",
+      "15415824",
+      "15415830"
+    ],
+    "enr": [
+      "2195985"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-08-24",
+    "datumEnde": "2023-12-12",
+    "datumLetzteMeldung": "2023-11-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Betahistindihydrochlorid Hennig 24 mg Tabletten",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
+    "mail": "nicola.bruns@hennig-am.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06064739",
+      "06064745",
+      "06064751"
+    ],
+    "enr": [
+      "2163925"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-08-23",
+    "datumEnde": "2023-12-12",
+    "datumLetzteMeldung": "2023-11-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Betavert N 8 mg Tabletten",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
+    "mail": "nicola.bruns@hennig-am.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06809530",
+      "06809547",
+      "06809553"
+    ],
+    "enr": [
+      "2180321"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-08-09",
+    "datumEnde": "2023-12-12",
+    "datumLetzteMeldung": "2023-11-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Betavert N 24 mg Tabletten",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
+    "mail": "nicola.bruns@hennig-am.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06064768",
+      "06064774",
+      "06064780"
+    ],
+    "enr": [
+      "2163926"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-08-04",
+    "datumEnde": "2023-12-12",
+    "datumLetzteMeldung": "2023-11-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Betavert N 16 mg Tabletten",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
+    "mail": "nicola.bruns@hennig-am.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08538058",
+      "08538064",
+      "08538070"
+    ],
+    "enr": [
+      "2125956"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-08-16",
+    "datumEnde": "2023-12-12",
+    "datumLetzteMeldung": "2023-11-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Betavert 6mg",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindimesilat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
+    "mail": "nicola.bruns@hennig-am.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08538087",
+      "08538093",
+      "08538101"
+    ],
+    "enr": [
+      "2125957"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-31",
+    "datumEnde": "2023-12-12",
+    "datumLetzteMeldung": "2023-11-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Betavert 12mg",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindimesilat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
+    "mail": "nicola.bruns@hennig-am.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02760548"
+    ],
+    "enr": [
+      "2102857"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-01",
+    "datumEnde": "2024-03-29",
+    "datumLetzteMeldung": "2023-11-06",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Amoxicillin STADA 1000mg Filmtabletten",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "telefon": "+4961016033466",
+    "mail": "minyoung.seo@stadapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02183737"
+    ],
+    "enr": [
+      "2122523"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-03",
+    "datumEnde": "2024-11-01",
+    "datumLetzteMeldung": "2023-11-06",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "PERITRAST RE/36 %",
+    "atcCode": "V08AA",
+    "wirkstoffe": "Amidotrizoesäure-Lysin-Salz",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Franz Köhler Chemie Gesellschaft mit beschränkter Haftung",
+    "telefon": "+49 6251 1083 373",
+    "mail": "info@koehler-chemie.de",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "GASTROLUX RE 180 mg/ml Lösung - Einreichungsnummer: 2165147",
+    "datumErstmeldung": "2023-05-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04858837",
+      "04858903",
+      "04859044",
+      "07521274",
+      "07521280"
+    ],
+    "enr": [
+      "2143328"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-25",
+    "datumEnde": "2024-03-01",
+    "datumLetzteMeldung": "2023-11-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Metronidazol Aristo 400 mg Tabletten",
+    "atcCode": "J01XD01",
+    "wirkstoffe": "Metronidazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-09-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09068927",
+      "09068933",
+      "09068956"
+    ],
+    "enr": [
+      "2178840"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-10",
+    "datumEnde": "2024-03-01",
+    "datumLetzteMeldung": "2023-11-06",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Morphin Aristo 10 mg Retardtabletten",
+    "atcCode": "N02AA01",
+    "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "grund": "Probleme bei der Chargenprüfung",
+    "datumErstmeldung": "2023-02-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09494759"
+    ],
+    "enr": [
+      "2116581"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-24",
+    "datumEnde": "2024-01-15",
+    "datumLetzteMeldung": "2023-11-06",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Carbamazepin Aristo 300 mg Retardtabletten",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-01-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "16228751",
       "16228754"
     ],
@@ -1123,28 +1457,6 @@
   },
   {
     "pzn": [
-      "09494759"
-    ],
-    "enr": [
-      "2116581"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-24",
-    "datumEnde": "2023-11-01",
-    "datumLetzteMeldung": "2023-10-31",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Carbamazepin Aristo 300 mg Retardtabletten",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-01-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "06785624",
       "15577171"
     ],
@@ -1160,7 +1472,7 @@
     "atcCode": "B06AA03",
     "wirkstoffe": "Hyaluronidase",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Sonstige",
@@ -1884,7 +2196,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -4931,7 +5243,7 @@
     "atcCode": "B06AA03",
     "wirkstoffe": "Hyaluronidase",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Sonstigen Hersteller",
@@ -5122,30 +5434,6 @@
     "datumLetzteMeldung": "2023-10-04",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Morphin Aristo 200 mg Retardtabletten",
-    "atcCode": "N02AA01",
-    "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Probleme bei der Chargenprüfung",
-    "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09068927",
-      "09068933",
-      "09068956"
-    ],
-    "enr": [
-      "2178840"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-10",
-    "datumEnde": "2024-02-01",
-    "datumLetzteMeldung": "2023-10-04",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Morphin Aristo 10 mg Retardtabletten",
     "atcCode": "N02AA01",
     "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
     "krankenhausrelevant": false,
@@ -5604,32 +5892,6 @@
     "grundAnmerkung": "Erhöhte Marknachfrage über den üblichen Bedarf hinaus aufgrund von Lieferengpässen anderer Hersteller.",
     "datumErstmeldung": "2023-09-28",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04858837",
-      "04858903",
-      "04859044",
-      "07521274",
-      "07521280"
-    ],
-    "enr": [
-      "2143328"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-25",
-    "datumEnde": "2024-01-16",
-    "datumLetzteMeldung": "2023-09-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Metronidazol Aristo 400 mg Tabletten",
-    "atcCode": "J01XD01",
-    "wirkstoffe": "Metronidazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-09-27",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -6532,31 +6794,6 @@
   },
   {
     "pzn": [
-      "10180724"
-    ],
-    "enr": [
-      "2711804"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-18",
-    "datumEnde": "2023-11-16",
-    "datumLetzteMeldung": "2023-09-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "NovoRapid PumpCart 100 E/ml Injektionslösung in Patrone - OP(5x1,6ml)",
-    "atcCode": "A10AB05",
-    "wirkstoffe": "Insulin aspart",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Lieferverzögerung durch eine niedrigere Produktionskapazität als erwartet",
-    "alternativPraeparat": "NovoRapid FlexPen 100 E/ml Injektionslösung in einem vorgefülltem Injektor - OP(5x3ml) - Einreichungsnummer: 2702318",
-    "datumErstmeldung": "2023-09-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02804808"
     ],
     "enr": [
@@ -7310,52 +7547,6 @@
   },
   {
     "pzn": [
-      "03070283"
-    ],
-    "enr": [
-      "0084646"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-01",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2023-08-30",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Xylonest 2% mit Adrenalin 1:200 000",
-    "atcCode": "N01BB54",
-    "wirkstoffe": "Epinephrinhydrogentartrat / Adrenalinhydrogentartrat (Ph.Eur.); Prilocainhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aspen Pharma Trading Limited",
-    "telefon": "+49 89 93 08 38 0",
-    "mail": "de-info@aspenpharma.eu",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-11-28",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03079396"
-    ],
-    "enr": [
-      "0084586"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-15",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2023-08-30",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Xylonest 1% mit Adrenalin 1:200 000",
-    "atcCode": "N01BB54",
-    "wirkstoffe": "Epinephrinhydrogentartrat / Adrenalinhydrogentartrat (Ph.Eur.); Prilocainhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aspen Pharma Trading Limited",
-    "telefon": "+49 89 93 08 38 0",
-    "mail": "de-info@aspenpharma.eu",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-11-28",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03079350"
     ],
     "enr": [
@@ -7892,28 +8083,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "ratiopharm GmbH",
     "telefon": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-08-16",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12392726"
-    ],
-    "enr": [
-      "2672745"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-24",
-    "datumEnde": "2023-09-30",
-    "datumLetzteMeldung": "2023-08-16",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Coagadex",
-    "atcCode": "TERM_ID_NA_2090001243",
-    "wirkstoffe": "Blutgerinnungsfaktor X vom Menschen",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "BPL Bioproducts Laboratory GmbH",
-    "mail": "s.proske@kedrion.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-08-16",
     "infoFachkreise": "Vorgesehen"
@@ -8613,7 +8782,7 @@
     "atcCode": "H02AB08",
     "wirkstoffe": "Triamcinolonhexacetonid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -9026,7 +9195,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -10067,30 +10236,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2022-11-18",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02183737"
-    ],
-    "enr": [
-      "2122523"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-03",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-05-15",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "PERITRAST RE/36 %",
-    "atcCode": "V08AA",
-    "wirkstoffe": "Amidotrizoesäure-Lysin-Salz",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Franz Köhler Chemie Gesellschaft mit beschränkter Haftung",
-    "telefon": "+49 6251 1083 373",
-    "mail": "info@koehler-chemie.de",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "GASTROLUX RE 180 mg/ml Lösung - Einreichungsnummer: 2165147",
-    "datumErstmeldung": "2023-05-15",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
