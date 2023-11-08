@@ -1,6 +1,144 @@
 [
   {
     "pzn": [
+      "08872024"
+    ],
+    "enr": [
+      "2134011"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-12",
+    "datumEnde": "2023-10-23",
+    "datumLetzteMeldung": "2023-11-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Bronchospray novo",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
+    "telefon": "06252-95 7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "medicine available",
+    "datumErstmeldung": "2023-07-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01289043"
+    ],
+    "enr": [
+      "2142784"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-04",
+    "datumEnde": "2023-11-17",
+    "datumLetzteMeldung": "2023-11-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Vasomotal 24 mg",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-18",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02240783"
+    ],
+    "enr": [
+      "2180783"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-07",
+    "datumEnde": "2023-12-01",
+    "datumLetzteMeldung": "2023-11-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Arilin Vaginalzäpfchen 100 mg Metronidazol pro Vaginalzäpfchen",
+    "atcCode": "G01AF01",
+    "wirkstoffe": "Metronidazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dr. August Wolff GmbH & Co. KG Arzneimittel",
+    "telefon": "+49521880805",
+    "mail": "aw-info@drwolffgroup.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-11-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14289895"
+    ],
+    "enr": [
+      "2199941"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-02",
+    "datumEnde": "2023-11-30",
+    "datumLetzteMeldung": "2023-11-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Melphalan SUN 50 mg Pulver und Lösungsmittel zur Herstellung einer Injektions-/Infusionslösung",
+    "atcCode": "L01AA03",
+    "wirkstoffe": "Melphalanhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sun Pharmaceuticals Germany GmbH",
+    "mail": "rabattvertraege@sunpharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-16",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10762811"
+    ],
+    "enr": [
+      "2190683"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-01",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-11-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Paricalcitol SUN 5 Mikrogramm/ml Injektionslösung",
+    "atcCode": "H05BX02",
+    "wirkstoffe": "Paricalcitol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Sun Pharmaceuticals Germany GmbH",
+    "mail": "rabattvertraege@sunpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-02-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11180962"
+    ],
+    "enr": [
+      "2180379"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-03",
+    "datumEnde": "2023-12-08",
+    "datumLetzteMeldung": "2023-11-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Methotrexat medac 25 mg/ml Injektionslösung",
+    "atcCode": "L01BA01",
+    "wirkstoffe": "Methotrexat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Medac Gesellschaft für klinische Spezialpräparate m.b.H.",
+    "telefon": "+49 4103 800 6 447",
+    "mail": "medacgermanyportfoliogenerics@medac.de",
+    "grund": "Probleme bei der Endfreigabe",
+    "alternativPraeparat": "Methotrexat medac 25 mg/ml Injektionslösung - Einreichungsnummer: 2180379",
+    "datumErstmeldung": "2023-11-03",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "01434120"
     ],
     "enr": [
@@ -1180,29 +1318,6 @@
   },
   {
     "pzn": [
-      "11180962"
-    ],
-    "enr": [
-      "2180379"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-03",
-    "datumEnde": "2023-12-08",
-    "datumLetzteMeldung": "2023-11-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Methotrexat medac 25 mg/ml Injektionslösung",
-    "atcCode": "L01BA01",
-    "wirkstoffe": "Methotrexat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medac Gesellschaft für klinische Spezialpräparate m.b.H.",
-    "telefon": "+49 4103 800 6 447",
-    "mail": "medacgermanyportfoliogenerics@medac.de",
-    "grund": "Probleme bei der Endfreigabe",
-    "datumErstmeldung": "2023-11-03",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "15869850",
       "15869867"
     ],
@@ -1472,7 +1587,7 @@
     "atcCode": "B06AA03",
     "wirkstoffe": "Hyaluronidase",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Sonstige",
@@ -2054,30 +2169,6 @@
   },
   {
     "pzn": [
-      "01289037",
-      "01289043"
-    ],
-    "enr": [
-      "2142784"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-04",
-    "datumEnde": "2023-11-17",
-    "datumLetzteMeldung": "2023-10-26",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Vasomotal 24 mg",
-    "atcCode": "N07CA01",
-    "wirkstoffe": "Betahistindihydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-18",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "17601643"
     ],
     "enr": [
@@ -2196,7 +2287,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -2542,30 +2633,6 @@
     "grund": "Probleme in der Herstellung",
     "alternativPraeparat": "Disoprivan 1% - Einreichungsnummer: 2131362",
     "datumErstmeldung": "2023-08-14",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02231502",
-      "05486467"
-    ],
-    "enr": [
-      "2124626"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-16",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-10-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "CEFACLOR BASICS 250 mg TS",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Basics GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Stark erhöhte Nachfrage",
-    "datumErstmeldung": "2023-09-14",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -3202,31 +3269,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-10-18",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15619047"
-    ],
-    "enr": [
-      "2202543"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-30",
-    "datumEnde": "2023-11-12",
-    "datumLetzteMeldung": "2023-10-18",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Asacol 1600 mg Tablette mit veränderter Wirkstofffreisetzung",
-    "atcCode": "A07EC02",
-    "wirkstoffe": "Mesalazin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Tillotts Pharma GmbH",
-    "telefon": "015172403358",
-    "mail": "florian.poell@tillotts.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Asacol 1600 mg 60 Tabletten Packung (PZN: 15619030) ist weiterhin verfügbar.",
-    "alternativPraeparat": "Asacol 1600 mg Tablette mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2202543",
-    "datumErstmeldung": "2023-10-18",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -5243,7 +5285,7 @@
     "atcCode": "B06AA03",
     "wirkstoffe": "Hyaluronidase",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Sonstigen Hersteller",
@@ -5535,31 +5577,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Aufgrund von Kapazitätsengpässen bei der Produktion bei gleichzeitig erhöhter Nachfrage und Absatzmenge des Fertigproduktes Eligard 22,5 mg in den letzten Wochen, erwarten wir ab Mitte/Ende Oktober 2023 einen kurzfristigen Lieferengpass von ca. 2-3 Wochen. Dieser Lieferengpass kann mit Eligard 22,5 mg Ware aus Österreich voraussichtlich kompensiert werden.",
     "datumErstmeldung": "2023-10-02",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "07722179",
-      "08872024"
-    ],
-    "enr": [
-      "2134011"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-12",
-    "datumEnde": "2023-12-27",
-    "datumLetzteMeldung": "2023-10-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Bronchospray novo",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
-    "telefon": "06252-95 7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-20",
     "infoFachkreise": "Nein"
   },
   {
@@ -7478,28 +7495,6 @@
   },
   {
     "pzn": [
-      "14289895"
-    ],
-    "enr": [
-      "2199941"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-02",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-08-31",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Melphalan SUN 50 mg Pulver und Lösungsmittel zur Herstellung einer Injektions-/Infusionslösung",
-    "atcCode": "L01AA03",
-    "wirkstoffe": "Melphalanhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sun Pharmaceuticals Germany GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-16",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "07691349"
     ],
     "enr": [
@@ -8782,7 +8777,7 @@
     "atcCode": "H02AB08",
     "wirkstoffe": "Triamcinolonhexacetonid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -9195,7 +9190,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -10259,51 +10254,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-02-01",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "10762805",
-      "10762811"
-    ],
-    "enr": [
-      "2190683"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-01",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-05-10",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Paricalcitol SUN 5 Mikrogramm/ml Injektionslösung",
-    "atcCode": "H05BX02",
-    "wirkstoffe": "Paricalcitol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Sun Pharmaceuticals Germany GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-02-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "10762797"
-    ],
-    "enr": [
-      "2190682"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-01",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-05-10",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Paricalcitol SUN 2 Mikrogramm/ml Injektionslösung",
-    "atcCode": "H05BX02",
-    "wirkstoffe": "Paricalcitol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Sun Pharmaceuticals Germany GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-02-03",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
