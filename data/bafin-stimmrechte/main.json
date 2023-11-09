@@ -854,24 +854,6 @@
     }
   },
   {
-    "veroeffentlichung": "2022-04-04",
-    "emittent": {
-      "name": "Zalando SE",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Allianz Global Investors GmbH",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.86,
-      "instrumente": 0.12,
-      "summe": 4.98
-    }
-  },
-  {
     "veroeffentlichung": "2022-01-27",
     "emittent": {
       "name": "Westwing Group SE",
@@ -3036,6 +3018,24 @@
     }
   },
   {
+    "veroeffentlichung": "2023-11-07",
+    "emittent": {
+      "name": "LANXESS Aktiengesellschaft",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Bank of America Corporation",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 1.45,
+      "instrumente": 6.38,
+      "summe": 7.83
+    }
+  },
+  {
     "veroeffentlichung": "2023-09-29",
     "emittent": {
       "name": "Covestro AG",
@@ -4062,7 +4062,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-11-01",
+    "veroeffentlichung": "2023-11-07",
     "emittent": {
       "name": "TUI AG",
       "sitz": "Hannover",
@@ -4074,9 +4074,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.6,
-      "instrumente": 0.49,
-      "summe": 5.09
+      "gesamt": 4.5,
+      "instrumente": 0.52,
+      "summe": 5.02
     }
   },
   {
@@ -4314,7 +4314,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-10-30",
+    "veroeffentlichung": "2023-11-08",
     "emittent": {
       "name": "Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München",
       "sitz": "München",
@@ -4326,9 +4326,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.83,
-      "instrumente": 0.08,
-      "summe": 6.91
+      "gesamt": 6.8,
+      "instrumente": 0.1,
+      "summe": 6.9
     }
   },
   {
@@ -5052,7 +5052,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-11-06",
+    "veroeffentlichung": "2023-11-08",
     "emittent": {
       "name": "AIXTRON SE",
       "sitz": "Herzogenrath",
@@ -5064,8 +5064,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.27,
-      "instrumente": 0.35,
+      "gesamt": 5.26,
+      "instrumente": 0.36,
       "summe": 5.62
     }
   },
@@ -6744,7 +6744,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-10-05",
+    "veroeffentlichung": "2023-11-07",
     "emittent": {
       "name": "SYNLAB AG",
       "sitz": "München",
@@ -6757,8 +6757,8 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 42.79,
-      "instrumente": 35.96,
-      "summe": 78.75
+      "instrumente": 7.18,
+      "summe": 49.98
     }
   },
   {
@@ -13150,6 +13150,24 @@
     }
   },
   {
+    "veroeffentlichung": "2023-11-08",
+    "emittent": {
+      "name": "Dürr Aktiengesellschaft",
+      "sitz": "Stuttgart",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Harris Associates L.P.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.02,
+      "instrumente": 0,
+      "summe": 3.02
+    }
+  },
+  {
     "veroeffentlichung": "2023-03-10",
     "emittent": {
       "name": "Continental Aktiengesellschaft",
@@ -16312,7 +16330,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-11-06",
+    "veroeffentlichung": "2023-11-07",
     "emittent": {
       "name": "Siemens Energy AG",
       "sitz": "München",
@@ -16325,8 +16343,8 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 2.22,
-      "instrumente": 5.14,
-      "summe": 7.36
+      "instrumente": 4.88,
+      "summe": 7.1
     }
   },
   {
@@ -22026,6 +22044,24 @@
     }
   },
   {
+    "veroeffentlichung": "2023-11-07",
+    "emittent": {
+      "name": "LEG Immobilien SE",
+      "sitz": "Düsseldorf",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "MFS SERIES TRUST I",
+      "sitz": "Boston",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.14,
+      "instrumente": 0,
+      "summe": 3.14
+    }
+  },
+  {
     "veroeffentlichung": "2015-09-22",
     "emittent": {
       "name": "Müller - Die lila Logistik SE",
@@ -22362,7 +22398,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-11-02",
+    "veroeffentlichung": "2023-11-08",
     "emittent": {
       "name": "Zalando SE",
       "sitz": "Berlin",
@@ -22374,9 +22410,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.19,
-      "instrumente": 3.01,
-      "summe": 6.19
+      "gesamt": 2.87,
+      "instrumente": 3.22,
+      "summe": 6.09
     }
   },
   {
@@ -22488,7 +22524,7 @@
     }
   },
   {
-    "veroeffentlichung": "2022-12-24",
+    "veroeffentlichung": "2023-11-08",
     "emittent": {
       "name": "Mercedes-Benz Group AG",
       "sitz": "Stuttgart",
@@ -22500,9 +22536,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.08,
-      "instrumente": 7.26,
-      "summe": 7.33
+      "gesamt": 0.28,
+      "instrumente": 7.4,
+      "summe": 7.69
     }
   },
   {
@@ -27637,24 +27673,6 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 10.1
-    }
-  },
-  {
-    "veroeffentlichung": "2023-09-28",
-    "emittent": {
-      "name": "K+S Aktiengesellschaft",
-      "sitz": "Kassel",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Rossmann Beteiligungs GmbH",
-      "sitz": "Burgwedel",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 2.98,
-      "instrumente": 3.13,
-      "summe": 6.11
     }
   },
   {
@@ -34033,7 +34051,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-11-06",
+    "veroeffentlichung": "2023-11-07",
     "emittent": {
       "name": "Siemens Energy AG",
       "sitz": "München",
@@ -34045,9 +34063,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.98,
-      "instrumente": 6.13,
-      "summe": 7.11
+      "gesamt": 0.42,
+      "instrumente": 5.1,
+      "summe": 5.52
     }
   },
   {
@@ -34693,9 +34711,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.98,
-      "instrumente": 2.16,
-      "summe": 7.14
+      "gesamt": 5.02,
+      "instrumente": 2.14,
+      "summe": 7.15
     }
   },
   {
@@ -34910,6 +34928,24 @@
       "gesamt": 4.99,
       "instrumente": 0,
       "summe": 4.99
+    }
+  },
+  {
+    "veroeffentlichung": "2023-11-07",
+    "emittent": {
+      "name": "MorphoSys AG",
+      "sitz": "Planegg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Union Investment Privatfonds GmbH",
+      "sitz": "Frankfurt",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.13,
+      "instrumente": 0,
+      "summe": 3.13
     }
   },
   {
