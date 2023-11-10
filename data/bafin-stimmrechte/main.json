@@ -682,6 +682,24 @@
     }
   },
   {
+    "veroeffentlichung": "2023-11-09",
+    "emittent": {
+      "name": "AIXTRON SE",
+      "sitz": "Herzogenrath",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "AIM INTERNATIONAL MUTUAL FUNDS (INVESCO INTERNATIONAL MUTUAL FUNDS)",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.15,
+      "instrumente": 0,
+      "summe": 3.15
+    }
+  },
+  {
     "veroeffentlichung": "2021-05-21",
     "emittent": {
       "name": "Zalando SE",
@@ -1428,9 +1446,9 @@
     }
   },
   {
-    "veroeffentlichung": "2023-10-27",
+    "veroeffentlichung": "2023-11-09",
     "emittent": {
-      "name": "thyssenkrupp AG",
+      "name": "RWE Aktiengesellschaft",
       "sitz": "Essen",
       "land": "Deutschland"
     },
@@ -1440,9 +1458,9 @@
       "land": "Frankreich"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.27,
+      "gesamt": 3.07,
       "instrumente": 0,
-      "summe": 3.27
+      "summe": 3.07
     }
   },
   {
@@ -1533,24 +1551,6 @@
       "gesamt": 3.05,
       "instrumente": 0,
       "summe": 3.05
-    }
-  },
-  {
-    "veroeffentlichung": "2023-10-26",
-    "emittent": {
-      "name": "Deutsche Börse Aktiengesellschaft",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Amundi S.A.",
-      "sitz": "Paris",
-      "land": "Frankreich"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3,
-      "instrumente": 0,
-      "summe": 3
     }
   },
   {
@@ -1927,7 +1927,7 @@
       "land": "Deutschland"
     },
     "meldepflichtiger": {
-      "name": "Artémis S.A.",
+      "name": "Artémis S.A.S.",
       "sitz": "Paris",
       "land": "Frankreich"
     },
@@ -3108,7 +3108,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-11-02",
+    "veroeffentlichung": "2023-11-09",
     "emittent": {
       "name": "Covestro AG",
       "sitz": "Leverkusen",
@@ -3120,9 +3120,9 @@
       "land": "Großbritannien"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.89,
-      "instrumente": 2.86,
-      "summe": 7.74
+      "gesamt": 5.02,
+      "instrumente": 2.78,
+      "summe": 7.79
     }
   },
   {
@@ -4278,7 +4278,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-11-07",
+    "veroeffentlichung": "2023-11-09",
     "emittent": {
       "name": "PUMA SE",
       "sitz": "Herzogenaurach",
@@ -4290,9 +4290,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.53,
-      "instrumente": 0.34,
-      "summe": 5.88
+      "gesamt": 5.73,
+      "instrumente": 0.21,
+      "summe": 5.94
     }
   },
   {
@@ -4437,24 +4437,6 @@
       "gesamt": 3.0002,
       "instrumente": 0.59,
       "summe": 3.59
-    }
-  },
-  {
-    "veroeffentlichung": "2023-10-31",
-    "emittent": {
-      "name": "K+S Aktiengesellschaft",
-      "sitz": "Kassel",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.07,
-      "instrumente": 0.63,
-      "summe": 3.7
     }
   },
   {
@@ -4674,7 +4656,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-10-30",
+    "veroeffentlichung": "2023-11-09",
     "emittent": {
       "name": "Evonik Industries AG",
       "sitz": "Essen",
@@ -4686,9 +4668,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0.23,
-      "summe": 3.25
+      "gesamt": 3.1,
+      "instrumente": 0.19,
+      "summe": 3.29
     }
   },
   {
@@ -4800,7 +4782,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-11-02",
+    "veroeffentlichung": "2023-11-08",
     "emittent": {
       "name": "Daimler Truck Holding AG",
       "sitz": "Stuttgart",
@@ -4812,9 +4794,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.07,
-      "instrumente": 0.18,
-      "summe": 3.25
+      "gesamt": 3.14,
+      "instrumente": 0.1,
+      "summe": 3.24
     }
   },
   {
@@ -5793,24 +5775,6 @@
       "gesamt": 58.99,
       "instrumente": 0,
       "summe": 58.99
-    }
-  },
-  {
-    "veroeffentlichung": "2023-10-12",
-    "emittent": {
-      "name": "LANXESS Aktiengesellschaft",
-      "sitz": "Köln",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Buffett, Warren E.",
-      "sitz": "",
-      "land": ""
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.98,
-      "instrumente": 0,
-      "summe": 4.98
     }
   },
   {
@@ -22398,7 +22362,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-11-08",
+    "veroeffentlichung": "2023-11-09",
     "emittent": {
       "name": "Zalando SE",
       "sitz": "Berlin",
@@ -22410,9 +22374,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.87,
-      "instrumente": 3.22,
-      "summe": 6.09
+      "gesamt": 3.25,
+      "instrumente": 3.79,
+      "summe": 7.03
     }
   },
   {
@@ -34699,7 +34663,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-11-07",
+    "veroeffentlichung": "2023-11-08",
     "emittent": {
       "name": "Nordex SE",
       "sitz": "Rostock",
@@ -34711,9 +34675,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.02,
-      "instrumente": 2.14,
-      "summe": 7.15
+      "gesamt": 4.97,
+      "instrumente": 2.17,
+      "summe": 7.14
     }
   },
   {

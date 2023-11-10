@@ -1,6 +1,222 @@
 [
   {
     "pzn": [
+      "16831140"
+    ],
+    "enr": [
+      "2200960"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-09",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2023-11-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sorafenib-ratiopharm 200 mg Filmtabletten",
+    "atcCode": "L01EX02",
+    "wirkstoffe": "Sorafenibtosilat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-11-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16240893"
+    ],
+    "enr": [
+      "2205330"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-06-15",
+    "datumEnde": "2023-11-30",
+    "datumLetzteMeldung": "2023-11-09",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Sorafenib beta 200 mg Filmtabletten",
+    "atcCode": "L01EX02",
+    "wirkstoffe": "Sorafenibtosilat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "telefon": "0821 74881-417",
+    "mail": "klaus.loechner@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Wirkstoff- und Packmittelverzögerung seitens des Herstellers.",
+    "datumErstmeldung": "2023-11-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06062947"
+    ],
+    "enr": [
+      "2671945"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-03",
+    "datumEnde": "2023-11-10",
+    "datumLetzteMeldung": "2023-11-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "NovoSeven",
+    "atcCode": "B02BD08",
+    "wirkstoffe": "Eptacog alfa (aktiviert)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
+    "datumErstmeldung": "2023-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01097941"
+    ],
+    "enr": [
+      "2150293"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-20",
+    "datumEnde": "2023-11-30",
+    "datumLetzteMeldung": "2023-11-09",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Delix 2,5 mg Tabletten",
+    "atcCode": "C09AA05",
+    "wirkstoffe": "Ramipril",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "08005252010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Probleme bei der Endfreigabe",
+    "datumErstmeldung": "2023-09-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01097987"
+    ],
+    "enr": [
+      "2150294"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-20",
+    "datumEnde": "2023-11-30",
+    "datumLetzteMeldung": "2023-11-09",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Delix 5 mg Tabletten",
+    "atcCode": "C09AA05",
+    "wirkstoffe": "Ramipril",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "08005252010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Probleme bei der Endfreigabe",
+    "datumErstmeldung": "2023-09-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04679342"
+    ],
+    "enr": [
+      "2126621"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-20",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-11-09",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Delix 5 plus",
+    "atcCode": "C09BA05",
+    "wirkstoffe": "Hydrochlorothiazid; Ramipril",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "08005252010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundAnmerkung": "Restbestand wird kontingentiert",
+    "datumErstmeldung": "2023-09-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11538116",
+      "11538122",
+      "11538139"
+    ],
+    "enr": [
+      "2176826"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2023-11-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon HCl Hormosan 8 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "erhöhte Nachfrage und Kapazitätsengpässe beim Lieferanten",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11538079",
+      "11538091"
+    ],
+    "enr": [
+      "2176825"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-04",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2023-11-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon HCl Hormosan 4 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "aufgrund erhöhter Nachfrage Produktknappheit bei der Packungsgröße 100 Retardtabletten",
+    "alternativPraeparat": "Hydromorphon HCl Hormosan 4 mg Retardtabletten - Einreichungsnummer: 2176825",
+    "datumErstmeldung": "2023-09-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "13420850",
+      "13420867"
+    ],
+    "enr": [
+      "2196985"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-16",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2023-11-09",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil Hormosan 200 mg/245 mg Filmtabletten",
+    "atcCode": "J05AR03",
+    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilphosphat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-10-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "00315347"
     ],
     "enr": [
@@ -1423,36 +1639,6 @@
   },
   {
     "pzn": [
-      "06062930",
-      "06062947",
-      "06062953",
-      "06946468"
-    ],
-    "enr": [
-      "2671944",
-      "2671945",
-      "2671946",
-      "2671947"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-03",
-    "datumEnde": "2023-11-10",
-    "datumLetzteMeldung": "2023-11-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "NovoSeven",
-    "atcCode": "B02BD08",
-    "wirkstoffe": "Eptacog alfa (aktiviert)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
-    "datumErstmeldung": "2023-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "11285856"
     ],
     "enr": [
@@ -1844,7 +2030,7 @@
     "atcCode": "B06AA03",
     "wirkstoffe": "Hyaluronidase",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Sonstige",
@@ -2379,31 +2565,6 @@
   },
   {
     "pzn": [
-      "13420850",
-      "13420867"
-    ],
-    "enr": [
-      "2196985"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-16",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-10-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil Hormosan 200 mg/245 mg Filmtabletten",
-    "atcCode": "J05AR03",
-    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilphosphat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "erhöhte Nachfrage seit August 2023",
-    "datumErstmeldung": "2023-10-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "17601643"
     ],
     "enr": [
@@ -2522,7 +2683,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -4070,31 +4231,6 @@
   },
   {
     "pzn": [
-      "11538079",
-      "11538091"
-    ],
-    "enr": [
-      "2176825"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-04",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2023-10-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon HCl Hormosan 4 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "aufgrund erhöhter Nachfrage im Juli und August 2023 Produktknappheit bei der Packungsgröße 100 Retardtabletten",
-    "datumErstmeldung": "2023-09-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "16682964",
       "16682970",
       "16682987"
@@ -4116,32 +4252,6 @@
     "mail": "service@hormosan.de",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Kapazitätsengpässe in Herstellungsstätte",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11538116",
-      "11538122",
-      "11538139"
-    ],
-    "enr": [
-      "2176826"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2023-10-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon HCl Hormosan 8 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "erhöhte Nachfrage und Kapazitätsengpässe beim Lieferanten",
     "datumErstmeldung": "2023-10-17",
     "infoFachkreise": "Vorgesehen"
   },
@@ -5450,7 +5560,7 @@
     "atcCode": "B06AA03",
     "wirkstoffe": "Hyaluronidase",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Sonstigen Hersteller",
@@ -6648,78 +6758,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
     "datumErstmeldung": "2023-09-08",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04679342"
-    ],
-    "enr": [
-      "2126621"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-20",
-    "datumEnde": "2023-11-20",
-    "datumLetzteMeldung": "2023-09-20",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Delix 5 plus",
-    "atcCode": "C09BA05",
-    "wirkstoffe": "Hydrochlorothiazid; Ramipril",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Probleme bei der Endfreigabe",
-    "grundAnmerkung": "Restbestand wird kontingentiert",
-    "datumErstmeldung": "2023-09-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01097987"
-    ],
-    "enr": [
-      "2150294"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-20",
-    "datumEnde": "2023-11-13",
-    "datumLetzteMeldung": "2023-09-20",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Delix 5 mg Tabletten",
-    "atcCode": "C09AA05",
-    "wirkstoffe": "Ramipril",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Probleme bei der Endfreigabe",
-    "grundAnmerkung": "Restbestand wird kontingentiert",
-    "datumErstmeldung": "2023-09-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01097941"
-    ],
-    "enr": [
-      "2150293"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-20",
-    "datumEnde": "2023-11-20",
-    "datumLetzteMeldung": "2023-09-20",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Delix 2,5 mg Tabletten",
-    "atcCode": "C09AA05",
-    "wirkstoffe": "Ramipril",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Probleme bei der Endfreigabe",
-    "grundAnmerkung": "Restbestand wird kontingentiert",
-    "datumErstmeldung": "2023-09-20",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -8851,7 +8889,7 @@
     "atcCode": "H02AB08",
     "wirkstoffe": "Triamcinolonhexacetonid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -9264,7 +9302,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -9928,30 +9966,6 @@
     "grund": "Probleme beim Wirkstoffhersteller",
     "datumErstmeldung": "2021-03-17",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03247994"
-    ],
-    "enr": [
-      "2115034"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-02-23",
-    "datumEnde": "2023-10-31",
-    "datumLetzteMeldung": "2023-06-21",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Leucovorin 10 mg/ml Lösung zur Injektion/Infusion",
-    "atcCode": "V03AF03",
-    "wirkstoffe": "Calciumfolinat-Pentahydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "Bendafolin 10 mg/ml - Einreichungsnummer: 2144053",
-    "datumErstmeldung": "2022-03-11",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
