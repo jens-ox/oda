@@ -1,6 +1,180 @@
 [
   {
     "pzn": [
+      "00602762"
+    ],
+    "enr": [
+      "2136312"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-22",
+    "datumEnde": "2024-04-17",
+    "datumLetzteMeldung": "2023-11-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Predni-Ophtal Gel",
+    "atcCode": "S01BA04",
+    "wirkstoffe": "Prednisolonacetat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
+    "telefon": "0173-7406122",
+    "mail": "Quality.Berlin@bausch.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07587043",
+      "07587066",
+      "08833107",
+      "09174374"
+    ],
+    "enr": [
+      "2198935",
+      "2198936"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-01",
+    "datumEnde": "2024-05-22",
+    "datumLetzteMeldung": "2023-11-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Duloxetin beta URO 20 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "telefon": "0821 748810",
+    "mail": "info@betapharm.de",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Aktuelle Chargen gesperrt aufgrund zu hoher Nitrosaminmesswerte. Ursachen noch unklar.",
+    "datumErstmeldung": "2023-11-22",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "10174882"
+    ],
+    "enr": [
+      "2711551"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-22",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-11-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "NovoEight",
+    "atcCode": "B02BD02",
+    "wirkstoffe": "Turoctocog alfa",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
+    "alternativPraeparat": "NovoEight - Einreichungsnummer: 2711549",
+    "datumErstmeldung": "2023-11-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05459424",
+      "05459430"
+    ],
+    "enr": [
+      "2178466"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-22",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-11-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Norditropin FlexPro 15 mg/1,5 ml Injektionslösung in einem Fertigpen",
+    "atcCode": "H01AC01",
+    "wirkstoffe": "Somatropin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Lieferverzögerung durch eine niedrigere Produktionskapazität als erwartet",
+    "datumErstmeldung": "2023-11-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05459387",
+      "05459393"
+    ],
+    "enr": [
+      "2178464"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-22",
+    "datumEnde": "2024-01-17",
+    "datumLetzteMeldung": "2023-11-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Norditropin FlexPro 5 mg/1,5 ml Injektionslösung in einem Fertigpen",
+    "atcCode": "H01AC01",
+    "wirkstoffe": "Somatropin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Lieferverzögerung durch eine niedrigere Produktionskapazität als erwartet",
+    "datumErstmeldung": "2023-11-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02747789"
+    ],
+    "enr": [
+      "2104133"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-20",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2023-11-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Dexamytrex Augensalbe",
+    "atcCode": "S01CA01",
+    "wirkstoffe": "Dexamethason; Gentamicinsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
+    "telefon": "01737406122",
+    "mail": "Quality.Berlin@bausch.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01405638",
+      "02192162"
+    ],
+    "enr": [
+      "2103816",
+      "2191157"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-20",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2023-11-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Gent-Ophtal Augensalbe",
+    "atcCode": "S01AA20",
+    "wirkstoffe": "Gentamicinsulfat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
+    "telefon": "01737406122",
+    "mail": "Quality.Berlin@bausch.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "11095587"
     ],
     "enr": [
@@ -4215,30 +4389,6 @@
   },
   {
     "pzn": [
-      "05459424"
-    ],
-    "enr": [
-      "2178466"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-23",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-10-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Norditropin FlexPro 15 mg/1,5 ml Injektionslösung in einem Fertigpen",
-    "atcCode": "H01AC01",
-    "wirkstoffe": "Somatropin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "Lieferverzögerung durch eine niedrigere Produktionskapazität als erwartet",
-    "datumErstmeldung": "2023-08-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "05459401",
       "05459418"
     ],
@@ -4719,30 +4869,6 @@
     "alternativPraeparat": "Protaphane Penfill 100 I.E./ml Injektionssuspension in Zylinderampulle - OP(10x3ml) - Einreichungsnummer: 2701999",
     "datumErstmeldung": "2023-10-25",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05459387"
-    ],
-    "enr": [
-      "2178464"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-28",
-    "datumEnde": "2023-11-29",
-    "datumLetzteMeldung": "2023-10-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Norditropin FlexPro 5 mg/1,5 ml Injektionslösung in einem Fertigpen",
-    "atcCode": "H01AC01",
-    "wirkstoffe": "Somatropin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "Lieferverzögerung durch eine niedrigere Produktionskapazität als erwartet",
-    "datumErstmeldung": "2023-03-28",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
