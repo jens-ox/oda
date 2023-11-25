@@ -1,6 +1,53 @@
 [
   {
     "pzn": [
+      "15619030"
+    ],
+    "enr": [
+      "2202543"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-04",
+    "datumEnde": "2024-02-05",
+    "datumLetzteMeldung": "2023-11-24",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Asacol 1600 mg Tablette mit veränderter Wirkstofffreisetzung",
+    "atcCode": "A07EC02",
+    "wirkstoffe": "Mesalazin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Tillotts Pharma GmbH",
+    "mail": "florian.poell@tillotts.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Alternativ ist Asacol 1600 mg 90 Tabletten (PZN: 15619047) verfügbar.",
+    "datumErstmeldung": "2023-11-24",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06103095"
+    ],
+    "enr": [
+      "2169663"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-04",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2023-11-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Bendarabin 50 mg",
+    "atcCode": "L01BB05",
+    "wirkstoffe": "Fludarabinphosphat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Bendalis GmbH",
+    "telefon": "+4989450808780",
+    "mail": "sales@bendalis.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Aufgrund des Lieferengpasses der Mitbewerber kommt es bei der Bendalis GmbH zu einer erhöhten Nachfrage nach Benadrabin 50 mg, so dass der Warenbestand früher abverkauft wird als geplant.",
+    "datumErstmeldung": "2023-11-24",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "05116463",
       "05116486"
     ],
@@ -4429,31 +4476,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-09-11",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06785624",
-      "15577171"
-    ],
-    "enr": [
-      "3000248"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-31",
-    "datumEnde": "2023-12-04",
-    "datumLetzteMeldung": "2023-10-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hylase \"Dessau\" 150 I.E.",
-    "atcCode": "B06AA03",
-    "wirkstoffe": "Hyaluronidase",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
-    "telefon": "+49 38351 76-0",
-    "mail": "info.germany@esteve.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "n.a.",
-    "datumErstmeldung": "2023-09-08",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
