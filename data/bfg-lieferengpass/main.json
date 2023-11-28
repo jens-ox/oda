@@ -1,6 +1,386 @@
 [
   {
     "pzn": [
+      "17198756"
+    ],
+    "enr": [
+      "2204135"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-11",
+    "datumEnde": "2024-01-15",
+    "datumLetzteMeldung": "2023-11-27",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Flucloxacillin Kabi 2000 mg Pulver zur Herstellung einer Injektions-/Infusionslösung",
+    "atcCode": "J01CF05",
+    "wirkstoffe": "Flucloxacillin-Natrium-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "telefon": "061726867883",
+    "mail": "frank.jethon@fresenius-kabi.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Versorgung ist mit 70 % des Kundenbedarfs bis Mitte Dezember 2023 gewährleistet. Danach besteht ein vollständiger Lieferengpass bis ca. 15.01.2024",
+    "datumErstmeldung": "2023-07-11",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11861975",
+      "11862213",
+      "11862225",
+      "11862236",
+      "11862242",
+      "11862294",
+      "11862302",
+      "11862319"
+    ],
+    "enr": [
+      "2613595"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-01-01",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2023-11-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Panzyga",
+    "atcCode": "J06BA02",
+    "wirkstoffe": "Immunglobulin G vom Menschen",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Octapharma GmbH",
+    "mail": "thomas.franken@octapharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-10-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02482500",
+      "02482517"
+    ],
+    "enr": [
+      "2158763"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-18",
+    "datumEnde": "2024-01-26",
+    "datumLetzteMeldung": "2023-11-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ClindaHEXAL 450 mg Filmtabletten",
+    "atcCode": "J01FF01",
+    "wirkstoffe": "Clindamycinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-18",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00113750"
+    ],
+    "enr": [
+      "2139962"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-18",
+    "datumEnde": "2023-11-30",
+    "datumLetzteMeldung": "2023-11-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefaclor 250 TS - 1 A Pharma",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09384025",
+      "09384166",
+      "09384172"
+    ],
+    "enr": [
+      "2157292"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-06",
+    "datumEnde": "2023-12-07",
+    "datumLetzteMeldung": "2023-11-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Itraconazol - 1 A Pharma 100 mg Hartkapseln",
+    "atcCode": "J02AC02",
+    "wirkstoffe": "Itraconazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-09-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00528600"
+    ],
+    "enr": [
+      "0044463"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-01",
+    "datumEnde": "2025-12-31",
+    "datumLetzteMeldung": "2023-11-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Irenat Tropfen",
+    "atcCode": "H03BC",
+    "wirkstoffe": "Natriumperchlorat 1 H<2>O",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Alliance Pharma (Ireland) Limited",
+    "mail": "arzneimittelsicherheit@alliancepharma.co.uk",
+    "grund": "Sonstige",
+    "grundAnmerkung": "IRENAT® Tropfen (Natriumperchlorat 300 mg/ml) sind ab Dezember 2023 für mindestens 24 Monate nicht lieferbar.",
+    "datumErstmeldung": "2023-09-01",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16015989"
+    ],
+    "enr": [
+      "2106493"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-09-25",
+    "datumEnde": "2024-01-17",
+    "datumLetzteMeldung": "2023-11-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sultanol forte Fertiginhalat",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
+    "telefon": "08001223355",
+    "mail": "service.info@gsk.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-11-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02708631"
+    ],
+    "enr": [
+      "2101957"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-01",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2023-11-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Thiamazol 20 mg Henning",
+    "atcCode": "H03BB02",
+    "wirkstoffe": "Thiamazol",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "0800 52 52 010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "grundAnmerkung": "Weitere Alternative: Carbimazol 10 mg Henning Filmtabletten",
+    "alternativPraeparat": "Thiamazol 5mg Henning - Einreichungsnummer: 2101956",
+    "datumErstmeldung": "2023-11-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01138870"
+    ],
+    "enr": [
+      "0084818"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-28",
+    "datumEnde": "2024-05-31",
+    "datumLetzteMeldung": "2023-11-27",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Xylonest 1 % Fl. 50 ml",
+    "atcCode": "N01BB04",
+    "wirkstoffe": "Prilocainhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aspen Pharma Trading Limited",
+    "telefon": "+49 89  93 08 38 00",
+    "mail": "de-info@aspenpharma.eu",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11184925",
+      "11483177"
+    ],
+    "enr": [
+      "2188376"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-01",
+    "datumEnde": "2024-01-14",
+    "datumLetzteMeldung": "2023-11-27",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "COMBIPRASAL 0,5 mg / 2,5 mg Lösung für einen Vernebler",
+    "atcCode": "R03AL02",
+    "wirkstoffe": "Ipratropiumbromid (Ph.Eur.); Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Penta Arzneimittel GmbH",
+    "mail": "cornelius@penta-arzneimittel.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02749854"
+    ],
+    "enr": [
+      "2137104"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-01",
+    "datumEnde": "2024-05-31",
+    "datumLetzteMeldung": "2023-11-27",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "NAROPIN 7,5mg/ml Amp.10ml Injektionslösung",
+    "atcCode": "N01BB09",
+    "wirkstoffe": "Ropivacainhydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aspen Pharma Trading Limited",
+    "telefon": "+49 89  93 08 38 00",
+    "mail": "de-info@aspenpharma.eu",
+    "grund": "Änderung des Herstellverfahrens",
+    "alternativPraeparat": "NAROPIN 7.5mg/ml Amp.20ml Injektionslösung - Einreichungsnummer: 2137105",
+    "datumErstmeldung": "2023-11-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07428764"
+    ],
+    "enr": [
+      "2136336"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-01",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2023-11-27",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ultiva 2 mg",
+    "atcCode": "N01AH06",
+    "wirkstoffe": "Remifentanilhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aspen Pharma Trading Limited",
+    "telefon": "+49 89  93 08 38 00",
+    "mail": "de-info@aspenpharma.eu",
+    "grund": "Herstellerwechsel",
+    "datumErstmeldung": "2023-11-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07428758"
+    ],
+    "enr": [
+      "2136335"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-01",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2023-11-27",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ultiva 1 mg",
+    "atcCode": "N01AH06",
+    "wirkstoffe": "Remifentanilhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aspen Pharma Trading Limited",
+    "telefon": "+49 89  93 08 38 00",
+    "mail": "de-info@aspenpharma.eu",
+    "grund": "Herstellerwechsel",
+    "datumErstmeldung": "2023-11-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00291084",
+      "02760531",
+      "02760548"
+    ],
+    "enr": [
+      "2102857"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-01",
+    "datumEnde": "2024-01-30",
+    "datumLetzteMeldung": "2023-11-27",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Amoxicillin STADA 1000mg Filmtabletten",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "telefon": "+4961016033466",
+    "mail": "minyoung.seo@stadapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03977445"
+    ],
+    "enr": [
+      "0610075"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-24",
+    "datumEnde": "2023-12-11",
+    "datumLetzteMeldung": "2023-11-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 400 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-11-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03750291"
+    ],
+    "enr": [
+      "0820714"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-24",
+    "datumEnde": "2023-12-04",
+    "datumLetzteMeldung": "2023-11-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 200 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-11-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "15619030"
     ],
     "enr": [
@@ -643,29 +1023,6 @@
   },
   {
     "pzn": [
-      "16228751",
-      "16228754"
-    ],
-    "enr": [
-      "2202612"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-04",
-    "datumEnde": "2023-11-21",
-    "datumLetzteMeldung": "2023-11-20",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Dailiport 3 mg Hartkapseln, retardiert",
-    "atcCode": "L04AD02",
-    "wirkstoffe": "Tacrolimus-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-08-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "17420812"
     ],
     "enr": [
@@ -1049,30 +1406,6 @@
   },
   {
     "pzn": [
-      "09384025",
-      "09384166",
-      "09384172"
-    ],
-    "enr": [
-      "2157292"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-06",
-    "datumEnde": "2023-11-21",
-    "datumLetzteMeldung": "2023-11-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Itraconazol - 1 A Pharma 100 mg Hartkapseln",
-    "atcCode": "J02AC02",
-    "wirkstoffe": "Itraconazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-09-08",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00113744"
     ],
     "enr": [
@@ -1388,28 +1721,6 @@
     "atcCode": "D07AB09",
     "wirkstoffe": "Triamcinolonacetonid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "mail": "service@dermapharm.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-11-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11213101"
-    ],
-    "enr": [
-      "2113068"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-27",
-    "datumEnde": "2023-11-26",
-    "datumLetzteMeldung": "2023-11-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Volon A 40",
-    "atcCode": "H02AB08",
-    "wirkstoffe": "Triamcinolonacetonid",
-    "krankenhausrelevant": false,
     "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
     "mail": "service@dermapharm.de",
     "grund": "Unzureichende Produktionskapazitäten",
@@ -3637,29 +3948,6 @@
   },
   {
     "pzn": [
-      "02760548"
-    ],
-    "enr": [
-      "2102857"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-01",
-    "datumEnde": "2024-03-29",
-    "datumLetzteMeldung": "2023-11-06",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Amoxicillin STADA 1000mg Filmtabletten",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "+4961016033466",
-    "mail": "minyoung.seo@stadapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-11-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02183737"
     ],
     "enr": [
@@ -4412,28 +4700,6 @@
   },
   {
     "pzn": [
-      "10251246"
-    ],
-    "enr": [
-      "2168169"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-26",
-    "datumEnde": "2023-11-30",
-    "datumLetzteMeldung": "2023-11-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Escitalopram STADA 10 mg Filmtabletten",
-    "atcCode": "N06AB10",
-    "wirkstoffe": "Escitalopramoxalat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "Minyoung.seo@stadapharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-08-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00669565"
     ],
     "enr": [
@@ -4808,30 +5074,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-07-11",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "17601643"
-    ],
-    "enr": [
-      "2163386"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-19",
-    "datumEnde": "2023-11-30",
-    "datumLetzteMeldung": "2023-10-26",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Cefpodoxim STADA 200mg Filmtabletten",
-    "atcCode": "J01DD13",
-    "wirkstoffe": "Cefpodoximproxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "+4961016032416",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Nachbestellung getätigt",
-    "datumErstmeldung": "2023-08-07",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -5499,29 +5741,6 @@
     "datumLetzteMeldung": "2023-10-18",
     "grundArt": "Sonstige",
     "bezeichnung": "ClindaHEXAL 600 mg Filmtabletten",
-    "atcCode": "J01FF01",
-    "wirkstoffe": "Clindamycinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-18",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02482500",
-      "02482517"
-    ],
-    "enr": [
-      "2158763"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-18",
-    "datumEnde": "2023-11-24",
-    "datumLetzteMeldung": "2023-10-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ClindaHEXAL 450 mg Filmtabletten",
     "atcCode": "J01FF01",
     "wirkstoffe": "Clindamycinhydrochlorid",
     "krankenhausrelevant": false,
@@ -7466,30 +7685,6 @@
   },
   {
     "pzn": [
-      "17198756"
-    ],
-    "enr": [
-      "2204135"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-11",
-    "datumEnde": "2023-12-18",
-    "datumLetzteMeldung": "2023-09-27",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Flucloxacillin Kabi 2000 mg Pulver zur Herstellung einer Injektions-/Infusionslösung",
-    "atcCode": "J01CF05",
-    "wirkstoffe": "Flucloxacillin-Natrium-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-    "telefon": "061726867883",
-    "mail": "frank.jethon@fresenius-kabi.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Versorgung ist mit 70 % des Kundenbedarfs gewährleistet.",
-    "datumErstmeldung": "2023-07-11",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00000000",
       "01309159",
       "01309165",
@@ -7969,28 +8164,6 @@
   },
   {
     "pzn": [
-      "00113750"
-    ],
-    "enr": [
-      "2139962"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-18",
-    "datumEnde": "2023-11-23",
-    "datumLetzteMeldung": "2023-09-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefaclor 250 TS - 1 A Pharma",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08523832"
     ],
     "enr": [
@@ -8409,29 +8582,6 @@
     "mail": "medical-information@bayer.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00528600"
-    ],
-    "enr": [
-      "0044463"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-01",
-    "datumEnde": "2028-10-01",
-    "datumLetzteMeldung": "2023-09-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Irenat Tropfen",
-    "atcCode": "H03BC",
-    "wirkstoffe": "Natriumperchlorat 1 H<2>O",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Alliance Pharma (Ireland) Limited",
-    "mail": "arzneimittelsicherheit@alliancepharma.co.uk",
-    "grund": "Probleme beim Wirkstoffhersteller",
-    "grundAnmerkung": "Aktuell kann das Produkt zum gesetzlich festgelegten Herstellerabgabepreis von 7,23 /Packung nicht hergestellt werden, da der bisherige Wirkstoffhersteller die Verträge aus wirtschaftlichen Gründen gekündigt hat. Neuer Wirkstoffhersteller wurde gefunden, Produktion ist jedoch für 7,23 /Packung nicht möglich. Alliance ist seit Juni 2023 im Gespräch mit dem Bundesministerium für Gesundheit, um eine wirtschaftliche Lösung zu finden und das Produkt wieder herzustellen.",
-    "datumErstmeldung": "2023-09-01",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -9474,29 +9624,6 @@
   },
   {
     "pzn": [
-      "17848757"
-    ],
-    "enr": [
-      "2149170"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-04",
-    "datumEnde": "2023-11-24",
-    "datumLetzteMeldung": "2023-08-04",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Cefuroxim STADA 500 mg Tabletten",
-    "atcCode": "J01DC02",
-    "wirkstoffe": "Cefuroximaxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "Minyoung.seo@stadapharm.de",
-    "grund": "Probleme bei der Chargenprüfung",
-    "grundAnmerkung": "Nachbestellung getätigt",
-    "datumErstmeldung": "2023-08-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "17507140"
     ],
     "enr": [
@@ -9578,28 +9705,6 @@
     "bezeichnung": "Doxepin STADA 100 mg Filmtabletten",
     "atcCode": "N06AA12",
     "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "Minyoung.seo@stadapharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-08-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09335305"
-    ],
-    "enr": [
-      "2175026"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-28",
-    "datumEnde": "2023-11-24",
-    "datumLetzteMeldung": "2023-08-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Donepezil STADA 10 mg Filmtabletten",
-    "atcCode": "N06DA02",
-    "wirkstoffe": "Donepezilhydrochlorid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
     "mail": "Minyoung.seo@stadapharm.de",
@@ -11670,35 +11775,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-11-10",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11861975",
-      "11862213",
-      "11862225",
-      "11862236",
-      "11862242",
-      "11862294",
-      "11862302",
-      "11862319"
-    ],
-    "enr": [
-      "2613595"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-01-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2022-10-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Panzyga",
-    "atcCode": "J06BA02",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Octapharma GmbH",
-    "mail": "thomas.franken@octapharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-10-05",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
