@@ -1,6 +1,177 @@
 [
   {
     "pzn": [
+      "02192162"
+    ],
+    "enr": [
+      "2191157"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-20",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2023-11-28",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Dexagent-Ophtal 5 mg/g und 0,3 mg/g Augensalbe",
+    "atcCode": "S01CA01",
+    "wirkstoffe": "Dexamethason; Gentamicinsulfat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
+    "mail": "Quality.Berlin@bausch.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-28",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01405638"
+    ],
+    "enr": [
+      "2103816"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-20",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2023-11-28",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Gent-Ophtal Augensalbe",
+    "atcCode": "S01AA20",
+    "wirkstoffe": "Gentamicinsulfat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
+    "mail": "Quality.Berlin@bausch.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-28",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00108855"
+    ],
+    "enr": [
+      "2152306"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-24",
+    "datumEnde": "2024-01-19",
+    "datumLetzteMeldung": "2023-11-28",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydrocortison acis 10 mg",
+    "atcCode": "H02AB09",
+    "wirkstoffe": "Hydrocortison",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "+498944232460",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Hydrocortison acis 10 mg - Einreichungsnummer: 2152306",
+    "datumErstmeldung": "2023-11-28",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00583088",
+      "00583094",
+      "14404959"
+    ],
+    "enr": [
+      "2142771"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-21",
+    "datumEnde": "2024-01-29",
+    "datumLetzteMeldung": "2023-11-28",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "SUBUTEX 8 mg",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-07-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14404913"
+    ],
+    "enr": [
+      "2142770"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-04",
+    "datumEnde": "2024-01-15",
+    "datumLetzteMeldung": "2023-11-28",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "SUBUTEX 2 mg",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-08-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11383257",
+      "11383286",
+      "11383300",
+      "11383323"
+    ],
+    "enr": [
+      "2711789",
+      "2711791",
+      "2711793",
+      "2711795"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-08",
+    "datumEnde": "2024-01-15",
+    "datumLetzteMeldung": "2023-11-28",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Intuniv 1 mg Tablette mit veränderter Wirkstoffreisetzung - OP28",
+    "atcCode": "C02AC02",
+    "wirkstoffe": "Guanfacinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Shire Pharmaceuticals Ireland Limited",
+    "telefon": "0800 825 332 5",
+    "mail": "medinfoEMEA@takeda.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "voraussichtliches Ende des Lieferengpasses: Intuniv 1MG, PZN 11383257: 15.Dezember 2023 Intuniv 2MG, PZN 11383286: 22.Dezember 2023 Intuniv 3MG, PZN 11383300: 15. Januar 2024 Intuniv 4MG, PZN 11383323: 22.Dezember 2023",
+    "datumErstmeldung": "2023-08-30",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "04900309",
+      "04900315"
+    ],
+    "enr": [
+      "2111782"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-01",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2023-11-28",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Bezafibrat AL 200",
+    "atcCode": "C10AB02",
+    "wirkstoffe": "Bezafibrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-11-28",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "17198756"
     ],
     "enr": [
@@ -498,29 +669,6 @@
   },
   {
     "pzn": [
-      "10168841"
-    ],
-    "enr": [
-      "2185210"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-09",
-    "datumEnde": "2023-12-01",
-    "datumLetzteMeldung": "2023-11-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Acnatac 10 mg/g + 0,25 mg/g Gel",
-    "atcCode": "D10AF51",
-    "wirkstoffe": "Clindamycin-2-dihydrogenphosphat; Tretinoin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kunderservice@viatris.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2023-10-09",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "09615766"
     ],
     "enr": [
@@ -930,30 +1078,6 @@
   },
   {
     "pzn": [
-      "00000000",
-      "07758409"
-    ],
-    "enr": [
-      "2176197"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-05",
-    "datumEnde": "2023-11-28",
-    "datumLetzteMeldung": "2023-11-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Valsartan AL 160 mg Filmtabletten",
-    "atcCode": "C09CA03",
-    "wirkstoffe": "Valsartan",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02550242"
     ],
     "enr": [
@@ -1135,55 +1259,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-11-20",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00583088",
-      "00583094",
-      "14404959"
-    ],
-    "enr": [
-      "2142771"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-21",
-    "datumEnde": "2024-01-29",
-    "datumLetzteMeldung": "2023-11-20",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "SUBUTEX 8 mg",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-07-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00582999",
-      "14404913"
-    ],
-    "enr": [
-      "2142770"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-19",
-    "datumEnde": "2024-01-15",
-    "datumLetzteMeldung": "2023-11-20",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "SUBUTEX 2 mg",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-10",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -2918,29 +2993,6 @@
   },
   {
     "pzn": [
-      "05138594"
-    ],
-    "enr": [
-      "2703305"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-14",
-    "datumEnde": "2023-12-04",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Suboxone 8 mg/2 mg Sublingualtabletten - OP7",
-    "atcCode": "N07BC51",
-    "wirkstoffe": "Buprenorphinhydrochlorid; Naloxonhydrochlorid-Dihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-09-14",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00658917",
       "00658946",
       "00658952"
@@ -3475,55 +3527,6 @@
     "alternativPraeparat": "Hydromorphon HCl Hormosan 4 mg Retardtabletten - Einreichungsnummer: 2176825",
     "datumErstmeldung": "2023-09-04",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00315347"
-    ],
-    "enr": [
-      "2146205"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-08",
-    "datumEnde": "2023-12-10",
-    "datumLetzteMeldung": "2023-11-08",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Trenantone-Gyn 11,25mg Retardmikrokapseln und Suspensionsmittel",
-    "atcCode": "L02AE02",
-    "wirkstoffe": "Leuprorelin (Ph.Eur.) ((mit Angaben zum Essigsäure-Gehalt))",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda GmbH",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "alternativ verfügbare Packungsgröße: TRENANTONE-Gyn 2 Stück (PZN: 00315399)",
-    "datumErstmeldung": "2023-11-08",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00647374"
-    ],
-    "enr": [
-      "2139769"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-08",
-    "datumEnde": "2023-12-10",
-    "datumLetzteMeldung": "2023-11-08",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Enantone-Gyn Monats-Depot 3,75mg Retardmikrokapseln und Suspensionsmittel",
-    "atcCode": "L02AE02",
-    "wirkstoffe": "Leuprorelin (Ph.Eur.) ((mit Angaben zum Essigsäure-Gehalt))",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda GmbH",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Alternativ verfügbare Packungsgröße: ENANTONE-Gyn Monats-Depot 3,75 mg 1 Stück (PZN: 00647345)",
-    "alternativPraeparat": "Enantone-Gyn Monats-Depot 3,75mg Retardmikrokapseln und Suspensionsmittel - Einreichungsnummer: 2139769",
-    "datumErstmeldung": "2023-11-08",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -4526,36 +4529,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-24",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11383257",
-      "11383286",
-      "11383300",
-      "11383323"
-    ],
-    "enr": [
-      "2711789",
-      "2711791",
-      "2711793",
-      "2711795"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-08",
-    "datumEnde": "2023-12-22",
-    "datumLetzteMeldung": "2023-11-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Intuniv 1 mg Tablette mit veränderter Wirkstoffreisetzung - OP28",
-    "atcCode": "C02AC02",
-    "wirkstoffe": "Guanfacinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Shire Pharmaceuticals Ireland Limited",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Voraussichtliches Ende des Lieferengpasses:Intuniv 1MG, PZN 11383257: 15.Dezember 2023Intuniv 2MG, PZN 11383286: 15.Dezember 2023Intuniv 3MG, PZN 11383300: 22.Dezember 2023Intuniv 4MG, PZN 11383323: 17.November 2023",
-    "datumErstmeldung": "2023-08-30",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -7063,30 +7036,6 @@
     "mail": "rabattvertraege@sunpharma.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-02-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14398182"
-    ],
-    "enr": [
-      "2192324"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-16",
-    "datumEnde": "2023-11-30",
-    "datumLetzteMeldung": "2023-10-05",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "CortimentMMX 9 mg Retardtabletten",
-    "atcCode": "A07EA06",
-    "wirkstoffe": "Budesonid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Ferring GmbH",
-    "telefon": "+494315852134",
-    "mail": "petra.wagner@ferring.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Die Packungsgröße 50 ist weiterhin erhältlich",
-    "datumErstmeldung": "2023-08-16",
     "infoFachkreise": "Vorgesehen"
   },
   {
