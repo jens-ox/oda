@@ -808,7 +808,7 @@
     }
   },
   {
-    "veroeffentlichung": "2012-08-17",
+    "veroeffentlichung": "2023-11-28",
     "emittent": {
       "name": "Uzin Utz SE",
       "sitz": "Ulm",
@@ -820,7 +820,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 26.03
+      "gesamt": 26.03,
+      "instrumente": 0,
+      "summe": 26.03
     }
   },
   {
@@ -4138,7 +4140,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-11-27",
+    "veroeffentlichung": "2023-11-28",
     "emittent": {
       "name": "Siemens Energy AG",
       "sitz": "München",
@@ -4150,8 +4152,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.18,
-      "instrumente": 0.48,
+      "gesamt": 3.05,
+      "instrumente": 0.6,
       "summe": 3.66
     }
   },
@@ -4426,7 +4428,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-11-27",
+    "veroeffentlichung": "2023-11-28",
     "emittent": {
       "name": "Infineon Technologies AG",
       "sitz": "Neubiberg",
@@ -4438,8 +4440,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.84,
-      "instrumente": 0.31,
+      "gesamt": 7.01,
+      "instrumente": 0.15,
       "summe": 7.16
     }
   },
@@ -4516,7 +4518,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-11-27",
+    "veroeffentlichung": "2023-11-28",
     "emittent": {
       "name": "GEA Group Aktiengesellschaft",
       "sitz": "Düsseldorf",
@@ -4528,9 +4530,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.43,
-      "instrumente": 0.17,
-      "summe": 6.6
+      "gesamt": 6.57,
+      "instrumente": 0.23,
+      "summe": 6.79
     }
   },
   {
@@ -26189,8 +26191,8 @@
     },
     "meldepflichtiger": {
       "name": "Prof. Otto Beisheim Stiftung",
-      "sitz": "Baar",
-      "land": "Schweiz"
+      "sitz": "München",
+      "land": "Deutschland"
     },
     "stimmrechtsanteile": {
       "gesamt": 4.85,
@@ -26207,8 +26209,8 @@
     },
     "meldepflichtiger": {
       "name": "Prof. Otto Beisheim Stiftung",
-      "sitz": "München",
-      "land": "Deutschland"
+      "sitz": "Baar",
+      "land": "Schweiz"
     },
     "stimmrechtsanteile": {
       "gesamt": 4.85,
@@ -33611,24 +33613,6 @@
     }
   },
   {
-    "veroeffentlichung": "2022-11-09",
-    "emittent": {
-      "name": "Dürr Aktiengesellschaft",
-      "sitz": "Stuttgart",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Capital Group Companies, Inc.",
-      "sitz": "Los Angeles",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.04,
-      "instrumente": 0,
-      "summe": 3.04
-    }
-  },
-  {
     "veroeffentlichung": "2023-05-30",
     "emittent": {
       "name": "Cherry SE",
@@ -34004,6 +33988,24 @@
       "gesamt": 0.32,
       "instrumente": 5.66,
       "summe": 5.98
+    }
+  },
+  {
+    "veroeffentlichung": "2023-11-29",
+    "emittent": {
+      "name": "Bayer Aktiengesellschaft",
+      "sitz": "Leverkusen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.37,
+      "instrumente": 4.82,
+      "summe": 5.19
     }
   },
   {
@@ -34472,6 +34474,24 @@
       "gesamt": 3.23,
       "instrumente": 0.09,
       "summe": 3.32
+    }
+  },
+  {
+    "veroeffentlichung": "2023-11-28",
+    "emittent": {
+      "name": "TUI AG",
+      "sitz": "Hannover",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "UBS Group AG",
+      "sitz": "Zürich",
+      "land": "Schweiz"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.17,
+      "instrumente": 1.29,
+      "summe": 4.47
     }
   },
   {
