@@ -16691,60 +16691,6 @@
       "land": "Deutschland"
     },
     "meldepflichtiger": {
-      "name": "Kempen Capital Management N.V.",
-      "sitz": "Amsterdam",
-      "land": "Niederlande"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 9.6,
-      "instrumente": 0,
-      "summe": 9.6
-    }
-  },
-  {
-    "veroeffentlichung": "2022-11-02",
-    "emittent": {
-      "name": "SÜSS MicroTec SE",
-      "sitz": "Garching b.München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Kempen Capital Management N.V.",
-      "sitz": "Amsterdam",
-      "land": "Niederlande"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 10.01,
-      "instrumente": 0,
-      "summe": 10.01
-    }
-  },
-  {
-    "veroeffentlichung": "2023-10-26",
-    "emittent": {
-      "name": "JOST Werke SE",
-      "sitz": "Neu-Isenburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Kempen Capital Management N.V.",
-      "sitz": "Amsterdam",
-      "land": "Niederlande"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0,
-      "summe": 3.02
-    }
-  },
-  {
-    "veroeffentlichung": "2016-11-08",
-    "emittent": {
-      "name": "WashTec AG",
-      "sitz": "Augsburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
       "name": "Kempen Oranje Participaties N.V.",
       "sitz": "Amsterdam",
       "land": "Niederlande"
@@ -35492,6 +35438,60 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 29.53
+    }
+  },
+  {
+    "veroeffentlichung": "2016-11-08",
+    "emittent": {
+      "name": "WashTec AG",
+      "sitz": "Augsburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Van Lanschot Kempen Investment Management N.V.",
+      "sitz": "Amsterdam",
+      "land": "Niederlande"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 9.6,
+      "instrumente": 0,
+      "summe": 9.6
+    }
+  },
+  {
+    "veroeffentlichung": "2022-11-02",
+    "emittent": {
+      "name": "SÜSS MicroTec SE",
+      "sitz": "Garching b.München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Van Lanschot Kempen Investment Management N.V.",
+      "sitz": "Amsterdam",
+      "land": "Niederlande"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 10.01,
+      "instrumente": 0,
+      "summe": 10.01
+    }
+  },
+  {
+    "veroeffentlichung": "2023-10-26",
+    "emittent": {
+      "name": "JOST Werke SE",
+      "sitz": "Neu-Isenburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Van Lanschot Kempen Investment Management N.V.",
+      "sitz": "Amsterdam",
+      "land": "Niederlande"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.02,
+      "instrumente": 0,
+      "summe": 3.02
     }
   },
   {
