@@ -1,6 +1,322 @@
 [
   {
     "pzn": [
+      "08926033",
+      "08926056",
+      "08926062"
+    ],
+    "enr": [
+      "2138668"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-05",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-12-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fluvoxamin-neuraxpharm 50 mg",
+    "atcCode": "N06AB08",
+    "wirkstoffe": "Fluvoxaminmaleat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49217310600",
+    "mail": "info@neuraxpharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08926079",
+      "08926085"
+    ],
+    "enr": [
+      "2138669"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-05",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-12-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fluvoxamin-neuraxpharm 100 mg",
+    "atcCode": "N06AB08",
+    "wirkstoffe": "Fluvoxaminmaleat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49217310600",
+    "mail": "info@neuraxpharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04810026"
+    ],
+    "enr": [
+      "0192956"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-15",
+    "datumEnde": "2023-12-22",
+    "datumLetzteMeldung": "2023-12-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Isozid comp. 100 mg N",
+    "atcCode": "J04AC51",
+    "wirkstoffe": "Isoniazid; Pyridoxinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "telefon": "+49303384270",
+    "mail": "Info.germany@esteve.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "n.a.",
+    "alternativPraeparat": "Isozid comp. 100 mg N - Einreichungsnummer: 0192956",
+    "datumErstmeldung": "2023-12-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09505109"
+    ],
+    "enr": [
+      "2106371"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-15",
+    "datumEnde": "2024-01-01",
+    "datumLetzteMeldung": "2023-12-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Eremfat i.v. 600mg",
+    "atcCode": "J04AB02",
+    "wirkstoffe": "Rifampicin-Natrium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "telefon": "+49 30 338427-0",
+    "mail": "Info.germany@esteve.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Freigabe Nitrosamine durch das LaGeSo ausstehend",
+    "alternativPraeparat": "Eremfat i.v. 300mg - Einreichungsnummer: 2106370",
+    "datumErstmeldung": "2023-12-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16682912"
+    ],
+    "enr": [
+      "2188010"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-03-30",
+    "datumLetzteMeldung": "2023-12-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 20 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05520023",
+      "05520129",
+      "09124212"
+    ],
+    "enr": [
+      "1464144"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-21",
+    "datumEnde": "2024-01-10",
+    "datumLetzteMeldung": "2023-12-04",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Mydriaticum Stulln UD",
+    "atcCode": "S01FA06",
+    "wirkstoffe": "Tropicamid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pharma Stulln GmbH",
+    "mail": "cornelius@pharmastulln.de",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Durch den Wegfall anderer Produkte, ist der Bedarf an unserem Produkt deutlich gestiegen, trotz einer bereits erhöhten Produktion, kann der Wegfall anderer Produkte nicht komplett kompensiert werden.",
+    "datumErstmeldung": "2023-09-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01875775"
+    ],
+    "enr": [
+      "0037055"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-21",
+    "datumEnde": "2024-01-22",
+    "datumLetzteMeldung": "2023-12-04",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Mydriaticum Stulln",
+    "atcCode": "S01FA56",
+    "wirkstoffe": "Tropicamid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pharma Stulln GmbH",
+    "mail": "cornelius@pharmastulln.de",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Durch den Wegfall anderer Produkte, ist der Bedarf an unserem Produkt deutlich gestiegen, trotz einer bereits erhöhten Produktion, kann der Wegfall anderer Produkte nicht komplett kompensiert werden.",
+    "datumErstmeldung": "2023-09-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00731465",
+      "04527098",
+      "06053291"
+    ],
+    "enr": [
+      "0196606",
+      "1445922"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-28",
+    "datumEnde": "2023-12-20",
+    "datumLetzteMeldung": "2023-12-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Novalgin 1 g-Injektionslösung",
+    "atcCode": "N02BB02",
+    "wirkstoffe": "Metamizol-Natrium-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "A. Nattermann & Cie. Gesellschaft mit beschränkter Haftung",
+    "mail": "frachcra@sanofi.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-18",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03853708",
+      "03853714"
+    ],
+    "enr": [
+      "2131040"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-19",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2023-12-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sempera Kapseln",
+    "atcCode": "J02AC02",
+    "wirkstoffe": "Itraconazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
+    "telefon": "0800 7910010",
+    "mail": "jancil@its.jnj.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Da der Lieferengpass seitens des Mitbewerbers auf der BfArM-Lieferengpass-Seite nicht sichtbar war, konnten wir in diesem Fall nicht vorbeugend tätig werden und unsere Liefermengen nicht rechtzeitig erhöhen.",
+    "datumErstmeldung": "2023-10-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09482762",
+      "09482779",
+      "09482785"
+    ],
+    "enr": [
+      "2175287"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-01",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-12-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "CANDESARTAN BASICS 4 mg Tabletten",
+    "atcCode": "C09CA06",
+    "wirkstoffe": "Candesartancilexetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Basics GmbH",
+    "mail": "rabattvertraege@sunpharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-02-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09482839",
+      "09482845",
+      "09482851"
+    ],
+    "enr": [
+      "2175289"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-01",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-12-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "CANDESARTAN BASICS 16 mg Tabletten",
+    "atcCode": "C09CA06",
+    "wirkstoffe": "Candesartancilexetil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Basics GmbH",
+    "mail": "rabattvertraege@sunpharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-10-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03977445",
+      "07507110"
+    ],
+    "enr": [
+      "0610075"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-24",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2023-12-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 400 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-11-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03750291"
+    ],
+    "enr": [
+      "0820714"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-24",
+    "datumEnde": "2023-12-11",
+    "datumLetzteMeldung": "2023-12-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 200 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-11-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "17570026",
       "17570032"
     ],
@@ -852,28 +1168,6 @@
   },
   {
     "pzn": [
-      "01594906"
-    ],
-    "enr": [
-      "2115963"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-03",
-    "datumEnde": "2023-12-03",
-    "datumLetzteMeldung": "2023-11-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Volon A Salbe antibiotikafrei",
-    "atcCode": "D07AB09",
-    "wirkstoffe": "Triamcinolonacetonid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "mail": "service@dermapharm.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-11-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03450264"
     ],
     "enr": [
@@ -1509,52 +1803,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-11-06",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03977445"
-    ],
-    "enr": [
-      "0610075"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-24",
-    "datumEnde": "2023-12-11",
-    "datumLetzteMeldung": "2023-11-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 400 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-11-27",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03750291"
-    ],
-    "enr": [
-      "0820714"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-24",
-    "datumEnde": "2023-12-04",
-    "datumLetzteMeldung": "2023-11-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 200 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-11-27",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -3465,54 +3713,6 @@
   },
   {
     "pzn": [
-      "08926079",
-      "08926085",
-      "08926091"
-    ],
-    "enr": [
-      "2138669"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-05",
-    "datumEnde": "2023-12-01",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fluvoxamin-neuraxpharm 100 mg",
-    "atcCode": "N06AB08",
-    "wirkstoffe": "Fluvoxaminmaleat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "mail": "zulassung@neuraxpharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08926033",
-      "08926056",
-      "08926062"
-    ],
-    "enr": [
-      "2138668"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-05",
-    "datumEnde": "2023-12-01",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fluvoxamin-neuraxpharm 50 mg",
-    "atcCode": "N06AB08",
-    "wirkstoffe": "Fluvoxaminmaleat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "mail": "zulassung@neuraxpharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "09680120",
       "09680137"
     ],
@@ -3634,31 +3834,6 @@
   },
   {
     "pzn": [
-      "14219624",
-      "14219630"
-    ],
-    "enr": [
-      "2198862"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-23",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Nevirapin-Hormosan 400 mg Retardtabletten",
-    "atcCode": "J05AG01",
-    "wirkstoffe": "Nevirapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Engpass bei API und Produktion",
-    "datumErstmeldung": "2023-08-23",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "13420850",
       "13420867"
     ],
@@ -3735,30 +3910,6 @@
   },
   {
     "pzn": [
-      "16682912"
-    ],
-    "enr": [
-      "2188010"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2023-11-30",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycan uno 20 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "12394820",
       "12394837",
       "12394843"
@@ -3808,54 +3959,6 @@
     "grundAnmerkung": "Kapazitätsengpässe in Herstellungsstätte",
     "datumErstmeldung": "2023-10-17",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01875775"
-    ],
-    "enr": [
-      "0037055"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-21",
-    "datumEnde": "2023-11-30",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Mydriaticum Stulln",
-    "atcCode": "S01FA56",
-    "wirkstoffe": "Tropicamid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pharma Stulln GmbH",
-    "mail": "cornelius@pharmastulln.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Durch den Wegfall anderer Produkte, ist der Bedarf an unserem Produkt deutlich gestiegen, trotz einer bereits erhöhten Produktion, kann der Wegfall anderer Produkte nicht komplett kompensiert werden.",
-    "datumErstmeldung": "2023-09-01",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "05520023",
-      "05520129",
-      "09124212"
-    ],
-    "enr": [
-      "1464144"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-21",
-    "datumEnde": "2023-11-30",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Mydriaticum Stulln UD",
-    "atcCode": "S01FA06",
-    "wirkstoffe": "Tropicamid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pharma Stulln GmbH",
-    "mail": "cornelius@pharmastulln.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Durch den Wegfall anderer Produkte, ist der Bedarf an unserem Produkt deutlich gestiegen, trotz einer bereits erhöhten Produktion, kann der Wegfall anderer Produkte nicht komplett kompensiert werden.",
-    "datumErstmeldung": "2023-09-01",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -4393,28 +4496,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-11-08",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14289895"
-    ],
-    "enr": [
-      "2199941"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-02",
-    "datumEnde": "2023-11-30",
-    "datumLetzteMeldung": "2023-11-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Melphalan SUN 50 mg Pulver und Lösungsmittel zur Herstellung einer Injektions-/Infusionslösung",
-    "atcCode": "L01AA03",
-    "wirkstoffe": "Melphalanhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sun Pharmaceuticals Germany GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-16",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -5767,29 +5848,6 @@
   },
   {
     "pzn": [
-      "18139425"
-    ],
-    "enr": [
-      "2127138"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-01",
-    "datumEnde": "2023-11-30",
-    "datumLetzteMeldung": "2023-10-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Temgesic forte sublingual",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "EUMEDICA Pharmaceuticals GmbH",
-    "mail": "h.bornemann@eumedica.ch",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundAnmerkung": "Probleme bei der Freigabe der aktuell produzierten Charge",
-    "datumErstmeldung": "2023-08-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "16164229"
     ],
     "enr": [
@@ -5979,30 +6037,6 @@
     "mail": "service@hexal.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-10-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03853714"
-    ],
-    "enr": [
-      "2131040"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-19",
-    "datumEnde": "2023-12-01",
-    "datumLetzteMeldung": "2023-10-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sempera Kapseln",
-    "atcCode": "J02AC02",
-    "wirkstoffe": "Itraconazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
-    "telefon": "0800 7910010",
-    "mail": "jancil@its.jnj.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Da der Lieferengpass seitens des Mitbewerbers auf der BfArM-Lieferengpass-Seite nicht sichtbar war, konnten wir in diesem Fall nicht vorbeugend tätig werden und unsere Liefermengen nicht rechtzeitig erhöhen.",
-    "datumErstmeldung": "2023-10-19",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -6569,30 +6603,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-08-14",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09482839",
-      "09482845",
-      "09482851"
-    ],
-    "enr": [
-      "2175289"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-01",
-    "datumEnde": "2023-11-30",
-    "datumLetzteMeldung": "2023-10-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "CANDESARTAN BASICS 16 mg Tabletten",
-    "atcCode": "C09CA06",
-    "wirkstoffe": "Candesartancilexetil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Basics GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-10-05",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -7358,30 +7368,6 @@
     "mail": "Pharma.Kundenservice@bausch.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-05-09",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09482762",
-      "09482779",
-      "09482785"
-    ],
-    "enr": [
-      "2175287"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-01",
-    "datumEnde": "2023-11-30",
-    "datumLetzteMeldung": "2023-10-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "CANDESARTAN BASICS 4 mg Tabletten",
-    "atcCode": "C09CA06",
-    "wirkstoffe": "Candesartancilexetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Basics GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-02-03",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -8654,29 +8640,6 @@
   },
   {
     "pzn": [
-      "01808804"
-    ],
-    "enr": [
-      "0762307"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-07",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-09-07",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Dipiperon",
-    "atcCode": "N05AD05",
-    "wirkstoffe": "Pipamperondihydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "EUMEDICA S.A.",
-    "mail": "h.bornemann@eumedica.ch",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Der Stock-out beim Mitbewerber Hexal hat zu einer stark erhöhten Nachfrage geführt.",
-    "datumErstmeldung": "2023-09-07",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01206749"
     ],
     "enr": [
@@ -9237,31 +9200,6 @@
     "mail": "a.kredba@aliud.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-06-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12652469"
-    ],
-    "enr": [
-      "2197258"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-28",
-    "datumEnde": "2023-11-30",
-    "datumLetzteMeldung": "2023-08-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Etorican 90 mg Filmtabletten",
-    "atcCode": "M01AH05",
-    "wirkstoffe": "Etoricoxib",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "deutlich höhere Nachfrage in Jul und Aug",
-    "alternativPraeparat": "Etorican 90 mg Filmtabletten - Einreichungsnummer: 2197258",
-    "datumErstmeldung": "2023-08-28",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -10156,31 +10094,6 @@
     "mail": "zulassung_de@pierre-fabre.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-06-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00731465",
-      "04527098",
-      "06053291"
-    ],
-    "enr": [
-      "0196606",
-      "1445922"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-28",
-    "datumEnde": "2023-11-30",
-    "datumLetzteMeldung": "2023-07-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Novalgin 1 g-Injektionslösung",
-    "atcCode": "N02BB02",
-    "wirkstoffe": "Metamizol-Natrium-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "A. Nattermann & Cie. Gesellschaft mit beschränkter Haftung",
-    "mail": "frachcra@sanofi.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-18",
     "infoFachkreise": "Nein"
   },
   {
