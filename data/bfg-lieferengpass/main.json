@@ -1,6 +1,53 @@
 [
   {
     "pzn": [
+      "02592861"
+    ],
+    "enr": [
+      "2140258"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-13",
+    "datumEnde": "2023-12-22",
+    "datumLetzteMeldung": "2023-12-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Dexamethason acis 4 mg Injektionslösung",
+    "atcCode": "H02AB02",
+    "wirkstoffe": "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "+498944232460",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06559642",
+      "06559665"
+    ],
+    "enr": [
+      "2171983"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-11",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2023-12-05",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cisplatin Teva 1 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "L01XA01",
+    "wirkstoffe": "Cisplatin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TEVA GmbH",
+    "telefon": "0731-402 7657",
+    "mail": "rui.araujo@ratiopharm.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-12-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "08926033",
       "08926056",
       "08926062"
@@ -761,52 +808,6 @@
   },
   {
     "pzn": [
-      "01097987"
-    ],
-    "enr": [
-      "2150294"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-20",
-    "datumEnde": "2023-12-05",
-    "datumLetzteMeldung": "2023-11-30",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Delix 5 mg Tabletten",
-    "atcCode": "C09AA05",
-    "wirkstoffe": "Ramipril",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Probleme bei der Endfreigabe",
-    "datumErstmeldung": "2023-09-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01097941"
-    ],
-    "enr": [
-      "2150293"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-20",
-    "datumEnde": "2023-12-05",
-    "datumLetzteMeldung": "2023-11-30",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Delix 2,5 mg Tabletten",
-    "atcCode": "C09AA05",
-    "wirkstoffe": "Ramipril",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Probleme bei der Endfreigabe",
-    "datumErstmeldung": "2023-09-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "02516788"
     ],
     "enr": [
@@ -1274,28 +1275,6 @@
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-06-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00821010"
-    ],
-    "enr": [
-      "2159112"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-12",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-11-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Palladon 1,3 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-09-14",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2256,29 +2235,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Erhöhte Nachfrage bei begrenzter Produktionskapazität. Es werden weiterhin nur moderate Mengenkürzungen erwartet (keine vollständige Lieferunfähigkeit).",
     "datumErstmeldung": "2023-01-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02592861"
-    ],
-    "enr": [
-      "2140258"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-13",
-    "datumEnde": "2023-12-08",
-    "datumLetzteMeldung": "2023-11-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Dexamethason acis 4 mg Injektionslösung",
-    "atcCode": "H02AB02",
-    "wirkstoffe": "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "acis Arzneimittel GmbH",
-    "telefon": "+498944232460",
-    "mail": "Medwiss.Acis@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-10-17",
     "infoFachkreise": "Nein"
   },
   {
@@ -4379,50 +4335,6 @@
     "grundAnmerkung": "aufgrund erhöhter Nachfrage Produktknappheit bei der Packungsgröße 100 Retardtabletten",
     "alternativPraeparat": "Hydromorphon HCl Hormosan 4 mg Retardtabletten - Einreichungsnummer: 2176825",
     "datumErstmeldung": "2023-09-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "13836059"
-    ],
-    "enr": [
-      "2199853"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-01",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-11-08",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Pregabalin Denk 75 mg Hartkapseln",
-    "atcCode": "N03AX16",
-    "wirkstoffe": "Pregabalin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
-    "mail": "edith.eigenberger@denkpharma.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-31",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16606153"
-    ],
-    "enr": [
-      "2199855"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-01",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-11-08",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Pregabalin Denk 150 mg Hartkapseln",
-    "atcCode": "N03AX16",
-    "wirkstoffe": "Pregabalin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
-    "mail": "edith.eigenberger@denkpharma.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-31",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -7207,30 +7119,6 @@
     "alternativPraeparat": "carbadura 300 mg retard - Einreichungsnummer: 2113715",
     "datumErstmeldung": "2023-08-08",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "07820775",
-      "07820781"
-    ],
-    "enr": [
-      "2141202"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-12",
-    "datumEnde": "2023-10-23",
-    "datumLetzteMeldung": "2023-10-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Bronchospray Autohaler",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
-    "telefon": "06252-95 7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-24",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
