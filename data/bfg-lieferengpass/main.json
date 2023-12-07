@@ -1,6 +1,236 @@
 [
   {
     "pzn": [
+      "16634474"
+    ],
+    "enr": [
+      "7001469"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-08",
+    "datumEnde": "2023-12-13",
+    "datumLetzteMeldung": "2023-12-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fiasp",
+    "atcCode": "A10AB05",
+    "wirkstoffe": "Insulin aspart",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
+    "alternativPraeparat": "Fiasp - Einreichungsnummer: 7001468",
+    "datumErstmeldung": "2023-11-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14215000",
+      "14215017",
+      "17982906",
+      "17982970"
+    ],
+    "enr": [
+      "2200703"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-28",
+    "datumEnde": "2023-12-31",
+    "datumLetzteMeldung": "2023-12-06",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil Heumann 200 mg/245 mg Filmtabletten",
+    "atcCode": "J05AR03",
+    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilfumarat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "christoph.schultz@heumann.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-12-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02557959",
+      "02563575"
+    ],
+    "enr": [
+      "2158918"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-06",
+    "datumEnde": "2024-02-02",
+    "datumLetzteMeldung": "2023-12-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoclav 400+57 mg/5 ml Trockensaft",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-12-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00544697"
+    ],
+    "enr": [
+      "2134927"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-06",
+    "datumEnde": "2023-12-15",
+    "datumLetzteMeldung": "2023-12-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoclav forte Trockensaft",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-12-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06312031"
+    ],
+    "enr": [
+      "2142794"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-07",
+    "datumEnde": "2023-12-22",
+    "datumLetzteMeldung": "2023-12-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "AmoxiClav 250/62,5 TS - 1 A Pharma",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-12-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00658834"
+    ],
+    "enr": [
+      "2107213"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-06",
+    "datumEnde": "2023-12-15",
+    "datumLetzteMeldung": "2023-12-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxi 250 TS - 1 A Pharma",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-12-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14238219"
+    ],
+    "enr": [
+      "2200990"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-22",
+    "datumEnde": "2023-12-11",
+    "datumLetzteMeldung": "2023-12-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fosfomycin HEXAL 3 g Pulver zur Herstellung einer Lösung zum Einnehmen",
+    "atcCode": "J01XX01",
+    "wirkstoffe": "Fosfomycin-Trometamol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-12-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00230007"
+    ],
+    "enr": [
+      "2155619"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-11-13",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2023-12-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin HEXAL 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-12-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "13420850",
+      "13420867"
+    ],
+    "enr": [
+      "2196985"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-16",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2023-12-06",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil Hormosan 200 mg/245 mg Filmtabletten",
+    "atcCode": "J05AR03",
+    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilphosphat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-10-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12724393",
+      "12724430"
+    ],
+    "enr": [
+      "2194619"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-01",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2023-12-06",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil-ratiopharm 200 mg/245 mg Filmtabletten",
+    "atcCode": "J05AR03",
+    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilphosphat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-12-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "02592861"
     ],
     "enr": [
@@ -781,29 +1011,6 @@
     "mail": "regaffairs@klinge-pharma.com",
     "grund": "Probleme beim Sonstigen Hersteller",
     "datumErstmeldung": "2023-11-08",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04679342"
-    ],
-    "enr": [
-      "2126621"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-20",
-    "datumEnde": "2023-12-11",
-    "datumLetzteMeldung": "2023-11-30",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Delix 5 plus",
-    "atcCode": "C09BA05",
-    "wirkstoffe": "Hydrochlorothiazid; Ramipril",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Probleme bei der Endfreigabe",
-    "datumErstmeldung": "2023-09-20",
     "infoFachkreise": "Nein"
   },
   {
@@ -3790,30 +3997,6 @@
   },
   {
     "pzn": [
-      "13420850",
-      "13420867"
-    ],
-    "enr": [
-      "2196985"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-16",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil Hormosan 200 mg/245 mg Filmtabletten",
-    "atcCode": "J05AR03",
-    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilphosphat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-10-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04232138",
       "04232144",
       "04232167"
@@ -4335,31 +4518,6 @@
     "grundAnmerkung": "aufgrund erhöhter Nachfrage Produktknappheit bei der Packungsgröße 100 Retardtabletten",
     "alternativPraeparat": "Hydromorphon HCl Hormosan 4 mg Retardtabletten - Einreichungsnummer: 2176825",
     "datumErstmeldung": "2023-09-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16634474"
-    ],
-    "enr": [
-      "7001469"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-08",
-    "datumEnde": "2023-12-06",
-    "datumLetzteMeldung": "2023-11-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fiasp",
-    "atcCode": "A10AB05",
-    "wirkstoffe": "Insulin aspart",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
-    "alternativPraeparat": "Fiasp - Einreichungsnummer: 7001468",
-    "datumErstmeldung": "2023-11-08",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -9843,28 +10001,6 @@
   },
   {
     "pzn": [
-      "01448777"
-    ],
-    "enr": [
-      "2145315"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-19",
-    "datumEnde": "2023-09-18",
-    "datumLetzteMeldung": "2023-07-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Salbutamol-ratiopharm N Dosieraerosol",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "17550621",
       "17550638"
     ],
@@ -10898,31 +11034,6 @@
     "alternativPraeparat": "Natpar 50 Mikrogramm/Dosis Pulver und Lösungsmittel zur Herstellung einer Injektionslösung in Fertigpen - OP(2x(36,56+1,13g)) - Einreichungsnummer: 2712085",
     "datumErstmeldung": "2022-04-11",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "04596857",
-      "04596863"
-    ],
-    "enr": [
-      "0584604"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-03",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-04-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quensyl",
-    "atcCode": "P01BA02",
-    "wirkstoffe": "Hydroxychloroquinsulfat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "0800 5252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage kann nicht bedient werden.",
-    "datumErstmeldung": "2023-04-03",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
