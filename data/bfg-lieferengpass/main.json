@@ -1,6 +1,239 @@
 [
   {
     "pzn": [
+      "15398528"
+    ],
+    "enr": [
+      "2714965"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-27",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2023-12-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ozempic 0,25 mg Injektionslösung in einem Fertigpen - OP1,5 ml",
+    "atcCode": "A10BJ06",
+    "wirkstoffe": "Semaglutid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-09-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15398534"
+    ],
+    "enr": [
+      "2714966"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-27",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2023-12-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP1,5 ml",
+    "atcCode": "A10BJ06",
+    "wirkstoffe": "Semaglutid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP(3x1,5ml) - Einreichungsnummer: 2714967",
+    "datumErstmeldung": "2023-09-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15398540"
+    ],
+    "enr": [
+      "2714967"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-29",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2023-12-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP(3x1,5ml)",
+    "atcCode": "A10BJ06",
+    "wirkstoffe": "Semaglutid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-11-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03277707"
+    ],
+    "enr": [
+      "2706026"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-04",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2023-12-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Victoza 6 mg/ml Injektionslösung in Fertigpen - OP(10x3ml)",
+    "atcCode": "TERM_ID_NA_2090000841",
+    "wirkstoffe": "Liraglutid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-09-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03277630"
+    ],
+    "enr": [
+      "2706023"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-11",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2023-12-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Victoza 6 mg/ml Injektionslösung in Fertigpen - OP(2x3ml)",
+    "atcCode": "TERM_ID_NA_2090000841",
+    "wirkstoffe": "Liraglutid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-11",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00993248"
+    ],
+    "enr": [
+      "1445916"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-28",
+    "datumEnde": "2024-01-19",
+    "datumLetzteMeldung": "2023-12-08",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Arterenol 25 ml",
+    "atcCode": "C01CA03",
+    "wirkstoffe": "Norepinephrinhydrochlorid/ Noradrenalinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+    "telefon": "0383439140",
+    "mail": "ra-norepinephrine@cheplapharm.com",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundAnmerkung": "Interne Kapazitätsengpässe und Verzögerungen bei der Freigabe",
+    "alternativPraeparat": "Arterenol 1ml - Einreichungsnummer: 0444642",
+    "datumErstmeldung": "2023-12-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05395730"
+    ],
+    "enr": [
+      "2164821"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-08",
+    "datumEnde": "2024-02-19",
+    "datumLetzteMeldung": "2023-12-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Topiramat-Hormosan 100 mg Filmtabletten",
+    "atcCode": "N03AX11",
+    "wirkstoffe": "Topiramat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-12-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05395693"
+    ],
+    "enr": [
+      "2164820"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-08",
+    "datumEnde": "2024-02-19",
+    "datumLetzteMeldung": "2023-12-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Topiramat-Hormosan 50 mg Filmtabletten",
+    "atcCode": "N03AX11",
+    "wirkstoffe": "Topiramat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069476730",
+    "mail": "service@hormosan.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-12-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07273534"
+    ],
+    "enr": [
+      "2140877"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-20",
+    "datumEnde": "2023-12-20",
+    "datumLetzteMeldung": "2023-12-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefaclor STADA 500 mg Hartkapseln",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "mail": "Minyoung.seo@stadapharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08754862"
+    ],
+    "enr": [
+      "2101926"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-23",
+    "datumEnde": "2024-01-03",
+    "datumLetzteMeldung": "2023-12-08",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Eldisine",
+    "atcCode": "L01CA03",
+    "wirkstoffe": "Vindesinsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "telefon": "+4961016032416",
+    "mail": "christiane.georgi@stada.de",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Bei dem Lieferengpass handelt sich ausschließlich um ELDISINE 5MG DSS 1PC SDH DE, PZN 08754862",
+    "datumErstmeldung": "2023-10-18",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "01129233",
       "05947856"
     ],
@@ -308,30 +541,6 @@
     "grund": "Sonstige",
     "grundAnmerkung": "Behördlich angeforderte Rückruf.",
     "datumErstmeldung": "2023-07-14",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03277630"
-    ],
-    "enr": [
-      "2706023"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-11",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-12-07",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Victoza 6 mg/ml Injektionslösung in Fertigpen - OP(2x3ml)",
-    "atcCode": "TERM_ID_NA_2090000841",
-    "wirkstoffe": "Liraglutid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
-    "datumErstmeldung": "2023-10-11",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -1563,30 +1772,6 @@
     "telefon": "061319031144",
     "mail": "KD_Service@novonordisk.com",
     "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-11-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15398540"
-    ],
-    "enr": [
-      "2714967"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-29",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-11-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP(3x1,5ml)",
-    "atcCode": "A10BJ06",
-    "wirkstoffe": "Semaglutid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
     "datumErstmeldung": "2023-11-29",
     "infoFachkreise": "Vorgesehen"
   },
@@ -6627,30 +6812,6 @@
   },
   {
     "pzn": [
-      "08754862"
-    ],
-    "enr": [
-      "2101926"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-23",
-    "datumEnde": "2023-12-05",
-    "datumLetzteMeldung": "2023-10-18",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Eldisine",
-    "atcCode": "L01CA03",
-    "wirkstoffe": "Vindesinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "+4961016032416",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Bei dem Lieferengpass handelt sich ausschließlich um ELDISINE 5MG DSS 1PC SDH DE, PZN 08754862",
-    "datumErstmeldung": "2023-10-18",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00860926",
       "00860984"
     ],
@@ -7468,28 +7629,6 @@
   },
   {
     "pzn": [
-      "07273534"
-    ],
-    "enr": [
-      "2140877"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-20",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-10-09",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefaclor STADA 500 mg Hartkapseln",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "Minyoung.seo@stadapharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-08-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "16020625"
     ],
     "enr": [
@@ -8051,78 +8190,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
     "alternativPraeparat": "Actraphane 30 Penfill 100 IE/ml Injektionssuspension in Zylinderampulle - OP(10x3ml) - Einreichungsnummer: 2702234",
-    "datumErstmeldung": "2023-09-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03277707"
-    ],
-    "enr": [
-      "2706026"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-04",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-09-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Victoza 6 mg/ml Injektionslösung in Fertigpen - OP(10x3ml)",
-    "atcCode": "TERM_ID_NA_2090000841",
-    "wirkstoffe": "Liraglutid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
-    "datumErstmeldung": "2023-09-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15398534"
-    ],
-    "enr": [
-      "2714966"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-27",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-09-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP1,5 ml",
-    "atcCode": "A10BJ06",
-    "wirkstoffe": "Semaglutid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
-    "alternativPraeparat": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP(3x1,5ml) - Einreichungsnummer: 2714967",
-    "datumErstmeldung": "2023-09-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15398528"
-    ],
-    "enr": [
-      "2714965"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-27",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-09-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ozempic 0,25 mg Injektionslösung in einem Fertigpen - OP1,5 ml",
-    "atcCode": "A10BJ06",
-    "wirkstoffe": "Semaglutid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
     "datumErstmeldung": "2023-09-27",
     "infoFachkreise": "Vorgesehen"
   },
@@ -9802,30 +9869,6 @@
     "datumLetzteMeldung": "2023-08-04",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Corvaton forte 4mg Tabletten",
-    "atcCode": "C01DX12",
-    "wirkstoffe": "Molsidomin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "mail": "tobias.letzel@cheplapharm.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-04",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08705390",
-      "08705409",
-      "08705415"
-    ],
-    "enr": [
-      "2106432"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-02-09",
-    "datumEnde": "2023-12-08",
-    "datumLetzteMeldung": "2023-08-04",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Corvaton retard 8mg Tabletten",
     "atcCode": "C01DX12",
     "wirkstoffe": "Molsidomin",
     "krankenhausrelevant": false,
