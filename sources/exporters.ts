@@ -4,6 +4,8 @@ import { Lieferengpass } from './bfg-lieferengpass'
 import { ArzneiEngpassExporter } from './bfg-lieferengpass/exporter'
 import { Gemeindeverzeichnis } from './destatis-gemeindeverzeichnis'
 import { GVExporter } from './destatis-gemeindeverzeichnis/exporter'
+import { Krankenkassen } from './krankenkassen'
+import { KrankenkassenExporter } from './krankenkassen/exporter'
 import { Ladesaeulen } from './ladesaeulenregister'
 import { LadesaeulenExporter } from './ladesaeulenregister/exporter'
 import { Rigoletto } from './rigoletto'
@@ -30,5 +32,9 @@ export const exporters: Array<ExporterMap> = [
   {
     id: Rigoletto.id,
     exporter: RigolettoExporter
+  },
+  {
+    id: Krankenkassen.id,
+    exporter: KrankenkassenExporter
   }
 ]

@@ -1,6 +1,199 @@
 [
   {
     "pzn": [
+      "03565553",
+      "03565576",
+      "03565582",
+      "03565599"
+    ],
+    "enr": [
+      "2106948",
+      "2106949"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-10",
+    "datumEnde": "2025-02-28",
+    "datumLetzteMeldung": "2023-12-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tavor 1,0 mg Expidet",
+    "atcCode": "N05BA06",
+    "wirkstoffe": "Lorazepam",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-07-11",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08538087",
+      "08538093",
+      "08538101"
+    ],
+    "enr": [
+      "2125957"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-31",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2023-12-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Betavert 12mg",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindimesilat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
+    "mail": "nicola.bruns@hennig-am.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08538058",
+      "08538064",
+      "08538070"
+    ],
+    "enr": [
+      "2125956"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-16",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2023-12-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Betavert 6mg",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindimesilat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
+    "mail": "nicola.bruns@hennig-am.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06064768",
+      "06064774",
+      "06064780"
+    ],
+    "enr": [
+      "2163926"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-04",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2023-12-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Betavert N 16 mg Tabletten",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
+    "mail": "nicola.bruns@hennig-am.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02146877"
+    ],
+    "enr": [
+      "2151973"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-20",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2023-12-11",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Decapeptyl N 3,75 mg Pulver und Lösungsmittel zur Herstellung einer Injektionssuspension",
+    "atcCode": "L02AE04",
+    "wirkstoffe": "Triptorelinacetat (1:x) ((mit Angaben zum Essigsäure-Gehalt))",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Ferring GmbH",
+    "telefon": "+494315852134",
+    "mail": "petra.wagner@ferring.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06809530",
+      "06809547"
+    ],
+    "enr": [
+      "2180321"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-09",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2023-12-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Betavert N 24 mg Tabletten",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
+    "mail": "nicola.bruns@hennig-am.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06064739",
+      "06064745",
+      "06064751"
+    ],
+    "enr": [
+      "2163925"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-23",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2023-12-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Betavert N 8 mg Tabletten",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
+    "mail": "nicola.bruns@hennig-am.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15415818",
+      "15415824",
+      "15415830"
+    ],
+    "enr": [
+      "2195985"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-24",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2023-12-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Betahistindihydrochlorid Hennig 24 mg Tabletten",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
+    "mail": "nicola.bruns@hennig-am.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "09615766"
     ],
     "enr": [
@@ -3246,29 +3439,6 @@
   },
   {
     "pzn": [
-      "02146877"
-    ],
-    "enr": [
-      "2151973"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-20",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-11-20",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Decapeptyl N 3,75 mg Pulver und Lösungsmittel zur Herstellung einer Injektionssuspension",
-    "atcCode": "L02AE04",
-    "wirkstoffe": "Triptorelinacetat (1:x) ((mit Angaben zum Essigsäure-Gehalt))",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Ferring GmbH",
-    "telefon": "+494315852134",
-    "mail": "petra.wagner@ferring.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04046370",
       "04834529"
     ],
@@ -5102,150 +5272,6 @@
   },
   {
     "pzn": [
-      "15415818",
-      "15415824",
-      "15415830"
-    ],
-    "enr": [
-      "2195985"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-24",
-    "datumEnde": "2023-12-12",
-    "datumLetzteMeldung": "2023-11-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Betahistindihydrochlorid Hennig 24 mg Tabletten",
-    "atcCode": "N07CA01",
-    "wirkstoffe": "Betahistindihydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
-    "mail": "nicola.bruns@hennig-am.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06064739",
-      "06064745",
-      "06064751"
-    ],
-    "enr": [
-      "2163925"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-23",
-    "datumEnde": "2023-12-12",
-    "datumLetzteMeldung": "2023-11-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Betavert N 8 mg Tabletten",
-    "atcCode": "N07CA01",
-    "wirkstoffe": "Betahistindihydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
-    "mail": "nicola.bruns@hennig-am.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06809530",
-      "06809547",
-      "06809553"
-    ],
-    "enr": [
-      "2180321"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-09",
-    "datumEnde": "2023-12-12",
-    "datumLetzteMeldung": "2023-11-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Betavert N 24 mg Tabletten",
-    "atcCode": "N07CA01",
-    "wirkstoffe": "Betahistindihydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
-    "mail": "nicola.bruns@hennig-am.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06064768",
-      "06064774",
-      "06064780"
-    ],
-    "enr": [
-      "2163926"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-04",
-    "datumEnde": "2023-12-12",
-    "datumLetzteMeldung": "2023-11-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Betavert N 16 mg Tabletten",
-    "atcCode": "N07CA01",
-    "wirkstoffe": "Betahistindihydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
-    "mail": "nicola.bruns@hennig-am.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08538058",
-      "08538064",
-      "08538070"
-    ],
-    "enr": [
-      "2125956"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-16",
-    "datumEnde": "2023-12-12",
-    "datumLetzteMeldung": "2023-11-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Betavert 6mg",
-    "atcCode": "N07CA01",
-    "wirkstoffe": "Betahistindimesilat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
-    "mail": "nicola.bruns@hennig-am.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08538087",
-      "08538093",
-      "08538101"
-    ],
-    "enr": [
-      "2125957"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-31",
-    "datumEnde": "2023-12-12",
-    "datumLetzteMeldung": "2023-11-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Betavert 12mg",
-    "atcCode": "N07CA01",
-    "wirkstoffe": "Betahistindimesilat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
-    "mail": "nicola.bruns@hennig-am.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02183737"
     ],
     "enr": [
@@ -6131,33 +6157,6 @@
     "mail": "medical.information@pfizer.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-06-05",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03565553",
-      "03565576",
-      "03565582",
-      "03565599"
-    ],
-    "enr": [
-      "2106948",
-      "2106949"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-10",
-    "datumEnde": "2024-04-30",
-    "datumLetzteMeldung": "2023-10-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Tavor 1,0 mg Expidet",
-    "atcCode": "N05BA06",
-    "wirkstoffe": "Lorazepam",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-07-11",
     "infoFachkreise": "Nein"
   },
   {
