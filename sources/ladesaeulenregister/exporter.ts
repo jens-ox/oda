@@ -1,3 +1,4 @@
+import { writeFile } from 'fs/promises'
 import axios from 'axios'
 import Papa from 'papaparse'
 import type { Ladesaeule, Stecker } from './types'
@@ -18,10 +19,14 @@ const createStecker = (typ: string, kW: string, publicKey: string): Stecker => {
 
 export const LadesaeulenExporter: Exporter = async () => {
   const { data: rawData } = await axios.get(
-    'https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Energie/Unternehmen_Institutionen/E_Mobilitaet/Ladesaeulenregister_CSV.csv?__blob=publicationFile',
+    'https://data.bundesnetzagentur.de/Bundesnetzagentur/SharedDocs/Downloads/DE/Sachgebiete/Energie/Unternehmen_Institutionen/E_Mobilitaet/ladesaeulenregister.csv',
     { insecureHTTPParser: true, responseEncoding: 'latin1' }
   )
-  const data: Array<Ladesaeule> = Papa.parse<Array<string>>(rawData)
+
+  const cleanedData = rawData.split('\n').slice(11, -1).join('\n')
+  await writeFile('./test.csv', cleanedData)
+
+  const data: Array<Ladesaeule> = Papa.parse<Array<string>>(cleanedData)
     .data.map((e) => ({
       betreiber: e[0],
       strasse: e[1],
