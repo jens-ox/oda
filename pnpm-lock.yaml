@@ -38,9 +38,6 @@ dependencies:
   next:
     specifier: 14.0.4
     version: 14.0.4(react-dom@18.2.0)(react@18.2.0)
-  node-poppler:
-    specifier: ^7.1.0
-    version: 7.1.0
   openapi3-ts:
     specifier: ^4.1.2
     version: 4.1.2
@@ -1547,11 +1544,6 @@ packages:
     engines: {node: '>= 6'}
     dev: true
 
-  /camelcase@6.3.0:
-    resolution: {integrity: sha512-Gmy6FhYlCY7uOElZUSbxo2UCDH8owEk996gkbrpsgGtrJLM3J7jGxl9Ic7Qwwj4ivOE5AWZWRMecDdF7hqGjFA==}
-    engines: {node: '>=10'}
-    dev: false
-
   /caniuse-lite@1.0.30001481:
     resolution: {integrity: sha512-KCqHwRnaa1InZBtqXzP98LPg0ajCVujMKjqKDhZEthIpAsJl/YEIa3YvXjGXPVqzZVguccuu7ga9KOE1J9rKPQ==}
     dev: false
@@ -1597,7 +1589,7 @@ packages:
       normalize-path: 3.0.0
       readdirp: 3.6.0
     optionalDependencies:
-      fsevents: 2.3.2
+      fsevents: 2.3.3
     dev: true
 
   /chownr@1.1.4:
@@ -2676,6 +2668,7 @@ packages:
     engines: {node: ^8.16.0 || ^10.6.0 || >=11.0.0}
     os: [darwin]
     requiresBuild: true
+    dev: false
     optional: true
 
   /fsevents@2.3.3:
@@ -2683,7 +2676,6 @@ packages:
     engines: {node: ^8.16.0 || ^10.6.0 || >=11.0.0}
     os: [darwin]
     requiresBuild: true
-    dev: false
     optional: true
 
   /function-bind@1.1.1:
@@ -3543,15 +3535,6 @@ packages:
     dependencies:
       node-domexception: 1.0.0
       web-streams-polyfill: 3.2.1
-    dev: false
-
-  /node-poppler@7.1.0:
-    resolution: {integrity: sha512-VqiikLXq/jCAil1+mss0OaSpn/myZNmBDggF0UPAwgMc8X7pXYrvGHcbEGyzqTkSiAjpEDMDqxx/OmhzD3B2Qw==}
-    engines: {node: '>=18.0.0'}
-    dependencies:
-      camelcase: 6.3.0
-      semver: 7.5.4
-      upath: 2.0.1
     dev: false
 
   /node-releases@2.0.14:
@@ -4987,11 +4970,6 @@ packages:
     dependencies:
       binary: 0.3.0
       mkdirp: 0.5.6
-    dev: false
-
-  /upath@2.0.1:
-    resolution: {integrity: sha512-1uEe95xksV1O0CYKXo8vQvN1JEbtJp7lb7C5U9HMsIp6IVwntkH/oNUzyVNQSd4S1sYk2FpSSW44FqMc8qee5w==}
-    engines: {node: '>=4'}
     dev: false
 
   /update-browserslist-db@1.0.13(browserslist@4.22.2):
