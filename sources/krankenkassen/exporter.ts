@@ -34,12 +34,11 @@ export const KrankenkassenExporter: Exporter = async () => {
     if (next > 0) {
       await page.locator('a.next').first().click()
     } else {
+      console.log(results.length)
       browser.close()
       break
     }
   }
-
-  console.log(results.length)
 
   return [
     {

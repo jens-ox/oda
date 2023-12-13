@@ -24,7 +24,6 @@ export const LadesaeulenExporter: Exporter = async () => {
   )
 
   const cleanedData = rawData.split('\n').slice(11, -1).join('\n')
-  await writeFile('./test.csv', cleanedData)
 
   const data: Array<Ladesaeule> = Papa.parse<Array<string>>(cleanedData)
     .data.map((e) => ({
@@ -55,7 +54,7 @@ export const LadesaeulenExporter: Exporter = async () => {
         ({
           ...removeEmptyFields(e),
           stecker: e.stecker.map((s) => removeEmptyFields(s) as Stecker).filter((s) => Object.keys(s).length > 0)
-        } as Ladesaeule)
+        }) as Ladesaeule
     )
     // filter out stations without actual cables and the header
     .filter((e) => e.stecker.length > 0 && !['Steckertypen1', '1. Ladepunkt'].includes(e.stecker[0].steckertypen))
