@@ -5,8 +5,8 @@ import { exporters } from '@/sources/exporters'
 
 const BASE_DIR = join(__dirname, '../data')
 
-const main = async () =>
-  Promise.all(
+;(async () => {
+  await Promise.all(
     exporters.map(async (s) => {
       try {
         const result = await s.exporter()
@@ -26,5 +26,4 @@ const main = async () =>
       }
     })
   )
-
-main()
+})()

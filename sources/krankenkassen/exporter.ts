@@ -22,7 +22,7 @@ export const KrankenkassenExporter: Exporter = async () => {
   const browser = await playwright.chromium.launch({ headless: typeof process.env.CI !== 'undefined' })
   const page = await browser.newPage()
 
-  await page.goto('https://www.gkv-spitzenverband.de/service/krankenkassenliste/krankenkassen.jsp')
+  await page.goto('https://gkv-spitzenverband.de/service/krankenkassenliste/krankenkassen.jsp')
 
   const results = []
   while (true) {
