@@ -1,71 +1,24 @@
 [
   {
     "pzn": [
-      "11383323"
+      "10116100"
     ],
     "enr": [
-      "2711795"
+      "2188649"
     ],
     "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-20",
-    "datumEnde": "2023-12-20",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Intuniv 4 mg Tablette mit veränderter Wirkstoffreisetzung - OP28",
-    "atcCode": "C02AC02",
-    "wirkstoffe": "Guanfacinhydrochlorid",
+    "datumBeginn": "2023-12-06",
+    "datumEnde": "2024-02-04",
+    "datumLetzteMeldung": "2023-12-14",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Momecutan Lösung",
+    "atcCode": "D07AC13",
+    "wirkstoffe": "Mometasonfuroat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Shire Pharmaceuticals Ireland Limited",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-12-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11383300"
-    ],
-    "enr": [
-      "2711793"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-05",
-    "datumEnde": "2023-12-20",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Intuniv 3 mg Tablette mit veränderter Wirkstoffreisetzung - OP28",
-    "atcCode": "C02AC02",
-    "wirkstoffe": "Guanfacinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Shire Pharmaceuticals Ireland Limited",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-12-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11383257"
-    ],
-    "enr": [
-      "2711789"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-08",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Intuniv 1 mg Tablette mit veränderter Wirkstoffreisetzung - OP28",
-    "atcCode": "C02AC02",
-    "wirkstoffe": "Guanfacinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Shire Pharmaceuticals Ireland Limited",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-12-13",
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-12-14",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2244,7 +2197,7 @@
     "atcCode": "J04AC51",
     "wirkstoffe": "Isoniazid; Pyridoxinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49303384270",
     "mail": "Info.germany@esteve.com",
     "grund": "Erhöhte Nachfrage",
@@ -2269,7 +2222,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin-Natrium",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 30 338427-0",
     "mail": "Info.germany@esteve.com",
     "grund": "Sonstige",
@@ -3015,28 +2968,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-11-29",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02068551"
-    ],
-    "enr": [
-      "2152912"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-19",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-11-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Laif 900",
-    "atcCode": "N06AX25",
-    "wirkstoffe": "Johanniskraut, TE mit Ethanol/Ethanol-Wasser (%-Angaben)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Bayer Vital GmbH",
-    "mail": "medical-information@bayer.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-05-26",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -6615,7 +6546,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -8008,6 +7939,29 @@
   },
   {
     "pzn": [
+      "11383300"
+    ],
+    "enr": [
+      "2711793"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-05",
+    "datumEnde": "2023-12-20",
+    "datumLetzteMeldung": "2023-10-05",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Intuniv 3 mg Tablette mit veränderter Wirkstoffreisetzung - OP28",
+    "atcCode": "C02AC02",
+    "wirkstoffe": "Guanfacinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Shire Pharmaceuticals Ireland Limited",
+    "telefon": "0800 825 332 5",
+    "mail": "medinfoEMEA@takeda.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-10-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "01084648"
     ],
     "enr": [
@@ -8743,6 +8697,29 @@
   },
   {
     "pzn": [
+      "11383323"
+    ],
+    "enr": [
+      "2711795"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-09-20",
+    "datumEnde": "2023-12-20",
+    "datumLetzteMeldung": "2023-09-20",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Intuniv 4 mg Tablette mit veränderter Wirkstoffreisetzung - OP28",
+    "atcCode": "C02AC02",
+    "wirkstoffe": "Guanfacinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Shire Pharmaceuticals Ireland Limited",
+    "telefon": "0800 825 332 5",
+    "mail": "medinfoEMEA@takeda.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-09-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "11304915",
       "11304921"
     ],
@@ -9235,6 +9212,29 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2018-07-10",
     "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "11383257"
+    ],
+    "enr": [
+      "2711789"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-09-08",
+    "datumEnde": "2023-12-15",
+    "datumLetzteMeldung": "2023-08-30",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Intuniv 1 mg Tablette mit veränderter Wirkstoffreisetzung - OP28",
+    "atcCode": "C02AC02",
+    "wirkstoffe": "Guanfacinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Shire Pharmaceuticals Ireland Limited",
+    "telefon": "0800 825 332 5",
+    "mail": "medinfoEMEA@takeda.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-08-30",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -10009,30 +10009,6 @@
   },
   {
     "pzn": [
-      "08705349",
-      "08705355",
-      "08705361"
-    ],
-    "enr": [
-      "2106431"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-09",
-    "datumEnde": "2023-12-27",
-    "datumLetzteMeldung": "2023-08-04",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Corvaton forte 4mg Tabletten",
-    "atcCode": "C01DX12",
-    "wirkstoffe": "Molsidomin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "mail": "tobias.letzel@cheplapharm.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-04",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "17507140"
     ],
     "enr": [
@@ -10161,7 +10137,7 @@
     "atcCode": "H02AB08",
     "wirkstoffe": "Triamcinolonhexacetonid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -10381,7 +10357,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
