@@ -1,6 +1,538 @@
 [
   {
     "pzn": [
+      "08695065"
+    ],
+    "enr": [
+      "2103822"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-31",
+    "datumEnde": "2023-12-28",
+    "datumLetzteMeldung": "2023-12-18",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Somatostatin Lyomark 3 mg",
+    "atcCode": "H01CB01",
+    "wirkstoffe": "Somatostatinacetat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Lyomark Pharma GmbH",
+    "telefon": "089 / 450808780",
+    "mail": "sales@lyomark.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2022-10-10",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "00059855",
+      "00066370",
+      "01267610",
+      "01267768",
+      "01385120",
+      "01385137",
+      "02298392",
+      "05974764"
+    ],
+    "enr": [
+      "0072873"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-10",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2023-12-18",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Inzolen",
+    "atcCode": "A12CX",
+    "wirkstoffe": "Cobalt(II)-hydrogen-DL-aspartat 5 H<2>O; Kaliumhydrogenaspartat-Hemihydrat; Kupfer(II)-hydrogen-DL-aspartat 0.5 H<2>O; Magnesiumbis(hydrogen-DL-aspartat) 4 H<2>O; Mangan(II)-hydrogen-DL-aspartat 2.5 H<2>O; Zinkbis(hydrogen-DL-aspartat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Franz Köhler Chemie Gesellschaft mit beschränkter Haftung",
+    "telefon": "+49 6251 1083 373",
+    "mail": "f.helas@koehler-chemie.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2022-08-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08427264",
+      "08435996",
+      "08436056",
+      "16010176"
+    ],
+    "enr": [
+      "0072844"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-06-13",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2023-12-18",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Inzolen-Infusio E",
+    "atcCode": "A12CX",
+    "wirkstoffe": "Dexpanthenol; Kaliumhydrogen-DL-aspartat; Kupfer(II)-hydrogen-DL-aspartat 0.5 H<2>O; Magnesiumbis(hydrogen-DL-aspartat) 4 H<2>O; Mangan(II)-hydrogen-DL-aspartat 2.5 H<2>O; Natriumchlorid; Xylitol; Zinkbis(hydrogen-DL-aspartat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Franz Köhler Chemie Gesellschaft mit beschränkter Haftung",
+    "telefon": "+49 6251 1083 373",
+    "mail": "f.helas@koehler-chemie.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2022-06-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01289037"
+    ],
+    "enr": [
+      "2142784"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-04",
+    "datumEnde": "2024-01-05",
+    "datumLetzteMeldung": "2023-12-18",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Vasomotal 24 mg",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-18",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00564665",
+      "08636625",
+      "08636631",
+      "12350277"
+    ],
+    "enr": [
+      "2136918"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-01",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2023-12-18",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Metronidazol 400 Heumann",
+    "atcCode": "J01XD01",
+    "wirkstoffe": "Metronidazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-12-18",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05117451"
+    ],
+    "enr": [
+      "2160225"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-25",
+    "datumEnde": "2024-03-13",
+    "datumLetzteMeldung": "2023-12-18",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Risperidon STADA 4mg Filmtabletten",
+    "atcCode": "N05AX08",
+    "wirkstoffe": "Risperidon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "mail": "Minyoung.seo@stadapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-08-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04835351",
+      "07574394"
+    ],
+    "enr": [
+      "0727386"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-09",
+    "datumEnde": "2024-01-08",
+    "datumLetzteMeldung": "2023-12-18",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectomox 750 Saft",
+    "atcCode": "J01CA",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Absätze durch Ausfall der Mitbewerber",
+    "datumErstmeldung": "2022-12-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17198756"
+    ],
+    "enr": [
+      "2204135"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-11",
+    "datumEnde": "2024-02-15",
+    "datumLetzteMeldung": "2023-12-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Flucloxacillin Kabi 2000 mg Pulver zur Herstellung einer Injektions-/Infusionslösung",
+    "atcCode": "J01CF05",
+    "wirkstoffe": "Flucloxacillin-Natrium-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "telefon": "061726867883",
+    "mail": "frank.jethon@fresenius-kabi.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Versorgung ist mit 70 % des Kundenbedarfs bis Mitte Dezember 2023 gewährleistet. Danach besteht ein vollständiger Lieferengpass bis ca. 15.01.2024",
+    "datumErstmeldung": "2023-07-11",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05387825"
+    ],
+    "enr": [
+      "2704305"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-14",
+    "datumEnde": "2024-01-12",
+    "datumLetzteMeldung": "2023-12-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Lantus 100 I.E./ml Injektionslösung in Fertigpen - OP(10x3ml)(SoloStar)",
+    "atcCode": "A10AE04",
+    "wirkstoffe": "Insulin glargin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "0800 52 52 010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Probleme bei der Chargenprüfung",
+    "datumErstmeldung": "2023-12-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04332377",
+      "04332466"
+    ],
+    "enr": [
+      "2160407"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2024-01-12",
+    "datumLetzteMeldung": "2023-12-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clarithromycin - 1 A Pharma 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00658917",
+      "00658946",
+      "00658952"
+    ],
+    "enr": [
+      "2141152"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2024-01-05",
+    "datumLetzteMeldung": "2023-12-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pen 1,5 Mega - 1 A Pharma",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00173881",
+      "00173898",
+      "00173964",
+      "99999999"
+    ],
+    "enr": [
+      "2126067"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2021-04-01",
+    "datumEnde": "2023-12-22",
+    "datumLetzteMeldung": "2023-12-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Budes N 0,2 mg/Dosis",
+    "atcCode": "R03BA02",
+    "wirkstoffe": "Budesonid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "telefon": "0800-4392527",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2021-04-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00658780",
+      "00658797"
+    ],
+    "enr": [
+      "2136012"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-17",
+    "datumEnde": "2023-12-22",
+    "datumLetzteMeldung": "2023-12-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxi 750 - 1 A Pharma",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpass in Kombination mit erhöhter Nachfrage",
+    "datumErstmeldung": "2023-02-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02550242",
+      "02719250"
+    ],
+    "enr": [
+      "2164072"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-24",
+    "datumEnde": "2024-04-12",
+    "datumLetzteMeldung": "2023-12-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefpodoxim - 1 A Pharma 100 mg Filmtabletten",
+    "atcCode": "J01DD13",
+    "wirkstoffe": "Cefpodoximproxetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02855728",
+      "02855734"
+    ],
+    "enr": [
+      "2157982"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2023-12-22",
+    "datumLetzteMeldung": "2023-12-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pen 0,4 Mega TS - 1 A Pharma",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00658834"
+    ],
+    "enr": [
+      "2107213"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-06",
+    "datumEnde": "2024-01-05",
+    "datumLetzteMeldung": "2023-12-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxi 250 TS - 1 A Pharma",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-12-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11383323"
+    ],
+    "enr": [
+      "2711795"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-20",
+    "datumEnde": "2023-12-20",
+    "datumLetzteMeldung": "2023-12-14",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Intuniv 4 mg Tablette mit veränderter Wirkstoffreisetzung - OP28",
+    "atcCode": "C02AC02",
+    "wirkstoffe": "Guanfacinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Shire Pharmaceuticals Ireland Limited",
+    "telefon": "0800 825 332 5",
+    "mail": "medinfoEMEA@takeda.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-09-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04355378",
+      "04355384",
+      "04355390"
+    ],
+    "enr": [
+      "2117505"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-01",
+    "datumEnde": "2024-02-28",
+    "datumLetzteMeldung": "2023-12-14",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Tambocor mite",
+    "atcCode": "C01BC04",
+    "wirkstoffe": "Flecainidacetat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-12-14",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03263987",
+      "03509164"
+    ],
+    "enr": [
+      "2145054"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-21",
+    "datumEnde": "2024-02-15",
+    "datumLetzteMeldung": "2023-12-14",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Metronidazol Artesan-Drossapharm",
+    "atcCode": "J01XD01",
+    "wirkstoffe": "Metronidazol",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Drossapharm Arzneimittel Handelsgesellschaft mbH",
+    "telefon": "07621 1672161",
+    "mail": "info@drossapharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferunfähigkeit aller Mitbewerber.",
+    "datumErstmeldung": "2023-09-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02516788"
+    ],
+    "enr": [
+      "0020971"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-22",
+    "datumEnde": "2024-01-08",
+    "datumLetzteMeldung": "2023-12-14",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ergenyl 300 mg",
+    "atcCode": "N03AG01",
+    "wirkstoffe": "Natriumvalproat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "0800 52 52 010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "Ergenyl 150 mg - Einreichungsnummer: 2100378",
+    "datumErstmeldung": "2023-11-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07722179"
+    ],
+    "enr": [
+      "2134011"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-17",
+    "datumEnde": "2024-02-05",
+    "datumLetzteMeldung": "2023-12-14",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Bronchospray novo",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
+    "telefon": "06252-95 7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04218405",
+      "04218428",
+      "04218440",
+      "14348801"
+    ],
+    "enr": [
+      "2158467"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-19",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2023-12-14",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Dermatin",
+    "atcCode": "D01BA02",
+    "wirkstoffe": "Terbinafinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dr. Pfleger Arzneimittel GmbH - Geschäftsanschrift -",
+    "mail": "regaffairs@dr-pfleger.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "10116100"
     ],
     "enr": [
@@ -1336,29 +1868,6 @@
   },
   {
     "pzn": [
-      "03750291"
-    ],
-    "enr": [
-      "0820714"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-24",
-    "datumEnde": "2023-12-17",
-    "datumLetzteMeldung": "2023-12-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 200 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-11-27",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01831708",
       "03124978"
     ],
@@ -1952,28 +2461,6 @@
   },
   {
     "pzn": [
-      "00544697"
-    ],
-    "enr": [
-      "2134927"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-06",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-12-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoclav forte Trockensaft",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-12-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "06312031"
     ],
     "enr": [
@@ -1987,28 +2474,6 @@
     "bezeichnung": "AmoxiClav 250/62,5 TS - 1 A Pharma",
     "atcCode": "J01CR02",
     "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-12-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00658834"
-    ],
-    "enr": [
-      "2107213"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-06",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-12-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxi 250 TS - 1 A Pharma",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
     "mail": "info@1apharma.com",
@@ -2183,31 +2648,6 @@
   },
   {
     "pzn": [
-      "04810026"
-    ],
-    "enr": [
-      "0192956"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-15",
-    "datumEnde": "2023-12-22",
-    "datumLetzteMeldung": "2023-12-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Isozid comp. 100 mg N",
-    "atcCode": "J04AC51",
-    "wirkstoffe": "Isoniazid; Pyridoxinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
-    "telefon": "+49303384270",
-    "mail": "Info.germany@esteve.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "n.a.",
-    "alternativPraeparat": "Isozid comp. 100 mg N - Einreichungsnummer: 0192956",
-    "datumErstmeldung": "2023-12-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "09505109"
     ],
     "enr": [
@@ -2222,7 +2662,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin-Natrium",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 30 338427-0",
     "mail": "Info.germany@esteve.com",
     "grund": "Sonstige",
@@ -2568,29 +3008,6 @@
   },
   {
     "pzn": [
-      "02855728",
-      "02855734"
-    ],
-    "enr": [
-      "2157982"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-12-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pen 0,4 Mega TS - 1 A Pharma",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "10998086",
       "10998092"
     ],
@@ -2775,30 +3192,6 @@
     "mail": "medical.information@pfizer.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-12-01",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02516788"
-    ],
-    "enr": [
-      "0020971"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-22",
-    "datumEnde": "2023-12-18",
-    "datumLetzteMeldung": "2023-11-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ergenyl 300 mg",
-    "atcCode": "N03AG01",
-    "wirkstoffe": "Natriumvalproat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "0800 52 52 010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Erhöhte Nachfrage",
-    "alternativPraeparat": "Ergenyl 150 mg - Einreichungsnummer: 2100378",
-    "datumErstmeldung": "2023-11-30",
     "infoFachkreise": "Nein"
   },
   {
@@ -3153,29 +3546,6 @@
   },
   {
     "pzn": [
-      "01289037"
-    ],
-    "enr": [
-      "2142784"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-04",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-11-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Vasomotal 24 mg",
-    "atcCode": "N07CA01",
-    "wirkstoffe": "Betahistindihydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-18",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "02192162"
     ],
     "enr": [
@@ -3265,30 +3635,6 @@
     "mail": "info@aliud.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-11-28",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17198756"
-    ],
-    "enr": [
-      "2204135"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-11",
-    "datumEnde": "2024-01-15",
-    "datumLetzteMeldung": "2023-11-27",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Flucloxacillin Kabi 2000 mg Pulver zur Herstellung einer Injektions-/Infusionslösung",
-    "atcCode": "J01CF05",
-    "wirkstoffe": "Flucloxacillin-Natrium-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-    "telefon": "061726867883",
-    "mail": "frank.jethon@fresenius-kabi.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Versorgung ist mit 70 % des Kundenbedarfs bis Mitte Dezember 2023 gewährleistet. Danach besteht ein vollständiger Lieferengpass bis ca. 15.01.2024",
-    "datumErstmeldung": "2023-07-11",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -3889,77 +4235,6 @@
   },
   {
     "pzn": [
-      "07722179",
-      "08872024"
-    ],
-    "enr": [
-      "2134011"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-12",
-    "datumEnde": "2024-02-05",
-    "datumLetzteMeldung": "2023-11-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Bronchospray novo",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
-    "telefon": "06252-95 7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02550242"
-    ],
-    "enr": [
-      "2164072"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-24",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-11-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefpodoxim - 1 A Pharma 100 mg Filmtabletten",
-    "atcCode": "J01DD13",
-    "wirkstoffe": "Cefpodoximproxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00658780",
-      "00658797"
-    ],
-    "enr": [
-      "2136012"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-17",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-11-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxi 750 - 1 A Pharma",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Kapazitätsengpass in Kombination mit erhöhter Nachfrage",
-    "datumErstmeldung": "2023-02-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "17420812"
     ],
     "enr": [
@@ -4130,31 +4405,6 @@
   },
   {
     "pzn": [
-      "04835351",
-      "07574394"
-    ],
-    "enr": [
-      "0727386"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-09",
-    "datumEnde": "2023-12-18",
-    "datumLetzteMeldung": "2023-11-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectomox 750 Saft",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Absätze durch Ausfall der Mitbewerber",
-    "datumErstmeldung": "2022-12-09",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "06648311"
     ],
     "enr": [
@@ -4243,32 +4493,6 @@
     "mail": "shortages@infectopharm.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-06-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00173881",
-      "00173898",
-      "00173964",
-      "99999999"
-    ],
-    "enr": [
-      "2126067"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-04-01",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-11-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Budes N 0,2 mg/Dosis",
-    "atcCode": "R03BA02",
-    "wirkstoffe": "Budesonid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "0800-4392527",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2021-04-19",
     "infoFachkreise": "Nein"
   },
   {
@@ -5312,30 +5536,6 @@
   },
   {
     "pzn": [
-      "00658917",
-      "00658946",
-      "00658952"
-    ],
-    "enr": [
-      "2141152"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-11-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pen 1,5 Mega - 1 A Pharma",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "17412132",
       "17412161"
     ],
@@ -5496,31 +5696,6 @@
   },
   {
     "pzn": [
-      "04218405",
-      "04218428",
-      "04218440",
-      "14348801"
-    ],
-    "enr": [
-      "2158467"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-19",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-11-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Dermatin",
-    "atcCode": "D01BA02",
-    "wirkstoffe": "Terbinafinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dr. Pfleger Arzneimittel GmbH - Geschäftsanschrift -",
-    "mail": "regaffairs@dr-pfleger.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "08725091"
     ],
     "enr": [
@@ -5634,29 +5809,6 @@
     "grundAnmerkung": "erhöhte Nachfrage und Kapazitätsengpässe beim Lieferanten",
     "datumErstmeldung": "2023-10-17",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07669634"
-    ],
-    "enr": [
-      "2135050"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-14",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-11-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fevarin 100mg",
-    "atcCode": "N06AB08",
-    "wirkstoffe": "Fluvoxaminmaleat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-08",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -6029,29 +6181,6 @@
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-30",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04332377",
-      "04332466"
-    ],
-    "enr": [
-      "2160407"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-05",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-11-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clarithromycin - 1 A Pharma 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA09",
-    "wirkstoffe": "Clarithromycin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-04-05",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -6546,36 +6675,12 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
     "grundAnmerkung": "geplanter Wechsel Wirkstoffhersteller aufgrund von Insolvenz",
     "datumErstmeldung": "2023-08-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00546443"
-    ],
-    "enr": [
-      "2702004"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-10-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Protaphane InnoLet 100 I.E./ml Injektionssuspension in Injektor - OP(10x3ml)",
-    "atcCode": "A10AC01",
-    "wirkstoffe": "Isophan-Insulin-Suspension zur Injektion (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Protaphane Penfill 100 I.E./ml Injektionssuspension in Zylinderampulle - OP(10x3ml) - Einreichungsnummer: 2701999",
-    "datumErstmeldung": "2023-10-25",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -6841,29 +6946,6 @@
   },
   {
     "pzn": [
-      "08695065"
-    ],
-    "enr": [
-      "2103822"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-31",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-10-19",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Somatostatin Lyomark 3 mg",
-    "atcCode": "H01CB01",
-    "wirkstoffe": "Somatostatinacetat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Lyomark Pharma GmbH",
-    "telefon": "089 / 450808780",
-    "mail": "sales@lyomark.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-10-10",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
       "11864353"
     ],
     "enr": [
@@ -6997,80 +7079,6 @@
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-18",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00541486"
-    ],
-    "enr": [
-      "2702239"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-18",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-10-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Actraphane 30 InnoLet 100 IE/ml Injektionssuspension in Injektor - OP(10x3ml)",
-    "atcCode": "A10AD01",
-    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung)); Isophan-Insulin-Suspension zur Injektion (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "NA",
-    "alternativPraeparat": "Actraphane 30 Penfill 100 IE/ml Injektionssuspension in Zylinderampulle - OP(10x3ml) - Einreichungsnummer: 2702234",
-    "datumErstmeldung": "2023-10-18",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00539650"
-    ],
-    "enr": [
-      "2702233"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-18",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-10-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Actraphane 30 Penfill 100 IE/ml Injektionssuspension in Zylinderampulle - OP(5x3ml)",
-    "atcCode": "A10AD01",
-    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung)); Isophan-Insulin-Suspension zur Injektion (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "NA",
-    "alternativPraeparat": "Actraphane 30 Penfill 100 IE/ml Injektionssuspension in Zylinderampulle - OP(10x3ml) - Einreichungsnummer: 2702234",
-    "datumErstmeldung": "2023-10-18",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00546360"
-    ],
-    "enr": [
-      "2702003"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-18",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-10-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Protaphane InnoLet 100 I.E./ml Injektionssuspension in Injektor - OP(5x3ml)",
-    "atcCode": "A10AC01",
-    "wirkstoffe": "Isophan-Insulin-Suspension zur Injektion (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Protaphane Penfill 100 I.E./ml Injektionssuspension in Zylinderampulle - OP(10x3ml) - Einreichungsnummer: 2701999",
     "datumErstmeldung": "2023-10-18",
     "infoFachkreise": "Vorgesehen"
   },
@@ -7939,29 +7947,6 @@
   },
   {
     "pzn": [
-      "11383300"
-    ],
-    "enr": [
-      "2711793"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-05",
-    "datumEnde": "2023-12-20",
-    "datumLetzteMeldung": "2023-10-05",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Intuniv 3 mg Tablette mit veränderter Wirkstoffreisetzung - OP28",
-    "atcCode": "C02AC02",
-    "wirkstoffe": "Guanfacinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Shire Pharmaceuticals Ireland Limited",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-10-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01084648"
     ],
     "enr": [
@@ -8507,56 +8492,6 @@
   },
   {
     "pzn": [
-      "06305798",
-      "06305806"
-    ],
-    "enr": [
-      "2155390"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-25",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-09-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ergenyl chrono 300 mg",
-    "atcCode": "N03AG01",
-    "wirkstoffe": "Natriumvalproat; Valproinsäure",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Eingeschränkte Lieferfähigkeit. Alternativen: Valproat Chrono Winthrop® 300mg (PZN 00999110, 00999127) oder wirkstoffgleiche Präparate von Mitbewerbern.",
-    "datumErstmeldung": "2022-11-25",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06305835",
-      "06305841"
-    ],
-    "enr": [
-      "2155391"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-31",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-09-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ergenyl chrono 500 mg",
-    "atcCode": "N03AG01",
-    "wirkstoffe": "Natriumvalproat; Valproinsäure",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Mögliche Alternativen: Valproat Chrono Winthrop 500mg (PZN 00999156, 00999162) oder wirkstoffgleiche Präparate von Mitbewerbern.",
-    "datumErstmeldung": "2023-08-31",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00585012"
     ],
     "enr": [
@@ -8669,54 +8604,6 @@
     "alternativPraeparat": "AmoxClav HEXAL i. v. 500/100 mg Pulver zur Herstellung einer Injektions- oder Infusionslösung - Einreichungsnummer: 2161443",
     "datumErstmeldung": "2023-09-22",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "03263987",
-      "03509164"
-    ],
-    "enr": [
-      "2145054"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-21",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-09-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Metronidazol Artesan-Drossapharm",
-    "atcCode": "J01XD01",
-    "wirkstoffe": "Metronidazol",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Drossapharm Arzneimittel Handelsgesellschaft mbH",
-    "telefon": "07621 1672161",
-    "mail": "info@drossapharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferunfähigkeit aller Mitbewerber.",
-    "datumErstmeldung": "2023-09-21",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11383323"
-    ],
-    "enr": [
-      "2711795"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-20",
-    "datumEnde": "2023-12-20",
-    "datumLetzteMeldung": "2023-09-20",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Intuniv 4 mg Tablette mit veränderter Wirkstoffreisetzung - OP28",
-    "atcCode": "C02AC02",
-    "wirkstoffe": "Guanfacinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Shire Pharmaceuticals Ireland Limited",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-09-20",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -9215,29 +9102,6 @@
   },
   {
     "pzn": [
-      "11383257"
-    ],
-    "enr": [
-      "2711789"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-08",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-08-30",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Intuniv 1 mg Tablette mit veränderter Wirkstoffreisetzung - OP28",
-    "atcCode": "C02AC02",
-    "wirkstoffe": "Guanfacinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Shire Pharmaceuticals Ireland Limited",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-30",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "18009970"
     ],
     "enr": [
@@ -9536,30 +9400,6 @@
     "mail": "a.kredba@aliud.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-05-31",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00541463"
-    ],
-    "enr": [
-      "2702238"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-23",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-08-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Actraphane 30 InnoLet 100 IE/ml Injektionssuspension in Injektor - OP(5x3ml)",
-    "atcCode": "A10AD01",
-    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung)); Isophan-Insulin-Suspension zur Injektion (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Actraphane 30 InnoLet 100 IE/ml Injektionssuspension in Injektor - OP(10x3ml) - Einreichungsnummer: 2702239",
-    "datumErstmeldung": "2023-08-23",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -10031,28 +9871,6 @@
   },
   {
     "pzn": [
-      "05117451"
-    ],
-    "enr": [
-      "2160225"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-25",
-    "datumEnde": "2023-12-08",
-    "datumLetzteMeldung": "2023-08-04",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Risperidon STADA 4mg Filmtabletten",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "Minyoung.seo@stadapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "11259155",
       "11259161",
       "11259178"
@@ -10137,7 +9955,7 @@
     "atcCode": "H02AB08",
     "wirkstoffe": "Triamcinolonhexacetonid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -10168,29 +9986,6 @@
     "grund": "Probleme beim Sonstigen Hersteller",
     "alternativPraeparat": "Linezolid Ascend 600 mg Filmtabletten - Einreichungsnummer: 2199427",
     "datumErstmeldung": "2023-07-31",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16155472"
-    ],
-    "enr": [
-      "2716086"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-20",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-07-28",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Xarelto 1 mg/ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "B01AF01",
-    "wirkstoffe": "Rivaroxaban",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bayer Aktiengesellschaft - Geschäftsanschrift -",
-    "telefon": "0800 6422937",
-    "mail": "medical-information@bayer.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-04-21",
     "infoFachkreise": "Nein"
   },
   {
@@ -10357,7 +10152,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -10406,54 +10201,6 @@
     "mail": "service@hexal.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-05-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00546555"
-    ],
-    "enr": [
-      "2702006"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-13",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-07-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Protaphane FlexPen 100 I.E./ml Injektionssuspension in Injektor - OP(5x3ml)",
-    "atcCode": "A10AC01",
-    "wirkstoffe": "Isophan-Insulin-Suspension zur Injektion (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Protaphane FlexPen 100 I.E./ml Injektionssuspension in Injektor - OP(10x3ml) - Einreichungsnummer: 2702007",
-    "datumErstmeldung": "2023-07-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00536692"
-    ],
-    "enr": [
-      "2701926"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-13",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-07-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Actrapid InnoLet 100 I.E./ml Injektionslösung in Injektor - OP(5x3ml)",
-    "atcCode": "A10AB01",
-    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung))",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Actrapid InnoLet 100 I.E./ml Injektionslösung in Injektor- OP(10x3ml) - Einreichungsnummer: 2701927",
-    "datumErstmeldung": "2023-07-13",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -10547,78 +10294,6 @@
     "telefon": "+49 (0)731 402 - 02",
     "grund": "Herstellerwechsel",
     "datumErstmeldung": "2022-06-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00542356"
-    ],
-    "enr": [
-      "2702253"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-05",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-07-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Actraphane 50 Penfill 100 IE/ml Injektionssuspension in Zylinderampulle - OP(5x3ml)",
-    "atcCode": "A10AD01",
-    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung)); Isophan-Insulin-Suspension zur Injektion (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Actraphane 50 Penfill 100 IE/ml Injektionssuspension in Zylinderampulle - OP(10x3ml) - Einreichungsnummer: 2702254",
-    "datumErstmeldung": "2023-07-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00541581"
-    ],
-    "enr": [
-      "2702241"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-05",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-07-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Actraphane 30 FlexPen 100 IE/ml Injektionssuspension in Injektor - OP(5x3ml)",
-    "atcCode": "A10AD01",
-    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung)); Isophan-Insulin-Suspension zur Injektion (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Actraphane 30 FlexPen 100 IE/ml Injektionssuspension in Injektor - OP(10x3ml) - Einreichungsnummer: 2702242",
-    "datumErstmeldung": "2023-07-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00536752"
-    ],
-    "enr": [
-      "2701929"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-05",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-07-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Actrapid FlexPen 100 I.E./ml Injektionslösung in Injektor - OP(5x3ml)",
-    "atcCode": "A10AB01",
-    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung))",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Actrapid FlexPen 100 I.E./ml Injektionslösung in Injektor - OP(10x3ml) - Einreichungsnummer: 2701930",
-    "datumErstmeldung": "2023-07-05",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -10839,62 +10514,6 @@
   },
   {
     "pzn": [
-      "08427264",
-      "08435996",
-      "08436056",
-      "16010176"
-    ],
-    "enr": [
-      "0072844"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-06-13",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-06-12",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Inzolen-Infusio E",
-    "atcCode": "A12CX",
-    "wirkstoffe": "Dexpanthenol; Kaliumhydrogen-DL-aspartat; Kupfer(II)-hydrogen-DL-aspartat 0.5 H<2>O; Magnesiumbis(hydrogen-DL-aspartat) 4 H<2>O; Mangan(II)-hydrogen-DL-aspartat 2.5 H<2>O; Natriumchlorid; Xylitol; Zinkbis(hydrogen-DL-aspartat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Franz Köhler Chemie Gesellschaft mit beschränkter Haftung",
-    "telefon": "+49 6251 1083 373",
-    "mail": "f.helas@koehler-chemie.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-06-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00059855",
-      "00066370",
-      "01267610",
-      "01267768",
-      "01385120",
-      "01385137",
-      "02298392",
-      "05974764"
-    ],
-    "enr": [
-      "0072873"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-10",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-06-12",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Inzolen",
-    "atcCode": "A12CX",
-    "wirkstoffe": "Cobalt(II)-hydrogen-DL-aspartat 5 H<2>O; Kaliumhydrogenaspartat-Hemihydrat; Kupfer(II)-hydrogen-DL-aspartat 0.5 H<2>O; Magnesiumbis(hydrogen-DL-aspartat) 4 H<2>O; Mangan(II)-hydrogen-DL-aspartat 2.5 H<2>O; Zinkbis(hydrogen-DL-aspartat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Franz Köhler Chemie Gesellschaft mit beschränkter Haftung",
-    "telefon": "+49 6251 1083 373",
-    "mail": "f.helas@koehler-chemie.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-08-09",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01140720"
     ],
     "enr": [
@@ -10940,29 +10559,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2022-11-18",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16155489"
-    ],
-    "enr": [
-      "2716087"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-14",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-05-12",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Xarelto 1 mg/ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "B01AF01",
-    "wirkstoffe": "Rivaroxaban",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bayer Aktiengesellschaft - Geschäftsanschrift -",
-    "telefon": "0800 6422937",
-    "mail": "medical-information@bayer.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-02-01",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
