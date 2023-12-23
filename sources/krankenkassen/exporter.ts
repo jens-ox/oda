@@ -1,7 +1,8 @@
-import playwright from 'playwright'
+import { Page } from 'playwright'
 import { Exporter } from '@/types'
+import { getBrowser } from '@/utils/playwright'
 
-const extractPage = async (page: playwright.Page) => {
+const extractPage = async (page: Page) => {
   const rows = await page.locator('tbody > tr').all()
   return Promise.all(
     rows.map(async (r) => {
@@ -19,7 +20,7 @@ const extractPage = async (page: playwright.Page) => {
 }
 
 export const KrankenkassenExporter: Exporter = async () => {
-  const browser = await playwright.chromium.launch({ headless: typeof process.env.CI !== 'undefined' })
+  const browser = await getBrowser()
   const page = await browser.newPage()
 
   await page.goto('https://gkv-spitzenverband.de/service/krankenkassenliste/krankenkassen.jsp')

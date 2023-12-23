@@ -1,10 +1,10 @@
 import { Readable } from 'stream'
-import playwright from 'playwright'
 import unzip from 'unzip-stream'
 import { parseLine } from './parseLine'
 import { EntryType, Result } from './types'
 import streamToString from '@/utils/streamToString'
 import { Exporter } from '@/types'
+import { getBrowser } from '@/utils/playwright'
 
 const parseDownloadStream = async (downloadStream: Readable): Promise<string> =>
   new Promise((resolve) => {
@@ -34,7 +34,7 @@ const parseRawDownload = (content: string) =>
     }, {} as Result)
 
 export const GVExporter: Exporter = async () => {
-  const browser = await playwright.chromium.launch({ headless: typeof process.env.CI !== 'undefined' })
+  const browser = await getBrowser()
   const page = await browser.newPage()
 
   await page.goto('https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html')

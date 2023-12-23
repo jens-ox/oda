@@ -1,14 +1,14 @@
 import Papa from 'papaparse'
-import playwright from 'playwright'
 import { bfgObjectSchema } from './schema'
 import { parseOptionalString, parseStringArray } from '@/utils/format'
 import { germanDateToString } from '@/utils/germanDateToString'
 import streamToString from '@/utils/streamToString'
 import { validate } from '@/utils/validate'
 import { Exporter } from '@/types'
+import { getBrowser } from '@/utils/playwright'
 
 export const ArzneiEngpassExporter: Exporter = async () => {
-  const browser = await playwright.chromium.launch({ headless: typeof process.env.CI !== 'undefined' })
+  const browser = await getBrowser()
   const page = await browser.newPage()
 
   await page.goto('https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml')
