@@ -23,7 +23,9 @@ export const KrankenkassenExporter: Exporter = async () => {
   const browser = await getBrowser()
   const page = await browser.newPage()
 
-  await page.goto('https://gkv-spitzenverband.de/service/krankenkassenliste/krankenkassen.jsp')
+  await page.goto('https://gkv-spitzenverband.de/service/krankenkassenliste/krankenkassen.jsp', {
+    waitUntil: 'domcontentloaded'
+  })
 
   const results = []
   while (true) {
