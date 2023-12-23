@@ -40,6 +40,7 @@ export const ArzneiEngpassExporter: Exporter = async () => {
   await browser.close()
 
   // parse downloaded CSV
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any -- no need to check this
   const parsedCsv = Papa.parse<any>(data, { header: true }).data
 
   const cleanedData = parsedCsv.map((e) => ({
