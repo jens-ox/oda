@@ -1,6 +1,31 @@
 [
   {
     "pzn": [
+      "00111981",
+      "05368673"
+    ],
+    "enr": [
+      "2700404",
+      "2708571"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-11",
+    "datumEnde": "2024-03-18",
+    "datumLetzteMeldung": "2023-12-28",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Aldara 5% Creme",
+    "atcCode": "D06BB10",
+    "wirkstoffe": "Imiquimod",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare Limited",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2023-12-28",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "04833375"
     ],
     "enr": [
@@ -1437,29 +1462,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2021-02-25",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08695065"
-    ],
-    "enr": [
-      "2103822"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-31",
-    "datumEnde": "2023-12-28",
-    "datumLetzteMeldung": "2023-12-18",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Somatostatin Lyomark 3 mg",
-    "atcCode": "H01CB01",
-    "wirkstoffe": "Somatostatinacetat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Lyomark Pharma GmbH",
-    "telefon": "089 / 450808780",
-    "mail": "sales@lyomark.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-10-10",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
