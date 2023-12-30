@@ -1,6 +1,755 @@
 [
   {
     "pzn": [
+      "11510939",
+      "11510951"
+    ],
+    "enr": [
+      "2191240"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-19",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Urapidil Stragen 30 mg retardierte Hartkapseln",
+    "atcCode": "C02CA06",
+    "wirkstoffe": "Urapidil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Stragen Pharma GmbH - Zweigniederlassung Hilden -",
+    "telefon": "021038809700",
+    "mail": "info@stragen-pharma.de",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2022-12-16",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11510980",
+      "11511011"
+    ],
+    "enr": [
+      "2191241"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-19",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Urapidil Stragen 60 mg retardierte Hartkapseln",
+    "atcCode": "C02CA06",
+    "wirkstoffe": "Urapidil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Stragen Pharma GmbH - Zweigniederlassung Hilden -",
+    "telefon": "021038809700",
+    "mail": "info@stragen-pharma.de",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2022-12-16",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11511040",
+      "11511063"
+    ],
+    "enr": [
+      "2191242"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-19",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Urapidil Stragen 90 mg retardierte Hartkapseln",
+    "atcCode": "C02CA06",
+    "wirkstoffe": "Urapidil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Stragen Pharma GmbH - Zweigniederlassung Hilden -",
+    "telefon": "021038809700",
+    "mail": "info@stragen-pharma.de",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2022-12-16",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01098455"
+    ],
+    "enr": [
+      "2149598"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-14",
+    "datumEnde": "2024-01-15",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxygesic 80 mg",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-02-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04668769",
+      "04668775",
+      "04668835",
+      "04668841",
+      "04668858",
+      "06587176"
+    ],
+    "enr": [
+      "2670218",
+      "2670219",
+      "2670220",
+      "2670221",
+      "2670222",
+      "2670735"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-01",
+    "datumEnde": "2024-01-15",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Kiovig",
+    "atcCode": "J06BA02",
+    "wirkstoffe": "Immunglobulin G vom Menschen",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Takeda Manufacturing Austria AG",
+    "telefon": "0800 825 332 5",
+    "mail": "medinfoEMEA@takeda.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-07-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10003258",
+      "10003264",
+      "10003270",
+      "10003287",
+      "10003293"
+    ],
+    "enr": [
+      "2671295",
+      "2671296",
+      "2671297",
+      "2671298",
+      "2671299"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-01",
+    "datumEnde": "2024-01-15",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "HyQvia",
+    "atcCode": "J06BA",
+    "wirkstoffe": "Immunglobulin G vom Menschen",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Baxalta Innovations GmbH",
+    "telefon": "0800 825 332 5",
+    "mail": "medinfoEMEA@takeda.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-07-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12571914",
+      "12571920",
+      "12571937",
+      "12571943",
+      "16023486",
+      "16023492",
+      "16023500",
+      "16023523",
+      "16023569",
+      "16358264",
+      "16358293",
+      "16604065"
+    ],
+    "enr": [
+      "2613604"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-01",
+    "datumEnde": "2024-01-15",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cuvitru 200 mg/ml Injektionslösung",
+    "atcCode": "J06BA01",
+    "wirkstoffe": "Immunglobulin G vom Menschen",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Takeda GmbH",
+    "telefon": "0800 825 332 5",
+    "mail": "medinfoEMEA@takeda.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-07-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05395730"
+    ],
+    "enr": [
+      "2164819"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-07",
+    "datumEnde": "2024-02-19",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Topiramat-Hormosan 25 mg Filmtabletten",
+    "atcCode": "N03AX11",
+    "wirkstoffe": "Topiramat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-12-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "13420850",
+      "13420867"
+    ],
+    "enr": [
+      "2196985"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-16",
+    "datumEnde": "2024-04-30",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil Hormosan 200 mg/245 mg Filmtabletten",
+    "atcCode": "J05AR03",
+    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilphosphat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-10-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11538116",
+      "11538122",
+      "11538139"
+    ],
+    "enr": [
+      "2176826"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon HCl Hormosan 8 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "erhöhte Nachfrage und Kapazitätsengpässe beim Lieferanten",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00113744"
+    ],
+    "enr": [
+      "2139961"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-18",
+    "datumEnde": "2024-04-18",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefaclor 125 TS - 1 A Pharma",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04392020"
+    ],
+    "enr": [
+      "2702872"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-12",
+    "datumEnde": "2024-02-05",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Aclasta 5 mg Infusionslösung - OP(1x100ml)",
+    "atcCode": "M05BA08",
+    "wirkstoffe": "Zoledronsäure-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Sandoz Pharmaceuticals d.d.",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-09-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02421964",
+      "02421970",
+      "02421987"
+    ],
+    "enr": [
+      "2144586"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-15",
+    "datumEnde": "2024-01-15",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Nimodipin Hexal 30mg",
+    "atcCode": "C08CA06",
+    "wirkstoffe": "Nimodipin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06963076",
+      "06963082"
+    ],
+    "enr": [
+      "0063302"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-04",
+    "datumEnde": "2024-05-10",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clindahexal 150",
+    "atcCode": "J01FF01",
+    "wirkstoffe": "Clindamycinhydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-18",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06963030",
+      "06963047",
+      "06963053"
+    ],
+    "enr": [
+      "2132127"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-23",
+    "datumEnde": "2024-05-06",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ClindaHEXAL 300 mg",
+    "atcCode": "J01FF01",
+    "wirkstoffe": "Clindamycinhydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-18",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03417829"
+    ],
+    "enr": [
+      "2139399"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-18",
+    "datumEnde": "2024-05-06",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clindamycin 300 - 1 A Pharma",
+    "atcCode": "J01FF01",
+    "wirkstoffe": "Clindamycinhydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-18",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02727858",
+      "03005021",
+      "07385428"
+    ],
+    "enr": [
+      "2164074"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-15",
+    "datumEnde": "2024-01-12",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefpodoxim - 1 A Pharma 40 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01DD13",
+    "wirkstoffe": "Cefpodoximproxetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-12-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04954073",
+      "04954096"
+    ],
+    "enr": [
+      "2153289"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-30",
+    "datumEnde": "2024-02-02",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cipro-1 A Pharma 750 mg",
+    "atcCode": "J01MA02",
+    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-30",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01345847",
+      "01345853"
+    ],
+    "enr": [
+      "2153283"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-23",
+    "datumEnde": "2024-02-02",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ciprohexal 750 mg",
+    "atcCode": "J01MA02",
+    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00294929",
+      "01345824",
+      "01345830"
+    ],
+    "enr": [
+      "2153282"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-23",
+    "datumEnde": "2024-02-02",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ciprohexal 500 mg",
+    "atcCode": "J01MA02",
+    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00241270",
+      "01345801"
+    ],
+    "enr": [
+      "2153281"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-23",
+    "datumEnde": "2024-02-23",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ciprohexal 250 mg",
+    "atcCode": "J01MA02",
+    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17412089"
+    ],
+    "enr": [
+      "2192413"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-02",
+    "datumEnde": "2024-03-01",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Rosuvastatin - 1 A Pharma 10 mg Filmtabletten",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-26",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01822916"
+    ],
+    "enr": [
+      "2140254"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2024-02-12",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fluoxetin HEXAL 10 mg Tabletten",
+    "atcCode": "N06AB03",
+    "wirkstoffe": "Fluoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00658863",
+      "00658886"
+    ],
+    "enr": [
+      "2141151"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pen Mega - 1 A Pharma",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00672662",
+      "00679115",
+      "02100125"
+    ],
+    "enr": [
+      "2169677"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-29",
+    "datumEnde": "2024-01-10",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Alprazolam - 1 A Pharma 0,5 mg Tabletten",
+    "atcCode": "N05BA12",
+    "wirkstoffe": "Alprazolam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-07-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06190384",
+      "08412038"
+    ],
+    "enr": [
+      "2141147"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2024-03-08",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "PenHEXAL 1,0 Mega",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01801481",
+      "03126575",
+      "03126581"
+    ],
+    "enr": [
+      "2103604"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-24",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxihexal 1000",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00350349",
+      "00460888"
+    ],
+    "enr": [
+      "2158919"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-06",
+    "datumEnde": "2024-01-19",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "AmoxiClav 400/57 TS-1A Pharma",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "telefon": "089/61388250",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-09-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02855728",
+      "02855734"
+    ],
+    "enr": [
+      "2157982"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2024-01-05",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pen 0,4 Mega TS - 1 A Pharma",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04833375"
+    ],
+    "enr": [
+      "2140465"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-31",
+    "datumEnde": "2024-01-12",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fluoxetin HEXAL 20 mg Tabletten",
+    "atcCode": "N06AB03",
+    "wirkstoffe": "Fluoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-10-01",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00658780"
+    ],
+    "enr": [
+      "2136012"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-17",
+    "datumEnde": "2024-01-05",
+    "datumLetzteMeldung": "2023-12-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxi 750 - 1 A Pharma",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpass in Kombination mit erhöhter Nachfrage",
+    "datumErstmeldung": "2023-02-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "00111981",
       "05368673"
     ],
@@ -23,28 +772,6 @@
     "grund": "Probleme beim Sonstigen Hersteller",
     "datumErstmeldung": "2023-12-28",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04833375"
-    ],
-    "enr": [
-      "2140465"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-31",
-    "datumEnde": "2023-12-20",
-    "datumLetzteMeldung": "2023-12-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fluoxetin HEXAL 20 mg Tabletten",
-    "atcCode": "N06AB03",
-    "wirkstoffe": "Fluoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-10-01",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -531,7 +1258,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin-Natrium",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 30 338427-0",
     "mail": "Info.germany@esteve.com",
     "grund": "Sonstige",
@@ -1685,30 +2412,6 @@
   },
   {
     "pzn": [
-      "00658780",
-      "00658797"
-    ],
-    "enr": [
-      "2136012"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-17",
-    "datumEnde": "2023-12-22",
-    "datumLetzteMeldung": "2023-12-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxi 750 - 1 A Pharma",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Kapazitätsengpass in Kombination mit erhöhter Nachfrage",
-    "datumErstmeldung": "2023-02-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02550242",
       "02719250"
     ],
@@ -1728,29 +2431,6 @@
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02855728",
-      "02855734"
-    ],
-    "enr": [
-      "2157982"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2023-12-22",
-    "datumLetzteMeldung": "2023-12-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pen 0,4 Mega TS - 1 A Pharma",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2796,51 +3476,6 @@
   },
   {
     "pzn": [
-      "07553328"
-    ],
-    "enr": [
-      "2107552"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-12-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "MCP Hexal 10",
-    "atcCode": "A03FA01",
-    "wirkstoffe": "Metoclopramidhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-05-25",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00241270",
-      "01345801"
-    ],
-    "enr": [
-      "2153281"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-23",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-12-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ciprohexal 250 mg",
-    "atcCode": "J01MA02",
-    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01345764"
     ],
     "enr": [
@@ -3405,29 +4040,6 @@
   },
   {
     "pzn": [
-      "05395730"
-    ],
-    "enr": [
-      "2164819"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-07",
-    "datumEnde": "2024-04-25",
-    "datumLetzteMeldung": "2023-12-07",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Topiramat-Hormosan 25 mg Filmtabletten",
-    "atcCode": "N03AX11",
-    "wirkstoffe": "Topiramat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-12-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04232138",
       "04232144",
       "04232167"
@@ -3685,30 +4297,6 @@
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-12-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "13420850",
-      "13420867"
-    ],
-    "enr": [
-      "2196985"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-16",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2023-12-06",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil Hormosan 200 mg/245 mg Filmtabletten",
-    "atcCode": "J05AR03",
-    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilphosphat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-10-27",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -4073,54 +4661,6 @@
   },
   {
     "pzn": [
-      "00350349",
-      "00460888"
-    ],
-    "enr": [
-      "2158919"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-06",
-    "datumEnde": "2023-12-22",
-    "datumLetzteMeldung": "2023-12-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "AmoxiClav 400/57 TS-1A Pharma",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "089/61388250",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-09-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00294929",
-      "01345824",
-      "01345830"
-    ],
-    "enr": [
-      "2153282"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-23",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-12-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ciprohexal 500 mg",
-    "atcCode": "J01MA02",
-    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "10998086",
       "10998092"
     ],
@@ -4162,30 +4702,6 @@
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-06-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01801481",
-      "03126575",
-      "03126581"
-    ],
-    "enr": [
-      "2103604"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-24",
-    "datumEnde": "2023-12-22",
-    "datumLetzteMeldung": "2023-12-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxihexal 1000",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-24",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5441,28 +5957,6 @@
   },
   {
     "pzn": [
-      "00113744"
-    ],
-    "enr": [
-      "2139961"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-18",
-    "datumEnde": "2023-12-18",
-    "datumLetzteMeldung": "2023-11-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefaclor 125 TS - 1 A Pharma",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01658374",
       "03124961"
     ],
@@ -6475,32 +6969,6 @@
   },
   {
     "pzn": [
-      "11538116",
-      "11538122",
-      "11538139"
-    ],
-    "enr": [
-      "2176826"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2023-11-09",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon HCl Hormosan 8 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "erhöhte Nachfrage und Kapazitätsengpässe beim Lieferanten",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "10762811"
     ],
     "enr": [
@@ -6620,30 +7088,6 @@
   },
   {
     "pzn": [
-      "06190384",
-      "08412038",
-      "08412044"
-    ],
-    "enr": [
-      "2141147"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2023-12-22",
-    "datumLetzteMeldung": "2023-11-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "PenHEXAL 1,0 Mega",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "10980011"
     ],
     "enr": [
@@ -6664,29 +7108,6 @@
     "alternativPraeparat": "L-Polaflux 5 mg/ml Lösung zum Einnehmen - Einreichungsnummer: 2197530",
     "datumErstmeldung": "2023-09-08",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "01345847",
-      "01345853"
-    ],
-    "enr": [
-      "2153283"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-23",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-11-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ciprohexal 750 mg",
-    "atcCode": "J01MA02",
-    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-23",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -6783,30 +7204,6 @@
   },
   {
     "pzn": [
-      "00672662",
-      "00679115",
-      "02100125"
-    ],
-    "enr": [
-      "2169677"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-29",
-    "datumEnde": "2023-12-22",
-    "datumLetzteMeldung": "2023-11-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Alprazolam - 1 A Pharma 0,5 mg Tabletten",
-    "atcCode": "N05BA12",
-    "wirkstoffe": "Alprazolam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-07-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04834334"
     ],
     "enr": [
@@ -6825,75 +7222,6 @@
     "mail": "info@1apharma.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04954073",
-      "04954096"
-    ],
-    "enr": [
-      "2153289"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-30",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-11-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cipro-1 A Pharma 750 mg",
-    "atcCode": "J01MA02",
-    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-30",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00658863",
-      "00658886",
-      "00658923"
-    ],
-    "enr": [
-      "2141151"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2023-12-22",
-    "datumLetzteMeldung": "2023-11-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pen Mega - 1 A Pharma",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07385428"
-    ],
-    "enr": [
-      "2164074"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-15",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-11-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefpodoxim - 1 A Pharma 40 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DD13",
-    "wirkstoffe": "Cefpodoximproxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-12-15",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -7162,28 +7490,6 @@
   },
   {
     "pzn": [
-      "01098455"
-    ],
-    "enr": [
-      "2149598"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-14",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-10-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxygesic 80 mg",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-02-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04958214",
       "04958220"
     ],
@@ -7254,7 +7560,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -7523,76 +7829,6 @@
   },
   {
     "pzn": [
-      "03417829",
-      "03417858"
-    ],
-    "enr": [
-      "2139399"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-18",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-10-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clindamycin 300 - 1 A Pharma",
-    "atcCode": "J01FF01",
-    "wirkstoffe": "Clindamycinhydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-18",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06963030",
-      "06963047",
-      "06963053"
-    ],
-    "enr": [
-      "2132127"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-23",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-10-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ClindaHEXAL 300 mg",
-    "atcCode": "J01FF01",
-    "wirkstoffe": "Clindamycinhydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-18",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06963076",
-      "06963082"
-    ],
-    "enr": [
-      "0063302"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-04",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-10-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clindahexal 150",
-    "atcCode": "J01FF01",
-    "wirkstoffe": "Clindamycinhydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-18",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "11865312",
       "11865329",
       "11865335"
@@ -7827,29 +8063,6 @@
     "grundAnmerkung": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-08-14",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17412089",
-      "17412103"
-    ],
-    "enr": [
-      "2192413"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-02",
-    "datumEnde": "2023-12-29",
-    "datumLetzteMeldung": "2023-10-16",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Rosuvastatin - 1 A Pharma 10 mg Filmtabletten",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-06-26",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -8477,104 +8690,6 @@
   },
   {
     "pzn": [
-      "04668769",
-      "04668775",
-      "04668835",
-      "04668841",
-      "04668858",
-      "06587176"
-    ],
-    "enr": [
-      "2670218",
-      "2670219",
-      "2670220",
-      "2670221",
-      "2670222",
-      "2670735"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-09-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Kiovig",
-    "atcCode": "J06BA02",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda Manufacturing Austria AG",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-07-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "10003258",
-      "10003264",
-      "10003270",
-      "10003287",
-      "10003293"
-    ],
-    "enr": [
-      "2671295",
-      "2671296",
-      "2671297",
-      "2671298",
-      "2671299"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-09-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "HyQvia",
-    "atcCode": "J06BA",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Baxalta Innovations GmbH",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-07-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12571914",
-      "12571920",
-      "12571937",
-      "12571943",
-      "16023486",
-      "16023492",
-      "16023500",
-      "16023523",
-      "16023569",
-      "16358264",
-      "16358293",
-      "16604065"
-    ],
-    "enr": [
-      "2613604"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-09-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cuvitru 200 mg/ml Injektionslösung",
-    "atcCode": "J06BA01",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda GmbH",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-07-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01140430"
     ],
     "enr": [
@@ -8741,30 +8856,6 @@
   },
   {
     "pzn": [
-      "02421964",
-      "02421970",
-      "02421987"
-    ],
-    "enr": [
-      "2144586"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-15",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-09-22",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Nimodipin Hexal 30mg",
-    "atcCode": "C08CA06",
-    "wirkstoffe": "Nimodipin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "12671998"
     ],
     "enr": [
@@ -8811,28 +8902,6 @@
   },
   {
     "pzn": [
-      "04392020"
-    ],
-    "enr": [
-      "2702872"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-12",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-09-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Aclasta 5 mg Infusionslösung - OP(1x100ml)",
-    "atcCode": "M05BA08",
-    "wirkstoffe": "Zoledronsäure-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Sandoz Pharmaceuticals d.d.",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-09-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08670556"
     ],
     "enr": [
@@ -8854,28 +8923,6 @@
     "grundAnmerkung": "Produkt wird kontigentiert abgegeben, um möglichst breite Verteilung im Markt sicher zustellen.",
     "datumErstmeldung": "2023-03-15",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "12828945"
-    ],
-    "enr": [
-      "2184966"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-03",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-09-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Zole - 1 A Pharma 5 mg/100 ml Infusionslösung",
-    "atcCode": "M05BA08",
-    "wirkstoffe": "Zoledronsäure-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-09-19",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -9603,28 +9650,6 @@
   },
   {
     "pzn": [
-      "01822916"
-    ],
-    "enr": [
-      "2140254"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-05",
-    "datumEnde": "2023-12-28",
-    "datumLetzteMeldung": "2023-08-14",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fluoxetin HEXAL 10 mg Tabletten",
-    "atcCode": "N06AB03",
-    "wirkstoffe": "Fluoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01138002"
     ],
     "enr": [
@@ -10015,7 +10040,7 @@
     "atcCode": "H02AB08",
     "wirkstoffe": "Triamcinolonhexacetonid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -10212,7 +10237,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -10836,29 +10861,6 @@
   },
   {
     "pzn": [
-      "00113721",
-      "00113738"
-    ],
-    "enr": [
-      "2134964"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-04-03",
-    "datumEnde": "2023-12-30",
-    "datumLetzteMeldung": "2023-04-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefaclor 500 - 1 A Pharma",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-04-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02245645"
     ],
     "enr": [
@@ -11026,78 +11028,6 @@
   },
   {
     "pzn": [
-      "11511040",
-      "11511063"
-    ],
-    "enr": [
-      "2191242"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-19",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-01-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Urapidil Stragen 90 mg retardierte Hartkapseln",
-    "atcCode": "C02CA06",
-    "wirkstoffe": "Urapidil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Stragen Pharma GmbH - Zweigniederlassung Hilden -",
-    "telefon": "021038809700",
-    "mail": "info@stragen-pharma.de",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2022-12-16",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11510980",
-      "11511011"
-    ],
-    "enr": [
-      "2191241"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-19",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-01-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Urapidil Stragen 60 mg retardierte Hartkapseln",
-    "atcCode": "C02CA06",
-    "wirkstoffe": "Urapidil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Stragen Pharma GmbH - Zweigniederlassung Hilden -",
-    "telefon": "021038809700",
-    "mail": "info@stragen-pharma.de",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2022-12-16",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11510939",
-      "11510951"
-    ],
-    "enr": [
-      "2191240"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-19",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-01-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Urapidil Stragen 30 mg retardierte Hartkapseln",
-    "atcCode": "C02CA06",
-    "wirkstoffe": "Urapidil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Stragen Pharma GmbH - Zweigniederlassung Hilden -",
-    "telefon": "021038809700",
-    "mail": "info@stragen-pharma.de",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2022-12-16",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "14061235",
       "14061241"
     ],
@@ -11192,29 +11122,6 @@
     "alternativPraeparat": "Radiogardase - Cs - Einreichungsnummer: 0813163",
     "datumErstmeldung": "2021-11-18",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06960557"
-    ],
-    "enr": [
-      "2144244"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-02-02",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-01-05",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Erythromycin Stragen 1g",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinlactobionat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Stragen Pharma GmbH - Zweigniederlassung Hilden -",
-    "telefon": "02103-8809700",
-    "mail": "info@stragen-pharma.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2021-08-05",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
