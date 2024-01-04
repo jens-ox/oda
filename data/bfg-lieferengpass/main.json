@@ -1,6 +1,553 @@
 [
   {
     "pzn": [
+      "04300118"
+    ],
+    "enr": [
+      "2109375"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-06",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ureotop + VAS Creme",
+    "atcCode": "D02AE",
+    "wirkstoffe": "Harnstoff; Tretinoin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "mail": "service@dermapharm.com",
+    "grund": "Probleme bei der Endfreigabe",
+    "datumErstmeldung": "2023-11-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00332707"
+    ],
+    "enr": [
+      "2137831"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-03",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Rhinivict nasal 0,1 mg",
+    "atcCode": "R01AD01",
+    "wirkstoffe": "Beclometasondipropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "+498964186116",
+    "mail": "martin.schreiber@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-07-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00173723",
+      "06468158"
+    ],
+    "enr": [
+      "2152697"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-01",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Flucoderm Kapseln 50 mg",
+    "atcCode": "J02AC01",
+    "wirkstoffe": "Fluconazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "+498964186116",
+    "mail": "martin.schreiber@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-12-11",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08855066"
+    ],
+    "enr": [
+      "2700426"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-03",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "NovoNorm 2 mg Tabletten - OP120",
+    "atcCode": "A10BX02",
+    "wirkstoffe": "Repaglinid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "NovoNorm 2 mg Tabletten - OP30 - Einreichungsnummer: 2700423",
+    "datumErstmeldung": "2024-01-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05459387"
+    ],
+    "enr": [
+      "2178464"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-22",
+    "datumEnde": "2024-01-17",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Norditropin FlexPro 5 mg/1,5 ml Injektionslösung in einem Fertigpen",
+    "atcCode": "H01AC01",
+    "wirkstoffe": "Somatropin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Lieferverzögerung durch eine niedrigere Produktionskapazität als erwartet",
+    "datumErstmeldung": "2023-11-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02430176"
+    ],
+    "enr": [
+      "2701707"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-10",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "NovoMix 30 FlexPen 100 I.E./ml Injektionssuspension in Fertigspritze - OP(5x3ml)",
+    "atcCode": "A10AB05",
+    "wirkstoffe": "Insulin aspart",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "NovoMix 30 FlexPen 100 I.E./ml Injektionssuspension in Fertigspritze - OP(10x3ml) - Einreichungsnummer: 2701708",
+    "datumErstmeldung": "2024-01-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03075530"
+    ],
+    "enr": [
+      "2702460"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-10",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Levemir 100 I.E. Injektionslösung in Fertigpen - OP(5x3ml)(FlexPen)",
+    "atcCode": "A10AE05",
+    "wirkstoffe": "Insulin detemir",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Levemir 100 I.E. Injektionslösung in Fertigpen - OP(10x3ml)(FlexPen) - Einreichungsnummer: 2702461",
+    "datumErstmeldung": "2024-01-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16634468"
+    ],
+    "enr": [
+      "7001468"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-03",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fiasp",
+    "atcCode": "A10AB05",
+    "wirkstoffe": "Insulin aspart",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Fiasp - Einreichungsnummer: 7001469",
+    "datumErstmeldung": "2024-01-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01884952"
+    ],
+    "enr": [
+      "2702318"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-10",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "NovoRapid FlexPen 100 E/ml Injektionslösung in einem vorgefülltem Injektor - OP(5x3ml)",
+    "atcCode": "A10AB05",
+    "wirkstoffe": "Insulin aspart",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "NovoRapid FlexPen 100 E/ml Injektionslösung in einem vorgefülltem Injektor - OP(10x3ml) - Einreichungsnummer: 2702319",
+    "datumErstmeldung": "2024-01-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10180724"
+    ],
+    "enr": [
+      "2711804"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-08",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "NovoRapid PumpCart 100 E/ml Injektionslösung in Patrone - OP(5x1,6ml)",
+    "atcCode": "A10AB05",
+    "wirkstoffe": "Insulin aspart",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "NovoRapid PumpCart 100 E/ml Injektionslösung in Patrone - OP[25x(5x1,6ml)] - Einreichungsnummer: 2712151",
+    "datumErstmeldung": "2024-01-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04907932"
+    ],
+    "enr": [
+      "2105604"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-30",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Methotrexat \"Lederle\" Tabletten 10mg",
+    "atcCode": "L01BA01",
+    "wirkstoffe": "Methotrexat-Dinatrium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Sonstige",
+    "alternativPraeparat": "Methotrexat \"Lederle\" Tabletten 2,5mg - Einreichungsnummer: 2105603",
+    "datumErstmeldung": "2023-12-12",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01343564",
+      "01343570"
+    ],
+    "enr": [
+      "2143114"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-07",
+    "datumEnde": "2024-02-09",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 50mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04051796"
+    ],
+    "enr": [
+      "2164056"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-02",
+    "datumEnde": "2024-03-08",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Lamotrigin acis 25 mg Tabletten",
+    "atcCode": "N03AX09",
+    "wirkstoffe": "Lamotrigin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "+498944232460",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-01-03",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04051862"
+    ],
+    "enr": [
+      "2164058"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-02",
+    "datumEnde": "2024-03-08",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Lamotrigin acis 100 mg Tabletten",
+    "atcCode": "N03AX09",
+    "wirkstoffe": "Lamotrigin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "+498944232460",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-01-03",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00618616",
+      "00618622",
+      "00618639"
+    ],
+    "enr": [
+      "2163073"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-04",
+    "datumEnde": "2024-03-29",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Meloxicam - 1 A Pharma 15 mg Tabletten",
+    "atcCode": "M01AC06",
+    "wirkstoffe": "Meloxicam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-01-04",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00618562",
+      "00618579",
+      "00618591"
+    ],
+    "enr": [
+      "2163072"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-04",
+    "datumEnde": "2024-03-29",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Meloxicam - 1 A Pharma 7,5 mg Tabletten",
+    "atcCode": "M01AC06",
+    "wirkstoffe": "Meloxicam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-01-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07762115",
+      "08472000",
+      "08472052",
+      "99999999"
+    ],
+    "enr": [
+      "2180294"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2018-07-01",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "VALSARTAN COMP BASICS 80 mg/12,5 mg Filmtabletten",
+    "atcCode": "C09DA03",
+    "wirkstoffe": "Hydrochlorothiazid; Valsartan",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Basics GmbH",
+    "telefon": "0214403990",
+    "mail": "info@basics.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2018-07-10",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "10762811"
+    ],
+    "enr": [
+      "2190683"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-01",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Paricalcitol SUN 5 Mikrogramm/ml Injektionslösung",
+    "atcCode": "H05BX02",
+    "wirkstoffe": "Paricalcitol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Sun Pharmaceuticals Germany GmbH",
+    "mail": "rabattvertraege@sunpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-02-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16045358"
+    ],
+    "enr": [
+      "2199587"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-25",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "CLARITHROMYCIN BASICS 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Basics GmbH",
+    "mail": "rabattvertraege@sunpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08670556"
+    ],
+    "enr": [
+      "2107604"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-15",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ribofolin 10 mg/ml",
+    "atcCode": "V03AF03",
+    "wirkstoffe": "Calciumfolinat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "HIKMA Farmaceutica (Portugal), S.A.",
+    "telefon": "089 45450250",
+    "mail": "rluetzner@hikma.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Produkt wird kontigentiert abgegeben, um möglichst breite Verteilung im Markt sicher zustellen.",
+    "datumErstmeldung": "2023-03-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09482839",
+      "09482845",
+      "09482851"
+    ],
+    "enr": [
+      "2175289"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-01",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "CANDESARTAN BASICS 16 mg Tabletten",
+    "atcCode": "C09CA06",
+    "wirkstoffe": "Candesartancilexetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Basics GmbH",
+    "mail": "rabattvertraege@sunpharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-10-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09482762",
+      "09482779",
+      "09482785"
+    ],
+    "enr": [
+      "2175287"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-01",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "CANDESARTAN BASICS 4 mg Tabletten",
+    "atcCode": "C09CA06",
+    "wirkstoffe": "Candesartancilexetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Basics GmbH",
+    "mail": "rabattvertraege@sunpharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-02-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00731465",
+      "04527098",
+      "06053291"
+    ],
+    "enr": [
+      "0196606",
+      "1445922"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-28",
+    "datumEnde": "2024-03-07",
+    "datumLetzteMeldung": "2024-01-03",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Novalgin 1 g-Injektionslösung",
+    "atcCode": "N02BB02",
+    "wirkstoffe": "Metamizol-Natrium-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "A. Nattermann & Cie. Gesellschaft mit beschränkter Haftung",
+    "mail": "frachcra@sanofi.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-18",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "14166738",
       "14166744"
     ],
@@ -1408,29 +1955,6 @@
   },
   {
     "pzn": [
-      "00173723"
-    ],
-    "enr": [
-      "2152697"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-12-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Flucoderm Kapseln 50 mg",
-    "atcCode": "J02AC01",
-    "wirkstoffe": "Fluconazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "+498964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-12-11",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "11304915",
       "11304921"
     ],
@@ -1798,29 +2322,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-09-27",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01343564"
-    ],
-    "enr": [
-      "2143114"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-07",
-    "datumEnde": "2024-02-01",
-    "datumLetzteMeldung": "2023-12-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 50mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-13",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -3569,30 +4070,6 @@
   },
   {
     "pzn": [
-      "04907932"
-    ],
-    "enr": [
-      "2105604"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-30",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-12-12",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Methotrexat \"Lederle\" Tabletten 10mg",
-    "atcCode": "L01BA01",
-    "wirkstoffe": "Methotrexat-Dinatrium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Sonstige",
-    "alternativPraeparat": "Methotrexat \"Lederle\" Tabletten 2,5mg - Einreichungsnummer: 2105603",
-    "datumErstmeldung": "2023-12-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01345764"
     ],
     "enr": [
@@ -4539,31 +5016,6 @@
   },
   {
     "pzn": [
-      "00731465",
-      "04527098",
-      "06053291"
-    ],
-    "enr": [
-      "0196606",
-      "1445922"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-28",
-    "datumEnde": "2023-12-20",
-    "datumLetzteMeldung": "2023-12-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Novalgin 1 g-Injektionslösung",
-    "atcCode": "N02BB02",
-    "wirkstoffe": "Metamizol-Natrium-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "A. Nattermann & Cie. Gesellschaft mit beschränkter Haftung",
-    "mail": "frachcra@sanofi.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-18",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "03853708",
       "03853714"
     ],
@@ -4585,54 +5037,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Da der Lieferengpass seitens des Mitbewerbers auf der BfArM-Lieferengpass-Seite nicht sichtbar war, konnten wir in diesem Fall nicht vorbeugend tätig werden und unsere Liefermengen nicht rechtzeitig erhöhen.",
     "datumErstmeldung": "2023-10-19",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09482762",
-      "09482779",
-      "09482785"
-    ],
-    "enr": [
-      "2175287"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-12-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "CANDESARTAN BASICS 4 mg Tabletten",
-    "atcCode": "C09CA06",
-    "wirkstoffe": "Candesartancilexetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Basics GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-02-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09482839",
-      "09482845",
-      "09482851"
-    ],
-    "enr": [
-      "2175289"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-12-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "CANDESARTAN BASICS 16 mg Tabletten",
-    "atcCode": "C09CA06",
-    "wirkstoffe": "Candesartancilexetil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Basics GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-10-05",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5719,31 +6123,6 @@
   },
   {
     "pzn": [
-      "05459387",
-      "05459393"
-    ],
-    "enr": [
-      "2178464"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-22",
-    "datumEnde": "2024-01-17",
-    "datumLetzteMeldung": "2023-11-22",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Norditropin FlexPro 5 mg/1,5 ml Injektionslösung in einem Fertigpen",
-    "atcCode": "H01AC01",
-    "wirkstoffe": "Somatropin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Lieferverzögerung durch eine niedrigere Produktionskapazität als erwartet",
-    "datumErstmeldung": "2023-11-22",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02747789"
     ],
     "enr": [
@@ -6303,28 +6682,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-09-11",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04300118"
-    ],
-    "enr": [
-      "2109375"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-06",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-11-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ureotop + VAS Creme",
-    "atcCode": "D02AE",
-    "wirkstoffe": "Harnstoff; Tretinoin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "mail": "service@dermapharm.de",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2023-11-15",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -7039,28 +7396,6 @@
   },
   {
     "pzn": [
-      "10762811"
-    ],
-    "enr": [
-      "2190683"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-11-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Paricalcitol SUN 5 Mikrogramm/ml Injektionslösung",
-    "atcCode": "H05BX02",
-    "wirkstoffe": "Paricalcitol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Sun Pharmaceuticals Germany GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-02-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01434120"
     ],
     "enr": [
@@ -7201,54 +7536,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2022-12-23",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00618562",
-      "00618579",
-      "00618591"
-    ],
-    "enr": [
-      "2163072"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-04",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-11-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Meloxicam - 1 A Pharma 7,5 mg Tabletten",
-    "atcCode": "M01AC06",
-    "wirkstoffe": "Meloxicam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-01-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00618616",
-      "00618622",
-      "00618639"
-    ],
-    "enr": [
-      "2163073"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-04",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-11-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Meloxicam - 1 A Pharma 15 mg Tabletten",
-    "atcCode": "M01AC06",
-    "wirkstoffe": "Meloxicam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-01-04",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -8090,52 +8377,6 @@
   },
   {
     "pzn": [
-      "16045358"
-    ],
-    "enr": [
-      "2199587"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-25",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-10-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "CLARITHROMYCIN BASICS 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA09",
-    "wirkstoffe": "Clarithromycin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Basics GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02242078"
-    ],
-    "enr": [
-      "2153137"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-20",
-    "datumEnde": "2023-12-14",
-    "datumLetzteMeldung": "2023-10-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "CEFUROX BASICS 125mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DC02",
-    "wirkstoffe": "Cefuroximaxetil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Basics GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-08-14",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00826220",
       "00826237"
     ],
@@ -8452,30 +8693,6 @@
     "telefon": "+49 (0) 30 550055-51000",
     "mail": "medical.information@pfizer.com",
     "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-10-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02492272",
-      "02492289"
-    ],
-    "enr": [
-      "2101839"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-30",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-10-12",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Lonolox 2,5",
-    "atcCode": "C02DC01",
-    "wirkstoffe": "Minoxidil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Sonstige",
     "datumErstmeldung": "2023-10-12",
     "infoFachkreise": "Nein"
   },
@@ -8832,30 +9049,6 @@
   },
   {
     "pzn": [
-      "00541629"
-    ],
-    "enr": [
-      "2702242"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-06",
-    "datumEnde": "2024-01-24",
-    "datumLetzteMeldung": "2023-09-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Actraphane 30 FlexPen 100 IE/ml Injektionssuspension in Injektor - OP(10x3ml)",
-    "atcCode": "A10AD01",
-    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung)); Isophan-Insulin-Suspension zur Injektion (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
-    "alternativPraeparat": "Actraphane 30 Penfill 100 IE/ml Injektionssuspension in Zylinderampulle - OP(10x3ml) - Einreichungsnummer: 2702234",
-    "datumErstmeldung": "2023-09-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00557576",
       "00776798"
     ],
@@ -8969,30 +9162,6 @@
     "alternativPraeparat": "AmoxClav HEXAL i. v. 500/100 mg Pulver zur Herstellung einer Injektions- oder Infusionslösung - Einreichungsnummer: 2161443",
     "datumErstmeldung": "2023-09-22",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "08670556"
-    ],
-    "enr": [
-      "2107604"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-15",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-09-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ribofolin 10 mg/ml",
-    "atcCode": "V03AF03",
-    "wirkstoffe": "Calciumfolinat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "HIKMA Farmaceutica (Portugal), S.A.",
-    "telefon": "089 45450250",
-    "mail": "rluetzner@hikma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Produkt wird kontigentiert abgegeben, um möglichst breite Verteilung im Markt sicher zustellen.",
-    "datumErstmeldung": "2023-03-15",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -9297,32 +9466,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-08-31",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07762115",
-      "08472000",
-      "08472052",
-      "99999999"
-    ],
-    "enr": [
-      "2180294"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2018-07-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-08-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "VALSARTAN COMP BASICS 80 mg/12,5 mg Filmtabletten",
-    "atcCode": "C09DA03",
-    "wirkstoffe": "Hydrochlorothiazid; Valsartan",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Basics GmbH",
-    "telefon": "0214403990",
-    "mail": "info@basics.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2018-07-10",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
@@ -10264,29 +10407,6 @@
     "mail": "service@hexal.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-05-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00332707"
-    ],
-    "enr": [
-      "2137831"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-03",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-07-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Rhinivict nasal 0,1 mg",
-    "atcCode": "R01AD01",
-    "wirkstoffe": "Beclometasondipropionat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "+498964186105",
-    "mail": "yvonne.hinterstocker@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-07-13",
     "infoFachkreise": "Vorgesehen"
   },
   {
