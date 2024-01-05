@@ -1,6 +1,193 @@
 [
   {
     "pzn": [
+      "02057665",
+      "06888311"
+    ],
+    "enr": [
+      "2100245"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-18",
+    "datumEnde": "2024-01-21",
+    "datumLetzteMeldung": "2024-01-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Syntaris",
+    "atcCode": "R01AD04",
+    "wirkstoffe": "Flunisolid-Hemihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "mail": "service@dermapharm.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-01-04",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03936653"
+    ],
+    "enr": [
+      "0863356"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-19",
+    "datumEnde": "2024-02-04",
+    "datumLetzteMeldung": "2024-01-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nystaderm comp. Paste",
+    "atcCode": "TERM_ID_NA_2090002485",
+    "wirkstoffe": "Hydrocortisonacetat (Ph.Eur.); Nystatin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "mail": "service@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-01-04",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "05520023",
+      "05520129",
+      "09124212"
+    ],
+    "enr": [
+      "1464144"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-21",
+    "datumEnde": "2024-04-29",
+    "datumLetzteMeldung": "2024-01-04",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Mydriaticum Stulln UD",
+    "atcCode": "S01FA06",
+    "wirkstoffe": "Tropicamid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pharma Stulln GmbH",
+    "mail": "cornelius@pharmastulln.de",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Durch den Wegfall anderer Produkte, ist der Bedarf an unserem Produkt deutlich gestiegen, trotz einer bereits erhöhten Produktion, kann der Wegfall anderer Produkte nicht komplett kompensiert werden.",
+    "datumErstmeldung": "2023-09-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11509801"
+    ],
+    "enr": [
+      "2182005"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-21",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-01-04",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ipratropiumbromid 125 Mikrogramm / 1 ml Stulln",
+    "atcCode": "R03BB01",
+    "wirkstoffe": "Ipratropiumbromid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Penta Arzneimittel GmbH",
+    "mail": "cornelius@penta-arzneimittel.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-08-23",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11184925",
+      "11483177"
+    ],
+    "enr": [
+      "2188376"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-01",
+    "datumEnde": "2024-03-15",
+    "datumLetzteMeldung": "2024-01-04",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "COMBIPRASAL 0,5 mg / 2,5 mg Lösung für einen Vernebler",
+    "atcCode": "R03AL02",
+    "wirkstoffe": "Ipratropiumbromid (Ph.Eur.); Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Penta Arzneimittel GmbH",
+    "mail": "cornelius@penta-arzneimittel.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06151384"
+    ],
+    "enr": [
+      "2114855"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-04",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-01-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nimotop",
+    "atcCode": "C08CA06",
+    "wirkstoffe": "Nimodipin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bayer Vital GmbH",
+    "telefon": "0800 6422937",
+    "mail": "medical-information@bayer.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Erhöhte Marknachfrage über den üblichen Bedarf hinaus aufgrund von Lieferengpässen anderer Hersteller.",
+    "datumErstmeldung": "2023-09-28",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03673254"
+    ],
+    "enr": [
+      "2104211"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-04",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-01-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nimotop S",
+    "atcCode": "C08CA06",
+    "wirkstoffe": "Nimodipin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bayer Vital GmbH",
+    "telefon": "0800 6422937",
+    "mail": "medical-information@bayer.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Erhöhte Marknachfrage über den üblichen Bedarf hinaus aufgrund von Lieferengpässen anderer Hersteller.",
+    "datumErstmeldung": "2023-09-28",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08703959",
+      "08703965"
+    ],
+    "enr": [
+      "2137734"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-24",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-01-04",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Alprazolam-ratiopharm 0,5 mg Tabletten",
+    "atcCode": "N05BA12",
+    "wirkstoffe": "Alprazolam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Stark erhöhte Nachfrage führt zu Engpass",
+    "datumErstmeldung": "2023-07-28",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "04300118"
     ],
     "enr": [
@@ -756,28 +943,6 @@
     "mail": "info@stragen-pharma.de",
     "grund": "Probleme beim Sonstigen Hersteller",
     "datumErstmeldung": "2022-12-16",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01098455"
-    ],
-    "enr": [
-      "2149598"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-14",
-    "datumEnde": "2024-01-15",
-    "datumLetzteMeldung": "2023-12-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxygesic 80 mg",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-02-15",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -1922,7 +2087,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin-Natrium",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 30 338427-0",
     "mail": "Info.germany@esteve.com",
     "grund": "Sonstige",
@@ -4968,31 +5133,6 @@
   },
   {
     "pzn": [
-      "05520023",
-      "05520129",
-      "09124212"
-    ],
-    "enr": [
-      "1464144"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-21",
-    "datumEnde": "2024-01-10",
-    "datumLetzteMeldung": "2023-12-04",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Mydriaticum Stulln UD",
-    "atcCode": "S01FA06",
-    "wirkstoffe": "Tropicamid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pharma Stulln GmbH",
-    "mail": "cornelius@pharmastulln.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Durch den Wegfall anderer Produkte, ist der Bedarf an unserem Produkt deutlich gestiegen, trotz einer bereits erhöhten Produktion, kann der Wegfall anderer Produkte nicht komplett kompensiert werden.",
-    "datumErstmeldung": "2023-09-01",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01875775"
     ],
     "enr": [
@@ -5788,29 +5928,6 @@
   },
   {
     "pzn": [
-      "11184925",
-      "11483177"
-    ],
-    "enr": [
-      "2188376"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-01",
-    "datumEnde": "2024-01-14",
-    "datumLetzteMeldung": "2023-11-27",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "COMBIPRASAL 0,5 mg / 2,5 mg Lösung für einen Vernebler",
-    "atcCode": "R03AL02",
-    "wirkstoffe": "Ipratropiumbromid (Ph.Eur.); Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Penta Arzneimittel GmbH",
-    "mail": "cornelius@penta-arzneimittel.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-11-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02749854"
     ],
     "enr": [
@@ -6308,31 +6425,6 @@
     "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
     "datumErstmeldung": "2022-12-09",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08703959",
-      "08703965",
-      "08703971"
-    ],
-    "enr": [
-      "2137734"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-24",
-    "datumEnde": "2023-11-30",
-    "datumLetzteMeldung": "2023-11-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Alprazolam-ratiopharm 0,5 mg Tabletten",
-    "atcCode": "N05BA12",
-    "wirkstoffe": "Alprazolam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Stark erhöhte Nachfrage führt zu Engpass",
-    "datumErstmeldung": "2023-07-28",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -7917,7 +8009,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -9001,54 +9093,6 @@
   },
   {
     "pzn": [
-      "03673254"
-    ],
-    "enr": [
-      "2104211"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-04",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-09-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Nimotop S",
-    "atcCode": "C08CA06",
-    "wirkstoffe": "Nimodipin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bayer Vital GmbH",
-    "telefon": "0800 6422937",
-    "mail": "medical-information@bayer.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Erhöhte Marknachfrage über den üblichen Bedarf hinaus aufgrund von Lieferengpässen anderer Hersteller.",
-    "datumErstmeldung": "2023-09-28",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06151384"
-    ],
-    "enr": [
-      "2114855"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-04",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-09-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Nimotop",
-    "atcCode": "C08CA06",
-    "wirkstoffe": "Nimodipin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bayer Vital GmbH",
-    "telefon": "0800 6422937",
-    "mail": "medical-information@bayer.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Erhöhte Marknachfrage über den üblichen Bedarf hinaus aufgrund von Lieferengpässen anderer Hersteller.",
-    "datumErstmeldung": "2023-09-28",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00557576",
       "00776798"
     ],
@@ -9655,28 +9699,6 @@
   },
   {
     "pzn": [
-      "11509801"
-    ],
-    "enr": [
-      "2182005"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-21",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-08-23",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ipratropiumbromid 125 Mikrogramm / 1 ml Stulln",
-    "atcCode": "R03BB01",
-    "wirkstoffe": "Ipratropiumbromid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Penta Arzneimittel GmbH",
-    "mail": "cornelius@penta-arzneimittel.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-23",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "17571066"
     ],
     "enr": [
@@ -10161,7 +10183,7 @@
     "atcCode": "H02AB08",
     "wirkstoffe": "Triamcinolonhexacetonid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -10358,7 +10380,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
