@@ -1,6 +1,102 @@
 [
   {
     "pzn": [
+      "15398540"
+    ],
+    "enr": [
+      "2714967"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-29",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-01-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP(3x1,5ml)",
+    "atcCode": "A10BJ06",
+    "wirkstoffe": "Semaglutid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Nachfrage in Deutschland kann nur teilweise gedeckt werden",
+    "datumErstmeldung": "2023-11-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15398534"
+    ],
+    "enr": [
+      "2714966"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-27",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-01-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP1,5 ml",
+    "atcCode": "A10BJ06",
+    "wirkstoffe": "Semaglutid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Nachfrage in Deutschland kann nur teilweise gedeckt werden",
+    "datumErstmeldung": "2023-09-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15398528"
+    ],
+    "enr": [
+      "2714965"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-27",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-01-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ozempic 0,25 mg Injektionslösung in einem Fertigpen - OP1,5 ml",
+    "atcCode": "A10BJ06",
+    "wirkstoffe": "Semaglutid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Nachfrage in Deutschland kann nur teilweise gedeckt werden",
+    "datumErstmeldung": "2023-09-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15398557"
+    ],
+    "enr": [
+      "2714968"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-10",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-01-10",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ozempic 1 mg Injektionslösung in einem Fertigpen - OP3ml",
+    "atcCode": "A10BJ06",
+    "wirkstoffe": "Semaglutid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Nachfrage in Deutschland kann nur teilweise gedeckt werden",
+    "datumErstmeldung": "2024-01-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "02231620"
     ],
     "enr": [
@@ -895,30 +991,6 @@
   },
   {
     "pzn": [
-      "02516788"
-    ],
-    "enr": [
-      "0020971"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-22",
-    "datumEnde": "2024-01-15",
-    "datumLetzteMeldung": "2024-01-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ergenyl 300 mg",
-    "atcCode": "N03AG01",
-    "wirkstoffe": "Natriumvalproat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "0800 52 52 010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Erhöhte Nachfrage",
-    "alternativPraeparat": "Ergenyl 150 mg - Einreichungsnummer: 2100378",
-    "datumErstmeldung": "2023-11-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "15657444"
     ],
     "enr": [
@@ -1025,7 +1097,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin-Natrium",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 30 338427-0",
     "mail": "Info.germany@esteve.com",
     "grund": "Sonstige",
@@ -1435,30 +1507,6 @@
     "alternativPraeparat": "NovoRapid PumpCart 100 E/ml Injektionslösung in Patrone - OP[25x(5x1,6ml)] - Einreichungsnummer: 2712151",
     "datumErstmeldung": "2024-01-03",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04907932"
-    ],
-    "enr": [
-      "2105604"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-30",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2024-01-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Methotrexat \"Lederle\" Tabletten 10mg",
-    "atcCode": "L01BA01",
-    "wirkstoffe": "Methotrexat-Dinatrium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Sonstige",
-    "alternativPraeparat": "Methotrexat \"Lederle\" Tabletten 2,5mg - Einreichungsnummer: 2105603",
-    "datumErstmeldung": "2023-12-12",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -4921,76 +4969,6 @@
   },
   {
     "pzn": [
-      "15398528"
-    ],
-    "enr": [
-      "2714965"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-27",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2023-12-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ozempic 0,25 mg Injektionslösung in einem Fertigpen - OP1,5 ml",
-    "atcCode": "A10BJ06",
-    "wirkstoffe": "Semaglutid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-09-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15398534"
-    ],
-    "enr": [
-      "2714966"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-27",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2023-12-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP1,5 ml",
-    "atcCode": "A10BJ06",
-    "wirkstoffe": "Semaglutid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "alternativPraeparat": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP(3x1,5ml) - Einreichungsnummer: 2714967",
-    "datumErstmeldung": "2023-09-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15398540"
-    ],
-    "enr": [
-      "2714967"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-29",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2023-12-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP(3x1,5ml)",
-    "atcCode": "A10BJ06",
-    "wirkstoffe": "Semaglutid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-11-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03277707"
     ],
     "enr": [
@@ -8268,7 +8246,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -10189,7 +10167,7 @@
     "atcCode": "H02AB08",
     "wirkstoffe": "Triamcinolonhexacetonid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -10338,7 +10316,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
