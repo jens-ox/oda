@@ -1,6 +1,419 @@
 [
   {
     "pzn": [
+      "04191876"
+    ],
+    "enr": [
+      "2702640"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-09",
+    "datumEnde": "2024-02-02",
+    "datumLetzteMeldung": "2024-01-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Arixtra 10 mg/0,8 ml Injektionslösung, Fertigspritze - OP7",
+    "atcCode": "B01AX05",
+    "wirkstoffe": "Fondaparinux-Natrium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan IRE Healthcare Limited",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-11-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "05387788"
+    ],
+    "enr": [
+      "2701058"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-11",
+    "datumEnde": "2024-01-26",
+    "datumLetzteMeldung": "2024-01-11",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Lantus 100 I.E./ml Injektionslösung in Patrone - OP(10x3ml)",
+    "atcCode": "A10AE04",
+    "wirkstoffe": "Insulin glargin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "08005252010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Probleme bei der Chargenprüfung",
+    "grundAnmerkung": "Keine Alternative verfügbar",
+    "datumErstmeldung": "2024-01-11",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05387819"
+    ],
+    "enr": [
+      "2704301"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-11",
+    "datumEnde": "2024-01-26",
+    "datumLetzteMeldung": "2024-01-11",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Lantus 100 I.E./ml Injektionslösung in Fertigpen - OP(5x3ml)(SoloStar)",
+    "atcCode": "A10AE04",
+    "wirkstoffe": "Insulin glargin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "08005252010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Probleme bei der Chargenprüfung",
+    "grundAnmerkung": "10er Packung Solostar (PZN: 05387825) lieferbar",
+    "datumErstmeldung": "2024-01-11",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07424364"
+    ],
+    "enr": [
+      "2177782"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-01",
+    "datumEnde": "2024-01-14",
+    "datumLetzteMeldung": "2024-01-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Kalymin retard",
+    "atcCode": "N07AA02",
+    "wirkstoffe": "Pyridostigminbromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-01-11",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11538116",
+      "11538122",
+      "11538139"
+    ],
+    "enr": [
+      "2176826"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-01-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon HCl Hormosan 8 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "erhöhte Nachfrage und Kapazitätsengpässe beim Lieferanten",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16682912",
+      "16682929"
+    ],
+    "enr": [
+      "2188010"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-03-30",
+    "datumLetzteMeldung": "2024-01-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 20 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16682964",
+      "16682970",
+      "16682987"
+    ],
+    "enr": [
+      "2188012"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-01-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 80 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12569107"
+    ],
+    "enr": [
+      "2197700"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-13",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-01-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Levetiracetam-Hormosan 100 mg/ml Lösung zum Einnehmen",
+    "atcCode": "N03AX14",
+    "wirkstoffe": "Levetiracetam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-11-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12724393",
+      "12724430"
+    ],
+    "enr": [
+      "2194619"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-01",
+    "datumEnde": "2024-03-08",
+    "datumLetzteMeldung": "2024-01-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil-ratiopharm 200 mg/245 mg Filmtabletten",
+    "atcCode": "J05AR03",
+    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilphosphat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-12-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "16866055"
+    ],
+    "enr": [
+      "2204213"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-10",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2024-01-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sorafenib AL 200 mg Filmtabletten",
+    "atcCode": "L01EX02",
+    "wirkstoffe": "Sorafenibtosilat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-11-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000",
+      "00425308",
+      "03454121"
+    ],
+    "enr": [
+      "2111226"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-01",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2024-01-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Indometacin AL 50",
+    "atcCode": "M01AB01",
+    "wirkstoffe": "Indometacin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15415818",
+      "15415824",
+      "15415830"
+    ],
+    "enr": [
+      "2195985"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-24",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-01-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Betahistindihydrochlorid Hennig 24 mg Tabletten",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
+    "mail": "nicola.bruns@hennig-am.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08538087",
+      "08538093",
+      "08538101"
+    ],
+    "enr": [
+      "2125957"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-31",
+    "datumEnde": "2024-02-09",
+    "datumLetzteMeldung": "2024-01-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Betavert 12mg",
+    "atcCode": "N07CA01",
+    "wirkstoffe": "Betahistindimesilat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
+    "mail": "nicola.bruns@hennig-am.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05459424"
+    ],
+    "enr": [
+      "2178466"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-22",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-01-11",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Norditropin FlexPro 15 mg/1,5 ml Injektionslösung in einem Fertigpen",
+    "atcCode": "H01AC01",
+    "wirkstoffe": "Somatropin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Lieferverzögerung durch eine niedrigere Produktionskapazität als erwartet",
+    "alternativPraeparat": "Norditropin FlexPro 15 mg/1,5 ml Injektionslösung in einem Fertigpen - Einreichungsnummer: 2178466",
+    "datumErstmeldung": "2023-11-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05459401"
+    ],
+    "enr": [
+      "2178465"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-21",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-01-11",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Norditropin FlexPro 10 mg/1,5 ml Injektionslösung in einem Fertigpen",
+    "atcCode": "H01AC01",
+    "wirkstoffe": "Somatropin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundAnmerkung": "Lieferverzögerung durch eine niedrigere Produktionskapazität als erwartet",
+    "alternativPraeparat": "Norditropin FlexPro 10 mg/1,5 ml Injektionslösung in einem Fertigpen - Einreichungsnummer: 2178465",
+    "datumErstmeldung": "2023-06-21",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05459387"
+    ],
+    "enr": [
+      "2178464"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-22",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-01-11",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Norditropin FlexPro 5 mg/1,5 ml Injektionslösung in einem Fertigpen",
+    "atcCode": "H01AC01",
+    "wirkstoffe": "Somatropin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Lieferverzögerung durch eine niedrigere Produktionskapazität als erwartet",
+    "alternativPraeparat": "Norditropin FlexPro 5 mg/1,5 ml Injektionslösung in einem Fertigpen - Einreichungsnummer: 2178464",
+    "datumErstmeldung": "2023-11-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15869850",
+      "15869867"
+    ],
+    "enr": [
+      "2202152"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-01",
+    "datumEnde": "2024-01-21",
+    "datumLetzteMeldung": "2024-01-11",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Dutasterid-Tamsulosin Zentiva 0,5 mg/0,4 mg Hartkapseln",
+    "atcCode": "G04CA52",
+    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Zentiva Pharma GmbH",
+    "telefon": "0800 53 53 010",
+    "mail": "MedInfo.DE@zentiva.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-05-11",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "15398540"
     ],
     "enr": [
@@ -1083,31 +1496,6 @@
   },
   {
     "pzn": [
-      "09505109"
-    ],
-    "enr": [
-      "2106371"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-15",
-    "datumEnde": "2024-01-15",
-    "datumLetzteMeldung": "2024-01-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Eremfat i.v. 600mg",
-    "atcCode": "J04AB02",
-    "wirkstoffe": "Rifampicin-Natrium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
-    "telefon": "+49 30 338427-0",
-    "mail": "Info.germany@esteve.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Freigabe Nitrosamine durch das LaGeSo ausstehend",
-    "alternativPraeparat": "Eremfat i.v. 300mg - Einreichungsnummer: 2106370",
-    "datumErstmeldung": "2023-12-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02057665",
       "06888311"
     ],
@@ -1362,30 +1750,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "alternativPraeparat": "NovoNorm 2 mg Tabletten - OP30 - Einreichungsnummer: 2700423",
     "datumErstmeldung": "2024-01-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05459387"
-    ],
-    "enr": [
-      "2178464"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-22",
-    "datumEnde": "2024-01-17",
-    "datumLetzteMeldung": "2024-01-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Norditropin FlexPro 5 mg/1,5 ml Injektionslösung in einem Fertigpen",
-    "atcCode": "H01AC01",
-    "wirkstoffe": "Somatropin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Lieferverzögerung durch eine niedrigere Produktionskapazität als erwartet",
-    "datumErstmeldung": "2023-11-22",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -1913,29 +2277,6 @@
   },
   {
     "pzn": [
-      "02592861"
-    ],
-    "enr": [
-      "2140258"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-13",
-    "datumEnde": "2024-01-19",
-    "datumLetzteMeldung": "2024-01-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Dexamethason acis 4 mg Injektionslösung",
-    "atcCode": "H02AB02",
-    "wirkstoffe": "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "acis Arzneimittel GmbH",
-    "telefon": "+498944232460",
-    "mail": "Medwiss.Acis@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "11510939",
       "11510951"
     ],
@@ -2149,32 +2490,6 @@
     "mail": "service@hormosan.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-10-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11538116",
-      "11538122",
-      "11538139"
-    ],
-    "enr": [
-      "2176826"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2023-12-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon HCl Hormosan 8 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "erhöhte Nachfrage und Kapazitätsengpässe beim Lieferanten",
-    "datumErstmeldung": "2023-10-17",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -3476,52 +3791,6 @@
   },
   {
     "pzn": [
-      "15415818",
-      "15415824"
-    ],
-    "enr": [
-      "2195985"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-24",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-12-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Betahistindihydrochlorid Hennig 24 mg Tabletten",
-    "atcCode": "N07CA01",
-    "wirkstoffe": "Betahistindihydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
-    "mail": "nicola.bruns@hennig-am.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08538087",
-      "08538093"
-    ],
-    "enr": [
-      "2125957"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-31",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-12-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Betavert 12mg",
-    "atcCode": "N07CA01",
-    "wirkstoffe": "Betahistindimesilat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
-    "mail": "nicola.bruns@hennig-am.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02182637"
     ],
     "enr": [
@@ -3741,29 +4010,6 @@
   },
   {
     "pzn": [
-      "05387825"
-    ],
-    "enr": [
-      "2704305"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-14",
-    "datumEnde": "2024-01-12",
-    "datumLetzteMeldung": "2023-12-15",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Lantus 100 I.E./ml Injektionslösung in Fertigpen - OP(10x3ml)(SoloStar)",
-    "atcCode": "A10AE04",
-    "wirkstoffe": "Insulin glargin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "0800 52 52 010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Probleme bei der Chargenprüfung",
-    "datumErstmeldung": "2023-12-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04332377",
       "04332466"
     ],
@@ -3954,55 +4200,6 @@
   },
   {
     "pzn": [
-      "05459401",
-      "05459418"
-    ],
-    "enr": [
-      "2178465"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-21",
-    "datumEnde": "2024-01-17",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Norditropin FlexPro 10 mg/1,5 ml Injektionslösung in einem Fertigpen",
-    "atcCode": "H01AC01",
-    "wirkstoffe": "Somatropin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "Lieferverzögerung durch eine niedrigere Produktionskapazität als erwartet",
-    "datumErstmeldung": "2023-06-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05459424"
-    ],
-    "enr": [
-      "2178466"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-22",
-    "datumEnde": "2024-01-17",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Norditropin FlexPro 15 mg/1,5 ml Injektionslösung in einem Fertigpen",
-    "atcCode": "H01AC01",
-    "wirkstoffe": "Somatropin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Lieferverzögerung durch eine niedrigere Produktionskapazität als erwartet",
-    "datumErstmeldung": "2023-11-22",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02481110",
       "99999999"
     ],
@@ -4023,29 +4220,6 @@
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Probleme beim Wirkstoffhersteller",
     "datumErstmeldung": "2021-03-17",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04191876"
-    ],
-    "enr": [
-      "2702640"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-09",
-    "datumEnde": "2024-01-24",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Arixtra 10 mg/0,8 ml Injektionslösung, Fertigspritze - OP7",
-    "atcCode": "B01AX05",
-    "wirkstoffe": "Fondaparinux-Natrium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan IRE Healthcare Limited",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-11-15",
     "infoFachkreise": "Nein"
   },
   {
@@ -4401,55 +4575,6 @@
     "mail": "info@aliud.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-09-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "16866055"
-    ],
-    "enr": [
-      "2204213"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-10",
-    "datumEnde": "2024-01-15",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sorafenib AL 200 mg Filmtabletten",
-    "atcCode": "L01EX02",
-    "wirkstoffe": "Sorafenibtosilat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-11-08",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "00425308",
-      "03454121"
-    ],
-    "enr": [
-      "2111226"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-01",
-    "datumEnde": "2024-01-15",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Indometacin AL 50",
-    "atcCode": "M01AB01",
-    "wirkstoffe": "Indometacin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-24",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5370,29 +5495,6 @@
   },
   {
     "pzn": [
-      "12724393",
-      "12724430"
-    ],
-    "enr": [
-      "2194619"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-01",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-12-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil-ratiopharm 200 mg/245 mg Filmtabletten",
-    "atcCode": "J05AR03",
-    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilphosphat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-12-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "06559642",
       "06559665"
     ],
@@ -5463,30 +5565,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-11-13",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16682912"
-    ],
-    "enr": [
-      "2188010"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-03-30",
-    "datumLetzteMeldung": "2023-12-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycan uno 20 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -5845,29 +5923,6 @@
   },
   {
     "pzn": [
-      "12569107"
-    ],
-    "enr": [
-      "2197700"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-13",
-    "datumEnde": "2024-01-26",
-    "datumLetzteMeldung": "2023-11-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Levetiracetam-Hormosan 100 mg/ml Lösung zum Einnehmen",
-    "atcCode": "N03AX14",
-    "wirkstoffe": "Levetiracetam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-11-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03277653"
     ],
     "enr": [
@@ -6090,30 +6145,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-11-28",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00108855"
-    ],
-    "enr": [
-      "2152306"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-24",
-    "datumEnde": "2024-01-19",
-    "datumLetzteMeldung": "2023-11-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydrocortison acis 10 mg",
-    "atcCode": "H02AB09",
-    "wirkstoffe": "Hydrocortison",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "acis Arzneimittel GmbH",
-    "telefon": "+498944232460",
-    "mail": "Medwiss.Acis@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Hydrocortison acis 10 mg - Einreichungsnummer: 2152306",
-    "datumErstmeldung": "2023-11-28",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -7522,32 +7553,6 @@
   },
   {
     "pzn": [
-      "16682964",
-      "16682970",
-      "16682987"
-    ],
-    "enr": [
-      "2188012"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycan uno 80 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Kapazitätsengpässe in Herstellungsstätte",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "14275924"
     ],
     "enr": [
@@ -7981,30 +7986,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-24",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "15869850",
-      "15869867"
-    ],
-    "enr": [
-      "2202152"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-01",
-    "datumEnde": "2024-01-08",
-    "datumLetzteMeldung": "2023-11-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Dutasterid-Tamsulosin Zentiva 0,5 mg/0,4 mg Hartkapseln",
-    "atcCode": "G04CA52",
-    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Zentiva Pharma GmbH",
-    "telefon": "0800 53 53 010",
-    "mail": "MedInfo.DE@zentiva.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-05-11",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -10961,31 +10942,6 @@
     "grund": "Probleme in der Herstellung",
     "grundAnmerkung": "Kapazitätsengpässe bei der Produktion; seit 27.03.2023 wieder erhältlich",
     "datumErstmeldung": "2022-12-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000"
-    ],
-    "enr": [
-      "2712360",
-      "2713758"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-03-17",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-03-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "EndolucinBeta 40 GBq/ml Markerzubereitung, Lösung - OP0,075-2ml",
-    "atcCode": "V10X",
-    "wirkstoffe": "((177)Lu)Lutetium(III)-chlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ITM Medical Isotopes GmbH",
-    "telefon": "+49 89 - 329 8986 - 2501",
-    "mail": "wolfgang.seidel@itm-radiopharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "massiver Anstieg der weltweiten Nachfrage und lange Vorlaufzeit zur Erhöhung der Kapazität",
-    "datumErstmeldung": "2023-03-17",
     "infoFachkreise": "Vorgesehen"
   },
   {
