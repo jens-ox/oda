@@ -1,6 +1,190 @@
 [
   {
     "pzn": [
+      "01913843"
+    ],
+    "enr": [
+      "1463512"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-16",
+    "datumEnde": "2024-02-19",
+    "datumLetzteMeldung": "2024-01-16",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ultracain 2%-Suprarenin 50 ml",
+    "atcCode": "N01BB58",
+    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "SEPTODONT GmbH",
+    "telefon": "+49 228 971260",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-01-16",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10387833"
+    ],
+    "enr": [
+      "5042619"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-16",
+    "datumEnde": "2024-03-29",
+    "datumLetzteMeldung": "2024-01-16",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Paracetamol Denk 250 mg Zäpfchen",
+    "atcCode": "N02BE01",
+    "wirkstoffe": "Paracetamol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
+    "mail": "edith.eigenberger@denkpharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-01-16",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10387827"
+    ],
+    "enr": [
+      "5042618"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-16",
+    "datumEnde": "2024-03-29",
+    "datumLetzteMeldung": "2024-01-16",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Paracetamol Denk 125 mg Zäpfchen",
+    "atcCode": "N02BE01",
+    "wirkstoffe": "Paracetamol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
+    "mail": "edith.eigenberger@denkpharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-01-16",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02481110",
+      "99999999"
+    ],
+    "enr": [
+      "2102405"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2021-03-01",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-01-16",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Neotri",
+    "atcCode": "C03EA",
+    "wirkstoffe": "Triamteren; Xipamid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "+49 34954 247 0",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "datumErstmeldung": "2021-03-17",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "05387819"
+    ],
+    "enr": [
+      "2704301"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-11",
+    "datumEnde": "2024-01-26",
+    "datumLetzteMeldung": "2024-01-16",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Lantus 100 I.E./ml Injektionslösung in Fertigpen - OP(5x3ml)(SoloStar)",
+    "atcCode": "A10AE04",
+    "wirkstoffe": "Insulin glargin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "08005252010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundAnmerkung": "10er Packung Solostar (PZN: 05387825) lieferbar",
+    "datumErstmeldung": "2024-01-11",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05387788"
+    ],
+    "enr": [
+      "2701058"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-11",
+    "datumEnde": "2024-01-26",
+    "datumLetzteMeldung": "2024-01-16",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Lantus 100 I.E./ml Injektionslösung in Patrone - OP(10x3ml)",
+    "atcCode": "A10AE04",
+    "wirkstoffe": "Insulin glargin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "08005252010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundAnmerkung": "Keine Alternative verfügbar",
+    "datumErstmeldung": "2024-01-11",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03361000",
+      "03361017"
+    ],
+    "enr": [
+      "2149307"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-16",
+    "datumEnde": "2024-02-02",
+    "datumLetzteMeldung": "2024-01-16",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoclav 875 mg + 125 mg Filmtabletten",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-01-16",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "12546796"
+    ],
+    "enr": [
+      "2712700"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-20",
+    "datumEnde": "2024-03-15",
+    "datumLetzteMeldung": "2024-01-16",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil Mylan 200 mg/245 mg Filmtabletten - OP90(3x30)(Fl)",
+    "atcCode": "J05AR03",
+    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilmaleat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Pharmaceuticals Limited",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-01-16",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "04913826"
     ],
     "enr": [
@@ -673,54 +857,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-11-15",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "05387788"
-    ],
-    "enr": [
-      "2701058"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-11",
-    "datumEnde": "2024-01-26",
-    "datumLetzteMeldung": "2024-01-11",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Lantus 100 I.E./ml Injektionslösung in Patrone - OP(10x3ml)",
-    "atcCode": "A10AE04",
-    "wirkstoffe": "Insulin glargin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Probleme bei der Chargenprüfung",
-    "grundAnmerkung": "Keine Alternative verfügbar",
-    "datumErstmeldung": "2024-01-11",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05387819"
-    ],
-    "enr": [
-      "2704301"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-11",
-    "datumEnde": "2024-01-26",
-    "datumLetzteMeldung": "2024-01-11",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Lantus 100 I.E./ml Injektionslösung in Fertigpen - OP(5x3ml)(SoloStar)",
-    "atcCode": "A10AE04",
-    "wirkstoffe": "Insulin glargin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Probleme bei der Chargenprüfung",
-    "grundAnmerkung": "10er Packung Solostar (PZN: 05387825) lieferbar",
-    "datumErstmeldung": "2024-01-11",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -4585,30 +4721,6 @@
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-12-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02481110",
-      "99999999"
-    ],
-    "enr": [
-      "2102405"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-03-01",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Neotri",
-    "atcCode": "C03EA",
-    "wirkstoffe": "Triamteren; Xipamid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "+49 34954 247 0",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Probleme beim Wirkstoffhersteller",
-    "datumErstmeldung": "2021-03-17",
     "infoFachkreise": "Nein"
   },
   {
@@ -10107,31 +10219,6 @@
     "grundAnmerkung": "n.a.",
     "datumErstmeldung": "2023-08-02",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01640374",
-      "02886203"
-    ],
-    "enr": [
-      "2151714"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-01",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-07-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Zyvoxid 600 mg Filmtabletten",
-    "atcCode": "J01XX08",
-    "wirkstoffe": "Linezolid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "alternativPraeparat": "Linezolid Ascend 600 mg Filmtabletten - Einreichungsnummer: 2199427",
-    "datumErstmeldung": "2023-07-31",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
