@@ -1,6 +1,217 @@
 [
   {
     "pzn": [
+      "11510477"
+    ],
+    "enr": [
+      "2190853"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-17",
+    "datumEnde": "2024-02-16",
+    "datumLetzteMeldung": "2024-01-17",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Linezolid Kabi 2 mg/ml Infusionslösung",
+    "atcCode": "J01XX08",
+    "wirkstoffe": "Linezolid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "telefon": "061726867883",
+    "mail": "frank.jethon@fresenius-kabi.com",
+    "grund": "Probleme bei der Endfreigabe",
+    "datumErstmeldung": "2024-01-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16890131"
+    ],
+    "enr": [
+      "2200278"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-17",
+    "datumEnde": "2024-04-30",
+    "datumLetzteMeldung": "2024-01-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Vildagliptin Denk 50 mg Tabletten",
+    "atcCode": "A10BH02",
+    "wirkstoffe": "Vildagliptin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
+    "mail": "edith.eigenberger@denkpharma.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-01-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00408497",
+      "01246186"
+    ],
+    "enr": [
+      "0929569"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-17",
+    "datumEnde": "2024-05-31",
+    "datumLetzteMeldung": "2024-01-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Gastrografin",
+    "atcCode": "V04CG, V08AA",
+    "wirkstoffe": "Amidotrizoat-Meglumin; Natriumamidotrizoat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bayer Vital GmbH",
+    "telefon": "08006422937",
+    "mail": "medical-information@bayer.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Erhöhte Marktnachfrage über den üblichen Bedarf hinaus aufgrund von Lieferengpässen anderer Hersteller.",
+    "datumErstmeldung": "2024-01-17",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03491257"
+    ],
+    "enr": [
+      "2132556"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-16",
+    "datumEnde": "2024-02-09",
+    "datumLetzteMeldung": "2024-01-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ergenyl vial",
+    "atcCode": "N03AG01",
+    "wirkstoffe": "Natriumvalproat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "0800 52 52 010",
+    "mail": "medinfo.de@sanofi.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Restware wird kontingentiert.",
+    "alternativPraeparat": "Ergenyl intravenös - Einreichungsnummer: 2132555",
+    "datumErstmeldung": "2024-01-17",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00541629"
+    ],
+    "enr": [
+      "2702242"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-17",
+    "datumEnde": "2024-02-07",
+    "datumLetzteMeldung": "2024-01-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Actraphane 30 FlexPen 100 IE/ml Injektionssuspension in Injektor - OP(10x3ml)",
+    "atcCode": "A10AD01",
+    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung)); Isophan-Insulin-Suspension zur Injektion (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "kurzfristig nicht verfügbar",
+    "datumErstmeldung": "2024-01-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00540765"
+    ],
+    "enr": [
+      "2702234"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-17",
+    "datumEnde": "2024-02-07",
+    "datumLetzteMeldung": "2024-01-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Actraphane 30 Penfill 100 IE/ml Injektionssuspension in Zylinderampulle - OP(10x3ml)",
+    "atcCode": "A10AD01",
+    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung)); Isophan-Insulin-Suspension zur Injektion (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "kurzfristig nicht verfügbar",
+    "datumErstmeldung": "2024-01-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09266722"
+    ],
+    "enr": [
+      "2174800"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-22",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-01-17",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Amiodaron-hameln 50 mg/ml Konzentrat zur Herstellung einer Injektions- /Infusionslösung",
+    "atcCode": "C01BD01",
+    "wirkstoffe": "Amiodaronhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "hameln pharma gmbh",
+    "telefon": "051518050245",
+    "mail": "stefan.bartsch@hameln-pharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-06-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07717184"
+    ],
+    "enr": [
+      "2178789"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-17",
+    "datumEnde": "2024-02-16",
+    "datumLetzteMeldung": "2024-01-17",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Paracetamol Kabi 10 mg/ml Infusionslösung",
+    "atcCode": "N02BE01",
+    "wirkstoffe": "Paracetamol",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "telefon": "061726867883",
+    "mail": "frank.jethon@fresenius-kabi.com",
+    "grund": "Probleme bei der Endfreigabe",
+    "datumErstmeldung": "2024-01-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02751495"
+    ],
+    "enr": [
+      "0072086"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-14",
+    "datumEnde": "2024-01-28",
+    "datumLetzteMeldung": "2024-01-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Volon A solubile 40 mg",
+    "atcCode": "H02AB08",
+    "wirkstoffe": "Triamcinolonacetonid-21-dihydrogenphosphat-Dikaliumsalz",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-12-21",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "01913843"
     ],
     "enr": [
@@ -3826,28 +4037,6 @@
     "mail": "elisabeth.rueckert@dermapharm.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-11-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02751495"
-    ],
-    "enr": [
-      "0072086"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-14",
-    "datumEnde": "2024-01-14",
-    "datumLetzteMeldung": "2023-12-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Volon A solubile 40 mg",
-    "atcCode": "H02AB08",
-    "wirkstoffe": "Triamcinolonacetonid-21-dihydrogenphosphat-Dikaliumsalz",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-12-21",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -9490,29 +9679,6 @@
     "mail": "de-info@aspenpharma.eu",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-04-11",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09266722"
-    ],
-    "enr": [
-      "2174800"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-22",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-09-06",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Amiodaron-hameln 50 mg/ml Konzentrat zur Herstellung einer Injektions- /Infusionslösung",
-    "atcCode": "C01BD01",
-    "wirkstoffe": "Amiodaronhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "hameln pharma gmbh",
-    "telefon": "051518050245",
-    "mail": "stefan.bartsch@hameln-pharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-06-22",
     "infoFachkreise": "Vorgesehen"
   },
   {
