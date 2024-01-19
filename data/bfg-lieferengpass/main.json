@@ -1,6 +1,194 @@
 [
   {
     "pzn": [
+      "02481110",
+      "99999999"
+    ],
+    "enr": [
+      "2102405"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2021-03-01",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-01-18",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Neotri",
+    "atcCode": "C03EA",
+    "wirkstoffe": "Triamteren; Xipamid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "+49 34954 247 0",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Verzögerte Bearbeitung notwendiger Änderungsanträge durch Behörde",
+    "datumErstmeldung": "2021-03-17",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "12724393",
+      "12724430"
+    ],
+    "enr": [
+      "2194619"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-01",
+    "datumEnde": "2024-02-19",
+    "datumLetzteMeldung": "2024-01-18",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil-ratiopharm 200 mg/245 mg Filmtabletten",
+    "atcCode": "J05AR03",
+    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilphosphat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-12-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01343564"
+    ],
+    "enr": [
+      "2143114"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-07",
+    "datumEnde": "2024-02-09",
+    "datumLetzteMeldung": "2024-01-18",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 50mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "Prednisolut 50mg L - Einreichungsnummer: 2143114",
+    "datumErstmeldung": "2023-07-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14404959"
+    ],
+    "enr": [
+      "2142771"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-06",
+    "datumEnde": "2024-03-18",
+    "datumLetzteMeldung": "2024-01-18",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "SUBUTEX 8 mg",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-07-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14404913"
+    ],
+    "enr": [
+      "2142770"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-04",
+    "datumEnde": "2024-02-12",
+    "datumLetzteMeldung": "2024-01-18",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "SUBUTEX 2 mg",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-08-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "05138571"
+    ],
+    "enr": [
+      "2703304"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-20",
+    "datumEnde": "2024-02-05",
+    "datumLetzteMeldung": "2024-01-18",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Suboxone 2 mg/0,5 mg Sublingualtabletten - OP28",
+    "atcCode": "N07BC51",
+    "wirkstoffe": "Buprenorphinhydrochlorid; Naloxonhydrochlorid-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06888311"
+    ],
+    "enr": [
+      "2100245"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-18",
+    "datumEnde": "2024-03-03",
+    "datumLetzteMeldung": "2024-01-18",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Syntaris",
+    "atcCode": "R01AD04",
+    "wirkstoffe": "Flunisolid-Hemihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "+498964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-01-18",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02498636",
+      "02498642"
+    ],
+    "enr": [
+      "2102131"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-24",
+    "datumEnde": "2024-02-26",
+    "datumLetzteMeldung": "2024-01-18",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Gentamicin-POS",
+    "atcCode": "S01AA11",
+    "wirkstoffe": "Gentamicinsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-12-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "11510477"
     ],
     "enr": [
@@ -19,28 +207,6 @@
     "telefon": "061726867883",
     "mail": "frank.jethon@fresenius-kabi.com",
     "grund": "Probleme bei der Endfreigabe",
-    "datumErstmeldung": "2024-01-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16890131"
-    ],
-    "enr": [
-      "2200278"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-17",
-    "datumEnde": "2024-04-30",
-    "datumLetzteMeldung": "2024-01-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Vildagliptin Denk 50 mg Tabletten",
-    "atcCode": "A10BH02",
-    "wirkstoffe": "Vildagliptin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
-    "mail": "edith.eigenberger@denkpharma.de",
-    "grund": "Sonstige",
     "datumErstmeldung": "2024-01-17",
     "infoFachkreise": "Vorgesehen"
   },
@@ -190,24 +356,25 @@
   },
   {
     "pzn": [
-      "02751495"
+      "16890125",
+      "16890131"
     ],
     "enr": [
-      "0072086"
+      "2200278"
     ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-14",
-    "datumEnde": "2024-01-28",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-17",
+    "datumEnde": "2024-04-30",
     "datumLetzteMeldung": "2024-01-17",
     "grundArt": "Sonstige",
-    "bezeichnung": "Volon A solubile 40 mg",
-    "atcCode": "H02AB08",
-    "wirkstoffe": "Triamcinolonacetonid-21-dihydrogenphosphat-Dikaliumsalz",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-12-21",
+    "bezeichnung": "Vildagliptin Denk 50 mg Tabletten",
+    "atcCode": "A10BH02",
+    "wirkstoffe": "Vildagliptin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
+    "mail": "edith.eigenberger@denkpharma.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-01-17",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -275,30 +442,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-01-16",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02481110",
-      "99999999"
-    ],
-    "enr": [
-      "2102405"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-03-01",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2024-01-16",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Neotri",
-    "atcCode": "C03EA",
-    "wirkstoffe": "Triamteren; Xipamid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "+49 34954 247 0",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Probleme beim Wirkstoffhersteller",
-    "datumErstmeldung": "2021-03-17",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -1071,29 +1214,6 @@
   },
   {
     "pzn": [
-      "07424364"
-    ],
-    "enr": [
-      "2177782"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-01",
-    "datumEnde": "2024-01-14",
-    "datumLetzteMeldung": "2024-01-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Kalymin retard",
-    "atcCode": "N07AA02",
-    "wirkstoffe": "Pyridostigminbromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-01-11",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "11538116",
       "11538122",
       "11538139"
@@ -1194,29 +1314,6 @@
   },
   {
     "pzn": [
-      "12724393",
-      "12724430"
-    ],
-    "enr": [
-      "2194619"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-01",
-    "datumEnde": "2024-03-08",
-    "datumLetzteMeldung": "2024-01-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil-ratiopharm 200 mg/245 mg Filmtabletten",
-    "atcCode": "J05AR03",
-    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilphosphat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-12-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00000000",
       "16866055"
     ],
@@ -1237,31 +1334,6 @@
     "mail": "info@aliud.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-11-08",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "00425308",
-      "03454121"
-    ],
-    "enr": [
-      "2111226"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-01",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2024-01-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Indometacin AL 50",
-    "atcCode": "M01AB01",
-    "wirkstoffe": "Indometacin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-24",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -1764,31 +1836,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-10-13",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00583088",
-      "00583094",
-      "14404959"
-    ],
-    "enr": [
-      "2142771"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-21",
-    "datumEnde": "2024-02-05",
-    "datumLetzteMeldung": "2024-01-09",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "SUBUTEX 8 mg",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-07-19",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -2425,29 +2472,6 @@
   },
   {
     "pzn": [
-      "05138571"
-    ],
-    "enr": [
-      "2703304"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-20",
-    "datumEnde": "2024-01-29",
-    "datumLetzteMeldung": "2024-01-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Suboxone 2 mg/0,5 mg Sublingualtabletten - OP28",
-    "atcCode": "N07BC51",
-    "wirkstoffe": "Buprenorphinhydrochlorid; Naloxonhydrochlorid-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "17550650"
     ],
     "enr": [
@@ -2468,29 +2492,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-08-18",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02057665",
-      "06888311"
-    ],
-    "enr": [
-      "2100245"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-18",
-    "datumEnde": "2024-01-21",
-    "datumLetzteMeldung": "2024-01-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Syntaris",
-    "atcCode": "R01AD04",
-    "wirkstoffe": "Flunisolid-Hemihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "mail": "service@dermapharm.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-01-04",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -2633,28 +2634,6 @@
     "grundAnmerkung": "Stark erhöhte Nachfrage führt zu Engpass",
     "datumErstmeldung": "2023-07-28",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04300118"
-    ],
-    "enr": [
-      "2109375"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-06",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2024-01-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ureotop + VAS Creme",
-    "atcCode": "D02AE",
-    "wirkstoffe": "Harnstoff; Tretinoin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "mail": "service@dermapharm.com",
-    "grund": "Probleme bei der Endfreigabe",
-    "datumErstmeldung": "2023-11-15",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -2846,30 +2825,6 @@
     "alternativPraeparat": "NovoRapid PumpCart 100 E/ml Injektionslösung in Patrone - OP[25x(5x1,6ml)] - Einreichungsnummer: 2712151",
     "datumErstmeldung": "2024-01-03",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01343564",
-      "01343570"
-    ],
-    "enr": [
-      "2143114"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-07",
-    "datumEnde": "2024-02-09",
-    "datumLetzteMeldung": "2024-01-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednisolut 50mg L",
-    "atcCode": "H02AB06",
-    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-13",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -3989,30 +3944,6 @@
     "mail": "info@aristo-pharma.de",
     "grund": "Probleme beim Sonstigen Hersteller",
     "datumErstmeldung": "2023-03-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02498636",
-      "02498642"
-    ],
-    "enr": [
-      "2102131"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-24",
-    "datumEnde": "2024-01-15",
-    "datumLetzteMeldung": "2023-12-21",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Gentamicin-POS",
-    "atcCode": "S01AA11",
-    "wirkstoffe": "Gentamicinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-12-20",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5386,29 +5317,6 @@
   },
   {
     "pzn": [
-      "00837270"
-    ],
-    "enr": [
-      "2703338"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-06",
-    "datumEnde": "2024-02-28",
-    "datumLetzteMeldung": "2023-12-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "BYETTA 5 Mikrogramm Injektionslösung in Fertigpen - OP[1x1,2ml(60Dosen)]",
-    "atcCode": "TERM_ID_NA_2090000838",
-    "wirkstoffe": "Exenatid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "AstraZeneca AB",
-    "telefon": "0800-2288660",
-    "mail": "service.center@astrazeneca.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-12-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04524898"
     ],
     "enr": [
@@ -5428,29 +5336,6 @@
     "mail": "service.info@gsk.com",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-12-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14404913"
-    ],
-    "enr": [
-      "2142770"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-04",
-    "datumEnde": "2024-01-29",
-    "datumLetzteMeldung": "2023-12-12",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "SUBUTEX 2 mg",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-10",
     "infoFachkreise": "Nein"
   },
   {
@@ -6490,31 +6375,6 @@
     "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
     "mail": "Quality.Berlin@bausch.com",
     "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-11-28",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "04900309",
-      "04900315"
-    ],
-    "enr": [
-      "2111782"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-01",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-11-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Bezafibrat AL 200",
-    "atcCode": "C10AB02",
-    "wirkstoffe": "Bezafibrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-11-28",
     "infoFachkreise": "Vorgesehen"
   },
@@ -8537,29 +8397,6 @@
   },
   {
     "pzn": [
-      "00264288"
-    ],
-    "enr": [
-      "0450909"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-19",
-    "datumEnde": "2024-01-19",
-    "datumLetzteMeldung": "2023-10-24",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Celestan solubile 4 mg",
-    "atcCode": "C05AA05",
-    "wirkstoffe": "Betamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Organon Healthcare GmbH",
-    "telefon": "+41763750450",
-    "mail": "simone.saenz@organon.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-10-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "16164229"
     ],
     "enr": [
@@ -9419,30 +9256,6 @@
     "alternativPraeparat": "L-Poladdict 20 mg Tabletten - Einreichungsnummer: 2196251",
     "datumErstmeldung": "2023-09-14",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "01140430"
-    ],
-    "enr": [
-      "2709663"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-13",
-    "datumEnde": "2024-02-15",
-    "datumLetzteMeldung": "2023-09-29",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Zyclara 3,75 % Creme - OP(28x250mg)",
-    "atcCode": "D06BB10",
-    "wirkstoffe": "Imiquimod",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare Limited",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "Aldara 5% Creme - OP24 - Einreichungsnummer: 2708571",
-    "datumErstmeldung": "2023-09-29",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
