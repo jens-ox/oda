@@ -1,6 +1,494 @@
 [
   {
     "pzn": [
+      "00350349",
+      "00460888"
+    ],
+    "enr": [
+      "2158919"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-06",
+    "datumEnde": "2024-02-02",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "AmoxiClav 400/57 TS-1A Pharma",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "telefon": "089/61388250",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-09-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02855728",
+      "02855734"
+    ],
+    "enr": [
+      "2157982"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2024-02-09",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pen 0,4 Mega TS - 1 A Pharma",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00658917",
+      "00658946",
+      "00658952"
+    ],
+    "enr": [
+      "2141152"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2024-02-16",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pen 1,5 Mega - 1 A Pharma",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00658834"
+    ],
+    "enr": [
+      "2107213"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-06",
+    "datumEnde": "2024-01-26",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxi 250 TS - 1 A Pharma",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-12-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00544674"
+    ],
+    "enr": [
+      "2134926"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-12",
+    "datumEnde": "2024-02-16",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoclav Trockensaft",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00658774",
+      "00658780"
+    ],
+    "enr": [
+      "2136012"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-17",
+    "datumEnde": "2024-02-16",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxi 750 - 1 A Pharma",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpass in Kombination mit erhöhter Nachfrage",
+    "datumErstmeldung": "2023-02-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06304528"
+    ],
+    "enr": [
+      "2142798"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-25",
+    "datumEnde": "2024-02-09",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "AmoxiClav 125/31,25 TS - 1 A Pharma",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07717184"
+    ],
+    "enr": [
+      "2178789"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-17",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Paracetamol Kabi 10 mg/ml Infusionslösung",
+    "atcCode": "N02BE01",
+    "wirkstoffe": "Paracetamol",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "telefon": "061726867883",
+    "mail": "frank.jethon@fresenius-kabi.com",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundAnmerkung": "Teilfreigaben bereits produzierter Chargen ab 22.01.2024",
+    "datumErstmeldung": "2024-01-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04511507",
+      "04511542"
+    ],
+    "enr": [
+      "2129700",
+      "2129702"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-01",
+    "datumEnde": "2024-09-30",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cibacen 10 mg Filmtabletten",
+    "atcCode": "C09AA07",
+    "wirkstoffe": "Benazeprilhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Es ist beabsichtigt, den Vertrieb einzustellen.",
+    "datumErstmeldung": "2024-01-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00731465",
+      "04527098"
+    ],
+    "enr": [
+      "0196606"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-28",
+    "datumEnde": "2024-03-07",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Novalgin 1 g-Injektionslösung",
+    "atcCode": "N02BB02",
+    "wirkstoffe": "Metamizol-Natrium-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "A. Nattermann & Cie. Gesellschaft mit beschränkter Haftung",
+    "mail": "frachcra@sanofi.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-18",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11184925",
+      "11483177"
+    ],
+    "enr": [
+      "2188376"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-01",
+    "datumEnde": "2024-03-15",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "COMBIPRASAL 0,5 mg / 2,5 mg Lösung für einen Vernebler",
+    "atcCode": "R03AL02",
+    "wirkstoffe": "Ipratropiumbromid (Ph.Eur.); Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Penta Arzneimittel GmbH",
+    "mail": "cornelius@penta-arzneimittel.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14212591",
+      "14212616"
+    ],
+    "enr": [
+      "2199696"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-02",
+    "datumEnde": "2024-01-19",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Agomelatin Zentiva 25 mg Filmtabletten",
+    "atcCode": "N06AX22",
+    "wirkstoffe": "Agomelatin-Citronensäure (1:1)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Zentiva Pharma GmbH",
+    "telefon": "0800 53 53 010",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Kapazitätsengpass",
+    "datumErstmeldung": "2024-01-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12569107",
+      "12569136"
+    ],
+    "enr": [
+      "2197700"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-13",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Levetiracetam-Hormosan 100 mg/ml Lösung zum Einnehmen",
+    "atcCode": "N03AX14",
+    "wirkstoffe": "Levetiracetam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-11-13"
+  },
+  {
+    "pzn": [
+      "05395693"
+    ],
+    "enr": [
+      "2164820"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-08",
+    "datumEnde": "2024-05-02",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Topiramat-Hormosan 50 mg Filmtabletten",
+    "atcCode": "N03AX11",
+    "wirkstoffe": "Topiramat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069476730",
+    "mail": "service@hormosan.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-12-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05395730"
+    ],
+    "enr": [
+      "2164821"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-08",
+    "datumEnde": "2024-03-11",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Topiramat-Hormosan 100 mg Filmtabletten",
+    "atcCode": "N03AX11",
+    "wirkstoffe": "Topiramat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-12-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05395730"
+    ],
+    "enr": [
+      "2164819"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-07",
+    "datumEnde": "2024-03-11",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Topiramat-Hormosan 25 mg Filmtabletten",
+    "atcCode": "N03AX11",
+    "wirkstoffe": "Topiramat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-12-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17941899"
+    ],
+    "enr": [
+      "2205408"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-17",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Lacosamid Hormosan 100 mg Filmtabletten",
+    "atcCode": "N03AX18",
+    "wirkstoffe": "Lacosamid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-01-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17941847"
+    ],
+    "enr": [
+      "2205407"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-17",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Lacosamid Hormosan 50 mg Filmtabletten",
+    "atcCode": "N03AX18",
+    "wirkstoffe": "Lacosamid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-01-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11538168"
+    ],
+    "enr": [
+      "2176827"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-17",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon HCl Hormosan 16 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-01-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12652593"
+    ],
+    "enr": [
+      "2197257"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-17",
+    "datumEnde": "2024-05-03",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Etorican 60 mg Filmtabletten",
+    "atcCode": "M01AH05",
+    "wirkstoffe": "Etoricoxib",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-01-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16886862"
+    ],
+    "enr": [
+      "2204214"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-07",
+    "datumEnde": "2024-01-22",
+    "datumLetzteMeldung": "2024-01-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Sorafenib STADA 200 mg Filmtabletten",
+    "atcCode": "L01EX02",
+    "wirkstoffe": "Sorafenibtosilat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "telefon": "+4961016032416",
+    "mail": "christiane.georgi@stada.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "02481110",
       "99999999"
     ],
@@ -329,29 +817,6 @@
     "mail": "stefan.bartsch@hameln-pharma.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-06-22",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07717184"
-    ],
-    "enr": [
-      "2178789"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-17",
-    "datumEnde": "2024-02-16",
-    "datumLetzteMeldung": "2024-01-17",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Paracetamol Kabi 10 mg/ml Infusionslösung",
-    "atcCode": "N02BE01",
-    "wirkstoffe": "Paracetamol",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-    "telefon": "061726867883",
-    "mail": "frank.jethon@fresenius-kabi.com",
-    "grund": "Probleme bei der Endfreigabe",
-    "datumErstmeldung": "2024-01-17",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -1291,29 +1756,6 @@
   },
   {
     "pzn": [
-      "12569107"
-    ],
-    "enr": [
-      "2197700"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-13",
-    "datumEnde": "2024-02-29",
-    "datumLetzteMeldung": "2024-01-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Levetiracetam-Hormosan 100 mg/ml Lösung zum Einnehmen",
-    "atcCode": "N03AX14",
-    "wirkstoffe": "Levetiracetam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-11-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00000000",
       "16866055"
     ],
@@ -1980,143 +2422,6 @@
   },
   {
     "pzn": [
-      "00544674"
-    ],
-    "enr": [
-      "2134926"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-12",
-    "datumEnde": "2024-01-19",
-    "datumLetzteMeldung": "2024-01-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoclav Trockensaft",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-06-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00658834"
-    ],
-    "enr": [
-      "2107213"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-06",
-    "datumEnde": "2024-01-19",
-    "datumLetzteMeldung": "2024-01-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxi 250 TS - 1 A Pharma",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-12-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00658917",
-      "00658946",
-      "00658952"
-    ],
-    "enr": [
-      "2141152"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2024-01-19",
-    "datumLetzteMeldung": "2024-01-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pen 1,5 Mega - 1 A Pharma",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06304528"
-    ],
-    "enr": [
-      "2142798"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-25",
-    "datumEnde": "2024-01-12",
-    "datumLetzteMeldung": "2024-01-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "AmoxiClav 125/31,25 TS - 1 A Pharma",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-04-25",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00658774",
-      "00658780"
-    ],
-    "enr": [
-      "2136012"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-17",
-    "datumEnde": "2024-01-12",
-    "datumLetzteMeldung": "2024-01-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxi 750 - 1 A Pharma",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Kapazitätsengpass in Kombination mit erhöhter Nachfrage",
-    "datumErstmeldung": "2023-02-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02855728",
-      "02855734"
-    ],
-    "enr": [
-      "2157982"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2024-01-19",
-    "datumLetzteMeldung": "2024-01-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pen 0,4 Mega TS - 1 A Pharma",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00860926",
       "00860984"
     ],
@@ -2137,54 +2442,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2022-10-11",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06322472",
-      "06322727",
-      "06322791"
-    ],
-    "enr": [
-      "2167593"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-30",
-    "datumEnde": "2024-01-19",
-    "datumLetzteMeldung": "2024-01-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Risperidon - 1 A Pharma 0,25 mg Filmtabletten",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2024-01-08",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05992526",
-      "05992532",
-      "05992549"
-    ],
-    "enr": [
-      "2166672"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-30",
-    "datumEnde": "2024-01-29",
-    "datumLetzteMeldung": "2024-01-08",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Risperidon - 1 A Pharma 0,5 mg Filmtabletten",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2024-01-08",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -2306,29 +2563,6 @@
     "grundAnmerkung": "Produktionsengpass",
     "datumErstmeldung": "2023-12-21",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16886862"
-    ],
-    "enr": [
-      "2204214"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-07",
-    "datumEnde": "2024-01-15",
-    "datumLetzteMeldung": "2024-01-08",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Sorafenib STADA 200 mg Filmtabletten",
-    "atcCode": "L01EX02",
-    "wirkstoffe": "Sorafenibtosilat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "+4961016032416",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-11-10",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -2539,29 +2773,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-08-23",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11184925",
-      "11483177"
-    ],
-    "enr": [
-      "2188376"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-01",
-    "datumEnde": "2024-03-15",
-    "datumLetzteMeldung": "2024-01-04",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "COMBIPRASAL 0,5 mg / 2,5 mg Lösung für einen Vernebler",
-    "atcCode": "R03AL02",
-    "wirkstoffe": "Ipratropiumbromid (Ph.Eur.); Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Penta Arzneimittel GmbH",
-    "mail": "cornelius@penta-arzneimittel.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-11-27",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -3065,31 +3276,6 @@
   },
   {
     "pzn": [
-      "00731465",
-      "04527098",
-      "06053291"
-    ],
-    "enr": [
-      "0196606",
-      "1445922"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-28",
-    "datumEnde": "2024-03-07",
-    "datumLetzteMeldung": "2024-01-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Novalgin 1 g-Injektionslösung",
-    "atcCode": "N02BB02",
-    "wirkstoffe": "Metamizol-Natrium-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "A. Nattermann & Cie. Gesellschaft mit beschränkter Haftung",
-    "mail": "frachcra@sanofi.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-18",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "14166738",
       "14166744"
     ],
@@ -3275,29 +3461,6 @@
     "mail": "info@stragen-pharma.de",
     "grund": "Probleme beim Sonstigen Hersteller",
     "datumErstmeldung": "2022-12-16",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05395730"
-    ],
-    "enr": [
-      "2164819"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-07",
-    "datumEnde": "2024-02-19",
-    "datumLetzteMeldung": "2023-12-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Topiramat-Hormosan 25 mg Filmtabletten",
-    "atcCode": "N03AX11",
-    "wirkstoffe": "Topiramat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-12-07",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -3642,30 +3805,6 @@
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00350349",
-      "00460888"
-    ],
-    "enr": [
-      "2158919"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-06",
-    "datumEnde": "2024-01-19",
-    "datumLetzteMeldung": "2023-12-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "AmoxiClav 400/57 TS-1A Pharma",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "089/61388250",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-09-06",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5621,52 +5760,6 @@
     "grund": "Probleme bei der Endfreigabe",
     "grundAnmerkung": "Interne Kapazitätsengpässe und Verzögerungen bei der Freigabe",
     "alternativPraeparat": "Arterenol 1ml - Einreichungsnummer: 0444642",
-    "datumErstmeldung": "2023-12-08",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05395730"
-    ],
-    "enr": [
-      "2164821"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-08",
-    "datumEnde": "2024-02-19",
-    "datumLetzteMeldung": "2023-12-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Topiramat-Hormosan 100 mg Filmtabletten",
-    "atcCode": "N03AX11",
-    "wirkstoffe": "Topiramat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-12-08",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05395693"
-    ],
-    "enr": [
-      "2164820"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-08",
-    "datumEnde": "2024-02-19",
-    "datumLetzteMeldung": "2023-12-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Topiramat-Hormosan 50 mg Filmtabletten",
-    "atcCode": "N03AX11",
-    "wirkstoffe": "Topiramat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069476730",
-    "mail": "service@hormosan.de",
-    "grund": "Sonstige",
     "datumErstmeldung": "2023-12-08",
     "infoFachkreise": "Vorgesehen"
   },
