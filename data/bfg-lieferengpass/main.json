@@ -1,6 +1,411 @@
 [
   {
     "pzn": [
+      "01551736",
+      "02139417",
+      "03736227"
+    ],
+    "enr": [
+      "2152119"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-22",
+    "datumEnde": "2024-06-05",
+    "datumLetzteMeldung": "2024-01-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cisplatin NeoCorp 1 mg/ml - Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "L01XA01",
+    "wirkstoffe": "Cisplatin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-01-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00575812",
+      "00575829"
+    ],
+    "enr": [
+      "2141125"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-17",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2024-01-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Zopiclon-neuraxpharm 3,75 mg",
+    "atcCode": "N05CF01",
+    "wirkstoffe": "Zopiclon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49 2173 1060 0",
+    "mail": "zulassung@neuraxpharm.de",
+    "grund": "GMP Mängel",
+    "datumErstmeldung": "2023-06-22",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00575858",
+      "00575870"
+    ],
+    "enr": [
+      "2141127"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-17",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2024-01-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Zopiclon-neuraxpharm 7,5 mg",
+    "atcCode": "N05CF01",
+    "wirkstoffe": "Zopiclon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49 2173 1060 0",
+    "mail": "zulassung@neuraxpharm.de",
+    "grund": "GMP Mängel",
+    "datumErstmeldung": "2023-06-22",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17441375",
+      "17441381"
+    ],
+    "enr": [
+      "7000145"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-17",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2024-01-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Clonazepam neuraxpharm 2 mg Tabletten",
+    "atcCode": "N03AE01",
+    "wirkstoffe": "Clonazepam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49 2173 1060 0",
+    "mail": "zulassung@neuraxpharm.de",
+    "grund": "GMP Mängel",
+    "datumErstmeldung": "2023-06-22",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17441352",
+      "17441369"
+    ],
+    "enr": [
+      "7000144"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-17",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2024-01-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Clonazepam neuraxpharm 1 mg Tabletten",
+    "atcCode": "N03AE01",
+    "wirkstoffe": "Clonazepam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49 2173 1060 0",
+    "mail": "info@neuraxpharm.de",
+    "grund": "GMP Mängel",
+    "datumErstmeldung": "2023-06-22",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17441300",
+      "17441323"
+    ],
+    "enr": [
+      "7000143"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-17",
+    "datumEnde": "2024-01-31",
+    "datumLetzteMeldung": "2024-01-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Clonazepam neuraxpharm 0,5 mg Tabletten",
+    "atcCode": "N03AE01",
+    "wirkstoffe": "Clonazepam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "02173 1060 0",
+    "mail": "info@neuraxpharm.de",
+    "grund": "GMP Mängel",
+    "datumErstmeldung": "2023-06-22",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08926079"
+    ],
+    "enr": [
+      "2138669"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-05",
+    "datumEnde": "2024-02-15",
+    "datumLetzteMeldung": "2024-01-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fluvoxamin-neuraxpharm 100 mg",
+    "atcCode": "N06AB08",
+    "wirkstoffe": "Fluvoxaminmaleat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49217310600",
+    "mail": "info@neuraxpharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08926033",
+      "08926056",
+      "08926062"
+    ],
+    "enr": [
+      "2138668"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-05",
+    "datumEnde": "2024-02-15",
+    "datumLetzteMeldung": "2024-01-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fluvoxamin-neuraxpharm 50 mg",
+    "atcCode": "N06AB08",
+    "wirkstoffe": "Fluvoxaminmaleat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49217310600",
+    "mail": "info@neuraxpharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "12546773"
+    ],
+    "enr": [
+      "2712699"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-12",
+    "datumEnde": "2024-03-01",
+    "datumLetzteMeldung": "2024-01-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil Mylan 200 mg/245 mg Filmtabletten - OP30(Fl)",
+    "atcCode": "J05AR03",
+    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilmaleat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Pharmaceuticals Limited",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-01-22",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14212591",
+      "14212616"
+    ],
+    "enr": [
+      "2199696"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-02",
+    "datumEnde": "2024-02-07",
+    "datumLetzteMeldung": "2024-01-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Agomelatin Zentiva 25 mg Filmtabletten",
+    "atcCode": "N06AX22",
+    "wirkstoffe": "Agomelatin-Citronensäure (1:1)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Zentiva Pharma GmbH",
+    "telefon": "0800 53 53 010",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Kapazitätsengpass",
+    "datumErstmeldung": "2024-01-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14439656"
+    ],
+    "enr": [
+      "7003504"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-07",
+    "datumEnde": "2024-05-27",
+    "datumLetzteMeldung": "2024-01-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Braftovi 50 mg Hartkapseln",
+    "atcCode": "L01XE46",
+    "wirkstoffe": "Encorafenib",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pierre Fabre Medicament",
+    "telefon": "076145261230",
+    "mail": "harald.huber@pierre-fabre.com",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Braftovi 75 mg Hartkapseln - Einreichungsnummer: 2714504",
+    "datumErstmeldung": "2023-11-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14275924"
+    ],
+    "enr": [
+      "2714503"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-07",
+    "datumEnde": "2024-02-19",
+    "datumLetzteMeldung": "2024-01-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Braftovi 50 mg Hartkapseln",
+    "atcCode": "L01XE",
+    "wirkstoffe": "Encorafenib",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pierre Fabre Medicament Production  Rechtsform: S.A.S",
+    "telefon": "076145261233",
+    "mail": "zulassung_de@pierre-fabre.com",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Braftovi 75 mg Hartkapseln - Einreichungsnummer: 2714504",
+    "datumErstmeldung": "2023-11-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16239424",
+      "16239430"
+    ],
+    "enr": [
+      "2204918"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-05",
+    "datumEnde": "2024-01-29",
+    "datumLetzteMeldung": "2024-01-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tamsublock Duo 0,5 mg/0,4 mg Hartkapseln",
+    "atcCode": "G04CA52",
+    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dr. Pfleger Arzneimittel GmbH - Geschäftsanschrift -",
+    "mail": "regaffairs@dr-pfleger.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-12-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04046370"
+    ],
+    "enr": [
+      "2155224"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-21",
+    "datumEnde": "2024-03-04",
+    "datumLetzteMeldung": "2024-01-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocef 500 Saft",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
+    "datumErstmeldung": "2022-12-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06648311"
+    ],
+    "enr": [
+      "2124662"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-27",
+    "datumEnde": "2024-02-05",
+    "datumLetzteMeldung": "2024-01-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectomox 500 Saft",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04958214",
+      "04958220"
+    ],
+    "enr": [
+      "2100184"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-13",
+    "datumEnde": "2024-03-04",
+    "datumLetzteMeldung": "2024-01-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Grüncef 1 g",
+    "atcCode": "J01DB05",
+    "wirkstoffe": "Cefadroxil-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06323307",
+      "06323313"
+    ],
+    "enr": [
+      "2121913"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-03",
+    "datumEnde": "2024-02-19",
+    "datumLetzteMeldung": "2024-01-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Aponal Tropfen",
+    "atcCode": "N06AA12",
+    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+    "telefon": "038343914465",
+    "mail": "ra-aponal@cheplapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-10-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "00350349",
       "00460888"
     ],
@@ -254,30 +659,6 @@
     "mail": "cornelius@penta-arzneimittel.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-11-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14212591",
-      "14212616"
-    ],
-    "enr": [
-      "2199696"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-02",
-    "datumEnde": "2024-01-19",
-    "datumLetzteMeldung": "2024-01-19",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Agomelatin Zentiva 25 mg Filmtabletten",
-    "atcCode": "N06AX22",
-    "wirkstoffe": "Agomelatin-Citronensäure (1:1)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Zentiva Pharma GmbH",
-    "telefon": "0800 53 53 010",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Kapazitätsengpass",
-    "datumErstmeldung": "2024-01-19",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2566,29 +2947,6 @@
   },
   {
     "pzn": [
-      "06648311"
-    ],
-    "enr": [
-      "2124662"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-27",
-    "datumEnde": "2024-01-22",
-    "datumLetzteMeldung": "2024-01-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectomox 500 Saft",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01356271"
     ],
     "enr": [
@@ -3923,29 +4281,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-12-22",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16239424",
-      "16239430"
-    ],
-    "enr": [
-      "2204918"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-05",
-    "datumEnde": "2024-01-17",
-    "datumLetzteMeldung": "2023-12-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Tamsublock Duo 0,5 mg/0,4 mg Hartkapseln",
-    "atcCode": "G04CA52",
-    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dr. Pfleger Arzneimittel GmbH - Geschäftsanschrift -",
-    "mail": "regaffairs@dr-pfleger.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-12-21",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -5980,55 +6315,6 @@
   },
   {
     "pzn": [
-      "08926033",
-      "08926056",
-      "08926062"
-    ],
-    "enr": [
-      "2138668"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-05",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-12-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fluvoxamin-neuraxpharm 50 mg",
-    "atcCode": "N06AB08",
-    "wirkstoffe": "Fluvoxaminmaleat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "+49217310600",
-    "mail": "info@neuraxpharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08926079",
-      "08926085"
-    ],
-    "enr": [
-      "2138669"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-05",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-12-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fluvoxamin-neuraxpharm 100 mg",
-    "atcCode": "N06AB08",
-    "wirkstoffe": "Fluvoxaminmaleat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "+49217310600",
-    "mail": "info@neuraxpharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01875775"
     ],
     "enr": [
@@ -6284,32 +6570,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-11-30",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02742912",
-      "03518163",
-      "03518186",
-      "99999999"
-    ],
-    "enr": [
-      "0728693"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-01",
-    "datumEnde": "2024-02-29",
-    "datumLetzteMeldung": "2023-11-30",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Conceplan M",
-    "atcCode": "G03AA05",
-    "wirkstoffe": "Ethinylestradiol; Norethisteron",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-08-24",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -7069,31 +7329,6 @@
   },
   {
     "pzn": [
-      "04046370",
-      "04834529"
-    ],
-    "enr": [
-      "2155224"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-21",
-    "datumEnde": "2024-03-04",
-    "datumLetzteMeldung": "2023-11-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocef 500 Saft",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
-    "datumErstmeldung": "2022-12-09",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04771651",
       "04771680"
     ],
@@ -7514,126 +7749,6 @@
   },
   {
     "pzn": [
-      "17441300",
-      "17441323"
-    ],
-    "enr": [
-      "7000143"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-17",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Clonazepam neuraxpharm 0,5 mg Tabletten",
-    "atcCode": "N03AE01",
-    "wirkstoffe": "Clonazepam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "02173 1060 0",
-    "mail": "info@neuraxpharm.de",
-    "grund": "GMP Mängel",
-    "datumErstmeldung": "2023-06-22",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "17441352",
-      "17441369"
-    ],
-    "enr": [
-      "7000144"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-17",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Clonazepam neuraxpharm 1 mg Tabletten",
-    "atcCode": "N03AE01",
-    "wirkstoffe": "Clonazepam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "+49 2173 1060 0",
-    "mail": "info@neuraxpharm.de",
-    "grund": "GMP Mängel",
-    "datumErstmeldung": "2023-06-22",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "17441375",
-      "17441381"
-    ],
-    "enr": [
-      "7000145"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-17",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Clonazepam neuraxpharm 2 mg Tabletten",
-    "atcCode": "N03AE01",
-    "wirkstoffe": "Clonazepam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "+49 2173 1060 0",
-    "mail": "zulassung@neuraxpharm.de",
-    "grund": "GMP Mängel",
-    "datumErstmeldung": "2023-06-22",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00575858",
-      "00575870"
-    ],
-    "enr": [
-      "2141127"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-17",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Zopiclon-neuraxpharm 7,5 mg",
-    "atcCode": "N05CF01",
-    "wirkstoffe": "Zopiclon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "+49 2173 1060 0",
-    "mail": "zulassung@neuraxpharm.de",
-    "grund": "GMP Mängel",
-    "datumErstmeldung": "2023-06-22",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00575812",
-      "00575829"
-    ],
-    "enr": [
-      "2141125"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-17",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Zopiclon-neuraxpharm 3,75 mg",
-    "atcCode": "N05CF01",
-    "wirkstoffe": "Zopiclon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "+49 2173 1060 0",
-    "mail": "zulassung@neuraxpharm.de",
-    "grund": "GMP Mängel",
-    "datumErstmeldung": "2023-06-22",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "18265414",
       "18265420",
       "18265437"
@@ -7801,54 +7916,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
     "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14275924"
-    ],
-    "enr": [
-      "2714503"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-07",
-    "datumEnde": "2024-01-22",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Braftovi 50 mg Hartkapseln",
-    "atcCode": "L01XE",
-    "wirkstoffe": "Encorafenib",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pierre Fabre Medicament Production  Rechtsform: S.A.S",
-    "telefon": "076145261233",
-    "mail": "zulassung_de@pierre-fabre.com",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "Braftovi 75 mg Hartkapseln - Einreichungsnummer: 2714504",
-    "datumErstmeldung": "2023-11-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14439656"
-    ],
-    "enr": [
-      "7003504"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-07",
-    "datumEnde": "2024-01-22",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Braftovi 50 mg Hartkapseln",
-    "atcCode": "L01XE46",
-    "wirkstoffe": "Encorafenib",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pierre Fabre Medicament",
-    "telefon": "076145261230",
-    "mail": "harald.huber@pierre-fabre.com",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "Braftovi 75 mg Hartkapseln - Einreichungsnummer: 2714504",
-    "datumErstmeldung": "2023-11-10",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -8408,30 +8475,6 @@
     "alternativPraeparat": "Carbostesin 0,25% - Einreichungsnummer: 0077681",
     "datumErstmeldung": "2023-06-29",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04958214",
-      "04958220"
-    ],
-    "enr": [
-      "2100184"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-13",
-    "datumEnde": "2024-01-22",
-    "datumLetzteMeldung": "2023-10-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Grüncef 1 g",
-    "atcCode": "J01DB05",
-    "wirkstoffe": "Cefadroxil-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-13",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -9189,30 +9232,6 @@
     "grund": "Sonstige",
     "grundAnmerkung": "Ware wird kontigentiert",
     "datumErstmeldung": "2023-10-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06323307",
-      "06323313"
-    ],
-    "enr": [
-      "2121913"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-03",
-    "datumEnde": "2024-01-15",
-    "datumLetzteMeldung": "2023-10-09",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Aponal Tropfen",
-    "atcCode": "N06AA12",
-    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "telefon": "038343914465",
-    "mail": "ra-aponal@cheplapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-10-09",
     "infoFachkreise": "Vorgesehen"
   },
   {
