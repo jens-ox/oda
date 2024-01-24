@@ -1,6 +1,167 @@
 [
   {
     "pzn": [
+      "16015989"
+    ],
+    "enr": [
+      "2106493"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-25",
+    "datumEnde": "2024-05-17",
+    "datumLetzteMeldung": "2024-01-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sultanol forte Fertiginhalat",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
+    "telefon": "08001223355",
+    "mail": "service.info@gsk.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-11-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07717178"
+    ],
+    "enr": [
+      "2178789"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-17",
+    "datumEnde": "2024-02-16",
+    "datumLetzteMeldung": "2024-01-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Paracetamol Kabi 10 mg/ml Infusionslösung",
+    "atcCode": "N02BE01",
+    "wirkstoffe": "Paracetamol",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "telefon": "061726867883",
+    "mail": "frank.jethon@fresenius-kabi.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-01-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02231620"
+    ],
+    "enr": [
+      "2146168"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-04",
+    "datumEnde": "2024-04-12",
+    "datumLetzteMeldung": "2024-01-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednison acis 20 mg",
+    "atcCode": "H02AB07",
+    "wirkstoffe": "Prednison",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "+498944232460",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-01-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04051810"
+    ],
+    "enr": [
+      "2164057"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-19",
+    "datumEnde": "2024-03-08",
+    "datumLetzteMeldung": "2024-01-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Lamotrigin acis 50 mg Tabletten",
+    "atcCode": "N03AX09",
+    "wirkstoffe": "Lamotrigin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "+498944232460",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-01-23",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03083251"
+    ],
+    "enr": [
+      "2106472"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-18",
+    "datumEnde": "2024-02-22",
+    "datumLetzteMeldung": "2024-01-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Dexa-Gentamicin",
+    "atcCode": "S01CA01",
+    "wirkstoffe": "Dexamethason; Gentamicinsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-12-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00669559"
+    ],
+    "enr": [
+      "2139320"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-09-15",
+    "datumEnde": "2024-06-19",
+    "datumLetzteMeldung": "2024-01-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Amoxi-Clavulan STADA TS 125/31,25 mg Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "telefon": "+4961016032416",
+    "mail": "christiane.georgi@stada.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-01-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02146877"
+    ],
+    "enr": [
+      "2151973"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-20",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-01-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Decapeptyl N 3,75 mg Pulver und Lösungsmittel zur Herstellung einer Injektionssuspension",
+    "atcCode": "L02AE04",
+    "wirkstoffe": "Triptorelinacetat (1:x) ((mit Angaben zum Essigsäure-Gehalt))",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Ferring GmbH",
+    "telefon": "+494315852134",
+    "mail": "petra.wagner@ferring.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "01551736",
       "02139417",
       "03736227"
@@ -563,30 +724,6 @@
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-04-25",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07717184"
-    ],
-    "enr": [
-      "2178789"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-17",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2024-01-19",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Paracetamol Kabi 10 mg/ml Infusionslösung",
-    "atcCode": "N02BE01",
-    "wirkstoffe": "Paracetamol",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-    "telefon": "061726867883",
-    "mail": "frank.jethon@fresenius-kabi.com",
-    "grund": "Probleme bei der Endfreigabe",
-    "grundAnmerkung": "Teilfreigaben bereits produzierter Chargen ab 22.01.2024",
-    "datumErstmeldung": "2024-01-17",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -1471,7 +1608,7 @@
     "atcCode": "N06BA12",
     "wirkstoffe": "Lisdexamfetamindimesilat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda Pharmaceuticals International AG Ireland Branch",
+    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
     "telefon": "0800 825 332 5",
     "mail": "medinfoEMEA@takeda.com",
     "grund": "Erhöhte Nachfrage",
@@ -2401,29 +2538,6 @@
     "grundAnmerkung": "Nachfrage in Deutschland kann nur teilweise gedeckt werden",
     "datumErstmeldung": "2024-01-10",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02231620"
-    ],
-    "enr": [
-      "2146168"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-04",
-    "datumEnde": "2024-02-09",
-    "datumLetzteMeldung": "2024-01-09",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednison acis 20 mg",
-    "atcCode": "H02AB07",
-    "wirkstoffe": "Prednison",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "acis Arzneimittel GmbH",
-    "telefon": "+498944232460",
-    "mail": "Medwiss.Acis@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-01-09",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -4517,29 +4631,6 @@
   },
   {
     "pzn": [
-      "03083251"
-    ],
-    "enr": [
-      "2106472"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-18",
-    "datumEnde": "2024-01-22",
-    "datumLetzteMeldung": "2023-12-20",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Dexa-Gentamicin",
-    "atcCode": "S01CA01",
-    "wirkstoffe": "Dexamethason; Gentamicinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-12-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08774669"
     ],
     "enr": [
@@ -5791,29 +5882,6 @@
   },
   {
     "pzn": [
-      "04524898"
-    ],
-    "enr": [
-      "2119284"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-28",
-    "datumEnde": "2024-02-09",
-    "datumLetzteMeldung": "2023-12-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Turixin",
-    "atcCode": "R01AX06",
-    "wirkstoffe": "Mupirocin-Calcium (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
-    "telefon": "08001223355",
-    "mail": "service.info@gsk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-12-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04257799",
       "04257888",
       "06649606",
@@ -5953,29 +6021,6 @@
     "mail": "nicola.bruns@hennig-am.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-11-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02146877"
-    ],
-    "enr": [
-      "2151973"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-20",
-    "datumEnde": "2024-02-29",
-    "datumLetzteMeldung": "2023-12-11",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Decapeptyl N 3,75 mg Pulver und Lösungsmittel zur Herstellung einer Injektionssuspension",
-    "atcCode": "L02AE04",
-    "wirkstoffe": "Triptorelinacetat (1:x) ((mit Angaben zum Essigsäure-Gehalt))",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Ferring GmbH",
-    "telefon": "+494315852134",
-    "mail": "petra.wagner@ferring.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-20",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -6805,29 +6850,6 @@
     "grundAnmerkung": "IRENAT® Tropfen (Natriumperchlorat 300 mg/ml) sind ab Dezember 2023 für mindestens 24 Monate nicht lieferbar.",
     "datumErstmeldung": "2023-09-01",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16015989"
-    ],
-    "enr": [
-      "2106493"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-25",
-    "datumEnde": "2024-01-17",
-    "datumLetzteMeldung": "2023-11-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sultanol forte Fertiginhalat",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
-    "telefon": "08001223355",
-    "mail": "service.info@gsk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-11-27",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -8499,7 +8521,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -10303,7 +10325,7 @@
     "atcCode": "H02AB08",
     "wirkstoffe": "Triamcinolonhexacetonid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -10427,7 +10449,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
