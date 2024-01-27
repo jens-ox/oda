@@ -1,6 +1,172 @@
 [
   {
     "pzn": [
+      "03525921",
+      "99999999"
+    ],
+    "enr": [
+      "2103726"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2020-03-01",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-01-26",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxicillin-ratiopharm 250mg/5ml TS",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0800 10 117 07",
+    "mail": "info@ratiopharm.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2020-03-26",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00020511"
+    ],
+    "enr": [
+      "2703491"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-01",
+    "datumEnde": "2024-05-31",
+    "datumLetzteMeldung": "2024-01-26",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "TOVIAZ 4 mg Retardtabletten - OP28",
+    "atcCode": "G04BD11",
+    "wirkstoffe": "Fesoterodinfumarat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Europe MA EEIG",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-10-12",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00020540"
+    ],
+    "enr": [
+      "2703496"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-31",
+    "datumEnde": "2024-05-31",
+    "datumLetzteMeldung": "2024-01-26",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "TOVIAZ 8 mg Retardtabletten - OP28",
+    "atcCode": "G04BD11",
+    "wirkstoffe": "Fesoterodinfumarat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pfizer Europe MA EEIG",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-10-12",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06140937"
+    ],
+    "enr": [
+      "2705330"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-01",
+    "datumEnde": "2024-05-31",
+    "datumLetzteMeldung": "2024-01-26",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "TOVIAZ 4 mg Retardtabletten - OP84",
+    "atcCode": "G04BD11",
+    "wirkstoffe": "Fesoterodinfumarat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pfizer Europe MA EEIG",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-10-12",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00571808"
+    ],
+    "enr": [
+      "2707569"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-01",
+    "datumEnde": "2024-05-31",
+    "datumLetzteMeldung": "2024-01-26",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "TOVIAZ 8 mg Retardtabletten - OP100(Bl)",
+    "atcCode": "G04BD11",
+    "wirkstoffe": "Fesoterodinfumarat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pfizer Europe MA EEIG",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-10-12",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "10796342"
+    ],
+    "enr": [
+      "2703495"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-05",
+    "datumEnde": "2024-05-31",
+    "datumLetzteMeldung": "2024-01-26",
+    "grundArt": "Sonstige",
+    "bezeichnung": "TOVIAZ 8 mg Retardtabletten - OP14",
+    "atcCode": "G04BD11",
+    "wirkstoffe": "Fesoterodinfumarat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pfizer Europe MA EEIG",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "alternativPraeparat": "Fesoterodin Aristo 8 mg Retardtabletten - Einreichungsnummer: 7000589",
+    "datumErstmeldung": "2023-05-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00568640",
+      "10796336"
+    ],
+    "enr": [
+      "2703490",
+      "2707566"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-13",
+    "datumEnde": "2024-05-31",
+    "datumLetzteMeldung": "2024-01-26",
+    "grundArt": "Sonstige",
+    "bezeichnung": "TOVIAZ 4 mg Retardtabletten - OP14",
+    "atcCode": "G04BD11",
+    "wirkstoffe": "Fesoterodinfumarat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Europe MA EEIG",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Fesoterodin Aristo 4 mg Retardtabletten - Einreichungsnummer: 7000588",
+    "datumErstmeldung": "2023-03-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "03524519"
     ],
     "enr": [
@@ -7404,56 +7570,6 @@
   },
   {
     "pzn": [
-      "00568640",
-      "10796336"
-    ],
-    "enr": [
-      "2703490",
-      "2707566"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-13",
-    "datumEnde": "2024-02-29",
-    "datumLetzteMeldung": "2023-11-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "TOVIAZ 4 mg Retardtabletten - OP14",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Fesoterodin Aristo 4 mg Retardtabletten - Einreichungsnummer: 7000588",
-    "datumErstmeldung": "2023-03-27",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "10796342"
-    ],
-    "enr": [
-      "2703495"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-05",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2023-11-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "TOVIAZ 8 mg Retardtabletten - OP14",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Probleme beim Wirkstoffhersteller",
-    "alternativPraeparat": "Fesoterodin Aristo 8 mg Retardtabletten - Einreichungsnummer: 7000589",
-    "datumErstmeldung": "2023-05-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00602762"
     ],
     "enr": [
@@ -9291,121 +9407,6 @@
   },
   {
     "pzn": [
-      "06140937"
-    ],
-    "enr": [
-      "2705330"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-01",
-    "datumEnde": "2024-02-29",
-    "datumLetzteMeldung": "2023-10-12",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "TOVIAZ 4 mg Retardtabletten - OP84",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-10-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06140943"
-    ],
-    "enr": [
-      "2705331"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-01",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-10-12",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "TOVIAZ 8 mg Retardtabletten - OP84",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-10-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00571808"
-    ],
-    "enr": [
-      "2707569"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-06-01",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-10-12",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "TOVIAZ 8 mg Retardtabletten - OP100(Bl)",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-10-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00020540"
-    ],
-    "enr": [
-      "2703496"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-07-31",
-    "datumEnde": "2024-02-29",
-    "datumLetzteMeldung": "2023-10-12",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "TOVIAZ 8 mg Retardtabletten - OP28",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-10-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00020511"
-    ],
-    "enr": [
-      "2703491"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-01",
-    "datumEnde": "2024-02-29",
-    "datumLetzteMeldung": "2023-10-12",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "TOVIAZ 4 mg Retardtabletten - OP28",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-10-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "03479150",
       "04524786"
     ],
@@ -10289,30 +10290,6 @@
     "grund": "Herstellerwechsel",
     "datumErstmeldung": "2022-08-16",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03525921",
-      "99999999"
-    ],
-    "enr": [
-      "2103726"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2020-03-01",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-08-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxicillin-ratiopharm 250mg/5ml TS",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "0800 10 117 07",
-    "mail": "info@ratiopharm.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2020-03-26",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
