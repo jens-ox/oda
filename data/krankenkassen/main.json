@@ -36,7 +36,7 @@
   },
   {
     "name": "AOK Nordost - Die Gesundheitskasse",
-    "zusatzbeitrag": 1.9,
+    "zusatzbeitrag": 2.7,
     "openedIn": [
       "Berlin",
       "Brandenburg",
@@ -53,7 +53,7 @@
   },
   {
     "name": "AOK PLUS - Die Gesundheitskasse für Sachsen und  Thüringen",
-    "zusatzbeitrag": 1.5,
+    "zusatzbeitrag": 1.8,
     "openedIn": [
       "Sachsen",
       "Thüringen"
@@ -61,7 +61,7 @@
   },
   {
     "name": "AOK Rheinland/Hamburg - Die Gesundheitskasse",
-    "zusatzbeitrag": 1.8,
+    "zusatzbeitrag": 2.2,
     "openedIn": [
       "Hamburg",
       "Nordrhein-Westfalen"
@@ -77,35 +77,35 @@
   },
   {
     "name": "AOK Sachsen-Anhalt - Die Gesundheitskasse",
-    "zusatzbeitrag": 1,
+    "zusatzbeitrag": 1.3,
     "openedIn": [
       "Sachsen-Anhalt"
     ]
   },
   {
     "name": "Audi BKK",
-    "zusatzbeitrag": 1.25,
+    "zusatzbeitrag": 1,
     "openedIn": [
       "bundesweit"
     ]
   },
   {
     "name": "BAHN-BKK",
-    "zusatzbeitrag": 1.7,
+    "zusatzbeitrag": 2.2,
     "openedIn": [
       "bundesweit"
     ]
   },
   {
     "name": "BARMER",
-    "zusatzbeitrag": 1.5,
+    "zusatzbeitrag": 2.19,
     "openedIn": [
       "bundesweit"
     ]
   },
   {
     "name": "BERGISCHE KRANKENKASSE",
-    "zusatzbeitrag": 1.6,
+    "zusatzbeitrag": 1.99,
     "openedIn": [
       "Hamburg",
       "Hessen",
@@ -129,15 +129,8 @@
     ]
   },
   {
-    "name": "Betriebskrankenkasse BPW Bergische Achsen KG",
-    "zusatzbeitrag": 1.8,
-    "openedIn": [
-      "betriebs­be­zogen (nur für Mitar­beitende wählbar)"
-    ]
-  },
-  {
     "name": "Betriebskrankenkasse der G.M. Pfaff AG",
-    "zusatzbeitrag": 0.8,
+    "zusatzbeitrag": 1.4,
     "openedIn": [
       "Rheinland-Pfalz"
     ]
@@ -182,14 +175,14 @@
   },
   {
     "name": "BIG direkt gesund",
-    "zusatzbeitrag": 1.45,
+    "zusatzbeitrag": 1.65,
     "openedIn": [
       "bundesweit"
     ]
   },
   {
     "name": "BKK Akzo Nobel Bayern",
-    "zusatzbeitrag": 1.55,
+    "zusatzbeitrag": 1.65,
     "openedIn": [
       "Bayern"
     ]
@@ -203,14 +196,14 @@
   },
   {
     "name": "BKK Deutsche Bank AG",
-    "zusatzbeitrag": 1.6,
+    "zusatzbeitrag": 1.9,
     "openedIn": [
       "betriebs­be­zogen (nur für Mitar­beitende wählbar)"
     ]
   },
   {
     "name": "BKK Diakonie",
-    "zusatzbeitrag": 1.6,
+    "zusatzbeitrag": 1.8,
     "openedIn": [
       "Baden-Württemberg",
       "Bayern",
@@ -230,7 +223,7 @@
   },
   {
     "name": "BKK EUREGIO",
-    "zusatzbeitrag": 0.84,
+    "zusatzbeitrag": 1.25,
     "openedIn": [
       "Hamburg",
       "Nordrhein-Westfalen"
@@ -238,7 +231,7 @@
   },
   {
     "name": "BKK evm",
-    "zusatzbeitrag": 0.9,
+    "zusatzbeitrag": 1.3,
     "openedIn": [
       "betriebs­be­zogen (nur für Mitar­beitende wählbar)"
     ]
@@ -257,7 +250,7 @@
   },
   {
     "name": "BKK Faber-Castell & Partner",
-    "zusatzbeitrag": 1.35,
+    "zusatzbeitrag": 1.1,
     "openedIn": [
       "Bayern"
     ]
@@ -285,14 +278,14 @@
   },
   {
     "name": "BKK GILDEMEISTER SEIDENSTICKER",
-    "zusatzbeitrag": 0.9,
+    "zusatzbeitrag": 1.5,
     "openedIn": [
       "bundesweit"
     ]
   },
   {
     "name": "BKK Groz-Beckert",
-    "zusatzbeitrag": 0,
+    "zusatzbeitrag": 0.7,
     "openedIn": [
       "betriebs­be­zogen (nur für Mitar­beitende wählbar)"
     ]
@@ -315,14 +308,14 @@
   },
   {
     "name": "BKK MAHLE",
-    "zusatzbeitrag": 1.5,
+    "zusatzbeitrag": 2.2,
     "openedIn": [
       "betriebs­be­zogen (nur für Mitar­beitende wählbar)"
     ]
   },
   {
     "name": "bkk melitta hmr",
-    "zusatzbeitrag": 1.4,
+    "zusatzbeitrag": 1.6,
     "openedIn": [
       "Baden-Württemberg",
       "Bayern",
@@ -337,6 +330,13 @@
     ]
   },
   {
+    "name": "BKK mkk - meine krankenkasse",
+    "zusatzbeitrag": 1.8,
+    "openedIn": [
+      "bundesweit"
+    ]
+  },
+  {
     "name": "BKK MTU",
     "zusatzbeitrag": 1.6,
     "openedIn": [
@@ -345,7 +345,7 @@
   },
   {
     "name": "BKK Pfalz",
-    "zusatzbeitrag": 1.55,
+    "zusatzbeitrag": 1.98,
     "openedIn": [
       "bundesweit"
     ]
@@ -359,7 +359,7 @@
   },
   {
     "name": "BKK Public",
-    "zusatzbeitrag": 1.5,
+    "zusatzbeitrag": 1.2,
     "openedIn": [
       "Hamburg",
       "Niedersachsen",
@@ -382,35 +382,28 @@
   },
   {
     "name": "BKK Scheufelen",
-    "zusatzbeitrag": 1.4,
+    "zusatzbeitrag": 1.85,
     "openedIn": [
       "Baden-Württemberg"
     ]
   },
   {
     "name": "BKK Schwarzwald-Baar-Heuberg",
-    "zusatzbeitrag": 0.98,
+    "zusatzbeitrag": 1.29,
     "openedIn": [
       "Baden-Württemberg"
     ]
   },
   {
     "name": "BKK Textilgruppe Hof",
-    "zusatzbeitrag": 0.9,
+    "zusatzbeitrag": 1.3,
     "openedIn": [
       "Bayern"
     ]
   },
   {
-    "name": "BKK VBU (BKK Verkehrsbau Union)",
-    "zusatzbeitrag": 1.8,
-    "openedIn": [
-      "bundesweit"
-    ]
-  },
-  {
     "name": "BKK VDN",
-    "zusatzbeitrag": 1.5,
+    "zusatzbeitrag": 1.69,
     "openedIn": [
       "Hamburg",
       "Nordrhein-Westfalen",
@@ -426,7 +419,7 @@
   },
   {
     "name": "BKK Voralb HELLER*INDEX*LEUZE",
-    "zusatzbeitrag": 0.5,
+    "zusatzbeitrag": 1.4,
     "openedIn": [
       "betriebs­be­zogen (nur für Mitar­beitende wählbar)"
     ]
@@ -441,7 +434,7 @@
   },
   {
     "name": "BKK WIRTSCHAFT UND FINANZEN",
-    "zusatzbeitrag": 1.69,
+    "zusatzbeitrag": 1.99,
     "openedIn": [
       "Baden-Württemberg",
       "Bayern",
@@ -459,7 +452,7 @@
   },
   {
     "name": "BKK ZF & Partner",
-    "zusatzbeitrag": 1.45,
+    "zusatzbeitrag": 1.69,
     "openedIn": [
       "Baden-Württemberg",
       "Bayern",
@@ -479,28 +472,28 @@
   },
   {
     "name": "BKK_DürkoppAdler",
-    "zusatzbeitrag": 1.29,
+    "zusatzbeitrag": 1.55,
     "openedIn": [
       "Nordrhein-Westfalen"
     ]
   },
   {
     "name": "BKK24",
-    "zusatzbeitrag": 1.79,
+    "zusatzbeitrag": 1.89,
     "openedIn": [
       "bundesweit"
     ]
   },
   {
     "name": "BKK-Würth",
-    "zusatzbeitrag": 0.98,
+    "zusatzbeitrag": 1.29,
     "openedIn": [
       "betriebs­be­zogen (nur für Mitar­beitende wählbar)"
     ]
   },
   {
     "name": "BMW BKK",
-    "zusatzbeitrag": 0.3,
+    "zusatzbeitrag": 0.9,
     "openedIn": [
       "betriebs­be­zogen (nur für Mitar­beitende wählbar)"
     ]
@@ -527,7 +520,7 @@
   },
   {
     "name": "Continentale Betriebskrankenkasse",
-    "zusatzbeitrag": 1.4,
+    "zusatzbeitrag": 1.6,
     "openedIn": [
       "bundesweit"
     ]
@@ -569,7 +562,7 @@
   },
   {
     "name": "Heimat Krankenkasse",
-    "zusatzbeitrag": 1.3,
+    "zusatzbeitrag": 1.84,
     "openedIn": [
       "bundesweit"
     ]
@@ -583,21 +576,21 @@
   },
   {
     "name": "IKK - Die Innovationskasse",
-    "zusatzbeitrag": 1.6,
+    "zusatzbeitrag": 1.7,
     "openedIn": [
       "bundesweit"
     ]
   },
   {
     "name": "IKK classic",
-    "zusatzbeitrag": 1.6,
+    "zusatzbeitrag": 1.7,
     "openedIn": [
       "bundesweit"
     ]
   },
   {
     "name": "IKK gesund plus",
-    "zusatzbeitrag": 1.1,
+    "zusatzbeitrag": 1.49,
     "openedIn": [
       "bundesweit"
     ]
@@ -613,7 +606,7 @@
   },
   {
     "name": "INNUNGSKRANKENKASSE BRANDENBURG UND BERLIN",
-    "zusatzbeitrag": 1.77,
+    "zusatzbeitrag": 1.99,
     "openedIn": [
       "Berlin",
       "Brandenburg"
@@ -621,21 +614,21 @@
   },
   {
     "name": "KARL MAYER BKK",
-    "zusatzbeitrag": 2.5,
+    "zusatzbeitrag": 2.3,
     "openedIn": [
       "betriebs­be­zogen (nur für Mitar­beitende wählbar)"
     ]
   },
   {
     "name": "Kaufmännische Krankenkasse - KKH",
-    "zusatzbeitrag": 1.5,
+    "zusatzbeitrag": 1.98,
     "openedIn": [
       "bundesweit"
     ]
   },
   {
     "name": "KNAPPSCHAFT",
-    "zusatzbeitrag": 1.6,
+    "zusatzbeitrag": 2.2,
     "openedIn": [
       "bundesweit"
     ]
@@ -656,7 +649,7 @@
   },
   {
     "name": "Mercedes-Benz BKK",
-    "zusatzbeitrag": 1.3,
+    "zusatzbeitrag": 1.7,
     "openedIn": [
       "betriebs­be­zogen (nur für Mitar­beitende wählbar)"
     ]
@@ -682,21 +675,20 @@
       "Nordrhein-Westfalen",
       "Rheinland-Pfalz",
       "Sachsen",
-      "Sachsen-Anhalt",
       "Schleswig-Holstein",
       "Thüringen"
     ]
   },
   {
     "name": "Novitas BKK",
-    "zusatzbeitrag": 1.54,
+    "zusatzbeitrag": 1.7,
     "openedIn": [
       "bundesweit"
     ]
   },
   {
     "name": "Pronova BKK",
-    "zusatzbeitrag": 1.7,
+    "zusatzbeitrag": 1.8,
     "openedIn": [
       "bundesweit"
     ]
@@ -717,7 +709,7 @@
   },
   {
     "name": "SECURVITA BKK",
-    "zusatzbeitrag": 1.6,
+    "zusatzbeitrag": 2.2,
     "openedIn": [
       "Baden-Württemberg",
       "Bayern",
@@ -737,14 +729,14 @@
   },
   {
     "name": "Siemens-Betriebskrankenkasse (SBK)",
-    "zusatzbeitrag": 1.5,
+    "zusatzbeitrag": 1.7,
     "openedIn": [
       "bundesweit"
     ]
   },
   {
     "name": "SKD BKK",
-    "zusatzbeitrag": 1.15,
+    "zusatzbeitrag": 1.49,
     "openedIn": [
       "Baden-Württemberg",
       "Bayern",
@@ -796,7 +788,7 @@
   },
   {
     "name": "vivida bkk",
-    "zusatzbeitrag": 1.4,
+    "zusatzbeitrag": 1.7,
     "openedIn": [
       "bundesweit"
     ]
