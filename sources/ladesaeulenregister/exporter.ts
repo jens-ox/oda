@@ -1,11 +1,10 @@
-import { writeFile } from 'fs/promises'
 import axios from 'axios'
 import Papa from 'papaparse'
 import type { Ladesaeule, Stecker } from './types'
 import { germanDateToString } from '@/utils/germanDateToString'
 import { Exporter } from '@/types'
 
-const removeEmptyFields = (something: any) =>
+const removeEmptyFields = (something: Record<string, unknown>) =>
   Object.fromEntries(Object.entries(something).filter(([, v]) => typeof v !== 'undefined' && v !== '' && v !== null))
 
 const createStecker = (typ: string, kW: string, publicKey: string): Stecker => {
