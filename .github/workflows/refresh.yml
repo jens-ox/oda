@@ -21,7 +21,11 @@ jobs:
       - name: Set up Playwright
         run: pnpm exec playwright install
       - name: Refresh list
-        run: pnpm crawl
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 5
+          max_attempts: 3
+          command: pnpm crawl
       - name: Raise a PR if files have changed
         id: cpr
         uses: peter-evans/create-pull-request@v4
