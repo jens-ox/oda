@@ -1,6 +1,142 @@
 [
   {
     "pzn": [
+      "02804808"
+    ],
+    "enr": [
+      "2164929"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-18",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-01-29",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Fludarabinphosphat-GRY 25 mg/ml Konzentrat zur Herstellung einer Injektionslösung oder Infusionslösung",
+    "atcCode": "L01BB05",
+    "wirkstoffe": "Fludarabinphosphat (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TEVA GmbH",
+    "telefon": "0731 402 7657",
+    "mail": "Rui.Araujo@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-08-18"
+  },
+  {
+    "pzn": [
+      "07691349"
+    ],
+    "enr": [
+      "2103192"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-23",
+    "datumEnde": "2024-04-15",
+    "datumLetzteMeldung": "2024-01-29",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Methotrexat-GRY 1000 mg/10 ml Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "L01BA01",
+    "wirkstoffe": "Methotrexat-Dinatrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TEVA GmbH",
+    "telefon": "0731 402 7567",
+    "mail": "Rui.Araujo@ratiopharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-05-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06559642",
+      "06559665"
+    ],
+    "enr": [
+      "2171983"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-11",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-01-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cisplatin Teva 1 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "L01XA01",
+    "wirkstoffe": "Cisplatin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TEVA GmbH",
+    "telefon": "0731-402 7657",
+    "mail": "rui.araujo@ratiopharm.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-12-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12392726"
+    ],
+    "enr": [
+      "2672745"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-26",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-01-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Coagadex",
+    "atcCode": "TERM_ID_NA_2090001243",
+    "wirkstoffe": "Blutgerinnungsfaktor X",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "BPL Bioproducts Laboratory GmbH",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-01-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14261419"
+    ],
+    "enr": [
+      "2164906"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-01",
+    "datumEnde": "2024-05-31",
+    "datumLetzteMeldung": "2024-01-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Urapidil Carinopharm 50 mg",
+    "atcCode": "C02CA06",
+    "wirkstoffe": "Urapidil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Carinopharm GmbH",
+    "telefon": "05182 586 69 0",
+    "mail": "info@carinopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-07-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14261402"
+    ],
+    "enr": [
+      "2164904"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-16",
+    "datumEnde": "2024-05-31",
+    "datumLetzteMeldung": "2024-01-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Urapidil Carinopharm 25 mg",
+    "atcCode": "C02CA06",
+    "wirkstoffe": "Urapidil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Carinopharm GmbH",
+    "telefon": "05182 586 69 0",
+    "mail": "info@carinopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-07-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "06970811"
     ],
     "enr": [
@@ -2369,30 +2505,6 @@
     "datumLetzteMeldung": "2024-01-17",
     "grundArt": "Sonstige",
     "bezeichnung": "Actraphane 30 FlexPen 100 IE/ml Injektionssuspension in Injektor - OP(10x3ml)",
-    "atcCode": "A10AD01",
-    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung)); Isophan-Insulin-Suspension zur Injektion (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "kurzfristig nicht verfügbar",
-    "datumErstmeldung": "2024-01-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00540765"
-    ],
-    "enr": [
-      "2702234"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-17",
-    "datumEnde": "2024-02-07",
-    "datumLetzteMeldung": "2024-01-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Actraphane 30 Penfill 100 IE/ml Injektionssuspension in Zylinderampulle - OP(10x3ml)",
     "atcCode": "A10AD01",
     "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung)); Isophan-Insulin-Suspension zur Injektion (Ph.Eur.)",
     "krankenhausrelevant": true,
@@ -5206,52 +5318,6 @@
   },
   {
     "pzn": [
-      "14261419"
-    ],
-    "enr": [
-      "2164906"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-01",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-12-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Urapidil Carinopharm 50 mg",
-    "atcCode": "C02CA06",
-    "wirkstoffe": "Urapidil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Carinopharm GmbH",
-    "telefon": "05182 586 69 0",
-    "mail": "info@carinopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-07-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14261402"
-    ],
-    "enr": [
-      "2164904"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-16",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-12-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Urapidil Carinopharm 25 mg",
-    "atcCode": "C02CA06",
-    "wirkstoffe": "Urapidil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Carinopharm GmbH",
-    "telefon": "05182 586 69 0",
-    "mail": "info@carinopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-07-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "13588578",
       "18388016"
     ],
@@ -6980,30 +7046,6 @@
   },
   {
     "pzn": [
-      "06559642",
-      "06559665"
-    ],
-    "enr": [
-      "2171983"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-11",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-12-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cisplatin Teva 1 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
-    "atcCode": "L01XA01",
-    "wirkstoffe": "Cisplatin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "TEVA GmbH",
-    "telefon": "0731-402 7657",
-    "mail": "rui.araujo@ratiopharm.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-12-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03853708",
       "03853714"
     ],
@@ -7235,29 +7277,6 @@
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-11-30",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07691349"
-    ],
-    "enr": [
-      "2103192"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-23",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-11-30",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Methotrexat-GRY 1000 mg/10 ml Konzentrat zur Herstellung einer Infusionslösung",
-    "atcCode": "L01BA01",
-    "wirkstoffe": "Methotrexat-Dinatrium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "TEVA GmbH",
-    "telefon": "0731 402 7567",
-    "mail": "Rui.Araujo@ratiopharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-05-23",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -7728,34 +7747,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-11-22",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07587043",
-      "07587066",
-      "08833107",
-      "09174374"
-    ],
-    "enr": [
-      "2198935",
-      "2198936"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-01",
-    "datumEnde": "2024-05-22",
-    "datumLetzteMeldung": "2023-11-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Duloxetin beta URO 20 mg magensaftresistente Hartkapseln",
-    "atcCode": "N06AX21",
-    "wirkstoffe": "Duloxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
-    "telefon": "0821 748810",
-    "mail": "info@betapharm.de",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Aktuelle Chargen gesperrt aufgrund zu hoher Nitrosaminmesswerte. Ursachen noch unklar.",
-    "datumErstmeldung": "2023-11-22",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -8512,30 +8503,6 @@
   },
   {
     "pzn": [
-      "16129925",
-      "16129954",
-      "16129960"
-    ],
-    "enr": [
-      "2192880"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-10",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-11-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cinacalcet-ratiopharm 60 mg Filmtabletten",
-    "atcCode": "H05BX01",
-    "wirkstoffe": "Cinacalcethydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-11-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08725091"
     ],
     "enr": [
@@ -8555,28 +8522,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2022-10-21",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16831140"
-    ],
-    "enr": [
-      "2200960"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-09",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-11-09",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sorafenib-ratiopharm 200 mg Filmtabletten",
-    "atcCode": "L01EX02",
-    "wirkstoffe": "Sorafenibtosilat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-11-09",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -9776,29 +9721,6 @@
   },
   {
     "pzn": [
-      "02804808"
-    ],
-    "enr": [
-      "2164929"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-18",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-09-12",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Fludarabinphosphat-GRY 25 mg/ml Konzentrat zur Herstellung einer Injektionslösung oder Infusionslösung",
-    "atcCode": "L01BB05",
-    "wirkstoffe": "Fludarabinphosphat (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "TEVA GmbH",
-    "telefon": "0731 402 7657",
-    "mail": "Rui.Araujo@ratiopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-08-18",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "10552203"
     ],
     "enr": [
@@ -9940,29 +9862,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2021-09-15",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "05505940"
-    ],
-    "enr": [
-      "2171688"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-31",
-    "datumEnde": "2023-12-15",
-    "datumLetzteMeldung": "2023-08-31",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Vinblastinsulfat Teva 1 mg/ml Injektionslösung",
-    "atcCode": "L01CA01",
-    "wirkstoffe": "Vinblastinsulfat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "TEVA GmbH",
-    "telefon": "+49 731 402 7028",
-    "mail": "julian.simon@teva.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-31",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -10334,30 +10233,6 @@
     "mail": "info@abz.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-12",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06969736",
-      "07097528",
-      "07097534"
-    ],
-    "enr": [
-      "2132328"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-30",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-08-11",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Nifedipin-ratiopharm 20 mg Retardtabletten",
-    "atcCode": "C08CA05",
-    "wirkstoffe": "Nifedipin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Herstellerwechsel",
-    "datumErstmeldung": "2022-08-16",
     "infoFachkreise": "Vorgesehen"
   },
   {
