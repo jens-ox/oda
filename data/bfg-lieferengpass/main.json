@@ -1,6 +1,317 @@
 [
   {
     "pzn": [
+      "01332313"
+    ],
+    "enr": [
+      "2155124"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-15",
+    "datumEnde": "2024-02-16",
+    "datumLetzteMeldung": "2024-02-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Haloperidol-neuraxpharm Decanoat 100 mg/ml",
+    "atcCode": "N05AD01",
+    "wirkstoffe": "Haloperidoldecanoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49 2173 1060 0",
+    "mail": "info@neuraxpharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-03-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08515465"
+    ],
+    "enr": [
+      "2134065"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-07-31",
+    "datumEnde": "2024-02-16",
+    "datumLetzteMeldung": "2024-02-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Fluphenazin-neuraxpharm D 12,5 mg/ 0,5 ml",
+    "atcCode": "N05AB02",
+    "wirkstoffe": "Fluphenazindecanoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49217310600",
+    "mail": "info@neuraxpharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2022-11-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08515488"
+    ],
+    "enr": [
+      "2134066"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-03-31",
+    "datumEnde": "2024-07-15",
+    "datumLetzteMeldung": "2024-02-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Fluphenazin-neuraxpharm D 50 mg/ 0,5 ml",
+    "atcCode": "N05AB02",
+    "wirkstoffe": "Fluphenazindecanoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49217310600",
+    "mail": "info@neuraxpharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2022-11-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00816842"
+    ],
+    "enr": [
+      "2146005"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-06-29",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-02-02",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Carbamazepin-neuraxpharm 400 mg retard",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49217310600",
+    "mail": "info@neuraxpharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-01-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09482839",
+      "09482845",
+      "09482851"
+    ],
+    "enr": [
+      "2175289"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-01",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-02-02",
+    "grundArt": "Sonstige",
+    "bezeichnung": "CANDESARTAN BASICS 16 mg Tabletten",
+    "atcCode": "C09CA06",
+    "wirkstoffe": "Candesartancilexetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Basics GmbH",
+    "mail": "rabattvertraege@sunpharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-10-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18265294",
+      "18265302",
+      "18265319"
+    ],
+    "enr": [
+      "2205757"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-19",
+    "datumEnde": "2024-02-16",
+    "datumLetzteMeldung": "2024-02-02",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amitriptylin neuraxpharm 8,84 mg Filmtabletten",
+    "atcCode": "N06AA09",
+    "wirkstoffe": "Amitriptylinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49217310600",
+    "mail": "info@neuraxpharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "18265414",
+      "18265420",
+      "18265437"
+    ],
+    "enr": [
+      "2205760"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-05",
+    "datumEnde": "2024-03-29",
+    "datumLetzteMeldung": "2024-02-02",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amitriptylin neuraxpharm 66,29 mg Filmtabletten",
+    "atcCode": "N06AA09",
+    "wirkstoffe": "Amitriptylinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49217310600",
+    "mail": "zulassung@neuraxpharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09228609",
+      "09228615"
+    ],
+    "enr": [
+      "2179070"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-14",
+    "datumEnde": "2024-02-16",
+    "datumLetzteMeldung": "2024-02-02",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Baclofen-neuraxpharm 10 mg",
+    "atcCode": "M03BX01",
+    "wirkstoffe": "Baclofen",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49217310600",
+    "mail": "info@neuraxpharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14063263",
+      "14063286"
+    ],
+    "enr": [
+      "2193900"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-30",
+    "datumEnde": "2024-08-26",
+    "datumLetzteMeldung": "2024-02-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Takrozem 1 mg/g Salbe",
+    "atcCode": "D11AH01",
+    "wirkstoffe": "Tacrolimus-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pierre Fabre Dermo-Kosmetik GmbH",
+    "telefon": "076145261230",
+    "mail": "zulassung_de@pierre-fabre.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-06-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11666512",
+      "11666529"
+    ],
+    "enr": [
+      "2201309"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-01",
+    "datumEnde": "2024-07-15",
+    "datumLetzteMeldung": "2024-02-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Vancomycin ENTEROCAPS 125 mg Hartkapseln",
+    "atcCode": "A07AA09",
+    "wirkstoffe": "Vancomycinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "telefon": "030 3384270",
+    "mail": "info.germany@esteve.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "stark erhöhte Abverkäufe im Dezember und Januar durch Stock Out eines Wettbewerbers",
+    "datumErstmeldung": "2024-02-01",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06559642"
+    ],
+    "enr": [
+      "2171983"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-11",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-02-02",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cisplatin Teva 1 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "L01XA01",
+    "wirkstoffe": "Cisplatin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TEVA GmbH",
+    "telefon": "0731-402 7657",
+    "mail": "rui.araujo@ratiopharm.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-12-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01417699",
+      "01417707",
+      "04471009"
+    ],
+    "enr": [
+      "2167774"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-01",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-02-02",
+    "grundArt": "Sonstige",
+    "bezeichnung": "SalbuHEXAL N Dosieraerosol",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-12-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07722179",
+      "08872024"
+    ],
+    "enr": [
+      "2134011"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-17",
+    "datumEnde": "2024-02-26",
+    "datumLetzteMeldung": "2024-02-02",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Bronchospray novo",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
+    "telefon": "06252-95 7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "05387788"
     ],
     "enr": [
@@ -92,30 +403,6 @@
     "telefon": "+49733396510",
     "mail": "info@aliud.de",
     "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-02-01",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11666512"
-    ],
-    "enr": [
-      "2201309"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-02-01",
-    "datumEnde": "2024-03-18",
-    "datumLetzteMeldung": "2024-02-01",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Vancomycin ENTEROCAPS 125 mg Hartkapseln",
-    "atcCode": "A07AA09",
-    "wirkstoffe": "Vancomycinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
-    "telefon": "030 338427100",
-    "mail": "info.germany@esteve.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "stark erhöhte Abverkäufe im Dezember und Januar durch Stock Out eines Wettbewerbers",
     "datumErstmeldung": "2024-02-01",
     "infoFachkreise": "Vorgesehen"
   },
@@ -1489,30 +1776,6 @@
   },
   {
     "pzn": [
-      "06559642",
-      "06559665"
-    ],
-    "enr": [
-      "2171983"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-11",
-    "datumEnde": "2024-02-29",
-    "datumLetzteMeldung": "2024-01-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cisplatin Teva 1 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
-    "atcCode": "L01XA01",
-    "wirkstoffe": "Cisplatin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "TEVA GmbH",
-    "telefon": "0731-402 7657",
-    "mail": "rui.araujo@ratiopharm.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-12-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "12392726"
     ],
     "enr": [
@@ -1619,7 +1882,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda Pharmaceuticals International AG Ireland Branch",
+    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
     "telefon": "0800 825 332 5",
     "mail": "medinfoEMEA@takeda.com",
     "grund": "Sonstige",
@@ -2371,7 +2634,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -2923,126 +3186,6 @@
   },
   {
     "pzn": [
-      "00575812",
-      "00575829"
-    ],
-    "enr": [
-      "2141125"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-17",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2024-01-22",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Zopiclon-neuraxpharm 3,75 mg",
-    "atcCode": "N05CF01",
-    "wirkstoffe": "Zopiclon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "+49 2173 1060 0",
-    "mail": "zulassung@neuraxpharm.de",
-    "grund": "GMP Mängel",
-    "datumErstmeldung": "2023-06-22",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00575858",
-      "00575870"
-    ],
-    "enr": [
-      "2141127"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-17",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2024-01-22",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Zopiclon-neuraxpharm 7,5 mg",
-    "atcCode": "N05CF01",
-    "wirkstoffe": "Zopiclon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "+49 2173 1060 0",
-    "mail": "zulassung@neuraxpharm.de",
-    "grund": "GMP Mängel",
-    "datumErstmeldung": "2023-06-22",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "17441375",
-      "17441381"
-    ],
-    "enr": [
-      "7000145"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-17",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2024-01-22",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Clonazepam neuraxpharm 2 mg Tabletten",
-    "atcCode": "N03AE01",
-    "wirkstoffe": "Clonazepam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "+49 2173 1060 0",
-    "mail": "zulassung@neuraxpharm.de",
-    "grund": "GMP Mängel",
-    "datumErstmeldung": "2023-06-22",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "17441352",
-      "17441369"
-    ],
-    "enr": [
-      "7000144"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-17",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2024-01-22",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Clonazepam neuraxpharm 1 mg Tabletten",
-    "atcCode": "N03AE01",
-    "wirkstoffe": "Clonazepam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "+49 2173 1060 0",
-    "mail": "info@neuraxpharm.de",
-    "grund": "GMP Mängel",
-    "datumErstmeldung": "2023-06-22",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "17441300",
-      "17441323"
-    ],
-    "enr": [
-      "7000143"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-17",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2024-01-22",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Clonazepam neuraxpharm 0,5 mg Tabletten",
-    "atcCode": "N03AE01",
-    "wirkstoffe": "Clonazepam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "02173 1060 0",
-    "mail": "info@neuraxpharm.de",
-    "grund": "GMP Mängel",
-    "datumErstmeldung": "2023-06-22",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "08926079"
     ],
     "enr": [
@@ -3159,30 +3302,6 @@
     "alternativPraeparat": "Braftovi 75 mg Hartkapseln - Einreichungsnummer: 2714504",
     "datumErstmeldung": "2023-11-10",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14275924"
-    ],
-    "enr": [
-      "2714503"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-07",
-    "datumEnde": "2024-02-19",
-    "datumLetzteMeldung": "2024-01-22",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Braftovi 50 mg Hartkapseln",
-    "atcCode": "L01XE",
-    "wirkstoffe": "Encorafenib",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pierre Fabre Medicament Production  Rechtsform: S.A.S",
-    "telefon": "076145261233",
-    "mail": "zulassung_de@pierre-fabre.com",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "Braftovi 75 mg Hartkapseln - Einreichungsnummer: 2714504",
-    "datumErstmeldung": "2023-11-10",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -4088,7 +4207,7 @@
     "atcCode": "N06BA12",
     "wirkstoffe": "Lisdexamfetamindimesilat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda Pharmaceuticals International AG Ireland Branch",
+    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
     "telefon": "0800 825 332 5",
     "mail": "medinfoEMEA@takeda.com",
     "grund": "Erhöhte Nachfrage",
@@ -4283,30 +4402,6 @@
   },
   {
     "pzn": [
-      "01417699",
-      "01417707",
-      "04471009"
-    ],
-    "enr": [
-      "2167774"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-01",
-    "datumEnde": "2024-02-17",
-    "datumLetzteMeldung": "2024-01-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "SalbuHEXAL N Dosieraerosol",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-12-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08859874"
     ],
     "enr": [
@@ -4392,31 +4487,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-06-29",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07722179",
-      "08872024"
-    ],
-    "enr": [
-      "2134011"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-17",
-    "datumEnde": "2024-02-12",
-    "datumLetzteMeldung": "2024-01-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Bronchospray novo",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
-    "telefon": "06252-95 7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-20",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -5545,30 +5615,6 @@
   },
   {
     "pzn": [
-      "09482839",
-      "09482845",
-      "09482851"
-    ],
-    "enr": [
-      "2175289"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-01",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2024-01-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "CANDESARTAN BASICS 16 mg Tabletten",
-    "atcCode": "C09CA06",
-    "wirkstoffe": "Candesartancilexetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Basics GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-10-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "09482762",
       "09482779",
       "09482785"
@@ -6193,30 +6239,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-12-22",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08523832"
-    ],
-    "enr": [
-      "2139298"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-13",
-    "datumEnde": "2024-02-29",
-    "datumLetzteMeldung": "2023-12-21",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Adenoscan",
-    "atcCode": "C01EB10",
-    "wirkstoffe": "Adenosin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "0800 5252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Alternativen: wirkstoff- und dosierungsgleiche Präparate von Mitbewerbern",
-    "datumErstmeldung": "2023-03-15",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
@@ -8040,30 +8062,6 @@
   },
   {
     "pzn": [
-      "09228609",
-      "09228615"
-    ],
-    "enr": [
-      "2179070"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-14",
-    "datumEnde": "2024-02-02",
-    "datumLetzteMeldung": "2023-11-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Baclofen-neuraxpharm 10 mg",
-    "atcCode": "M03BX01",
-    "wirkstoffe": "Baclofen",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "+49217310600",
-    "mail": "info@neuraxpharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00829425",
       "00829431",
       "00832485"
@@ -8225,150 +8223,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-11-14",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04917385",
-      "04917391"
-    ],
-    "enr": [
-      "2155123"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-21",
-    "datumEnde": "2024-02-02",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Haloperidol-neuraxpharm Decanoat 50 mg/ml",
-    "atcCode": "N05AD01",
-    "wirkstoffe": "Haloperidoldecanoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "+49 2173 10 60 0",
-    "mail": "zulassung@neuraxpharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-03-21",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01322622",
-      "01332313"
-    ],
-    "enr": [
-      "2155124"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-15",
-    "datumEnde": "2024-02-02",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Haloperidol-neuraxpharm Decanoat 100 mg/ml",
-    "atcCode": "N05AD01",
-    "wirkstoffe": "Haloperidoldecanoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "+49 2173 1060 0",
-    "mail": "zulassung@neuraxpharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-03-21",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "18265414",
-      "18265420",
-      "18265437"
-    ],
-    "enr": [
-      "2205760"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-05",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amitriptylin neuraxpharm 66,29 mg Filmtabletten",
-    "atcCode": "N06AA09",
-    "wirkstoffe": "Amitriptylinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "mail": "zulassung@neuraxpharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "18265294",
-      "18265302",
-      "18265319"
-    ],
-    "enr": [
-      "2205757"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-19",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amitriptylin neuraxpharm 8,84 mg Filmtabletten",
-    "atcCode": "N06AA09",
-    "wirkstoffe": "Amitriptylinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "mail": "zulassung@neuraxpharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09680120",
-      "09680137"
-    ],
-    "enr": [
-      "2184842"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-17",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Clonazepam-neuraxpharm 2,5 mg/ml Tropfen zum Einnehmen, Lösung",
-    "atcCode": "N03AE01",
-    "wirkstoffe": "Clonazepam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "+49 2173 1060 0",
-    "mail": "info@neuraxpharm.de",
-    "grund": "GMP Mängel",
-    "datumErstmeldung": "2023-06-22",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00816842",
-      "00816859",
-      "00816865"
-    ],
-    "enr": [
-      "2146005"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-06-29",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2023-11-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Carbamazepin-neuraxpharm 400 mg retard",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "mail": "zulassung@neuraxpharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-01-20",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -10326,30 +10180,6 @@
   },
   {
     "pzn": [
-      "14063263",
-      "14063286"
-    ],
-    "enr": [
-      "2193900"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-30",
-    "datumEnde": "2024-02-26",
-    "datumLetzteMeldung": "2023-07-18",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Takrozem 1 mg/g Salbe",
-    "atcCode": "D11AH01",
-    "wirkstoffe": "Tacrolimus-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pierre Fabre Dermo-Kosmetik GmbH",
-    "telefon": "076145261230",
-    "mail": "zulassung_de@pierre-fabre.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-06-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "10985801",
       "10985818",
       "10985824"
@@ -10366,7 +10196,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -11083,52 +10913,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-01-02",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08515459",
-      "08515465"
-    ],
-    "enr": [
-      "2134065"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-07-31",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2022-11-10",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Fluphenazin-neuraxpharm D 12,5 mg/ 0,5 ml",
-    "atcCode": "N05AB02",
-    "wirkstoffe": "Fluphenazindecanoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "mail": "Zulassung@neuraxpharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-11-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08515471",
-      "08515488"
-    ],
-    "enr": [
-      "2134066"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-03-31",
-    "datumEnde": "2023-12-31",
-    "datumLetzteMeldung": "2022-11-10",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Fluphenazin-neuraxpharm D 50 mg/ 0,5 ml",
-    "atcCode": "N05AB02",
-    "wirkstoffe": "Fluphenazindecanoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "mail": "Zulassung@neuraxpharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-11-10",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
