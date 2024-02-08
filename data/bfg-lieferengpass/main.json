@@ -1,6 +1,239 @@
 [
   {
     "pzn": [
+      "02481110",
+      "99999999"
+    ],
+    "enr": [
+      "2102405"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2021-03-01",
+    "datumEnde": "2024-09-30",
+    "datumLetzteMeldung": "2024-02-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Neotri",
+    "atcCode": "C03EA",
+    "wirkstoffe": "Triamteren; Xipamid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "+49 34954 247 0",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "datumErstmeldung": "2021-03-17",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "12595139"
+    ],
+    "enr": [
+      "2713275"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-07",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-02-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fiasp 100 Einheiten/ml Injektionslösung in Fertigpen - OP(5x3ml)",
+    "atcCode": "A10AB05",
+    "wirkstoffe": "Insulin aspart",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Fiasp 100 Einheiten/ml Injektionslösung in Fertigpen - OP10[2x(5x3ml)] - Einreichungsnummer: 2713276",
+    "datumErstmeldung": "2024-02-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03277707"
+    ],
+    "enr": [
+      "2706026"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-04",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-02-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Victoza 6 mg/ml Injektionslösung in Fertigpen - OP(10x3ml)",
+    "atcCode": "TERM_ID_NA_2090000841",
+    "wirkstoffe": "Liraglutid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Nachfrage in Deutschland kann nur teilweise gedeckt werden",
+    "datumErstmeldung": "2023-09-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09615743"
+    ],
+    "enr": [
+      "2175114"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-27",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-02-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Urapidil Stragen i.v. 25 mg Injektionslösung",
+    "atcCode": "C02CA06",
+    "wirkstoffe": "Urapidil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Stragen Pharma GmbH - Zweigniederlassung Hilden -",
+    "telefon": "04917657665856",
+    "mail": "a.gerold@stragen-pharma.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-11-23",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13588578",
+      "18388016"
+    ],
+    "enr": [
+      "2197631"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-24",
+    "datumEnde": "2024-06-10",
+    "datumLetzteMeldung": "2024-02-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rosuvastatin Aristo 5 mg Filmtabletten",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-03-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10116100"
+    ],
+    "enr": [
+      "2188649"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-06",
+    "datumEnde": "2024-03-03",
+    "datumLetzteMeldung": "2024-02-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Momecutan Lösung",
+    "atcCode": "D07AC13",
+    "wirkstoffe": "Mometasonfuroat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-12-14",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06649598"
+    ],
+    "enr": [
+      "0191371"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-26",
+    "datumEnde": "2024-03-04",
+    "datumLetzteMeldung": "2024-02-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocillin 250 Saft",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-26",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00192229"
+    ],
+    "enr": [
+      "2144172"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-01",
+    "datumEnde": "2024-10-01",
+    "datumLetzteMeldung": "2024-02-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Doxepin STADA 100 mg Filmtabletten",
+    "atcCode": "N06AA12",
+    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "mail": "Minyoung.seo@stadapharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-08-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00291084",
+      "02760531",
+      "02760548"
+    ],
+    "enr": [
+      "2102857"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-01",
+    "datumEnde": "2024-02-19",
+    "datumLetzteMeldung": "2024-02-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Amoxicillin STADA 1000mg Filmtabletten",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "telefon": "+4961016033466",
+    "mail": "minyoung.seo@stadapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16886862"
+    ],
+    "enr": [
+      "2204214"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-07",
+    "datumEnde": "2024-02-16",
+    "datumLetzteMeldung": "2024-02-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Sorafenib STADA 200 mg Filmtabletten",
+    "atcCode": "L01EX02",
+    "wirkstoffe": "Sorafenibtosilat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "telefon": "+4961016032416",
+    "mail": "christiane.georgi@stada.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-10",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "04330929",
       "04332176"
     ],
@@ -902,29 +1135,6 @@
     "mail": "helen.braun@aristo-pharma.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "13588578",
-      "18388016"
-    ],
-    "enr": [
-      "2197631"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-24",
-    "datumEnde": "2024-06-10",
-    "datumLetzteMeldung": "2024-02-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Rosuvastatin Aristo 5 mg Filmtabletten",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2023-03-24",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -4606,54 +4816,6 @@
   },
   {
     "pzn": [
-      "16886862"
-    ],
-    "enr": [
-      "2204214"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-07",
-    "datumEnde": "2024-01-22",
-    "datumLetzteMeldung": "2024-01-19",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Sorafenib STADA 200 mg Filmtabletten",
-    "atcCode": "L01EX02",
-    "wirkstoffe": "Sorafenibtosilat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "+4961016032416",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-11-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02481110",
-      "99999999"
-    ],
-    "enr": [
-      "2102405"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-03-01",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2024-01-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Neotri",
-    "atcCode": "C03EA",
-    "wirkstoffe": "Triamteren; Xipamid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "+49 34954 247 0",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Verzögerte Bearbeitung notwendiger Änderungsanträge durch Behörde",
-    "datumErstmeldung": "2021-03-17",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "12724393",
       "12724430"
     ],
@@ -5810,28 +5972,6 @@
     "grund": "Probleme in der Herstellung",
     "alternativPraeparat": "Zirabev - Einreichungsnummer: 2674480",
     "datumErstmeldung": "2024-01-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01592793"
-    ],
-    "enr": [
-      "2149428"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-27",
-    "datumEnde": "2024-03-29",
-    "datumLetzteMeldung": "2024-01-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ciprofloxacin STADA 500 mg Filmtabletten",
-    "atcCode": "J01MA02",
-    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "Minyoung.seo@stadapharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-08-03",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -7292,28 +7432,6 @@
   },
   {
     "pzn": [
-      "10116100"
-    ],
-    "enr": [
-      "2188649"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-06",
-    "datumEnde": "2024-02-04",
-    "datumLetzteMeldung": "2023-12-14",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Momecutan Lösung",
-    "atcCode": "D07AC13",
-    "wirkstoffe": "Mometasonfuroat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-12-14",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08855014"
     ],
     "enr": [
@@ -7631,29 +7749,6 @@
     "grundAnmerkung": "Erhöhte Nachfrage auf Grund der Lieferunfähigkeit der Mitbewerber",
     "datumErstmeldung": "2023-02-03",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03277707"
-    ],
-    "enr": [
-      "2706026"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-04",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2023-12-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Victoza 6 mg/ml Injektionslösung in Fertigpen - OP(10x3ml)",
-    "atcCode": "TERM_ID_NA_2090000841",
-    "wirkstoffe": "Liraglutid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-09-27",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -8129,31 +8224,6 @@
   },
   {
     "pzn": [
-      "00291084",
-      "02760531",
-      "02760548"
-    ],
-    "enr": [
-      "2102857"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-01",
-    "datumEnde": "2024-01-30",
-    "datumLetzteMeldung": "2023-11-27",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Amoxicillin STADA 1000mg Filmtabletten",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "+4961016033466",
-    "mail": "minyoung.seo@stadapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-11-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "15619030"
     ],
     "enr": [
@@ -8220,29 +8290,6 @@
     "telefon": "00436601373322",
     "mail": "mariam.motamen@bluefishpharma.com",
     "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-11-23",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09615743"
-    ],
-    "enr": [
-      "2175114"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-27",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-11-23",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Urapidil Stragen i.v. 25 mg Injektionslösung",
-    "atcCode": "C02CA06",
-    "wirkstoffe": "Urapidil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Stragen Pharma GmbH - Zweigniederlassung Hilden -",
-    "telefon": "04917657665856",
-    "mail": "a.gerold@stragen-pharma.de",
-    "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-11-23",
     "infoFachkreise": "Nein"
   },
@@ -8429,29 +8476,6 @@
     "mail": "shortages@infectopharm.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-12-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06649598"
-    ],
-    "enr": [
-      "0191371"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-26",
-    "datumEnde": "2024-01-22",
-    "datumLetzteMeldung": "2023-11-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocillin 250 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-06-26",
     "infoFachkreise": "Nein"
   },
   {
@@ -10169,28 +10193,6 @@
     "mail": "info@aristo-pharma.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-08-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00192229"
-    ],
-    "enr": [
-      "2144172"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-01",
-    "datumEnde": "2024-02-02",
-    "datumLetzteMeldung": "2023-08-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Doxepin STADA 100 mg Filmtabletten",
-    "atcCode": "N06AA12",
-    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "mail": "Minyoung.seo@stadapharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-08-03",
     "infoFachkreise": "Vorgesehen"
   },
   {
