@@ -1,6 +1,29 @@
 [
   {
     "pzn": [
+      "03524548"
+    ],
+    "enr": [
+      "3000274"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-02",
+    "datumEnde": "2024-03-15",
+    "datumLetzteMeldung": "2024-02-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolon-Augensalbe Jenapharm",
+    "atcCode": "S01BA04",
+    "wirkstoffe": "Prednisolon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "034954 2470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-02-08",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "02481110",
       "99999999"
     ],
@@ -3637,52 +3660,6 @@
   },
   {
     "pzn": [
-      "03524519"
-    ],
-    "enr": [
-      "3000279"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-06",
-    "datumEnde": "2024-03-15",
-    "datumLetzteMeldung": "2024-01-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxytetracyclin-Augensalbe JENAPHARM",
-    "atcCode": "S01AA04",
-    "wirkstoffe": "Oxytetracyclinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "034954 2470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-12-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03524525"
-    ],
-    "enr": [
-      "3000312"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-15",
-    "datumEnde": "2024-03-15",
-    "datumLetzteMeldung": "2024-01-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxytetracyclin-Prednisolon-Augensalbe JENAPHARM",
-    "atcCode": "S01CA02",
-    "wirkstoffe": "Oxytetracyclinhydrochlorid; Prednisolon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "034954 2470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2024-01-25",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00668732"
     ],
     "enr": [
@@ -3972,30 +3949,6 @@
   },
   {
     "pzn": [
-      "07717178"
-    ],
-    "enr": [
-      "2178789"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-17",
-    "datumEnde": "2024-02-16",
-    "datumLetzteMeldung": "2024-01-24",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Paracetamol Kabi 10 mg/ml Infusionslösung",
-    "atcCode": "N02BE01",
-    "wirkstoffe": "Paracetamol",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-    "telefon": "061726867883",
-    "mail": "frank.jethon@fresenius-kabi.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Vom Lieferengpass betroffen ist ausschließlich die Variante Paracetamol Kabi 10 mg/ml 500 mg, PZN 07717178.Die Variante Paracetamol Kabi 10 mg/ml 1000 mg, PZN 07717184 ist lieferbar.",
-    "datumErstmeldung": "2024-01-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03277630"
     ],
     "enr": [
@@ -4251,29 +4204,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2024-01-09",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03083251"
-    ],
-    "enr": [
-      "2106472"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-18",
-    "datumEnde": "2024-02-22",
-    "datumLetzteMeldung": "2024-01-23",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Dexa-Gentamicin",
-    "atcCode": "S01CA01",
-    "wirkstoffe": "Dexamethason; Gentamicinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-12-20",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -4929,31 +4859,6 @@
     "mail": "medical-information@bayer.com",
     "grund": "Sonstige",
     "grundAnmerkung": "Erhöhte Marktnachfrage über den üblichen Bedarf hinaus aufgrund von Lieferengpässen anderer Hersteller.",
-    "datumErstmeldung": "2024-01-17",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03491257"
-    ],
-    "enr": [
-      "2132556"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-16",
-    "datumEnde": "2024-02-09",
-    "datumLetzteMeldung": "2024-01-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ergenyl vial",
-    "atcCode": "N03AG01",
-    "wirkstoffe": "Natriumvalproat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "0800 52 52 010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Restware wird kontingentiert.",
-    "alternativPraeparat": "Ergenyl intravenös - Einreichungsnummer: 2132555",
     "datumErstmeldung": "2024-01-17",
     "infoFachkreise": "Nein"
   },
@@ -6958,29 +6863,6 @@
     "mail": "elisabeth.rueckert@dermapharm.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-11-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05352324"
-    ],
-    "enr": [
-      "0009018"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-06",
-    "datumEnde": "2024-04-01",
-    "datumLetzteMeldung": "2023-12-20",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Dexapos COMOD",
-    "atcCode": "S01BA01",
-    "wirkstoffe": "Dexamethason-21-(3-sulfobenzoat)-Natrium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-12-20",
     "infoFachkreise": "Vorgesehen"
   },
   {
