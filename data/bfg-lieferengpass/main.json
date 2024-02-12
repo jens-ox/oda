@@ -1,6 +1,168 @@
 [
   {
     "pzn": [
+      "01084648"
+    ],
+    "enr": [
+      "0309602"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-09",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-02-09",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Miochol-E Pulver und Lösungsmittel zur Herstellung einer Instillationslösung zur intraokularen Anwendung",
+    "atcCode": "S01EB09",
+    "wirkstoffe": "Acetylcholinchlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
+    "mail": "Pharma.Kundenservice@bausch.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-05-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07480196"
+    ],
+    "enr": [
+      "0196782"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-04",
+    "datumEnde": "2024-03-11",
+    "datumLetzteMeldung": "2024-02-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "L-Polamidon Tropfen",
+    "atcCode": "TERM_ID_NA_2090005265",
+    "wirkstoffe": "Levomethadonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "alternativPraeparat": "L-Polamidon Tropfen - Einreichungsnummer: 0196782",
+    "datumErstmeldung": "2024-02-09",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "12589328"
+    ],
+    "enr": [
+      "2196250"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-21",
+    "datumEnde": "2024-05-30",
+    "datumLetzteMeldung": "2024-02-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "L-Poladdict 5 mg Tabletten",
+    "atcCode": "TERM_ID_NA_2090005949",
+    "wirkstoffe": "Levomethadonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "alternativPraeparat": "L-Poladdict 5 mg Tabletten - Einreichungsnummer: 2196250",
+    "datumErstmeldung": "2023-09-14",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "12589475"
+    ],
+    "enr": [
+      "2196252"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-10",
+    "datumEnde": "2024-05-30",
+    "datumLetzteMeldung": "2024-02-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "L-Poladdict 30 mg Tabletten",
+    "atcCode": "TERM_ID_NA_2090005949",
+    "wirkstoffe": "Levomethadonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "alternativPraeparat": "L-Poladdict 30 mg Tabletten - Einreichungsnummer: 2196252",
+    "datumErstmeldung": "2024-02-09",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "12589386",
+      "12589392",
+      "12589417"
+    ],
+    "enr": [
+      "2196251"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-06",
+    "datumEnde": "2024-05-30",
+    "datumLetzteMeldung": "2024-02-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "L-Poladdict 20 mg Tabletten",
+    "atcCode": "TERM_ID_NA_2090005949",
+    "wirkstoffe": "Levomethadonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-09-14",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "00084913",
+      "06875030",
+      "07228344"
+    ],
+    "enr": [
+      "0245291"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-02",
+    "datumEnde": "2024-03-20",
+    "datumLetzteMeldung": "2024-02-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atosil Tropfen",
+    "atcCode": "N05AA",
+    "wirkstoffe": "Promethazinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
+    "mail": "info@desitin.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-02-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04885337",
+      "04885343"
+    ],
+    "enr": [
+      "0245842"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-08",
+    "datumEnde": "2024-04-24",
+    "datumLetzteMeldung": "2024-02-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atosil Filmtabletten 25 mg",
+    "atcCode": "N05AA",
+    "wirkstoffe": "Promethazinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
+    "mail": "info@desitin.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-02-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "03524548"
     ],
     "enr": [
@@ -1706,30 +1868,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-07-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "05387788"
-    ],
-    "enr": [
-      "2701058"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-11",
-    "datumEnde": "2024-02-10",
-    "datumLetzteMeldung": "2024-02-01",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Lantus 100 I.E./ml Injektionslösung in Patrone - OP(10x3ml)",
-    "atcCode": "A10AE04",
-    "wirkstoffe": "Insulin glargin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Probleme bei der Endfreigabe",
-    "grundAnmerkung": "Keine Alternative verfügbar",
-    "datumErstmeldung": "2024-01-11",
     "infoFachkreise": "Nein"
   },
   {
@@ -4887,29 +5025,6 @@
   },
   {
     "pzn": [
-      "16890125",
-      "16890131"
-    ],
-    "enr": [
-      "2200278"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-17",
-    "datumEnde": "2024-04-30",
-    "datumLetzteMeldung": "2024-01-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Vildagliptin Denk 50 mg Tabletten",
-    "atcCode": "A10BH02",
-    "wirkstoffe": "Vildagliptin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
-    "mail": "edith.eigenberger@denkpharma.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2024-01-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01913843"
     ],
     "enr": [
@@ -7192,30 +7307,6 @@
   },
   {
     "pzn": [
-      "17198756"
-    ],
-    "enr": [
-      "2204135"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-11",
-    "datumEnde": "2024-02-15",
-    "datumLetzteMeldung": "2023-12-15",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Flucloxacillin Kabi 2000 mg Pulver zur Herstellung einer Injektions-/Infusionslösung",
-    "atcCode": "J01CF05",
-    "wirkstoffe": "Flucloxacillin-Natrium-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-    "telefon": "061726867883",
-    "mail": "frank.jethon@fresenius-kabi.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Versorgung ist mit 70 % des Kundenbedarfs bis Mitte Dezember 2023 gewährleistet. Danach besteht ein vollständiger Lieferengpass bis ca. 15.01.2024",
-    "datumErstmeldung": "2023-07-11",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02550242",
       "02719250"
     ],
@@ -9403,28 +9494,6 @@
   },
   {
     "pzn": [
-      "01084648"
-    ],
-    "enr": [
-      "0309602"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-09",
-    "datumEnde": "2024-01-31",
-    "datumLetzteMeldung": "2023-10-05",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Miochol-E Pulver und Lösungsmittel zur Herstellung einer Instillationslösung zur intraokularen Anwendung",
-    "atcCode": "S01EB09",
-    "wirkstoffe": "Acetylcholinchlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "mail": "Pharma.Kundenservice@bausch.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-05-09",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "07727283"
     ],
     "enr": [
@@ -9444,29 +9513,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-24",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12589392"
-    ],
-    "enr": [
-      "2196251"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-06",
-    "datumEnde": "2024-07-11",
-    "datumLetzteMeldung": "2023-10-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "L-Poladdict 20 mg Tabletten",
-    "atcCode": "TERM_ID_NA_2090005949",
-    "wirkstoffe": "Levomethadonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "alternativPraeparat": "L-Poladdict 20 mg Tabletten - Einreichungsnummer: 2196251",
-    "datumErstmeldung": "2023-09-14",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
@@ -9512,29 +9558,6 @@
     "grund": "Sonstige",
     "alternativPraeparat": "AmoxClav HEXAL i. v. 500/100 mg Pulver zur Herstellung einer Injektions- oder Infusionslösung - Einreichungsnummer: 2161443",
     "datumErstmeldung": "2023-09-22",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "12589328"
-    ],
-    "enr": [
-      "2196250"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-08-21",
-    "datumEnde": "2024-07-11",
-    "datumLetzteMeldung": "2023-09-14",
-    "grundArt": "Sonstige",
-    "bezeichnung": "L-Poladdict 5 mg Tabletten",
-    "atcCode": "TERM_ID_NA_2090005949",
-    "wirkstoffe": "Levomethadonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "alternativPraeparat": "L-Poladdict 5 mg Tabletten - Einreichungsnummer: 2196250",
-    "datumErstmeldung": "2023-09-14",
     "infoFachkreise": "Ja"
   },
   {
