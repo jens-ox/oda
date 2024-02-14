@@ -1,6 +1,424 @@
 [
   {
     "pzn": [
+      "03399729"
+    ],
+    "enr": [
+      "2106901"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-08-21",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-02-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Dytide H",
+    "atcCode": "C03EA01",
+    "wirkstoffe": "Hydrochlorothiazid; Triamteren",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "034954 2470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "datumErstmeldung": "2024-02-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04077910"
+    ],
+    "enr": [
+      "2178011"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-22",
+    "datumEnde": "2024-05-17",
+    "datumLetzteMeldung": "2024-02-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sildeagil 100 mg Filmtabletten",
+    "atcCode": "G04BE03",
+    "wirkstoffe": "Sildenafilcitrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "034954 2470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Sildeagil 100 mg Filmtabletten - Einreichungsnummer: 2178011",
+    "datumErstmeldung": "2024-02-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07820775",
+      "07820781"
+    ],
+    "enr": [
+      "2141202"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-05",
+    "datumEnde": "2024-10-15",
+    "datumLetzteMeldung": "2024-02-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Bronchospray Autohaler",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
+    "telefon": "6252957000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Sonstige",
+    "datumErstmeldung": "2024-01-12",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08424136"
+    ],
+    "enr": [
+      "2132484"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-30",
+    "datumEnde": "2024-04-15",
+    "datumLetzteMeldung": "2024-02-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylprednisolon 4mg JENAPHARM",
+    "atcCode": "H02AB04",
+    "wirkstoffe": "Methylprednisolon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "034954 2470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Methylprednisolon 4mg JENAPHARM - Einreichungsnummer: 2132484",
+    "datumErstmeldung": "2023-12-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00821027"
+    ],
+    "enr": [
+      "2159112"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-12",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-02-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Palladon 1,3 mg Hartkapseln",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-12-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00985177"
+    ],
+    "enr": [
+      "2145780"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-07",
+    "datumEnde": "2024-03-15",
+    "datumLetzteMeldung": "2024-02-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolon acis 50mg",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Prednisolon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "+498944232460",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-02-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "05138542"
+    ],
+    "enr": [
+      "2703303"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-20",
+    "datumEnde": "2024-03-25",
+    "datumLetzteMeldung": "2024-02-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Suboxone 2 mg/0,5 mg Sublingualtabletten - OP28",
+    "atcCode": "N07BC51",
+    "wirkstoffe": "Buprenorphinhydrochlorid; Naloxonhydrochlorid-Dihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01822916"
+    ],
+    "enr": [
+      "2140254"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2024-04-18",
+    "datumLetzteMeldung": "2024-02-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fluoxetin HEXAL 10 mg Tabletten",
+    "atcCode": "N06AB03",
+    "wirkstoffe": "Fluoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04332377",
+      "04332466"
+    ],
+    "enr": [
+      "2160407"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2024-04-30",
+    "datumLetzteMeldung": "2024-02-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clarithromycin - 1 A Pharma 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02855734"
+    ],
+    "enr": [
+      "2157982"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2024-02-16",
+    "datumLetzteMeldung": "2024-02-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pen 0,4 Mega TS - 1 A Pharma",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02557959",
+      "02563575"
+    ],
+    "enr": [
+      "2158918"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-06",
+    "datumEnde": "2024-03-08",
+    "datumLetzteMeldung": "2024-02-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoclav 400+57 mg/5 ml Trockensaft",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-12-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00829425"
+    ],
+    "enr": [
+      "2164573"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-15",
+    "datumEnde": "2024-03-08",
+    "datumLetzteMeldung": "2024-02-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefpodoxim HEXAL 40 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01DD13",
+    "wirkstoffe": "Cefpodoximproxetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-12-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02727858",
+      "03005021",
+      "07385428"
+    ],
+    "enr": [
+      "2164074"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-15",
+    "datumEnde": "2024-02-16",
+    "datumLetzteMeldung": "2024-02-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefpodoxim - 1 A Pharma 40 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01DD13",
+    "wirkstoffe": "Cefpodoximproxetil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-12-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04044313",
+      "04044336",
+      "04044342"
+    ],
+    "enr": [
+      "2167358"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2024-03-01",
+    "datumLetzteMeldung": "2024-02-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07020342",
+      "07020394",
+      "07072439",
+      "15895741"
+    ],
+    "enr": [
+      "2155983"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-02-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Benda-5 FU",
+    "atcCode": "L01BC02",
+    "wirkstoffe": "Fluorouracil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Bendalis GmbH",
+    "telefon": "+49 89 45 08 08 78-88",
+    "mail": "customer-service@bendalis.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Aufgrund der Lieferunfähigkeit von Mitbewerbern hat die Bendalis eine deutlich erhöhte Nachfrage. Der derzeitige Lagerbestand ist begrenzt, so dass die Bestände früher als geplant abverkauft sind.",
+    "datumErstmeldung": "2024-02-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00113135"
+    ],
+    "enr": [
+      "2158369"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-30",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-02-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxygesic akut 20 mg",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2023-10-30",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08859868",
+      "08859874"
+    ],
+    "enr": [
+      "2133163"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-11",
+    "datumEnde": "2024-03-15",
+    "datumLetzteMeldung": "2024-02-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Palladon retard 8mg",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-01-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08859845"
+    ],
+    "enr": [
+      "2133162"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-13",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-02-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Palladon retard 4mg",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-02-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "04525308"
     ],
     "enr": [
@@ -116,29 +534,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2024-01-08",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00821027",
-      "09312741"
-    ],
-    "enr": [
-      "2159112"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-12",
-    "datumEnde": "2024-02-29",
-    "datumLetzteMeldung": "2024-02-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Palladon 1,3 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-12-13",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -652,30 +1047,6 @@
   },
   {
     "pzn": [
-      "04044313",
-      "04044336",
-      "04044342"
-    ],
-    "enr": [
-      "2167358"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2024-02-09",
-    "datumLetzteMeldung": "2024-02-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03495433"
     ],
     "enr": [
@@ -880,30 +1251,6 @@
   },
   {
     "pzn": [
-      "00829425",
-      "00829431",
-      "00832485"
-    ],
-    "enr": [
-      "2164573"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-15",
-    "datumEnde": "2024-02-09",
-    "datumLetzteMeldung": "2024-02-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefpodoxim HEXAL 40 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DD13",
-    "wirkstoffe": "Cefpodoximproxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-12-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03126575"
     ],
     "enr": [
@@ -944,53 +1291,6 @@
     "mail": "info@1apharma.com",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-09-14",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02727858",
-      "03005021",
-      "07385428"
-    ],
-    "enr": [
-      "2164074"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-15",
-    "datumEnde": "2024-02-09",
-    "datumLetzteMeldung": "2024-02-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefpodoxim - 1 A Pharma 40 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DD13",
-    "wirkstoffe": "Cefpodoximproxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-12-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02557959",
-      "02563575"
-    ],
-    "enr": [
-      "2158918"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-06",
-    "datumEnde": "2024-02-09",
-    "datumLetzteMeldung": "2024-02-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoclav 400+57 mg/5 ml Trockensaft",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-12-06",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -1416,31 +1716,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2024-02-05",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07820775",
-      "07820781"
-    ],
-    "enr": [
-      "2141202"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-05",
-    "datumEnde": "2024-07-01",
-    "datumLetzteMeldung": "2024-02-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Bronchospray Autohaler",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
-    "telefon": "6252957000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Sonstige",
-    "datumErstmeldung": "2024-01-12",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -2890,29 +3165,6 @@
   },
   {
     "pzn": [
-      "04191876"
-    ],
-    "enr": [
-      "2702640"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-09",
-    "datumEnde": "2024-02-13",
-    "datumLetzteMeldung": "2024-01-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Arixtra 10 mg/0,8 ml Injektionslösung, Fertigspritze - OP7",
-    "atcCode": "B01AX05",
-    "wirkstoffe": "Fondaparinux-Natrium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan IRE Healthcare Limited",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-11-15",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "11228338"
     ],
     "enr": [
@@ -2979,29 +3231,6 @@
     "grund": "Sonstige",
     "alternativPraeparat": "Alfacalcidol Aristo 1 Mikrogramm Weichkapseln - Einreichungsnummer: 2204963",
     "datumErstmeldung": "2023-07-19",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00178548",
-      "04841529"
-    ],
-    "enr": [
-      "2149019"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-20",
-    "datumEnde": "2024-02-09",
-    "datumLetzteMeldung": "2024-01-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefuroxim 500 mg - 1 A Pharma",
-    "atcCode": "J01DC02",
-    "wirkstoffe": "Cefuroximaxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-12-23",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -3186,30 +3415,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2024-01-30",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00000000",
-      "16866055"
-    ],
-    "enr": [
-      "2204213"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-10",
-    "datumEnde": "2024-02-15",
-    "datumLetzteMeldung": "2024-01-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sorafenib AL 200 mg Filmtabletten",
-    "atcCode": "L01EX02",
-    "wirkstoffe": "Sorafenibtosilat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-11-08",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -3422,31 +3627,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2024-01-29",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05138542",
-      "05138571"
-    ],
-    "enr": [
-      "2703303",
-      "2703304"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-20",
-    "datumEnde": "2024-03-25",
-    "datumLetzteMeldung": "2024-01-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Suboxone 2 mg/0,5 mg Sublingualtabletten - OP28",
-    "atcCode": "N07BC51",
-    "wirkstoffe": "Buprenorphinhydrochlorid; Naloxonhydrochlorid-Dihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-20",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -4441,29 +4621,6 @@
   },
   {
     "pzn": [
-      "12546773"
-    ],
-    "enr": [
-      "2712699"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-12",
-    "datumEnde": "2024-03-01",
-    "datumLetzteMeldung": "2024-01-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil Mylan 200 mg/245 mg Filmtabletten - OP30(Fl)",
-    "atcCode": "J05AR03",
-    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilmaleat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Pharmaceuticals Limited",
-    "telefon": "08000700800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-01-22",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "14439656"
     ],
     "enr": [
@@ -4560,29 +4717,6 @@
   },
   {
     "pzn": [
-      "02855728",
-      "02855734"
-    ],
-    "enr": [
-      "2157982"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2024-02-09",
-    "datumLetzteMeldung": "2024-01-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pen 0,4 Mega TS - 1 A Pharma",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00658917",
       "00658946",
       "00658952"
@@ -4649,28 +4783,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Kapazitätsengpass in Kombination mit erhöhter Nachfrage",
     "datumErstmeldung": "2023-02-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06304528"
-    ],
-    "enr": [
-      "2142798"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-25",
-    "datumEnde": "2024-02-09",
-    "datumLetzteMeldung": "2024-01-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "AmoxiClav 125/31,25 TS - 1 A Pharma",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-04-25",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5164,29 +5276,6 @@
   },
   {
     "pzn": [
-      "04332377",
-      "04332466"
-    ],
-    "enr": [
-      "2160407"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-05",
-    "datumEnde": "2024-02-12",
-    "datumLetzteMeldung": "2024-01-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clarithromycin - 1 A Pharma 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA09",
-    "wirkstoffe": "Clarithromycin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "16851881"
     ],
     "enr": [
@@ -5275,28 +5364,6 @@
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-07-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08859874"
-    ],
-    "enr": [
-      "2133163"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-11",
-    "datumEnde": "2024-03-15",
-    "datumLetzteMeldung": "2024-01-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Palladon retard 8mg",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-01-12",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -6772,28 +6839,6 @@
   },
   {
     "pzn": [
-      "01822916"
-    ],
-    "enr": [
-      "2140254"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-05",
-    "datumEnde": "2024-02-12",
-    "datumLetzteMeldung": "2023-12-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fluoxetin HEXAL 10 mg Tabletten",
-    "atcCode": "N06AB03",
-    "wirkstoffe": "Fluoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00658863",
       "00658886"
     ],
@@ -7560,50 +7605,6 @@
   },
   {
     "pzn": [
-      "00113135"
-    ],
-    "enr": [
-      "2158369"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-30",
-    "datumEnde": "2024-02-15",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxygesic akut 20 mg",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-10-30",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00821056"
-    ],
-    "enr": [
-      "2159113"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-14",
-    "datumEnde": "2024-02-29",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Palladon 2,6 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-11-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02708631"
     ],
     "enr": [
@@ -7699,30 +7700,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Erhöhte Nachfrage auf Grund der Lieferunfähigkeit der Mitbewerber",
     "datumErstmeldung": "2023-02-03",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08424136"
-    ],
-    "enr": [
-      "2132484"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-11-30",
-    "datumEnde": "2024-02-23",
-    "datumLetzteMeldung": "2023-12-07",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Methylprednisolon 4mg JENAPHARM",
-    "atcCode": "H02AB04",
-    "wirkstoffe": "Methylprednisolon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "034954 2470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Methylprednisolon 4mg JENAPHARM - Einreichungsnummer: 2132484",
-    "datumErstmeldung": "2023-12-07",
     "infoFachkreise": "Nein"
   },
   {
