@@ -1,6 +1,123 @@
 [
   {
     "pzn": [
+      "17857472"
+    ],
+    "enr": [
+      "0127367"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-14",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-02-14",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Fluorouracil Hikma 50 mg/ml Injektionslösung",
+    "atcCode": "L01BC02",
+    "wirkstoffe": "Fluorouracil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "HIKMA Farmaceutica (Portugal), S.A.",
+    "mail": "rluetzner@hikma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-02-14",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00111981",
+      "05368673"
+    ],
+    "enr": [
+      "2700404",
+      "2708571"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-11",
+    "datumEnde": "2024-03-18",
+    "datumLetzteMeldung": "2024-02-14",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Aldara 5% Creme",
+    "atcCode": "D06BB10",
+    "wirkstoffe": "Imiquimod",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare Limited",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2023-12-28",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09266716"
+    ],
+    "enr": [
+      "2181736"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-12",
+    "datumEnde": "2024-04-15",
+    "datumLetzteMeldung": "2024-02-14",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cisatracurium-hameln 2 mg/ml Injektionslösung/Infusionslösung",
+    "atcCode": "M03AC11",
+    "wirkstoffe": "Cisatracuriumbesilat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "hameln pharma gmbh",
+    "telefon": "016096442495",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-02-14",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01335435",
+      "02421355"
+    ],
+    "enr": [
+      "0070621"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-05",
+    "datumEnde": "2024-02-25",
+    "datumLetzteMeldung": "2024-02-14",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ampho-Moronal Tabletten",
+    "atcCode": "A07AA07",
+    "wirkstoffe": "Amphotericin B",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "+498964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-02-14",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04788634",
+      "04788640"
+    ],
+    "enr": [
+      "0149593"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-01",
+    "datumEnde": "2024-03-03",
+    "datumLetzteMeldung": "2024-02-14",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Leukase N Kegel",
+    "atcCode": "TERM_ID_NA_2090002765",
+    "wirkstoffe": "Framycetinsulfat (1:x) ((mit Angaben zum Schwefelsäure-Gehalt)); Lidocainhydrochlorid-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "089-64186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "03399729"
     ],
     "enr": [
@@ -3536,52 +3653,6 @@
   },
   {
     "pzn": [
-      "14261419"
-    ],
-    "enr": [
-      "2164906"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-01",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-01-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Urapidil Carinopharm 50 mg",
-    "atcCode": "C02CA06",
-    "wirkstoffe": "Urapidil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Carinopharm GmbH",
-    "telefon": "05182 586 69 0",
-    "mail": "info@carinopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-07-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14261402"
-    ],
-    "enr": [
-      "2164904"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-16",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-01-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Urapidil Carinopharm 25 mg",
-    "atcCode": "C02CA06",
-    "wirkstoffe": "Urapidil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Carinopharm GmbH",
-    "telefon": "05182 586 69 0",
-    "mail": "info@carinopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-07-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "06970811"
     ],
     "enr": [
@@ -6885,31 +6956,6 @@
   },
   {
     "pzn": [
-      "00111981",
-      "05368673"
-    ],
-    "enr": [
-      "2700404",
-      "2708571"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-11",
-    "datumEnde": "2024-03-18",
-    "datumLetzteMeldung": "2023-12-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Aldara 5% Creme",
-    "atcCode": "D06BB10",
-    "wirkstoffe": "Imiquimod",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare Limited",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2023-12-28",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01664179",
       "01664185",
       "01664191"
@@ -6978,30 +7024,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-12-21",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04788634",
-      "04788640"
-    ],
-    "enr": [
-      "0149593"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-01",
-    "datumEnde": "2024-02-18",
-    "datumLetzteMeldung": "2023-12-21",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Leukase N Kegel",
-    "atcCode": "TERM_ID_NA_2090002765",
-    "wirkstoffe": "Framycetinsulfat (1:x) ((mit Angaben zum Schwefelsäure-Gehalt)); Lidocainhydrochlorid-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "089-64186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-29",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
