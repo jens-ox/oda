@@ -1,6 +1,78 @@
 [
   {
     "pzn": [
+      "18492920"
+    ],
+    "enr": [
+      "7007141"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-18",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-02-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Sugammadex Orion 100 mg/ml ",
+    "atcCode": "V03AB35",
+    "wirkstoffe": "Sugammadex-Natrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Orion Corporation HR-Beiname: Orion Oyj, Orion Pharma, Chemion, Lääkefarmos, Medipolar, Pharmacal, Suomen Rohdos",
+    "mail": "christoph.lindemann@orionpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Sugammadex Orion 100 mg/ml  - Einreichungsnummer: 7007141",
+    "datumErstmeldung": "2024-02-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01463713",
+      "01463736"
+    ],
+    "enr": [
+      "0175165"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-31",
+    "datumEnde": "2024-03-15",
+    "datumLetzteMeldung": "2024-02-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tavor 2,5 mg",
+    "atcCode": "N05BA06",
+    "wirkstoffe": "Lorazepam",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Sonstige",
+    "alternativPraeparat": "Lorazepam-neuraxpharm 2,5 mg - Einreichungsnummer: 2107792",
+    "datumErstmeldung": "2023-07-11",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "15657444"
+    ],
+    "enr": [
+      "2673962"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-04",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-02-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Zirabev",
+    "atcCode": "L01XC07",
+    "wirkstoffe": "Bevacizumab",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Europe MA EEIG",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Zirabev - Einreichungsnummer: 2674480",
+    "datumErstmeldung": "2024-01-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "17857472"
     ],
     "enr": [
@@ -6088,30 +6160,6 @@
   },
   {
     "pzn": [
-      "15657444"
-    ],
-    "enr": [
-      "2673962"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-04",
-    "datumEnde": "2024-02-15",
-    "datumLetzteMeldung": "2024-01-05",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Zirabev",
-    "atcCode": "L01XC07",
-    "wirkstoffe": "Bevacizumab",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "Zirabev - Einreichungsnummer: 2674480",
-    "datumErstmeldung": "2024-01-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "17550650"
     ],
     "enr": [
@@ -8174,29 +8222,6 @@
   },
   {
     "pzn": [
-      "15619030"
-    ],
-    "enr": [
-      "2202543"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-04",
-    "datumEnde": "2024-02-05",
-    "datumLetzteMeldung": "2023-11-24",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Asacol 1600 mg Tablette mit veränderter Wirkstofffreisetzung",
-    "atcCode": "A07EC02",
-    "wirkstoffe": "Mesalazin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Tillotts Pharma GmbH",
-    "mail": "florian.poell@tillotts.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Alternativ ist Asacol 1600 mg 90 Tabletten (PZN: 15619047) verfügbar.",
-    "datumErstmeldung": "2023-11-24",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "06103095"
     ],
     "enr": [
@@ -8830,31 +8855,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-06-15",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01463713",
-      "01463736"
-    ],
-    "enr": [
-      "0175165"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-31",
-    "datumEnde": "2024-02-16",
-    "datumLetzteMeldung": "2023-10-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Tavor 2,5 mg",
-    "atcCode": "N05BA06",
-    "wirkstoffe": "Lorazepam",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Sonstige",
-    "alternativPraeparat": "Lorazepam-neuraxpharm 2,5 mg - Einreichungsnummer: 2107792",
-    "datumErstmeldung": "2023-07-11",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
