@@ -1,6 +1,164 @@
 [
   {
     "pzn": [
+      "17570055"
+    ],
+    "enr": [
+      "7000589"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-03-11",
+    "datumLetzteMeldung": "2024-02-16",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fesoterodin Aristo 8 mg Retardtabletten",
+    "atcCode": "G04BD11",
+    "wirkstoffe": "Fesoterodinfumarat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17570032"
+    ],
+    "enr": [
+      "7000588"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-13",
+    "datumEnde": "2024-03-11",
+    "datumLetzteMeldung": "2024-02-16",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fesoterodin Aristo 4 mg Retardtabletten",
+    "atcCode": "G04BD11",
+    "wirkstoffe": "Fesoterodinfumarat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03050949"
+    ],
+    "enr": [
+      "2155032"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-18",
+    "datumEnde": "2024-05-20",
+    "datumLetzteMeldung": "2024-02-16",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Aquacort 50 Mikrogramm Nasenspray",
+    "atcCode": "R01AD05",
+    "wirkstoffe": "Budesonid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "grund": "Änderung des Herstellverfahrens",
+    "datumErstmeldung": "2024-02-16",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17198727"
+    ],
+    "enr": [
+      "2203456"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-16",
+    "datumEnde": "2024-03-18",
+    "datumLetzteMeldung": "2024-02-16",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Foscarnet Kabi 24 mg/ml Infusionslösung",
+    "atcCode": "J05AD01",
+    "wirkstoffe": "Foscarnet-Natrium-Hexahydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "telefon": "061726867883",
+    "mail": "frank.jethon@fresenius-kabi.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-02-16",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11510477"
+    ],
+    "enr": [
+      "2190853"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-17",
+    "datumEnde": "2024-03-11",
+    "datumLetzteMeldung": "2024-02-16",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Linezolid Kabi 2 mg/ml Infusionslösung",
+    "atcCode": "J01XX08",
+    "wirkstoffe": "Linezolid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "telefon": "061726867883",
+    "mail": "frank.jethon@fresenius-kabi.com",
+    "grund": "Probleme bei der Endfreigabe",
+    "datumErstmeldung": "2024-01-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05368673"
+    ],
+    "enr": [
+      "2708571"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-11",
+    "datumEnde": "2024-03-18",
+    "datumLetzteMeldung": "2024-02-16",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Aldara 5% Creme",
+    "atcCode": "D06BB10",
+    "wirkstoffe": "Imiquimod",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare Limited",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2023-12-28",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "18054278"
+    ],
+    "enr": [
+      "2110717"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-12",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-02-16",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Nifedipin Denk 20 mg retard",
+    "atcCode": "C08CA05",
+    "wirkstoffe": "Nifedipin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
+    "mail": "edith.eigenberger@denkpharma.de",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Nifedipin-ratiopharm 20 mg Retardtabletten - Einreichungsnummer: 2132328",
+    "datumErstmeldung": "2024-02-16",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "18492920"
     ],
     "enr": [
@@ -92,31 +250,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-02-14",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00111981",
-      "05368673"
-    ],
-    "enr": [
-      "2700404",
-      "2708571"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-11",
-    "datumEnde": "2024-03-18",
-    "datumLetzteMeldung": "2024-02-14",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Aldara 5% Creme",
-    "atcCode": "D06BB10",
-    "wirkstoffe": "Imiquimod",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare Limited",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2023-12-28",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -1816,29 +1949,6 @@
   },
   {
     "pzn": [
-      "00000000"
-    ],
-    "enr": [
-      "2174209"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-02-05",
-    "datumEnde": "2024-02-19",
-    "datumLetzteMeldung": "2024-02-05",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "STAMICIS 1 mg Kit für ein radioaktives Arzneimittel",
-    "atcCode": "V09GA01",
-    "wirkstoffe": "Kupfertetramibitetrafluoroborat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Curium Germany GmbH",
-    "mail": "annette.brinker-ext@curiumpharma.com",
-    "grund": "Sonstige",
-    "alternativPraeparat": "CardioTOP 1 mg Kit für ein radioaktives Arzneimittel - Einreichungsnummer: 2169086",
-    "datumErstmeldung": "2024-02-05",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01129233"
     ],
     "enr": [
@@ -2372,7 +2482,7 @@
     "atcCode": "A07AA09",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "030 3384270",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -4282,7 +4392,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -4836,30 +4946,6 @@
   },
   {
     "pzn": [
-      "06323307",
-      "06323313"
-    ],
-    "enr": [
-      "2121913"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-03",
-    "datumEnde": "2024-02-19",
-    "datumLetzteMeldung": "2024-01-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Aponal Tropfen",
-    "atcCode": "N06AA12",
-    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "telefon": "038343914465",
-    "mail": "ra-aponal@cheplapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-10-09",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00658917",
       "00658946",
       "00658952"
@@ -5183,29 +5269,6 @@
     "mail": "christine.funk@ursapharm.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-12-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11510477"
-    ],
-    "enr": [
-      "2190853"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-17",
-    "datumEnde": "2024-02-16",
-    "datumLetzteMeldung": "2024-01-17",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Linezolid Kabi 2 mg/ml Infusionslösung",
-    "atcCode": "J01XX08",
-    "wirkstoffe": "Linezolid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-    "telefon": "061726867883",
-    "mail": "frank.jethon@fresenius-kabi.com",
-    "grund": "Probleme bei der Endfreigabe",
-    "datumErstmeldung": "2024-01-17",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5942,50 +6005,6 @@
     "mail": "info@aristo-pharma.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-09-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17570055"
-    ],
-    "enr": [
-      "7000589"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-02-12",
-    "datumLetzteMeldung": "2024-01-09",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fesoterodin Aristo 8 mg Retardtabletten",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17570032"
-    ],
-    "enr": [
-      "7000588"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-13",
-    "datumEnde": "2024-02-12",
-    "datumLetzteMeldung": "2024-01-09",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fesoterodin Aristo 4 mg Retardtabletten",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-13",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -10169,7 +10188,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
