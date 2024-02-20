@@ -1,6 +1,240 @@
 [
   {
     "pzn": [
+      "00658774"
+    ],
+    "enr": [
+      "2136012"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-17",
+    "datumEnde": "2024-02-20",
+    "datumLetzteMeldung": "2024-02-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxi 750 - 1 A Pharma",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpass in Kombination mit erhöhter Nachfrage",
+    "datumErstmeldung": "2023-02-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00658917",
+      "00658946",
+      "00658952"
+    ],
+    "enr": [
+      "2141152"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2024-02-23",
+    "datumLetzteMeldung": "2024-02-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pen 1,5 Mega - 1 A Pharma",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02855734"
+    ],
+    "enr": [
+      "2157982"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2024-02-29",
+    "datumLetzteMeldung": "2024-02-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pen 0,4 Mega TS - 1 A Pharma",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01913808"
+    ],
+    "enr": [
+      "1463475"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-08",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-02-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ultracain 1%-Suprarenin 50 ml",
+    "atcCode": "N01BB58",
+    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "SEPTODONT GmbH",
+    "telefon": "+49 228/52880040",
+    "mail": "barbara.siebertz@pharmalex.com",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Ultracain 1%-Suprarenin 5 ml - Einreichungsnummer: 0085781",
+    "datumErstmeldung": "2023-11-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01913843"
+    ],
+    "enr": [
+      "1463512"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-16",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-02-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ultracain 2%-Suprarenin 50 ml",
+    "atcCode": "N01BB58",
+    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "SEPTODONT GmbH",
+    "telefon": "+49 228 971260",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-01-16",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12405297"
+    ],
+    "enr": [
+      "2194642"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-12-01",
+    "datumEnde": "2024-01-17",
+    "datumLetzteMeldung": "2024-02-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Utrogest 200 mg Weichkapseln",
+    "atcCode": "G03DA04",
+    "wirkstoffe": "Progesteron",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Besins Healthcare Germany GmbH",
+    "telefon": "+49 30 408199-161",
+    "mail": "marketaccess.de@besins-healthcare.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Starkes Mengenwachstum - auch europaweit, mittelfristig Erhöhung der Produktionskapazität",
+    "alternativPraeparat": "Utrogest 200 mg Weichkapseln - Einreichungsnummer: 2194642",
+    "datumErstmeldung": "2024-02-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00585012",
+      "00585035"
+    ],
+    "enr": [
+      "2103160"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-04",
+    "datumEnde": "2024-03-29",
+    "datumLetzteMeldung": "2024-02-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Allergospasmin N",
+    "atcCode": "R03AK05",
+    "wirkstoffe": "Natriumcromoglicat (Ph.Eur.); Reproterolhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-02-17",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07507110"
+    ],
+    "enr": [
+      "0610075"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-01",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-02-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOMYCIN 400 Saft",
+    "atcCode": "J01FA01",
+    "wirkstoffe": "Erythromycinestolat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-11-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06648311"
+    ],
+    "enr": [
+      "2124662"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-27",
+    "datumEnde": "2024-02-26",
+    "datumLetzteMeldung": "2024-02-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectomox 500 Saft",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02697293"
+    ],
+    "enr": [
+      "2101160"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-15",
+    "datumEnde": "2024-04-08",
+    "datumLetzteMeldung": "2024-02-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "IMPROMEN Tropfen, 2 mg/ml Lösung",
+    "atcCode": "N05AD06",
+    "wirkstoffe": "Bromperidollactat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "EUMEDICA S.A.",
+    "telefon": "+41612053328",
+    "mail": "h.bornemann@eumedica.ch",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Dosing devices (pipettes) are currently not available at manufacturing site Lusomedicamenta, PT after previous supplier was acquired by Bormioli who needs to re-install and qualify the dedicated machines. Delay in pipette production.",
+    "datumErstmeldung": "2023-10-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "17570055"
     ],
     "enr": [
@@ -532,28 +766,6 @@
   },
   {
     "pzn": [
-      "02855734"
-    ],
-    "enr": [
-      "2157982"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2024-02-16",
-    "datumLetzteMeldung": "2024-02-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pen 0,4 Mega TS - 1 A Pharma",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02557959",
       "02563575"
     ],
@@ -593,30 +805,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-12-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02727858",
-      "03005021",
-      "07385428"
-    ],
-    "enr": [
-      "2164074"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-15",
-    "datumEnde": "2024-02-16",
-    "datumLetzteMeldung": "2024-02-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefpodoxim - 1 A Pharma 40 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01DD13",
-    "wirkstoffe": "Cefpodoximproxetil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-12-15",
     "infoFachkreise": "Vorgesehen"
@@ -808,30 +996,6 @@
     "mail": "shortages@infectopharm.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2024-01-15",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03977445",
-      "07507110"
-    ],
-    "enr": [
-      "0610075"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-24",
-    "datumEnde": "2024-12-31",
-    "datumLetzteMeldung": "2024-02-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 400 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-11-27",
     "infoFachkreise": "Nein"
   },
   {
@@ -2636,31 +2800,6 @@
   },
   {
     "pzn": [
-      "00585012",
-      "00585035"
-    ],
-    "enr": [
-      "2103160"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-04",
-    "datumEnde": "2024-03-29",
-    "datumLetzteMeldung": "2024-02-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Allergospasmin N",
-    "atcCode": "R03AK05",
-    "wirkstoffe": "Natriumcromoglicat (Ph.Eur.); Reproterolhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Sonstige",
-    "alternativPraeparat": "Allergospasmin N - Einreichungsnummer: 2103160",
-    "datumErstmeldung": "2023-02-17",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "11323315"
     ],
     "enr": [
@@ -3906,29 +4045,6 @@
   },
   {
     "pzn": [
-      "06648311"
-    ],
-    "enr": [
-      "2124662"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-27",
-    "datumEnde": "2024-02-19",
-    "datumLetzteMeldung": "2024-01-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectomox 500 Saft",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01356271"
     ],
     "enr": [
@@ -4946,76 +5062,6 @@
   },
   {
     "pzn": [
-      "00658917",
-      "00658946",
-      "00658952"
-    ],
-    "enr": [
-      "2141152"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2024-02-16",
-    "datumLetzteMeldung": "2024-01-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pen 1,5 Mega - 1 A Pharma",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00544674"
-    ],
-    "enr": [
-      "2134926"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-12",
-    "datumEnde": "2024-02-16",
-    "datumLetzteMeldung": "2024-01-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoclav Trockensaft",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-06-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00658774",
-      "00658780"
-    ],
-    "enr": [
-      "2136012"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-17",
-    "datumEnde": "2024-02-16",
-    "datumLetzteMeldung": "2024-01-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxi 750 - 1 A Pharma",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Kapazitätsengpass in Kombination mit erhöhter Nachfrage",
-    "datumErstmeldung": "2023-02-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04511507",
       "04511542"
     ],
@@ -5321,28 +5367,6 @@
   },
   {
     "pzn": [
-      "01913843"
-    ],
-    "enr": [
-      "1463512"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-16",
-    "datumEnde": "2024-02-19",
-    "datumLetzteMeldung": "2024-01-16",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ultracain 2%-Suprarenin 50 ml",
-    "atcCode": "N01BB58",
-    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "SEPTODONT GmbH",
-    "telefon": "+49 228 971260",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-01-16",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "10387833"
     ],
     "enr": [
@@ -5431,30 +5455,6 @@
     "grundAnmerkung": "Mitteilung an Dental-Handel und pharmazeutische Großhändler haben stattgefunden",
     "alternativPraeparat": "Dontisolon D Zylinderampullen - Einreichungsnummer: 0801705",
     "datumErstmeldung": "2024-01-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01913808"
-    ],
-    "enr": [
-      "1463475"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-08",
-    "datumEnde": "2024-02-19",
-    "datumLetzteMeldung": "2024-01-15",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ultracain 1%-Suprarenin 50 ml",
-    "atcCode": "N01BB58",
-    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "SEPTODONT GmbH",
-    "telefon": "+49 228/52880040",
-    "mail": "barbara.siebertz@pharmalex.com",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "Ultracain 1%-Suprarenin 5 ml - Einreichungsnummer: 0085781",
-    "datumErstmeldung": "2023-11-08",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -8927,30 +8927,6 @@
   },
   {
     "pzn": [
-      "02697293"
-    ],
-    "enr": [
-      "2101160"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-15",
-    "datumEnde": "2024-03-15",
-    "datumLetzteMeldung": "2023-10-24",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "IMPROMEN Tropfen, 2 mg/ml Lösung",
-    "atcCode": "N05AD06",
-    "wirkstoffe": "Bromperidollactat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "EUMEDICA S.A.",
-    "telefon": "+41612053328",
-    "mail": "h.bornemann@eumedica.ch",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Dosing devices (pipettes) are currently not available at manufacturing site Lusomedicamenta, PT after previous supplier was acquired by Bormioli who needs to re-install and qualify the dedicated machines. Delay in pipette production.",
-    "datumErstmeldung": "2023-10-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "16164229"
     ],
     "enr": [
@@ -9255,29 +9231,6 @@
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-02-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00141462",
-      "00141485"
-    ],
-    "enr": [
-      "2158765"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-16",
-    "datumEnde": "2024-02-23",
-    "datumLetzteMeldung": "2023-10-16",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clindamycin Aristo 450 mg Filmtabletten",
-    "atcCode": "J01FF01",
-    "wirkstoffe": "Clindamycinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-16",
     "infoFachkreise": "Vorgesehen"
   },
   {
