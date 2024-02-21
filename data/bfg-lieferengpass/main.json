@@ -1,6 +1,145 @@
 [
   {
     "pzn": [
+      "00809138"
+    ],
+    "enr": [
+      "0096595"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-02-20",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Isotonische Kochsalzlösung Fresenius",
+    "atcCode": "B05XA03",
+    "wirkstoffe": "Natriumchlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "telefon": "061726867883",
+    "mail": "frank.jethon@fresenius-kabi.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Die betroffene PZN steht in Teilmengen zur Verfügung. Es erfolgt eine Belieferung in Teilmengen über mehrere Monate. Der Engpass soll teilweise mit einem Ersatzprodukt abgemildert werden.",
+    "datumErstmeldung": "2024-02-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02388758"
+    ],
+    "enr": [
+      "2101431"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-20",
+    "datumEnde": "2024-04-30",
+    "datumLetzteMeldung": "2024-02-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Diprosalic Lösung",
+    "atcCode": "D07XC01",
+    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Organon Healthcare GmbH",
+    "mail": "ra_dach@organon.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-02-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11180927"
+    ],
+    "enr": [
+      "2180379"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-20",
+    "datumEnde": "2024-03-22",
+    "datumLetzteMeldung": "2024-02-20",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Methotrexat medac 25 mg/ml Injektionslösung",
+    "atcCode": "L01BA01",
+    "wirkstoffe": "Methotrexat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Medac Gesellschaft für klinische Spezialpräparate m.b.H.",
+    "mail": "bfarm-meldung@medac.de",
+    "grund": "Sonstige",
+    "grundAnmerkung": "erhöhte Nachfrage",
+    "datumErstmeldung": "2024-02-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01799838"
+    ],
+    "enr": [
+      "2151075"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-21",
+    "datumEnde": "2024-04-30",
+    "datumLetzteMeldung": "2024-02-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Avalox 400 mg/250 ml Infusionslösung",
+    "atcCode": "J01MA14",
+    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wassergehalt))",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bayer Vital GmbH",
+    "telefon": "0800 6422937",
+    "mail": "medical-information@bayer.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-12-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00291084"
+    ],
+    "enr": [
+      "2102857"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-01",
+    "datumEnde": "2024-04-29",
+    "datumLetzteMeldung": "2024-02-20",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Amoxicillin STADA 1000mg Filmtabletten",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
+    "telefon": "+4961016033466",
+    "mail": "minyoung.seo@stadapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "13167747"
+    ],
+    "enr": [
+      "2182719"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-07",
+    "datumEnde": "2024-03-20",
+    "datumLetzteMeldung": "2024-02-20",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Bronchospasmin 10 ml Injektionslösung",
+    "atcCode": "R03CC14",
+    "wirkstoffe": "Reproterolhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Bronchospasmin 1 ml Injektionslösung - Einreichungsnummer: 2182718",
+    "datumErstmeldung": "2024-02-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "00658774"
     ],
     "enr": [
@@ -479,7 +618,7 @@
     "atcCode": "L01BC02",
     "wirkstoffe": "Fluorouracil",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "HIKMA Farmaceutica (Portugal), S.A.",
+    "zulassungsinhaber": "Hikma Farmaceutica (Portugal), S.A.",
     "mail": "rluetzner@hikma.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-02-14",
@@ -1416,54 +1555,6 @@
   },
   {
     "pzn": [
-      "00291084",
-      "02760531",
-      "02760548"
-    ],
-    "enr": [
-      "2102857"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-01",
-    "datumEnde": "2024-02-19",
-    "datumLetzteMeldung": "2024-02-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Amoxicillin STADA 1000mg Filmtabletten",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "+4961016033466",
-    "mail": "minyoung.seo@stadapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-11-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16886862"
-    ],
-    "enr": [
-      "2204214"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-07",
-    "datumEnde": "2024-02-16",
-    "datumLetzteMeldung": "2024-02-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Sorafenib STADA 200 mg Filmtabletten",
-    "atcCode": "L01EX02",
-    "wirkstoffe": "Sorafenibtosilat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "+4961016032416",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-11-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04330929",
       "04332176"
     ],
@@ -1940,30 +2031,6 @@
   },
   {
     "pzn": [
-      "04051810",
-      "04051827"
-    ],
-    "enr": [
-      "2164057"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-19",
-    "datumEnde": "2024-03-08",
-    "datumLetzteMeldung": "2024-02-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Lamotrigin acis 50 mg Tabletten",
-    "atcCode": "N03AX09",
-    "wirkstoffe": "Lamotrigin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "acis Arzneimittel GmbH",
-    "telefon": "+498944232460",
-    "mail": "Medwiss.Acis@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-01-23",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04232227",
       "04232262"
     ],
@@ -2159,51 +2226,6 @@
   },
   {
     "pzn": [
-      "00165267"
-    ],
-    "enr": [
-      "2136974"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-26",
-    "datumEnde": "2024-02-18",
-    "datumLetzteMeldung": "2024-02-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "SODERM Creme",
-    "atcCode": "D07AC01",
-    "wirkstoffe": "Betamethasonvalerat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "+498964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-02-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00165304"
-    ],
-    "enr": [
-      "2136969"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-12",
-    "datumEnde": "2024-02-18",
-    "datumLetzteMeldung": "2024-02-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Soderm Lotio",
-    "atcCode": "D07AC01",
-    "wirkstoffe": "Betamethasonvalerat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-12-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "16596615"
     ],
     "enr": [
@@ -2337,7 +2359,7 @@
     "atcCode": "L01XA01",
     "wirkstoffe": "Cisplatin",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "HIKMA Farmaceutica (Portugal), S.A.",
+    "zulassungsinhaber": "Hikma Farmaceutica (Portugal), S.A.",
     "telefon": "015785126413",
     "mail": "rluetzner@hikma.com",
     "grund": "Erhöhte Nachfrage",
@@ -3764,30 +3786,6 @@
   },
   {
     "pzn": [
-      "02421964",
-      "02421970",
-      "02421987"
-    ],
-    "enr": [
-      "2144586"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-15",
-    "datumEnde": "2024-04-30",
-    "datumLetzteMeldung": "2024-01-30",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Nimodipin Hexal 30mg",
-    "atcCode": "C08CA06",
-    "wirkstoffe": "Nimodipin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-04-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "15436281"
     ],
     "enr": [
@@ -4532,7 +4530,7 @@
     "atcCode": "V03AF03",
     "wirkstoffe": "Calciumfolinat",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "HIKMA Farmaceutica (Portugal), S.A.",
+    "zulassungsinhaber": "Hikma Farmaceutica (Portugal), S.A.",
     "telefon": "089 45450250",
     "mail": "rluetzner@hikma.com",
     "grund": "Erhöhte Nachfrage",
@@ -6464,52 +6462,6 @@
   },
   {
     "pzn": [
-      "04051796"
-    ],
-    "enr": [
-      "2164056"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-02",
-    "datumEnde": "2024-03-08",
-    "datumLetzteMeldung": "2024-01-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Lamotrigin acis 25 mg Tabletten",
-    "atcCode": "N03AX09",
-    "wirkstoffe": "Lamotrigin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "acis Arzneimittel GmbH",
-    "telefon": "+498944232460",
-    "mail": "Medwiss.Acis@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-01-03",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04051862"
-    ],
-    "enr": [
-      "2164058"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-02",
-    "datumEnde": "2024-03-08",
-    "datumLetzteMeldung": "2024-01-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Lamotrigin acis 100 mg Tabletten",
-    "atcCode": "N03AX09",
-    "wirkstoffe": "Lamotrigin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "acis Arzneimittel GmbH",
-    "telefon": "+498944232460",
-    "mail": "Medwiss.Acis@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-01-03",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00618616",
       "00618622",
       "00618639"
@@ -7071,29 +7023,6 @@
   },
   {
     "pzn": [
-      "01799838"
-    ],
-    "enr": [
-      "2151075"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-21",
-    "datumEnde": "2024-02-28",
-    "datumLetzteMeldung": "2023-12-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Avalox 400 mg/250 ml Infusionslösung",
-    "atcCode": "J01MA14",
-    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wassergehalt))",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bayer Vital GmbH",
-    "telefon": "0800 6422937",
-    "mail": "medical-information@bayer.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-12-21",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "08774669"
     ],
     "enr": [
@@ -7113,29 +7042,6 @@
     "mail": "christine.funk@ursapharm.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-12-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06983073"
-    ],
-    "enr": [
-      "2144695"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-25",
-    "datumEnde": "2024-02-20",
-    "datumLetzteMeldung": "2023-12-20",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "ARA-cell 4000mg Infusionslösung",
-    "atcCode": "L01BC01",
-    "wirkstoffe": "Cytarabin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM, Gesellschaft mit beschränkter Haftung",
-    "telefon": "+4961016032416",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-09-29",
     "infoFachkreise": "Vorgesehen"
   },
   {
