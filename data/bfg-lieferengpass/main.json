@@ -1,6 +1,101 @@
 [
   {
     "pzn": [
+      "04858837",
+      "04858903",
+      "04859044",
+      "07521274"
+    ],
+    "enr": [
+      "2143328"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-25",
+    "datumEnde": "2024-03-04",
+    "datumLetzteMeldung": "2024-02-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Metronidazol Aristo 400 mg Tabletten",
+    "atcCode": "J01XD01",
+    "wirkstoffe": "Metronidazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-09-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14275924"
+    ],
+    "enr": [
+      "2714503"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-23",
+    "datumEnde": "2024-06-10",
+    "datumLetzteMeldung": "2024-02-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Braftovi 50 mg Hartkapseln",
+    "atcCode": "L01EC03",
+    "wirkstoffe": "Encorafenib",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pierre Fabre Medicament",
+    "telefon": "0761/45261-233",
+    "mail": "zulassung_de@pierre-fabre.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-02-23",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01343587"
+    ],
+    "enr": [
+      "2143114"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-13",
+    "datumEnde": "2024-04-30",
+    "datumLetzteMeldung": "2024-02-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednisolut 50mg L",
+    "atcCode": "H02AB06",
+    "wirkstoffe": "Natrium(prednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "034954 2470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Sonstige",
+    "alternativPraeparat": "Prednisolut 50mg L - Einreichungsnummer: 2143114",
+    "datumErstmeldung": "2024-02-23",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00585035"
+    ],
+    "enr": [
+      "2103160"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-26",
+    "datumEnde": "2024-03-29",
+    "datumLetzteMeldung": "2024-02-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Allergospasmin N",
+    "atcCode": "R03AK05",
+    "wirkstoffe": "Natriumcromoglicat (Ph.Eur.); Reproterolhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-02-17",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "13857529",
       "13857558",
       "13857564"
@@ -783,30 +878,6 @@
     "grundAnmerkung": "Starkes Mengenwachstum - auch europaweit, mittelfristig Erhöhung der Produktionskapazität",
     "alternativPraeparat": "Utrogest 200 mg Weichkapseln - Einreichungsnummer: 2194642",
     "datumErstmeldung": "2024-02-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00585012",
-      "00585035"
-    ],
-    "enr": [
-      "2103160"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-04",
-    "datumEnde": "2024-03-29",
-    "datumLetzteMeldung": "2024-02-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Allergospasmin N",
-    "atcCode": "R03AK05",
-    "wirkstoffe": "Natriumcromoglicat (Ph.Eur.); Reproterolhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-02-17",
     "infoFachkreise": "Nein"
   },
   {
@@ -6245,31 +6316,6 @@
     "mail": "info@aristo-pharma.de",
     "grund": "Probleme bei der Chargenprüfung",
     "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04858837",
-      "04858903",
-      "04859044",
-      "07521274"
-    ],
-    "enr": [
-      "2143328"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-25",
-    "datumEnde": "2024-03-01",
-    "datumLetzteMeldung": "2024-01-09",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Metronidazol Aristo 400 mg Tabletten",
-    "atcCode": "J01XD01",
-    "wirkstoffe": "Metronidazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-09-27",
     "infoFachkreise": "Vorgesehen"
   },
   {
