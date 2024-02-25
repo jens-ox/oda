@@ -1,6 +1,55 @@
 [
   {
     "pzn": [
+      "02288324"
+    ],
+    "enr": [
+      "2100771"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2023-10-01",
+    "datumEnde": "3000-01-01",
+    "datumLetzteMeldung": "2024-02-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Isoket 10mg Tabletten",
+    "atcCode": "C01DA08",
+    "wirkstoffe": "Isosorbiddinitrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Merus Labs Luxco II S.à.R.L.",
+    "telefon": "+49 162 1889512",
+    "mail": "birger.kintzel@parexel.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Eine Wiedereinführung der 98er Packungsgröße ist nicht geplant. Unter \"Voraussichtliches Ende des Lieferengpasses wurde aus formalen Gründen ein fiktives Datum (01.01.3000) eingegeben. Es stehen weiterhin folgende Packungsgrößen für die Vermarktung zur Verfügung: 60 (PZN: 04876901) und 100 (PZN: 05969183) Tabletten. Das Ablaufdatum der letzten in den Markt gebrachten Charge mit der Nummer 7736904 ist der 31.01.2026.",
+    "datumErstmeldung": "2024-02-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02288318",
+      "04876887"
+    ],
+    "enr": [
+      "0003665"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-15",
+    "datumEnde": "3000-01-01",
+    "datumLetzteMeldung": "2024-02-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Isoket 5mg Sublingualtabletten",
+    "atcCode": "C01DA08",
+    "wirkstoffe": "Isosorbiddinitrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Merus Labs Luxco II S.à.R.L.",
+    "telefon": "+49 162 1889512",
+    "mail": "birger.kintzel@parexel.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Eine Wiedereinführung der 98er Packungsgröße ist nicht geplant. Unter \"Voraussichtliches Ende des Lieferengpasses\" wurde aus formalen Gründen ein fiktives Datum (01.01.3000) eingegeben. Es stehen weiterhin folgende Packungsgrößen für die Vermarktung zur Verfügung: 50 (PZN: 05969421) und 100 (PZN: 05969177) Sublingualtabletten.",
+    "datumErstmeldung": "2024-02-24",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "04858837",
       "04858903",
       "04859044",
