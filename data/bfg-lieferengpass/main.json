@@ -1,6 +1,144 @@
 [
   {
     "pzn": [
+      "00241270"
+    ],
+    "enr": [
+      "2153281"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-23",
+    "datumEnde": "2024-03-22",
+    "datumLetzteMeldung": "2024-02-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ciprohexal 250 mg",
+    "atcCode": "J01MA02",
+    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01664191"
+    ],
+    "enr": [
+      "2149815"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-04",
+    "datumEnde": "2024-05-02",
+    "datumLetzteMeldung": "2024-02-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Trimipramin 25 - 1A-Pharma",
+    "atcCode": "N06AA06",
+    "wirkstoffe": "Trimipraminmaleat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-12-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17412132",
+      "17412161"
+    ],
+    "enr": [
+      "2192414"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-17",
+    "datumEnde": "2024-03-15",
+    "datumLetzteMeldung": "2024-02-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Rosuvastatin - 1 A Pharma 20 mg Filmtabletten",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-26",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00350349"
+    ],
+    "enr": [
+      "2158919"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-06",
+    "datumEnde": "2024-03-08",
+    "datumLetzteMeldung": "2024-02-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "AmoxiClav 400/57 TS-1A Pharma",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "telefon": "089/61388250",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-09-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00658917",
+      "00658946",
+      "00658952"
+    ],
+    "enr": [
+      "2141152"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2024-02-28",
+    "datumLetzteMeldung": "2024-02-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pen 1,5 Mega - 1 A Pharma",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00672662",
+      "00679115",
+      "02100125"
+    ],
+    "enr": [
+      "2169677"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-29",
+    "datumEnde": "2024-02-26",
+    "datumLetzteMeldung": "2024-02-25",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Alprazolam - 1 A Pharma 0,5 mg Tabletten",
+    "atcCode": "N05BA12",
+    "wirkstoffe": "Alprazolam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-07-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "02288324"
     ],
     "enr": [
@@ -810,30 +948,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Kapazitätsengpass in Kombination mit erhöhter Nachfrage",
     "datumErstmeldung": "2023-02-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00658917",
-      "00658946",
-      "00658952"
-    ],
-    "enr": [
-      "2141152"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2024-02-23",
-    "datumLetzteMeldung": "2024-02-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pen 1,5 Mega - 1 A Pharma",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2022-11-03",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2341,54 +2455,6 @@
   },
   {
     "pzn": [
-      "00350349",
-      "00460888"
-    ],
-    "enr": [
-      "2158919"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-06",
-    "datumEnde": "2024-02-23",
-    "datumLetzteMeldung": "2024-02-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "AmoxiClav 400/57 TS-1A Pharma",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "telefon": "089/61388250",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-09-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00672662",
-      "00679115",
-      "02100125"
-    ],
-    "enr": [
-      "2169677"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-29",
-    "datumEnde": "2024-02-21",
-    "datumLetzteMeldung": "2024-02-06",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Alprazolam - 1 A Pharma 0,5 mg Tabletten",
-    "atcCode": "N05BA12",
-    "wirkstoffe": "Alprazolam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-07-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08725091"
     ],
     "enr": [
@@ -2429,28 +2495,6 @@
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-06-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "10980011"
-    ],
-    "enr": [
-      "2197530"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-06",
-    "datumEnde": "2024-02-20",
-    "datumLetzteMeldung": "2024-02-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "L-Polaflux 5 mg/ml Lösung zum Einnehmen",
-    "atcCode": "TERM_ID_NA_2090005949",
-    "wirkstoffe": "Levomethadonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-09-08",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -4297,28 +4341,6 @@
   },
   {
     "pzn": [
-      "00113750"
-    ],
-    "enr": [
-      "2139962"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-18",
-    "datumEnde": "2024-02-22",
-    "datumLetzteMeldung": "2024-01-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefaclor 250 TS - 1 A Pharma",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "15436281"
     ],
     "enr": [
@@ -5940,29 +5962,6 @@
   },
   {
     "pzn": [
-      "17412132",
-      "17412161"
-    ],
-    "enr": [
-      "2192414"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-17",
-    "datumEnde": "2024-02-23",
-    "datumLetzteMeldung": "2024-01-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Rosuvastatin - 1 A Pharma 20 mg Filmtabletten",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-06-26",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01822945",
       "04833375"
     ],
@@ -7246,29 +7245,6 @@
   },
   {
     "pzn": [
-      "00241270",
-      "01345801"
-    ],
-    "enr": [
-      "2153281"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-23",
-    "datumEnde": "2024-02-23",
-    "datumLetzteMeldung": "2023-12-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ciprohexal 250 mg",
-    "atcCode": "J01MA02",
-    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "17412089"
     ],
     "enr": [
@@ -7333,30 +7309,6 @@
     "mail": "service@hexal.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2022-11-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01664179",
-      "01664185",
-      "01664191"
-    ],
-    "enr": [
-      "2149815"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-04",
-    "datumEnde": "2024-02-27",
-    "datumLetzteMeldung": "2023-12-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Trimipramin 25 - 1A-Pharma",
-    "atcCode": "N06AA06",
-    "wirkstoffe": "Trimipraminmaleat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-12-22",
     "infoFachkreise": "Vorgesehen"
   },
   {
