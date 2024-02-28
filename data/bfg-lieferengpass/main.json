@@ -1,6 +1,144 @@
 [
   {
     "pzn": [
+      "15233715"
+    ],
+    "enr": [
+      "2203231"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-18",
+    "datumEnde": "2024-04-05",
+    "datumLetzteMeldung": "2024-02-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Elvanse Adult 30 mg Hartkapseln",
+    "atcCode": "N06BA12",
+    "wirkstoffe": "Lisdexamfetamindimesilat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Takeda Pharmaceuticals International AG Ireland Branch",
+    "telefon": "0800 825 332 5",
+    "mail": "medinfoEMEA@takeda.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-01-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00658774"
+    ],
+    "enr": [
+      "2136012"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-17",
+    "datumEnde": "2024-03-15",
+    "datumLetzteMeldung": "2024-02-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxi 750 - 1 A Pharma",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpass in Kombination mit erhöhter Nachfrage",
+    "datumErstmeldung": "2023-02-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00672662",
+      "00679115",
+      "02100125"
+    ],
+    "enr": [
+      "2169677"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-29",
+    "datumEnde": "2024-03-05",
+    "datumLetzteMeldung": "2024-02-27",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Alprazolam - 1 A Pharma 0,5 mg Tabletten",
+    "atcCode": "N05BA12",
+    "wirkstoffe": "Alprazolam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-07-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03524525"
+    ],
+    "enr": [
+      "3000312"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-22",
+    "datumEnde": "2024-03-29",
+    "datumLetzteMeldung": "2024-02-27",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Oxytetracyclin-Prednisolon-Augensalbe JENAPHARM",
+    "atcCode": "S01CA02",
+    "wirkstoffe": "Oxytetracyclinhydrochlorid; Prednisolon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "034954 2470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-02-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00835242"
+    ],
+    "enr": [
+      "2129208"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-27",
+    "datumEnde": "2024-04-27",
+    "datumLetzteMeldung": "2024-02-27",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Timo-COMOD 0,25%",
+    "atcCode": "S01ED01",
+    "wirkstoffe": "Timololmaleat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-02-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10060888"
+    ],
+    "enr": [
+      "2187024"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-27",
+    "datumEnde": "2024-04-04",
+    "datumLetzteMeldung": "2024-02-27",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Clopidogrel Denk 75 mg Filmtabletten",
+    "atcCode": "B01AC04",
+    "wirkstoffe": "Clopidogrelbesilat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
+    "mail": "edith.eigenberger@denkpharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-02-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "03806264",
       "06681604",
       "07350022"
@@ -774,30 +912,6 @@
   },
   {
     "pzn": [
-      "00672662",
-      "00679115",
-      "02100125"
-    ],
-    "enr": [
-      "2169677"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-29",
-    "datumEnde": "2024-02-26",
-    "datumLetzteMeldung": "2024-02-25",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Alprazolam - 1 A Pharma 0,5 mg Tabletten",
-    "atcCode": "N05BA12",
-    "wirkstoffe": "Alprazolam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-07-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02288324"
     ],
     "enr": [
@@ -909,7 +1023,7 @@
     "atcCode": "H02AB06",
     "wirkstoffe": "Natrium(prednisolon-21-succinat)",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Sonstige",
@@ -1565,29 +1679,6 @@
   },
   {
     "pzn": [
-      "00658774"
-    ],
-    "enr": [
-      "2136012"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-17",
-    "datumEnde": "2024-02-20",
-    "datumLetzteMeldung": "2024-02-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxi 750 - 1 A Pharma",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Kapazitätsengpass in Kombination mit erhöhter Nachfrage",
-    "datumErstmeldung": "2023-02-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02855734"
     ],
     "enr": [
@@ -1750,28 +1841,6 @@
   },
   {
     "pzn": [
-      "17570032"
-    ],
-    "enr": [
-      "7000588"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-13",
-    "datumEnde": "2024-03-11",
-    "datumLetzteMeldung": "2024-02-16",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fesoterodin Aristo 4 mg Retardtabletten",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03050949"
     ],
     "enr": [
@@ -1860,29 +1929,6 @@
     "grund": "Probleme beim Sonstigen Hersteller",
     "datumErstmeldung": "2023-12-28",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "18054278"
-    ],
-    "enr": [
-      "2110717"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-02-12",
-    "datumEnde": "2024-02-29",
-    "datumLetzteMeldung": "2024-02-16",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Nifedipin Denk 20 mg retard",
-    "atcCode": "C08CA05",
-    "wirkstoffe": "Nifedipin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
-    "mail": "edith.eigenberger@denkpharma.de",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "Nifedipin-ratiopharm 20 mg Retardtabletten - Einreichungsnummer: 2132328",
-    "datumErstmeldung": "2024-02-16",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -2040,7 +2086,7 @@
     "atcCode": "C03EA01",
     "wirkstoffe": "Hydrochlorothiazid; Triamteren",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -2063,7 +2109,7 @@
     "atcCode": "G04BE03",
     "wirkstoffe": "Sildenafilcitrat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
@@ -2112,7 +2158,7 @@
     "atcCode": "H02AB04",
     "wirkstoffe": "Methylprednisolon",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
@@ -2644,7 +2690,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolon",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
@@ -2668,7 +2714,7 @@
     "atcCode": "C03EA",
     "wirkstoffe": "Triamteren; Xipamid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "+49 34954 247 0",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -2918,28 +2964,6 @@
     "datumLetzteMeldung": "2024-02-06",
     "grundArt": "Sonstige",
     "bezeichnung": "Oxytocin 5 I.E. Hexal",
-    "atcCode": "H01BB02",
-    "wirkstoffe": "Oxytocin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2024-02-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "44093097"
-    ],
-    "enr": [
-      "0792024"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-30",
-    "datumEnde": "2024-03-05",
-    "datumLetzteMeldung": "2024-02-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxytocin 10 I.E. Hexal",
     "atcCode": "H01BB02",
     "wirkstoffe": "Oxytocin",
     "krankenhausrelevant": false,
@@ -3786,7 +3810,7 @@
     "atcCode": "A07AA09",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "030 3384270",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -5416,7 +5440,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -6221,29 +6245,6 @@
     "grund": "Probleme in der Herstellung",
     "grundAnmerkung": "Mitteilung an Dental-Handel und pharmazeutische Großhändler haben stattgefunden",
     "alternativPraeparat": "Dontisolon D Zylinderampullen - Einreichungsnummer: 0801705",
-    "datumErstmeldung": "2024-01-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15233715"
-    ],
-    "enr": [
-      "2203231"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-18",
-    "datumEnde": "2024-03-20",
-    "datumLetzteMeldung": "2024-01-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Elvanse Adult 30 mg Hartkapseln",
-    "atcCode": "N06BA12",
-    "wirkstoffe": "Lisdexamfetamindimesilat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda Pharmaceuticals International AG Ireland Branch",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2024-01-15",
     "infoFachkreise": "Vorgesehen"
   },
@@ -8117,7 +8118,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Probleme in der Herstellung",
@@ -10255,7 +10256,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
