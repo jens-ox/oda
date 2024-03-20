@@ -1,6 +1,314 @@
 [
   {
     "pzn": [
+      "09384025"
+    ],
+    "enr": [
+      "2157292"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-06",
+    "datumEnde": "2024-04-26",
+    "datumLetzteMeldung": "2024-03-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Itraconazol - 1 A Pharma 100 mg Hartkapseln",
+    "atcCode": "J02AC02",
+    "wirkstoffe": "Itraconazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-09-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09384166"
+    ],
+    "enr": [
+      "2157292"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-06",
+    "datumEnde": "2024-04-26",
+    "datumLetzteMeldung": "2024-03-19",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Itraconazol - 1 A Pharma 100 mg Hartkapseln",
+    "atcCode": "J02AC02",
+    "wirkstoffe": "Itraconazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-09-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09478536"
+    ],
+    "enr": [
+      "2184825"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-05-15",
+    "datumLetzteMeldung": "2024-03-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Lamotrigin Aurobindo 5 mg Tabletten zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "N03AX09",
+    "wirkstoffe": "Lamotrigin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "Gbicer@puren-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-03-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07713341"
+    ],
+    "enr": [
+      "2171095"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-05-15",
+    "datumLetzteMeldung": "2024-03-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Lamotrigin Aurobindo 200 mg Tabletten",
+    "atcCode": "N03AX09",
+    "wirkstoffe": "Lamotrigin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "Gbicer@puren-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-03-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07713358"
+    ],
+    "enr": [
+      "2171095"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-05-15",
+    "datumLetzteMeldung": "2024-03-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Lamotrigin Aurobindo 200 mg Tabletten",
+    "atcCode": "N03AX09",
+    "wirkstoffe": "Lamotrigin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "Gbicer@puren-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-03-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07712809"
+    ],
+    "enr": [
+      "2171094"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-05-15",
+    "datumLetzteMeldung": "2024-03-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Lamotrigin Aurobindo 100 mg Tabletten",
+    "atcCode": "N03AX09",
+    "wirkstoffe": "Lamotrigin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "Gbicer@puren-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-03-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07713068"
+    ],
+    "enr": [
+      "2171094"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-05-15",
+    "datumLetzteMeldung": "2024-03-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Lamotrigin Aurobindo 100 mg Tabletten",
+    "atcCode": "N03AX09",
+    "wirkstoffe": "Lamotrigin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "Gbicer@puren-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-03-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07713312"
+    ],
+    "enr": [
+      "2171094"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-05-15",
+    "datumLetzteMeldung": "2024-03-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Lamotrigin Aurobindo 100 mg Tabletten",
+    "atcCode": "N03AX09",
+    "wirkstoffe": "Lamotrigin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "Gbicer@puren-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-03-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07712761"
+    ],
+    "enr": [
+      "2171093"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-05-15",
+    "datumLetzteMeldung": "2024-03-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Lamotrigin Aurobindo 50 mg Tabletten",
+    "atcCode": "N03AX09",
+    "wirkstoffe": "Lamotrigin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "Gbicer@puren-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-03-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07712778"
+    ],
+    "enr": [
+      "2171093"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-05-15",
+    "datumLetzteMeldung": "2024-03-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Lamotrigin Aurobindo 50 mg Tabletten",
+    "atcCode": "N03AX09",
+    "wirkstoffe": "Lamotrigin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "Gbicer@puren-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-03-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07712784"
+    ],
+    "enr": [
+      "2171093"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-05-15",
+    "datumLetzteMeldung": "2024-03-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Lamotrigin Aurobindo 50 mg Tabletten",
+    "atcCode": "N03AX09",
+    "wirkstoffe": "Lamotrigin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "Gbicer@puren-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-03-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07712672"
+    ],
+    "enr": [
+      "2171092"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-05-15",
+    "datumLetzteMeldung": "2024-03-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Lamotrigin Aurobindo 25 mg Tabletten",
+    "atcCode": "N03AX09",
+    "wirkstoffe": "Lamotrigin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "GBICER@puren-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-03-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07712689"
+    ],
+    "enr": [
+      "2171092"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-05-15",
+    "datumLetzteMeldung": "2024-03-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Lamotrigin Aurobindo 25 mg Tabletten",
+    "atcCode": "N03AX09",
+    "wirkstoffe": "Lamotrigin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "GBICER@puren-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-03-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07712695"
+    ],
+    "enr": [
+      "2171092"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-05-15",
+    "datumLetzteMeldung": "2024-03-19",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Lamotrigin Aurobindo 25 mg Tabletten",
+    "atcCode": "N03AX09",
+    "wirkstoffe": "Lamotrigin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "GBICER@puren-pharma.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-03-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "16239424"
     ],
     "enr": [
@@ -377,28 +685,6 @@
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-12-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04044336"
-    ],
-    "enr": [
-      "2167358"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2024-03-18",
-    "datumLetzteMeldung": "2024-03-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-06",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5768,29 +6054,6 @@
   },
   {
     "pzn": [
-      "09702407"
-    ],
-    "enr": [
-      "2186155"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-03-01",
-    "datumEnde": "2024-03-22",
-    "datumLetzteMeldung": "2024-02-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Elvanse",
-    "atcCode": "N06BA12",
-    "wirkstoffe": "Lisdexamfetamindimesilat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda Pharmaceuticals International AG Ireland Branch",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-02-29",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "02498636"
     ],
     "enr": [
@@ -6152,29 +6415,6 @@
     "grund": "Probleme beim Sonstigen Hersteller",
     "datumErstmeldung": "2023-10-25",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15233715"
-    ],
-    "enr": [
-      "2203231"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-18",
-    "datumEnde": "2024-03-22",
-    "datumLetzteMeldung": "2024-02-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Elvanse Adult 30 mg Hartkapseln",
-    "atcCode": "N06BA12",
-    "wirkstoffe": "Lisdexamfetamindimesilat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda Pharmaceuticals International AG Ireland Branch",
-    "telefon": "0800 825 332 5",
-    "mail": "medinfoEMEA@takeda.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-01-15",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -8069,29 +8309,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2024-02-20",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01799838"
-    ],
-    "enr": [
-      "2151075"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-21",
-    "datumEnde": "2024-04-30",
-    "datumLetzteMeldung": "2024-02-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Avalox 400 mg/250 ml Infusionslösung",
-    "atcCode": "J01MA14",
-    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wassergehalt))",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bayer Vital GmbH",
-    "telefon": "0800 6422937",
-    "mail": "medical-information@bayer.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-12-21",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -10997,72 +11214,6 @@
     "mail": "edith.eigenberger@denkpharma.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-10-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09384025"
-    ],
-    "enr": [
-      "2157292"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-06",
-    "datumEnde": "2024-03-18",
-    "datumLetzteMeldung": "2024-01-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Itraconazol - 1 A Pharma 100 mg Hartkapseln",
-    "atcCode": "J02AC02",
-    "wirkstoffe": "Itraconazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-09-08",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09384166"
-    ],
-    "enr": [
-      "2157292"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-06",
-    "datumEnde": "2024-03-18",
-    "datumLetzteMeldung": "2024-01-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Itraconazol - 1 A Pharma 100 mg Hartkapseln",
-    "atcCode": "J02AC02",
-    "wirkstoffe": "Itraconazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-09-08",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09384172"
-    ],
-    "enr": [
-      "2157292"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-06",
-    "datumEnde": "2024-03-18",
-    "datumLetzteMeldung": "2024-01-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Itraconazol - 1 A Pharma 100 mg Hartkapseln",
-    "atcCode": "J02AC02",
-    "wirkstoffe": "Itraconazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-09-08",
     "infoFachkreise": "Vorgesehen"
   },
   {
