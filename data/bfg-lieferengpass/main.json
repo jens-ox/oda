@@ -1,6 +1,422 @@
 [
   {
     "pzn": [
+      "00000000"
+    ],
+    "enr": [
+      "2670698",
+      "2670699"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Scintimun",
+    "atcCode": "V09HA03",
+    "wirkstoffe": "Besilesomab",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "CIS bio international",
+    "mail": "annette.brinker-ext@curiumpharma.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Medi-Exametazim - Einreichungsnummer: 2186253",
+    "datumErstmeldung": "2024-03-20",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "11304915"
+    ],
+    "enr": [
+      "2711753"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-13",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Saxenda 6 mg/ml Injektionslösung in Fertigpen - OP(3x3ml)",
+    "atcCode": "TERM_ID_NA_2090000841",
+    "wirkstoffe": "Liraglutid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Saxenda 6 mg/ml Injektionslösung in Fertigpen - OP(5x3ml) - Einreichungsnummer: 2711754",
+    "datumErstmeldung": "2023-09-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08855020"
+    ],
+    "enr": [
+      "2700419"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-20",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "NovoNorm 1 mg Tabletten - OP120",
+    "atcCode": "A10BX02",
+    "wirkstoffe": "Repaglinid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "NovoNorm 0,5 mg Tabletten - OP120 - Einreichungsnummer: 2700412",
+    "datumErstmeldung": "2024-03-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03277630"
+    ],
+    "enr": [
+      "2706023"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-11",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Victoza 6 mg/ml Injektionslösung in Fertigpen - OP(2x3ml)",
+    "atcCode": "TERM_ID_NA_2090000841",
+    "wirkstoffe": "Liraglutid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Nachfrage in Deutschland kann nur teilweise gedeckt werden",
+    "datumErstmeldung": "2023-10-11",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03277707"
+    ],
+    "enr": [
+      "2706026"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-04",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Victoza 6 mg/ml Injektionslösung in Fertigpen - OP(10x3ml)",
+    "atcCode": "TERM_ID_NA_2090000841",
+    "wirkstoffe": "Liraglutid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Nachfrage in Deutschland kann nur teilweise gedeckt werden",
+    "datumErstmeldung": "2023-09-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11184925"
+    ],
+    "enr": [
+      "2188376"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-01",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-03-20",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "COMBIPRASAL 0,5 mg / 2,5 mg Lösung für einen Vernebler",
+    "atcCode": "R03AL02",
+    "wirkstoffe": "Ipratropiumbromid (Ph.Eur.); Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Penta Arzneimittel GmbH",
+    "mail": "cornelius@penta-arzneimittel.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000"
+    ],
+    "enr": [
+      "2121768"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-20",
+    "datumEnde": "2024-04-15",
+    "datumLetzteMeldung": "2024-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nifedipin AL10",
+    "atcCode": "C08CA05",
+    "wirkstoffe": "Nifedipin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04748362"
+    ],
+    "enr": [
+      "2121768"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-20",
+    "datumEnde": "2024-04-15",
+    "datumLetzteMeldung": "2024-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nifedipin AL10",
+    "atcCode": "C08CA05",
+    "wirkstoffe": "Nifedipin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04748379"
+    ],
+    "enr": [
+      "2121768"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-20",
+    "datumEnde": "2024-04-15",
+    "datumLetzteMeldung": "2024-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nifedipin AL10",
+    "atcCode": "C08CA05",
+    "wirkstoffe": "Nifedipin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04748385"
+    ],
+    "enr": [
+      "2121768"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-20",
+    "datumEnde": "2024-04-15",
+    "datumLetzteMeldung": "2024-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nifedipin AL10",
+    "atcCode": "C08CA05",
+    "wirkstoffe": "Nifedipin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07558231"
+    ],
+    "enr": [
+      "2121768"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-20",
+    "datumEnde": "2024-04-15",
+    "datumLetzteMeldung": "2024-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nifedipin AL10",
+    "atcCode": "C08CA05",
+    "wirkstoffe": "Nifedipin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000"
+    ],
+    "enr": [
+      "2121767"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-04-15",
+    "datumLetzteMeldung": "2024-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nifedipin AL5",
+    "atcCode": "C08CA05",
+    "wirkstoffe": "Nifedipin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04748391"
+    ],
+    "enr": [
+      "2121767"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-04-15",
+    "datumLetzteMeldung": "2024-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nifedipin AL5",
+    "atcCode": "C08CA05",
+    "wirkstoffe": "Nifedipin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04748416"
+    ],
+    "enr": [
+      "2121767"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-04-15",
+    "datumLetzteMeldung": "2024-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nifedipin AL5",
+    "atcCode": "C08CA05",
+    "wirkstoffe": "Nifedipin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04748422"
+    ],
+    "enr": [
+      "2121767"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-04-15",
+    "datumLetzteMeldung": "2024-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nifedipin AL5",
+    "atcCode": "C08CA05",
+    "wirkstoffe": "Nifedipin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07558225"
+    ],
+    "enr": [
+      "2121767"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-04-15",
+    "datumLetzteMeldung": "2024-03-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nifedipin AL5",
+    "atcCode": "C08CA05",
+    "wirkstoffe": "Nifedipin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11058043"
+    ],
+    "enr": [
+      "2194657"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-04",
+    "datumEnde": "2024-04-15",
+    "datumLetzteMeldung": "2024-03-20",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rasagilin AbZ 1 mg Tabletten",
+    "atcCode": "N04BD02",
+    "wirkstoffe": "Rasagilinmesilat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "mail": "info@abz.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-14",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11058066"
+    ],
+    "enr": [
+      "2194657"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-04",
+    "datumEnde": "2024-04-15",
+    "datumLetzteMeldung": "2024-03-20",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rasagilin AbZ 1 mg Tabletten",
+    "atcCode": "N04BD02",
+    "wirkstoffe": "Rasagilinmesilat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "mail": "info@abz.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-14",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "09384025"
     ],
     "enr": [
@@ -3519,28 +3935,6 @@
   },
   {
     "pzn": [
-      "10116100"
-    ],
-    "enr": [
-      "2188649"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-06",
-    "datumEnde": "2024-03-17",
-    "datumLetzteMeldung": "2024-03-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Momecutan Lösung",
-    "atcCode": "D07AC13",
-    "wirkstoffe": "Mometasonfuroat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-12-14",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "07561598"
     ],
     "enr": [
@@ -4188,29 +4582,6 @@
   },
   {
     "pzn": [
-      "03716124"
-    ],
-    "enr": [
-      "2704484"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-21",
-    "datumEnde": "2024-03-18",
-    "datumLetzteMeldung": "2024-03-07",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Janumet 50 mg/850 mg Filmtabletten - OP196[14x(1x14)]",
-    "atcCode": "A10BD07",
-    "wirkstoffe": "Metforminhydrochlorid; Sitagliptinphosphat-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Merck Sharp & Dohme B.V.",
-    "telefon": "+498945611873",
-    "mail": "anton.dimopoulos@msd.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-02-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02498613"
     ],
     "enr": [
@@ -4755,30 +5126,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "nicht lieferbar",
     "datumErstmeldung": "2023-09-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11304915"
-    ],
-    "enr": [
-      "2711753"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-13",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-03-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Saxenda 6 mg/ml Injektionslösung in Fertigpen - OP(3x3ml)",
-    "atcCode": "TERM_ID_NA_2090000841",
-    "wirkstoffe": "Liraglutid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "alternativPraeparat": "Saxenda 6 mg/ml Injektionslösung in Fertigpen - OP(5x3ml) - Einreichungsnummer: 2711754",
-    "datumErstmeldung": "2023-09-08",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5613,50 +5960,6 @@
     "mail": "info@heumann.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-12-18",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11184925"
-    ],
-    "enr": [
-      "2188376"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-01",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2024-03-04",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "COMBIPRASAL 0,5 mg / 2,5 mg Lösung für einen Vernebler",
-    "atcCode": "R03AL02",
-    "wirkstoffe": "Ipratropiumbromid (Ph.Eur.); Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Penta Arzneimittel GmbH",
-    "mail": "cornelius@penta-arzneimittel.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-11-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11483177"
-    ],
-    "enr": [
-      "2188376"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-01",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2024-03-04",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "COMBIPRASAL 0,5 mg / 2,5 mg Lösung für einen Vernebler",
-    "atcCode": "R03AL02",
-    "wirkstoffe": "Ipratropiumbromid (Ph.Eur.); Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Penta Arzneimittel GmbH",
-    "mail": "cornelius@penta-arzneimittel.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-11-27",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -9021,30 +9324,6 @@
   },
   {
     "pzn": [
-      "03277707"
-    ],
-    "enr": [
-      "2706026"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-04",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2024-02-07",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Victoza 6 mg/ml Injektionslösung in Fertigpen - OP(10x3ml)",
-    "atcCode": "TERM_ID_NA_2090000841",
-    "wirkstoffe": "Liraglutid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Nachfrage in Deutschland kann nur teilweise gedeckt werden",
-    "datumErstmeldung": "2023-09-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "13588578"
     ],
     "enr": [
@@ -11350,54 +11629,6 @@
   },
   {
     "pzn": [
-      "11692254"
-    ],
-    "enr": [
-      "2672823",
-      "2673971"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-01",
-    "datumEnde": "2024-12-31",
-    "datumLetzteMeldung": "2024-01-30",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "CINQAERO",
-    "atcCode": "R03DX08",
-    "wirkstoffe": "Reslizumab",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Teva B.V. Beiname: Teva Generics",
-    "telefon": "0800/800 50 13",
-    "mail": "gks-post@ratiopharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-06-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "13827824"
-    ],
-    "enr": [
-      "2672823",
-      "2673971"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-01",
-    "datumEnde": "2024-12-31",
-    "datumLetzteMeldung": "2024-01-30",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "CINQAERO",
-    "atcCode": "R03DX08",
-    "wirkstoffe": "Reslizumab",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Teva B.V. Beiname: Teva Generics",
-    "telefon": "0800/800 50 13",
-    "mail": "gks-post@ratiopharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-06-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01356271"
     ],
     "enr": [
@@ -12190,30 +12421,6 @@
   },
   {
     "pzn": [
-      "03277630"
-    ],
-    "enr": [
-      "2706023"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-11",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2024-01-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Victoza 6 mg/ml Injektionslösung in Fertigpen - OP(2x3ml)",
-    "atcCode": "TERM_ID_NA_2090000841",
-    "wirkstoffe": "Liraglutid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Nachfrage in Deutschland kann nur teilweise gedeckt werden",
-    "datumErstmeldung": "2023-10-11",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03738829"
     ],
     "enr": [
@@ -12563,54 +12770,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2024-01-19",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00408497"
-    ],
-    "enr": [
-      "0929569"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-17",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-01-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Gastrografin",
-    "atcCode": "V04CG, V08AA",
-    "wirkstoffe": "Amidotrizoat-Meglumin; Natriumamidotrizoat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bayer Vital GmbH",
-    "telefon": "08006422937",
-    "mail": "medical-information@bayer.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Erhöhte Marktnachfrage über den üblichen Bedarf hinaus aufgrund von Lieferengpässen anderer Hersteller.",
-    "datumErstmeldung": "2024-01-17",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01246186"
-    ],
-    "enr": [
-      "0929569"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-17",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-01-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Gastrografin",
-    "atcCode": "V04CG, V08AA",
-    "wirkstoffe": "Amidotrizoat-Meglumin; Natriumamidotrizoat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bayer Vital GmbH",
-    "telefon": "08006422937",
-    "mail": "medical-information@bayer.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Erhöhte Marktnachfrage über den üblichen Bedarf hinaus aufgrund von Lieferengpässen anderer Hersteller.",
-    "datumErstmeldung": "2024-01-17",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -13306,28 +13465,6 @@
     "grund": "Probleme in der Herstellung",
     "grundAnmerkung": "Durch den Wegfall anderer Produkte, ist der Bedarf an unserem Produkt deutlich gestiegen, trotz einer bereits erhöhten Produktion, kann der Wegfall anderer Produkte nicht komplett kompensiert werden.",
     "datumErstmeldung": "2023-09-01",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11509801"
-    ],
-    "enr": [
-      "2182005"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-21",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2024-01-04",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ipratropiumbromid 125 Mikrogramm / 1 ml Stulln",
-    "atcCode": "R03BB01",
-    "wirkstoffe": "Ipratropiumbromid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Penta Arzneimittel GmbH",
-    "mail": "cornelius@penta-arzneimittel.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-23",
     "infoFachkreise": "Nein"
   },
   {
@@ -15490,50 +15627,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-08-25",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11058043"
-    ],
-    "enr": [
-      "2194657"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-04",
-    "datumEnde": "2024-03-18",
-    "datumLetzteMeldung": "2023-11-14",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rasagilin AbZ 1 mg Tabletten",
-    "atcCode": "N04BD02",
-    "wirkstoffe": "Rasagilinmesilat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "mail": "info@abz.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-11-14",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11058066"
-    ],
-    "enr": [
-      "2194657"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-09-04",
-    "datumEnde": "2024-03-18",
-    "datumLetzteMeldung": "2023-11-14",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rasagilin AbZ 1 mg Tabletten",
-    "atcCode": "N04BD02",
-    "wirkstoffe": "Rasagilinmesilat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "mail": "info@abz.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-11-14",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
