@@ -1,6 +1,344 @@
 [
   {
     "pzn": [
+      "01859285"
+    ],
+    "enr": [
+      "2105335"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-26",
+    "datumEnde": "2024-05-31",
+    "datumLetzteMeldung": "2024-03-26",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Nepresol Inject",
+    "atcCode": "C02DB01",
+    "wirkstoffe": "Dihydralazinmesilat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TEOFARMA S.R.L.",
+    "mail": "regulatory@teofarma.it",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Delay in the production of the lyophilized ampoules",
+    "datumErstmeldung": "2024-03-14",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03943624"
+    ],
+    "enr": [
+      "2157582"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-25",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-03-26",
+    "grundArt": "Sonstige",
+    "bezeichnung": "METHYLPHENI TAD 10 mg Tabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TAD Pharma GmbH",
+    "mail": "thomas.morgenstern@tad.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-03-26",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03943630"
+    ],
+    "enr": [
+      "2157582"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-25",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-03-26",
+    "grundArt": "Sonstige",
+    "bezeichnung": "METHYLPHENI TAD 10 mg Tabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TAD Pharma GmbH",
+    "mail": "thomas.morgenstern@tad.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-03-26",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03943647"
+    ],
+    "enr": [
+      "2157582"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-25",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-03-26",
+    "grundArt": "Sonstige",
+    "bezeichnung": "METHYLPHENI TAD 10 mg Tabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TAD Pharma GmbH",
+    "mail": "thomas.morgenstern@tad.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-03-26",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03944026"
+    ],
+    "enr": [
+      "2157583"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-25",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-03-26",
+    "grundArt": "Sonstige",
+    "bezeichnung": "METHYLPHENI TAD 20 mg Tabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TAD Pharma GmbH",
+    "mail": "thomas.morgenster@tad.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-03-26",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03943618"
+    ],
+    "enr": [
+      "2157581"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-25",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-03-26",
+    "grundArt": "Sonstige",
+    "bezeichnung": "METHYLPHENI TAD 5 mg Tabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TAD Pharma GmbH",
+    "mail": "thomas.morgenstern@tad.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-03-26",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03479150"
+    ],
+    "enr": [
+      "2106890"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-05",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-03-26",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sobelin 300 mg",
+    "atcCode": "J01FF01",
+    "wirkstoffe": "Clindamycinhydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "Clindastad 300 mg Hartkapseln - Einreichungsnummer: 0289118",
+    "datumErstmeldung": "2023-10-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04524786"
+    ],
+    "enr": [
+      "2106890"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-05",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-03-26",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sobelin 300 mg",
+    "atcCode": "J01FF01",
+    "wirkstoffe": "Clindamycinhydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "Clindastad 300 mg Hartkapseln - Einreichungsnummer: 0289118",
+    "datumErstmeldung": "2023-10-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "18224817"
+    ],
+    "enr": [
+      "2180541"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-25",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-03-26",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "JEXT 300 Mikrogramm Injektionslösung in einem Fertigpen",
+    "atcCode": "C01CA24",
+    "wirkstoffe": "Epinephrinhydrogentartrat/Adrenalinhydrogentartrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALK-ABELLO A/S",
+    "telefon": "040703845225",
+    "mail": "SAEDE@alk.net",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-03-26",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08859868"
+    ],
+    "enr": [
+      "2133163"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-11",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-03-26",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Palladon retard 8mg",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-01-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06154626"
+    ],
+    "enr": [
+      "2114902"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-01",
+    "datumEnde": "2024-04-30",
+    "datumLetzteMeldung": "2024-03-26",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cephalex-CT 1000mg Filmtabletten",
+    "atcCode": "J01DB01",
+    "wirkstoffe": "Cefalexin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "mail": "info@abz.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08703988"
+    ],
+    "enr": [
+      "2136599"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-15",
+    "datumEnde": "2024-04-15",
+    "datumLetzteMeldung": "2024-03-26",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Penicillin V-ratiopharm 1,5 Mega",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Nach Wiederverfügbarkeit im September 2023 wurden die Mengen umgehend komplett vom Markt abgerufen.",
+    "datumErstmeldung": "2022-12-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08703994"
+    ],
+    "enr": [
+      "2136599"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-15",
+    "datumEnde": "2024-04-15",
+    "datumLetzteMeldung": "2024-03-26",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Penicillin V-ratiopharm 1,5 Mega",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Nach Wiederverfügbarkeit im September 2023 wurden die Mengen umgehend komplett vom Markt abgerufen.",
+    "datumErstmeldung": "2022-12-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01833699"
+    ],
+    "enr": [
+      "2142840"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-19",
+    "datumEnde": "2024-03-31",
+    "datumLetzteMeldung": "2024-03-26",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clindamycin-ratiopharm 300 mg Hartkapseln",
+    "atcCode": "J01FF01",
+    "wirkstoffe": "Clindamycinhydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03574210"
+    ],
+    "enr": [
+      "2109216"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-01",
+    "datumEnde": "2024-04-30",
+    "datumLetzteMeldung": "2024-03-26",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cephalexin-ratiopharm 1000 mg Filmtabletten",
+    "atcCode": "J01DB01",
+    "wirkstoffe": "Cefalexin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "18021362"
     ],
     "enr": [
@@ -1980,50 +2318,6 @@
   },
   {
     "pzn": [
-      "03574204"
-    ],
-    "enr": [
-      "2109216"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-01",
-    "datumEnde": "2024-04-30",
-    "datumLetzteMeldung": "2024-03-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cephalexin-ratiopharm 1000 mg Filmtabletten",
-    "atcCode": "J01DB01",
-    "wirkstoffe": "Cefalexin-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-12",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03574210"
-    ],
-    "enr": [
-      "2109216"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-01",
-    "datumEnde": "2024-04-30",
-    "datumLetzteMeldung": "2024-03-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cephalexin-ratiopharm 1000 mg Filmtabletten",
-    "atcCode": "J01DB01",
-    "wirkstoffe": "Cefalexin-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-12",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03574173"
     ],
     "enr": [
@@ -2568,29 +2862,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2024-03-14",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01859285"
-    ],
-    "enr": [
-      "2105335"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-04-15",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-03-14",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Nepresol Inject",
-    "atcCode": "C02DB01",
-    "wirkstoffe": "Dihydralazinmesilat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "TEOFARMA S.R.L.",
-    "mail": "regulatory@teofarma.it",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Delay in the production of the lyophilized ampoules",
-    "datumErstmeldung": "2024-03-14",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -3747,50 +4018,6 @@
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-12-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08859868"
-    ],
-    "enr": [
-      "2133163"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-11",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2024-03-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Palladon retard 8mg",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-01-12",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08859874"
-    ],
-    "enr": [
-      "2133163"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-11",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2024-03-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Palladon retard 8mg",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-01-12",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -8230,54 +8457,6 @@
   },
   {
     "pzn": [
-      "03479150"
-    ],
-    "enr": [
-      "2106890"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-05",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2024-02-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sobelin 300 mg",
-    "atcCode": "J01FF01",
-    "wirkstoffe": "Clindamycinhydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Erhöhte Nachfrage",
-    "alternativPraeparat": "Clindastad 300 mg Hartkapseln - Einreichungsnummer: 0289118",
-    "datumErstmeldung": "2023-10-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04524786"
-    ],
-    "enr": [
-      "2106890"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-05",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2024-02-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sobelin 300 mg",
-    "atcCode": "J01FF01",
-    "wirkstoffe": "Clindamycinhydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Erhöhte Nachfrage",
-    "alternativPraeparat": "Clindastad 300 mg Hartkapseln - Einreichungsnummer: 0289118",
-    "datumErstmeldung": "2023-10-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01410823"
     ],
     "enr": [
@@ -11014,138 +11193,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-07-03",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03820301"
-    ],
-    "enr": [
-      "2114901"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-10-01",
-    "datumEnde": "2024-04-15",
-    "datumLetzteMeldung": "2024-01-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cephalex-CT 500mg Filmtabletten",
-    "atcCode": "J01DB01",
-    "wirkstoffe": "Cefalexin-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "mail": "info@abz.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-12",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06154922"
-    ],
-    "enr": [
-      "2114901"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-10-01",
-    "datumEnde": "2024-04-15",
-    "datumLetzteMeldung": "2024-01-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cephalex-CT 500mg Filmtabletten",
-    "atcCode": "J01DB01",
-    "wirkstoffe": "Cefalexin-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "mail": "info@abz.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-12",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03820324"
-    ],
-    "enr": [
-      "2114902"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-01",
-    "datumEnde": "2024-04-30",
-    "datumLetzteMeldung": "2024-01-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cephalex-CT 1000mg Filmtabletten",
-    "atcCode": "J01DB01",
-    "wirkstoffe": "Cefalexin-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "mail": "info@abz.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-12",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06154626"
-    ],
-    "enr": [
-      "2114902"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-01",
-    "datumEnde": "2024-04-30",
-    "datumLetzteMeldung": "2024-01-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cephalex-CT 1000mg Filmtabletten",
-    "atcCode": "J01DB01",
-    "wirkstoffe": "Cefalexin-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "mail": "info@abz.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-12-12",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01833699"
-    ],
-    "enr": [
-      "2142840"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-19",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2024-01-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clindamycin-ratiopharm 300 mg Hartkapseln",
-    "atcCode": "J01FF01",
-    "wirkstoffe": "Clindamycinhydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-19",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01833707"
-    ],
-    "enr": [
-      "2142840"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-19",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2024-01-31",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clindamycin-ratiopharm 300 mg Hartkapseln",
-    "atcCode": "J01FF01",
-    "wirkstoffe": "Clindamycinhydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-19",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -15680,75 +15727,6 @@
     "mail": "edith.eigenberger@denkpharma.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-10-19",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08703988"
-    ],
-    "enr": [
-      "2136599"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-15",
-    "datumEnde": "2024-04-15",
-    "datumLetzteMeldung": "2023-10-18",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Penicillin V-ratiopharm 1,5 Mega",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Nach Wiederverfügbarkeit im September 2023 wurden die Mengen umgehend komplett vom Markt abgerufen.",
-    "datumErstmeldung": "2022-12-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08703994"
-    ],
-    "enr": [
-      "2136599"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-15",
-    "datumEnde": "2024-04-15",
-    "datumLetzteMeldung": "2023-10-18",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Penicillin V-ratiopharm 1,5 Mega",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Nach Wiederverfügbarkeit im September 2023 wurden die Mengen umgehend komplett vom Markt abgerufen.",
-    "datumErstmeldung": "2022-12-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08704002"
-    ],
-    "enr": [
-      "2136599"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-15",
-    "datumEnde": "2024-04-15",
-    "datumLetzteMeldung": "2023-10-18",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Penicillin V-ratiopharm 1,5 Mega",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Nach Wiederverfügbarkeit im September 2023 wurden die Mengen umgehend komplett vom Markt abgerufen.",
-    "datumErstmeldung": "2022-12-05",
     "infoFachkreise": "Vorgesehen"
   },
   {
