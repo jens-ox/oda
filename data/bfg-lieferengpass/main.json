@@ -1,6 +1,529 @@
 [
   {
     "pzn": [
+      "09266679"
+    ],
+    "enr": [
+      "2185121"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-04-08",
+    "datumEnde": "2024-06-01",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Remifentanil-hameln 5 mg Pulver zur Herstellung eines Konzentrats zur Herstellung einer Injektions- oder Infusionslösung",
+    "atcCode": "N01AH06",
+    "wirkstoffe": "Remifentanilhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "hameln pharma gmbh",
+    "telefon": "0049 160 704 73 11",
+    "mail": "customer.service@hameln-pharma.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2024-04-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09266662"
+    ],
+    "enr": [
+      "2185120"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-04-08",
+    "datumEnde": "2024-06-01",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Remifentanil-hameln 2 mg Pulver zur Herstellung eines Konzentrats zur Herstellung einer Injektions- oder Infusionslösung",
+    "atcCode": "N01AH06",
+    "wirkstoffe": "Remifentanilhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "hameln pharma gmbh",
+    "telefon": "0049 704 73 11",
+    "mail": "customer.service@hameln-pharma.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2024-04-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09266656"
+    ],
+    "enr": [
+      "2185119"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-04-08",
+    "datumEnde": "2024-07-01",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Remifentanil-hameln 1 mg Pulver zur Herstellung eines Konzentrats zur Herstellung einer Injektions- oder Infusionslösung",
+    "atcCode": "N01AH06",
+    "wirkstoffe": "Remifentanilhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "hameln pharma gmbh",
+    "telefon": "0049 160 7047311",
+    "mail": "customer.service@hameln-pharma.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2024-04-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05492309"
+    ],
+    "enr": [
+      "2100038"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-08",
+    "datumEnde": "2024-05-31",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Panoral forte Trockensaft",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+    "telefon": "096289237670",
+    "mail": "schoeberl@eberth.de",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Es ist ausschließlich der Doppelpack von Panoral Forte Trockensaft betroffen.",
+    "datumErstmeldung": "2024-04-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00094194"
+    ],
+    "enr": [
+      "2113035"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-05",
+    "datumEnde": "2024-05-06",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Selectomycin 750.000 I.E.",
+    "atcCode": "J01FA02",
+    "wirkstoffe": "Spiramycin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TEOFARMA S.R.L.",
+    "mail": "regulatory@teofarma.it",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-02-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06107727"
+    ],
+    "enr": [
+      "2177080"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-01",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Calciumfolinat Medipolis 10 mg/ml Injektionslösung",
+    "atcCode": "V03AF03",
+    "wirkstoffe": "Calciumfolinat-Hydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Medipolis Produktion GmbH & Co. KG",
+    "telefon": "+49 2129 5301564",
+    "mail": "ccreutz@productlife-group.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundAnmerkung": "Produktionsstillstand bei HPW in 2022, aktuell keine Kapazitäten bei HPW für 2023 und 2024",
+    "datumErstmeldung": "2023-02-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00583094"
+    ],
+    "enr": [
+      "2142771"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-06",
+    "datumEnde": "2024-06-10",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "SUBUTEX 8 mg",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-07-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14404959"
+    ],
+    "enr": [
+      "2142771"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-06",
+    "datumEnde": "2024-06-10",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "SUBUTEX 8 mg",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-07-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "05138542"
+    ],
+    "enr": [
+      "2703303"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-20",
+    "datumEnde": "2024-06-10",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Suboxone 2 mg/0,5 mg Sublingualtabletten - OP28",
+    "atcCode": "N07BC51",
+    "wirkstoffe": "Buprenorphinhydrochlorid; Naloxonhydrochlorid-Dihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-11-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02587877"
+    ],
+    "enr": [
+      "2108287"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-23",
+    "datumEnde": "2024-09-30",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Arilin 500 mg",
+    "atcCode": "J01XD01, P01AB01",
+    "wirkstoffe": "Metronidazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dr. August Wolff GmbH & Co. KG Arzneimittel",
+    "telefon": "+49521880805",
+    "mail": "info@drwolffgroup.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2023-10-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02724311"
+    ],
+    "enr": [
+      "2108287"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-23",
+    "datumEnde": "2024-09-30",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Arilin 500 mg",
+    "atcCode": "J01XD01, P01AB01",
+    "wirkstoffe": "Metronidazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dr. August Wolff GmbH & Co. KG Arzneimittel",
+    "telefon": "+49521880805",
+    "mail": "info@drwolffgroup.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2023-10-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08774669"
+    ],
+    "enr": [
+      "0403399"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-12",
+    "datumEnde": "2024-06-03",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Predni-POS 0,5%",
+    "atcCode": "S01BA04",
+    "wirkstoffe": "Prednisolonacetat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-12-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11864353"
+    ],
+    "enr": [
+      "2191563"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-19",
+    "datumEnde": "2024-07-30",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Linezolid Denk 600 mg Filmtabletten",
+    "atcCode": "J01XX08",
+    "wirkstoffe": "Linezolid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
+    "mail": "edith.eigenberger@denkpharma.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11184925"
+    ],
+    "enr": [
+      "2188376"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-01",
+    "datumEnde": "2024-05-06",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "COMBIPRASAL 0,5 mg / 2,5 mg Lösung für einen Vernebler",
+    "atcCode": "R03AL02",
+    "wirkstoffe": "Ipratropiumbromid (Ph.Eur.); Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Penta Arzneimittel GmbH",
+    "mail": "cornelius@penta-arzneimittel.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-11-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00084913"
+    ],
+    "enr": [
+      "0245291"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-02",
+    "datumEnde": "2024-06-14",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atosil Tropfen",
+    "atcCode": "N05AA",
+    "wirkstoffe": "Promethazinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
+    "mail": "info@desitin.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-02-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06875030"
+    ],
+    "enr": [
+      "0245291"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-02",
+    "datumEnde": "2024-06-14",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atosil Tropfen",
+    "atcCode": "N05AA",
+    "wirkstoffe": "Promethazinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
+    "mail": "info@desitin.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-02-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07228344"
+    ],
+    "enr": [
+      "0245291"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-02",
+    "datumEnde": "2024-06-14",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atosil Tropfen",
+    "atcCode": "N05AA",
+    "wirkstoffe": "Promethazinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
+    "mail": "info@desitin.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-02-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07574394"
+    ],
+    "enr": [
+      "0727386"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-15",
+    "datumEnde": "2024-04-15",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectomox 750 Saft",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-01-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04046370"
+    ],
+    "enr": [
+      "2155224"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-08-21",
+    "datumEnde": "2024-04-22",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocef 500 Saft",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-12-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04958214"
+    ],
+    "enr": [
+      "2100184"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-13",
+    "datumEnde": "2024-04-29",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Grüncef 1 g",
+    "atcCode": "J01DB05",
+    "wirkstoffe": "Cefadroxil-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04958220"
+    ],
+    "enr": [
+      "2100184"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-13",
+    "datumEnde": "2024-04-29",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Grüncef 1 g",
+    "atcCode": "J01DB05",
+    "wirkstoffe": "Cefadroxil-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-13",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07756770"
+    ],
+    "enr": [
+      "2180736"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-04-08",
+    "datumEnde": "2024-05-15",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Perindopril-Erbumin/Indapamid-ratiopharm 8 mg/2,5 mg Tabletten",
+    "atcCode": "C09BA04",
+    "wirkstoffe": "Indapamid; Perindopril-tert-butylamin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-04-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07756787"
+    ],
+    "enr": [
+      "2180736"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-04-08",
+    "datumEnde": "2024-05-15",
+    "datumLetzteMeldung": "2024-04-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Perindopril-Erbumin/Indapamid-ratiopharm 8 mg/2,5 mg Tabletten",
+    "atcCode": "C09BA04",
+    "wirkstoffe": "Indapamid; Perindopril-tert-butylamin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-04-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "03899886"
     ],
     "enr": [
@@ -395,7 +918,7 @@
     "atcCode": "A07AA09",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "030 3384270",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -1568,75 +2091,6 @@
   },
   {
     "pzn": [
-      "00583094"
-    ],
-    "enr": [
-      "2142771"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-06",
-    "datumEnde": "2024-05-06",
-    "datumLetzteMeldung": "2024-04-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "SUBUTEX 8 mg",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-07-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14404959"
-    ],
-    "enr": [
-      "2142771"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-06",
-    "datumEnde": "2024-05-06",
-    "datumLetzteMeldung": "2024-04-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "SUBUTEX 8 mg",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-07-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "05138542"
-    ],
-    "enr": [
-      "2703303"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-20",
-    "datumEnde": "2024-05-06",
-    "datumLetzteMeldung": "2024-04-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Suboxone 2 mg/0,5 mg Sublingualtabletten - OP28",
-    "atcCode": "N07BC51",
-    "wirkstoffe": "Buprenorphinhydrochlorid; Naloxonhydrochlorid-Dihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-11-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "16832731"
     ],
     "enr": [
@@ -2685,29 +3139,6 @@
   },
   {
     "pzn": [
-      "02724311"
-    ],
-    "enr": [
-      "2108287"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-23",
-    "datumEnde": "2024-04-30",
-    "datumLetzteMeldung": "2024-03-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Arilin 500 mg",
-    "atcCode": "J01XD01, P01AB01",
-    "wirkstoffe": "Metronidazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dr. August Wolff GmbH & Co. KG Arzneimittel",
-    "telefon": "+49521880805",
-    "mail": "info@drwolffgroup.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2023-10-25",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01859285"
     ],
     "enr": [
@@ -2970,7 +3401,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-25",
@@ -3721,29 +4152,6 @@
   },
   {
     "pzn": [
-      "04525314"
-    ],
-    "enr": [
-      "0727357"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-01",
-    "datumEnde": "2024-04-22",
-    "datumLetzteMeldung": "2024-03-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectobicillin Saft 750",
-    "atcCode": "J01CE10",
-    "wirkstoffe": "Phenoxymethylpenicillin-Benzathin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-02-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04771651"
     ],
     "enr": [
@@ -3786,123 +4194,6 @@
     "mail": "shortages@infectopharm.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-08-25",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03750291"
-    ],
-    "enr": [
-      "0820714"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-05",
-    "datumEnde": "2024-04-08",
-    "datumLetzteMeldung": "2024-03-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 200 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-01-08",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04835351"
-    ],
-    "enr": [
-      "0727386"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-15",
-    "datumEnde": "2024-04-15",
-    "datumLetzteMeldung": "2024-03-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectomox 750 Saft",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-01-15",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "07574394"
-    ],
-    "enr": [
-      "0727386"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-15",
-    "datumEnde": "2024-04-15",
-    "datumLetzteMeldung": "2024-03-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectomox 750 Saft",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-01-15",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04046370"
-    ],
-    "enr": [
-      "2155224"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-21",
-    "datumEnde": "2024-04-22",
-    "datumLetzteMeldung": "2024-03-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocef 500 Saft",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
-    "datumErstmeldung": "2022-12-09",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04834529"
-    ],
-    "enr": [
-      "2155224"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-21",
-    "datumEnde": "2024-04-22",
-    "datumLetzteMeldung": "2024-03-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocef 500 Saft",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Absätze durch Ausfall alternativer Antibiotika",
-    "datumErstmeldung": "2022-12-09",
     "infoFachkreise": "Nein"
   },
   {
@@ -4167,28 +4458,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Nachfrage in Deutschland kann nur teilweise gedeckt werden",
     "datumErstmeldung": "2023-09-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11184925"
-    ],
-    "enr": [
-      "2188376"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-01",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2024-03-20",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "COMBIPRASAL 0,5 mg / 2,5 mg Lösung für einen Vernebler",
-    "atcCode": "R03AL02",
-    "wirkstoffe": "Ipratropiumbromid (Ph.Eur.); Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Penta Arzneimittel GmbH",
-    "mail": "cornelius@penta-arzneimittel.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-11-27",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -4842,52 +5111,6 @@
   },
   {
     "pzn": [
-      "08776071"
-    ],
-    "enr": [
-      "2102842"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-29",
-    "datumEnde": "2024-04-08",
-    "datumLetzteMeldung": "2024-03-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Grüncef 500 mg/5ml Trockensaft",
-    "atcCode": "J01DB05",
-    "wirkstoffe": "Cefadroxil-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-09-25",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08776088"
-    ],
-    "enr": [
-      "2102842"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-29",
-    "datumEnde": "2024-04-08",
-    "datumLetzteMeldung": "2024-03-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Grüncef 500 mg/5ml Trockensaft",
-    "atcCode": "J01DB05",
-    "wirkstoffe": "Cefadroxil-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-09-25",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01111055"
     ],
     "enr": [
@@ -5134,7 +5357,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-14",
@@ -5156,7 +5379,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-14",
@@ -5555,7 +5778,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -5577,7 +5800,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -5599,7 +5822,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -5621,7 +5844,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -5643,7 +5866,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -5665,7 +5888,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -5687,7 +5910,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -5709,7 +5932,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -6267,7 +6490,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -6289,7 +6512,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -6311,7 +6534,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -6333,7 +6556,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -6355,7 +6578,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -6377,7 +6600,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -6399,7 +6622,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -6440,72 +6663,6 @@
     "datumLetzteMeldung": "2024-03-12",
     "grundArt": "Sonstige",
     "bezeichnung": "Atosil Filmtabletten 25 mg",
-    "atcCode": "N05AA",
-    "wirkstoffe": "Promethazinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
-    "mail": "info@desitin.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-02-09",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00084913"
-    ],
-    "enr": [
-      "0245291"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-02",
-    "datumEnde": "2024-05-15",
-    "datumLetzteMeldung": "2024-03-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atosil Tropfen",
-    "atcCode": "N05AA",
-    "wirkstoffe": "Promethazinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
-    "mail": "info@desitin.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-02-09",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06875030"
-    ],
-    "enr": [
-      "0245291"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-02",
-    "datumEnde": "2024-05-15",
-    "datumLetzteMeldung": "2024-03-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atosil Tropfen",
-    "atcCode": "N05AA",
-    "wirkstoffe": "Promethazinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
-    "mail": "info@desitin.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-02-09",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07228344"
-    ],
-    "enr": [
-      "0245291"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-02",
-    "datumEnde": "2024-05-15",
-    "datumLetzteMeldung": "2024-03-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atosil Tropfen",
     "atcCode": "N05AA",
     "wirkstoffe": "Promethazinhydrochlorid",
     "krankenhausrelevant": true,
@@ -8925,74 +9082,6 @@
   },
   {
     "pzn": [
-      "04958214"
-    ],
-    "enr": [
-      "2100184"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-13",
-    "datumEnde": "2024-04-08",
-    "datumLetzteMeldung": "2024-03-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Grüncef 1 g",
-    "atcCode": "J01DB05",
-    "wirkstoffe": "Cefadroxil-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04958220"
-    ],
-    "enr": [
-      "2100184"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-13",
-    "datumEnde": "2024-04-08",
-    "datumLetzteMeldung": "2024-03-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Grüncef 1 g",
-    "atcCode": "J01DB05",
-    "wirkstoffe": "Cefadroxil-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00094194"
-    ],
-    "enr": [
-      "2113035"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-05",
-    "datumEnde": "2024-04-08",
-    "datumLetzteMeldung": "2024-03-01",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Selectomycin 750.000 I.E.",
-    "atcCode": "J01FA02",
-    "wirkstoffe": "Spiramycin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "TEOFARMA S.R.L.",
-    "mail": "regulatory@teofarma.it",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2024-02-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "12476676"
     ],
     "enr": [
@@ -9099,7 +9188,7 @@
     "atcCode": "G04BE03",
     "wirkstoffe": "Sildenafilcitrat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Sonstige",
@@ -9780,7 +9869,7 @@
     "atcCode": "H02AB06",
     "wirkstoffe": "Natrium(prednisolon-21-succinat)",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Sonstige",
@@ -10195,7 +10284,7 @@
     "atcCode": "H02AB04",
     "wirkstoffe": "Methylprednisolon",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
@@ -12398,7 +12487,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -12424,7 +12513,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -12450,7 +12539,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -12476,7 +12565,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -12502,7 +12591,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -12528,7 +12617,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14083,29 +14172,6 @@
   },
   {
     "pzn": [
-      "08774669"
-    ],
-    "enr": [
-      "0403399"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-05-12",
-    "datumEnde": "2024-04-01",
-    "datumLetzteMeldung": "2023-12-20",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Predni-POS 0,5%",
-    "atcCode": "S01BA04",
-    "wirkstoffe": "Prednisolonacetat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-12-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00165209"
     ],
     "enr": [
@@ -14374,7 +14440,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Probleme in der Herstellung",
@@ -14925,30 +14991,6 @@
     "alternativPraeparat": "NAROPIN 7.5mg/ml Amp.20ml Injektionslösung - Einreichungsnummer: 2137105",
     "datumErstmeldung": "2023-11-27",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06103095"
-    ],
-    "enr": [
-      "2169663"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-04",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2023-11-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Bendarabin 50 mg",
-    "atcCode": "L01BB05",
-    "wirkstoffe": "Fludarabinphosphat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Bendalis GmbH",
-    "telefon": "+4989450808780",
-    "mail": "sales@bendalis.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Aufgrund des Lieferengpasses der Mitbewerber kommt es bei der Bendalis GmbH zu einer erhöhten Nachfrage nach Benadrabin 50 mg, so dass der Warenbestand früher abverkauft wird als geplant.",
-    "datumErstmeldung": "2023-11-24",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -15614,28 +15656,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2021-12-07",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11864353"
-    ],
-    "enr": [
-      "2191563"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-19",
-    "datumEnde": "2024-04-30",
-    "datumLetzteMeldung": "2023-10-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Linezolid Denk 600 mg Filmtabletten",
-    "atcCode": "J01XX08",
-    "wirkstoffe": "Linezolid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
-    "mail": "edith.eigenberger@denkpharma.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-19",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -16521,7 +16541,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -16544,7 +16564,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -16567,7 +16587,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -17223,30 +17243,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Eingeschränkte Lieferfähigkeit",
     "datumErstmeldung": "2023-02-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06107727"
-    ],
-    "enr": [
-      "2177080"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2022-12-01",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2023-02-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Calciumfolinat Medipolis 10 mg/ml Injektionslösung",
-    "atcCode": "V03AF03",
-    "wirkstoffe": "Calciumfolinat-Hydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medipolis Produktion GmbH & Co. KG",
-    "telefon": "+49 2129 5301564",
-    "mail": "ccreutz@productlife-group.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundAnmerkung": "Produktionsstillstand bei HPW in 2022, aktuell keine Kapazitäten bei HPW für 2023",
-    "datumErstmeldung": "2023-02-13",
     "infoFachkreise": "Vorgesehen"
   },
   {
