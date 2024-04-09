@@ -1342,24 +1342,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-12-11",
-    "emittent": {
-      "name": "GEA Group Aktiengesellschaft",
-      "sitz": "Düsseldorf",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Amundi S.A.",
-      "sitz": "Paris",
-      "land": "Frankreich"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.1,
-      "instrumente": 0,
-      "summe": 3.1
-    }
-  },
-  {
     "veroeffentlichung": "2023-11-22",
     "emittent": {
       "name": "Deutsche Börse Aktiengesellschaft",
@@ -1411,6 +1393,24 @@
       "gesamt": 3.09,
       "instrumente": 0,
       "summe": 3.09
+    }
+  },
+  {
+    "veroeffentlichung": "2024-04-05",
+    "emittent": {
+      "name": "adidas AG",
+      "sitz": "Herzogenaurach",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Amundi S.A.",
+      "sitz": "Paris",
+      "land": "Frankreich"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.0022,
+      "instrumente": 0.1312,
+      "summe": 3.1335
     }
   },
   {
@@ -2916,24 +2916,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-07-19",
-    "emittent": {
-      "name": "HELLA GmbH & Co. KGaA",
-      "sitz": "Lippstadt",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Barclays PLC",
-      "sitz": "London",
-      "land": "Großbritannien"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.47,
-      "instrumente": 0.0014,
-      "summe": 4.48
-    }
-  },
-  {
     "veroeffentlichung": "2022-09-20",
     "emittent": {
       "name": "MLP SE",
@@ -3125,6 +3107,24 @@
       "gesamt": 25.11,
       "instrumente": 0,
       "summe": 25.11
+    }
+  },
+  {
+    "veroeffentlichung": "2024-04-05",
+    "emittent": {
+      "name": "pferdewetten.de AG",
+      "sitz": "Düsseldorf",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Baum, Gregor Ludwig",
+      "sitz": "",
+      "land": ""
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 4.49,
+      "instrumente": 0.34,
+      "summe": 4.82
     }
   },
   {
@@ -3962,7 +3962,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-03",
+    "veroeffentlichung": "2024-04-08",
     "emittent": {
       "name": "Siemens Aktiengesellschaft",
       "sitz": "München",
@@ -3974,9 +3974,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.54,
+      "gesamt": 6.56,
       "instrumente": 0.05,
-      "summe": 6.59
+      "summe": 6.61
     }
   },
   {
@@ -4214,6 +4214,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-04-05",
+    "emittent": {
+      "name": "LANXESS Aktiengesellschaft",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "BlackRock, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.12,
+      "instrumente": 0.66,
+      "summe": 3.78
+    }
+  },
+  {
     "veroeffentlichung": "2024-03-22",
     "emittent": {
       "name": "K+S Aktiengesellschaft",
@@ -4283,6 +4301,24 @@
       "gesamt": 5.29,
       "instrumente": 1.34,
       "summe": 6.64
+    }
+  },
+  {
+    "veroeffentlichung": "2024-04-08",
+    "emittent": {
+      "name": "HUGO BOSS AG",
+      "sitz": "Metzingen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "BlackRock, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.03,
+      "instrumente": 0.06,
+      "summe": 3.09
     }
   },
   {
@@ -4646,7 +4682,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-03",
+    "veroeffentlichung": "2024-04-05",
     "emittent": {
       "name": "Beiersdorf Aktiengesellschaft",
       "sitz": "Hamburg",
@@ -4658,8 +4694,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.14,
-      "instrumente": 0.06,
+      "gesamt": 3.19,
+      "instrumente": 0.01,
       "summe": 3.2
     }
   },
@@ -6304,7 +6340,7 @@
     }
   },
   {
-    "veroeffentlichung": "2022-03-08",
+    "veroeffentlichung": "2024-04-08",
     "emittent": {
       "name": "CEWE Stiftung & Co. KGaA",
       "sitz": "Oldenburg",
@@ -6316,9 +6352,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.01,
+      "gesamt": 5.01,
       "instrumente": 0,
-      "summe": 3.01
+      "summe": 5.01
     }
   },
   {
@@ -8419,6 +8455,42 @@
       "gesamt": 7.56,
       "instrumente": 0,
       "summe": 7.56
+    }
+  },
+  {
+    "veroeffentlichung": "2024-04-05",
+    "emittent": {
+      "name": "Branicks Group AG",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "DWS Investment GmbH",
+      "sitz": "Frankfurt",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.03,
+      "instrumente": 0,
+      "summe": 3.03
+    }
+  },
+  {
+    "veroeffentlichung": "2024-04-05",
+    "emittent": {
+      "name": "AUTO1 Group SE",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "DWS Investment GmbH",
+      "sitz": "Frankfurt",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 4.23,
+      "instrumente": 0,
+      "summe": 4.23
     }
   },
   {
@@ -26891,24 +26963,6 @@
     }
   },
   {
-    "veroeffentlichung": "2020-09-21",
-    "emittent": {
-      "name": "GRENKE AG",
-      "sitz": "Baden-Baden",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Rentrop, Norman",
-      "sitz": "",
-      "land": ""
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.24,
-      "instrumente": 0,
-      "summe": 3.24
-    }
-  },
-  {
     "veroeffentlichung": "2020-12-23",
     "emittent": {
       "name": "GESCO SE",
@@ -30365,24 +30419,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-03-15",
-    "emittent": {
-      "name": "Covestro AG",
-      "sitz": "Leverkusen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Silchester International Investors LLP",
-      "sitz": "London",
-      "land": "Großbritannien"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.05,
-      "instrumente": 0,
-      "summe": 3.05
-    }
-  },
-  {
     "veroeffentlichung": "2024-02-22",
     "emittent": {
       "name": "Bayer Aktiengesellschaft",
@@ -32520,7 +32556,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-09-22",
+    "veroeffentlichung": "2024-04-08",
     "emittent": {
       "name": "KION GROUP AG",
       "sitz": "Frankfurt am Main",
@@ -32532,9 +32568,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.47,
+      "gesamt": 4.25,
       "instrumente": 0,
-      "summe": 3.47
+      "summe": 4.25
     }
   },
   {
@@ -32556,7 +32592,7 @@
     }
   },
   {
-    "veroeffentlichung": "2022-11-15",
+    "veroeffentlichung": "2024-04-05",
     "emittent": {
       "name": "Evotec SE",
       "sitz": "Hamburg",
@@ -32568,9 +32604,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 10.11,
+      "gesamt": 12.01,
       "instrumente": 0,
-      "summe": 10.11
+      "summe": 12.01
     }
   },
   {
@@ -32592,7 +32628,7 @@
     }
   },
   {
-    "veroeffentlichung": "2022-03-21",
+    "veroeffentlichung": "2024-04-05",
     "emittent": {
       "name": "Covestro AG",
       "sitz": "Leverkusen",
@@ -32604,9 +32640,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.09,
+      "gesamt": 4.35,
       "instrumente": 0,
-      "summe": 3.09
+      "summe": 4.35
     }
   },
   {
@@ -33414,7 +33450,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-04",
+    "veroeffentlichung": "2024-04-05",
     "emittent": {
       "name": "TUI AG",
       "sitz": "Hannover",
@@ -33426,9 +33462,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.01,
-      "instrumente": 4.47,
-      "summe": 5.48
+      "gesamt": 0.14,
+      "instrumente": 5.31,
+      "summe": 5.45
     }
   },
   {
@@ -33684,7 +33720,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-03",
+    "veroeffentlichung": "2024-04-05",
     "emittent": {
       "name": "Delivery Hero SE",
       "sitz": "Berlin",
@@ -33696,9 +33732,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.11,
-      "instrumente": 14.75,
-      "summe": 14.87
+      "gesamt": 0.07,
+      "instrumente": 15.14,
+      "summe": 15.21
     }
   },
   {
@@ -33756,7 +33792,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-03-26",
+    "veroeffentlichung": "2024-04-06",
     "emittent": {
       "name": "Adtran Networks SE",
       "sitz": "Meiningen",
@@ -33768,9 +33804,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 9.08,
-      "instrumente": 2.89,
-      "summe": 11.97
+      "gesamt": 3.23,
+      "instrumente": 8.84,
+      "summe": 12.07
     }
   },
   {
