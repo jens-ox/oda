@@ -1396,7 +1396,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-08",
+    "veroeffentlichung": "2024-04-09",
     "emittent": {
       "name": "Allianz SE",
       "sitz": "München",
@@ -2720,6 +2720,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-04-10",
+    "emittent": {
+      "name": "Hypoport SE",
+      "sitz": "Lübeck",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Baillie Gifford UK & Balanced Funds ICVC",
+      "sitz": "Edinburgh",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.01,
+      "instrumente": 0,
+      "summe": 3.01
+    }
+  },
+  {
     "veroeffentlichung": "2014-09-18",
     "emittent": {
       "name": "Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien",
@@ -2772,7 +2790,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-03-25",
+    "veroeffentlichung": "2024-04-10",
     "emittent": {
       "name": "SAF-HOLLAND SE",
       "sitz": "Bessenbach",
@@ -2784,9 +2802,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.6,
-      "instrumente": 3.44,
-      "summe": 5.04
+      "gesamt": 1.68,
+      "instrumente": 3.6,
+      "summe": 5.28
     }
   },
   {
@@ -2844,7 +2862,25 @@
     }
   },
   {
-    "veroeffentlichung": "2024-03-26",
+    "veroeffentlichung": "2024-04-09",
+    "emittent": {
+      "name": "K+S Aktiengesellschaft",
+      "sitz": "Kassel",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Bank of America Corporation",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 1.42,
+      "instrumente": 4.25,
+      "summe": 5.67
+    }
+  },
+  {
+    "veroeffentlichung": "2024-04-10",
     "emittent": {
       "name": "Covestro AG",
       "sitz": "Leverkusen",
@@ -2856,9 +2892,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.81,
-      "instrumente": 5.68,
-      "summe": 7.49
+      "gesamt": 2.14,
+      "instrumente": 4.77,
+      "summe": 6.91
     }
   },
   {
@@ -3962,25 +3998,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-08",
-    "emittent": {
-      "name": "Siemens Energy AG",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.18,
-      "instrumente": 0.73,
-      "summe": 3.91
-    }
-  },
-  {
-    "veroeffentlichung": "2024-04-08",
+    "veroeffentlichung": "2024-04-09",
     "emittent": {
       "name": "Siemens Aktiengesellschaft",
       "sitz": "München",
@@ -3992,9 +4010,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.56,
+      "gesamt": 6.54,
       "instrumente": 0.05,
-      "summe": 6.61
+      "summe": 6.59
     }
   },
   {
@@ -4142,7 +4160,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-02",
+    "veroeffentlichung": "2024-04-09",
     "emittent": {
       "name": "MTU Aero Engines AG",
       "sitz": "München",
@@ -4154,9 +4172,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 13.79,
-      "instrumente": 0.05,
-      "summe": 13.84
+      "gesamt": 13.64,
+      "instrumente": 0.12,
+      "summe": 13.76
     }
   },
   {
@@ -4340,24 +4358,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-08",
-    "emittent": {
-      "name": "HelloFresh SE",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.05,
-      "instrumente": 0.21,
-      "summe": 3.26
-    }
-  },
-  {
     "veroeffentlichung": "2019-08-19",
     "emittent": {
       "name": "Heidelberg Materials AG",
@@ -4484,25 +4484,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-02",
-    "emittent": {
-      "name": "Evonik Industries AG",
-      "sitz": "Essen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.11,
-      "instrumente": 0.45,
-      "summe": 3.56
-    }
-  },
-  {
-    "veroeffentlichung": "2024-03-28",
+    "veroeffentlichung": "2024-04-09",
     "emittent": {
       "name": "E.ON SE",
       "sitz": "Essen",
@@ -4514,9 +4496,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.01,
+      "gesamt": 4.99,
       "instrumente": 0.02,
-      "summe": 5.03
+      "summe": 5.01
     }
   },
   {
@@ -4700,7 +4682,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-03-25",
+    "veroeffentlichung": "2024-04-10",
     "emittent": {
       "name": "Brenntag SE",
       "sitz": "Essen",
@@ -4712,9 +4694,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.52,
-      "instrumente": 0.49,
-      "summe": 5.01
+      "gesamt": 4.84,
+      "instrumente": 0.36,
+      "summe": 5.2
     }
   },
   {
@@ -4982,7 +4964,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-08",
+    "veroeffentlichung": "2024-04-10",
     "emittent": {
       "name": "ProSiebenSat.1 Media SE",
       "sitz": "Unterföhring",
@@ -6376,7 +6358,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-08",
+    "veroeffentlichung": "2024-04-10",
     "emittent": {
       "name": "CEWE Stiftung & Co. KGaA",
       "sitz": "Oldenburg",
@@ -8350,24 +8332,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-03-04",
-    "emittent": {
-      "name": "SAF-HOLLAND SE",
-      "sitz": "Bessenbach",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "DWS Investment GmbH",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.21,
-      "instrumente": 0,
-      "summe": 3.21
-    }
-  },
-  {
     "veroeffentlichung": "2024-01-15",
     "emittent": {
       "name": "MTU Aero Engines AG",
@@ -8383,6 +8347,24 @@
       "gesamt": 3.13,
       "instrumente": 0,
       "summe": 3.13
+    }
+  },
+  {
+    "veroeffentlichung": "2024-04-09",
+    "emittent": {
+      "name": "MorphoSys AG",
+      "sitz": "Planegg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "DWS Investment GmbH",
+      "sitz": "Frankfurt",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 4.26,
+      "instrumente": 0.08,
+      "summe": 4.34
     }
   },
   {
@@ -29487,7 +29469,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-01-20",
+    "veroeffentlichung": "2024-04-09",
     "emittent": {
       "name": "ALBA SE",
       "sitz": "Köln",
@@ -29505,7 +29487,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-01-20",
+    "veroeffentlichung": "2024-04-09",
     "emittent": {
       "name": "ALBA SE",
       "sitz": "Köln",
@@ -29523,7 +29505,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-01-20",
+    "veroeffentlichung": "2024-04-09",
     "emittent": {
       "name": "ALBA SE",
       "sitz": "Köln",
@@ -30820,6 +30802,24 @@
       "gesamt": 96.2,
       "instrumente": 0.73,
       "summe": 96.93
+    }
+  },
+  {
+    "veroeffentlichung": "2024-04-10",
+    "emittent": {
+      "name": "TUI AG",
+      "sitz": "Hannover",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Société Générale S.A.",
+      "sitz": "Paris",
+      "land": "Frankreich"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.84,
+      "instrumente": 4.87,
+      "summe": 5.71
     }
   },
   {
@@ -33666,24 +33666,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-09",
-    "emittent": {
-      "name": "K+S Aktiengesellschaft",
-      "sitz": "Kassel",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.04,
-      "instrumente": 5.15,
-      "summe": 5.19
-    }
-  },
-  {
     "veroeffentlichung": "2024-04-03",
     "emittent": {
       "name": "HelloFresh SE",
@@ -33828,7 +33810,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-06",
+    "veroeffentlichung": "2024-04-09",
     "emittent": {
       "name": "Adtran Networks SE",
       "sitz": "Meiningen",
@@ -33840,9 +33822,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.23,
-      "instrumente": 8.84,
-      "summe": 12.07
+      "gesamt": 8.67,
+      "instrumente": 3.42,
+      "summe": 12.09
     }
   },
   {
@@ -34296,24 +34278,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-08",
-    "emittent": {
-      "name": "SMA Solar Technology AG",
-      "sitz": "Niestetal",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "UBS Group AG",
-      "sitz": "Zürich",
-      "land": "Schweiz"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.002,
-      "instrumente": 0.57,
-      "summe": 3.57
-    }
-  },
-  {
     "veroeffentlichung": "2024-03-13",
     "emittent": {
       "name": "Nordex SE",
@@ -34329,6 +34293,24 @@
       "gesamt": 4.05,
       "instrumente": 1.86,
       "summe": 5.91
+    }
+  },
+  {
+    "veroeffentlichung": "2024-04-10",
+    "emittent": {
+      "name": "MTU Aero Engines AG",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "UBS Group AG",
+      "sitz": "Zürich",
+      "land": "Schweiz"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.27,
+      "instrumente": 0.25,
+      "summe": 3.52
     }
   },
   {
@@ -34705,24 +34687,6 @@
       "gesamt": 72.3,
       "instrumente": 0,
       "summe": 72.3
-    }
-  },
-  {
-    "veroeffentlichung": "2024-02-22",
-    "emittent": {
-      "name": "SÜSS MicroTec SE",
-      "sitz": "Garching b.München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Universal-Investment-Gesellschaft mit beschränkter Haftung",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.71,
-      "instrumente": 0,
-      "summe": 4.71
     }
   },
   {
@@ -35605,6 +35569,24 @@
       "gesamt": 9.92,
       "instrumente": 0,
       "summe": 9.92
+    }
+  },
+  {
+    "veroeffentlichung": "2024-04-09",
+    "emittent": {
+      "name": "MTU Aero Engines AG",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Viking Global Partners LLC",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.01,
+      "instrumente": 0,
+      "summe": 3.01
     }
   },
   {
