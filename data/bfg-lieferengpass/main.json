@@ -1,6 +1,166 @@
 [
   {
     "pzn": [
+      "00113744"
+    ],
+    "enr": [
+      "2139961"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-18",
+    "datumEnde": "2024-05-03",
+    "datumLetzteMeldung": "2024-04-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefaclor 125 TS - 1 A Pharma",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09012677"
+    ],
+    "enr": [
+      "2168318"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-15",
+    "datumEnde": "2024-07-31",
+    "datumLetzteMeldung": "2024-04-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Alendronsäure - 1 A Pharma 70 mg Filmtabletten",
+    "atcCode": "M05BA04",
+    "wirkstoffe": "Natriumalendronat (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-04-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01111055"
+    ],
+    "enr": [
+      "2704615"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-22",
+    "datumEnde": "2024-04-23",
+    "datumLetzteMeldung": "2024-04-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "HYCAMTIN 1 mg Hartkapseln - OP10",
+    "atcCode": "L01XX17",
+    "wirkstoffe": "Topotecanhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Sandoz Pharmaceuticals d.d.",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-01-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04121947"
+    ],
+    "enr": [
+      "2702312"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-10",
+    "datumEnde": "2024-06-06",
+    "datumLetzteMeldung": "2024-04-22",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Keppra 100 mg/ml Lösung zum Einnehmen - OP300ml",
+    "atcCode": "N03AX14",
+    "wirkstoffe": "Levetiracetam",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "UCB Pharma",
+    "telefon": "02173 48 48 48",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "Levetiracetam UCB - Einreichungsnummer: 2181755",
+    "datumErstmeldung": "2024-04-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12412222"
+    ],
+    "enr": [
+      "2193327"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-09",
+    "datumEnde": "2024-04-29",
+    "datumLetzteMeldung": "2024-04-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Calciumfolinat Kabi 10 mg/ml Injektions-/Infusionslösung",
+    "atcCode": "V03AF03",
+    "wirkstoffe": "Calciumfolinat-Hydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "telefon": "061726867883",
+    "mail": "frank.jethon@fresenius-kabi.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-04-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10320102"
+    ],
+    "enr": [
+      "2709727",
+      "2714389"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-04-29",
+    "datumEnde": "2024-05-31",
+    "datumLetzteMeldung": "2024-04-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Revestive 5 mg Pulver und Lösungsmittel zur Herstellung einer Injektionslösung - OP[28x(27,96mg+0,5ml)]",
+    "atcCode": "A16AX08",
+    "wirkstoffe": "Teduglutid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Shire Pharmaceuticals Ireland Limited",
+    "telefon": "0800 825 332 5",
+    "mail": "medinfoEMEA@takeda.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-04-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12580020"
+    ],
+    "enr": [
+      "2709727",
+      "2714389"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-04-29",
+    "datumEnde": "2024-05-31",
+    "datumLetzteMeldung": "2024-04-22",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Revestive 5 mg Pulver und Lösungsmittel zur Herstellung einer Injektionslösung - OP[28x(27,96mg+0,5ml)]",
+    "atcCode": "A16AX08",
+    "wirkstoffe": "Teduglutid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Shire Pharmaceuticals Ireland Limited",
+    "telefon": "0800 825 332 5",
+    "mail": "medinfoEMEA@takeda.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-04-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "05138542"
     ],
     "enr": [
@@ -524,28 +684,6 @@
     "mail": "info@1apharma.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-07-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01111061"
-    ],
-    "enr": [
-      "2704614"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-24",
-    "datumEnde": "2024-04-22",
-    "datumLetzteMeldung": "2024-04-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "HYCAMTIN 0,25 mg Hartkapseln - OP10",
-    "atcCode": "L01XX17",
-    "wirkstoffe": "Topotecanhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Sandoz Pharmaceuticals d.d.",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-05-24",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -1152,7 +1290,7 @@
     "atcCode": "G04BE03",
     "wirkstoffe": "Sildenafilcitrat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Sonstige",
@@ -1175,7 +1313,7 @@
     "atcCode": "G04BE03",
     "wirkstoffe": "Sildenafilcitrat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Sonstige",
@@ -1791,50 +1929,6 @@
     "mail": "service@hexal.com",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-09-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09012677"
-    ],
-    "enr": [
-      "2168318"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-03-15",
-    "datumEnde": "2024-04-18",
-    "datumLetzteMeldung": "2024-04-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Alendronsäure - 1 A Pharma 70 mg Filmtabletten",
-    "atcCode": "M05BA04",
-    "wirkstoffe": "Natriumalendronat (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2024-04-12",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09012683"
-    ],
-    "enr": [
-      "2168318"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-03-15",
-    "datumEnde": "2024-04-18",
-    "datumLetzteMeldung": "2024-04-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Alendronsäure - 1 A Pharma 70 mg Filmtabletten",
-    "atcCode": "M05BA04",
-    "wirkstoffe": "Natriumalendronat (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2024-04-12",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2540,29 +2634,6 @@
     "mail": "elisabeth.rueckert@dermapharm.com",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2024-04-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12412222"
-    ],
-    "enr": [
-      "2193327"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-04-09",
-    "datumEnde": "2024-05-20",
-    "datumLetzteMeldung": "2024-04-09",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Calciumfolinat Kabi 10 mg/ml Injektions-/Infusionslösung",
-    "atcCode": "V03AF03",
-    "wirkstoffe": "Calciumfolinat-Hydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-    "telefon": "061726867883",
-    "mail": "frank.jethon@fresenius-kabi.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-04-09",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -3422,7 +3493,7 @@
     "atcCode": "A07AA09",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "030 3384270",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme in der Herstellung",
@@ -5635,7 +5706,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-25",
@@ -6804,28 +6875,6 @@
   },
   {
     "pzn": [
-      "01111055"
-    ],
-    "enr": [
-      "2704615"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-22",
-    "datumEnde": "2024-04-12",
-    "datumLetzteMeldung": "2024-03-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "HYCAMTIN 1 mg Hartkapseln - OP10",
-    "atcCode": "L01XX17",
-    "wirkstoffe": "Topotecanhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Sandoz Pharmaceuticals d.d.",
-    "mail": "service@hexal.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-01-19",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03048964"
     ],
     "enr": [
@@ -7004,7 +7053,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-14",
@@ -7026,7 +7075,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-14",
@@ -7425,7 +7474,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -7447,7 +7496,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -7469,7 +7518,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -7491,7 +7540,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -7513,7 +7562,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -7535,7 +7584,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -7557,7 +7606,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -7579,7 +7628,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -8093,7 +8142,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -8115,7 +8164,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -8137,7 +8186,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -8159,7 +8208,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -8181,7 +8230,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -8203,7 +8252,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -8225,7 +8274,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -10708,7 +10757,7 @@
     "atcCode": "H02AB06",
     "wirkstoffe": "Natrium(prednisolon-21-succinat)",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Sonstige",
@@ -13146,7 +13195,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -13172,7 +13221,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -13198,7 +13247,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -13224,7 +13273,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -13250,7 +13299,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -13276,7 +13325,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14587,28 +14636,6 @@
   },
   {
     "pzn": [
-      "00113744"
-    ],
-    "enr": [
-      "2139961"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-18",
-    "datumEnde": "2024-04-18",
-    "datumLetzteMeldung": "2023-12-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefaclor 125 TS - 1 A Pharma",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "06963076"
     ],
     "enr": [
@@ -14737,29 +14764,6 @@
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-10-18",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00165209"
-    ],
-    "enr": [
-      "2157937"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-01-01",
-    "datumEnde": "2024-04-01",
-    "datumLetzteMeldung": "2023-12-19",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Predni-POS 1 %",
-    "atcCode": "S01BA04",
-    "wirkstoffe": "Prednisolonacetat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-12-19",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -15009,7 +15013,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Probleme in der Herstellung",
@@ -16925,7 +16929,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -16948,7 +16952,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -16971,7 +16975,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
