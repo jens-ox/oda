@@ -1,6 +1,499 @@
 [
   {
     "pzn": [
+      "00835242"
+    ],
+    "enr": [
+      "2129208"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-27",
+    "datumEnde": "2024-05-27",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Timo-COMOD 0,25%",
+    "atcCode": "S01ED01",
+    "wirkstoffe": "Timololmaleat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-02-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02498636"
+    ],
+    "enr": [
+      "2102131"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-24",
+    "datumEnde": "2024-06-26",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Gentamicin-POS",
+    "atcCode": "S01AA11",
+    "wirkstoffe": "Gentamicinsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-12-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02498642"
+    ],
+    "enr": [
+      "2102131"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-24",
+    "datumEnde": "2024-06-26",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Gentamicin-POS",
+    "atcCode": "S01AA11",
+    "wirkstoffe": "Gentamicinsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-12-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03083251"
+    ],
+    "enr": [
+      "2106472"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-20",
+    "datumEnde": "2024-06-20",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Dexa-Gentamicin",
+    "atcCode": "S01CA01",
+    "wirkstoffe": "Dexamethason; Gentamicinsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-02-21",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04051827"
+    ],
+    "enr": [
+      "2164057"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-04-16",
+    "datumEnde": "2024-05-10",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Lamotrigin acis 50 mg Tabletten",
+    "atcCode": "N03AX09",
+    "wirkstoffe": "Lamotrigin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "08944232460",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Lamotrigin acis 50 mg Tabletten - Einreichungsnummer: 2164057",
+    "datumErstmeldung": "2024-04-23",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09780399"
+    ],
+    "enr": [
+      "2711619"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-01",
+    "datumEnde": "2025-03-31",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "ORENCIA 125 mg Injektionslösung in Fertigspritze - OP(12x1ml)",
+    "atcCode": "L04AA24",
+    "wirkstoffe": "Abatacept",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bristol-Myers Squibb Pharma EEIG",
+    "mail": "medwiss.info@bms.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Erhöhte Nachfrage bei begrenzter Produktionskapazität und Verzögerung bei der Herstellung.",
+    "datumErstmeldung": "2023-01-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15242683"
+    ],
+    "enr": [
+      "2198529"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-04-18",
+    "datumEnde": "2024-05-24",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Diclofenac acis 30 mg/g Gel",
+    "atcCode": "D11AX18",
+    "wirkstoffe": "Diclofenac-Natrium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "08944232460",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Diclofenac acis 30 mg/g Gel - Einreichungsnummer: 2198529",
+    "datumErstmeldung": "2024-04-23",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11095570"
+    ],
+    "enr": [
+      "2714012"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-01",
+    "datumEnde": "2025-03-31",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "ORENCIA 125 mg Injektionslösung im Fertigpen - OP(4x1ml)",
+    "atcCode": "L04AA24",
+    "wirkstoffe": "Abatacept",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bristol-Myers Squibb Pharma EEIG",
+    "mail": "medwiss.info@bms.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Erhöhte Nachfrage bei begrenzter Produktionskapazität und Verzögerung bei der Herstellung.",
+    "datumErstmeldung": "2023-01-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11095587"
+    ],
+    "enr": [
+      "2714013"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-03-01",
+    "datumEnde": "2025-03-31",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "ORENCIA 125 mg Injektionslösung im Fertigpen - OP(12x1ml)",
+    "atcCode": "L04AA24",
+    "wirkstoffe": "Abatacept",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bristol-Myers Squibb Pharma EEIG",
+    "mail": "medwiss.info@bms.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Erhöhte Nachfrage bei begrenzter Produktionskapazität und Verzögerung bei der Herstellung.",
+    "datumErstmeldung": "2022-02-28",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "13902684"
+    ],
+    "enr": [
+      "2196936"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2018-06-01",
+    "datumEnde": "2025-09-30",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "LiMAxetin 4 mg/ml Injektionslösung",
+    "atcCode": "V04CE03",
+    "wirkstoffe": "(4'-O-(13)C)Methacetin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Humedics GmbH",
+    "telefon": "+49 30 6293955 0",
+    "mail": "alexander.helmke@humedics.de",
+    "grund": "Probleme bei der Endfreigabe",
+    "datumErstmeldung": "2018-06-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13902690"
+    ],
+    "enr": [
+      "2196936"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2018-06-01",
+    "datumEnde": "2025-09-30",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "LiMAxetin 4 mg/ml Injektionslösung",
+    "atcCode": "V04CE03",
+    "wirkstoffe": "(4'-O-(13)C)Methacetin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Humedics GmbH",
+    "telefon": "+49 30 6293955 0",
+    "mail": "alexander.helmke@humedics.de",
+    "grund": "Probleme bei der Endfreigabe",
+    "datumErstmeldung": "2018-06-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06978043"
+    ],
+    "enr": [
+      "2149881"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-04-11",
+    "datumEnde": "2024-05-20",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Karison Crinale",
+    "atcCode": "D07AD01",
+    "wirkstoffe": "Clobetasolpropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundAnmerkung": "Der Lieferengpass kann aktuell mit den PG 15 ml und 30 ml kompensiert werden.PZNs: 06978020/06978037",
+    "datumErstmeldung": "2024-04-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06415481"
+    ],
+    "enr": [
+      "2170338"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-01",
+    "datumEnde": "2025-04-01",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Calciumfolinat onkovis 10 mg/ml Injektionslösung",
+    "atcCode": "V03AF03",
+    "wirkstoffe": "Calciumfolinat-Hydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Onkovis GmbH",
+    "telefon": "088568308467",
+    "mail": "christina.hergemoeller@onkovis.de",
+    "grund": "Herstellerwechsel",
+    "grundAnmerkung": "Der Hersteller hat geschlossen.",
+    "datumErstmeldung": "2024-04-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06415506"
+    ],
+    "enr": [
+      "2170338"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-01",
+    "datumEnde": "2025-04-01",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Calciumfolinat onkovis 10 mg/ml Injektionslösung",
+    "atcCode": "V03AF03",
+    "wirkstoffe": "Calciumfolinat-Hydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Onkovis GmbH",
+    "telefon": "088568308467",
+    "mail": "christina.hergemoeller@onkovis.de",
+    "grund": "Herstellerwechsel",
+    "grundAnmerkung": "Der Hersteller hat geschlossen.",
+    "datumErstmeldung": "2024-04-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06415512"
+    ],
+    "enr": [
+      "2170338"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-01",
+    "datumEnde": "2025-04-01",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Calciumfolinat onkovis 10 mg/ml Injektionslösung",
+    "atcCode": "V03AF03",
+    "wirkstoffe": "Calciumfolinat-Hydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Onkovis GmbH",
+    "telefon": "088568308467",
+    "mail": "christina.hergemoeller@onkovis.de",
+    "grund": "Herstellerwechsel",
+    "grundAnmerkung": "Der Hersteller hat geschlossen.",
+    "datumErstmeldung": "2024-04-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06415529"
+    ],
+    "enr": [
+      "2170338"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-01",
+    "datumEnde": "2025-04-01",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Calciumfolinat onkovis 10 mg/ml Injektionslösung",
+    "atcCode": "V03AF03",
+    "wirkstoffe": "Calciumfolinat-Hydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Onkovis GmbH",
+    "telefon": "088568308467",
+    "mail": "christina.hergemoeller@onkovis.de",
+    "grund": "Herstellerwechsel",
+    "grundAnmerkung": "Der Hersteller hat geschlossen.",
+    "datumErstmeldung": "2024-04-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01950726"
+    ],
+    "enr": [
+      "0451228"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-04-23",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Diprosone Depot 1 ml Ampulle",
+    "atcCode": "H02AB, R",
+    "wirkstoffe": "Betamethasondihydrogenphosphat-Dinatrium (Ph.Eur.); Betamethasondipropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Organon Healthcare GmbH",
+    "mail": "ra_dach@organon.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-04-23",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "10309017"
+    ],
+    "enr": [
+      "2189351"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-15",
+    "datumEnde": "2024-06-01",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Fluorouracil Accord 50 mg/ml Injektions-/Infusionslösung",
+    "atcCode": "L01BC02",
+    "wirkstoffe": "Fluorouracil-Natrium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "telefon": "+49 89 700 9951 16",
+    "mail": "benjamin_uthoff@accord-healthcare.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-03-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10309023"
+    ],
+    "enr": [
+      "2189351"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-15",
+    "datumEnde": "2024-06-01",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Fluorouracil Accord 50 mg/ml Injektions-/Infusionslösung",
+    "atcCode": "L01BC02",
+    "wirkstoffe": "Fluorouracil-Natrium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "telefon": "+49 89 700 9951 16",
+    "mail": "benjamin_uthoff@accord-healthcare.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-03-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07768135"
+    ],
+    "enr": [
+      "0037262"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-31",
+    "datumEnde": "2024-04-30",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Marcumar",
+    "atcCode": "B01AA04",
+    "wirkstoffe": "Phenprocoumon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800 0700 800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Alternative Packungsgröße: 30 Stück (Klinikpackung)PZN: 01300649",
+    "alternativPraeparat": "Marcumar - Einreichungsnummer: 0037262",
+    "datumErstmeldung": "2024-03-04",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07768170"
+    ],
+    "enr": [
+      "0037262"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-31",
+    "datumEnde": "2024-04-30",
+    "datumLetzteMeldung": "2024-04-23",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Marcumar",
+    "atcCode": "B01AA04",
+    "wirkstoffe": "Phenprocoumon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800 0700 800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Alternative Packungsgröße: 30 Stück (Klinikpackung)PZN: 01300649",
+    "alternativPraeparat": "Marcumar - Einreichungsnummer: 0037262",
+    "datumErstmeldung": "2024-03-04",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "00113744"
     ],
     "enr": [
@@ -2152,81 +2645,6 @@
     "mail": "ra_dach@organon.com",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2024-04-11",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "05541338"
-    ],
-    "enr": [
-      "0037262"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-31",
-    "datumEnde": "2024-04-30",
-    "datumLetzteMeldung": "2024-04-11",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Marcumar",
-    "atcCode": "B01AA04",
-    "wirkstoffe": "Phenprocoumon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800 0700 800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Alternative Packungsgröße: 30 Stück (Klinikpackung)PZN: 01300649",
-    "alternativPraeparat": "Marcumar - Einreichungsnummer: 0037262",
-    "datumErstmeldung": "2024-03-04",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "07768135"
-    ],
-    "enr": [
-      "0037262"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-31",
-    "datumEnde": "2024-04-30",
-    "datumLetzteMeldung": "2024-04-11",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Marcumar",
-    "atcCode": "B01AA04",
-    "wirkstoffe": "Phenprocoumon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800 0700 800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Alternative Packungsgröße: 30 Stück (Klinikpackung)PZN: 01300649",
-    "alternativPraeparat": "Marcumar - Einreichungsnummer: 0037262",
-    "datumErstmeldung": "2024-03-04",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "07768170"
-    ],
-    "enr": [
-      "0037262"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-31",
-    "datumEnde": "2024-04-30",
-    "datumLetzteMeldung": "2024-04-11",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Marcumar",
-    "atcCode": "B01AA04",
-    "wirkstoffe": "Phenprocoumon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800 0700 800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Alternative Packungsgröße: 30 Stück (Klinikpackung)PZN: 01300649",
-    "alternativPraeparat": "Marcumar - Einreichungsnummer: 0037262",
-    "datumErstmeldung": "2024-03-04",
     "infoFachkreise": "Nein"
   },
   {
@@ -9137,52 +9555,6 @@
   },
   {
     "pzn": [
-      "10309017"
-    ],
-    "enr": [
-      "2189351"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-15",
-    "datumEnde": "2024-04-01",
-    "datumLetzteMeldung": "2024-03-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Fluorouracil Accord 50 mg/ml Injektions-/Infusionslösung",
-    "atcCode": "L01BC02",
-    "wirkstoffe": "Fluorouracil-Natrium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Accord Healthcare B.V.",
-    "telefon": "+49 89 700 9951 16",
-    "mail": "benjamin_uthoff@accord-healthcare.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-03-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "10309023"
-    ],
-    "enr": [
-      "2189351"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-12-15",
-    "datumEnde": "2024-04-01",
-    "datumLetzteMeldung": "2024-03-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Fluorouracil Accord 50 mg/ml Injektions-/Infusionslösung",
-    "atcCode": "L01BC02",
-    "wirkstoffe": "Fluorouracil-Natrium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Accord Healthcare B.V.",
-    "telefon": "+49 89 700 9951 16",
-    "mail": "benjamin_uthoff@accord-healthcare.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-03-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02498613"
     ],
     "enr": [
@@ -10267,52 +10639,6 @@
   },
   {
     "pzn": [
-      "02498636"
-    ],
-    "enr": [
-      "2102131"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-24",
-    "datumEnde": "2024-04-26",
-    "datumLetzteMeldung": "2024-02-29",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Gentamicin-POS",
-    "atcCode": "S01AA11",
-    "wirkstoffe": "Gentamicinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-12-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02498642"
-    ],
-    "enr": [
-      "2102131"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-24",
-    "datumEnde": "2024-04-26",
-    "datumLetzteMeldung": "2024-02-29",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Gentamicin-POS",
-    "atcCode": "S01AA11",
-    "wirkstoffe": "Gentamicinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-12-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08725091"
     ],
     "enr": [
@@ -10514,29 +10840,6 @@
     "alternativPraeparat": "L-Poladdict 30 mg Tabletten - Einreichungsnummer: 2196252",
     "datumErstmeldung": "2024-02-09",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "00835242"
-    ],
-    "enr": [
-      "2129208"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-02-27",
-    "datumEnde": "2024-04-27",
-    "datumLetzteMeldung": "2024-02-27",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Timo-COMOD 0,25%",
-    "atcCode": "S01ED01",
-    "wirkstoffe": "Timololmaleat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-02-27",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -10902,29 +11205,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-02-21",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03083251"
-    ],
-    "enr": [
-      "2106472"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-02-20",
-    "datumEnde": "2024-04-20",
-    "datumLetzteMeldung": "2024-02-21",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Dexa-Gentamicin",
-    "atcCode": "S01CA01",
-    "wirkstoffe": "Dexamethason; Gentamicinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-02-21",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -15613,75 +15893,6 @@
   },
   {
     "pzn": [
-      "11095587"
-    ],
-    "enr": [
-      "2714013"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-03-01",
-    "datumEnde": "2025-03-31",
-    "datumLetzteMeldung": "2023-11-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ORENCIA 125 mg Injektionslösung im Fertigpen - OP(12x1ml)",
-    "atcCode": "L04AA24",
-    "wirkstoffe": "Abatacept",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bristol-Myers Squibb Pharma EEIG",
-    "mail": "medwiss.info@bms.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage bei begrenzter Produktionskapazität.Es werden weiterhin nur moderate Mengenkürzungen erwartet (keine vollständige Lieferunfähigkeit).",
-    "datumErstmeldung": "2022-02-28",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11095570"
-    ],
-    "enr": [
-      "2714012"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-01",
-    "datumEnde": "2025-03-31",
-    "datumLetzteMeldung": "2023-11-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ORENCIA 125 mg Injektionslösung im Fertigpen - OP(4x1ml)",
-    "atcCode": "L04AA24",
-    "wirkstoffe": "Abatacept",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bristol-Myers Squibb Pharma EEIG",
-    "mail": "medwiss.info@bms.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage bei begrenzter Produktionskapazität.Es werden weiterhin nur moderate Mengenkürzungen erwartet (keine vollständige Lieferunfähigkeit).",
-    "datumErstmeldung": "2023-01-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09780399"
-    ],
-    "enr": [
-      "2711619"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-01",
-    "datumEnde": "2025-03-31",
-    "datumLetzteMeldung": "2023-11-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ORENCIA 125 mg Injektionslösung in Fertigspritze - OP(12x1ml)",
-    "atcCode": "L04AA24",
-    "wirkstoffe": "Abatacept",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Bristol-Myers Squibb Pharma EEIG",
-    "mail": "medwiss.info@bms.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage bei begrenzter Produktionskapazität.Es werden weiterhin nur moderate Mengenkürzungen erwartet (keine vollständige Lieferunfähigkeit).",
-    "datumErstmeldung": "2023-01-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "09780382"
     ],
     "enr": [
@@ -17538,52 +17749,6 @@
     "grundAnmerkung": "Kapazitätsengpässe bei der Produktion; seit 27.03.2023 wieder erhältlich",
     "datumErstmeldung": "2022-12-20",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "13902684"
-    ],
-    "enr": [
-      "2196936"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2018-06-01",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2023-03-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "LiMAxetin 4 mg/ml Injektionslösung",
-    "atcCode": "V04CE03",
-    "wirkstoffe": "(4'-O-(13)C)Methacetin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Humedics GmbH",
-    "telefon": "+49 30 6293955 0",
-    "mail": "alexander.helmke@humedics.de",
-    "grund": "Probleme bei der Endfreigabe",
-    "datumErstmeldung": "2018-06-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13902690"
-    ],
-    "enr": [
-      "2196936"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2018-06-01",
-    "datumEnde": "2024-03-31",
-    "datumLetzteMeldung": "2023-03-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "LiMAxetin 4 mg/ml Injektionslösung",
-    "atcCode": "V04CE03",
-    "wirkstoffe": "(4'-O-(13)C)Methacetin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Humedics GmbH",
-    "telefon": "+49 30 6293955 0",
-    "mail": "alexander.helmke@humedics.de",
-    "grund": "Probleme bei der Endfreigabe",
-    "datumErstmeldung": "2018-06-19",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
