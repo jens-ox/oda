@@ -2862,7 +2862,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-16",
+    "veroeffentlichung": "2024-04-24",
     "emittent": {
       "name": "Covestro AG",
       "sitz": "Leverkusen",
@@ -2874,9 +2874,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.11,
-      "instrumente": 5.09,
-      "summe": 7.2
+      "gesamt": 2.41,
+      "instrumente": 5.36,
+      "summe": 7.77
     }
   },
   {
@@ -2934,7 +2934,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-19",
+    "veroeffentlichung": "2024-04-23",
     "emittent": {
       "name": "MorphoSys AG",
       "sitz": "Planegg",
@@ -2946,9 +2946,9 @@
       "land": "Großbritannien"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.8,
+      "gesamt": 5.32,
       "instrumente": 4.27,
-      "summe": 10.06
+      "summe": 9.6
     }
   },
   {
@@ -4052,7 +4052,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-19",
+    "veroeffentlichung": "2024-04-24",
     "emittent": {
       "name": "Rheinmetall Aktiengesellschaft",
       "sitz": "Düsseldorf",
@@ -4064,8 +4064,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.17,
-      "instrumente": 0.4,
+      "gesamt": 5.33,
+      "instrumente": 0.25,
       "summe": 5.57
     }
   },
@@ -4211,6 +4211,24 @@
       "gesamt": 10.23,
       "instrumente": 0.51,
       "summe": 10.74
+    }
+  },
+  {
+    "veroeffentlichung": "2024-04-23",
+    "emittent": {
+      "name": "LANXESS Aktiengesellschaft",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "BlackRock, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.09,
+      "instrumente": 0.75,
+      "summe": 3.83
     }
   },
   {
@@ -4432,24 +4450,6 @@
   {
     "veroeffentlichung": "2024-04-23",
     "emittent": {
-      "name": "ENCAVIS AG",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.002,
-      "instrumente": 0.94,
-      "summe": 3.95
-    }
-  },
-  {
-    "veroeffentlichung": "2024-04-23",
-    "emittent": {
       "name": "E.ON SE",
       "sitz": "Essen",
       "land": "Deutschland"
@@ -4646,7 +4646,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-18",
+    "veroeffentlichung": "2024-04-24",
     "emittent": {
       "name": "Brenntag SE",
       "sitz": "Essen",
@@ -4658,9 +4658,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.82,
-      "instrumente": 0.37,
-      "summe": 5.18
+      "gesamt": 4.78,
+      "instrumente": 0.41,
+      "summe": 5.19
     }
   },
   {
@@ -10039,24 +10039,6 @@
       "gesamt": 5.15,
       "instrumente": 0,
       "summe": 5.15
-    }
-  },
-  {
-    "veroeffentlichung": "2023-02-16",
-    "emittent": {
-      "name": "adidas AG",
-      "sitz": "Herzogenaurach",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Flossbach von Storch AG",
-      "sitz": "Köln",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.57,
-      "instrumente": 0.05,
-      "summe": 3.61
     }
   },
   {
@@ -17787,7 +17769,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-12-11",
+    "veroeffentlichung": "2024-04-23",
     "emittent": {
       "name": "MorphoSys AG",
       "sitz": "Planegg",
@@ -17799,9 +17781,9 @@
       "land": "Cayman Inseln (Kaimaninseln)"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.33,
+      "gesamt": 10.61,
       "instrumente": 0,
-      "summe": 5.33
+      "summe": 10.61
     }
   },
   {
@@ -19673,6 +19655,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-04-23",
+    "emittent": {
+      "name": "ENCAVIS AG",
+      "sitz": "Hamburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Liedtke, Cornelius Carl",
+      "sitz": "",
+      "land": ""
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 26.27,
+      "instrumente": 0,
+      "summe": 26.27
+    }
+  },
+  {
     "veroeffentlichung": "2020-07-20",
     "emittent": {
       "name": "Brockhaus Technologies AG",
@@ -19691,24 +19691,6 @@
     }
   },
   {
-    "veroeffentlichung": "2019-12-13",
-    "emittent": {
-      "name": "ENCAVIS AG",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Liedtke, Dr. Cornelius",
-      "sitz": "",
-      "land": ""
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 27.7,
-      "instrumente": 0,
-      "summe": 27.7
-    }
-  },
-  {
     "veroeffentlichung": "2020-07-20",
     "emittent": {
       "name": "Brockhaus Technologies AG",
@@ -19724,24 +19706,6 @@
       "gesamt": 3.65,
       "instrumente": 0,
       "summe": 3.65
-    }
-  },
-  {
-    "veroeffentlichung": "2019-12-13",
-    "emittent": {
-      "name": "ENCAVIS AG",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Liedtke, Elke",
-      "sitz": "",
-      "land": ""
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 27.7,
-      "instrumente": 0,
-      "summe": 27.7
     }
   },
   {
@@ -22279,24 +22243,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-12",
-    "emittent": {
-      "name": "Bilfinger SE",
-      "sitz": "Mannheim",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Morgan Stanley",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.12,
-      "instrumente": 1.87,
-      "summe": 4.99
-    }
-  },
-  {
     "veroeffentlichung": "2024-03-11",
     "emittent": {
       "name": "AUTO1 Group SE",
@@ -22890,6 +22836,24 @@
       "gesamt": 50.2,
       "instrumente": 0,
       "summe": 50.2
+    }
+  },
+  {
+    "veroeffentlichung": "2024-04-23",
+    "emittent": {
+      "name": "ENCAVIS AG",
+      "sitz": "Hamburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Neumann, Friederike Julia",
+      "sitz": "",
+      "land": ""
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 25.65,
+      "instrumente": 0,
+      "summe": 25.65
     }
   },
   {
@@ -31025,24 +30989,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-22",
-    "emittent": {
-      "name": "MorphoSys AG",
-      "sitz": "Planegg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Staat Norwegen",
-      "sitz": "Oslo",
-      "land": "Norwegen"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 2.14,
-      "instrumente": 3.44,
-      "summe": 5.58
-    }
-  },
-  {
     "veroeffentlichung": "2022-12-06",
     "emittent": {
       "name": "JENOPTIK Aktiengesellschaft",
@@ -31058,6 +31004,24 @@
       "gesamt": 3.07,
       "instrumente": 0.6,
       "summe": 3.67
+    }
+  },
+  {
+    "veroeffentlichung": "2024-04-24",
+    "emittent": {
+      "name": "Infineon Technologies AG",
+      "sitz": "Neubiberg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Staat Norwegen",
+      "sitz": "Oslo",
+      "land": "Norwegen"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.02,
+      "instrumente": 0.15,
+      "summe": 3.17
     }
   },
   {
@@ -33324,24 +33288,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-22",
-    "emittent": {
-      "name": "thyssenkrupp AG",
-      "sitz": "Essen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.06,
-      "instrumente": 4.97,
-      "summe": 5.04
-    }
-  },
-  {
     "veroeffentlichung": "2023-12-22",
     "emittent": {
       "name": "TeamViewer SE",
@@ -33468,7 +33414,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-11-17",
+    "veroeffentlichung": "2024-04-24",
     "emittent": {
       "name": "LANXESS Aktiengesellschaft",
       "sitz": "Köln",
@@ -33480,9 +33426,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.19,
-      "instrumente": 7.31,
-      "summe": 7.5
+      "gesamt": 0.39,
+      "instrumente": 9.88,
+      "summe": 10.27
     }
   },
   {
@@ -33648,7 +33594,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-22",
+    "veroeffentlichung": "2024-04-23",
     "emittent": {
       "name": "Adtran Networks SE",
       "sitz": "Meiningen",
@@ -33660,9 +33606,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.57,
-      "instrumente": 5.5,
-      "summe": 12.07
+      "gesamt": 6.95,
+      "instrumente": 5.12,
+      "summe": 12.08
     }
   },
   {
@@ -34170,7 +34116,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-02-21",
+    "veroeffentlichung": "2024-04-23",
     "emittent": {
       "name": "MorphoSys AG",
       "sitz": "Planegg",
@@ -34182,9 +34128,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 8.92,
-      "instrumente": 3.81,
-      "summe": 12.74
+      "gesamt": 5.86,
+      "instrumente": 3.92,
+      "summe": 9.78
     }
   },
   {
@@ -34206,7 +34152,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-22",
+    "veroeffentlichung": "2024-04-24",
     "emittent": {
       "name": "HUGO BOSS AG",
       "sitz": "Metzingen",
@@ -34218,9 +34164,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.11,
-      "instrumente": 6.27,
-      "summe": 9.39
+      "gesamt": 3.07,
+      "instrumente": 6.28,
+      "summe": 9.35
     }
   },
   {
