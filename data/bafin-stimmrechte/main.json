@@ -508,7 +508,7 @@
     }
   },
   {
-    "veroeffentlichung": "2019-12-18",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "TRATON SE",
       "sitz": "München",
@@ -876,7 +876,7 @@
     }
   },
   {
-    "veroeffentlichung": "2020-08-31",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "Scout24 SE",
       "sitz": "München",
@@ -888,9 +888,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.82,
-      "instrumente": 0.01,
-      "summe": 4.82
+      "gesamt": 5.17,
+      "instrumente": 0,
+      "summe": 5.17
     }
   },
   {
@@ -2934,7 +2934,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-25",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "MorphoSys AG",
       "sitz": "Planegg",
@@ -2946,9 +2946,9 @@
       "land": "Großbritannien"
     },
     "stimmrechtsanteile": {
-      "gesamt": 9.11,
-      "instrumente": 4.31,
-      "summe": 13.42
+      "gesamt": 4.86,
+      "instrumente": 4.3,
+      "summe": 9.16
     }
   },
   {
@@ -3890,7 +3890,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-26",
+    "veroeffentlichung": "2024-04-29",
     "emittent": {
       "name": "Vonovia SE",
       "sitz": "Bochum",
@@ -3902,9 +3902,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 7.28,
-      "instrumente": 1.45,
-      "summe": 8.74
+      "gesamt": 6.996,
+      "instrumente": 1.76,
+      "summe": 8.75
     }
   },
   {
@@ -3980,7 +3980,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-22",
+    "veroeffentlichung": "2024-04-29",
     "emittent": {
       "name": "Siemens Aktiengesellschaft",
       "sitz": "München",
@@ -3992,9 +3992,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.53,
+      "gesamt": 6.54,
       "instrumente": 0.05,
-      "summe": 6.58
+      "summe": 6.59
     }
   },
   {
@@ -4268,7 +4268,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-22",
+    "veroeffentlichung": "2024-04-29",
     "emittent": {
       "name": "Infineon Technologies AG",
       "sitz": "Neubiberg",
@@ -4280,9 +4280,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.48,
+      "gesamt": 6.58,
       "instrumente": 0.1,
-      "summe": 6.58
+      "summe": 6.68
     }
   },
   {
@@ -4301,6 +4301,24 @@
       "gesamt": 5.29,
       "instrumente": 1.34,
       "summe": 6.64
+    }
+  },
+  {
+    "veroeffentlichung": "2024-04-29",
+    "emittent": {
+      "name": "HUGO BOSS AG",
+      "sitz": "Metzingen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "BlackRock, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.04,
+      "instrumente": 0.09,
+      "summe": 3.13
     }
   },
   {
@@ -4412,7 +4430,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-24",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "freenet AG",
       "sitz": "Büdelsdorf",
@@ -4424,13 +4442,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.96,
-      "instrumente": 0.06,
-      "summe": 5.02
+      "gesamt": 4.92,
+      "instrumente": 0.03,
+      "summe": 4.95
     }
   },
   {
-    "veroeffentlichung": "2024-04-26",
+    "veroeffentlichung": "2024-04-29",
     "emittent": {
       "name": "Evonik Industries AG",
       "sitz": "Essen",
@@ -4442,9 +4460,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.13,
-      "instrumente": 0.16,
-      "summe": 3.29
+      "gesamt": 3.17,
+      "instrumente": 0.14,
+      "summe": 3.31
     }
   },
   {
@@ -4646,7 +4664,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-25",
+    "veroeffentlichung": "2024-04-29",
     "emittent": {
       "name": "Brenntag SE",
       "sitz": "Essen",
@@ -4658,9 +4676,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.92,
-      "instrumente": 0.24,
-      "summe": 5.16
+      "gesamt": 4.95,
+      "instrumente": 0.23,
+      "summe": 5.19
     }
   },
   {
@@ -16007,6 +16025,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-04-28",
+    "emittent": {
+      "name": "Adtran Networks SE",
+      "sitz": "Meiningen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "JPMORGAN CHASE & CO",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.01,
+      "instrumente": 0.09,
+      "summe": 3.09
+    }
+  },
+  {
     "veroeffentlichung": "2023-12-07",
     "emittent": {
       "name": "SÜSS MicroTec SE",
@@ -22101,7 +22137,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-25",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "Nagarro SE",
       "sitz": "München",
@@ -22113,9 +22149,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.17,
-      "instrumente": 8.07,
-      "summe": 11.24
+      "gesamt": 2.23,
+      "instrumente": 8.34,
+      "summe": 10.57
     }
   },
   {
@@ -22227,7 +22263,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-25",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "Bilfinger SE",
       "sitz": "Mannheim",
@@ -22239,9 +22275,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.18,
+      "gesamt": 3.14,
       "instrumente": 1.87,
-      "summe": 5.05
+      "summe": 5.01
     }
   },
   {
@@ -23994,7 +24030,7 @@
     }
   },
   {
-    "veroeffentlichung": "2019-12-18",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "TRATON SE",
       "sitz": "München",
@@ -24444,7 +24480,7 @@
     }
   },
   {
-    "veroeffentlichung": "2019-12-18",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "TRATON SE",
       "sitz": "München",
@@ -24530,7 +24566,7 @@
     }
   },
   {
-    "veroeffentlichung": "2019-12-18",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "TRATON SE",
       "sitz": "München",
@@ -24632,7 +24668,7 @@
     }
   },
   {
-    "veroeffentlichung": "2019-12-18",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "TRATON SE",
       "sitz": "München",
@@ -24738,7 +24774,7 @@
     }
   },
   {
-    "veroeffentlichung": "2019-12-18",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "TRATON SE",
       "sitz": "München",
@@ -24822,7 +24858,7 @@
     }
   },
   {
-    "veroeffentlichung": "2019-12-18",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "TRATON SE",
       "sitz": "München",
@@ -24924,7 +24960,7 @@
     }
   },
   {
-    "veroeffentlichung": "2019-12-18",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "TRATON SE",
       "sitz": "München",
@@ -25032,7 +25068,7 @@
     }
   },
   {
-    "veroeffentlichung": "2019-12-18",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "TRATON SE",
       "sitz": "München",
@@ -25140,7 +25176,7 @@
     }
   },
   {
-    "veroeffentlichung": "2019-12-18",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "TRATON SE",
       "sitz": "München",
@@ -25246,7 +25282,7 @@
     }
   },
   {
-    "veroeffentlichung": "2019-12-18",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "TRATON SE",
       "sitz": "München",
@@ -25330,7 +25366,7 @@
     }
   },
   {
-    "veroeffentlichung": "2019-12-18",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "TRATON SE",
       "sitz": "München",
@@ -25414,7 +25450,7 @@
     }
   },
   {
-    "veroeffentlichung": "2019-12-18",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "TRATON SE",
       "sitz": "München",
@@ -25498,7 +25534,7 @@
     }
   },
   {
-    "veroeffentlichung": "2019-12-18",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "TRATON SE",
       "sitz": "München",
@@ -25582,7 +25618,7 @@
     }
   },
   {
-    "veroeffentlichung": "2019-12-18",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "TRATON SE",
       "sitz": "München",
@@ -25668,7 +25704,7 @@
     }
   },
   {
-    "veroeffentlichung": "2019-12-18",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "TRATON SE",
       "sitz": "München",
@@ -31009,24 +31045,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-25",
-    "emittent": {
-      "name": "MorphoSys AG",
-      "sitz": "Planegg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Staat Norwegen",
-      "sitz": "Oslo",
-      "land": "Norwegen"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 2.13,
-      "instrumente": 3.64,
-      "summe": 5.77
-    }
-  },
-  {
     "veroeffentlichung": "2022-12-06",
     "emittent": {
       "name": "JENOPTIK Aktiengesellschaft",
@@ -31045,10 +31063,10 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-24",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
-      "name": "Infineon Technologies AG",
-      "sitz": "Neubiberg",
+      "name": "HelloFresh SE",
+      "sitz": "Berlin",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -31057,9 +31075,9 @@
       "land": "Norwegen"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0.15,
-      "summe": 3.17
+      "gesamt": 3.31,
+      "instrumente": 1.16,
+      "summe": 4.47
     }
   },
   {
@@ -31096,24 +31114,6 @@
       "gesamt": 3.01,
       "instrumente": 0.00143,
       "summe": 3.01
-    }
-  },
-  {
-    "veroeffentlichung": "2023-05-26",
-    "emittent": {
-      "name": "freenet AG",
-      "sitz": "Büdelsdorf",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Staat Norwegen",
-      "sitz": "Oslo",
-      "land": "Norwegen"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.41,
-      "instrumente": 0,
-      "summe": 3.41
     }
   },
   {
@@ -32378,7 +32378,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-25",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "PUMA SE",
       "sitz": "Herzogenaurach",
@@ -32390,8 +32390,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.95,
-      "instrumente": 0.34,
+      "gesamt": 5.29,
+      "instrumente": 0,
       "summe": 5.29
     }
   },
@@ -33326,6 +33326,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-04-28",
+    "emittent": {
+      "name": "VARTA AKTIENGESELLSCHAFT",
+      "sitz": "Ellwangen Jagst",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.05,
+      "instrumente": 4.96,
+      "summe": 5.01
+    }
+  },
+  {
     "veroeffentlichung": "2023-12-22",
     "emittent": {
       "name": "TeamViewer SE",
@@ -33398,7 +33416,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-18",
+    "veroeffentlichung": "2024-04-29",
     "emittent": {
       "name": "Pfeiffer Vacuum Technology AG",
       "sitz": "Aßlar",
@@ -33410,9 +33428,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.17,
-      "instrumente": 1.78,
-      "summe": 6.95
+      "gesamt": 5.11,
+      "instrumente": 1.97,
+      "summe": 7.08
     }
   },
   {
@@ -33434,7 +33452,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-22",
+    "veroeffentlichung": "2024-04-26",
     "emittent": {
       "name": "MorphoSys AG",
       "sitz": "Planegg",
@@ -33446,9 +33464,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.66,
-      "instrumente": 13.23,
-      "summe": 13.89
+      "gesamt": 0.23,
+      "instrumente": 12.58,
+      "summe": 12.81
     }
   },
   {
@@ -33506,10 +33524,10 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-19",
+    "veroeffentlichung": "2024-04-28",
     "emittent": {
-      "name": "ENCAVIS AG",
-      "sitz": "Hamburg",
+      "name": "Deutsche Telekom AG",
+      "sitz": "Bonn",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -33518,9 +33536,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.78,
-      "instrumente": 1.02,
-      "summe": 4.79
+      "gesamt": 0.34,
+      "instrumente": 4.67,
+      "summe": 5.01
     }
   },
   {
