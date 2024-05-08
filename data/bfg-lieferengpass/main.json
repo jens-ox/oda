@@ -1,6 +1,216 @@
 [
   {
     "pzn": [
+      "10796336"
+    ],
+    "enr": [
+      "2703490"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-13",
+    "datumEnde": "2024-05-31",
+    "datumLetzteMeldung": "2024-05-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "TOVIAZ 4 mg Retardtabletten - OP14",
+    "atcCode": "G04BD11",
+    "wirkstoffe": "Fesoterodinfumarat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Europe MA EEIG",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Fesoterodin Aristo 4 mg Retardtabletten - Einreichungsnummer: 7000588",
+    "datumErstmeldung": "2023-03-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02697293"
+    ],
+    "enr": [
+      "2101160"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-15",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-05-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "IMPROMEN Tropfen, 2 mg/ml Lösung",
+    "atcCode": "N05AD06",
+    "wirkstoffe": "Bromperidollactat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "EUMEDICA S.A.",
+    "telefon": "+41612053328",
+    "mail": "h.bornemann@eumedica.ch",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Dosing devices (pipettes) are currently not available at manufacturing site Lusomedicamenta, PT after previous supplier was acquired by Bormioli who needs to re-install and qualify the dedicated machines. Delay in pipette production.",
+    "datumErstmeldung": "2023-10-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04314646"
+    ],
+    "enr": [
+      "2111602"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-07",
+    "datumEnde": "2024-07-01",
+    "datumLetzteMeldung": "2024-05-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Doxycyclin-ratiopharm SF",
+    "atcCode": "J01AA02",
+    "wirkstoffe": "Doxycyclinhyclat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "stefanie.kesselmeier@ratiopharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-05-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08871562"
+    ],
+    "enr": [
+      "0866455"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-26",
+    "datumEnde": "2024-07-15",
+    "datumLetzteMeldung": "2024-05-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Novaminsulfon injekt 1000 mg Lichtenstein",
+    "atcCode": "N02BB02",
+    "wirkstoffe": "Metamizol-Natrium-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Winthrop Arzneimittel GmbH",
+    "telefon": "0800 53 53 010",
+    "mail": "medinfo.de@zentiva.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Qualität der gelieferten Ampullen",
+    "datumErstmeldung": "2023-07-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08871579"
+    ],
+    "enr": [
+      "0866455"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-26",
+    "datumEnde": "2024-07-15",
+    "datumLetzteMeldung": "2024-05-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Novaminsulfon injekt 1000 mg Lichtenstein",
+    "atcCode": "N02BB02",
+    "wirkstoffe": "Metamizol-Natrium-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Winthrop Arzneimittel GmbH",
+    "telefon": "0800 53 53 010",
+    "mail": "medinfo.de@zentiva.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Qualität der gelieferten Ampullen",
+    "datumErstmeldung": "2023-07-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08871585"
+    ],
+    "enr": [
+      "1461996"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-26",
+    "datumEnde": "2024-07-15",
+    "datumLetzteMeldung": "2024-05-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Novaminsulfon injekt 2500 mg Lichtenstein",
+    "atcCode": "N02BB02",
+    "wirkstoffe": "Metamizol-Natrium-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Winthrop Arzneimittel GmbH",
+    "telefon": "0800 53 53 010",
+    "mail": "medinfo.de@zentiva.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Qualitätsprobleme mit den gelieferten Ampullen",
+    "datumErstmeldung": "2023-07-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02388758"
+    ],
+    "enr": [
+      "2101431"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-20",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-05-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Diprosalic Lösung",
+    "atcCode": "D07XC01",
+    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Organon Healthcare GmbH",
+    "mail": "ra_dach@organon.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-02-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02497186"
+    ],
+    "enr": [
+      "2101431"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-20",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-05-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Diprosalic Lösung",
+    "atcCode": "D07XC01",
+    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Organon Healthcare GmbH",
+    "mail": "ra_dach@organon.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-02-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08754862"
+    ],
+    "enr": [
+      "2101926"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-23",
+    "datumEnde": "2026-02-02",
+    "datumLetzteMeldung": "2024-05-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Eldisine",
+    "atcCode": "L01CA03",
+    "wirkstoffe": "Vindesinsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM GmbH",
+    "telefon": "+4961016032416",
+    "mail": "christiane.georgi@stada.de",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Bei dem Lieferengpass handelt sich ausschließlich um ELDISINE 5MG DSS 1PC SDH DE, PZN 08754862",
+    "datumErstmeldung": "2023-10-18",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "00583094"
     ],
     "enr": [
@@ -6735,50 +6945,6 @@
   },
   {
     "pzn": [
-      "02388758"
-    ],
-    "enr": [
-      "2101431"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-20",
-    "datumEnde": "2024-06-03",
-    "datumLetzteMeldung": "2024-04-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Diprosalic Lösung",
-    "atcCode": "D07XC01",
-    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Organon Healthcare GmbH",
-    "mail": "ra_dach@organon.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-02-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02497186"
-    ],
-    "enr": [
-      "2101431"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-20",
-    "datumEnde": "2024-06-03",
-    "datumLetzteMeldung": "2024-04-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Diprosalic Lösung",
-    "atcCode": "D07XC01",
-    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Organon Healthcare GmbH",
-    "mail": "ra_dach@organon.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-02-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04675634"
     ],
     "enr": [
@@ -8366,30 +8532,6 @@
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "Verzögerung im Produktionsprozess der Transfer Validierungschargen beim Hersteller",
     "datumErstmeldung": "2024-02-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02697293"
-    ],
-    "enr": [
-      "2101160"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-15",
-    "datumEnde": "2024-05-15",
-    "datumLetzteMeldung": "2024-04-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "IMPROMEN Tropfen, 2 mg/ml Lösung",
-    "atcCode": "N05AD06",
-    "wirkstoffe": "Bromperidollactat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "EUMEDICA S.A.",
-    "telefon": "+41612053328",
-    "mail": "h.bornemann@eumedica.ch",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Dosing devices (pipettes) are currently not available at manufacturing site Lusomedicamenta, PT after previous supplier was acquired by Bormioli who needs to re-install and qualify the dedicated machines. Delay in pipette production.",
-    "datumErstmeldung": "2023-10-24",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -13877,29 +14019,6 @@
   },
   {
     "pzn": [
-      "00020511"
-    ],
-    "enr": [
-      "2703491"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-01",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-01-26",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "TOVIAZ 4 mg Retardtabletten - OP28",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-10-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00020540"
     ],
     "enr": [
@@ -13989,56 +14108,6 @@
     "grund": "Probleme beim Wirkstoffhersteller",
     "alternativPraeparat": "Fesoterodin Aristo 8 mg Retardtabletten - Einreichungsnummer: 7000589",
     "datumErstmeldung": "2023-05-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00568640"
-    ],
-    "enr": [
-      "2703490",
-      "2707566"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-13",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-01-26",
-    "grundArt": "Sonstige",
-    "bezeichnung": "TOVIAZ 4 mg Retardtabletten - OP14",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Fesoterodin Aristo 4 mg Retardtabletten - Einreichungsnummer: 7000588",
-    "datumErstmeldung": "2023-03-27",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "10796336"
-    ],
-    "enr": [
-      "2703490",
-      "2707566"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-13",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-01-26",
-    "grundArt": "Sonstige",
-    "bezeichnung": "TOVIAZ 4 mg Retardtabletten - OP14",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Fesoterodin Aristo 4 mg Retardtabletten - Einreichungsnummer: 7000588",
-    "datumErstmeldung": "2023-03-27",
     "infoFachkreise": "Nein"
   },
   {
@@ -14611,30 +14680,6 @@
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2022-06-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08754862"
-    ],
-    "enr": [
-      "2101926"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-23",
-    "datumEnde": "2025-02-11",
-    "datumLetzteMeldung": "2024-01-09",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Eldisine",
-    "atcCode": "L01CA03",
-    "wirkstoffe": "Vindesinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "telefon": "+4961016032416",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Bei dem Lieferengpass handelt sich ausschließlich um ELDISINE 5MG DSS 1PC SDH DE, PZN 08754862",
-    "datumErstmeldung": "2023-10-18",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -16379,78 +16424,6 @@
     "alternativPraeparat": "GASTROLUX RE 180 mg/ml Lösung - Einreichungsnummer: 2165147",
     "datumErstmeldung": "2023-05-15",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08871562"
-    ],
-    "enr": [
-      "0866455"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-26",
-    "datumEnde": "2024-05-01",
-    "datumLetzteMeldung": "2023-11-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Novaminsulfon injekt 1000 mg Lichtenstein",
-    "atcCode": "N02BB02",
-    "wirkstoffe": "Metamizol-Natrium-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Winthrop Arzneimittel GmbH",
-    "telefon": "0800 53 53 010",
-    "mail": "medinfo.de@zentiva.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Qualität der gelieferten Ampullen",
-    "datumErstmeldung": "2023-07-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08871579"
-    ],
-    "enr": [
-      "0866455"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-26",
-    "datumEnde": "2024-05-01",
-    "datumLetzteMeldung": "2023-11-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Novaminsulfon injekt 1000 mg Lichtenstein",
-    "atcCode": "N02BB02",
-    "wirkstoffe": "Metamizol-Natrium-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Winthrop Arzneimittel GmbH",
-    "telefon": "0800 53 53 010",
-    "mail": "medinfo.de@zentiva.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Qualität der gelieferten Ampullen",
-    "datumErstmeldung": "2023-07-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08871585"
-    ],
-    "enr": [
-      "1461996"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-26",
-    "datumEnde": "2024-05-01",
-    "datumLetzteMeldung": "2023-11-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Novaminsulfon injekt 2500 mg Lichtenstein",
-    "atcCode": "N02BB02",
-    "wirkstoffe": "Metamizol-Natrium-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Winthrop Arzneimittel GmbH",
-    "telefon": "0800 53 53 010",
-    "mail": "medinfo.de@zentiva.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "Qualitätsprobleme mit den gelieferten Ampullen",
-    "datumErstmeldung": "2023-07-05",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
