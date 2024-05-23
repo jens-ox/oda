@@ -1432,10 +1432,10 @@
     }
   },
   {
-    "veroeffentlichung": "2024-05-16",
+    "veroeffentlichung": "2024-05-22",
     "emittent": {
-      "name": "MERCK Kommanditgesellschaft auf Aktien",
-      "sitz": "Darmstadt",
+      "name": "Deutsche Börse Aktiengesellschaft",
+      "sitz": "Frankfurt am Main",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -1444,9 +1444,9 @@
       "land": "Frankreich"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.0185,
-      "instrumente": 0.0062,
-      "summe": 3.0246
+      "gesamt": 3.06,
+      "instrumente": 0,
+      "summe": 3.06
     }
   },
   {
@@ -2540,7 +2540,7 @@
     }
   },
   {
-    "veroeffentlichung": "2016-07-22",
+    "veroeffentlichung": "2024-05-21",
     "emittent": {
       "name": "CENIT Aktiengesellschaft",
       "sitz": "Stuttgart",
@@ -2552,9 +2552,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.43,
+      "gesamt": 5.61,
       "instrumente": 0,
-      "summe": 3.43
+      "summe": 5.61
     }
   },
   {
@@ -2790,7 +2790,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-03-15",
+    "veroeffentlichung": "2024-05-22",
     "emittent": {
       "name": "thyssenkrupp AG",
       "sitz": "Essen",
@@ -2802,27 +2802,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.91,
-      "instrumente": 5.81,
-      "summe": 7.72
-    }
-  },
-  {
-    "veroeffentlichung": "2024-04-10",
-    "emittent": {
-      "name": "SAF-HOLLAND SE",
-      "sitz": "Bessenbach",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Bank of America Corporation",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 1.68,
-      "instrumente": 3.6,
-      "summe": 5.28
+      "gesamt": 1.74,
+      "instrumente": 4.3,
+      "summe": 6.04
     }
   },
   {
@@ -2877,6 +2859,24 @@
       "gesamt": 4.27,
       "instrumente": 0.01,
       "summe": 4.28
+    }
+  },
+  {
+    "veroeffentlichung": "2024-05-21",
+    "emittent": {
+      "name": "Delivery Hero SE",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Bank of America Corporation",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 2.59,
+      "instrumente": 2.63,
+      "summe": 5.22
     }
   },
   {
@@ -4160,7 +4160,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-05-16",
+    "veroeffentlichung": "2024-05-21",
     "emittent": {
       "name": "MTU Aero Engines AG",
       "sitz": "München",
@@ -4172,9 +4172,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 13.58,
-      "instrumente": 0.3,
-      "summe": 13.89
+      "gesamt": 13.71,
+      "instrumente": 0.19,
+      "summe": 13.9
     }
   },
   {
@@ -4322,24 +4322,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-05-15",
-    "emittent": {
-      "name": "HUGO BOSS AG",
-      "sitz": "Metzingen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.001,
-      "instrumente": 0.1,
-      "summe": 3.1
-    }
-  },
-  {
     "veroeffentlichung": "2019-08-19",
     "emittent": {
       "name": "Heidelberg Materials AG",
@@ -4394,7 +4376,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-05-15",
+    "veroeffentlichung": "2024-05-22",
     "emittent": {
       "name": "GEA Group Aktiengesellschaft",
       "sitz": "Düsseldorf",
@@ -4406,9 +4388,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.73,
-      "instrumente": 0.11,
-      "summe": 6.84
+      "gesamt": 6.78,
+      "instrumente": 0.1,
+      "summe": 6.88
     }
   },
   {
@@ -4466,7 +4448,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-05-10",
+    "veroeffentlichung": "2024-05-21",
     "emittent": {
       "name": "Evonik Industries AG",
       "sitz": "Essen",
@@ -4478,9 +4460,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.06,
-      "instrumente": 0.16,
-      "summe": 3.22
+      "gesamt": 3.18,
+      "instrumente": 0.19,
+      "summe": 3.37
     }
   },
   {
@@ -4646,7 +4628,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-02-23",
+    "veroeffentlichung": "2024-05-21",
     "emittent": {
       "name": "COMMERZBANK Aktiengesellschaft",
       "sitz": "Frankfurt am Main",
@@ -4658,9 +4640,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.8,
-      "instrumente": 0.45,
-      "summe": 7.25
+      "gesamt": 7.29,
+      "instrumente": 0.13,
+      "summe": 7.42
     }
   },
   {
@@ -8262,6 +8244,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-05-22",
+    "emittent": {
+      "name": "SAF-HOLLAND SE",
+      "sitz": "Bessenbach",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "DWS Investment GmbH",
+      "sitz": "Frankfurt",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.1,
+      "instrumente": 0,
+      "summe": 3.1
+    }
+  },
+  {
     "veroeffentlichung": "2024-01-15",
     "emittent": {
       "name": "MTU Aero Engines AG",
@@ -8352,7 +8352,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-05-19",
+    "veroeffentlichung": "2024-05-22",
     "emittent": {
       "name": "DEUTZ Aktiengesellschaft",
       "sitz": "Köln",
@@ -8364,9 +8364,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.14,
+      "gesamt": 4.44,
       "instrumente": 0,
-      "summe": 5.14
+      "summe": 4.44
     }
   },
   {
@@ -15989,6 +15989,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-05-21",
+    "emittent": {
+      "name": "HelloFresh SE",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "JPMORGAN CHASE & CO",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 2.34,
+      "instrumente": 3.83,
+      "summe": 6.16
+    }
+  },
+  {
     "veroeffentlichung": "2024-05-08",
     "emittent": {
       "name": "Delivery Hero SE",
@@ -20955,6 +20973,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-05-21",
+    "emittent": {
+      "name": "Mister Spex SE",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Maschmeyer, Marcel Jo",
+      "sitz": "",
+      "land": ""
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 10.5,
+      "instrumente": 0,
+      "summe": 10.5
+    }
+  },
+  {
     "veroeffentlichung": "2024-02-14",
     "emittent": {
       "name": "Medios AG",
@@ -21997,6 +22033,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-05-22",
+    "emittent": {
+      "name": "Siemens Energy AG",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Morgan Stanley",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.13,
+      "instrumente": 0.45,
+      "summe": 3.58
+    }
+  },
+  {
     "veroeffentlichung": "2024-03-18",
     "emittent": {
       "name": "PVA TePla AG",
@@ -22123,7 +22177,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-05-15",
+    "veroeffentlichung": "2024-05-22",
     "emittent": {
       "name": "HelloFresh SE",
       "sitz": "Berlin",
@@ -22135,9 +22189,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.53,
-      "instrumente": 6.05,
-      "summe": 8.58
+      "gesamt": 2.86,
+      "instrumente": 8.68,
+      "summe": 11.54
     }
   },
   {
@@ -22159,7 +22213,25 @@
     }
   },
   {
-    "veroeffentlichung": "2024-05-17",
+    "veroeffentlichung": "2024-05-21",
+    "emittent": {
+      "name": "Delivery Hero SE",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Morgan Stanley",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.21,
+      "instrumente": 1.31,
+      "summe": 4.53
+    }
+  },
+  {
+    "veroeffentlichung": "2024-05-21",
     "emittent": {
       "name": "Bilfinger SE",
       "sitz": "Mannheim",
@@ -22171,9 +22243,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 2.48,
-      "summe": 5.51
+      "gesamt": 3.05,
+      "instrumente": 2.47,
+      "summe": 5.52
     }
   },
   {
@@ -30507,6 +30579,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-05-21",
+    "emittent": {
+      "name": "TUI AG",
+      "sitz": "Hannover",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Société Générale S.A.",
+      "sitz": "Paris",
+      "land": "Frankreich"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.92,
+      "instrumente": 4.2,
+      "summe": 5.12
+    }
+  },
+  {
     "veroeffentlichung": "2024-03-25",
     "emittent": {
       "name": "Rheinmetall Aktiengesellschaft",
@@ -30871,24 +30961,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-26",
-    "emittent": {
-      "name": "HelloFresh SE",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Staat Norwegen",
-      "sitz": "Oslo",
-      "land": "Norwegen"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.31,
-      "instrumente": 1.16,
-      "summe": 4.47
-    }
-  },
-  {
     "veroeffentlichung": "2024-02-01",
     "emittent": {
       "name": "GFT Technologies SE",
@@ -30922,6 +30994,24 @@
       "gesamt": 3.01,
       "instrumente": 0.00143,
       "summe": 3.01
+    }
+  },
+  {
+    "veroeffentlichung": "2024-05-22",
+    "emittent": {
+      "name": "Eckert & Ziegler SE",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Staat Norwegen",
+      "sitz": "Oslo",
+      "land": "Norwegen"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.43,
+      "instrumente": 0.36,
+      "summe": 3.78
     }
   },
   {
@@ -32774,6 +32864,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-05-21",
+    "emittent": {
+      "name": "Siemens Aktiengesellschaft",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Capital Group Companies, Inc.",
+      "sitz": "Los Angeles",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.01,
+      "instrumente": 0,
+      "summe": 3.01
+    }
+  },
+  {
     "veroeffentlichung": "2024-05-17",
     "emittent": {
       "name": "SCHOTT Pharma AG & Co. KGaA",
@@ -33134,7 +33242,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-03-07",
+    "veroeffentlichung": "2024-05-21",
     "emittent": {
       "name": "Siemens Energy AG",
       "sitz": "München",
@@ -33146,9 +33254,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.16,
-      "instrumente": 6.56,
-      "summe": 6.72
+      "gesamt": 0.17,
+      "instrumente": 10.26,
+      "summe": 10.43
     }
   },
   {
@@ -33188,7 +33296,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-05-16",
+    "veroeffentlichung": "2024-05-21",
     "emittent": {
       "name": "MorphoSys AG",
       "sitz": "Planegg",
@@ -33200,9 +33308,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.25,
-      "instrumente": 8.39,
-      "summe": 11.64
+      "gesamt": 6.12,
+      "instrumente": 9.55,
+      "summe": 15.67
     }
   },
   {
@@ -33386,7 +33494,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-05-21",
+    "veroeffentlichung": "2024-05-22",
     "emittent": {
       "name": "Bayer Aktiengesellschaft",
       "sitz": "Leverkusen",
@@ -33398,9 +33506,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.13,
-      "instrumente": 4.11,
-      "summe": 5.25
+      "gesamt": 0.11,
+      "instrumente": 5.23,
+      "summe": 5.34
     }
   },
   {
@@ -33887,6 +33995,24 @@
       "gesamt": 1.39,
       "instrumente": 4.64,
       "summe": 6.03
+    }
+  },
+  {
+    "veroeffentlichung": "2024-05-21",
+    "emittent": {
+      "name": "SMA Solar Technology AG",
+      "sitz": "Niestetal",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "UBS Group AG",
+      "sitz": "Zürich",
+      "land": "Schweiz"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 5.1904,
+      "instrumente": 0.87,
+      "summe": 6.06
     }
   },
   {
@@ -35810,7 +35936,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-01-11",
+    "veroeffentlichung": "2024-05-21",
     "emittent": {
       "name": "Wacker Neuson SE",
       "sitz": "München",
@@ -35822,9 +35948,9 @@
       "land": ""
     },
     "stimmrechtsanteile": {
-      "gesamt": 17.65,
+      "gesamt": 14.87,
       "instrumente": 0,
-      "summe": 17.65
+      "summe": 14.87
     }
   },
   {
