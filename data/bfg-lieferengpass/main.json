@@ -1,6 +1,892 @@
 [
   {
     "pzn": [
+      "11331875"
+    ],
+    "enr": [
+      "2713264"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-27",
+    "datumEnde": "2024-07-15",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "EMEND 125 mg Pulver zur Herstellung einer Suspension zum Einnehmen - OPXXXXmg",
+    "atcCode": "A04AD12",
+    "wirkstoffe": "Aprepitant",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "MSD Sharp & Dohme Gesellschaft mit beschränkter Haftung",
+    "telefon": "08945611873",
+    "mail": "anton.dimopoulos@msd.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-05-27",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16768447"
+    ],
+    "enr": [
+      "7004954"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-27",
+    "datumEnde": "2024-06-14",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "VITRAKVI",
+    "atcCode": "L01EX12",
+    "wirkstoffe": "Larotrectinibsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Bayer Aktiengesellschaft - Geschäftsanschrift -",
+    "mail": "medical-information@bayer.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-05-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16682964"
+    ],
+    "enr": [
+      "2188012"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-07-15",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 80 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16682970"
+    ],
+    "enr": [
+      "2188012"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-07-15",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 80 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16682987"
+    ],
+    "enr": [
+      "2188012"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-07-15",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 80 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12394820"
+    ],
+    "enr": [
+      "2188011"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-07-15",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 40 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12394837"
+    ],
+    "enr": [
+      "2188011"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-07-15",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 40 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12394843"
+    ],
+    "enr": [
+      "2188011"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-07-15",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 40 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16682875"
+    ],
+    "enr": [
+      "2188009"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-07-15",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 10 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16682881"
+    ],
+    "enr": [
+      "2188009"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-07-15",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 10 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16682898"
+    ],
+    "enr": [
+      "2188009"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-07-15",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 10 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05395664"
+    ],
+    "enr": [
+      "2164819"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-07",
+    "datumEnde": "2024-07-08",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Topiramat-Hormosan 25 mg Filmtabletten",
+    "atcCode": "N03AX11",
+    "wirkstoffe": "Topiramat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-12-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05395730"
+    ],
+    "enr": [
+      "2164819"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-07",
+    "datumEnde": "2024-07-08",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Topiramat-Hormosan 25 mg Filmtabletten",
+    "atcCode": "N03AX11",
+    "wirkstoffe": "Topiramat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-12-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12569107"
+    ],
+    "enr": [
+      "2197700"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-13",
+    "datumEnde": "2024-07-01",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Levetiracetam-Hormosan 100 mg/ml Lösung zum Einnehmen",
+    "atcCode": "N03AX14",
+    "wirkstoffe": "Levetiracetam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-11-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12569136"
+    ],
+    "enr": [
+      "2197700"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-13",
+    "datumEnde": "2024-07-01",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Levetiracetam-Hormosan 100 mg/ml Lösung zum Einnehmen",
+    "atcCode": "N03AX14",
+    "wirkstoffe": "Levetiracetam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-11-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12569194"
+    ],
+    "enr": [
+      "2197700"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-13",
+    "datumEnde": "2024-07-01",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Levetiracetam-Hormosan 100 mg/ml Lösung zum Einnehmen",
+    "atcCode": "N03AX14",
+    "wirkstoffe": "Levetiracetam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-11-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11538079"
+    ],
+    "enr": [
+      "2176825"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-04",
+    "datumEnde": "2024-07-08",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon HCl Hormosan 4 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "aufgrund erhöhter Nachfrage Produktknappheit bei der Packungsgröße 20, 50 und 100 Retardtabletten",
+    "datumErstmeldung": "2023-09-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11538085"
+    ],
+    "enr": [
+      "2176825"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-04",
+    "datumEnde": "2024-07-08",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon HCl Hormosan 4 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "aufgrund erhöhter Nachfrage Produktknappheit bei der Packungsgröße 20, 50 und 100 Retardtabletten",
+    "datumErstmeldung": "2023-09-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11538091"
+    ],
+    "enr": [
+      "2176825"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-04",
+    "datumEnde": "2024-07-08",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon HCl Hormosan 4 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "aufgrund erhöhter Nachfrage Produktknappheit bei der Packungsgröße 20, 50 und 100 Retardtabletten",
+    "datumErstmeldung": "2023-09-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11538197"
+    ],
+    "enr": [
+      "2176828"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-07-08",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon HCl Hormosan 24 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "erhöhte Nachfrage, Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16927236"
+    ],
+    "enr": [
+      "7000562"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-19",
+    "datumEnde": "2024-06-17",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Eletrip-Hormosan 40 mg Filmtabletten",
+    "atcCode": "N02CC06",
+    "wirkstoffe": "Eletriptanhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-02-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16927242"
+    ],
+    "enr": [
+      "7000562"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-19",
+    "datumEnde": "2024-06-17",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Eletrip-Hormosan 40 mg Filmtabletten",
+    "atcCode": "N02CC06",
+    "wirkstoffe": "Eletriptanhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-02-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16927207"
+    ],
+    "enr": [
+      "7000561"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-07-08",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Eletrip-Hormosan 20 mg Filmtabletten",
+    "atcCode": "N02CC06",
+    "wirkstoffe": "Eletriptanhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "0694787230",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12652593"
+    ],
+    "enr": [
+      "2197257"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-17",
+    "datumEnde": "2024-07-31",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Etorican 60 mg Filmtabletten",
+    "atcCode": "M01AH05",
+    "wirkstoffe": "Etoricoxib",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-01-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12652481"
+    ],
+    "enr": [
+      "2197258"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-15",
+    "datumEnde": "2024-07-31",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Etorican 90 mg Filmtabletten",
+    "atcCode": "M01AH05",
+    "wirkstoffe": "Etoricoxib",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-04-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04232138"
+    ],
+    "enr": [
+      "2160055"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Mirtazapin-Hormosan 15 mg Filmtabletten",
+    "atcCode": "N06AX11",
+    "wirkstoffe": "Mirtazapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "erhöhte Nachfrage beider Packungsgrößen",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04232144"
+    ],
+    "enr": [
+      "2160055"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Mirtazapin-Hormosan 15 mg Filmtabletten",
+    "atcCode": "N06AX11",
+    "wirkstoffe": "Mirtazapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "erhöhte Nachfrage beider Packungsgrößen",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04232167"
+    ],
+    "enr": [
+      "2160055"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Mirtazapin-Hormosan 15 mg Filmtabletten",
+    "atcCode": "N06AX11",
+    "wirkstoffe": "Mirtazapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "erhöhte Nachfrage beider Packungsgrößen",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04232227"
+    ],
+    "enr": [
+      "2160056"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-05",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Mirtazapin-Hormosan 30 mg Filmtabletten",
+    "atcCode": "N06AX11",
+    "wirkstoffe": "Mirtazapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-02-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04232262"
+    ],
+    "enr": [
+      "2160056"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-05",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Mirtazapin-Hormosan 30 mg Filmtabletten",
+    "atcCode": "N06AX11",
+    "wirkstoffe": "Mirtazapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-02-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06129611"
+    ],
+    "enr": [
+      "2173488"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-27",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "LUTINUS 100 mg Vaginaltabletten",
+    "atcCode": "G03DA04",
+    "wirkstoffe": "Progesteron",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Ferring GmbH",
+    "mail": "petra.wagner@ferring.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-05-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18492914"
+    ],
+    "enr": [
+      "7007141"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-18",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Sugammadex Orion 100 mg/ml ",
+    "atcCode": "V03AB35",
+    "wirkstoffe": "Sugammadex-Natrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Orion Corporation HR-Beiname: Orion Oyj, Orion Pharma, Chemion, Lääkefarmos, Medipolar, Pharmacal, Suomen Rohdos",
+    "mail": "christoph.lindemann@orionpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-02-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "18492920"
+    ],
+    "enr": [
+      "7007141"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-18",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Sugammadex Orion 100 mg/ml ",
+    "atcCode": "V03AB35",
+    "wirkstoffe": "Sugammadex-Natrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Orion Corporation HR-Beiname: Orion Oyj, Orion Pharma, Chemion, Lääkefarmos, Medipolar, Pharmacal, Suomen Rohdos",
+    "mail": "christoph.lindemann@orionpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-02-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04257888"
+    ],
+    "enr": [
+      "0149618"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-07",
+    "datumEnde": "2024-07-01",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocillin 500 Saft",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06649606"
+    ],
+    "enr": [
+      "0149618"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-07",
+    "datumEnde": "2024-07-01",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocillin 500 Saft",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06649612"
+    ],
+    "enr": [
+      "0149618"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-07",
+    "datumEnde": "2024-07-01",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocillin 500 Saft",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-07-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00583094"
+    ],
+    "enr": [
+      "2142771"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-06",
+    "datumEnde": "2024-06-17",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "SUBUTEX 8 mg",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-07-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14404959"
+    ],
+    "enr": [
+      "2142771"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-06",
+    "datumEnde": "2024-06-17",
+    "datumLetzteMeldung": "2024-05-27",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "SUBUTEX 8 mg",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-07-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "09505109"
     ],
     "enr": [
@@ -1588,29 +2474,6 @@
   },
   {
     "pzn": [
-      "04771680"
-    ],
-    "enr": [
-      "2184313"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-04",
-    "datumEnde": "2024-05-27",
-    "datumLetzteMeldung": "2024-05-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "InfectoSupramox Saft 400 mg / 57 mg / 5 ml",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-08-25",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04835351"
     ],
     "enr": [
@@ -1653,98 +2516,6 @@
     "mail": "shortages@infectopharm.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2024-01-15",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04257799"
-    ],
-    "enr": [
-      "0149618"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-07",
-    "datumEnde": "2024-07-01",
-    "datumLetzteMeldung": "2024-05-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocillin 500 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-07",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04257888"
-    ],
-    "enr": [
-      "0149618"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-07",
-    "datumEnde": "2024-07-01",
-    "datumLetzteMeldung": "2024-05-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocillin 500 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-07",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06649606"
-    ],
-    "enr": [
-      "0149618"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-07",
-    "datumEnde": "2024-07-01",
-    "datumLetzteMeldung": "2024-05-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocillin 500 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-07",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06649612"
-    ],
-    "enr": [
-      "0149618"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-07",
-    "datumEnde": "2024-07-01",
-    "datumLetzteMeldung": "2024-05-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocillin 500 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-07-07",
     "infoFachkreise": "Nein"
   },
   {
@@ -2048,28 +2819,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2024-05-15",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00821027"
-    ],
-    "enr": [
-      "2159112"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-05-15",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-05-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Palladon 1,3 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-05-15",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -3076,52 +3825,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2023-11-20",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00583094"
-    ],
-    "enr": [
-      "2142771"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-06",
-    "datumEnde": "2024-06-03",
-    "datumLetzteMeldung": "2024-05-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "SUBUTEX 8 mg",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-07-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14404959"
-    ],
-    "enr": [
-      "2142771"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-06",
-    "datumEnde": "2024-06-03",
-    "datumLetzteMeldung": "2024-05-13",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "SUBUTEX 8 mg",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-07-19",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -6263,285 +6966,6 @@
   },
   {
     "pzn": [
-      "04232227"
-    ],
-    "enr": [
-      "2160056"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-05",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2024-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Mirtazapin-Hormosan 30 mg Filmtabletten",
-    "atcCode": "N06AX11",
-    "wirkstoffe": "Mirtazapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-02-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04232262"
-    ],
-    "enr": [
-      "2160056"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-05",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2024-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Mirtazapin-Hormosan 30 mg Filmtabletten",
-    "atcCode": "N06AX11",
-    "wirkstoffe": "Mirtazapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-02-06",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04232138"
-    ],
-    "enr": [
-      "2160055"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-06-03",
-    "datumLetzteMeldung": "2024-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Mirtazapin-Hormosan 15 mg Filmtabletten",
-    "atcCode": "N06AX11",
-    "wirkstoffe": "Mirtazapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "erhöhte Nachfrage beider Packungsgrößen",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04232144"
-    ],
-    "enr": [
-      "2160055"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-06-03",
-    "datumLetzteMeldung": "2024-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Mirtazapin-Hormosan 15 mg Filmtabletten",
-    "atcCode": "N06AX11",
-    "wirkstoffe": "Mirtazapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "erhöhte Nachfrage beider Packungsgrößen",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04232167"
-    ],
-    "enr": [
-      "2160055"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-06-03",
-    "datumLetzteMeldung": "2024-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Mirtazapin-Hormosan 15 mg Filmtabletten",
-    "atcCode": "N06AX11",
-    "wirkstoffe": "Mirtazapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "erhöhte Nachfrage beider Packungsgrößen",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12569107"
-    ],
-    "enr": [
-      "2197700"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-13",
-    "datumEnde": "2024-06-03",
-    "datumLetzteMeldung": "2024-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Levetiracetam-Hormosan 100 mg/ml Lösung zum Einnehmen",
-    "atcCode": "N03AX14",
-    "wirkstoffe": "Levetiracetam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-11-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12569136"
-    ],
-    "enr": [
-      "2197700"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-13",
-    "datumEnde": "2024-06-03",
-    "datumLetzteMeldung": "2024-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Levetiracetam-Hormosan 100 mg/ml Lösung zum Einnehmen",
-    "atcCode": "N03AX14",
-    "wirkstoffe": "Levetiracetam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-11-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12569194"
-    ],
-    "enr": [
-      "2197700"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-13",
-    "datumEnde": "2024-06-03",
-    "datumLetzteMeldung": "2024-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Levetiracetam-Hormosan 100 mg/ml Lösung zum Einnehmen",
-    "atcCode": "N03AX14",
-    "wirkstoffe": "Levetiracetam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-11-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12652481"
-    ],
-    "enr": [
-      "2197258"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-15",
-    "datumEnde": "2024-06-10",
-    "datumLetzteMeldung": "2024-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Etorican 90 mg Filmtabletten",
-    "atcCode": "M01AH05",
-    "wirkstoffe": "Etoricoxib",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-04-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16927207"
-    ],
-    "enr": [
-      "7000561"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-01",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Eletrip-Hormosan 20 mg Filmtabletten",
-    "atcCode": "N02CC06",
-    "wirkstoffe": "Eletriptanhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "0694787230",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-03-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16927236"
-    ],
-    "enr": [
-      "7000562"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-19",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Eletrip-Hormosan 40 mg Filmtabletten",
-    "atcCode": "N02CC06",
-    "wirkstoffe": "Eletriptanhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-02-22",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16927242"
-    ],
-    "enr": [
-      "7000562"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-19",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-05-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Eletrip-Hormosan 40 mg Filmtabletten",
-    "atcCode": "N02CC06",
-    "wirkstoffe": "Eletriptanhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-02-22",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "16020625"
     ],
     "enr": [
@@ -8017,28 +8441,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Erhöhte Nachfrage",
     "datumErstmeldung": "2024-04-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11538725"
-    ],
-    "enr": [
-      "2191852"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-14",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-04-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycodon/Naloxon Krugmann 40 mg/20 mg Retardtabletten",
-    "atcCode": "N02AA55",
-    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Krugmann Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@krugmann-gmbh.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2023-02-15",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -10035,102 +10437,6 @@
   },
   {
     "pzn": [
-      "11538197"
-    ],
-    "enr": [
-      "2176828"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-04-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon HCl Hormosan 24 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "erhöhte Nachfrage, Kapazitätsengpässe in der Herstellungsstätte",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11538079"
-    ],
-    "enr": [
-      "2176825"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-04",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-04-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon HCl Hormosan 4 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "aufgrund erhöhter Nachfrage Produktknappheit bei der Packungsgröße 20, 50 und 100 Retardtabletten",
-    "datumErstmeldung": "2023-09-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11538085"
-    ],
-    "enr": [
-      "2176825"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-04",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-04-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon HCl Hormosan 4 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "aufgrund erhöhter Nachfrage Produktknappheit bei der Packungsgröße 20, 50 und 100 Retardtabletten",
-    "datumErstmeldung": "2023-09-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11538091"
-    ],
-    "enr": [
-      "2176825"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-04",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-04-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon HCl Hormosan 4 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "aufgrund erhöhter Nachfrage Produktknappheit bei der Packungsgröße 20, 50 und 100 Retardtabletten",
-    "datumErstmeldung": "2023-09-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "05116463"
     ],
     "enr": [
@@ -11091,29 +11397,6 @@
   },
   {
     "pzn": [
-      "01859285"
-    ],
-    "enr": [
-      "2105335"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-26",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-03-26",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Nepresol Inject",
-    "atcCode": "C02DB01",
-    "wirkstoffe": "Dihydralazinmesilat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "TEOFARMA S.R.L.",
-    "mail": "regulatory@teofarma.it",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Delay in the production of the lyophilized ampoules",
-    "datumErstmeldung": "2024-03-14",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03943624"
     ],
     "enr": [
@@ -11589,52 +11872,6 @@
     "mail": "Minyoung.seo@stadapharm.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-08-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05395664"
-    ],
-    "enr": [
-      "2164819"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-07",
-    "datumEnde": "2024-06-24",
-    "datumLetzteMeldung": "2024-03-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Topiramat-Hormosan 25 mg Filmtabletten",
-    "atcCode": "N03AX11",
-    "wirkstoffe": "Topiramat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-12-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05395730"
-    ],
-    "enr": [
-      "2164819"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-07",
-    "datumEnde": "2024-06-24",
-    "datumLetzteMeldung": "2024-03-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Topiramat-Hormosan 25 mg Filmtabletten",
-    "atcCode": "N03AX11",
-    "wirkstoffe": "Topiramat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-12-07",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -13051,245 +13288,6 @@
   },
   {
     "pzn": [
-      "12652593"
-    ],
-    "enr": [
-      "2197257"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-17",
-    "datumEnde": "2024-06-07",
-    "datumLetzteMeldung": "2024-03-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Etorican 60 mg Filmtabletten",
-    "atcCode": "M01AH05",
-    "wirkstoffe": "Etoricoxib",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-01-19",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16682875"
-    ],
-    "enr": [
-      "2188009"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-03-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycan uno 10 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16682881"
-    ],
-    "enr": [
-      "2188009"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-03-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycan uno 10 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16682898"
-    ],
-    "enr": [
-      "2188009"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-03-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycan uno 10 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12394820"
-    ],
-    "enr": [
-      "2188011"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-03-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycan uno 40 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12394837"
-    ],
-    "enr": [
-      "2188011"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-03-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycan uno 40 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12394843"
-    ],
-    "enr": [
-      "2188011"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-03-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycan uno 40 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16682964"
-    ],
-    "enr": [
-      "2188012"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-03-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycan uno 80 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Kapazitätsengpässe in Herstellungsstätte",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16682970"
-    ],
-    "enr": [
-      "2188012"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-03-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycan uno 80 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Kapazitätsengpässe in Herstellungsstätte",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16682987"
-    ],
-    "enr": [
-      "2188012"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-17",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-03-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycan uno 80 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Kapazitätsengpässe in Herstellungsstätte",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "06648311"
     ],
     "enr": [
@@ -13657,29 +13655,6 @@
     "mail": "shortages@infectopharm.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-11-27",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "18492920"
-    ],
-    "enr": [
-      "7007141"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-18",
-    "datumEnde": "2024-12-31",
-    "datumLetzteMeldung": "2024-02-15",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Sugammadex Orion 100 mg/ml ",
-    "atcCode": "V03AB35",
-    "wirkstoffe": "Sugammadex-Natrium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Orion Corporation HR-Beiname: Orion Oyj, Orion Pharma, Chemion, Lääkefarmos, Medipolar, Pharmacal, Suomen Rohdos",
-    "mail": "christoph.lindemann@orionpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "Sugammadex Orion 100 mg/ml  - Einreichungsnummer: 7007141",
-    "datumErstmeldung": "2024-02-15",
     "infoFachkreise": "Nein"
   },
   {
