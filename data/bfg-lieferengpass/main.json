@@ -1,6 +1,283 @@
 [
   {
     "pzn": [
+      "17483132"
+    ],
+    "enr": [
+      "2201628"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-18",
+    "datumEnde": "2024-07-22",
+    "datumLetzteMeldung": "2024-06-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Syner-KINASE",
+    "atcCode": "B01AD04",
+    "wirkstoffe": "Urokinase",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Syner-Medica B.V.",
+    "telefon": "+49 (89) 45 08 08 78-44",
+    "mail": "sales@lyomark.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-06-12",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02498613"
+    ],
+    "enr": [
+      "2102411"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-13",
+    "datumEnde": "2024-09-13",
+    "datumLetzteMeldung": "2024-06-12",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Gentamicin-POS",
+    "atcCode": "S01AA11",
+    "wirkstoffe": "Gentamicinsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-06-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01359157"
+    ],
+    "enr": [
+      "2151344"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-19",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-06-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Promethazin-neuraxpharm forte",
+    "atcCode": "N05AA, R06AD02",
+    "wirkstoffe": "Promethazinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49217310600",
+    "mail": "info@neuraxpharm.de",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2024-01-31",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01359163"
+    ],
+    "enr": [
+      "2151344"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-12-19",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-06-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Promethazin-neuraxpharm forte",
+    "atcCode": "N05AA, R06AD02",
+    "wirkstoffe": "Promethazinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49217310600",
+    "mail": "info@neuraxpharm.de",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2024-01-31",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08515465"
+    ],
+    "enr": [
+      "2134065"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-07-31",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-06-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fluphenazin-neuraxpharm D 12,5 mg/ 0,5 ml",
+    "atcCode": "N05AB02",
+    "wirkstoffe": "Fluphenazindecanoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "+49217310600",
+    "mail": "info@neuraxpharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2022-11-10",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00619136"
+    ],
+    "enr": [
+      "2702734",
+      "2702735",
+      "2702738",
+      "2702739",
+      "2702742",
+      "2702743"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-10",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-06-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Mimpara 30 mg Filmtabletten - OP28(Bl)",
+    "atcCode": "H05BX01",
+    "wirkstoffe": "Cinacalcethydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Amgen Europe BV",
+    "telefon": "089 149096 0",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-06-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00619142"
+    ],
+    "enr": [
+      "2702734",
+      "2702735",
+      "2702738",
+      "2702739",
+      "2702742",
+      "2702743"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-10",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-06-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Mimpara 30 mg Filmtabletten - OP28(Bl)",
+    "atcCode": "H05BX01",
+    "wirkstoffe": "Cinacalcethydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Amgen Europe BV",
+    "telefon": "089 149096 0",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-06-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00623899"
+    ],
+    "enr": [
+      "2702734",
+      "2702735",
+      "2702738",
+      "2702739",
+      "2702742",
+      "2702743"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-10",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-06-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Mimpara 30 mg Filmtabletten - OP28(Bl)",
+    "atcCode": "H05BX01",
+    "wirkstoffe": "Cinacalcethydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Amgen Europe BV",
+    "telefon": "089 149096 0",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-06-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10356689"
+    ],
+    "enr": [
+      "2702734",
+      "2702735",
+      "2702738",
+      "2702739",
+      "2702742",
+      "2702743"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-10",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-06-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Mimpara 30 mg Filmtabletten - OP28(Bl)",
+    "atcCode": "H05BX01",
+    "wirkstoffe": "Cinacalcethydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Amgen Europe BV",
+    "telefon": "089 149096 0",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-06-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10356695"
+    ],
+    "enr": [
+      "2702734",
+      "2702735",
+      "2702738",
+      "2702739",
+      "2702742",
+      "2702743"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-10",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-06-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Mimpara 30 mg Filmtabletten - OP28(Bl)",
+    "atcCode": "H05BX01",
+    "wirkstoffe": "Cinacalcethydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Amgen Europe BV",
+    "telefon": "089 149096 0",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-06-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10356703"
+    ],
+    "enr": [
+      "2702734",
+      "2702735",
+      "2702738",
+      "2702739",
+      "2702742",
+      "2702743"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-10",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-06-12",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Mimpara 30 mg Filmtabletten - OP28(Bl)",
+    "atcCode": "H05BX01",
+    "wirkstoffe": "Cinacalcethydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Amgen Europe BV",
+    "telefon": "089 149096 0",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-06-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "04675640"
     ],
     "enr": [
@@ -4738,29 +5015,6 @@
   },
   {
     "pzn": [
-      "17309606"
-    ],
-    "enr": [
-      "7004031"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-05-07",
-    "datumEnde": "2024-07-05",
-    "datumLetzteMeldung": "2024-05-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "AUBAGIO 7 mg Filmtabletten",
-    "atcCode": "L04AA31",
-    "wirkstoffe": "Teriflunomid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi Winthrop Industrie",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-05-22",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01409961"
     ],
     "enr": [
@@ -7631,29 +7885,6 @@
   },
   {
     "pzn": [
-      "08515465"
-    ],
-    "enr": [
-      "2134065"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-07-31",
-    "datumEnde": "2024-05-31",
-    "datumLetzteMeldung": "2024-05-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fluphenazin-neuraxpharm D 12,5 mg/ 0,5 ml",
-    "atcCode": "N05AB02",
-    "wirkstoffe": "Fluphenazindecanoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "+49217310600",
-    "mail": "info@neuraxpharm.de",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2022-11-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "08846191"
     ],
     "enr": [
@@ -9127,54 +9358,6 @@
     "mail": "info@neuraxpharm.de",
     "grund": "Herstellerwechsel",
     "datumErstmeldung": "2022-11-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01359157"
-    ],
-    "enr": [
-      "2151344"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-19",
-    "datumEnde": "2024-06-10",
-    "datumLetzteMeldung": "2024-05-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Promethazin-neuraxpharm forte",
-    "atcCode": "N05AA, R06AD02",
-    "wirkstoffe": "Promethazinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "+49217310600",
-    "mail": "info@neuraxpharm.de",
-    "grund": "Probleme beim Wirkstoffhersteller",
-    "grundAnmerkung": "GMP-Probleme",
-    "datumErstmeldung": "2024-01-31",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01359163"
-    ],
-    "enr": [
-      "2151344"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-19",
-    "datumEnde": "2024-06-10",
-    "datumLetzteMeldung": "2024-05-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Promethazin-neuraxpharm forte",
-    "atcCode": "N05AA, R06AD02",
-    "wirkstoffe": "Promethazinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "+49217310600",
-    "mail": "info@neuraxpharm.de",
-    "grund": "Probleme beim Wirkstoffhersteller",
-    "grundAnmerkung": "GMP-Probleme",
-    "datumErstmeldung": "2024-01-31",
     "infoFachkreise": "Nein"
   },
   {
@@ -11601,72 +11784,6 @@
     "mail": "customer.service@hameln-pharma.com",
     "grund": "Probleme beim Sonstigen Hersteller",
     "datumErstmeldung": "2024-04-08",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00084913"
-    ],
-    "enr": [
-      "0245291"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-02",
-    "datumEnde": "2024-06-14",
-    "datumLetzteMeldung": "2024-04-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atosil Tropfen",
-    "atcCode": "N05AA",
-    "wirkstoffe": "Promethazinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
-    "mail": "info@desitin.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-02-09",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06875030"
-    ],
-    "enr": [
-      "0245291"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-02",
-    "datumEnde": "2024-06-14",
-    "datumLetzteMeldung": "2024-04-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atosil Tropfen",
-    "atcCode": "N05AA",
-    "wirkstoffe": "Promethazinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
-    "mail": "info@desitin.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-02-09",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07228344"
-    ],
-    "enr": [
-      "0245291"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-02",
-    "datumEnde": "2024-06-14",
-    "datumLetzteMeldung": "2024-04-08",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atosil Tropfen",
-    "atcCode": "N05AA",
-    "wirkstoffe": "Promethazinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
-    "mail": "info@desitin.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-02-09",
     "infoFachkreise": "Vorgesehen"
   },
   {
