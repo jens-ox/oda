@@ -1,6 +1,125 @@
 [
   {
     "pzn": [
+      "07373230"
+    ],
+    "enr": [
+      "2705749"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-03",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-06-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ZYPADHERA 210 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(483mg+3ml)",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapinembonat-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Cheplapharm Registration GmbH",
+    "telefon": "+49 7321 757 81-36",
+    "mail": "iva.gjolli@cheplapharm-reg.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundAnmerkung": "Der Grund für den Lieferengpass ist ein Versorgungsproblem bei den Nadeln.",
+    "datumErstmeldung": "2024-06-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07373336"
+    ],
+    "enr": [
+      "2705751"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-03",
+    "datumEnde": "2024-06-30",
+    "datumLetzteMeldung": "2024-06-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ZYPADHERA 405 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(931mg+3ml)",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapinembonat-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Cheplapharm Registration GmbH",
+    "telefon": "+49 7321 757 81-36",
+    "mail": "iva.gjolli@cheplapharm-reg.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundAnmerkung": "Der Grund für den Lieferengpass ist ein Versorgungsproblem bei den Nadeln.",
+    "datumErstmeldung": "2024-06-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09012677"
+    ],
+    "enr": [
+      "2168318"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-15",
+    "datumEnde": "2024-08-02",
+    "datumLetzteMeldung": "2024-06-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Alendronsäure - 1 A Pharma 70 mg Filmtabletten",
+    "atcCode": "M05BA04",
+    "wirkstoffe": "Natriumalendronat (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-04-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03851388"
+    ],
+    "enr": [
+      "2114837"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-21",
+    "datumEnde": "2024-07-15",
+    "datumLetzteMeldung": "2024-06-13",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Cymeven i.v.",
+    "atcCode": "J05AB06",
+    "wirkstoffe": "Ganciclovir-Natrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+    "telefon": "03834 3914-0",
+    "mail": "ra-cymevene@cheplapharm.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Technische Probleme beim Bulk Hersteller",
+    "alternativPraeparat": "Ganciclovir Accord 500 mg Pulver für ein Konzentrat zur Herstellung einer Infusionslösung - Einreichungsnummer: 2200616",
+    "datumErstmeldung": "2024-05-31",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00536775"
+    ],
+    "enr": [
+      "2701930"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-13",
+    "datumEnde": "2024-07-10",
+    "datumLetzteMeldung": "2024-06-13",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Actrapid FlexPen 100 I.E./ml Injektionslösung in Injektor - OP(10x3ml)",
+    "atcCode": "A10AB01",
+    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung))",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "Lieferverzögerung",
+    "datumErstmeldung": "2024-06-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "17483132"
     ],
     "enr": [
@@ -2407,29 +2526,6 @@
   },
   {
     "pzn": [
-      "17844713"
-    ],
-    "enr": [
-      "7007377"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-05-15",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2024-06-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Folsäure AL 5 mg Tabletten",
-    "atcCode": "B03BB",
-    "wirkstoffe": "Folsäure-Hydrat ((mit Angaben zum Wassergehalt))",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-06-05",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "10258567"
     ],
     "enr": [
@@ -3063,78 +3159,6 @@
   },
   {
     "pzn": [
-      "07373336"
-    ],
-    "enr": [
-      "2705751"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-05-03",
-    "datumEnde": "2024-06-06",
-    "datumLetzteMeldung": "2024-06-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ZYPADHERA 405 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(931mg+3ml)",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapinembonat-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Registration GmbH",
-    "telefon": "+49 7321 757 81-36",
-    "mail": "iva.gjolli@cheplapharm-reg.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundAnmerkung": "Der Grund für den Lieferengpass ist ein Versorgungsproblem bei den Nadeln.",
-    "datumErstmeldung": "2024-06-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07373230"
-    ],
-    "enr": [
-      "2705749"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-05-03",
-    "datumEnde": "2024-06-11",
-    "datumLetzteMeldung": "2024-06-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ZYPADHERA 210 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(483mg+3ml)",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapinembonat-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Registration GmbH",
-    "telefon": "+49 7321 757 81-36",
-    "mail": "iva.gjolli@cheplapharm-reg.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundAnmerkung": "Der Grund für den Lieferengpass ist ein Versorgungsproblem bei den Nadeln.",
-    "datumErstmeldung": "2024-06-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08472566"
-    ],
-    "enr": [
-      "2180324"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-26",
-    "datumEnde": "2024-06-11",
-    "datumLetzteMeldung": "2024-06-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Risedronat Bluefish 35 mg Filmtabletten einmal wöchentlich",
-    "atcCode": "M05BA07",
-    "wirkstoffe": "Risedronat-Natrium-2,5-Hydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Bluefish Pharmaceuticals AB (publ)",
-    "telefon": "00436601373322",
-    "mail": "mariam.motamen@bluefishpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage durch Lieferengpass bei Alendronsäure (Patienten werden aktuell von Alendronsäure auf Risendronsäure umgestellt)",
-    "datumErstmeldung": "2024-04-15",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "10985801"
     ],
     "enr": [
@@ -3365,31 +3389,6 @@
     "mail": "frank.jethon@fresenius-kabi.com",
     "grund": "Probleme in der Herstellung",
     "grundAnmerkung": "Lieferengpass bei einem Zulieferer für Glasflaschen. Wegen hoher Auslastung der Produktionsanlagen (Kapazitätsgrenze erreicht) besteht keine Möglichkeit, die ausgefallene Produktionsmenge in der Folge wieder aufzuholen. Die Belieferung erfolgt mit 90 % des durchschnittlichen Bedarfes der vergangenen Monate bei PZN 09235555 und mit 75 % bei PZN 06178443.",
-    "datumErstmeldung": "2024-05-31",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03851388"
-    ],
-    "enr": [
-      "2114837"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-05-21",
-    "datumEnde": "2024-06-14",
-    "datumLetzteMeldung": "2024-05-31",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Cymeven i.v.",
-    "atcCode": "J05AB06",
-    "wirkstoffe": "Ganciclovir-Natrium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "telefon": "03834 3914-0",
-    "mail": "ra-cymevene@cheplapharm.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Technische Probleme beim Bulk Hersteller",
-    "alternativPraeparat": "Ganciclovir Accord 500 mg Pulver für ein Konzentrat zur Herstellung einer Infusionslösung - Einreichungsnummer: 2200616",
     "datumErstmeldung": "2024-05-31",
     "infoFachkreise": "Vorgesehen"
   },
@@ -10975,28 +10974,6 @@
   },
   {
     "pzn": [
-      "09012677"
-    ],
-    "enr": [
-      "2168318"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-15",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-04-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Alendronsäure - 1 A Pharma 70 mg Filmtabletten",
-    "atcCode": "M05BA04",
-    "wirkstoffe": "Natriumalendronat (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2024-04-12",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "07587132"
     ],
     "enr": [
@@ -15905,75 +15882,6 @@
     "mail": "info@aliud.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2022-08-31",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000"
-    ],
-    "enr": [
-      "2146289"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-07-28",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cotrimoxazol AL",
-    "atcCode": "J01EE01",
-    "wirkstoffe": "Sulfamethoxazol; Trimethoprim",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-07-28",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04930598"
-    ],
-    "enr": [
-      "2146289"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-07-28",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cotrimoxazol AL",
-    "atcCode": "J01EE01",
-    "wirkstoffe": "Sulfamethoxazol; Trimethoprim",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-07-28",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04930606"
-    ],
-    "enr": [
-      "2146289"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-07-28",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cotrimoxazol AL",
-    "atcCode": "J01EE01",
-    "wirkstoffe": "Sulfamethoxazol; Trimethoprim",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-07-28",
     "infoFachkreise": "Vorgesehen"
   },
   {
