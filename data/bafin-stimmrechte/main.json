@@ -168,6 +168,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-06-13",
+    "emittent": {
+      "name": "Vulcan Energy Resources Limited",
+      "sitz": "Perth",
+      "land": "Australien"
+    },
+    "meldepflichtiger": {
+      "name": "ACS, Actividades de Construcción y Servicios, S.A.",
+      "sitz": "Madrid",
+      "land": "Spanien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 6.29,
+      "instrumente": 0,
+      "summe": 6.29
+    }
+  },
+  {
     "veroeffentlichung": "2023-11-14",
     "emittent": {
       "name": "HOCHTIEF Aktiengesellschaft",
@@ -1375,24 +1393,6 @@
       "gesamt": 3.11,
       "instrumente": 0.01,
       "summe": 3.12
-    }
-  },
-  {
-    "veroeffentlichung": "2024-05-28",
-    "emittent": {
-      "name": "Infineon Technologies AG",
-      "sitz": "Neubiberg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Amundi S.A.",
-      "sitz": "Paris",
-      "land": "Frankreich"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.05,
-      "instrumente": 0.1,
-      "summe": 3.15
     }
   },
   {
@@ -2820,13 +2820,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.52,
-      "instrumente": 4.32,
-      "summe": 5.84
+      "gesamt": 1.5,
+      "instrumente": 4.59,
+      "summe": 6.09
     }
   },
   {
-    "veroeffentlichung": "2024-06-03",
+    "veroeffentlichung": "2024-06-13",
     "emittent": {
       "name": "RWE Aktiengesellschaft",
       "sitz": "Essen",
@@ -2838,9 +2838,27 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.84,
-      "instrumente": 5.58,
-      "summe": 8.42
+      "gesamt": 2.25,
+      "instrumente": 4.19,
+      "summe": 6.44
+    }
+  },
+  {
+    "veroeffentlichung": "2024-06-13",
+    "emittent": {
+      "name": "Pfeiffer Vacuum Technology AG",
+      "sitz": "Aßlar",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Bank of America Corporation",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.00034,
+      "instrumente": 0.21,
+      "summe": 3.21
     }
   },
   {
@@ -3561,6 +3579,24 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 9.99
+    }
+  },
+  {
+    "veroeffentlichung": "2024-06-12",
+    "emittent": {
+      "name": "Medios AG",
+      "sitz": "Hamburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "BENCIS Capital Partners B.V.",
+      "sitz": "Amsterdam",
+      "land": "Niederlande"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 6.67,
+      "instrumente": 0,
+      "summe": 6.67
     }
   },
   {
@@ -16037,7 +16073,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-05-17",
+    "veroeffentlichung": "2024-06-13",
     "emittent": {
       "name": "Siemens Energy AG",
       "sitz": "München",
@@ -16049,9 +16085,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.94,
+      "gesamt": 1.62,
       "instrumente": 4.56,
-      "summe": 6.5
+      "summe": 6.18
     }
   },
   {
@@ -20367,7 +20403,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-06",
+    "veroeffentlichung": "2024-06-13",
     "emittent": {
       "name": "AlzChem Group AG",
       "sitz": "Trostberg",
@@ -20379,9 +20415,9 @@
       "land": "Großbritannien"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.7,
-      "instrumente": 0.98,
-      "summe": 5.68
+      "gesamt": 3.52,
+      "instrumente": 0.2,
+      "summe": 3.72
     }
   },
   {
@@ -22011,10 +22047,10 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-03",
+    "veroeffentlichung": "2024-06-13",
     "emittent": {
-      "name": "Siemens Energy AG",
-      "sitz": "München",
+      "name": "SAF-HOLLAND SE",
+      "sitz": "Bessenbach",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -22023,9 +22059,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.33,
-      "instrumente": 0.71,
-      "summe": 4.04
+      "gesamt": 3.08,
+      "instrumente": 0.0002,
+      "summe": 3.08
     }
   },
   {
@@ -28835,7 +28871,7 @@
     }
   },
   {
-    "veroeffentlichung": "2022-01-19",
+    "veroeffentlichung": "2024-06-13",
     "emittent": {
       "name": "Medios AG",
       "sitz": "Hamburg",
@@ -28847,9 +28883,9 @@
       "land": ""
     },
     "stimmrechtsanteile": {
-      "gesamt": 18.02,
+      "gesamt": 15.15,
       "instrumente": 0,
-      "summe": 18.02
+      "summe": 15.15
     }
   },
   {
@@ -33384,7 +33420,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-07",
+    "veroeffentlichung": "2024-06-13",
     "emittent": {
       "name": "Covestro AG",
       "sitz": "Leverkusen",
@@ -33396,9 +33432,27 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.18,
-      "instrumente": 9.47,
-      "summe": 9.65
+      "gesamt": 0.67,
+      "instrumente": 9.56,
+      "summe": 10.24
+    }
+  },
+  {
+    "veroeffentlichung": "2024-06-13",
+    "emittent": {
+      "name": "BASF SE",
+      "sitz": "Ludwigshafen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.21,
+      "instrumente": 4.85,
+      "summe": 5.06
     }
   },
   {
@@ -33888,7 +33942,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-07",
+    "veroeffentlichung": "2024-06-13",
     "emittent": {
       "name": "TUI AG",
       "sitz": "Hannover",
@@ -33900,9 +33954,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.93,
-      "instrumente": 0.83,
-      "summe": 4.76
+      "gesamt": 4.43,
+      "instrumente": 0.87,
+      "summe": 5.3
     }
   },
   {
@@ -33960,7 +34014,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-07",
+    "veroeffentlichung": "2024-06-12",
     "emittent": {
       "name": "Nordex SE",
       "sitz": "Rostock",
@@ -33972,9 +34026,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.04,
-      "instrumente": 1.24,
-      "summe": 5.28
+      "gesamt": 4.12,
+      "instrumente": 1.27,
+      "summe": 5.39
     }
   },
   {
@@ -34225,6 +34279,24 @@
       "gesamt": 3.14,
       "instrumente": 0,
       "summe": 3.14
+    }
+  },
+  {
+    "veroeffentlichung": "2024-06-13",
+    "emittent": {
+      "name": "AUTO1 Group SE",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Union Investment Privatfonds GmbH",
+      "sitz": "Frankfurt",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.02,
+      "instrumente": 1.13,
+      "summe": 4.15
     }
   },
   {
