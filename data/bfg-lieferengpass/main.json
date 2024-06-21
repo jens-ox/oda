@@ -1,6 +1,257 @@
 [
   {
     "pzn": [
+      "07373307"
+    ],
+    "enr": [
+      "2705750"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-18",
+    "datumEnde": "2024-07-10",
+    "datumLetzteMeldung": "2024-06-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ZYPADHERA 300 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(690mg+3ml)",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapinembonat-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Cheplapharm Registration GmbH",
+    "mail": "iva.gjolli@cheplapharm-reg.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Nur das PZN 07373307 ist von dem Lieferengpass betroffen.Das PZN 07373313 ist wieder lieferbar.",
+    "datumErstmeldung": "2024-04-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07373336"
+    ],
+    "enr": [
+      "2705751"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-03",
+    "datumEnde": "2024-07-10",
+    "datumLetzteMeldung": "2024-06-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ZYPADHERA 405 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(931mg+3ml)",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapinembonat-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Cheplapharm Registration GmbH",
+    "telefon": "+49 7321 757 81-36",
+    "mail": "iva.gjolli@cheplapharm-reg.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundAnmerkung": "Der Grund für den Lieferengpass ist ein Versorgungsproblem bei den Nadeln.",
+    "datumErstmeldung": "2024-06-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07373230"
+    ],
+    "enr": [
+      "2705749"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-03",
+    "datumEnde": "2024-07-10",
+    "datumLetzteMeldung": "2024-06-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ZYPADHERA 210 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(483mg+3ml)",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapinembonat-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Cheplapharm Registration GmbH",
+    "telefon": "+49 7321 757 81-36",
+    "mail": "iva.gjolli@cheplapharm-reg.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundAnmerkung": "Der Grund für den Lieferengpass ist ein Versorgungsproblem bei den Nadeln.",
+    "datumErstmeldung": "2024-06-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18021379"
+    ],
+    "enr": [
+      "2195622"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-20",
+    "datumEnde": "2024-07-31",
+    "datumLetzteMeldung": "2024-06-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Kinecteen 36 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "mail": "regulatory@medice.de",
+    "grund": "Sonstige",
+    "grundAnmerkung": "---",
+    "datumErstmeldung": "2024-06-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18021362"
+    ],
+    "enr": [
+      "2195621"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-20",
+    "datumEnde": "2024-07-31",
+    "datumLetzteMeldung": "2024-06-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Kinecteen 27 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "mail": "regulatory@medice.de",
+    "grund": "Sonstige",
+    "grundAnmerkung": "---",
+    "datumErstmeldung": "2024-06-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18021333"
+    ],
+    "enr": [
+      "2195620"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-20",
+    "datumEnde": "2024-07-31",
+    "datumLetzteMeldung": "2024-06-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Kinecteen 18 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "mail": "regulatory@medice.de",
+    "grund": "Sonstige",
+    "grundAnmerkung": "---",
+    "datumErstmeldung": "2024-06-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04954073"
+    ],
+    "enr": [
+      "2153289"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-30",
+    "datumEnde": "2024-07-12",
+    "datumLetzteMeldung": "2024-06-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cipro-1 A Pharma 750 mg",
+    "atcCode": "J01MA02",
+    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-30",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01345847"
+    ],
+    "enr": [
+      "2153283"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-23",
+    "datumEnde": "2024-07-12",
+    "datumLetzteMeldung": "2024-06-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ciprohexal 750 mg",
+    "atcCode": "J01MA02",
+    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-03-23",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03946338"
+    ],
+    "enr": [
+      "0801059"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-20",
+    "datumEnde": "2024-07-31",
+    "datumLetzteMeldung": "2024-06-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Minocyclin-ratiopharm 50 mg Hartkapseln",
+    "atcCode": "J01AA08",
+    "wirkstoffe": "Minocyclinhydrochlorid ((wasserfrei, nicht Arzneibuch-konform))",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-06-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03946344"
+    ],
+    "enr": [
+      "0801059"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-20",
+    "datumEnde": "2024-07-31",
+    "datumLetzteMeldung": "2024-06-20",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Minocyclin-ratiopharm 50 mg Hartkapseln",
+    "atcCode": "J01AA08",
+    "wirkstoffe": "Minocyclinhydrochlorid ((wasserfrei, nicht Arzneibuch-konform))",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-06-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00669565"
+    ],
+    "enr": [
+      "2139325"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-12",
+    "datumEnde": "2024-07-03",
+    "datumLetzteMeldung": "2024-06-20",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Amoxi-Clavulan STADA TS 250/62,5 mg Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01CR02",
+    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM GmbH",
+    "telefon": "+4961016032416",
+    "mail": "christiane.georgi@stada.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-06-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "02481966"
     ],
     "enr": [
@@ -1255,29 +1506,6 @@
   },
   {
     "pzn": [
-      "16321551"
-    ],
-    "enr": [
-      "2201217"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-08",
-    "datumEnde": "2024-07-14",
-    "datumLetzteMeldung": "2024-06-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Calcipotriderm comp. 50 Mikrogramm/g + 0,5 mg/g Salbe",
-    "atcCode": "D05AX52",
-    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Calcipotriol-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-05-16",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "06888311"
     ],
     "enr": [
@@ -1370,75 +1598,6 @@
   },
   {
     "pzn": [
-      "10116086"
-    ],
-    "enr": [
-      "2188649"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-25",
-    "datumEnde": "2024-07-14",
-    "datumLetzteMeldung": "2024-06-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Momecutan Lösung",
-    "atcCode": "D07AC13",
-    "wirkstoffe": "Mometasonfuroat (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "+498964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-04-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "10116092"
-    ],
-    "enr": [
-      "2188649"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-25",
-    "datumEnde": "2024-07-14",
-    "datumLetzteMeldung": "2024-06-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Momecutan Lösung",
-    "atcCode": "D07AC13",
-    "wirkstoffe": "Mometasonfuroat (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "+498964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-04-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "10116100"
-    ],
-    "enr": [
-      "2188649"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-25",
-    "datumEnde": "2024-07-14",
-    "datumLetzteMeldung": "2024-06-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Momecutan Lösung",
-    "atcCode": "D07AC13",
-    "wirkstoffe": "Mometasonfuroat (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "+498964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-04-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00165273"
     ],
     "enr": [
@@ -1459,28 +1618,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Alternative, verfügbare PG:  Soderm Lotio 20 ml, PZN 00165273",
     "datumErstmeldung": "2024-03-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03930076"
-    ],
-    "enr": [
-      "2172847"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-06",
-    "datumEnde": "2024-06-18",
-    "datumLetzteMeldung": "2024-06-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "PenHEXAL Saft 0,4 Mega Einheiten/5 ml",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-02-06",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2243,54 +2380,6 @@
     "alternativPraeparat": "Kreon 35 000 Ph. Eur. Lipase Einheiten, magensaftresistente Hartkapseln - Einreichungsnummer: 2199527",
     "datumErstmeldung": "2024-05-14",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "07373230"
-    ],
-    "enr": [
-      "2705749"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-03",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2024-06-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ZYPADHERA 210 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(483mg+3ml)",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapinembonat-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Registration GmbH",
-    "telefon": "+49 7321 757 81-36",
-    "mail": "iva.gjolli@cheplapharm-reg.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundAnmerkung": "Der Grund für den Lieferengpass ist ein Versorgungsproblem bei den Nadeln.",
-    "datumErstmeldung": "2024-06-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07373336"
-    ],
-    "enr": [
-      "2705751"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-03",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2024-06-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ZYPADHERA 405 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(931mg+3ml)",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapinembonat-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Registration GmbH",
-    "telefon": "+49 7321 757 81-36",
-    "mail": "iva.gjolli@cheplapharm-reg.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundAnmerkung": "Der Grund für den Lieferengpass ist ein Versorgungsproblem bei den Nadeln.",
-    "datumErstmeldung": "2024-06-03",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -4614,29 +4703,6 @@
   },
   {
     "pzn": [
-      "07373307"
-    ],
-    "enr": [
-      "2705750"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-18",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2024-06-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ZYPADHERA 300 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(690mg+3ml)",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapinembonat-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Cheplapharm Registration GmbH",
-    "mail": "iva.gjolli@cheplapharm-reg.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Nur das PZN 07373307 ist von dem Lieferengpass betroffen.Das PZN 07373313 ist wieder lieferbar.",
-    "datumErstmeldung": "2024-04-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04913826"
     ],
     "enr": [
@@ -5480,29 +5546,6 @@
   },
   {
     "pzn": [
-      "00571808"
-    ],
-    "enr": [
-      "2707569"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-01",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-05-30",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "TOVIAZ 8 mg Retardtabletten - OP100(Bl)",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-10-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00020540"
     ],
     "enr": [
@@ -5522,30 +5565,6 @@
     "mail": "medical.information@pfizer.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-10-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "10796336"
-    ],
-    "enr": [
-      "2703490"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-13",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-05-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "TOVIAZ 4 mg Retardtabletten - OP14",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Fesoterodin Aristo 4 mg Retardtabletten - Einreichungsnummer: 7000588",
-    "datumErstmeldung": "2023-03-27",
     "infoFachkreise": "Nein"
   },
   {
@@ -7721,29 +7740,6 @@
     "mail": "info@aliud.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2024-05-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00669565"
-    ],
-    "enr": [
-      "2139325"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-12",
-    "datumEnde": "2024-06-03",
-    "datumLetzteMeldung": "2024-05-14",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Amoxi-Clavulan STADA TS 250/62,5 mg Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01CR02",
-    "wirkstoffe": "Amoxicillin-Trihydrat; Kaliumclavulanat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "telefon": "+4961016032416",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-06-15",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -12737,28 +12733,6 @@
   },
   {
     "pzn": [
-      "01345847"
-    ],
-    "enr": [
-      "2153283"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-23",
-    "datumEnde": "2024-06-17",
-    "datumLetzteMeldung": "2024-04-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ciprohexal 750 mg",
-    "atcCode": "J01MA02",
-    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01345824"
     ],
     "enr": [
@@ -12777,28 +12751,6 @@
     "mail": "service@hexal.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-03-23",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04954073"
-    ],
-    "enr": [
-      "2153289"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-30",
-    "datumEnde": "2024-06-18",
-    "datumLetzteMeldung": "2024-04-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cipro-1 A Pharma 750 mg",
-    "atcCode": "J01MA02",
-    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-03-30",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -13627,28 +13579,6 @@
     "grund": "Sonstige",
     "grundAnmerkung": "Eine Wiedereinführung der Packungsgrößen ist nicht geplant. Unter Voraussichtliches Ende des Lieferengpasses wurde aus formalen Gründen das Haltbarkeitsdatum der jeweils letzten im Handel befindlichen Charge eingegeben.",
     "datumErstmeldung": "2024-03-25",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00192229"
-    ],
-    "enr": [
-      "2144172"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-01",
-    "datumEnde": "2024-06-24",
-    "datumLetzteMeldung": "2024-03-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Doxepin STADA 100 mg Filmtabletten",
-    "atcCode": "N06AA12",
-    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "mail": "Minyoung.seo@stadapharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-08-03",
     "infoFachkreise": "Vorgesehen"
   },
   {
