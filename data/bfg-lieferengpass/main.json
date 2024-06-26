@@ -1,27 +1,588 @@
 [
   {
     "pzn": [
+      "07116993"
+    ],
+    "enr": [
+      "2160507"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-02",
+    "datumEnde": "2024-06-27",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin 500 - 1 A Pharma",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-04-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10735524"
+    ],
+    "enr": [
+      "2189578"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-06-05",
+    "datumEnde": "2024-06-25",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Paricalcitol HEXAL 5 Mikrogramm/ml Injektionslösung",
+    "atcCode": "H05BX02",
+    "wirkstoffe": "Paricalcitol",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-06-05",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "00000000"
+    ],
+    "enr": [
+      "2670698",
+      "2670699"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-09-15",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Scintimun",
+    "atcCode": "V09HA03",
+    "wirkstoffe": "Besilesomab",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "CIS bio international",
+    "mail": "annette.brinker-ext@curiumpharma.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Medi-Exametazim - Einreichungsnummer: 2186253",
+    "datumErstmeldung": "2024-03-20",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "11666512"
+    ],
+    "enr": [
+      "2201309"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-01",
+    "datumEnde": "2024-08-14",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Vancomycin ENTEROCAPS 125 mg Hartkapseln",
+    "atcCode": "A07AA09",
+    "wirkstoffe": "Vancomycinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "mail": "info.germany@esteve.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "stark erhöhte Abverkäufe im Dezember und Januardurch Stock Out eines Wettbewerbers",
+    "datumErstmeldung": "2024-06-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11666529"
+    ],
+    "enr": [
+      "2201309"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-01",
+    "datumEnde": "2024-08-14",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Vancomycin ENTEROCAPS 125 mg Hartkapseln",
+    "atcCode": "A07AA09",
+    "wirkstoffe": "Vancomycinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "mail": "info.germany@esteve.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "stark erhöhte Abverkäufe im Dezember und Januardurch Stock Out eines Wettbewerbers",
+    "datumErstmeldung": "2024-06-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "00541612"
     ],
     "enr": [
       "0100285"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-06-24",
     "datumEnde": "2024-12-31",
-    "datumLetzteMeldung": "2024-06-24",
+    "datumLetzteMeldung": "2024-06-25",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Jonosteril",
     "atcCode": "B05BB01",
     "wirkstoffe": "Calciumacetat; Kaliumacetat; Magnesiumacetat-Tetrahydrat; Natriumacetat-Trihydrat; Natriumchlorid",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-    "telefon": "061726867883",
-    "mail": "frank.jethon@fresenius-kabi.com",
+    "mail": "anfragen_generics_fluids@fresenius-kabi.de",
     "grund": "Probleme in der Herstellung",
     "grundAnmerkung": "PZN 00541612 steht in Teilmengen zur Verfügung. Die Belieferung erfolgt mit 90 % des durchschnittlichen Bedarfes der letzten Monate. Der Engpass kann teilweise mit einem Ersatzprodukt, PZN 00731488, abgemildert werden.",
     "datumErstmeldung": "2024-06-24",
     "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "06437011"
+    ],
+    "enr": [
+      "2125017"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-25",
+    "datumEnde": "2024-07-05",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Doxycyclin 100 - 1 A Pharma",
+    "atcCode": "J01AA02",
+    "wirkstoffe": "Doxycyclin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-06-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06437028"
+    ],
+    "enr": [
+      "2125017"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-25",
+    "datumEnde": "2024-07-05",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Doxycyclin 100 - 1 A Pharma",
+    "atcCode": "J01AA02",
+    "wirkstoffe": "Doxycyclin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-06-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06437034"
+    ],
+    "enr": [
+      "2125017"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-25",
+    "datumEnde": "2024-07-05",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Doxycyclin 100 - 1 A Pharma",
+    "atcCode": "J01AA02",
+    "wirkstoffe": "Doxycyclin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-06-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000"
+    ],
+    "enr": [
+      "2144336"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-31",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Selegilin AL 5",
+    "atcCode": "N04BD01",
+    "wirkstoffe": "Selegilinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-08-31",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00569510"
+    ],
+    "enr": [
+      "2144336"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-31",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Selegilin AL 5",
+    "atcCode": "N04BD01",
+    "wirkstoffe": "Selegilinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-08-31",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04173157"
+    ],
+    "enr": [
+      "2144336"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-08-31",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Selegilin AL 5",
+    "atcCode": "N04BD01",
+    "wirkstoffe": "Selegilinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2022-08-31",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06437057"
+    ],
+    "enr": [
+      "2125018"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-25",
+    "datumEnde": "2024-07-31",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Doxycyclin 200 - 1 A Pharma",
+    "atcCode": "J01AA02",
+    "wirkstoffe": "Doxycyclin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-06-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06437063"
+    ],
+    "enr": [
+      "2125018"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-25",
+    "datumEnde": "2024-07-31",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Doxycyclin 200 - 1 A Pharma",
+    "atcCode": "J01AA02",
+    "wirkstoffe": "Doxycyclin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-06-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000"
+    ],
+    "enr": [
+      "2182983"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-01",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ibandronsäure AL 2 mg Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "M05BA06",
+    "wirkstoffe": "Mononatriumibandronat 1 H<2>O",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09530484"
+    ],
+    "enr": [
+      "2182983"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-01",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ibandronsäure AL 2 mg Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "M05BA06",
+    "wirkstoffe": "Mononatriumibandronat 1 H<2>O",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-04-19",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03103427"
+    ],
+    "enr": [
+      "2107482"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-25",
+    "datumEnde": "2024-07-31",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "DoxyHexal 200 mg tabs",
+    "atcCode": "J01AA02",
+    "wirkstoffe": "Doxycyclin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-06-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03103433"
+    ],
+    "enr": [
+      "2107482"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-25",
+    "datumEnde": "2024-07-31",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "DoxyHexal 200 mg tabs",
+    "atcCode": "J01AA02",
+    "wirkstoffe": "Doxycyclin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-06-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03012015"
+    ],
+    "enr": [
+      "2107481"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-25",
+    "datumEnde": "2024-07-05",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "DoxyHexal tabs",
+    "atcCode": "J01AA02",
+    "wirkstoffe": "Doxycyclin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-06-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03103396"
+    ],
+    "enr": [
+      "2107481"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-25",
+    "datumEnde": "2024-07-05",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "DoxyHexal tabs",
+    "atcCode": "J01AA02",
+    "wirkstoffe": "Doxycyclin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-06-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03103404"
+    ],
+    "enr": [
+      "2107481"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-25",
+    "datumEnde": "2024-07-05",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "DoxyHexal tabs",
+    "atcCode": "J01AA02",
+    "wirkstoffe": "Doxycyclin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-06-25",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000"
+    ],
+    "enr": [
+      "2114031"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-01",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxicillin AL TS",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-05-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04751588"
+    ],
+    "enr": [
+      "2114031"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-01",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxicillin AL TS",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-05-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09424428"
+    ],
+    "enr": [
+      "2114031"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-01",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxicillin AL TS",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-05-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02331304"
+    ],
+    "enr": [
+      "2168596"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-19",
+    "datumEnde": "2024-06-28",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Omeprazol Hennig 40 mg magensaftresistente Hartkapseln",
+    "atcCode": "A02BC01",
+    "wirkstoffe": "Omeprazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
+    "mail": "nicola.bruns@hennig-am.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-04-16",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02331310"
+    ],
+    "enr": [
+      "2168596"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-03-19",
+    "datumEnde": "2024-06-28",
+    "datumLetzteMeldung": "2024-06-25",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Omeprazol Hennig 40 mg magensaftresistente Hartkapseln",
+    "atcCode": "A02BC01",
+    "wirkstoffe": "Omeprazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
+    "mail": "nicola.bruns@hennig-am.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-04-16",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -67,54 +628,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Stock Out eines Mitbewerbers und dadurch stark erhöhte Abverkäufe aller Vancomycin SKUs seit Ende 2023",
     "datumErstmeldung": "2024-06-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11666512"
-    ],
-    "enr": [
-      "2201309"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-01",
-    "datumEnde": "2024-08-14",
-    "datumLetzteMeldung": "2024-06-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Vancomycin ENTEROCAPS 125 mg Hartkapseln",
-    "atcCode": "A07AA09",
-    "wirkstoffe": "Vancomycinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
-    "telefon": "030 3384270",
-    "mail": "info.germany@esteve.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "stark erhöhte Abverkäufe im Dezember und Januar durch Stock Out eines Wettbewerbers",
-    "datumErstmeldung": "2024-02-01",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11666529"
-    ],
-    "enr": [
-      "2201309"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-01",
-    "datumEnde": "2024-08-14",
-    "datumLetzteMeldung": "2024-06-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Vancomycin ENTEROCAPS 125 mg Hartkapseln",
-    "atcCode": "A07AA09",
-    "wirkstoffe": "Vancomycinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
-    "telefon": "030 3384270",
-    "mail": "info.germany@esteve.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "stark erhöhte Abverkäufe im Dezember und Januar durch Stock Out eines Wettbewerbers",
-    "datumErstmeldung": "2024-02-01",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2086,52 +2599,6 @@
   },
   {
     "pzn": [
-      "03516916"
-    ],
-    "enr": [
-      "2173187"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-17",
-    "datumEnde": "2024-06-24",
-    "datumLetzteMeldung": "2024-06-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Alendronsäure Bluefish 70 mg Tabletten",
-    "atcCode": "M05BA04",
-    "wirkstoffe": "Natriumalendronat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Bluefish Pharmaceuticals AB (publ)",
-    "telefon": "00436601373322",
-    "mail": "mariam.motamen@bluefishpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-06-17",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03531212"
-    ],
-    "enr": [
-      "2173187"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-17",
-    "datumEnde": "2024-06-24",
-    "datumLetzteMeldung": "2024-06-17",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Alendronsäure Bluefish 70 mg Tabletten",
-    "atcCode": "M05BA04",
-    "wirkstoffe": "Natriumalendronat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Bluefish Pharmaceuticals AB (publ)",
-    "telefon": "00436601373322",
-    "mail": "mariam.motamen@bluefishpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-06-17",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04938370"
     ],
     "enr": [
@@ -3508,28 +3975,6 @@
     "mail": "info@1apharma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-12-22",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07116993"
-    ],
-    "enr": [
-      "2160507"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-02",
-    "datumEnde": "2024-06-20",
-    "datumLetzteMeldung": "2024-06-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin 500 - 1 A Pharma",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2024-04-19",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5149,28 +5594,6 @@
   },
   {
     "pzn": [
-      "10735524"
-    ],
-    "enr": [
-      "2189578"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-05",
-    "datumEnde": "2024-06-18",
-    "datumLetzteMeldung": "2024-06-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Paricalcitol HEXAL 5 Mikrogramm/ml Injektionslösung",
-    "atcCode": "H05BX02",
-    "wirkstoffe": "Paricalcitol",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-06-05",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
       "01116414"
     ],
     "enr": [
@@ -6108,29 +6531,6 @@
   },
   {
     "pzn": [
-      "06140937"
-    ],
-    "enr": [
-      "2705330"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2024-05-30",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "TOVIAZ 4 mg Retardtabletten - OP84",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-10-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "10796342"
     ],
     "enr": [
@@ -6417,72 +6817,6 @@
   },
   {
     "pzn": [
-      "02331304"
-    ],
-    "enr": [
-      "2168596"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-03-19",
-    "datumEnde": "2024-06-28",
-    "datumLetzteMeldung": "2024-05-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Omeprazol Hennig 40 mg magensaftresistente Hartkapseln",
-    "atcCode": "A02BC01",
-    "wirkstoffe": "Omeprazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
-    "mail": "nicola.bruns@hennig-am.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-04-16",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02331310"
-    ],
-    "enr": [
-      "2168596"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-03-19",
-    "datumEnde": "2024-06-28",
-    "datumLetzteMeldung": "2024-05-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Omeprazol Hennig 40 mg magensaftresistente Hartkapseln",
-    "atcCode": "A02BC01",
-    "wirkstoffe": "Omeprazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
-    "mail": "nicola.bruns@hennig-am.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-04-16",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02331451"
-    ],
-    "enr": [
-      "2168596"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-03-19",
-    "datumEnde": "2024-06-28",
-    "datumLetzteMeldung": "2024-05-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Omeprazol Hennig 40 mg magensaftresistente Hartkapseln",
-    "atcCode": "A02BC01",
-    "wirkstoffe": "Omeprazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hennig Arzneimittel GmbH & Co KG",
-    "mail": "nicola.bruns@hennig-am.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-04-16",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "11331875"
     ],
     "enr": [
@@ -6764,52 +7098,6 @@
     "mail": "service@hormosan.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2023-12-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16927236"
-    ],
-    "enr": [
-      "7000562"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-19",
-    "datumEnde": "2024-06-17",
-    "datumLetzteMeldung": "2024-05-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Eletrip-Hormosan 40 mg Filmtabletten",
-    "atcCode": "N02CC06",
-    "wirkstoffe": "Eletriptanhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-02-22",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16927242"
-    ],
-    "enr": [
-      "7000562"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-19",
-    "datumEnde": "2024-06-17",
-    "datumLetzteMeldung": "2024-05-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Eletrip-Hormosan 40 mg Filmtabletten",
-    "atcCode": "N02CC06",
-    "wirkstoffe": "Eletriptanhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-02-22",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -7986,75 +8274,6 @@
     "grundAnmerkung": "Probleme bei der Herstellung der Tabletten",
     "datumErstmeldung": "2024-04-24",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00000000"
-    ],
-    "enr": [
-      "2114031"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-05-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2024-05-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxicillin AL TS",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-05-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04751588"
-    ],
-    "enr": [
-      "2114031"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-05-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2024-05-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxicillin AL TS",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-05-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09424428"
-    ],
-    "enr": [
-      "2114031"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-05-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2024-05-15",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxicillin AL TS",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-05-15",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -13586,30 +13805,6 @@
   },
   {
     "pzn": [
-      "00000000"
-    ],
-    "enr": [
-      "2670698",
-      "2670699"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-03-01",
-    "datumEnde": "2024-08-15",
-    "datumLetzteMeldung": "2024-03-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Scintimun",
-    "atcCode": "V09HA03",
-    "wirkstoffe": "Besilesomab",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "CIS bio international",
-    "mail": "annette.brinker-ext@curiumpharma.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Medi-Exametazim - Einreichungsnummer: 2186253",
-    "datumErstmeldung": "2024-03-20",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
       "11304915"
     ],
     "enr": [
@@ -16247,121 +16442,6 @@
     "grundAnmerkung": "NA",
     "alternativPraeparat": "NovoNorm 1 mg Tabletten - OP120 - Einreichungsnummer: 2700419",
     "datumErstmeldung": "2023-10-18",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000"
-    ],
-    "enr": [
-      "2182983"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ibandronsäure AL 2 mg Konzentrat zur Herstellung einer Infusionslösung",
-    "atcCode": "M05BA06",
-    "wirkstoffe": "Mononatriumibandronat 1 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-04-19",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09530484"
-    ],
-    "enr": [
-      "2182983"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ibandronsäure AL 2 mg Konzentrat zur Herstellung einer Infusionslösung",
-    "atcCode": "M05BA06",
-    "wirkstoffe": "Mononatriumibandronat 1 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-04-19",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000"
-    ],
-    "enr": [
-      "2144336"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-31",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Selegilin AL 5",
-    "atcCode": "N04BD01",
-    "wirkstoffe": "Selegilinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-08-31",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00569510"
-    ],
-    "enr": [
-      "2144336"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-31",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Selegilin AL 5",
-    "atcCode": "N04BD01",
-    "wirkstoffe": "Selegilinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-08-31",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04173157"
-    ],
-    "enr": [
-      "2144336"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-08-31",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-12-13",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Selegilin AL 5",
-    "atcCode": "N04BD01",
-    "wirkstoffe": "Selegilinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2022-08-31",
     "infoFachkreise": "Vorgesehen"
   },
   {
