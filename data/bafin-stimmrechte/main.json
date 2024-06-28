@@ -1306,6 +1306,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-06-27",
+    "emittent": {
+      "name": "JENOPTIK Aktiengesellschaft",
+      "sitz": "Jena",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Amundi S.A.",
+      "sitz": "Paris",
+      "land": "Frankreich"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.01,
+      "instrumente": 0,
+      "summe": 3.01
+    }
+  },
+  {
     "veroeffentlichung": "2024-06-12",
     "emittent": {
       "name": "GEA Group Aktiengesellschaft",
@@ -1357,24 +1375,6 @@
       "gesamt": 5.23,
       "instrumente": 0,
       "summe": 5.23
-    }
-  },
-  {
-    "veroeffentlichung": "2024-06-25",
-    "emittent": {
-      "name": "COMMERZBANK Aktiengesellschaft",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Amundi S.A.",
-      "sitz": "Paris",
-      "land": "Frankreich"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0.21,
-      "summe": 3.23
     }
   },
   {
@@ -3946,24 +3946,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-18",
-    "emittent": {
-      "name": "SMA Solar Technology AG",
-      "sitz": "Niestetal",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.12,
-      "instrumente": 0.52,
-      "summe": 3.65
-    }
-  },
-  {
     "veroeffentlichung": "2024-05-24",
     "emittent": {
       "name": "Siemens Energy AG",
@@ -4054,7 +4036,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-26",
+    "veroeffentlichung": "2024-06-27",
     "emittent": {
       "name": "Rheinmetall Aktiengesellschaft",
       "sitz": "Düsseldorf",
@@ -4066,9 +4048,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.16,
-      "instrumente": 0.37,
-      "summe": 5.54
+      "gesamt": 5.18,
+      "instrumente": 0.33,
+      "summe": 5.52
     }
   },
   {
@@ -4105,6 +4087,24 @@
       "gesamt": 4.35,
       "instrumente": 0.46,
       "summe": 4.81
+    }
+  },
+  {
+    "veroeffentlichung": "2024-06-27",
+    "emittent": {
+      "name": "Nordex SE",
+      "sitz": "Rostock",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "BlackRock, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.02,
+      "instrumente": 1.48,
+      "summe": 4.5
     }
   },
   {
@@ -4180,7 +4180,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-20",
+    "veroeffentlichung": "2024-06-27",
     "emittent": {
       "name": "Mercedes-Benz Group AG",
       "sitz": "Stuttgart",
@@ -4192,13 +4192,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.73,
-      "instrumente": 0.27,
-      "summe": 5.01
+      "gesamt": 4.9,
+      "instrumente": 0.1,
+      "summe": 4.999
     }
   },
   {
-    "veroeffentlichung": "2024-06-25",
+    "veroeffentlichung": "2024-06-27",
     "emittent": {
       "name": "LEG Immobilien SE",
       "sitz": "Düsseldorf",
@@ -4210,9 +4210,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 11.32,
+      "gesamt": 11.3,
       "instrumente": 0.18,
-      "summe": 11.5
+      "summe": 11.48
     }
   },
   {
@@ -4306,7 +4306,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-26",
+    "veroeffentlichung": "2024-06-27",
     "emittent": {
       "name": "Heidelberg Materials AG",
       "sitz": "Heidelberg",
@@ -4318,9 +4318,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.13,
-      "instrumente": 0.17,
-      "summe": 5.3
+      "gesamt": 4.61,
+      "instrumente": 0.15,
+      "summe": 4.76
     }
   },
   {
@@ -4378,7 +4378,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-06",
+    "veroeffentlichung": "2024-06-27",
     "emittent": {
       "name": "GEA Group Aktiengesellschaft",
       "sitz": "Düsseldorf",
@@ -4390,9 +4390,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.56,
-      "instrumente": 0.09,
-      "summe": 6.64
+      "gesamt": 6.29,
+      "instrumente": 0.03,
+      "summe": 6.32
     }
   },
   {
@@ -4504,7 +4504,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-14",
+    "veroeffentlichung": "2024-06-27",
     "emittent": {
       "name": "Deutsche Post AG",
       "sitz": "Bonn",
@@ -4516,9 +4516,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.83,
-      "instrumente": 0.16,
-      "summe": 4.99
+      "gesamt": 4.69,
+      "instrumente": 0.31,
+      "summe": 4.998
     }
   },
   {
@@ -4594,7 +4594,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-25",
+    "veroeffentlichung": "2024-06-27",
     "emittent": {
       "name": "CTS Eventim AG & Co. KGaA",
       "sitz": "München",
@@ -4606,8 +4606,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.02,
-      "instrumente": 0.27,
+      "gesamt": 5.05,
+      "instrumente": 0.24,
       "summe": 5.29
     }
   },
@@ -4648,7 +4648,25 @@
     }
   },
   {
-    "veroeffentlichung": "2024-05-27",
+    "veroeffentlichung": "2024-06-26",
+    "emittent": {
+      "name": "CANCOM SE",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "BlackRock, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.18,
+      "instrumente": 0.07,
+      "summe": 3.26
+    }
+  },
+  {
+    "veroeffentlichung": "2024-06-27",
     "emittent": {
       "name": "Brenntag SE",
       "sitz": "Essen",
@@ -4660,9 +4678,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.97,
-      "instrumente": 0.1,
-      "summe": 5.07
+      "gesamt": 5.12,
+      "instrumente": 0.11,
+      "summe": 5.24
     }
   },
   {
@@ -8285,24 +8303,6 @@
       "gesamt": 7.56,
       "instrumente": 0,
       "summe": 7.56
-    }
-  },
-  {
-    "veroeffentlichung": "2024-06-19",
-    "emittent": {
-      "name": "AUTO1 Group SE",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "DWS Investment GmbH",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.47,
-      "instrumente": 0,
-      "summe": 4.47
     }
   },
   {
@@ -15947,7 +15947,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-24",
+    "veroeffentlichung": "2024-06-26",
     "emittent": {
       "name": "PNE AG",
       "sitz": "Cuxhaven",
@@ -15959,13 +15959,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.16,
-      "instrumente": 0.98,
-      "summe": 6.15
+      "gesamt": 4.73,
+      "instrumente": 0.99,
+      "summe": 5.72
     }
   },
   {
-    "veroeffentlichung": "2024-06-25",
+    "veroeffentlichung": "2024-06-26",
     "emittent": {
       "name": "K+S Aktiengesellschaft",
       "sitz": "Kassel",
@@ -15977,13 +15977,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.63,
-      "instrumente": 3.64,
-      "summe": 5.27
+      "gesamt": 2.58,
+      "instrumente": 3.92,
+      "summe": 6.51
     }
   },
   {
-    "veroeffentlichung": "2024-06-21",
+    "veroeffentlichung": "2024-06-26",
     "emittent": {
       "name": "HelloFresh SE",
       "sitz": "Berlin",
@@ -15995,9 +15995,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.01,
-      "instrumente": 4.64,
-      "summe": 5.65
+      "gesamt": 2.32,
+      "instrumente": 3.88,
+      "summe": 6.2
     }
   },
   {
@@ -16176,6 +16176,24 @@
       "gesamt": 3.017,
       "instrumente": 0,
       "summe": 3.017
+    }
+  },
+  {
+    "veroeffentlichung": "2024-06-26",
+    "emittent": {
+      "name": "H2 Core AG",
+      "sitz": "Heidelberg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Jörgensen, Beke",
+      "sitz": "",
+      "land": ""
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 15.23,
+      "instrumente": 0,
+      "summe": 15.23
     }
   },
   {
@@ -16547,7 +16565,7 @@
     }
   },
   {
-    "veroeffentlichung": "2022-11-02",
+    "veroeffentlichung": "2024-06-27",
     "emittent": {
       "name": "SÜSS MicroTec SE",
       "sitz": "Garching b.München",
@@ -16559,9 +16577,9 @@
       "land": "Niederlande"
     },
     "stimmrechtsanteile": {
-      "gesamt": 10.01,
+      "gesamt": 9.99,
       "instrumente": 0,
-      "summe": 10.01
+      "summe": 9.99
     }
   },
   {
@@ -27103,7 +27121,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-04",
+    "veroeffentlichung": "2024-06-27",
     "emittent": {
       "name": "K+S Aktiengesellschaft",
       "sitz": "Kassel",
@@ -27115,9 +27133,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.02,
-      "instrumente": 1.17,
-      "summe": 5.19
+      "gesamt": 5.06,
+      "instrumente": 3.18,
+      "summe": 8.24
     }
   },
   {
@@ -30401,24 +30419,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-04",
-    "emittent": {
-      "name": "TUI AG",
-      "sitz": "Hannover",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Société Générale S.A.",
-      "sitz": "Paris",
-      "land": "Frankreich"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.93,
-      "instrumente": 4.07,
-      "summe": 5
-    }
-  },
-  {
     "veroeffentlichung": "2024-03-25",
     "emittent": {
       "name": "Rheinmetall Aktiengesellschaft",
@@ -30780,24 +30780,6 @@
       "gesamt": 3.36,
       "instrumente": 0.01,
       "summe": 3.37
-    }
-  },
-  {
-    "veroeffentlichung": "2024-06-17",
-    "emittent": {
-      "name": "Eckert & Ziegler SE",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Staat Norwegen",
-      "sitz": "Oslo",
-      "land": "Norwegen"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.24,
-      "instrumente": 0.17,
-      "summe": 3.41
     }
   },
   {
@@ -32956,24 +32938,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-24",
-    "emittent": {
-      "name": "TUI AG",
-      "sitz": "Hannover",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.04,
-      "instrumente": 4.99,
-      "summe": 5.03
-    }
-  },
-  {
     "veroeffentlichung": "2024-06-26",
     "emittent": {
       "name": "thyssenkrupp AG",
@@ -33100,7 +33064,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-24",
+    "veroeffentlichung": "2024-06-26",
     "emittent": {
       "name": "Mercedes-Benz Group AG",
       "sitz": "Stuttgart",
@@ -33112,9 +33076,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.52,
-      "instrumente": 4.82,
-      "summe": 5.34
+      "gesamt": 0.24,
+      "instrumente": 5.09,
+      "summe": 5.33
     }
   },
   {
@@ -33208,7 +33172,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-24",
+    "veroeffentlichung": "2024-06-27",
     "emittent": {
       "name": "Deutsche Pfandbriefbank AG",
       "sitz": "München",
@@ -33220,9 +33184,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.5,
-      "instrumente": 8.61,
-      "summe": 9.11
+      "gesamt": 0.34,
+      "instrumente": 8.15,
+      "summe": 8.49
     }
   },
   {
@@ -33835,6 +33799,24 @@
       "gesamt": 2.29,
       "instrumente": 7.48,
       "summe": 9.77
+    }
+  },
+  {
+    "veroeffentlichung": "2024-06-27",
+    "emittent": {
+      "name": "ENCAVIS AG",
+      "sitz": "Hamburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "UBS Group AG",
+      "sitz": "Zürich",
+      "land": "Schweiz"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 2.99,
+      "instrumente": 2.03,
+      "summe": 5.02
     }
   },
   {
@@ -36370,7 +36352,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-10-13",
+    "veroeffentlichung": "2024-06-27",
     "emittent": {
       "name": "Brenntag SE",
       "sitz": "Essen",
@@ -36382,9 +36364,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.02,
-      "instrumente": 0.03,
-      "summe": 5.05
+      "gesamt": 4.55,
+      "instrumente": 0.02,
+      "summe": 4.57
     }
   },
   {
