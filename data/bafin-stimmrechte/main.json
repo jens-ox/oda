@@ -4090,24 +4090,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-27",
-    "emittent": {
-      "name": "Nordex SE",
-      "sitz": "Rostock",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 1.48,
-      "summe": 4.5
-    }
-  },
-  {
     "veroeffentlichung": "2022-05-06",
     "emittent": {
       "name": "Nemetschek SE",
@@ -4594,7 +4576,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-27",
+    "veroeffentlichung": "2024-06-28",
     "emittent": {
       "name": "CTS Eventim AG & Co. KGaA",
       "sitz": "München",
@@ -4606,9 +4588,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.05,
+      "gesamt": 5.02,
       "instrumente": 0.24,
-      "summe": 5.29
+      "summe": 5.26
     }
   },
   {
@@ -11059,7 +11041,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-25",
+    "veroeffentlichung": "2024-06-28",
     "emittent": {
       "name": "WashTec AG",
       "sitz": "Augsburg",
@@ -11071,9 +11053,9 @@
       "land": "Niederlande"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.09,
+      "gesamt": 5.03,
       "instrumente": 0,
-      "summe": 3.09
+      "summe": 5.03
     }
   },
   {
@@ -11359,7 +11341,7 @@
     }
   },
   {
-    "veroeffentlichung": "2020-03-16",
+    "veroeffentlichung": "2024-06-27",
     "emittent": {
       "name": "Nexus AG",
       "sitz": "Donaueschingen",
@@ -11371,9 +11353,9 @@
       "land": ""
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.41,
+      "gesamt": 5.96,
       "instrumente": 0,
-      "summe": 6.41
+      "summe": 5.96
     }
   },
   {
@@ -21889,7 +21871,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-25",
+    "veroeffentlichung": "2024-06-28",
     "emittent": {
       "name": "WashTec AG",
       "sitz": "Augsburg",
@@ -21901,9 +21883,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.93,
-      "instrumente": 2.36,
-      "summe": 7.3
+      "gesamt": 5.92,
+      "instrumente": 2.34,
+      "summe": 8.26
     }
   },
   {
@@ -21997,7 +21979,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-07",
+    "veroeffentlichung": "2024-06-28",
     "emittent": {
       "name": "Nagarro SE",
       "sitz": "München",
@@ -22009,9 +21991,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.01,
-      "instrumente": 10.05,
-      "summe": 12.06
+      "gesamt": 1.96,
+      "instrumente": 9.67,
+      "summe": 11.63
     }
   },
   {
@@ -22123,10 +22105,10 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-26",
+    "veroeffentlichung": "2024-06-28",
     "emittent": {
-      "name": "Delivery Hero SE",
-      "sitz": "Berlin",
+      "name": "Bilfinger SE",
+      "sitz": "Mannheim",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -22135,9 +22117,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.01,
-      "instrumente": 1.73,
-      "summe": 4.74
+      "gesamt": 3.03,
+      "instrumente": 1.9,
+      "summe": 4.93
     }
   },
   {
@@ -22156,6 +22138,24 @@
       "gesamt": 8.41,
       "instrumente": 7.16,
       "summe": 15.57
+    }
+  },
+  {
+    "veroeffentlichung": "2024-06-28",
+    "emittent": {
+      "name": "ADTRAN Holdings, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "meldepflichtiger": {
+      "name": "Morgan Stanley",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.37,
+      "instrumente": 1.54,
+      "summe": 4.91
     }
   },
   {
@@ -30675,6 +30675,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-06-27",
+    "emittent": {
+      "name": "thyssenkrupp AG",
+      "sitz": "Essen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Staat Norwegen",
+      "sitz": "Oslo",
+      "land": "Norwegen"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.23,
+      "instrumente": 0,
+      "summe": 3.23
+    }
+  },
+  {
     "veroeffentlichung": "2023-11-24",
     "emittent": {
       "name": "TeamViewer SE",
@@ -30780,24 +30798,6 @@
       "gesamt": 3.36,
       "instrumente": 0.01,
       "summe": 3.37
-    }
-  },
-  {
-    "veroeffentlichung": "2023-07-24",
-    "emittent": {
-      "name": "Covestro AG",
-      "sitz": "Leverkusen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Staat Norwegen",
-      "sitz": "Oslo",
-      "land": "Norwegen"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.56,
-      "instrumente": 0.91,
-      "summe": 4.47
     }
   },
   {
@@ -32116,7 +32116,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-26",
+    "veroeffentlichung": "2024-06-27",
     "emittent": {
       "name": "Evotec SE",
       "sitz": "Hamburg",
@@ -32128,9 +32128,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 9.29,
-      "instrumente": 0.57,
-      "summe": 9.86
+      "gesamt": 9.23,
+      "instrumente": 0.56,
+      "summe": 9.79
     }
   },
   {
@@ -32938,24 +32938,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-26",
-    "emittent": {
-      "name": "thyssenkrupp AG",
-      "sitz": "Essen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.03,
-      "instrumente": 5.04,
-      "summe": 5.07
-    }
-  },
-  {
     "veroeffentlichung": "2024-05-17",
     "emittent": {
       "name": "TeamViewer SE",
@@ -33190,7 +33172,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-21",
+    "veroeffentlichung": "2024-06-28",
     "emittent": {
       "name": "Delivery Hero SE",
       "sitz": "Berlin",
@@ -33202,9 +33184,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.36,
-      "instrumente": 10.86,
-      "summe": 11.22
+      "gesamt": 0.05,
+      "instrumente": 9.25,
+      "summe": 9.3
     }
   },
   {
@@ -33262,7 +33244,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-17",
+    "veroeffentlichung": "2024-06-28",
     "emittent": {
       "name": "Adtran Networks SE",
       "sitz": "Meiningen",
@@ -33274,9 +33256,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.86,
-      "instrumente": 5.18,
-      "summe": 12.05
+      "gesamt": 5.88,
+      "instrumente": 6.17,
+      "summe": 12.04
     }
   },
   {
@@ -33799,24 +33781,6 @@
       "gesamt": 2.29,
       "instrumente": 7.48,
       "summe": 9.77
-    }
-  },
-  {
-    "veroeffentlichung": "2024-06-27",
-    "emittent": {
-      "name": "ENCAVIS AG",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "UBS Group AG",
-      "sitz": "Zürich",
-      "land": "Schweiz"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 2.99,
-      "instrumente": 2.03,
-      "summe": 5.02
     }
   },
   {
