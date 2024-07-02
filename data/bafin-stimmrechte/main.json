@@ -1092,7 +1092,7 @@
   {
     "veroeffentlichung": "2022-12-09",
     "emittent": {
-      "name": "Viscom AG",
+      "name": "Viscom SE",
       "sitz": "Hannover",
       "land": "Deutschland"
     },
@@ -2790,6 +2790,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-06-28",
+    "emittent": {
+      "name": "thyssenkrupp AG",
+      "sitz": "Essen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Bank of America Corporation",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.26,
+      "instrumente": 4.76,
+      "summe": 5.02
+    }
+  },
+  {
     "veroeffentlichung": "2024-01-19",
     "emittent": {
       "name": "Manz AG",
@@ -3560,7 +3578,7 @@
   {
     "veroeffentlichung": "2020-01-02",
     "emittent": {
-      "name": "iQ International AG",
+      "name": "iQ International AG in Liquidation",
       "sitz": "Zug",
       "land": "Schweiz"
     },
@@ -4162,7 +4180,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-27",
+    "veroeffentlichung": "2024-07-01",
     "emittent": {
       "name": "Mercedes-Benz Group AG",
       "sitz": "Stuttgart",
@@ -4174,9 +4192,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.9,
-      "instrumente": 0.1,
-      "summe": 4.999
+      "gesamt": 4.66,
+      "instrumente": 0.34,
+      "summe": 5.0004
     }
   },
   {
@@ -4486,7 +4504,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-27",
+    "veroeffentlichung": "2024-06-28",
     "emittent": {
       "name": "Deutsche Post AG",
       "sitz": "Bonn",
@@ -4498,13 +4516,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.69,
+      "gesamt": 4.7,
       "instrumente": 0.31,
-      "summe": 4.998
+      "summe": 5.005
     }
   },
   {
-    "veroeffentlichung": "2023-05-15",
+    "veroeffentlichung": "2024-07-01",
     "emittent": {
       "name": "Deutsche Lufthansa Aktiengesellschaft",
       "sitz": "Köln",
@@ -4516,9 +4534,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.14,
-      "instrumente": 0.31,
-      "summe": 3.44
+      "gesamt": 3.06,
+      "instrumente": 0.98,
+      "summe": 4.04
     }
   },
   {
@@ -4828,7 +4846,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-25",
+    "veroeffentlichung": "2024-06-28",
     "emittent": {
       "name": "adidas AG",
       "sitz": "Herzogenaurach",
@@ -4840,9 +4858,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.42,
+      "gesamt": 6.43,
       "instrumente": 0.13,
-      "summe": 6.55
+      "summe": 6.57
     }
   },
   {
@@ -7304,7 +7322,7 @@
   {
     "veroeffentlichung": "2020-11-06",
     "emittent": {
-      "name": "InTiCa Systems AG",
+      "name": "InTiCa Systems SE",
       "sitz": "Passau",
       "land": "Deutschland"
     },
@@ -8020,7 +8038,7 @@
   {
     "veroeffentlichung": "2020-01-03",
     "emittent": {
-      "name": "iQ International AG",
+      "name": "iQ International AG in Liquidation",
       "sitz": "Zug",
       "land": "Schweiz"
     },
@@ -8836,24 +8854,6 @@
     }
   },
   {
-    "veroeffentlichung": "2020-10-29",
-    "emittent": {
-      "name": "SolarWorld Aktiengesellschaft",
-      "sitz": "Bonn",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Eller, Joachim",
-      "sitz": "",
-      "land": ""
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 5.07,
-      "instrumente": 0,
-      "summe": 5.07
-    }
-  },
-  {
     "veroeffentlichung": "2021-09-21",
     "emittent": {
       "name": "Elmos Semiconductor SE",
@@ -9186,7 +9186,7 @@
   {
     "veroeffentlichung": "2020-01-03",
     "emittent": {
-      "name": "iQ International AG",
+      "name": "iQ International AG in Liquidation",
       "sitz": "Zug",
       "land": "Schweiz"
     },
@@ -9428,7 +9428,7 @@
   {
     "veroeffentlichung": "2013-03-21",
     "emittent": {
-      "name": "Fielmann Aktiengesellschaft",
+      "name": "Fielmann Group AG",
       "sitz": "Hamburg",
       "land": "Deutschland"
     },
@@ -9444,7 +9444,7 @@
   {
     "veroeffentlichung": "2013-03-21",
     "emittent": {
-      "name": "Fielmann Aktiengesellschaft",
+      "name": "Fielmann Group AG",
       "sitz": "Hamburg",
       "land": "Deutschland"
     },
@@ -9460,7 +9460,7 @@
   {
     "veroeffentlichung": "2013-04-12",
     "emittent": {
-      "name": "Fielmann Aktiengesellschaft",
+      "name": "Fielmann Group AG",
       "sitz": "Hamburg",
       "land": "Deutschland"
     },
@@ -9476,7 +9476,7 @@
   {
     "veroeffentlichung": "2013-04-12",
     "emittent": {
-      "name": "Fielmann Aktiengesellschaft",
+      "name": "Fielmann Group AG",
       "sitz": "Hamburg",
       "land": "Deutschland"
     },
@@ -11395,7 +11395,7 @@
   {
     "veroeffentlichung": "2012-09-18",
     "emittent": {
-      "name": "InTiCa Systems AG",
+      "name": "InTiCa Systems SE",
       "sitz": "Passau",
       "land": "Deutschland"
     },
@@ -13875,7 +13875,7 @@
   {
     "veroeffentlichung": "2023-06-30",
     "emittent": {
-      "name": "LEWAG Holding AG",
+      "name": "LEWAG Holding Aktiengesellschaft",
       "sitz": "Beverungen",
       "land": "Deutschland"
     },
@@ -13893,7 +13893,7 @@
   {
     "veroeffentlichung": "2002-04-12",
     "emittent": {
-      "name": "LEWAG Holding AG",
+      "name": "LEWAG Holding Aktiengesellschaft",
       "sitz": "Beverungen",
       "land": "Deutschland"
     },
@@ -13959,7 +13959,7 @@
   {
     "veroeffentlichung": "2021-09-29",
     "emittent": {
-      "name": "Viscom AG",
+      "name": "Viscom SE",
       "sitz": "Hannover",
       "land": "Deutschland"
     },
@@ -13977,7 +13977,7 @@
   {
     "veroeffentlichung": "2021-09-29",
     "emittent": {
-      "name": "Viscom AG",
+      "name": "Viscom SE",
       "sitz": "Hannover",
       "land": "Deutschland"
     },
@@ -13995,7 +13995,7 @@
   {
     "veroeffentlichung": "2021-09-29",
     "emittent": {
-      "name": "Viscom AG",
+      "name": "Viscom SE",
       "sitz": "Hannover",
       "land": "Deutschland"
     },
@@ -14013,7 +14013,7 @@
   {
     "veroeffentlichung": "2002-04-12",
     "emittent": {
-      "name": "LEWAG Holding AG",
+      "name": "LEWAG Holding Aktiengesellschaft",
       "sitz": "Beverungen",
       "land": "Deutschland"
     },
@@ -14187,7 +14187,7 @@
   {
     "veroeffentlichung": "2015-01-07",
     "emittent": {
-      "name": "InTiCa Systems AG",
+      "name": "InTiCa Systems SE",
       "sitz": "Passau",
       "land": "Deutschland"
     },
@@ -15911,7 +15911,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-25",
+    "veroeffentlichung": "2024-07-01",
     "emittent": {
       "name": "Siemens Energy AG",
       "sitz": "München",
@@ -15923,9 +15923,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.79,
-      "instrumente": 4.36,
-      "summe": 6.14
+      "gesamt": 1.82,
+      "instrumente": 4.56,
+      "summe": 6.39
     }
   },
   {
@@ -15944,24 +15944,6 @@
       "gesamt": 4.73,
       "instrumente": 0.99,
       "summe": 5.72
-    }
-  },
-  {
-    "veroeffentlichung": "2024-06-26",
-    "emittent": {
-      "name": "K+S Aktiengesellschaft",
-      "sitz": "Kassel",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JPMORGAN CHASE & CO",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 2.58,
-      "instrumente": 3.92,
-      "summe": 6.51
     }
   },
   {
@@ -17233,7 +17215,7 @@
   {
     "veroeffentlichung": "2013-01-10",
     "emittent": {
-      "name": "Fielmann Aktiengesellschaft",
+      "name": "Fielmann Group AG",
       "sitz": "Hamburg",
       "land": "Deutschland"
     },
@@ -17543,7 +17525,7 @@
   {
     "veroeffentlichung": "2021-09-29",
     "emittent": {
-      "name": "Viscom AG",
+      "name": "Viscom SE",
       "sitz": "Hannover",
       "land": "Deutschland"
     },
@@ -19885,7 +19867,7 @@
   {
     "veroeffentlichung": "2021-01-27",
     "emittent": {
-      "name": "iQ International AG",
+      "name": "iQ International AG in Liquidation",
       "sitz": "Zug",
       "land": "Schweiz"
     },
@@ -19975,7 +19957,7 @@
   {
     "veroeffentlichung": "2015-01-07",
     "emittent": {
-      "name": "InTiCa Systems AG",
+      "name": "InTiCa Systems SE",
       "sitz": "Passau",
       "land": "Deutschland"
     },
@@ -22033,7 +22015,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-24",
+    "veroeffentlichung": "2024-06-28",
     "emittent": {
       "name": "HelloFresh SE",
       "sitz": "Berlin",
@@ -22045,9 +22027,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.2,
-      "instrumente": 8.28,
-      "summe": 12.48
+      "gesamt": 4.62,
+      "instrumente": 7.03,
+      "summe": 11.64
     }
   },
   {
@@ -23466,7 +23448,7 @@
   {
     "veroeffentlichung": "2021-09-29",
     "emittent": {
-      "name": "Viscom AG",
+      "name": "Viscom SE",
       "sitz": "Hannover",
       "land": "Deutschland"
     },
@@ -23484,7 +23466,7 @@
   {
     "veroeffentlichung": "2021-09-29",
     "emittent": {
-      "name": "Viscom AG",
+      "name": "Viscom SE",
       "sitz": "Hannover",
       "land": "Deutschland"
     },
@@ -23502,7 +23484,7 @@
   {
     "veroeffentlichung": "2021-09-29",
     "emittent": {
-      "name": "Viscom AG",
+      "name": "Viscom SE",
       "sitz": "Hannover",
       "land": "Deutschland"
     },
@@ -30675,24 +30657,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-27",
-    "emittent": {
-      "name": "thyssenkrupp AG",
-      "sitz": "Essen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Staat Norwegen",
-      "sitz": "Oslo",
-      "land": "Norwegen"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.23,
-      "instrumente": 0,
-      "summe": 3.23
-    }
-  },
-  {
     "veroeffentlichung": "2023-11-24",
     "emittent": {
       "name": "TeamViewer SE",
@@ -31308,24 +31272,6 @@
     }
   },
   {
-    "veroeffentlichung": "2017-08-31",
-    "emittent": {
-      "name": "SolarWorld Aktiengesellschaft",
-      "sitz": "Bonn",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "State of Qatar",
-      "sitz": "Doha",
-      "land": "Katar"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 29,
-      "instrumente": 0,
-      "summe": 29
-    }
-  },
-  {
     "veroeffentlichung": "2023-10-05",
     "emittent": {
       "name": "SCHOTT Pharma AG & Co. KGaA",
@@ -31540,7 +31486,7 @@
   {
     "veroeffentlichung": "2022-12-23",
     "emittent": {
-      "name": "Fielmann Aktiengesellschaft",
+      "name": "Fielmann Group AG",
       "sitz": "Hamburg",
       "land": "Deutschland"
     },
@@ -32116,7 +32062,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-27",
+    "veroeffentlichung": "2024-07-01",
     "emittent": {
       "name": "Evotec SE",
       "sitz": "Hamburg",
@@ -32128,8 +32074,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 9.23,
-      "instrumente": 0.56,
+      "gesamt": 9.32,
+      "instrumente": 0.47,
       "summe": 9.79
     }
   },
@@ -32974,7 +32920,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-06",
+    "veroeffentlichung": "2024-07-01",
     "emittent": {
       "name": "Siemens Energy AG",
       "sitz": "München",
@@ -32986,9 +32932,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.14,
-      "instrumente": 9.52,
-      "summe": 9.67
+      "gesamt": 0.24,
+      "instrumente": 8.72,
+      "summe": 8.96
     }
   },
   {
@@ -33010,7 +32956,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-24",
+    "veroeffentlichung": "2024-07-01",
     "emittent": {
       "name": "PNE AG",
       "sitz": "Cuxhaven",
@@ -33022,9 +32968,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.13,
-      "instrumente": 6.29,
-      "summe": 6.43
+      "gesamt": 0.01,
+      "instrumente": 6.24,
+      "summe": 6.25
     }
   },
   {
@@ -33043,24 +32989,6 @@
       "gesamt": 0.21,
       "instrumente": 5.34,
       "summe": 5.55
-    }
-  },
-  {
-    "veroeffentlichung": "2024-06-26",
-    "emittent": {
-      "name": "Mercedes-Benz Group AG",
-      "sitz": "Stuttgart",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.24,
-      "instrumente": 5.09,
-      "summe": 5.33
     }
   },
   {
@@ -35652,7 +35580,7 @@
   {
     "veroeffentlichung": "2012-09-18",
     "emittent": {
-      "name": "InTiCa Systems AG",
+      "name": "InTiCa Systems SE",
       "sitz": "Passau",
       "land": "Deutschland"
     },
@@ -36264,7 +36192,7 @@
   {
     "veroeffentlichung": "2020-01-31",
     "emittent": {
-      "name": "iQ International AG",
+      "name": "iQ International AG in Liquidation",
       "sitz": "Zug",
       "land": "Schweiz"
     },
