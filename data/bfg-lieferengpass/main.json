@@ -1,6 +1,490 @@
 [
   {
     "pzn": [
+      "00832373"
+    ],
+    "enr": [
+      "2128201"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-08",
+    "datumEnde": "2024-07-31",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Panoral500mg",
+    "atcCode": "J01DC04",
+    "wirkstoffe": "Cefaclor-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+    "telefon": "096289237670",
+    "mail": "schoeberl@eberth.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-07-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07373230"
+    ],
+    "enr": [
+      "2705749"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-03",
+    "datumEnde": "2024-07-18",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ZYPADHERA 210 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(483mg+3ml)",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapinembonat-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Cheplapharm Registration GmbH",
+    "telefon": "+49 7321 757 81-36",
+    "mail": "regulatory@cheplapharm-reg.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundAnmerkung": "Der Grund für den Lieferengpass ist ein Versorgungsproblem bei den Nadeln.",
+    "datumErstmeldung": "2024-06-03",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08472508"
+    ],
+    "enr": [
+      "2180324"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-08",
+    "datumEnde": "2024-07-16",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Risedronat Bluefish 35 mg Filmtabletten einmal wöchentlich",
+    "atcCode": "M05BA07",
+    "wirkstoffe": "Risedronat-Natrium-2,5-Hydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Bluefish Pharmaceuticals AB (publ)",
+    "telefon": "00436601373322",
+    "mail": "mariam.motamen@bluefishpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-07-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08472566"
+    ],
+    "enr": [
+      "2180324"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-08",
+    "datumEnde": "2024-07-16",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Risedronat Bluefish 35 mg Filmtabletten einmal wöchentlich",
+    "atcCode": "M05BA07",
+    "wirkstoffe": "Risedronat-Natrium-2,5-Hydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Bluefish Pharmaceuticals AB (publ)",
+    "telefon": "00436601373322",
+    "mail": "mariam.motamen@bluefishpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-07-09",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08872024"
+    ],
+    "enr": [
+      "2134011"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-27",
+    "datumEnde": "2024-09-11",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Bronchospray novo",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
+    "telefon": "6252957000",
+    "mail": "shortages@infectopharm.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-28",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01016960"
+    ],
+    "enr": [
+      "2134271"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2019-09-01",
+    "datumEnde": "2025-12-31",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ranitidin AbZ 300mg Filmtabletten",
+    "atcCode": "A02BA02",
+    "wirkstoffe": "Ranitidinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "telefon": "0800 10 117 07",
+    "mail": "info@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2019-09-20",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "01016977"
+    ],
+    "enr": [
+      "2134271"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2019-09-01",
+    "datumEnde": "2025-12-31",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ranitidin AbZ 300mg Filmtabletten",
+    "atcCode": "A02BA02",
+    "wirkstoffe": "Ranitidinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "telefon": "0800 10 117 07",
+    "mail": "info@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2019-09-20",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "99999999"
+    ],
+    "enr": [
+      "2134271"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2019-09-01",
+    "datumEnde": "2025-12-31",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ranitidin AbZ 300mg Filmtabletten",
+    "atcCode": "A02BA02",
+    "wirkstoffe": "Ranitidinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "telefon": "0800 10 117 07",
+    "mail": "info@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2019-09-20",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "01016931"
+    ],
+    "enr": [
+      "2134277"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2019-09-01",
+    "datumEnde": "2025-12-31",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ranitidin AbZ 150 mg Filmtabletten",
+    "atcCode": "A02BA02",
+    "wirkstoffe": "Ranitidinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "telefon": "0800 10 117 07",
+    "mail": "info@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2019-09-20",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "99999999"
+    ],
+    "enr": [
+      "2134277"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2019-09-01",
+    "datumEnde": "2025-12-31",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ranitidin AbZ 150 mg Filmtabletten",
+    "atcCode": "A02BA02",
+    "wirkstoffe": "Ranitidinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "telefon": "0800 10 117 07",
+    "mail": "info@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2019-09-20",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "07430749"
+    ],
+    "enr": [
+      "2134537"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2019-09-01",
+    "datumEnde": "2025-12-31",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ranitidin-ratiopharm 50mg/5ml Injektionslösung",
+    "atcCode": "A02BA02",
+    "wirkstoffe": "Ranitidinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0800 10 117 07",
+    "mail": "marketing-gx.tevade@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2019-09-20",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "99999999"
+    ],
+    "enr": [
+      "2134537"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2019-09-01",
+    "datumEnde": "2025-12-31",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ranitidin-ratiopharm 50mg/5ml Injektionslösung",
+    "atcCode": "A02BA02",
+    "wirkstoffe": "Ranitidinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0800 10 117 07",
+    "mail": "marketing-gx.tevade@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2019-09-20",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "07156343"
+    ],
+    "enr": [
+      "2134272"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2019-09-01",
+    "datumEnde": "2025-12-31",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ranitidin-ratiopharm 300mg Filmtabletten",
+    "atcCode": "A02BA02",
+    "wirkstoffe": "Ranitidinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0800 10 117 07",
+    "mail": "marketing-gx.tevade@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2019-09-20",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "07156372"
+    ],
+    "enr": [
+      "2134272"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2019-09-01",
+    "datumEnde": "2025-12-31",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ranitidin-ratiopharm 300mg Filmtabletten",
+    "atcCode": "A02BA02",
+    "wirkstoffe": "Ranitidinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0800 10 117 07",
+    "mail": "marketing-gx.tevade@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2019-09-20",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "07156389"
+    ],
+    "enr": [
+      "2134272"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2019-09-01",
+    "datumEnde": "2025-12-31",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ranitidin-ratiopharm 300mg Filmtabletten",
+    "atcCode": "A02BA02",
+    "wirkstoffe": "Ranitidinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0800 10 117 07",
+    "mail": "marketing-gx.tevade@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2019-09-20",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "99999999"
+    ],
+    "enr": [
+      "2134272"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2019-09-01",
+    "datumEnde": "2025-12-31",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ranitidin-ratiopharm 300mg Filmtabletten",
+    "atcCode": "A02BA02",
+    "wirkstoffe": "Ranitidinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0800 10 117 07",
+    "mail": "marketing-gx.tevade@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2019-09-20",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "07156314"
+    ],
+    "enr": [
+      "2134278"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2019-09-01",
+    "datumEnde": "2025-12-31",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ranitidin-ratiopharm 150mg Filmtabletten",
+    "atcCode": "A02BA02",
+    "wirkstoffe": "Ranitidinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0800 10 117 07",
+    "mail": "marketing-gx.tevade@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2019-09-20",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "07156320"
+    ],
+    "enr": [
+      "2134278"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2019-09-01",
+    "datumEnde": "2025-12-31",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ranitidin-ratiopharm 150mg Filmtabletten",
+    "atcCode": "A02BA02",
+    "wirkstoffe": "Ranitidinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0800 10 117 07",
+    "mail": "marketing-gx.tevade@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2019-09-20",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "07156337"
+    ],
+    "enr": [
+      "2134278"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2019-09-01",
+    "datumEnde": "2025-12-31",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ranitidin-ratiopharm 150mg Filmtabletten",
+    "atcCode": "A02BA02",
+    "wirkstoffe": "Ranitidinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0800 10 117 07",
+    "mail": "marketing-gx.tevade@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2019-09-20",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "99999999"
+    ],
+    "enr": [
+      "2134278"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2019-09-01",
+    "datumEnde": "2025-12-31",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ranitidin-ratiopharm 150mg Filmtabletten",
+    "atcCode": "A02BA02",
+    "wirkstoffe": "Ranitidinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "telefon": "0800 10 117 07",
+    "mail": "marketing-gx.tevade@ratiopharm.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2019-09-20",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "14358544"
+    ],
+    "enr": [
+      "2162812"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-02",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-07-09",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sulbactam Eberth 1000 mg",
+    "atcCode": "J01CG01",
+    "wirkstoffe": "Sulbactam-Natrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+    "mail": "schoeberl@eberth.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Erhöhter Abverkauf wegen Verknappung von Ampicillin/Sulbactam.",
+    "datumErstmeldung": "2024-04-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "18438174"
     ],
     "enr": [
@@ -5125,30 +5609,6 @@
   },
   {
     "pzn": [
-      "07373230"
-    ],
-    "enr": [
-      "2705749"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-03",
-    "datumEnde": "2024-07-10",
-    "datumLetzteMeldung": "2024-06-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ZYPADHERA 210 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(483mg+3ml)",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapinembonat-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Registration GmbH",
-    "telefon": "+49 7321 757 81-36",
-    "mail": "iva.gjolli@cheplapharm-reg.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundAnmerkung": "Der Grund für den Lieferengpass ist ein Versorgungsproblem bei den Nadeln.",
-    "datumErstmeldung": "2024-06-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "18021379"
     ],
     "enr": [
@@ -7831,52 +8291,6 @@
   },
   {
     "pzn": [
-      "07722179"
-    ],
-    "enr": [
-      "2134011"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-22",
-    "datumEnde": "2024-09-11",
-    "datumLetzteMeldung": "2024-06-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Bronchospray novo",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
-    "telefon": "6252957000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-03-28",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08872024"
-    ],
-    "enr": [
-      "2134011"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-22",
-    "datumEnde": "2024-09-11",
-    "datumLetzteMeldung": "2024-06-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Bronchospray novo",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
-    "telefon": "6252957000",
-    "mail": "shortages@infectopharm.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-03-28",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01138798"
     ],
     "enr": [
@@ -8988,29 +9402,6 @@
   },
   {
     "pzn": [
-      "00020540"
-    ],
-    "enr": [
-      "2703496"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-31",
-    "datumEnde": "2024-08-15",
-    "datumLetzteMeldung": "2024-05-30",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "TOVIAZ 8 mg Retardtabletten - OP28",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-10-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "12476587"
     ],
     "enr": [
@@ -9053,30 +9444,6 @@
     "mail": "kkrivanek@pha-res.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-05-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "10796342"
-    ],
-    "enr": [
-      "2703495"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-05",
-    "datumEnde": "2024-08-15",
-    "datumLetzteMeldung": "2024-05-30",
-    "grundArt": "Sonstige",
-    "bezeichnung": "TOVIAZ 8 mg Retardtabletten - OP14",
-    "atcCode": "G04BD11",
-    "wirkstoffe": "Fesoterodinfumarat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "grund": "Probleme beim Wirkstoffhersteller",
-    "alternativPraeparat": "Fesoterodin Aristo 8 mg Retardtabletten - Einreichungsnummer: 7000589",
-    "datumErstmeldung": "2023-05-30",
     "infoFachkreise": "Nein"
   },
   {
@@ -13506,29 +13873,6 @@
   },
   {
     "pzn": [
-      "14358544"
-    ],
-    "enr": [
-      "2162812"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-04-02",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2024-04-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sulbactam Eberth 1000 mg",
-    "atcCode": "J01CG01",
-    "wirkstoffe": "Sulbactam-Natrium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
-    "mail": "schoeberl@eberth.de",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhter Abverkauf wegen Verknappung von Ampicillin/Sulbactam.",
-    "datumErstmeldung": "2024-04-03",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01345824"
     ],
     "enr": [
@@ -16513,121 +16857,6 @@
   },
   {
     "pzn": [
-      "01016931"
-    ],
-    "enr": [
-      "2134277"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2019-09-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-07-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ranitidin AbZ 150 mg Filmtabletten",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "telefon": "0800 10 117 07",
-    "mail": "info@ratiopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2019-09-20",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "99999999"
-    ],
-    "enr": [
-      "2134277"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2019-09-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-07-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ranitidin AbZ 150 mg Filmtabletten",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "telefon": "0800 10 117 07",
-    "mail": "info@ratiopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2019-09-20",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "01016960"
-    ],
-    "enr": [
-      "2134271"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2019-09-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-07-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ranitidin AbZ 300mg Filmtabletten",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "telefon": "0800 10 117 07",
-    "mail": "info@ratiopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2019-09-20",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "01016977"
-    ],
-    "enr": [
-      "2134271"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2019-09-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-07-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ranitidin AbZ 300mg Filmtabletten",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "telefon": "0800 10 117 07",
-    "mail": "info@ratiopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2019-09-20",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "99999999"
-    ],
-    "enr": [
-      "2134271"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2019-09-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-07-18",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ranitidin AbZ 300mg Filmtabletten",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "telefon": "0800 10 117 07",
-    "mail": "info@ratiopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2019-09-20",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
       "03565553"
     ],
     "enr": [
@@ -16717,236 +16946,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2023-07-11",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "07156314"
-    ],
-    "enr": [
-      "2134278"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2019-09-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-06-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ranitidin-ratiopharm 150mg Filmtabletten",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "0800 10 117 07",
-    "mail": "marketing-gx.tevade@ratiopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2019-09-20",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "07156320"
-    ],
-    "enr": [
-      "2134278"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2019-09-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-06-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ranitidin-ratiopharm 150mg Filmtabletten",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "0800 10 117 07",
-    "mail": "marketing-gx.tevade@ratiopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2019-09-20",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "07156337"
-    ],
-    "enr": [
-      "2134278"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2019-09-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-06-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ranitidin-ratiopharm 150mg Filmtabletten",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "0800 10 117 07",
-    "mail": "marketing-gx.tevade@ratiopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2019-09-20",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "99999999"
-    ],
-    "enr": [
-      "2134278"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2019-09-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-06-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ranitidin-ratiopharm 150mg Filmtabletten",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "0800 10 117 07",
-    "mail": "marketing-gx.tevade@ratiopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2019-09-20",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "07156343"
-    ],
-    "enr": [
-      "2134272"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2019-09-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-06-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ranitidin-ratiopharm 300mg Filmtabletten",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "0800 10 117 07",
-    "mail": "marketing-gx.tevade@ratiopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2019-09-20",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "07156372"
-    ],
-    "enr": [
-      "2134272"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2019-09-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-06-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ranitidin-ratiopharm 300mg Filmtabletten",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "0800 10 117 07",
-    "mail": "marketing-gx.tevade@ratiopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2019-09-20",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "07156389"
-    ],
-    "enr": [
-      "2134272"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2019-09-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-06-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ranitidin-ratiopharm 300mg Filmtabletten",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "0800 10 117 07",
-    "mail": "marketing-gx.tevade@ratiopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2019-09-20",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "99999999"
-    ],
-    "enr": [
-      "2134272"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2019-09-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-06-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ranitidin-ratiopharm 300mg Filmtabletten",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "0800 10 117 07",
-    "mail": "marketing-gx.tevade@ratiopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2019-09-20",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "07430749"
-    ],
-    "enr": [
-      "2134537"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2019-09-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-06-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ranitidin-ratiopharm 50mg/5ml Injektionslösung",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "0800 10 117 07",
-    "mail": "marketing-gx.tevade@ratiopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2019-09-20",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "99999999"
-    ],
-    "enr": [
-      "2134537"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2019-09-01",
-    "datumEnde": "2024-06-30",
-    "datumLetzteMeldung": "2023-06-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ranitidin-ratiopharm 50mg/5ml Injektionslösung",
-    "atcCode": "A02BA02",
-    "wirkstoffe": "Ranitidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "telefon": "0800 10 117 07",
-    "mail": "marketing-gx.tevade@ratiopharm.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2019-09-20",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
