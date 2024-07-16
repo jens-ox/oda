@@ -1,6 +1,794 @@
 [
   {
     "pzn": [
+      "10174853"
+    ],
+    "enr": [
+      "2711549"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-06-27",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "NovoEight",
+    "atcCode": "B02BD02",
+    "wirkstoffe": "Turoctocog alfa",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "Probleme in der Filling Line",
+    "datumErstmeldung": "2024-06-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07373336"
+    ],
+    "enr": [
+      "2705751"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-03",
+    "datumEnde": "2024-07-31",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ZYPADHERA 405 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(931mg+3ml)",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapinembonat-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Cheplapharm Registration GmbH",
+    "telefon": "+49 7321 757 81-36",
+    "mail": "iva.gjolli@cheplapharm-reg.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundAnmerkung": "Der Grund für den Lieferengpass ist ein Versorgungsproblem bei den Nadeln.",
+    "datumErstmeldung": "2024-06-03",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06103741"
+    ],
+    "enr": [
+      "2178116"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-22",
+    "datumEnde": "2024-09-23",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Hydromorphon-dura 8 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Germany GmbH",
+    "telefon": "0800 0700 800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Sonstige",
+    "alternativPraeparat": "Hydromorphon-dura 16 mg Retardtabletten - Einreichungsnummer: 2178117",
+    "datumErstmeldung": "2024-02-26",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02178937"
+    ],
+    "enr": [
+      "2142282"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-16",
+    "datumEnde": "2024-08-02",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Progestan",
+    "atcCode": "G03DA",
+    "wirkstoffe": "Progesteron",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Besins Healthcare Germany GmbH",
+    "telefon": "+49 30 408199-161",
+    "mail": "MARKETACCESS.DE@BESINS-HEALTHCARE.COM",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Progestan - Einreichungsnummer: 2142282",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "12547583"
+    ],
+    "enr": [
+      "2194641"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-17",
+    "datumEnde": "2024-08-02",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Utrogest 100 mg Weichkapseln",
+    "atcCode": "G03DA04",
+    "wirkstoffe": "Progesteron",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Besins Healthcare Germany GmbH",
+    "telefon": "+49 30 408199-161",
+    "mail": "MARKETACCESS.DE@BESINS-HEALTHCARE.COM",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Progestan - Einreichungsnummer: 2142282",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00930845"
+    ],
+    "enr": [
+      "2122684"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "OeKolp forte Ovula 0,5 mg",
+    "atcCode": "G03CA04",
+    "wirkstoffe": "Estriol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Besins Healthcare Germany GmbH",
+    "telefon": "+49 30 408199-161",
+    "mail": "MARKETACCESS.DE@BESINS-HEALTHCARE.COM",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "OeKolp forte Ovula 0,5 mg - Einreichungsnummer: 2122684",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11047507"
+    ],
+    "enr": [
+      "2122684"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "OeKolp forte Ovula 0,5 mg",
+    "atcCode": "G03CA04",
+    "wirkstoffe": "Estriol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Besins Healthcare Germany GmbH",
+    "telefon": "+49 30 408199-161",
+    "mail": "MARKETACCESS.DE@BESINS-HEALTHCARE.COM",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "OeKolp forte Ovula 0,5 mg - Einreichungsnummer: 2122684",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01950726"
+    ],
+    "enr": [
+      "0451228"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-23",
+    "datumEnde": "2024-07-26",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Diprosone Depot 1 ml Ampulle",
+    "atcCode": "H02AB, R",
+    "wirkstoffe": "Betamethasondihydrogenphosphat-Dinatrium (Ph.Eur.); Betamethasondipropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Organon Healthcare GmbH",
+    "mail": "ra_dach@organon.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-04-23",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00190905"
+    ],
+    "enr": [
+      "0450944"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-09",
+    "datumEnde": "2024-07-26",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Celestan Depot",
+    "atcCode": "H02AB01",
+    "wirkstoffe": "Betamethasonacetat (Ph.Eur.); Betamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Organon Healthcare GmbH",
+    "mail": "ra_dach@organon.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-04-11",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14244266"
+    ],
+    "enr": [
+      "2202466"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 100 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "telefon": "01741856807",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244272"
+    ],
+    "enr": [
+      "2202466"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 100 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "telefon": "01741856807",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244220"
+    ],
+    "enr": [
+      "2202465"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 80 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244237"
+    ],
+    "enr": [
+      "2202465"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 80 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244243"
+    ],
+    "enr": [
+      "2202465"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 80 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244183"
+    ],
+    "enr": [
+      "2202464"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 60 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244208"
+    ],
+    "enr": [
+      "2202464"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 60 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244214"
+    ],
+    "enr": [
+      "2202464"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 60 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244125"
+    ],
+    "enr": [
+      "2202463"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 40 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244154"
+    ],
+    "enr": [
+      "2202463"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 40 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244160"
+    ],
+    "enr": [
+      "2202463"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 40 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244177"
+    ],
+    "enr": [
+      "2202463"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 40 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244071"
+    ],
+    "enr": [
+      "2202462"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 25 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244088"
+    ],
+    "enr": [
+      "2202462"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 25 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244102"
+    ],
+    "enr": [
+      "2202462"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 25 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244119"
+    ],
+    "enr": [
+      "2202462"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 25 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17987074"
+    ],
+    "enr": [
+      "7003152"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-02",
+    "datumEnde": "2024-08-05",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sitagliptin/Metforminhydrochlorid Mylan",
+    "atcCode": "A10BD07",
+    "wirkstoffe": "Metforminhydrochlorid; Sitagliptinhydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Ireland Limited",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2024-06-21",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14244036"
+    ],
+    "enr": [
+      "2202461"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 18 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244042"
+    ],
+    "enr": [
+      "2202461"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 18 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244059"
+    ],
+    "enr": [
+      "2202461"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 18 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244065"
+    ],
+    "enr": [
+      "2202461"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 18 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14243982"
+    ],
+    "enr": [
+      "2202460"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 10 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14243999"
+    ],
+    "enr": [
+      "2202460"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 10 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244007"
+    ],
+    "enr": [
+      "2202460"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 10 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14244013"
+    ],
+    "enr": [
+      "2202460"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-15",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin beta 10 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
+    "mail": "ulrich.wieland@drreddys.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-15",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00583094"
+    ],
+    "enr": [
+      "2142771"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-06",
+    "datumEnde": "2024-07-29",
+    "datumLetzteMeldung": "2024-07-15",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "SUBUTEX 8 mg",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Indivior Europe Limited",
+    "telefon": "+80027081901",
+    "mail": "PatientSafetyRoW@indivior.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-07-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "16911867"
     ],
     "enr": [
@@ -3596,28 +4384,6 @@
   },
   {
     "pzn": [
-      "01950726"
-    ],
-    "enr": [
-      "0451228"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-23",
-    "datumEnde": "2024-07-12",
-    "datumLetzteMeldung": "2024-07-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Diprosone Depot 1 ml Ampulle",
-    "atcCode": "H02AB, R",
-    "wirkstoffe": "Betamethasondihydrogenphosphat-Dinatrium (Ph.Eur.); Betamethasondipropionat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Organon Healthcare GmbH",
-    "mail": "ra_dach@organon.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-04-23",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "16200273"
     ],
     "enr": [
@@ -3665,28 +4431,6 @@
     "alternativPraeparat": "Neostig-Carinopharm 0,5 mg/ml - Einreichungsnummer: 0139471",
     "datumErstmeldung": "2024-07-01",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00190905"
-    ],
-    "enr": [
-      "0450944"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-09",
-    "datumEnde": "2024-07-15",
-    "datumLetzteMeldung": "2024-07-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Celestan Depot",
-    "atcCode": "H02AB01",
-    "wirkstoffe": "Betamethasonacetat (Ph.Eur.); Betamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Organon Healthcare GmbH",
-    "mail": "ra_dach@organon.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-04-11",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -4099,29 +4843,6 @@
     "mail": "regaffairs@dr-pfleger.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2024-07-01",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00583094"
-    ],
-    "enr": [
-      "2142771"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-06",
-    "datumEnde": "2024-07-15",
-    "datumLetzteMeldung": "2024-07-01",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "SUBUTEX 8 mg",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-07-19",
     "infoFachkreise": "Nein"
   },
   {
@@ -4586,31 +5307,6 @@
     "grundAnmerkung": "Nachfrage in Deutschland kann nur teilweise gedeckt werden",
     "datumErstmeldung": "2024-01-10",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "10174853"
-    ],
-    "enr": [
-      "2711549"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-27",
-    "datumEnde": "2024-08-31",
-    "datumLetzteMeldung": "2024-06-27",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "NovoEight",
-    "atcCode": "B02BD02",
-    "wirkstoffe": "Turoctocog alfa",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Probleme in der Filling Line",
-    "alternativPraeparat": "NovoEight - Einreichungsnummer: 2711550",
-    "datumErstmeldung": "2024-06-27",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -5595,29 +6291,6 @@
   },
   {
     "pzn": [
-      "17987074"
-    ],
-    "enr": [
-      "7003152"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-05-02",
-    "datumEnde": "2024-07-12",
-    "datumLetzteMeldung": "2024-06-21",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sitagliptin/Metforminhydrochlorid Mylan",
-    "atcCode": "A10BD07",
-    "wirkstoffe": "Metforminhydrochlorid; Sitagliptinhydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Ireland Limited",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2024-06-21",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "07712689"
     ],
     "enr": [
@@ -5913,53 +6586,6 @@
     "mail": "Pharma.Kundenservice@bausch.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-06-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07373307"
-    ],
-    "enr": [
-      "2705750"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-18",
-    "datumEnde": "2024-07-10",
-    "datumLetzteMeldung": "2024-06-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ZYPADHERA 300 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(690mg+3ml)",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapinembonat-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Cheplapharm Registration GmbH",
-    "mail": "iva.gjolli@cheplapharm-reg.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Nur das PZN 07373307 ist von dem Lieferengpass betroffen.Das PZN 07373313 ist wieder lieferbar.",
-    "datumErstmeldung": "2024-04-02",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07373336"
-    ],
-    "enr": [
-      "2705751"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-03",
-    "datumEnde": "2024-07-10",
-    "datumLetzteMeldung": "2024-06-20",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ZYPADHERA 405 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(931mg+3ml)",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapinembonat-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Registration GmbH",
-    "telefon": "+49 7321 757 81-36",
-    "mail": "iva.gjolli@cheplapharm-reg.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundAnmerkung": "Der Grund für den Lieferengpass ist ein Versorgungsproblem bei den Nadeln.",
-    "datumErstmeldung": "2024-06-03",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -6740,78 +7366,6 @@
     "mail": "kundenservice@viatris.com",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-06-18",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06103729"
-    ],
-    "enr": [
-      "2178116"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-22",
-    "datumEnde": "2024-09-23",
-    "datumLetzteMeldung": "2024-06-18",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon-dura 8 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Germany GmbH",
-    "telefon": "0800 0700 800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Sonstige",
-    "alternativPraeparat": "Hydromorphon-dura 16 mg Retardtabletten - Einreichungsnummer: 2178117",
-    "datumErstmeldung": "2024-02-26",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06103735"
-    ],
-    "enr": [
-      "2178116"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-22",
-    "datumEnde": "2024-09-23",
-    "datumLetzteMeldung": "2024-06-18",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon-dura 8 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Germany GmbH",
-    "telefon": "0800 0700 800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Sonstige",
-    "alternativPraeparat": "Hydromorphon-dura 16 mg Retardtabletten - Einreichungsnummer: 2178117",
-    "datumErstmeldung": "2024-02-26",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06103741"
-    ],
-    "enr": [
-      "2178116"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-22",
-    "datumEnde": "2024-09-23",
-    "datumLetzteMeldung": "2024-06-18",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon-dura 8 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Germany GmbH",
-    "telefon": "0800 0700 800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Sonstige",
-    "alternativPraeparat": "Hydromorphon-dura 16 mg Retardtabletten - Einreichungsnummer: 2178117",
-    "datumErstmeldung": "2024-02-26",
     "infoFachkreise": "Nein"
   },
   {
@@ -9618,29 +10172,6 @@
     "mail": "medical.information@pfizer.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2024-05-29",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01434120"
-    ],
-    "enr": [
-      "2145643"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-28",
-    "datumEnde": "2024-08-12",
-    "datumLetzteMeldung": "2024-05-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Felodipin STADA 10mg Retardtabletten",
-    "atcCode": "C08CA02",
-    "wirkstoffe": "Felodipin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "telefon": "+4961016033466",
-    "mail": "minyoung.seo@stadapharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-11-06",
     "infoFachkreise": "Vorgesehen"
   },
   {
