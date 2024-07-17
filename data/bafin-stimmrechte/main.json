@@ -16,6 +16,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-07-16",
+    "emittent": {
+      "name": "2invest AG",
+      "sitz": "Heidelberg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "2invest AG",
+      "sitz": "Heidelberg",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.04,
+      "instrumente": 0,
+      "summe": 0
+    }
+  },
+  {
     "veroeffentlichung": "2023-11-13",
     "emittent": {
       "name": "3U Holding AG",
@@ -4290,24 +4308,6 @@
   {
     "veroeffentlichung": "2024-07-11",
     "emittent": {
-      "name": "LANXESS Aktiengesellschaft",
-      "sitz": "Köln",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.002,
-      "instrumente": 0.83,
-      "summe": 3.83
-    }
-  },
-  {
-    "veroeffentlichung": "2024-07-11",
-    "emittent": {
       "name": "K+S Aktiengesellschaft",
       "sitz": "Kassel",
       "land": "Deutschland"
@@ -4450,7 +4450,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-07-08",
+    "veroeffentlichung": "2024-07-16",
     "emittent": {
       "name": "GEA Group Aktiengesellschaft",
       "sitz": "Düsseldorf",
@@ -4462,9 +4462,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.28,
-      "instrumente": 0.03,
-      "summe": 6.3
+      "gesamt": 6.24,
+      "instrumente": 0.05,
+      "summe": 6.29
     }
   },
   {
@@ -4666,7 +4666,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-07-09",
+    "veroeffentlichung": "2024-07-16",
     "emittent": {
       "name": "CTS Eventim AG & Co. KGaA",
       "sitz": "München",
@@ -4678,8 +4678,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.94,
-      "instrumente": 0.18,
+      "gesamt": 5.02,
+      "instrumente": 0.09,
       "summe": 5.12
     }
   },
@@ -4900,7 +4900,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-07-12",
+    "veroeffentlichung": "2024-07-15",
     "emittent": {
       "name": "ADTRAN Holdings, Inc.",
       "sitz": "Wilmington",
@@ -4912,9 +4912,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 8.27,
+      "gesamt": 8.23,
       "instrumente": 0.17,
-      "summe": 8.44
+      "summe": 8.4
     }
   },
   {
@@ -8357,6 +8357,24 @@
       "gesamt": 7.56,
       "instrumente": 0,
       "summe": 7.56
+    }
+  },
+  {
+    "veroeffentlichung": "2024-07-15",
+    "emittent": {
+      "name": "AUTO1 Group SE",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "DWS Investment GmbH",
+      "sitz": "Frankfurt",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.28,
+      "instrumente": 0,
+      "summe": 3.28
     }
   },
   {
@@ -16019,7 +16037,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-07-08",
+    "veroeffentlichung": "2024-07-15",
     "emittent": {
       "name": "PNE AG",
       "sitz": "Cuxhaven",
@@ -16031,9 +16049,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.32,
-      "instrumente": 0.98,
-      "summe": 6.3
+      "gesamt": 4.53,
+      "instrumente": 0.96,
+      "summe": 5.49
     }
   },
   {
@@ -16070,6 +16088,24 @@
       "gesamt": 1.91,
       "instrumente": 4.89,
       "summe": 6.8
+    }
+  },
+  {
+    "veroeffentlichung": "2024-07-15",
+    "emittent": {
+      "name": "HelloFresh SE",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "JPMORGAN CHASE & CO",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 1.88,
+      "instrumente": 3.25,
+      "summe": 5.13
     }
   },
   {
@@ -22069,7 +22105,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-07-12",
+    "veroeffentlichung": "2024-07-15",
     "emittent": {
       "name": "HelloFresh SE",
       "sitz": "Berlin",
@@ -22081,9 +22117,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.25,
-      "instrumente": 5.95,
-      "summe": 10.2
+      "gesamt": 3.66,
+      "instrumente": 6.49,
+      "summe": 10.14
     }
   },
   {
@@ -22141,7 +22177,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-07-11",
+    "veroeffentlichung": "2024-07-15",
     "emittent": {
       "name": "Bilfinger SE",
       "sitz": "Mannheim",
@@ -22153,7 +22189,7 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.00031,
+      "gesamt": 3.00096,
       "instrumente": 1.9,
       "summe": 4.9
     }
@@ -32976,7 +33012,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-07-12",
+    "veroeffentlichung": "2024-07-16",
     "emittent": {
       "name": "thyssenkrupp AG",
       "sitz": "Essen",
@@ -32988,8 +33024,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.08,
-      "instrumente": 4.99,
+      "gesamt": 0.06,
+      "instrumente": 5.01,
       "summe": 5.07
     }
   },
@@ -33066,6 +33102,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-07-16",
+    "emittent": {
+      "name": "Pfeiffer Vacuum Technology AG",
+      "sitz": "Aßlar",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.69,
+      "instrumente": 0.58,
+      "summe": 4.26
+    }
+  },
+  {
     "veroeffentlichung": "2024-03-01",
     "emittent": {
       "name": "Nordex SE",
@@ -33102,7 +33156,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-07-11",
+    "veroeffentlichung": "2024-07-16",
     "emittent": {
       "name": "LANXESS Aktiengesellschaft",
       "sitz": "Köln",
@@ -33114,9 +33168,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.38,
-      "instrumente": 10.01,
-      "summe": 10.39
+      "gesamt": 0.36,
+      "instrumente": 9.96,
+      "summe": 10.32
     }
   },
   {
@@ -33768,7 +33822,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-07-09",
+    "veroeffentlichung": "2024-07-15",
     "emittent": {
       "name": "Siemens Energy AG",
       "sitz": "München",
@@ -33780,13 +33834,13 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.994,
-      "instrumente": 2.39,
-      "summe": 5.38
+      "gesamt": 3.05,
+      "instrumente": 2.62,
+      "summe": 5.67
     }
   },
   {
-    "veroeffentlichung": "2024-07-15",
+    "veroeffentlichung": "2024-07-16",
     "emittent": {
       "name": "Nordex SE",
       "sitz": "Rostock",
@@ -33798,9 +33852,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.86,
-      "instrumente": 1.12,
-      "summe": 4.98
+      "gesamt": 3.93,
+      "instrumente": 1.14,
+      "summe": 5.07
     }
   },
   {
