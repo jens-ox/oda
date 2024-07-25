@@ -1,6 +1,355 @@
 [
   {
     "pzn": [
+      "04121947"
+    ],
+    "enr": [
+      "2702312"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-01",
+    "datumEnde": "2024-08-02",
+    "datumLetzteMeldung": "2024-07-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Keppra 100 mg/ml Lösung zum Einnehmen - OP300ml",
+    "atcCode": "N03AX14",
+    "wirkstoffe": "Levetiracetam",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "UCB Pharma",
+    "telefon": "+49 2173 48 4848",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "Levetiracetam UCB - Einreichungsnummer: 2181755",
+    "datumErstmeldung": "2024-07-01",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "05459430"
+    ],
+    "enr": [
+      "2178466"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-29",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-07-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Norditropin FlexPro 15 mg/1,5 ml Injektionslösung in einem Fertigpen",
+    "atcCode": "H01AC01",
+    "wirkstoffe": "Somatropin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "alternativPraeparat": "Norditropin FlexPro 15 mg/1,5 ml Injektionslösung in einem Fertigpen - Einreichungsnummer: 2178466",
+    "datumErstmeldung": "2024-05-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04550418"
+    ],
+    "enr": [
+      "2162929"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-05",
+    "datumEnde": "2024-08-27",
+    "datumLetzteMeldung": "2024-07-24",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Azithromycin STADA 250 mg Filmtabletten",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM GmbH",
+    "telefon": "061016032416",
+    "mail": "christiane.georgi@stada.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04550424"
+    ],
+    "enr": [
+      "2162930"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-02-05",
+    "datumEnde": "2024-08-27",
+    "datumLetzteMeldung": "2024-07-24",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Azithromycin STADA 500 mg Filmtabletten",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM GmbH",
+    "telefon": "061016032416",
+    "mail": "christiane.georgi@stada.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11611758"
+    ],
+    "enr": [
+      "2194389"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-22",
+    "datumEnde": "2024-09-02",
+    "datumLetzteMeldung": "2024-07-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Abacavir/Lamivudin Hormosan 600 mg/300 mg Filmtabletten",
+    "atcCode": "J05AR02",
+    "wirkstoffe": "Abacavirhydrochlorid; Lamivudin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "Abacavir/Lamivudin Hormosan 600 mg/300 mg Filmtabletten - Einreichungsnummer: 2194389",
+    "datumErstmeldung": "2024-07-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000"
+    ],
+    "enr": [
+      "2146067"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-30",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-07-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clindamycin AL 300",
+    "atcCode": "J01FF01",
+    "wirkstoffe": "Clindamycinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00887397"
+    ],
+    "enr": [
+      "2146067"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-30",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-07-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clindamycin AL 300",
+    "atcCode": "J01FF01",
+    "wirkstoffe": "Clindamycinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00887405"
+    ],
+    "enr": [
+      "2146067"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-30",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-07-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clindamycin AL 300",
+    "atcCode": "J01FF01",
+    "wirkstoffe": "Clindamycinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07558159"
+    ],
+    "enr": [
+      "2146067"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-09-30",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-07-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clindamycin AL 300",
+    "atcCode": "J01FF01",
+    "wirkstoffe": "Clindamycinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "+49733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000"
+    ],
+    "enr": [
+      "7007216"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-06-01",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-07-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ivermectin AL 3 mg Tabletten",
+    "atcCode": "P02CF01",
+    "wirkstoffe": "Ivermectin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-06-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18155476"
+    ],
+    "enr": [
+      "7007216"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-06-01",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-07-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ivermectin AL 3 mg Tabletten",
+    "atcCode": "P02CF01",
+    "wirkstoffe": "Ivermectin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-06-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18155482"
+    ],
+    "enr": [
+      "7007216"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-06-01",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-07-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ivermectin AL 3 mg Tabletten",
+    "atcCode": "P02CF01",
+    "wirkstoffe": "Ivermectin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-06-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12554146"
+    ],
+    "enr": [
+      "2196168"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-27",
+    "datumEnde": "2024-08-24",
+    "datumLetzteMeldung": "2024-07-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Epiduo Forte",
+    "atcCode": "D10AD53",
+    "wirkstoffe": "Adapalen; Benzoylperoxid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Galderma Laboratorium GmbH",
+    "mail": "zulassung@galderma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-07-04",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16230541"
+    ],
+    "enr": [
+      "2709983"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-01",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-07-24",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Myocet liposomal 50 mg Pulver, Dispersion und Lösungsmittel für ein Konzentrat zur Herstellung einer Infusionsdispersion - OP(305mg+2ml+5ml)",
+    "atcCode": "L01DB01",
+    "wirkstoffe": "Doxorubicinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+    "telefon": "03834 39 14-490",
+    "mail": "ra-myocet@cheplapharm.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "quality defect",
+    "alternativPraeparat": "Caelyx pegylated liposomal 2 mg/ml Konzentrat zur Herstellung einer Infusionslösung - OP(1x10ml) - Einreichungsnummer: 2700049",
+    "datumErstmeldung": "2024-07-24",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03673254"
+    ],
+    "enr": [
+      "2104211"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-25",
+    "datumEnde": "2024-09-16",
+    "datumLetzteMeldung": "2024-07-24",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nimotop S",
+    "atcCode": "C08CA06",
+    "wirkstoffe": "Nimodipin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bayer Vital GmbH",
+    "telefon": "0800 6422937",
+    "mail": "medical-information@bayer.com",
+    "grund": "Sonstige",
+    "alternativPraeparat": "Nimotop S - Einreichungsnummer: 2104211",
+    "datumErstmeldung": "2024-07-24",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "17977785"
     ],
     "enr": [
@@ -4866,28 +5215,6 @@
   },
   {
     "pzn": [
-      "12554146"
-    ],
-    "enr": [
-      "2196168"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-05-27",
-    "datumEnde": "2024-08-05",
-    "datumLetzteMeldung": "2024-07-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Epiduo Forte",
-    "atcCode": "D10AD53",
-    "wirkstoffe": "Adapalen; Benzoylperoxid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Galderma Laboratorium GmbH",
-    "mail": "zulassung@galderma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-07-04",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "02331304"
     ],
     "enr": [
@@ -4950,30 +5277,6 @@
     "mail": "nicola.bruns@hennig-am.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2024-04-16",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05459430"
-    ],
-    "enr": [
-      "2178466"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-29",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-07-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Norditropin FlexPro 15 mg/1,5 ml Injektionslösung in einem Fertigpen",
-    "atcCode": "H01AC01",
-    "wirkstoffe": "Somatropin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "alternativPraeparat": "Norditropin FlexPro 15 mg/1,5 ml Injektionslösung in einem Fertigpen - Einreichungsnummer: 2178466",
-    "datumErstmeldung": "2024-05-29",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -6673,29 +6976,6 @@
   },
   {
     "pzn": [
-      "04121947"
-    ],
-    "enr": [
-      "2702312"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-07-01",
-    "datumEnde": "2024-07-26",
-    "datumLetzteMeldung": "2024-07-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Keppra 100 mg/ml Lösung zum Einnehmen - OP300ml",
-    "atcCode": "N03AX14",
-    "wirkstoffe": "Levetiracetam",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "UCB Pharma",
-    "telefon": "+49 2173 48 4848",
-    "grund": "Erhöhte Nachfrage",
-    "alternativPraeparat": "Levetiracetam UCB - Einreichungsnummer: 2181755",
-    "datumErstmeldung": "2024-07-01",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "13424919"
     ],
     "enr": [
@@ -7544,75 +7824,6 @@
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
     "mail": "medinfo@mundipharma.de",
     "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-06-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000"
-    ],
-    "enr": [
-      "7007216"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-01",
-    "datumEnde": "2024-08-15",
-    "datumLetzteMeldung": "2024-06-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ivermectin AL 3 mg Tabletten",
-    "atcCode": "P02CF01",
-    "wirkstoffe": "Ivermectin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-06-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "18155476"
-    ],
-    "enr": [
-      "7007216"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-01",
-    "datumEnde": "2024-08-15",
-    "datumLetzteMeldung": "2024-06-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ivermectin AL 3 mg Tabletten",
-    "atcCode": "P02CF01",
-    "wirkstoffe": "Ivermectin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-06-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "18155482"
-    ],
-    "enr": [
-      "7007216"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-01",
-    "datumEnde": "2024-08-15",
-    "datumLetzteMeldung": "2024-06-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ivermectin AL 3 mg Tabletten",
-    "atcCode": "P02CF01",
-    "wirkstoffe": "Ivermectin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2024-06-27",
     "infoFachkreise": "Vorgesehen"
   },
@@ -9170,29 +9381,6 @@
     "grund": "Erhöhte Nachfrage",
     "alternativPraeparat": "Azithromycin-ratiopharm 250mg Filmtabletten - Einreichungsnummer: 2162285",
     "datumErstmeldung": "2024-04-18",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02953098"
-    ],
-    "enr": [
-      "2164880"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-05",
-    "datumEnde": "2024-08-01",
-    "datumLetzteMeldung": "2024-06-18",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Metoprololsuccinat dura 190 mg Retardtabletten",
-    "atcCode": "C07AB02",
-    "wirkstoffe": "Metoprololsuccinat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Germany GmbH",
-    "telefon": "08000700800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-06-18",
     "infoFachkreise": "Nein"
   },
   {
@@ -13868,98 +14056,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-04-30",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00000000"
-    ],
-    "enr": [
-      "2146067"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-30",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-04-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clindamycin AL 300",
-    "atcCode": "J01FF01",
-    "wirkstoffe": "Clindamycinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00887397"
-    ],
-    "enr": [
-      "2146067"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-30",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-04-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clindamycin AL 300",
-    "atcCode": "J01FF01",
-    "wirkstoffe": "Clindamycinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00887405"
-    ],
-    "enr": [
-      "2146067"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-30",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-04-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clindamycin AL 300",
-    "atcCode": "J01FF01",
-    "wirkstoffe": "Clindamycinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07558159"
-    ],
-    "enr": [
-      "2146067"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-09-30",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-04-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clindamycin AL 300",
-    "atcCode": "J01FF01",
-    "wirkstoffe": "Clindamycinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "+49733396510",
-    "mail": "info@aliud.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-17",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
