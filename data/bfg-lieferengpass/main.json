@@ -1,6 +1,96 @@
 [
   {
     "pzn": [
+      "19111587"
+    ],
+    "enr": [
+      "2130148"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-06-20",
+    "datumEnde": "2024-09-30",
+    "datumLetzteMeldung": "2024-07-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "DHC 120 mg Ennogen Retardtabletten",
+    "atcCode": "N02AA08",
+    "wirkstoffe": "Dihydrocodein[(R,R)-tartrat]",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Ennogen Healthcare (Europe) Limited",
+    "mail": "pavan@ennogen.com",
+    "grund": "Sonstige",
+    "grundAnmerkung": "The bulk tablets are manufactured in UK at Bard Pharmaceuticals and Imported to Fidelio GmbH in Germany for Coating, Packaging and Batch release. Fidelio has applied and awaited to receive Narcotic License in the name of Ennogen Healthcare (Europe) Ltd and Section 72a Cerificate to Import Bulk to Fidelio, Germany. Ennogen Healthcare (Europe) is now arranging shipment of bulk tablets to Fidelio GmbH in Germany for Coating, Packaging and Batch release and aim to be back in stock by 31/08/2024.",
+    "datumErstmeldung": "2024-07-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02388758"
+    ],
+    "enr": [
+      "2101431"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-20",
+    "datumEnde": "2024-08-06",
+    "datumLetzteMeldung": "2024-07-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Diprosalic Lösung",
+    "atcCode": "D07XC01",
+    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Organon Healthcare GmbH",
+    "mail": "ra_dach@organon.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-02-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02497186"
+    ],
+    "enr": [
+      "2101431"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-20",
+    "datumEnde": "2024-08-06",
+    "datumLetzteMeldung": "2024-07-29",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Diprosalic Lösung",
+    "atcCode": "D07XC01",
+    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Organon Healthcare GmbH",
+    "mail": "ra_dach@organon.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-02-20",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02517173"
+    ],
+    "enr": [
+      "2102592"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-06-06",
+    "datumEnde": "2025-03-31",
+    "datumLetzteMeldung": "2024-07-29",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Gent-Ophtal",
+    "atcCode": "S01AA11",
+    "wirkstoffe": "Gentamicinsulfat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
+    "telefon": "030-330930",
+    "mail": "Pharma.Kundenservice@bausch.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-06-21",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "03410891"
     ],
     "enr": [
@@ -1817,7 +1907,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "grund": "Sonstige",
     "grundAnmerkung": "---",
@@ -1840,7 +1930,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "grund": "Sonstige",
     "grundAnmerkung": "---",
@@ -1863,7 +1953,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "grund": "Sonstige",
     "grundAnmerkung": "---",
@@ -2781,7 +2871,7 @@
     "atcCode": "A11CC04",
     "wirkstoffe": "Calcitriol",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "grund": "Unzureichende Produktionskapazitäten",
     "datumErstmeldung": "2024-07-19",
@@ -5612,29 +5702,6 @@
   },
   {
     "pzn": [
-      "19111587"
-    ],
-    "enr": [
-      "2130148"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-06-20",
-    "datumEnde": "2024-08-31",
-    "datumLetzteMeldung": "2024-07-04",
-    "grundArt": "Sonstige",
-    "bezeichnung": "DHC 120 mg Ennogen Retardtabletten",
-    "atcCode": "N02AA08",
-    "wirkstoffe": "Dihydrocodein[(R,R)-tartrat]",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Ennogen Healthcare (Europe) Limited",
-    "mail": "pavan@ennogen.com",
-    "grund": "Sonstige",
-    "grundAnmerkung": "The bulk tablets are manufactured in UK at Bard Pharmaceuticals and Imported to Fidelio GmbH in Germany for Coating, Packaging and Batch release. Fidelio has applied and awaited to receive Narcotic License in the name of Ennogen Healthcare (Europe) Ltd and Section 72a Cerificate to Import Bulk to Fidelio, Germany. Ennogen Healthcare (Europe) is now arranging shipment of bulk tablets to Fidelio GmbH in Germany for Coating, Packaging and Batch release and aim to be back in stock by 31/08/2024.",
-    "datumErstmeldung": "2024-07-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02331304"
     ],
     "enr": [
@@ -7264,50 +7331,6 @@
   },
   {
     "pzn": [
-      "02388758"
-    ],
-    "enr": [
-      "2101431"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-20",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-07-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Diprosalic Lösung",
-    "atcCode": "D07XC01",
-    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Organon Healthcare GmbH",
-    "mail": "ra_dach@organon.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-02-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02497186"
-    ],
-    "enr": [
-      "2101431"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-20",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-07-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Diprosalic Lösung",
-    "atcCode": "D07XC01",
-    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Organon Healthcare GmbH",
-    "mail": "ra_dach@organon.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-02-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "13424919"
     ],
     "enr": [
@@ -8432,7 +8455,7 @@
     "atcCode": "J01XA01",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Stock Out eines Mitbewerbers und dadurch stark erhöhte Abverkäufe aller Vancomycin SKUs seit Ende 2023",
@@ -8455,7 +8478,7 @@
     "atcCode": "J01XA01",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Stock Out eines Mitbewerbers und dadurch stark erhöhte Abverkäufe aller Vancomycin SKUs seit Ende 2023",
@@ -8478,7 +8501,7 @@
     "atcCode": "A07AA09",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "stark erhöhte Abverkäufe im Dezember und Januardurch Stock Out eines Wettbewerbers",
@@ -8501,7 +8524,7 @@
     "atcCode": "A07AA09",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "stark erhöhte Abverkäufe im Dezember und Januardurch Stock Out eines Wettbewerbers",
@@ -8738,29 +8761,6 @@
     "grundAnmerkung": "Actilyse® Cathflo® 2 mg wird ab Ende Juni 2024 wieder in den deutschen Markt ausgeliefert. Aufgrund der begrenzten Mengen erfolgt zunächst eine Kontingentierung.",
     "datumErstmeldung": "2022-05-02",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "02517173"
-    ],
-    "enr": [
-      "2102592"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-06",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-06-21",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Gent-Ophtal",
-    "atcCode": "S01AA11",
-    "wirkstoffe": "Gentamicinsulfat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "telefon": "030-330930",
-    "mail": "Pharma.Kundenservice@bausch.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-06-21",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -9953,29 +9953,6 @@
   },
   {
     "pzn": [
-      "17483132"
-    ],
-    "enr": [
-      "2201628"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-18",
-    "datumEnde": "2024-07-22",
-    "datumLetzteMeldung": "2024-06-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Syner-KINASE",
-    "atcCode": "B01AD04",
-    "wirkstoffe": "Urokinase",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Syner-Medica B.V.",
-    "telefon": "+49 (89) 45 08 08 78-44",
-    "mail": "sales@lyomark.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-06-12",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "02498613"
     ],
     "enr": [
@@ -10645,50 +10622,6 @@
   },
   {
     "pzn": [
-      "06319056"
-    ],
-    "enr": [
-      "0011541"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-07",
-    "datumEnde": "2024-09-30",
-    "datumLetzteMeldung": "2024-06-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Clonid-Ophtal 1/8%",
-    "atcCode": "S01EA04",
-    "wirkstoffe": "Clonidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "mail": "Pharma.Kundenservice@bausch.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-06-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06319062"
-    ],
-    "enr": [
-      "0011541"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-07",
-    "datumEnde": "2024-09-30",
-    "datumLetzteMeldung": "2024-06-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Clonid-Ophtal 1/8%",
-    "atcCode": "S01EA04",
-    "wirkstoffe": "Clonidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "mail": "Pharma.Kundenservice@bausch.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-06-07",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "07617732"
     ],
     "enr": [
@@ -10930,7 +10863,7 @@
     "atcCode": "G03DB08",
     "wirkstoffe": "Dienogest",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "034954247484",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "grund": "Sonstige",
@@ -10954,7 +10887,7 @@
     "atcCode": "G03DB08",
     "wirkstoffe": "Dienogest",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "034954247484",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "grund": "Sonstige",
@@ -10978,7 +10911,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -11000,7 +10933,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -11022,7 +10955,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -11044,7 +10977,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -11066,7 +10999,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -11088,7 +11021,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -11110,7 +11043,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -11132,7 +11065,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -11154,7 +11087,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -11176,7 +11109,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -11198,7 +11131,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -11220,7 +11153,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -11242,7 +11175,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -11264,7 +11197,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -11286,7 +11219,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -11308,7 +11241,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-14",
@@ -11330,7 +11263,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-14",
@@ -11374,7 +11307,7 @@
     "atcCode": "G04BE03",
     "wirkstoffe": "Sildenafilcitrat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Sonstige",
@@ -11397,7 +11330,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Probleme in der Herstellung",
@@ -11623,7 +11556,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -11646,7 +11579,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -11669,7 +11602,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -11947,7 +11880,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin-Natrium",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 30 338 427 623",
     "mail": "seitz@esteve.com",
     "grund": "Erhöhte Nachfrage",
@@ -14004,7 +13937,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14030,7 +13963,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14056,7 +13989,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14082,7 +14015,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14108,7 +14041,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14134,7 +14067,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
