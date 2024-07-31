@@ -36,11 +36,18 @@
   },
   {
     "name": "AOK Nordost - Die Gesundheitskasse",
-    "zusatzbeitrag": 2.7,
+    "zusatzbeitrag": null,
     "openedIn": [
       "Berlin",
       "Brandenburg",
       "Mecklenburg-Vorpommern"
+    ]
+  },
+  {
+    "name": "AOK Nordost - Die Gesundheitskasse",
+    "zusatzbeitrag": null,
+    "openedIn": [
+      ""
     ]
   },
   {
@@ -189,9 +196,16 @@
   },
   {
     "name": "BKK B. Braun Aesculap",
-    "zusatzbeitrag": 1.75,
+    "zusatzbeitrag": null,
     "openedIn": [
       "betriebs­be­zogen (nur für Mitar­beitende wählbar)"
+    ]
+  },
+  {
+    "name": "BKK B. Braun Aesculap",
+    "zusatzbeitrag": null,
+    "openedIn": [
+      ""
     ]
   },
   {
@@ -527,7 +541,14 @@
   },
   {
     "name": "DAK- Gesundheit",
-    "zusatzbeitrag": 1.7,
+    "zusatzbeitrag": null,
+    "openedIn": [
+      ""
+    ]
+  },
+  {
+    "name": "DAK- Gesundheit",
+    "zusatzbeitrag": null,
     "openedIn": [
       "bundesweit"
     ]
