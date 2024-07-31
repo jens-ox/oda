@@ -1,6 +1,189 @@
 [
   {
     "pzn": [
+      "07392629"
+    ],
+    "enr": [
+      "2109389"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-24",
+    "datumEnde": "2024-09-13",
+    "datumLetzteMeldung": "2024-07-30",
+    "grundArt": "Sonstige",
+    "bezeichnung": "DOCITON 160mg retard",
+    "atcCode": "C07AA05",
+    "wirkstoffe": "Propranololhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-07-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16230541"
+    ],
+    "enr": [
+      "2709983"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-01",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-07-30",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Myocet liposomal 50 mg Pulver, Dispersion und Lösungsmittel für ein Konzentrat zur Herstellung einer Infusionsdispersion - OP(305mg+2ml+5ml)",
+    "atcCode": "L01DB01",
+    "wirkstoffe": "Doxorubicinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+    "telefon": "03834 39 14-490",
+    "mail": "ra-myocet@cheplapharm.com",
+    "grund": "Probleme in der Herstellung",
+    "grundAnmerkung": "quality defect",
+    "datumErstmeldung": "2024-07-24",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "12646316"
+    ],
+    "enr": [
+      "2194174"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-04-20",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-07-30",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Targin 80 mg/40 mg Retardtabletten",
+    "atcCode": "N02AA55",
+    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid 1 H<2>O",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-03-31",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12646256"
+    ],
+    "enr": [
+      "2194173"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-03-31",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-07-30",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Targin 60 mg/30 mg Retardtabletten",
+    "atcCode": "N02AA55",
+    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid 1 H<2>O",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-03-31",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00696183"
+    ],
+    "enr": [
+      "2173085"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-06-29",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-07-30",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Targin 40 mg/20 mg Retardtabletten",
+    "atcCode": "N02AA55",
+    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2022-06-29",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "13835031"
+    ],
+    "enr": [
+      "2713772"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-11",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-07-30",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Semglee 100 Einheiten/ml Injektionslösung in Fertigpen - OP(5x3ml)",
+    "atcCode": "A10AE04",
+    "wirkstoffe": "Insulin glargin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
+    "mail": "Plx-bioconeulocalaffiliate@pharmalex.com",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "datumErstmeldung": "2024-04-15",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "02084248"
+    ],
+    "enr": [
+      "2102252"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-31",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-07-30",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Motilium Tropfen 10 mg/ml Suspension",
+    "atcCode": "A03FA03",
+    "wirkstoffe": "Domperidon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+    "telefon": "038343914607",
+    "mail": "ra-domperidone@cheplapharm.com",
+    "grund": "Herstellerwechsel",
+    "grundAnmerkung": "Verzögerung im Produktionsprozess der Transfer Validierungschargen beim Hersteller",
+    "datumErstmeldung": "2024-02-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02084254"
+    ],
+    "enr": [
+      "2102252"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-31",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-07-30",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Motilium Tropfen 10 mg/ml Suspension",
+    "atcCode": "A03FA03",
+    "wirkstoffe": "Domperidon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+    "telefon": "038343914607",
+    "mail": "ra-domperidone@cheplapharm.com",
+    "grund": "Herstellerwechsel",
+    "grundAnmerkung": "Verzögerung im Produktionsprozess der Transfer Validierungschargen beim Hersteller",
+    "datumErstmeldung": "2024-02-06",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "19111587"
     ],
     "enr": [
@@ -666,29 +849,6 @@
   },
   {
     "pzn": [
-      "00776798"
-    ],
-    "enr": [
-      "2126575"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-06",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-07-25",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Klacid Saft",
-    "atcCode": "J01FA09",
-    "wirkstoffe": "Clarithromycin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-05-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "10174830"
     ],
     "enr": [
@@ -776,29 +936,6 @@
     "mail": "h.bornemann@eumedica.ch",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-06-14",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04121947"
-    ],
-    "enr": [
-      "2702312"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-01",
-    "datumEnde": "2024-08-02",
-    "datumLetzteMeldung": "2024-07-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Keppra 100 mg/ml Lösung zum Einnehmen - OP300ml",
-    "atcCode": "N03AX14",
-    "wirkstoffe": "Levetiracetam",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "UCB Pharma",
-    "telefon": "+49 2173 48 4848",
-    "grund": "Erhöhte Nachfrage",
-    "alternativPraeparat": "Levetiracetam UCB - Einreichungsnummer: 2181755",
-    "datumErstmeldung": "2024-07-01",
     "infoFachkreise": "Nein"
   },
   {
@@ -1076,31 +1213,6 @@
     "mail": "zulassung@galderma.com",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2024-07-04",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16230541"
-    ],
-    "enr": [
-      "2709983"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-05-01",
-    "datumEnde": "2024-12-31",
-    "datumLetzteMeldung": "2024-07-24",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Myocet liposomal 50 mg Pulver, Dispersion und Lösungsmittel für ein Konzentrat zur Herstellung einer Infusionsdispersion - OP(305mg+2ml+5ml)",
-    "atcCode": "L01DB01",
-    "wirkstoffe": "Doxorubicinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "telefon": "03834 39 14-490",
-    "mail": "ra-myocet@cheplapharm.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "quality defect",
-    "alternativPraeparat": "Caelyx pegylated liposomal 2 mg/ml Konzentrat zur Herstellung einer Infusionslösung - OP(1x10ml) - Einreichungsnummer: 2700049",
-    "datumErstmeldung": "2024-07-24",
     "infoFachkreise": "Nein"
   },
   {
@@ -1907,7 +2019,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "grund": "Sonstige",
     "grundAnmerkung": "---",
@@ -1930,7 +2042,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "grund": "Sonstige",
     "grundAnmerkung": "---",
@@ -1953,7 +2065,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "grund": "Sonstige",
     "grundAnmerkung": "---",
@@ -2854,28 +2966,6 @@
     "alternativPraeparat": "PENTASA 1000 mg Retardtabletten - Einreichungsnummer: 2178793",
     "datumErstmeldung": "2024-07-19",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04973573"
-    ],
-    "enr": [
-      "2159174"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-07-09",
-    "datumEnde": "2024-08-30",
-    "datumLetzteMeldung": "2024-07-19",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Decostriol inject 1 Mikrogramm/ml Injektionslösung",
-    "atcCode": "A11CC04",
-    "wirkstoffe": "Calcitriol",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
-    "mail": "nicole.duerrschmidt@dermapharm.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-07-19",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -5029,72 +5119,6 @@
     "mail": "info@ratiopharm.de",
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2023-11-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12646316"
-    ],
-    "enr": [
-      "2194174"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-04-20",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-07-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Targin 80 mg/40 mg Retardtabletten",
-    "atcCode": "N02AA55",
-    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid 1 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-03-31",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12646256"
-    ],
-    "enr": [
-      "2194173"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-03-31",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-07-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Targin 60 mg/30 mg Retardtabletten",
-    "atcCode": "N02AA55",
-    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid 1 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-03-31",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00696183"
-    ],
-    "enr": [
-      "2173085"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-06-29",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-07-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Targin 40 mg/20 mg Retardtabletten",
-    "atcCode": "N02AA55",
-    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2022-06-29",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -7633,56 +7657,6 @@
   },
   {
     "pzn": [
-      "02084248"
-    ],
-    "enr": [
-      "2102252"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-31",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-06-28",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Motilium Tropfen 10 mg/ml Suspension",
-    "atcCode": "A03FA03",
-    "wirkstoffe": "Domperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "telefon": "038343914607",
-    "mail": "ra-domperidone@cheplapharm.com",
-    "grund": "Herstellerwechsel",
-    "grundAnmerkung": "Verzögerung im Produktionsprozess der Transfer Validierungschargen beim Hersteller",
-    "alternativPraeparat": "Motilium Tropfen 10 mg/ml Suspension - Einreichungsnummer: 2102252",
-    "datumErstmeldung": "2024-02-06",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02084254"
-    ],
-    "enr": [
-      "2102252"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-31",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-06-28",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Motilium Tropfen 10 mg/ml Suspension",
-    "atcCode": "A03FA03",
-    "wirkstoffe": "Domperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "telefon": "038343914607",
-    "mail": "ra-domperidone@cheplapharm.com",
-    "grund": "Herstellerwechsel",
-    "grundAnmerkung": "Verzögerung im Produktionsprozess der Transfer Validierungschargen beim Hersteller",
-    "alternativPraeparat": "Motilium Tropfen 10 mg/ml Suspension - Einreichungsnummer: 2102252",
-    "datumErstmeldung": "2024-02-06",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "11893780"
     ],
     "enr": [
@@ -8455,7 +8429,7 @@
     "atcCode": "J01XA01",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Stock Out eines Mitbewerbers und dadurch stark erhöhte Abverkäufe aller Vancomycin SKUs seit Ende 2023",
@@ -8478,7 +8452,7 @@
     "atcCode": "J01XA01",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Stock Out eines Mitbewerbers und dadurch stark erhöhte Abverkäufe aller Vancomycin SKUs seit Ende 2023",
@@ -8501,7 +8475,7 @@
     "atcCode": "A07AA09",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "stark erhöhte Abverkäufe im Dezember und Januardurch Stock Out eines Wettbewerbers",
@@ -8524,7 +8498,7 @@
     "atcCode": "A07AA09",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "stark erhöhte Abverkäufe im Dezember und Januardurch Stock Out eines Wettbewerbers",
@@ -8737,30 +8711,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2024-06-21",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "10552203"
-    ],
-    "enr": [
-      "2179189"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-06-15",
-    "datumEnde": "2024-12-31",
-    "datumLetzteMeldung": "2024-06-21",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Actilyse Cathflo 2 mg Pulver zur Herstellung einer Injektions- bzw. Infusionslösung",
-    "atcCode": "B01AD02",
-    "wirkstoffe": "Alteplase",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Boehringer Ingelheim Pharma GmbH & Co.KG",
-    "telefon": "0800 - 77 90 90 0",
-    "mail": "info@boehringer-ingelheim.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Actilyse® Cathflo® 2 mg wird ab Ende Juni 2024 wieder in den deutschen Markt ausgeliefert. Aufgrund der begrenzten Mengen erfolgt zunächst eine Kontingentierung.",
-    "datumErstmeldung": "2022-05-02",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
@@ -10270,28 +10220,6 @@
   },
   {
     "pzn": [
-      "13835031"
-    ],
-    "enr": [
-      "2713772"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-11",
-    "datumEnde": "2024-07-15",
-    "datumLetzteMeldung": "2024-06-11",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Semglee 100 Einheiten/ml Injektionslösung in Fertigpen - OP(5x3ml)",
-    "atcCode": "A10AE04",
-    "wirkstoffe": "Insulin glargin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
-    "mail": "Plx-bioconeulocalaffiliate@pharmalex.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2024-04-15",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
       "09947066"
     ],
     "enr": [
@@ -10863,7 +10791,7 @@
     "atcCode": "G03DB08",
     "wirkstoffe": "Dienogest",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954247484",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "grund": "Sonstige",
@@ -10887,7 +10815,7 @@
     "atcCode": "G03DB08",
     "wirkstoffe": "Dienogest",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954247484",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "grund": "Sonstige",
@@ -10911,7 +10839,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -10933,7 +10861,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -10955,7 +10883,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -10977,7 +10905,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -10999,7 +10927,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -11021,7 +10949,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -11043,7 +10971,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -11065,7 +10993,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -11087,7 +11015,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -11109,7 +11037,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -11131,7 +11059,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -11153,7 +11081,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -11175,7 +11103,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -11197,7 +11125,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -11219,7 +11147,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -11241,7 +11169,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-14",
@@ -11263,7 +11191,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-14",
@@ -11293,29 +11221,6 @@
   },
   {
     "pzn": [
-      "10258567"
-    ],
-    "enr": [
-      "2178011"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-22",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-06-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sildeagil 100 mg Filmtabletten",
-    "atcCode": "G04BE03",
-    "wirkstoffe": "Sildenafilcitrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
-    "telefon": "034954 2470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2024-02-13",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "10775794"
     ],
     "enr": [
@@ -11330,7 +11235,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Probleme in der Herstellung",
@@ -11556,7 +11461,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -11579,7 +11484,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -11602,7 +11507,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -11880,7 +11785,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin-Natrium",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 30 338 427 623",
     "mail": "seitz@esteve.com",
     "grund": "Erhöhte Nachfrage",
@@ -12535,29 +12440,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2024-05-10",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13835048"
-    ],
-    "enr": [
-      "7007916",
-      "7007917"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-15",
-    "datumEnde": "2024-07-15",
-    "datumLetzteMeldung": "2024-05-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Semglee",
-    "atcCode": "A10AE04",
-    "wirkstoffe": "Insulin glargin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
-    "mail": "Plx-bioconeulocalaffiliate@pharmalex.com",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "datumErstmeldung": "2024-04-15",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
@@ -13937,7 +13819,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -13963,7 +13845,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -13989,7 +13871,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14015,7 +13897,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14041,7 +13923,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14067,7 +13949,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -17201,100 +17083,6 @@
     "grund": "Sonstige",
     "datumErstmeldung": "2022-02-16",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03300613"
-    ],
-    "enr": [
-      "2142414"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-05-03",
-    "datumEnde": "2024-12-31",
-    "datumLetzteMeldung": "2023-09-08",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Actilyse Pulver und Lösungmittel zur Herstellung einer Injektions- bzw. Infusionslösung",
-    "atcCode": "B01AD02, B02A",
-    "wirkstoffe": "Alteplase",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Boehringer Ingelheim Pharma GmbH & Co.KG",
-    "telefon": "0800 - 77 90 90 0",
-    "mail": "info@boehringer-ingelheim.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-05-02",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "03300636"
-    ],
-    "enr": [
-      "2142414"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-05-03",
-    "datumEnde": "2024-12-31",
-    "datumLetzteMeldung": "2023-09-08",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Actilyse Pulver und Lösungmittel zur Herstellung einer Injektions- bzw. Infusionslösung",
-    "atcCode": "B01AD02, B02A",
-    "wirkstoffe": "Alteplase",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Boehringer Ingelheim Pharma GmbH & Co.KG",
-    "telefon": "0800 - 77 90 90 0",
-    "mail": "info@boehringer-ingelheim.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-05-02",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "03974381"
-    ],
-    "enr": [
-      "2142414"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-05-03",
-    "datumEnde": "2024-12-31",
-    "datumLetzteMeldung": "2023-09-08",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Actilyse Pulver und Lösungmittel zur Herstellung einer Injektions- bzw. Infusionslösung",
-    "atcCode": "B01AD02, B02A",
-    "wirkstoffe": "Alteplase",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Boehringer Ingelheim Pharma GmbH & Co.KG",
-    "telefon": "0800 - 77 90 90 0",
-    "mail": "info@boehringer-ingelheim.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2022-05-02",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "01440250"
-    ],
-    "enr": [
-      "2702474"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-05-03",
-    "datumEnde": "2024-12-31",
-    "datumLetzteMeldung": "2023-09-08",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Metalyse 10.000 U Pulver und Lösungsmittel zur Herstellung einer Injektionslösung - OP(1+1)",
-    "atcCode": "B01AD11",
-    "wirkstoffe": "Tenecteplase",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Boehringer Ingelheim International GmbH",
-    "telefon": "0800 - 77 90 90 0",
-    "mail": "info@boehringer-ingelheim.de",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Eingeschränkte Lieferfähigkeit bis voraussichtlich Ende 2024.",
-    "alternativPraeparat": "Actilyse Pulver und Lösungmittel zur Herstellung einer Injektions- bzw. Infusionslösung - Einreichungsnummer: 2142414",
-    "datumErstmeldung": "2022-05-02",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
