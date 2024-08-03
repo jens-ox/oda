@@ -1,6 +1,909 @@
 [
   {
     "pzn": [
+      "16239430"
+    ],
+    "enr": [
+      "2204918"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-29",
+    "datumEnde": "2024-09-13",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tamsublock Duo 0,5 mg/0,4 mg Hartkapseln",
+    "atcCode": "G04CA52",
+    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dr. Pfleger Arzneimittel GmbH - Geschäftsanschrift -",
+    "mail": "regaffairs@dr-pfleger.de",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "Tamsublock Duo 0,5 mg/0,4 mg Hartkapseln - Einreichungsnummer: 2204918",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02388758"
+    ],
+    "enr": [
+      "2101431"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-20",
+    "datumEnde": "2024-12-31",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Diprosalic Lösung",
+    "atcCode": "D07XC01",
+    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Organon Healthcare GmbH",
+    "mail": "ra_dach@organon.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-02-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17305241"
+    ],
+    "enr": [
+      "2205161"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-20",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Fingolimod Glenmark 0,5 mg Hartkapseln",
+    "atcCode": "L04AE01",
+    "wirkstoffe": "Fingolimodhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17305258"
+    ],
+    "enr": [
+      "2205161"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-06-20",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Fingolimod Glenmark 0,5 mg Hartkapseln",
+    "atcCode": "L04AE01",
+    "wirkstoffe": "Fingolimodhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211607"
+    ],
+    "enr": [
+      "2200190"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 80 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211636"
+    ],
+    "enr": [
+      "2200190"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 80 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211582"
+    ],
+    "enr": [
+      "2200189"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 60 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211599"
+    ],
+    "enr": [
+      "2200189"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 60 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211530"
+    ],
+    "enr": [
+      "2200188"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 40 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211547"
+    ],
+    "enr": [
+      "2200188"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 40 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211553"
+    ],
+    "enr": [
+      "2200188"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 40 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211501"
+    ],
+    "enr": [
+      "2200187"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 25 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211518"
+    ],
+    "enr": [
+      "2200187"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 25 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211524"
+    ],
+    "enr": [
+      "2200187"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 25 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211487"
+    ],
+    "enr": [
+      "2200186"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 18 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211493"
+    ],
+    "enr": [
+      "2200186"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 18 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211642"
+    ],
+    "enr": [
+      "2200191"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 100 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211659"
+    ],
+    "enr": [
+      "2200191"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 100 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211464"
+    ],
+    "enr": [
+      "2200185"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 10 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211470"
+    ],
+    "enr": [
+      "2200185"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 10 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09425801"
+    ],
+    "enr": [
+      "2173288"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-23",
+    "datumEnde": "2024-09-27",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Perindopril Erbumin Glenmark 4 mg Tabletten",
+    "atcCode": "C09AA04",
+    "wirkstoffe": "Perindopril-tert-butylamin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14265989"
+    ],
+    "enr": [
+      "2197932"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-29",
+    "datumEnde": "2024-09-27",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Trazodon Glenmark 100 mg Tabletten",
+    "atcCode": "N06AX05",
+    "wirkstoffe": "Trazodonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14266026"
+    ],
+    "enr": [
+      "2197932"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-29",
+    "datumEnde": "2024-09-27",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Trazodon Glenmark 100 mg Tabletten",
+    "atcCode": "N06AX05",
+    "wirkstoffe": "Trazodonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-08-02",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09947043"
+    ],
+    "enr": [
+      "2176202"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-12",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 5 mg Tabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-04-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09947066"
+    ],
+    "enr": [
+      "2176202"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-12",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 5 mg Tabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-04-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00417013"
+    ],
+    "enr": [
+      "2178495"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-17",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 5 mg Schmelztabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-12-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00417036"
+    ],
+    "enr": [
+      "2178495"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-17",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 5 mg Schmelztabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-12-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09947132"
+    ],
+    "enr": [
+      "2178495"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-17",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 5 mg Schmelztabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-12-19",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09947190"
+    ],
+    "enr": [
+      "2178496"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-09",
+    "datumEnde": "2024-11-08",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-04-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09947221"
+    ],
+    "enr": [
+      "2178496"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-09",
+    "datumEnde": "2024-11-08",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-04-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09947250"
+    ],
+    "enr": [
+      "2178496"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-09",
+    "datumEnde": "2024-11-08",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-04-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "10116353"
+    ],
+    "enr": [
+      "2178496"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-09",
+    "datumEnde": "2024-11-08",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-04-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09947089"
+    ],
+    "enr": [
+      "2176203"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-08",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 10 mg Tabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-04-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09947095"
+    ],
+    "enr": [
+      "2176203"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-08",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 10 mg Tabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-04-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09947103"
+    ],
+    "enr": [
+      "2176203"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-08",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 10 mg Tabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-04-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "10116347"
+    ],
+    "enr": [
+      "2176203"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-08",
+    "datumEnde": "2024-11-15",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 10 mg Tabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-04-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16031468"
+    ],
+    "enr": [
+      "2202515"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-06-24",
+    "datumEnde": "2024-09-27",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 50 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-02",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16031480"
+    ],
+    "enr": [
+      "2202515"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-06-24",
+    "datumEnde": "2024-09-27",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 50 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-02",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14266144"
+    ],
+    "enr": [
+      "2200583"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-29",
+    "datumEnde": "2024-11-22",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/80 mg Tabletten",
+    "atcCode": "C10BA02",
+    "wirkstoffe": "Ezetimib; Simvastatin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme bei der Chargenprüfung",
+    "datumErstmeldung": "2024-02-26",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "12350248"
+    ],
+    "enr": [
+      "2193488"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-11",
+    "datumEnde": "2024-09-27",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Buprenorphin Glenmark 52,5 Mikrogramm/Stunde transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-04-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "12350188"
+    ],
+    "enr": [
+      "2193487"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-01",
+    "datumEnde": "2024-09-27",
+    "datumLetzteMeldung": "2024-08-02",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Buprenorphin Glenmark 35 Mikrogramm/Stunde transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-02",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "07373359"
     ],
     "enr": [
@@ -346,30 +1249,6 @@
   },
   {
     "pzn": [
-      "10762805"
-    ],
-    "enr": [
-      "2190683"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-15",
-    "datumEnde": "2024-08-02",
-    "datumLetzteMeldung": "2024-08-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Paricalcitol SUN 5 Mikrogramm/ml Injektionslösung",
-    "atcCode": "H05BX02",
-    "wirkstoffe": "Paricalcitol",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sun Pharmaceuticals Germany GmbH",
-    "mail": "julian.elmer@sunpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Erhöhte Nachfrage",
-    "alternativPraeparat": "Paricalcitol SUN 5 Mikrogramm/ml Injektionslösung - Einreichungsnummer: 2190683",
-    "datumErstmeldung": "2024-07-11",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00914102"
     ],
     "enr": [
@@ -573,50 +1452,6 @@
     "grundAnmerkung": "The bulk tablets are manufactured in UK at Bard Pharmaceuticals and Imported to Fidelio GmbH in Germany for Coating, Packaging and Batch release. Fidelio has applied and awaited to receive Narcotic License in the name of Ennogen Healthcare (Europe) Ltd and Section 72a Cerificate to Import Bulk to Fidelio, Germany. Ennogen Healthcare (Europe) is now arranging shipment of bulk tablets to Fidelio GmbH in Germany for Coating, Packaging and Batch release and aim to be back in stock by 31/08/2024.",
     "datumErstmeldung": "2024-07-04",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02388758"
-    ],
-    "enr": [
-      "2101431"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-20",
-    "datumEnde": "2024-08-06",
-    "datumLetzteMeldung": "2024-07-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Diprosalic Lösung",
-    "atcCode": "D07XC01",
-    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Organon Healthcare GmbH",
-    "mail": "ra_dach@organon.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-02-20",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02497186"
-    ],
-    "enr": [
-      "2101431"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-20",
-    "datumEnde": "2024-08-06",
-    "datumLetzteMeldung": "2024-07-29",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Diprosalic Lösung",
-    "atcCode": "D07XC01",
-    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Organon Healthcare GmbH",
-    "mail": "ra_dach@organon.com",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-02-20",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -6783,226 +7618,6 @@
   },
   {
     "pzn": [
-      "09947089"
-    ],
-    "enr": [
-      "2176203"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-08",
-    "datumEnde": "2024-10-04",
-    "datumLetzteMeldung": "2024-07-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 10 mg Tabletten",
-    "atcCode": "N02CC04",
-    "wirkstoffe": "Rizatriptanbenzoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-04-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09947095"
-    ],
-    "enr": [
-      "2176203"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-08",
-    "datumEnde": "2024-10-04",
-    "datumLetzteMeldung": "2024-07-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 10 mg Tabletten",
-    "atcCode": "N02CC04",
-    "wirkstoffe": "Rizatriptanbenzoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-04-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09947103"
-    ],
-    "enr": [
-      "2176203"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-08",
-    "datumEnde": "2024-10-04",
-    "datumLetzteMeldung": "2024-07-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 10 mg Tabletten",
-    "atcCode": "N02CC04",
-    "wirkstoffe": "Rizatriptanbenzoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-04-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "10116347"
-    ],
-    "enr": [
-      "2176203"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-08",
-    "datumEnde": "2024-10-04",
-    "datumLetzteMeldung": "2024-07-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 10 mg Tabletten",
-    "atcCode": "N02CC04",
-    "wirkstoffe": "Rizatriptanbenzoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-04-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09947190"
-    ],
-    "enr": [
-      "2178496"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-09",
-    "datumEnde": "2024-10-04",
-    "datumLetzteMeldung": "2024-07-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
-    "atcCode": "N02CC04",
-    "wirkstoffe": "Rizatriptanbenzoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-04-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09947221"
-    ],
-    "enr": [
-      "2178496"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-09",
-    "datumEnde": "2024-10-04",
-    "datumLetzteMeldung": "2024-07-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
-    "atcCode": "N02CC04",
-    "wirkstoffe": "Rizatriptanbenzoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-04-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09947250"
-    ],
-    "enr": [
-      "2178496"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-09",
-    "datumEnde": "2024-10-04",
-    "datumLetzteMeldung": "2024-07-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
-    "atcCode": "N02CC04",
-    "wirkstoffe": "Rizatriptanbenzoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-04-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "10116353"
-    ],
-    "enr": [
-      "2178496"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-09",
-    "datumEnde": "2024-10-04",
-    "datumLetzteMeldung": "2024-07-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
-    "atcCode": "N02CC04",
-    "wirkstoffe": "Rizatriptanbenzoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-04-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16031468"
-    ],
-    "enr": [
-      "2202515"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-24",
-    "datumEnde": "2024-08-30",
-    "datumLetzteMeldung": "2024-07-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Glenmark 50 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-07-02",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16031480"
-    ],
-    "enr": [
-      "2202515"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-24",
-    "datumEnde": "2024-08-30",
-    "datumLetzteMeldung": "2024-07-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Glenmark 50 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-07-02",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "11240612"
     ],
     "enr": [
@@ -7025,72 +7640,6 @@
   },
   {
     "pzn": [
-      "17535053"
-    ],
-    "enr": [
-      "7001168"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-24",
-    "datumEnde": "2024-08-30",
-    "datumLetzteMeldung": "2024-07-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Icatibant Glenmark 30 mg Injektionslösung in einer Fertigspritze",
-    "atcCode": "B06AC02",
-    "wirkstoffe": "Icatibantacetat (1:x) ((mit Angaben zum Essigsäure-Gehalt))",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-06-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "17535082"
-    ],
-    "enr": [
-      "7001168"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-24",
-    "datumEnde": "2024-08-30",
-    "datumLetzteMeldung": "2024-07-02",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Icatibant Glenmark 30 mg Injektionslösung in einer Fertigspritze",
-    "atcCode": "B06AC02",
-    "wirkstoffe": "Icatibantacetat (1:x) ((mit Angaben zum Essigsäure-Gehalt))",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-06-10",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13925449"
-    ],
-    "enr": [
-      "2185920"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-20",
-    "datumEnde": "2024-08-30",
-    "datumLetzteMeldung": "2024-07-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon-HCl Glenmark 4 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-07-02",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "14266233"
     ],
     "enr": [
@@ -7104,28 +7653,6 @@
     "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/40 mg Tabletten",
     "atcCode": "C10BA02",
     "wirkstoffe": "Ezetimib; Simvastatin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-07-02",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "12350188"
-    ],
-    "enr": [
-      "2193487"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-07-01",
-    "datumEnde": "2024-08-30",
-    "datumLetzteMeldung": "2024-07-02",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Buprenorphin Glenmark 35 Mikrogramm/Stunde transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "mail": "Service.De@glenmarkpharma.com",
@@ -10198,28 +10725,6 @@
   },
   {
     "pzn": [
-      "09947066"
-    ],
-    "enr": [
-      "2176202"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-12",
-    "datumEnde": "2024-10-04",
-    "datumLetzteMeldung": "2024-06-11",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 5 mg Tabletten",
-    "atcCode": "N02CC04",
-    "wirkstoffe": "Rizatriptanbenzoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-04-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "03943618"
     ],
     "enr": [
@@ -10326,72 +10831,6 @@
     "mail": "thomas.morgenstern@tad.de",
     "grund": "Sonstige",
     "datumErstmeldung": "2024-03-26",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00417013"
-    ],
-    "enr": [
-      "2178495"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-17",
-    "datumEnde": "2024-10-04",
-    "datumLetzteMeldung": "2024-06-10",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 5 mg Schmelztabletten",
-    "atcCode": "N02CC04",
-    "wirkstoffe": "Rizatriptanbenzoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-12-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00417036"
-    ],
-    "enr": [
-      "2178495"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-17",
-    "datumEnde": "2024-10-04",
-    "datumLetzteMeldung": "2024-06-10",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 5 mg Schmelztabletten",
-    "atcCode": "N02CC04",
-    "wirkstoffe": "Rizatriptanbenzoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-12-19",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09947132"
-    ],
-    "enr": [
-      "2178495"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-17",
-    "datumEnde": "2024-10-04",
-    "datumLetzteMeldung": "2024-06-10",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 5 mg Schmelztabletten",
-    "atcCode": "N02CC04",
-    "wirkstoffe": "Rizatriptanbenzoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-12-19",
     "infoFachkreise": "Nein"
   },
   {
@@ -11243,28 +11682,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-01-16",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14266144"
-    ],
-    "enr": [
-      "2200583"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-29",
-    "datumEnde": "2024-10-04",
-    "datumLetzteMeldung": "2024-06-04",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/80 mg Tabletten",
-    "atcCode": "C10BA02",
-    "wirkstoffe": "Ezetimib; Simvastatin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Probleme bei der Chargenprüfung",
-    "datumErstmeldung": "2024-02-26",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -13641,28 +14058,6 @@
     "grundAnmerkung": "Es handelt sich nicht um einen vollständigen Lieferengpass sondern um eine eingeschränkte Lieferfähigkeit auf Grund einer vollständigen Auslastung der Produktionslinie. Die Belieferung erfolgt mit 80 % des durchschnittlichen Bedarfes der vorangegangenen Monate.",
     "datumErstmeldung": "2024-05-02",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12350248"
-    ],
-    "enr": [
-      "2193488"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-04-11",
-    "datumEnde": "2024-08-30",
-    "datumLetzteMeldung": "2024-04-30",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Buprenorphin Glenmark 52,5 Mikrogramm/Stunde transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-04-30",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
