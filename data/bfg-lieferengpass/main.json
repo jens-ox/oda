@@ -1,6 +1,873 @@
 [
   {
     "pzn": [
+      "05507459"
+    ],
+    "enr": [
+      "2116582"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-24",
+    "datumEnde": "2024-10-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Carbamazepin Aristo 600 mg Retardtabletten",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-01-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09494765"
+    ],
+    "enr": [
+      "2116582"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-24",
+    "datumEnde": "2024-10-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Carbamazepin Aristo 600 mg Retardtabletten",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-01-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09494771"
+    ],
+    "enr": [
+      "2116582"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-24",
+    "datumEnde": "2024-10-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Carbamazepin Aristo 600 mg Retardtabletten",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2023-01-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09491301"
+    ],
+    "enr": [
+      "2145326"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-27",
+    "datumEnde": "2024-10-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Melperon Aristo 10 mg Filmtabletten",
+    "atcCode": "N05AD03",
+    "wirkstoffe": "Melperonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-03-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09491318"
+    ],
+    "enr": [
+      "2145326"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-27",
+    "datumEnde": "2024-10-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Melperon Aristo 10 mg Filmtabletten",
+    "atcCode": "N05AD03",
+    "wirkstoffe": "Melperonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-03-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09491324"
+    ],
+    "enr": [
+      "2145326"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-27",
+    "datumEnde": "2024-10-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Melperon Aristo 10 mg Filmtabletten",
+    "atcCode": "N05AD03",
+    "wirkstoffe": "Melperonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-03-27",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12476676"
+    ],
+    "enr": [
+      "2189558"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-01",
+    "datumEnde": "2025-04-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Fluorouracil PhaRes 50 mg/ml Injektionslösung",
+    "atcCode": "L01BC02",
+    "wirkstoffe": "Fluorouracil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pharma Resources GmbH",
+    "telefon": "+49 5151 609 96 0",
+    "mail": "info@pha-res.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-02-29",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "12476682"
+    ],
+    "enr": [
+      "2189558"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-01",
+    "datumEnde": "2025-04-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Fluorouracil PhaRes 50 mg/ml Injektionslösung",
+    "atcCode": "L01BC02",
+    "wirkstoffe": "Fluorouracil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pharma Resources GmbH",
+    "telefon": "+49 5151 609 96 0",
+    "mail": "info@pha-res.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-02-29",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "12476699"
+    ],
+    "enr": [
+      "2189558"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-01",
+    "datumEnde": "2025-04-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Fluorouracil PhaRes 50 mg/ml Injektionslösung",
+    "atcCode": "L01BC02",
+    "wirkstoffe": "Fluorouracil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pharma Resources GmbH",
+    "telefon": "+49 5151 609 96 0",
+    "mail": "info@pha-res.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-02-29",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "12476707"
+    ],
+    "enr": [
+      "2189558"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-01",
+    "datumEnde": "2025-04-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Fluorouracil PhaRes 50 mg/ml Injektionslösung",
+    "atcCode": "L01BC02",
+    "wirkstoffe": "Fluorouracil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pharma Resources GmbH",
+    "telefon": "+49 5151 609 96 0",
+    "mail": "info@pha-res.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-02-29",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08472508"
+    ],
+    "enr": [
+      "2180324"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-08",
+    "datumEnde": "2024-08-19",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Risedronat Bluefish 35 mg Filmtabletten einmal wöchentlich",
+    "atcCode": "M05BA07",
+    "wirkstoffe": "Risedronat-Natrium-2,5-Hydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Bluefish Pharmaceuticals AB (publ)",
+    "telefon": "00436601373322",
+    "mail": "mariam.motamen@bluefishpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-07-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08472566"
+    ],
+    "enr": [
+      "2180324"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-08",
+    "datumEnde": "2024-08-19",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Risedronat Bluefish 35 mg Filmtabletten einmal wöchentlich",
+    "atcCode": "M05BA07",
+    "wirkstoffe": "Risedronat-Natrium-2,5-Hydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Bluefish Pharmaceuticals AB (publ)",
+    "telefon": "00436601373322",
+    "mail": "mariam.motamen@bluefishpharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-07-09",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05117333"
+    ],
+    "enr": [
+      "2160225"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-25",
+    "datumEnde": "2024-10-24",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Risperidon STADA 4mg Filmtabletten",
+    "atcCode": "N05AX08",
+    "wirkstoffe": "Risperidon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM GmbH",
+    "mail": "Minyoung.seo@stadapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-08-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05117451"
+    ],
+    "enr": [
+      "2160225"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-25",
+    "datumEnde": "2024-10-24",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Risperidon STADA 4mg Filmtabletten",
+    "atcCode": "N05AX08",
+    "wirkstoffe": "Risperidon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM GmbH",
+    "mail": "Minyoung.seo@stadapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-08-04",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16911867"
+    ],
+    "enr": [
+      "7005329"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-08-08",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Oyavas",
+    "atcCode": "L01XC07",
+    "wirkstoffe": "Bevacizumab",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADA Arzneimittel Aktiengesellschaft - Geschäftsanschrift -",
+    "telefon": "061016032416",
+    "mail": "christiane.georgi@stada.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-07-12",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11279672"
+    ],
+    "enr": [
+      "2193483"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-08-01",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenoratiopharm 70 Mikrogramm/Stunde Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "Buprenoratiopharm 7 Tage 10 Mikrogramm/Stunde Transdermales Pflaster - Einreichungsnummer: 2195463",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16701070"
+    ],
+    "enr": [
+      "2203524"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-02",
+    "datumEnde": "2024-10-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azacitidin HEXAL 25 mg/ml Pulver zur Herstellung einer Injektionssuspension",
+    "atcCode": "L01BC07",
+    "wirkstoffe": "Azacitidin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "11856804"
+    ],
+    "enr": [
+      "2195463"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-08-01",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenoratiopharm 7 Tage 10 Mikrogramm/Stunde Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "Buprenoratiopharm 70 Mikrogramm/Stunde Transdermales Pflaster - Einreichungsnummer: 2193483",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14352493"
+    ],
+    "enr": [
+      "2196160"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-31",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atomoxe - 1 A Pharma 80 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14352501"
+    ],
+    "enr": [
+      "2196160"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-31",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atomoxe - 1 A Pharma 80 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07563539"
+    ],
+    "enr": [
+      "2188452"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-13",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin-ratiopharm 70 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07563551"
+    ],
+    "enr": [
+      "2188452"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-13",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin-ratiopharm 70 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14352470"
+    ],
+    "enr": [
+      "2196159"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-31",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atomoxe - 1 A Pharma 60 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14352487"
+    ],
+    "enr": [
+      "2196159"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-31",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atomoxe - 1 A Pharma 60 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14352441"
+    ],
+    "enr": [
+      "2196158"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-31",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atomoxe - 1 A Pharma 40 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14352458"
+    ],
+    "enr": [
+      "2196158"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-31",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atomoxe - 1 A Pharma 40 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14352464"
+    ],
+    "enr": [
+      "2196158"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-31",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atomoxe - 1 A Pharma 40 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14352257"
+    ],
+    "enr": [
+      "2196157"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-31",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atomoxe - 1 A Pharma 25 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14352292"
+    ],
+    "enr": [
+      "2196157"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-31",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atomoxe - 1 A Pharma 25 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14352435"
+    ],
+    "enr": [
+      "2196157"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-31",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atomoxe - 1 A Pharma 25 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14352234"
+    ],
+    "enr": [
+      "2196156"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-31",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atomoxe - 1 A Pharma 18 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14352240"
+    ],
+    "enr": [
+      "2196156"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-31",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atomoxe - 1 A Pharma 18 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14352518"
+    ],
+    "enr": [
+      "2196161"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-31",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atomoxe - 1 A Pharma 100 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14352694"
+    ],
+    "enr": [
+      "2196161"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-31",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atomoxe - 1 A Pharma 100 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14352211"
+    ],
+    "enr": [
+      "2196155"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-31",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atomoxe - 1 A Pharma 10 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14352228"
+    ],
+    "enr": [
+      "2196155"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-31",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atomoxe - 1 A Pharma 10 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-08-07",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06963076"
+    ],
+    "enr": [
+      "0063302"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-04",
+    "datumEnde": "2024-09-23",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clindahexal 150",
+    "atcCode": "J01FF01",
+    "wirkstoffe": "Clindamycinhydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-10-18",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03126575"
+    ],
+    "enr": [
+      "2103604"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-24",
+    "datumEnde": "2024-10-31",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxihexal 1000",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-02-24",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16575300"
+    ],
+    "enr": [
+      "2138192"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-05",
+    "datumEnde": "2024-10-31",
+    "datumLetzteMeldung": "2024-08-07",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cefadroxil 250 TS - 1 A Pharma",
+    "atcCode": "J01DB05",
+    "wirkstoffe": "Cefadroxil-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2023-06-05",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "12468292"
     ],
     "enr": [
@@ -3331,7 +4198,7 @@
     "atcCode": "C07AA05",
     "wirkstoffe": "Propranololhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
@@ -4528,7 +5395,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "grund": "Sonstige",
     "grundAnmerkung": "---",
@@ -4551,7 +5418,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "grund": "Sonstige",
     "grundAnmerkung": "---",
@@ -4574,7 +5441,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "grund": "Sonstige",
     "grundAnmerkung": "---",
@@ -5208,29 +6075,6 @@
   },
   {
     "pzn": [
-      "16911867"
-    ],
-    "enr": [
-      "7005329"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-15",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-07-22",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Oyavas",
-    "atcCode": "L01XC07",
-    "wirkstoffe": "Bevacizumab",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADA Arzneimittel Aktiengesellschaft - Geschäftsanschrift -",
-    "telefon": "061016032416",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-07-12",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "01014719"
     ],
     "enr": [
@@ -5250,29 +6094,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2024-07-22",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08472508"
-    ],
-    "enr": [
-      "2180324"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-08",
-    "datumEnde": "2024-08-07",
-    "datumLetzteMeldung": "2024-07-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Risedronat Bluefish 35 mg Filmtabletten einmal wöchentlich",
-    "atcCode": "M05BA07",
-    "wirkstoffe": "Risedronat-Natrium-2,5-Hydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Bluefish Pharmaceuticals AB (publ)",
-    "telefon": "00436601373322",
-    "mail": "mariam.motamen@bluefishpharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-07-09",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -7156,28 +7977,6 @@
   },
   {
     "pzn": [
-      "03126575"
-    ],
-    "enr": [
-      "2103604"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-24",
-    "datumEnde": "2024-08-02",
-    "datumLetzteMeldung": "2024-07-12",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxihexal 1000",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-02-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "06190384"
     ],
     "enr": [
@@ -8035,28 +8834,6 @@
     "datumLetzteMeldung": "2024-07-03",
     "grundArt": "Sonstige",
     "bezeichnung": "Buprenorphin-ratiopharm 35 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-03-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07563551"
-    ],
-    "enr": [
-      "2188452"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-13",
-    "datumEnde": "2024-08-07",
-    "datumLetzteMeldung": "2024-07-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin-ratiopharm 70 Mikrogramm/h Transdermales Pflaster",
     "atcCode": "N02AE01",
     "wirkstoffe": "Buprenorphin",
     "krankenhausrelevant": false,
@@ -9801,52 +10578,6 @@
   },
   {
     "pzn": [
-      "01043081"
-    ],
-    "enr": [
-      "2107423"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-18",
-    "datumEnde": "2024-08-14",
-    "datumLetzteMeldung": "2024-06-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Vancomycin Enterocaps 250 mg",
-    "atcCode": "J01XA01",
-    "wirkstoffe": "Vancomycinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
-    "mail": "info.germany@esteve.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Stock Out eines Mitbewerbers und dadurch stark erhöhte Abverkäufe aller Vancomycin SKUs seit Ende 2023",
-    "datumErstmeldung": "2024-06-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03571861"
-    ],
-    "enr": [
-      "2107423"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-18",
-    "datumEnde": "2024-08-14",
-    "datumLetzteMeldung": "2024-06-24",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Vancomycin Enterocaps 250 mg",
-    "atcCode": "J01XA01",
-    "wirkstoffe": "Vancomycinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
-    "mail": "info.germany@esteve.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Stock Out eines Mitbewerbers und dadurch stark erhöhte Abverkäufe aller Vancomycin SKUs seit Ende 2023",
-    "datumErstmeldung": "2024-06-24",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "11666512"
     ],
     "enr": [
@@ -9861,7 +10592,7 @@
     "atcCode": "A07AA09",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "stark erhöhte Abverkäufe im Dezember und Januardurch Stock Out eines Wettbewerbers",
@@ -9884,7 +10615,7 @@
     "atcCode": "A07AA09",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "stark erhöhte Abverkäufe im Dezember und Januardurch Stock Out eines Wettbewerbers",
@@ -10793,31 +11524,6 @@
   },
   {
     "pzn": [
-      "06053210"
-    ],
-    "enr": [
-      "0196724"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-05-17",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-06-14",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Suprarenin Ampullen",
-    "atcCode": "C01CA24",
-    "wirkstoffe": "Epinephrinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "telefon": "038343914465",
-    "mail": "ra-epinephrine@cheplapharm.com",
-    "grund": "Probleme in der Herstellung",
-    "grundAnmerkung": "Probleme bei der HerstellungVerzögerung in der Produktion am Herstellungsort (verfügbare Kapazität)",
-    "alternativPraeparat": "Suprarenin Durchstechflasche - Einreichungsnummer: 0091497",
-    "datumErstmeldung": "2024-06-14",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "13588578"
     ],
     "enr": [
@@ -11665,29 +12371,6 @@
   },
   {
     "pzn": [
-      "01138798"
-    ],
-    "enr": [
-      "0084793"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-15",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-06-06",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Xylonest 0,5 % Fl. 50 ml",
-    "atcCode": "N01BB04",
-    "wirkstoffe": "Prilocainhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aspen Pharma Trading Limited",
-    "telefon": "+49 89  93 08 38 00",
-    "mail": "de-info@aspenpharma.eu",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-03-15",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03079350"
     ],
     "enr": [
@@ -11749,7 +12432,7 @@
     "atcCode": "G03DB08",
     "wirkstoffe": "Dienogest",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "034954247484",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "grund": "Sonstige",
@@ -11773,7 +12456,7 @@
     "atcCode": "G03DB08",
     "wirkstoffe": "Dienogest",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "034954247484",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "grund": "Sonstige",
@@ -11797,7 +12480,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -11819,7 +12502,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -11841,7 +12524,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -11863,7 +12546,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -11885,7 +12568,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -11907,7 +12590,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -11929,7 +12612,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -11951,7 +12634,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -11973,7 +12656,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -11995,7 +12678,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -12017,7 +12700,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -12039,7 +12722,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -12061,7 +12744,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -12083,7 +12766,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -12105,7 +12788,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -12127,7 +12810,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-14",
@@ -12149,7 +12832,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-14",
@@ -12193,7 +12876,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Probleme in der Herstellung",
@@ -12397,7 +13080,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -12420,7 +13103,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -12443,7 +13126,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -12840,50 +13523,6 @@
   },
   {
     "pzn": [
-      "05117333"
-    ],
-    "enr": [
-      "2160225"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-25",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-05-14",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Risperidon STADA 4mg Filmtabletten",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "mail": "Minyoung.seo@stadapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05117451"
-    ],
-    "enr": [
-      "2160225"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-25",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-05-14",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Risperidon STADA 4mg Filmtabletten",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "mail": "Minyoung.seo@stadapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-08-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "06115247"
     ],
     "enr": [
@@ -13084,28 +13723,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-01-25",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06963076"
-    ],
-    "enr": [
-      "0063302"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-04",
-    "datumEnde": "2024-08-02",
-    "datumLetzteMeldung": "2024-05-10",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clindahexal 150",
-    "atcCode": "J01FF01",
-    "wirkstoffe": "Clindamycinhydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-10-18",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -13607,204 +14224,6 @@
   },
   {
     "pzn": [
-      "09491330"
-    ],
-    "enr": [
-      "2138613"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-27",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-05-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Melperon Aristo 25 mg Filmtabletten",
-    "atcCode": "N05AD03",
-    "wirkstoffe": "Melperonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-03-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09491347"
-    ],
-    "enr": [
-      "2138613"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-27",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-05-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Melperon Aristo 25 mg Filmtabletten",
-    "atcCode": "N05AD03",
-    "wirkstoffe": "Melperonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-03-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09491353"
-    ],
-    "enr": [
-      "2138613"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-27",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-05-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Melperon Aristo 25 mg Filmtabletten",
-    "atcCode": "N05AD03",
-    "wirkstoffe": "Melperonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-03-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09491301"
-    ],
-    "enr": [
-      "2145326"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-27",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-05-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Melperon Aristo 10 mg Filmtabletten",
-    "atcCode": "N05AD03",
-    "wirkstoffe": "Melperonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-03-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09491318"
-    ],
-    "enr": [
-      "2145326"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-27",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-05-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Melperon Aristo 10 mg Filmtabletten",
-    "atcCode": "N05AD03",
-    "wirkstoffe": "Melperonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-03-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09491324"
-    ],
-    "enr": [
-      "2145326"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-27",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-05-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Melperon Aristo 10 mg Filmtabletten",
-    "atcCode": "N05AD03",
-    "wirkstoffe": "Melperonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-03-27",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05507459"
-    ],
-    "enr": [
-      "2116582"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-24",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-05-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Carbamazepin Aristo 600 mg Retardtabletten",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-01-24",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09494765"
-    ],
-    "enr": [
-      "2116582"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-24",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-05-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Carbamazepin Aristo 600 mg Retardtabletten",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-01-24",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09494771"
-    ],
-    "enr": [
-      "2116582"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-24",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-05-03",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Carbamazepin Aristo 600 mg Retardtabletten",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2023-01-24",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "08515488"
     ],
     "enr": [
@@ -13825,28 +14244,6 @@
     "grund": "Herstellerwechsel",
     "datumErstmeldung": "2022-11-10",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16575300"
-    ],
-    "enr": [
-      "2138192"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-05",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-05-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefadroxil 250 TS - 1 A Pharma",
-    "atcCode": "J01DB05",
-    "wirkstoffe": "Cefadroxil-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2023-06-05",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -13890,7 +14287,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -13916,7 +14313,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -13942,7 +14339,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -13968,7 +14365,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -13994,7 +14391,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14020,7 +14417,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -15298,98 +15695,6 @@
     "mail": "info@altamedics.de",
     "grund": "Herstellerwechsel",
     "datumErstmeldung": "2024-03-06",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "12476676"
-    ],
-    "enr": [
-      "2189558"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-01",
-    "datumEnde": "2024-12-31",
-    "datumLetzteMeldung": "2024-03-01",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Fluorouracil PhaRes 50 mg/ml Injektionslösung",
-    "atcCode": "L01BC02",
-    "wirkstoffe": "Fluorouracil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pharma Resources GmbH",
-    "telefon": "+49 5151 609 96 0",
-    "mail": "info@pha-res.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-02-29",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "12476682"
-    ],
-    "enr": [
-      "2189558"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-01",
-    "datumEnde": "2024-12-31",
-    "datumLetzteMeldung": "2024-03-01",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Fluorouracil PhaRes 50 mg/ml Injektionslösung",
-    "atcCode": "L01BC02",
-    "wirkstoffe": "Fluorouracil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pharma Resources GmbH",
-    "telefon": "+49 5151 609 96 0",
-    "mail": "info@pha-res.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-02-29",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "12476699"
-    ],
-    "enr": [
-      "2189558"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-01",
-    "datumEnde": "2024-12-31",
-    "datumLetzteMeldung": "2024-03-01",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Fluorouracil PhaRes 50 mg/ml Injektionslösung",
-    "atcCode": "L01BC02",
-    "wirkstoffe": "Fluorouracil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pharma Resources GmbH",
-    "telefon": "+49 5151 609 96 0",
-    "mail": "info@pha-res.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-02-29",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "12476707"
-    ],
-    "enr": [
-      "2189558"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-01",
-    "datumEnde": "2024-12-31",
-    "datumLetzteMeldung": "2024-03-01",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Fluorouracil PhaRes 50 mg/ml Injektionslösung",
-    "atcCode": "L01BC02",
-    "wirkstoffe": "Fluorouracil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pharma Resources GmbH",
-    "telefon": "+49 5151 609 96 0",
-    "mail": "info@pha-res.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-02-29",
     "infoFachkreise": "Nein"
   },
   {
