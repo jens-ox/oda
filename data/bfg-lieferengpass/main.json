@@ -1,6 +1,150 @@
 [
   {
     "pzn": [
+      "14063263"
+    ],
+    "enr": [
+      "2193900"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-30",
+    "datumEnde": "2024-08-26",
+    "datumLetzteMeldung": "2024-08-08",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Takrozem 1 mg/g Salbe",
+    "atcCode": "D11AH01",
+    "wirkstoffe": "Tacrolimus-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pierre Fabre Dermo-Kosmetik GmbH",
+    "telefon": "076145261230",
+    "mail": "zulassung_de@pierre-fabre.com",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-06-30",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11695063"
+    ],
+    "enr": [
+      "2709887"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-08-08",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-08-08",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Tresiba 100 Einheiten/ml Injektionslösung in Patrone - OP(10x3ml)",
+    "atcCode": "A10AE06",
+    "wirkstoffe": "Insulin degludec",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundAnmerkung": "aktuell eingeschränkte Lieferfähigkeit",
+    "alternativPraeparat": "Tresiba 100 Einheiten/ml Injektionslösung in Patrone - OP(5x3ml) - Einreichungsnummer: 2709886",
+    "datumErstmeldung": "2024-08-08",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "10174899"
+    ],
+    "enr": [
+      "2711552"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-08-08",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-08-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "NovoEight",
+    "atcCode": "B02BD02",
+    "wirkstoffe": "Turoctocog alfa",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundAnmerkung": "Herstellungsprobleme und unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-08-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05541338"
+    ],
+    "enr": [
+      "0037262"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-31",
+    "datumEnde": "2024-08-27",
+    "datumLetzteMeldung": "2024-08-08",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Marcumar",
+    "atcCode": "B01AA04",
+    "wirkstoffe": "Phenprocoumon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800 0700 800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Marcumar - Einreichungsnummer: 0037262",
+    "datumErstmeldung": "2024-03-04",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07768170"
+    ],
+    "enr": [
+      "0037262"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-31",
+    "datumEnde": "2024-08-27",
+    "datumLetzteMeldung": "2024-08-08",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Marcumar",
+    "atcCode": "B01AA04",
+    "wirkstoffe": "Phenprocoumon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800 0700 800",
+    "mail": "kundenservice@viatris.com",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Marcumar - Einreichungsnummer: 0037262",
+    "datumErstmeldung": "2024-03-04",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "15398557"
+    ],
+    "enr": [
+      "2714969"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-01-10",
+    "datumEnde": "2024-09-30",
+    "datumLetzteMeldung": "2024-08-08",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ozempic 1 mg Injektionslösung in einem Fertigpen - OP(3x3ml)",
+    "atcCode": "A10BJ06",
+    "wirkstoffe": "Semaglutid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Lieferverzögerung durch eine stärker als erwartet gestiegene Nachfrage",
+    "datumErstmeldung": "2024-08-08",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "05507459"
     ],
     "enr": [
@@ -311,29 +455,6 @@
     "mail": "Minyoung.seo@stadapharm.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2023-08-04",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16911867"
-    ],
-    "enr": [
-      "7005329"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-15",
-    "datumEnde": "2024-08-08",
-    "datumLetzteMeldung": "2024-08-07",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Oyavas",
-    "atcCode": "L01XC07",
-    "wirkstoffe": "Bevacizumab",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADA Arzneimittel Aktiengesellschaft - Geschäftsanschrift -",
-    "telefon": "061016032416",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-07-12",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -4198,7 +4319,7 @@
     "atcCode": "C07AA05",
     "wirkstoffe": "Propranololhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
@@ -5288,54 +5409,6 @@
   },
   {
     "pzn": [
-      "05541338"
-    ],
-    "enr": [
-      "0037262"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-31",
-    "datumEnde": "2024-08-15",
-    "datumLetzteMeldung": "2024-07-23",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Marcumar",
-    "atcCode": "B01AA04",
-    "wirkstoffe": "Phenprocoumon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800 0700 800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "Marcumar - Einreichungsnummer: 0037262",
-    "datumErstmeldung": "2024-03-04",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "07768170"
-    ],
-    "enr": [
-      "0037262"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-31",
-    "datumEnde": "2024-08-15",
-    "datumLetzteMeldung": "2024-07-23",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Marcumar",
-    "atcCode": "B01AA04",
-    "wirkstoffe": "Phenprocoumon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800 0700 800",
-    "mail": "kundenservice@viatris.com",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "Marcumar - Einreichungsnummer: 0037262",
-    "datumErstmeldung": "2024-03-04",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "03083251"
     ],
     "enr": [
@@ -5395,7 +5468,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "grund": "Sonstige",
     "grundAnmerkung": "---",
@@ -5418,7 +5491,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "grund": "Sonstige",
     "grundAnmerkung": "---",
@@ -5441,7 +5514,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "grund": "Sonstige",
     "grundAnmerkung": "---",
@@ -5953,30 +6026,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-05-03",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08460623"
-    ],
-    "enr": [
-      "2179707"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-01",
-    "datumEnde": "2024-08-26",
-    "datumLetzteMeldung": "2024-07-22",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Latanoprost STADA 50 Mikrogramm/ml Augentropfen",
-    "atcCode": "S01EE01",
-    "wirkstoffe": "Latanoprost",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "telefon": "061016032416",
-    "mail": "christiane.georgi@stada.de",
-    "grund": "Probleme in der Herstellung",
-    "alternativPraeparat": "Latanoprost STADA 50 Mikrogramm/ml Augentropfen - Einreichungsnummer: 2179707",
-    "datumErstmeldung": "2024-07-22",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -9912,30 +9961,6 @@
   },
   {
     "pzn": [
-      "02782030"
-    ],
-    "enr": [
-      "2159808"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-07-12",
-    "datumEnde": "2024-08-05",
-    "datumLetzteMeldung": "2024-06-28",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Vesikur 5 mg Filmtabletten",
-    "atcCode": "G04BD08",
-    "wirkstoffe": "Solifenacinsuccinat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Astellas Pharma GmbH",
-    "telefon": "+49-89-4544-1299",
-    "mail": "isabell.weitzenbauer@astellas.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "3 Mitbewerber sind seit April lieferunfähig",
-    "datumErstmeldung": "2024-06-28",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02331250"
     ],
     "enr": [
@@ -10070,30 +10095,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "Nachfrage in Deutschland kann nur teilweise gedeckt werden",
     "datumErstmeldung": "2023-11-29",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "15398557"
-    ],
-    "enr": [
-      "2714968"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-10",
-    "datumEnde": "2024-09-30",
-    "datumLetzteMeldung": "2024-06-27",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ozempic 1 mg Injektionslösung in einem Fertigpen - OP3ml",
-    "atcCode": "A10BJ06",
-    "wirkstoffe": "Semaglutid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "grund": "Erhöhte Nachfrage",
-    "grundAnmerkung": "Nachfrage in Deutschland kann nur teilweise gedeckt werden",
-    "datumErstmeldung": "2024-01-10",
     "infoFachkreise": "Nein"
   },
   {
@@ -10592,7 +10593,7 @@
     "atcCode": "A07AA09",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "stark erhöhte Abverkäufe im Dezember und Januardurch Stock Out eines Wettbewerbers",
@@ -10615,7 +10616,7 @@
     "atcCode": "A07AA09",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "stark erhöhte Abverkäufe im Dezember und Januardurch Stock Out eines Wettbewerbers",
@@ -12432,7 +12433,7 @@
     "atcCode": "G03DB08",
     "wirkstoffe": "Dienogest",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954247484",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "grund": "Sonstige",
@@ -12456,7 +12457,7 @@
     "atcCode": "G03DB08",
     "wirkstoffe": "Dienogest",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954247484",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "grund": "Sonstige",
@@ -12480,7 +12481,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -12502,7 +12503,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -12524,7 +12525,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -12546,7 +12547,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -12568,7 +12569,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -12590,7 +12591,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -12612,7 +12613,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -12634,7 +12635,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -12656,7 +12657,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -12678,7 +12679,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -12700,7 +12701,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -12722,7 +12723,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -12744,7 +12745,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -12766,7 +12767,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -12788,7 +12789,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -12810,7 +12811,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-14",
@@ -12832,7 +12833,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-14",
@@ -12876,7 +12877,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Probleme in der Herstellung",
@@ -13080,7 +13081,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -13103,7 +13104,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -13126,7 +13127,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -14287,7 +14288,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14313,7 +14314,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14339,7 +14340,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14365,7 +14366,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14391,7 +14392,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14417,7 +14418,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -15064,52 +15065,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-27",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14063263"
-    ],
-    "enr": [
-      "2193900"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-30",
-    "datumEnde": "2024-08-26",
-    "datumLetzteMeldung": "2024-03-27",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Takrozem 1 mg/g Salbe",
-    "atcCode": "D11AH01",
-    "wirkstoffe": "Tacrolimus-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pierre Fabre Dermo-Kosmetik GmbH",
-    "telefon": "076145261230",
-    "mail": "zulassung_de@pierre-fabre.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-06-30",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14063286"
-    ],
-    "enr": [
-      "2193900"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-30",
-    "datumEnde": "2024-08-26",
-    "datumLetzteMeldung": "2024-03-27",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Takrozem 1 mg/g Salbe",
-    "atcCode": "D11AH01",
-    "wirkstoffe": "Tacrolimus-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pierre Fabre Dermo-Kosmetik GmbH",
-    "telefon": "076145261230",
-    "mail": "zulassung_de@pierre-fabre.com",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-06-30",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
