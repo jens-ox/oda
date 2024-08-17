@@ -1,6 +1,51 @@
 [
   {
     "pzn": [
+      "07373359"
+    ],
+    "enr": [
+      "2705751"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-26",
+    "datumEnde": "2024-08-30",
+    "datumLetzteMeldung": "2024-08-16",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ZYPADHERA 405 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(931mg+3ml)",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapinembonat-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Cheplapharm Registration GmbH",
+    "mail": "iva.gjolli@cheplapharm-reg.com",
+    "grund": "Sonstige",
+    "datumErstmeldung": "2024-08-01",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10038943"
+    ],
+    "enr": [
+      "2189245"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-08-01",
+    "datumEnde": "2024-10-31",
+    "datumLetzteMeldung": "2024-08-16",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon Aristo long 4 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "grund": "Sonstige",
+    "alternativPraeparat": "Hydromorphon Aristo long 4 mg Retardtabletten - Einreichungsnummer: 2189245",
+    "datumErstmeldung": "2024-08-16",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "06103741"
     ],
     "enr": [
@@ -3998,29 +4043,6 @@
   },
   {
     "pzn": [
-      "00832373"
-    ],
-    "enr": [
-      "2128201"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-08",
-    "datumEnde": "2024-08-31",
-    "datumLetzteMeldung": "2024-08-05",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Panoral500mg",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
-    "telefon": "096289237670",
-    "mail": "schoeberl@eberth.de",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "datumErstmeldung": "2024-07-09",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "05492309"
     ],
     "enr": [
@@ -5810,28 +5832,6 @@
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-07-02",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "07373359"
-    ],
-    "enr": [
-      "2705751"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-07-26",
-    "datumEnde": "2024-08-19",
-    "datumLetzteMeldung": "2024-08-01",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ZYPADHERA 405 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(931mg+3ml)",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapinembonat-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Cheplapharm Registration GmbH",
-    "mail": "iva.gjolli@cheplapharm-reg.com",
-    "grund": "Sonstige",
-    "datumErstmeldung": "2024-08-01",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -8269,6 +8269,245 @@
     "alternativPraeparat": "AZI-TEVA 500 mg Filmtabletten - Einreichungsnummer: 2163514",
     "datumErstmeldung": "2024-06-19",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16682875"
+    ],
+    "enr": [
+      "2188009"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-10-31",
+    "datumLetzteMeldung": "2024-07-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 10 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16682881"
+    ],
+    "enr": [
+      "2188009"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-10-31",
+    "datumLetzteMeldung": "2024-07-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 10 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16682898"
+    ],
+    "enr": [
+      "2188009"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-10-31",
+    "datumLetzteMeldung": "2024-07-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 10 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12394820"
+    ],
+    "enr": [
+      "2188011"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-10-31",
+    "datumLetzteMeldung": "2024-07-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 40 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12394837"
+    ],
+    "enr": [
+      "2188011"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-10-31",
+    "datumLetzteMeldung": "2024-07-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 40 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12394843"
+    ],
+    "enr": [
+      "2188011"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-10-31",
+    "datumLetzteMeldung": "2024-07-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 40 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in der Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16682964"
+    ],
+    "enr": [
+      "2188012"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-10-31",
+    "datumLetzteMeldung": "2024-07-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 80 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16682970"
+    ],
+    "enr": [
+      "2188012"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-10-31",
+    "datumLetzteMeldung": "2024-07-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 80 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16682987"
+    ],
+    "enr": [
+      "2188012"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-17",
+    "datumEnde": "2024-10-31",
+    "datumLetzteMeldung": "2024-07-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycan uno 80 mg Retardtabletten",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "grundAnmerkung": "Kapazitätsengpässe in Herstellungsstätte",
+    "datumErstmeldung": "2023-10-17",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04232262"
+    ],
+    "enr": [
+      "2160056"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-05",
+    "datumEnde": "2024-08-31",
+    "datumLetzteMeldung": "2024-07-17",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Mirtazapin-Hormosan 30 mg Filmtabletten",
+    "atcCode": "N06AX11",
+    "wirkstoffe": "Mirtazapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-02-06",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
