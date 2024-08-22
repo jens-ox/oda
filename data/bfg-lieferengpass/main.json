@@ -1,6 +1,393 @@
 [
   {
     "pzn": [
+      "00748129"
+    ],
+    "enr": [
+      "0008591"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-08-21",
+    "datumEnde": "2024-10-21",
+    "datumLetzteMeldung": "2024-08-21",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Proparakain-POS 0,5 %",
+    "atcCode": "S01HA04",
+    "wirkstoffe": "Proxymetacainhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Proparakain-POS 0,5 % - Einreichungsnummer: 0008591",
+    "datumErstmeldung": "2024-08-21",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05460172"
+    ],
+    "enr": [
+      "2130661"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-08-21",
+    "datumEnde": "2024-10-31",
+    "datumLetzteMeldung": "2024-08-21",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Timo-COMOD 0,1%",
+    "atcCode": "S01ED01",
+    "wirkstoffe": "Timololmaleat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "alternativPraeparat": "Timo-COMOD 0,1% - Einreichungsnummer: 2130661",
+    "datumErstmeldung": "2024-08-21",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04982922"
+    ],
+    "enr": [
+      "2163514"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-09-15",
+    "datumLetzteMeldung": "2024-08-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "AZI-TEVA 500 mg Filmtabletten",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "AZI-TEVA 250 mg Filmtabletten - Einreichungsnummer: 2163513",
+    "datumErstmeldung": "2024-07-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01065622"
+    ],
+    "enr": [
+      "2190670"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-09-15",
+    "datumLetzteMeldung": "2024-08-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin AbZ 500 mg Filmtabletten",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "mail": "info@abz.de",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "Azithromycin-ratiopharm 250mg Filmtabletten - Einreichungsnummer: 2162285",
+    "datumErstmeldung": "2024-07-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01014688"
+    ],
+    "enr": [
+      "2132715"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-11",
+    "datumEnde": "2024-09-30",
+    "datumLetzteMeldung": "2024-08-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxicillin AbZ 1000mg Filmtabletten",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "mail": "info@abz.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-11",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09229170"
+    ],
+    "enr": [
+      "2184821"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-13",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-HCl-ratiopharm 8 mg Hartkapseln, retardiert",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09229187"
+    ],
+    "enr": [
+      "2184821"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-13",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-HCl-ratiopharm 8 mg Hartkapseln, retardiert",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06115276"
+    ],
+    "enr": [
+      "2176823"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-13",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-ratiopharm 16 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06115282"
+    ],
+    "enr": [
+      "2176823"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-13",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-ratiopharm 16 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-13",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06115247"
+    ],
+    "enr": [
+      "2176822"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-14",
+    "datumEnde": "2024-11-30",
+    "datumLetzteMeldung": "2024-08-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-ratiopharm 8 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-05-14",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01690254"
+    ],
+    "enr": [
+      "2150516"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-11",
+    "datumEnde": "2024-10-31",
+    "datumLetzteMeldung": "2024-08-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ciprofloxacin-ratiopharm 500 mg Filmtabletten",
+    "atcCode": "J01MA02",
+    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-11",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01690260"
+    ],
+    "enr": [
+      "2150516"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-11",
+    "datumEnde": "2024-10-31",
+    "datumLetzteMeldung": "2024-08-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ciprofloxacin-ratiopharm 500 mg Filmtabletten",
+    "atcCode": "J01MA02",
+    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "datumErstmeldung": "2024-03-11",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03738232"
+    ],
+    "enr": [
+      "2162572"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-09-15",
+    "datumLetzteMeldung": "2024-08-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin-ratiopharm 500 mg Filmtabletten",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "grund": "Erhöhte Nachfrage",
+    "alternativPraeparat": "Azithromycin-ratiopharm 500 mg Filmtabletten - Einreichungsnummer: 2162572",
+    "datumErstmeldung": "2024-07-22",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16763734"
+    ],
+    "enr": [
+      "2202118"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-08-13",
+    "datumEnde": "2024-10-20",
+    "datumLetzteMeldung": "2024-08-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Calcipotriderm comp. 50 Mikrogramm/g + 0,5 mg/g Gel",
+    "atcCode": "D05AX52",
+    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Calcipotriol-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundAnmerkung": "Der Lieferengpass kann vorerst durch die Packungsgröße 60g kompensiert werden.",
+    "alternativPraeparat": "Calcipotriderm comp. 50 Mikrogramm/g + 0,5 mg/g Gel - Einreichungsnummer: 2202118",
+    "datumErstmeldung": "2024-08-21",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06978020"
+    ],
+    "enr": [
+      "2149881"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-08-13",
+    "datumEnde": "2024-11-17",
+    "datumLetzteMeldung": "2024-08-21",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Karison Crinale",
+    "atcCode": "D07AD01",
+    "wirkstoffe": "Clobetasolpropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "datumErstmeldung": "2024-08-21",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02498642"
+    ],
+    "enr": [
+      "2102131"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-24",
+    "datumEnde": "2024-09-26",
+    "datumLetzteMeldung": "2024-08-21",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Gentamicin-POS",
+    "atcCode": "S01AA11",
+    "wirkstoffe": "Gentamicinsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2023-12-20",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03083251"
+    ],
+    "enr": [
+      "2106472"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-20",
+    "datumEnde": "2024-09-20",
+    "datumLetzteMeldung": "2024-08-21",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Dexa-Gentamicin",
+    "atcCode": "S01CA01",
+    "wirkstoffe": "Dexamethason; Gentamicinsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "grund": "Probleme in der Herstellung",
+    "datumErstmeldung": "2024-02-21",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "07820775"
     ],
     "enr": [
@@ -241,7 +628,7 @@
     "atcCode": "A07AA09",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "stark erhöhte Abverkäufe im Dezember und Januardurch Stock Out eines Wettbewerbers",
@@ -264,7 +651,7 @@
     "atcCode": "A07AA09",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Erhöhte Nachfrage",
     "grundAnmerkung": "stark erhöhte Abverkäufe im Dezember und Januardurch Stock Out eines Wettbewerbers",
@@ -2535,7 +2922,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "grund": "Sonstige",
     "grundAnmerkung": "---",
@@ -2558,7 +2945,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "grund": "Sonstige",
     "grundAnmerkung": "---",
@@ -2581,7 +2968,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "grund": "Sonstige",
     "grundAnmerkung": "---",
@@ -4195,94 +4582,6 @@
   },
   {
     "pzn": [
-      "06115276"
-    ],
-    "enr": [
-      "2176823"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-13",
-    "datumEnde": "2024-08-31",
-    "datumLetzteMeldung": "2024-08-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-ratiopharm 16 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-03-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06115282"
-    ],
-    "enr": [
-      "2176823"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-13",
-    "datumEnde": "2024-08-31",
-    "datumLetzteMeldung": "2024-08-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-ratiopharm 16 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-03-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09229170"
-    ],
-    "enr": [
-      "2184821"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-13",
-    "datumEnde": "2024-08-30",
-    "datumLetzteMeldung": "2024-08-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HCl-ratiopharm 8 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-03-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09229187"
-    ],
-    "enr": [
-      "2184821"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-13",
-    "datumEnde": "2024-08-30",
-    "datumLetzteMeldung": "2024-08-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HCl-ratiopharm 8 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-03-13",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00997594"
     ],
     "enr": [
@@ -4496,28 +4795,6 @@
     "bezeichnung": "Ciprofloxacin AbZ 500 mg Filmtabletten",
     "atcCode": "J01MA02",
     "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "mail": "info@abz.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-03-11",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01014688"
-    ],
-    "enr": [
-      "2132715"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-11",
-    "datumEnde": "2024-08-18",
-    "datumLetzteMeldung": "2024-08-06",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxicillin AbZ 1000mg Filmtabletten",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
     "mail": "info@abz.de",
@@ -6662,7 +6939,7 @@
     "atcCode": "C07AA05",
     "wirkstoffe": "Propranololhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Unzureichende Produktionskapazitäten",
@@ -7481,29 +7758,6 @@
   },
   {
     "pzn": [
-      "03083251"
-    ],
-    "enr": [
-      "2106472"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-20",
-    "datumEnde": "2024-08-20",
-    "datumLetzteMeldung": "2024-07-23",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Dexa-Gentamicin",
-    "atcCode": "S01CA01",
-    "wirkstoffe": "Dexamethason; Gentamicinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-02-21",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03339443"
     ],
     "enr": [
@@ -8072,75 +8326,6 @@
     "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
     "mail": "info@AbZ.de",
     "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-07-22",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04982922"
-    ],
-    "enr": [
-      "2163514"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-07-15",
-    "datumEnde": "2024-08-18",
-    "datumLetzteMeldung": "2024-07-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "AZI-TEVA 500 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "grund": "Erhöhte Nachfrage",
-    "alternativPraeparat": "AZI-TEVA 250 mg Filmtabletten - Einreichungsnummer: 2163513",
-    "datumErstmeldung": "2024-07-22",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01065622"
-    ],
-    "enr": [
-      "2190670"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-07-15",
-    "datumEnde": "2024-08-18",
-    "datumLetzteMeldung": "2024-07-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin AbZ 500 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "mail": "info@abz.de",
-    "grund": "Erhöhte Nachfrage",
-    "alternativPraeparat": "Azithromycin-ratiopharm 250mg Filmtabletten - Einreichungsnummer: 2162285",
-    "datumErstmeldung": "2024-07-22",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03738232"
-    ],
-    "enr": [
-      "2162572"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-07-15",
-    "datumEnde": "2024-08-18",
-    "datumLetzteMeldung": "2024-07-22",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin-ratiopharm 500 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "alternativPraeparat": "Azithromycin-ratiopharm 500 mg Filmtabletten - Einreichungsnummer: 2162572",
     "datumErstmeldung": "2024-07-22",
     "infoFachkreise": "Vorgesehen"
   },
@@ -9817,50 +10002,6 @@
   },
   {
     "pzn": [
-      "01690254"
-    ],
-    "enr": [
-      "2150516"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-11",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-07-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ciprofloxacin-ratiopharm 500 mg Filmtabletten",
-    "atcCode": "J01MA02",
-    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-03-11",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01690260"
-    ],
-    "enr": [
-      "2150516"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-11",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-07-03",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ciprofloxacin-ratiopharm 500 mg Filmtabletten",
-    "atcCode": "J01MA02",
-    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-03-11",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "11531551"
     ],
     "enr": [
@@ -10610,29 +10751,6 @@
   },
   {
     "pzn": [
-      "02498642"
-    ],
-    "enr": [
-      "2102131"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-24",
-    "datumEnde": "2024-08-26",
-    "datumLetzteMeldung": "2024-07-01",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Gentamicin-POS",
-    "atcCode": "S01AA11",
-    "wirkstoffe": "Gentamicinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2023-12-20",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "11510939"
     ],
     "enr": [
@@ -11085,29 +11203,6 @@
     "mail": "info@aristo-pharma.de",
     "grund": "Probleme bei der Chargenprüfung",
     "datumErstmeldung": "2023-02-10",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05460172"
-    ],
-    "enr": [
-      "2130661"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-26",
-    "datumEnde": "2024-08-26",
-    "datumLetzteMeldung": "2024-06-26",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Timo-COMOD 0,1%",
-    "atcCode": "S01ED01",
-    "wirkstoffe": "Timololmaleat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "grund": "Probleme in der Herstellung",
-    "datumErstmeldung": "2024-06-26",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -12995,7 +13090,7 @@
     "atcCode": "G03DB08",
     "wirkstoffe": "Dienogest",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "034954247484",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "grund": "Sonstige",
@@ -13019,7 +13114,7 @@
     "atcCode": "G03DB08",
     "wirkstoffe": "Dienogest",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "034954247484",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "grund": "Sonstige",
@@ -13043,7 +13138,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -13065,7 +13160,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -13087,7 +13182,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -13109,7 +13204,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -13131,7 +13226,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -13153,7 +13248,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -13175,7 +13270,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-12",
@@ -13197,7 +13292,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -13219,7 +13314,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -13241,7 +13336,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -13263,7 +13358,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -13285,7 +13380,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -13307,7 +13402,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -13329,7 +13424,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -13351,7 +13446,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-13",
@@ -13373,7 +13468,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-14",
@@ -13395,7 +13490,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "grund": "Probleme in der Herstellung",
     "datumErstmeldung": "2024-03-14",
@@ -13439,7 +13534,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "grund": "Probleme in der Herstellung",
@@ -13598,7 +13693,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -13621,7 +13716,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -13644,7 +13739,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "grund": "Herstellerwechsel",
     "grundAnmerkung": "n.a.",
@@ -14038,28 +14133,6 @@
     "grund": "Erhöhte Nachfrage",
     "datumErstmeldung": "2024-03-22",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06115247"
-    ],
-    "enr": [
-      "2176822"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-05-14",
-    "datumEnde": "2024-07-31",
-    "datumLetzteMeldung": "2024-05-14",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-ratiopharm 8 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "grund": "Erhöhte Nachfrage",
-    "datumErstmeldung": "2024-05-14",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -14739,7 +14812,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14765,7 +14838,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14791,7 +14864,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14817,7 +14890,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14843,7 +14916,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
@@ -14869,7 +14942,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "grund": "Probleme beim Wirkstoffhersteller",
