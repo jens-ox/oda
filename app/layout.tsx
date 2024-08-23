@@ -1,51 +1,58 @@
 import cx from 'clsx'
 import Link from 'next/link'
-import { inter, ebGaramond } from '@/utils/fonts'
+import { Link as RadixLink } from '@radix-ui/themes'
+import { inter } from '@/utils/fonts'
 
 import '@/styles/globals.css'
+import Contexts from '@/components/Contexts'
+import { Metadata } from 'next'
 
 const navigation = [
-  { name: 'Start', href: '/' },
-  { name: 'OpenAPI', href: '/swagger' },
-  { name: 'GitHub', href: 'https://github.com/jens-ox/bundesdatenkrake' }
+  { name: 'API', href: '/swagger' },
+  { name: 'GitHub', href: 'https://github.com/jens-ox/oda' }
 ]
+
+export const metadata: Metadata = {
+  title: 'Open Data Aggregator',
+  description: 'Aggregationsplattform für öffentliche Daten.',
+  icons: {
+    icon: 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🦑</text></svg>'
+  }
+}
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="de">
-      <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      </head>
-      <body className={cx(inter.variable, ebGaramond.variable, 'bg-stone-50 text-stone-900')}>
-        <div className="font-sans relative min-h-screen flex flex-col">
-          <div className="container mx-auto px-4 sm:px-6 py-4">
-            <nav className="relative flex items-center justify-between sm:h-10 md:justify-center" aria-label="Global">
-              <div className="flex items-center flex-1 md:absolute md:inset-y-0 md:left-0">
-                <div className="flex items-center justify-between w-full md:w-auto">
-                  <Link href="/">
-                    <h1 className="cursor-pointer font-medium text-lg">Bundesdatenkrake</h1>
-                  </Link>
+    <html lang="de" suppressHydrationWarning>
+      <body className={cx(inter.variable, 'font-sans')}>
+        <Contexts>
+          <div className="flex flex-col justify-between min-h-screen bg-slate-1">
+            <div className="flex flex-col gap-12">
+              <nav className="container mx-auto py-4 flex gap-8">
+                <Link href="/">
+                  <h1 className="font-medium">Open Data Aggregator</h1>
+                </Link>
+                <div className="flex gap-4 text-slate-11">
+                  {navigation.map((item) => (
+                    <RadixLink asChild key={item.name}>
+                      <Link key={item.name} href={item.href}>
+                        <span>{item.name}</span>
+                      </Link>
+                    </RadixLink>
+                  ))}
                 </div>
-              </div>
-              <div className="hidden md:flex md:space-x-10">
-                {navigation.map((item) => (
-                  <Link key={item.name} href={item.href}>
-                    <span className="font-medium text-stone-500  hover:text-stone-900 cursor-pointer">{item.name}</span>
-                  </Link>
-                ))}
-              </div>
-            </nav>
+              </nav>
+
+              <main className="container mx-auto">{children}</main>
+            </div>
+
+            <footer className="container mx-auto border-t border-slate-5 py-4 text-2 text-slate-10 flex gap-4">
+              <span>{new Date().getFullYear()}, Jens Ochsenmeier</span>
+              <RadixLink href="https://github.com/jens-ox/oda" target="_blank" rel="noreferrer">
+                GitHub
+              </RadixLink>
+            </footer>
           </div>
-
-          <main className="mx-auto container px-4 sm:px-6 sm:mt-6 flex-grow overflow-x-auto">{children}</main>
-
-          <footer className="container mx-auto mt-12 px-4 sm:px-6 border-t border-stone-300 py-4 text-stone-500 flex justify-between">
-            <span>{new Date().getFullYear()}, Jens Ochsenmeier</span>
-            <a href="https://github.com/jens-ox/bundesdatenkrake" target="_blank" rel="noreferrer">
-              GitHub
-            </a>
-          </footer>
-        </div>
+        </Contexts>
       </body>
     </html>
   )

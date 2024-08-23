@@ -3,6 +3,7 @@
 import Link from 'next/link'
 import { useMemo, useState } from 'react'
 import { sources } from '@/sources'
+import { Card, TextField } from '@radix-ui/themes'
 
 export const SourceList: React.FC = () => {
   const [search, setSearch] = useState('')
@@ -13,33 +14,32 @@ export const SourceList: React.FC = () => {
   )
 
   return (
-    <>
-      <input
+    <div className="flex flex-col gap-4">
+      <TextField.Root
         type="text"
         value={search}
         onChange={(e) => setSearch(e.target.value)}
         placeholder="Datenquellen durchsuchen"
-        className="rounded bg-white px-4 py-2 border border-slate-200 focus:border-slate-400 outline-none transition duration-200"
       />
       {filteredSources.length > 0 ? (
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
           {filteredSources.map((source) => (
-            <Link href={`/source/${source.id}`} key={source.id}>
-              <div className="rounded-lg border border-slate-400/25 hover:border-slate-400/50 bg-white p-2">
-                <div className="flex flex-col gap-4 justify-between">
+            <Card asChild>
+              <Link href={`/source/${source.id}`} key={source.id}>
+                <div className="flex flex-col gap-2">
                   <div>
-                    <h3 className="text-lg font-medium">{source.name}</h3>
-                    <p className="text-sm text-slate-600">{source.description}</p>
+                    <h3 className="font-medium">{source.name}</h3>
+                    <div className="text-2 text-slate-11">{source.sourceName}</div>
                   </div>
-                  <div className="text-sm text-slate-600">{source.sourceName}</div>
+                  <p>{source.description}</p>
                 </div>
-              </div>
-            </Link>
+              </Link>
+            </Card>
           ))}
         </div>
       ) : (
         <p className="text-slate-600 italic">Keine passenden Datenquellen gefunden :(</p>
       )}
-    </>
+    </div>
   )
 }

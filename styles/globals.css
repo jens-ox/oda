@@ -1,46 +1,10 @@
-@tailwind base;
+@import 'tailwindcss/base';
+
+@import '@radix-ui/themes/styles.css';
+
 @tailwind components;
 @tailwind utilities;
 
-/* Table styling */
-.table {
-  @apply bg-white rounded shadow;
-}
-.table thead {
-  @apply rounded-t;
-}
-.table th {
-  @apply font-normal text-left px-4 py-2 text-stone-600 bg-stone-100;
-}
-.table th:first-of-type {
-  @apply rounded-l;
-}
-.table th:last-of-type {
-  @apply rounded-r;
-}
-.table tr td {
-  @apply px-4 py-2 flex items-center;
-}
-
-/* Buttons */
-.button {
-  @apply flex items-center gap-2 rounded text-sm font-medium px-3 py-1 focus:outline-none hover:bg-black/5 transition duration-150;
-}
-.button.primary {
-  @apply bg-indigo-500 text-white hover:bg-indigo-400;
-}
-.button.secondary {
-  @apply bg-gray-200 hover:bg-gray-300;
-}
-.button.small {
-  @apply text-xs;
-}
-.button.disabled {
-  @apply opacity-75;
-}
-.button.action {
-  @apply bg-white bg-opacity-10 rounded-lg px-4 py-2 mr-2 font-semibold hover:bg-opacity-20;
-}
-.buttons {
-  @apply flex gap-2;
+.radix-themes {
+  --default-font-family: var(--font-sans);
 }

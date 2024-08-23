@@ -1,12 +1,12 @@
-# 🦑 Bundesdatenkrake
+# 🦑 Open Data Aggregator
 
 Extraction, versioning and machine-readable provisioning of public data.
 
 ## How it works
 
-* Gather public information by running `pnpm crawl` (this is done every night at 4 by GitHub Actions)
-* update data files
-* if not, create a PR that updates data files
+- Gather public information by running `pnpm crawl` (this is done every night at 4 by GitHub Actions)
+- update data files
+- if not, create a PR that updates data files
 
 ## API
 
