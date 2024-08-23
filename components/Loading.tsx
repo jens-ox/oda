@@ -1,6 +1,9 @@
+import { Spinner } from '@radix-ui/themes'
+
 const Loading: React.FC = () => (
-  <div>
-    <p>Loading...</p>
+  <div className="flex items-center gap-2">
+    <Spinner />
+    <p>Lädt...</p>
   </div>
 )
 
