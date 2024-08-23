@@ -1,6 +1,7 @@
 {
   "name": "bundesdatenkrake",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "scripts": {
     "dev": "next dev",
@@ -14,6 +15,8 @@
   "author": "Jens Ochsenmeier <github@jens-ox.de>",
   "license": "MIT",
   "devDependencies": {
+    "@eslint/js": "^9.9.0",
+    "@types/eslint__js": "^8.42.3",
     "@types/glob": "^8.1.0",
     "@types/node": "^22.5.0",
     "@types/papaparse": "^5.3.14",
@@ -34,12 +37,11 @@
     "postcss": "^8.4.41",
     "prettier": "^3.3.3",
     "tailwindcss": "^3.4.10",
-    "tsconfig-paths": "^4.2.0",
-    "typescript": "^5.5.4"
+    "typescript": "^5.5.4",
+    "typescript-eslint": "^8.2.0"
   },
   "dependencies": {
     "@anatine/zod-openapi": "^2.2.6",
-    "@headlessui/react": "^2.1.2",
     "axios": "^1.7.4",
     "clsx": "^2.1.1",
     "date-fns": "^3.6.0",
