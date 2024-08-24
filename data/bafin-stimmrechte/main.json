@@ -2844,6 +2844,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-08-23",
+    "emittent": {
+      "name": "LANXESS Aktiengesellschaft",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Barclays PLC",
+      "sitz": "London",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.58,
+      "instrumente": 4.52,
+      "summe": 5.1
+    }
+  },
+  {
     "veroeffentlichung": "2024-04-17",
     "emittent": {
       "name": "HELLA GmbH & Co. KGaA",
@@ -4558,7 +4576,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-08-14",
+    "veroeffentlichung": "2024-08-23",
     "emittent": {
       "name": "CTS Eventim AG & Co. KGaA",
       "sitz": "München",
@@ -4570,9 +4588,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.08,
-      "instrumente": 0.11,
-      "summe": 5.18
+      "gesamt": 5.03,
+      "instrumente": 0.13,
+      "summe": 5.16
     }
   },
   {
@@ -4774,7 +4792,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-08-16",
+    "veroeffentlichung": "2024-08-23",
     "emittent": {
       "name": "Allianz SE",
       "sitz": "München",
@@ -4786,9 +4804,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.78,
-      "instrumente": 0.06,
-      "summe": 6.84
+      "gesamt": 6.8,
+      "instrumente": 0.05,
+      "summe": 6.85
     }
   },
   {
@@ -8108,24 +8126,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-07-05",
-    "emittent": {
-      "name": "Vonovia SE",
-      "sitz": "Bochum",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "DWS Investment GmbH",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.04,
-      "instrumente": 0.00273,
-      "summe": 3.04
-    }
-  },
-  {
     "veroeffentlichung": "2024-08-21",
     "emittent": {
       "name": "SUSS MicroTec SE",
@@ -8303,6 +8303,24 @@
       "gesamt": 5.00001,
       "instrumente": 0,
       "summe": 5.00001
+    }
+  },
+  {
+    "veroeffentlichung": "2024-08-22",
+    "emittent": {
+      "name": "DEUTZ Aktiengesellschaft",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "DWS Investment GmbH",
+      "sitz": "Frankfurt",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.74,
+      "instrumente": 0,
+      "summe": 3.74
     }
   },
   {
@@ -16073,7 +16091,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-08-15",
+    "veroeffentlichung": "2024-08-22",
     "emittent": {
       "name": "K+S Aktiengesellschaft",
       "sitz": "Kassel",
@@ -16085,9 +16103,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.79,
-      "instrumente": 3.24,
-      "summe": 6.03
+      "gesamt": 2.66,
+      "instrumente": 8.9,
+      "summe": 11.55
     }
   },
   {
@@ -20319,7 +20337,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-21",
+    "veroeffentlichung": "2024-08-23",
     "emittent": {
       "name": "Medios AG",
       "sitz": "Hamburg",
@@ -20331,9 +20349,9 @@
       "land": "Luxemburg"
     },
     "stimmrechtsanteile": {
-      "gesamt": 14.9,
+      "gesamt": 15.05,
       "instrumente": 0,
-      "summe": 14.9
+      "summe": 15.05
     }
   },
   {
@@ -22143,7 +22161,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-08-08",
+    "veroeffentlichung": "2024-08-23",
     "emittent": {
       "name": "MTU Aero Engines AG",
       "sitz": "München",
@@ -22155,9 +22173,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.71,
-      "instrumente": 1.25,
-      "summe": 4.96
+      "gesamt": 3.42,
+      "instrumente": 1.34,
+      "summe": 4.76
     }
   },
   {
@@ -22233,7 +22251,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-08-20",
+    "veroeffentlichung": "2024-08-22",
     "emittent": {
       "name": "AUTO1 Group SE",
       "sitz": "München",
@@ -22245,9 +22263,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 9.97,
-      "instrumente": 6.2,
-      "summe": 16.17
+      "gesamt": 10.03,
+      "instrumente": 6.18,
+      "summe": 16.21
     }
   },
   {
@@ -33284,6 +33302,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-08-23",
+    "emittent": {
+      "name": "HUGO BOSS AG",
+      "sitz": "Metzingen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.11,
+      "instrumente": 5.05,
+      "summe": 5.16
+    }
+  },
+  {
     "veroeffentlichung": "2024-08-07",
     "emittent": {
       "name": "HelloFresh SE",
@@ -33374,7 +33410,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-14",
+    "veroeffentlichung": "2024-08-23",
     "emittent": {
       "name": "Covestro AG",
       "sitz": "Leverkusen",
@@ -33386,9 +33422,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.19,
-      "instrumente": 9.46,
-      "summe": 9.65
+      "gesamt": 0.26,
+      "instrumente": 10.65,
+      "summe": 10.9
     }
   },
   {
