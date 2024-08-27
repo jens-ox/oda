@@ -21,6 +21,7 @@ export const SchemaList: React.FC = () => {
     <div className="flex flex-col gap-4">
       <TextField.Root
         type="text"
+        size="3"
         value={search}
         onChange={(e) => setSearch(e.target.value)}
         placeholder="Schemas durchsuchen"

@@ -16,6 +16,7 @@ export const SourceList: React.FC = () => {
   return (
     <div className="flex flex-col gap-4">
       <TextField.Root
+        size="3"
         type="text"
         value={search}
         onChange={(e) => setSearch(e.target.value)}
