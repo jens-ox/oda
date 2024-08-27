@@ -8,12 +8,11 @@ import { validate } from '@/utils/validate'
 
 const parseCoordinate = (entry: string) => parseFloat(entry.replace(',', '.'))
 
-const createStecker = (typ: string, kW: string, publicKey: string): Stecker => {
+const createStecker = (typ: string, kW: string): Stecker => {
   const parsedKW = kW !== '' ? parseInt(kW) : undefined
   return {
     steckertypen: typ,
-    kW: typeof parsedKW === 'undefined' || isNaN(parsedKW) ? undefined : parsedKW,
-    publicKey
+    kW: typeof parsedKW === 'undefined' || isNaN(parsedKW) ? undefined : parsedKW
   }
 }
 
@@ -37,17 +36,17 @@ export const LadesaeulenExporter: Exporter = async () => {
           plz: e[4],
           city: e[5]
         },
-        addresszusatz: e[3],
+        adresszusatz: e[3] !== '' ? e[3] : undefined,
         betreiber: e[0],
         datumInbetriebnahme: germanDateToString(e[10]) ?? '',
         anschlussLeistung: e[11] !== '' ? parseInt(e[11]) : '',
         anzahlLadepunkte: e[13] !== '' ? parseInt(e[13]) : '',
         stecker: [
-          createStecker(e[14], e[15], e[16]),
-          createStecker(e[17], e[18], e[19]),
-          createStecker(e[20], e[21], e[22]),
-          createStecker(e[23], e[24], e[25])
-        ]
+          createStecker(e[14], e[15]),
+          createStecker(e[17], e[18]),
+          createStecker(e[20], e[21]),
+          createStecker(e[23], e[24])
+        ].filter((s) => s.steckertypen !== '')
       },
       geometry: {
         type: 'Point',
