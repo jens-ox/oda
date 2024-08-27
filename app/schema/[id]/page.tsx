@@ -5,7 +5,7 @@ import { Callout } from '@radix-ui/themes'
 import { JSONSchema7 } from 'json-schema'
 import { zodToJsonSchema } from 'zod-to-json-schema'
 
-export default ({ params: { id } }: { params: { id: string } }) => {
+export default ({ params: { id } }: { params: { id: keyof typeof schemas } }) => {
   const schema = schemas[id]
 
   if (!schema)

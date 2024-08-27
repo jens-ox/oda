@@ -4,7 +4,7 @@ import zodToJsonSchema from 'zod-to-json-schema'
 
 export const GET = async (req: Request) => {
   const { searchParams } = new URL(req.url)
-  const id = searchParams.get('id')
+  const id = searchParams.get('id') as keyof typeof schemas
 
   if (id === null) return NextResponse.json('no source id specified', { status: 400 })
 
