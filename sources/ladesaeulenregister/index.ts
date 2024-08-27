@@ -6,5 +6,8 @@ export const Ladesaeulen: Source = {
   description: 'Ladesäulenregister der Bundesnetzagentur',
   sourceName: 'Bundesnetzagentur',
   sourceLink:
-    'https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/Ladesaeulenkarte/start.html'
+    'https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/Ladesaeulenkarte/start.html',
+  targets: {
+    'main.json': 'bna-ladesaeulen'
+  }
 }

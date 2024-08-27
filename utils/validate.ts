@@ -1,5 +1,12 @@
 import { ZodSchema, SafeParseSuccess, SafeParseError, z } from 'zod'
 
+/**
+ * Validate a list of objects against an object schema, splitting the list into valid and invalid objects.
+ *
+ * @param schema schema to validate against
+ * @param data list of objects to validate
+ * @returns list of valid and list of invalid objects
+ */
 export const validate = <T = unknown>(schema: ZodSchema, data: Array<T>) => {
   type SuccessEntry = {
     data: T
@@ -16,8 +23,8 @@ export const validate = <T = unknown>(schema: ZodSchema, data: Array<T>) => {
   const validData = result.filter((e): e is SuccessEntry => e.zod.success).map((e) => e.data)
   const errors = result.filter((e): e is ErrorEntry => !e.zod.success)
 
-  if (errors.length > 0) {
-    errors.map((e) => console.error(`error ${JSON.stringify(e, null, 2)}`))
+  return {
+    valid: validData,
+    invalid: errors
   }
-  return validData
 }

@@ -3,7 +3,7 @@ import { writeFile, mkdir } from 'fs/promises'
 import { join } from 'path'
 import { exporters } from '@/sources/exporters'
 
-const BASE_DIR = join(__dirname, '../data')
+const BASE_DIR = join(import.meta.dirname, '../data')
 
 ;(async () => {
   await Promise.all(

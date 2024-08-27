@@ -128,7 +128,7 @@
     },
     "/schema": {
       "get": {
-        "summary": "Schema einer Datei laden",
+        "summary": "JSON-Schema laden",
         "parameters": [
           {
             "in": "query",
@@ -138,13 +138,6 @@
               "type": "string"
             },
             "required": true
-          },
-          {
-            "in": "query",
-            "name": "file",
-            "schema": {
-              "type": "string"
-            }
           }
         ],
         "responses": {

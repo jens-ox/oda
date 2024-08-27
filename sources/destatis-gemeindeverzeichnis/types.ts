@@ -1,4 +1,10 @@
-export type EntryType = 'land' | 'regierungsbezirk' | 'region' | 'kreis' | 'gemeindeverband' | 'gemeinde'
+export type EntryType =
+  | 'land'
+  | 'regierungsbezirk'
+  | 'region'
+  | 'kreis'
+  | 'gemeindeverband'
+  | 'gemeinde'
 
 type Entry = {
   type: EntryType
@@ -55,13 +61,13 @@ export type Gemeinde = Entry & {
   bevoelkerungMaennlich: number
   plzVerwaltungssitz: string
   plzEindeutig: boolean
-  bezirkFinanzamt: number
-  bezirkOberlandesgericht: number
-  bezirkLandesgericht: number
-  bezirkAmtsgericht: number
-  bezirkArbeitsagentur: number
-  bundestagswahlkreisVon: number
-  bundestagswahlkreisBis: number
+  bezirkFinanzamt: number | null
+  bezirkOberlandesgericht: number | null
+  bezirkLandesgericht: number | null
+  bezirkAmtsgericht: number | null
+  bezirkArbeitsagentur: number | null
+  bundestagswahlkreisVon: number | null
+  bundestagswahlkreisBis: number | null
 }
 
 export type Result = {

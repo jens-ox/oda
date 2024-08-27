@@ -1,6 +1,7 @@
 import { Page } from 'playwright'
 import { Exporter } from '@/types'
 import { getBrowser } from '@/utils/playwright'
+import { krankenkassenSchema } from '@/schemas/gkv'
 
 const extractPage = async (page: Page) => {
   const rows = await page.locator('tbody > tr').all()
@@ -10,9 +11,11 @@ const extractPage = async (page: Page) => {
       const zusatzbeitrag = (await r.locator('td').first().textContent()) as string
       const openedIn = (await r.locator('td').last().textContent()) as string
 
+      const zusatzbeitragValue = parseFloat(zusatzbeitrag.replace(' %', '').replace(',', '.'))
+
       return {
         name: name.trim(),
-        zusatzbeitrag: parseFloat(zusatzbeitrag.replace(' %', '').replace(',', '.')),
+        zusatzbeitrag: isNaN(zusatzbeitragValue) ? null : zusatzbeitragValue,
         openedIn: openedIn.trim().split(', ')
       }
     })
@@ -37,16 +40,22 @@ export const KrankenkassenExporter: Exporter = async () => {
     if (next > 0) {
       await page.locator('a.next').first().click()
     } else {
-      console.log(results.length)
       browser.close()
       break
     }
   }
 
+  const validationResult = krankenkassenSchema.safeParse(results)
+
+  if (!validationResult.success) {
+    console.error(JSON.stringify(validationResult.error, null, 2))
+    throw new Error('error validating data')
+  }
+
   return [
     {
       targetFile: 'main.json',
-      data: results
+      data: validationResult.data
     }
   ]
 }

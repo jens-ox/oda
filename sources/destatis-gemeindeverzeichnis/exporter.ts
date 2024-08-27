@@ -5,6 +5,7 @@ import { EntryType, Result } from './types'
 import streamToString from '@/utils/streamToString'
 import { Exporter } from '@/types'
 import { getBrowser } from '@/utils/playwright'
+import { DestatisSchema } from '@/schemas/destatis'
 
 const parseDownloadStream = async (downloadStream: Readable): Promise<string> =>
   new Promise((resolve) => {
@@ -22,9 +23,10 @@ const parseRawDownload = (content: string) =>
   content
     .split('\n')
     .map(parseLine)
-    .reduce((acc, e) => {
+    .filter((l) => l !== null)
+    .reduce((acc, { type, ...e }) => {
       if (e === null) return acc
-      const entryType: EntryType = e.type
+      const entryType: EntryType = type
 
       // eslint-disable-next-line @typescript-eslint/ban-ts-comment
       // @ts-ignore
@@ -37,7 +39,9 @@ export const GVExporter: Exporter = async () => {
   const browser = await getBrowser()
   const page = await browser.newPage()
 
-  await page.goto('https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html')
+  await page.goto(
+    'https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html'
+  )
 
   // close cookie banner
   await page.locator('button >> text=Akzeptieren').click()
@@ -65,9 +69,18 @@ export const GVExporter: Exporter = async () => {
 
   const content = await parseDownloadStream(downloadStream)
 
+  const parsedData = parseRawDownload(content)
+
+  const validationResult = DestatisSchema.safeParse(parsedData)
+
+  if (!validationResult.success) {
+    console.error(JSON.stringify(validationResult.error, null, 2))
+    throw new Error('error validating data')
+  }
+
   return [
     {
-      data: parseRawDownload(content),
+      data: validationResult.data,
       targetFile: 'main.json'
     }
   ]

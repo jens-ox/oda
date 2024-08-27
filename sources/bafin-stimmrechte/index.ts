@@ -1,4 +1,3 @@
-import { bafinSchema } from './schema'
 import { Source } from '@/types'
 
 export const BafinStimmrechte: Source = {
@@ -8,6 +7,6 @@ export const BafinStimmrechte: Source = {
   sourceLink: 'https://portal.mvp.bafin.de/database/AnteileInfo/',
   sourceName: 'Bundesanstalt für Finanzdienstleistungsaufsicht',
   targets: {
-    'main.json': bafinSchema
+    'main.json': 'bafin-stimmrechte'
   }
 }

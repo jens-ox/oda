@@ -1,19 +1,23 @@
 import axios from 'axios'
-import { parse } from 'papaparse'
-import { rigolettoObjectSchema, RigolettoType } from './schema'
-import { validate } from '@/utils/validate'
+import { RigolettoSchema, RigolettoType } from '@/schemas/uba'
 import { Exporter } from '@/types'
+import { parseCsv } from '@/utils/csv'
 
 export const RigolettoExporter: Exporter = async () => {
   const { data: rawData } = await axios.get(
     'https://webrigoletto.uba.de/Rigoletto/Home/GetClassificationFile/Export_Tabelle'
   )
 
-  const parsedData = parse<RigolettoType>(rawData, { delimiter: '|', header: true }).data
+  const parsedData = await parseCsv<RigolettoType>(rawData, { delimiter: '|', hasHeader: true })
 
-  const data = validate<RigolettoType>(rigolettoObjectSchema, parsedData)
+  const validationResult = RigolettoSchema.safeParse(parsedData)
 
-  const sortedData = data.sort((a, b) => b.Kennnummer - a.Kennnummer)
+  if (!validationResult.success) {
+    console.error(JSON.stringify(validationResult.error, null, 2))
+    throw new Error('error validating data')
+  }
+
+  const sortedData = validationResult.data.sort((a, b) => b.Kennnummer - a.Kennnummer)
 
   return [
     {

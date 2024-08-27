@@ -1,5 +1,3 @@
-import { join, resolve } from 'path'
-import { glob } from 'glob'
 import { sources } from '@/sources'
 import { FileComponent } from '@/components/File'
 import { Callout, Link } from '@radix-ui/themes'
@@ -11,17 +9,8 @@ interface SourcePageProps {
   }
 }
 
-const getData = async (id: string) => {
-  // find matching files
-  const path = join(resolve('./data'), id, '**')
-  const matchingFiles = await glob(path, { nodir: true })
-  return { files: matchingFiles, base: resolve('./') }
-}
-
 const SourcePage = async ({ params }: SourcePageProps) => {
   const source = sources.find((s) => s.id === params.id)
-
-  const data = await getData(params.id)
 
   if (!source)
     return (
@@ -49,8 +38,8 @@ const SourcePage = async ({ params }: SourcePageProps) => {
       <div className="flex flex-col gap-2">
         <h3 className="text-4 font-medium">Dateien</h3>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          {data.files.map((f) => (
-            <FileComponent base={data.base} file={f} id={params.id} key={f} />
+          {Object.entries(source.targets ?? {}).map(([key, schemaId]) => (
+            <FileComponent fileName={key} sourceId={params.id} schemaId={schemaId} key={key} />
           ))}
         </div>
       </div>

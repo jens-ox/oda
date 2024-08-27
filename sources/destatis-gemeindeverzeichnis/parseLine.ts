@@ -1,5 +1,7 @@
 import { Gemeinde, Gemeindeverband, Kreis, Land, Regierungsbezirk, Region } from './types'
 
+const parseNullableInt = (entry: string) => (entry !== '' ? parseInt(entry) : null)
+
 const parseLand = (l: string): Land => {
   const ef2u1 = l.substring(2, 6).trim()
   const ef2u2 = l.substring(6, 8).trim()
@@ -212,7 +214,9 @@ const parseGemeinde = (l: string): Gemeinde => {
   const kreisSchluessel = ef3u3
   const verbandSchluessel = ef4
   const gemeindeSchluessel = ef3u4
-  const ars = parseInt(`${landSchluessel}${rbzSchluessel}${kreisSchluessel}${verbandSchluessel}${gemeindeSchluessel}`)
+  const ars = parseInt(
+    `${landSchluessel}${rbzSchluessel}${kreisSchluessel}${verbandSchluessel}${gemeindeSchluessel}`
+  )
 
   return {
     type: 'gemeinde',
@@ -230,18 +234,20 @@ const parseGemeinde = (l: string): Gemeinde => {
     bevoelkerungMaennlich: parseInt(ef10),
     plzVerwaltungssitz: ef12u1,
     plzEindeutig: ef12u2 === '',
-    bezirkFinanzamt: parseInt(ef14),
-    bezirkOberlandesgericht: parseInt(ef15u1),
-    bezirkLandesgericht: parseInt(ef15u2),
-    bezirkAmtsgericht: parseInt(ef15u3),
-    bezirkArbeitsagentur: parseInt(ef16),
-    bundestagswahlkreisVon: parseInt(ef17u1),
-    bundestagswahlkreisBis: ef17u2 !== '' ? parseInt(ef17u2) : parseInt(ef17u1),
+    bezirkFinanzamt: parseNullableInt(ef14),
+    bezirkOberlandesgericht: parseNullableInt(ef15u1),
+    bezirkLandesgericht: parseNullableInt(ef15u2),
+    bezirkAmtsgericht: parseNullableInt(ef15u3),
+    bezirkArbeitsagentur: parseNullableInt(ef16),
+    bundestagswahlkreisVon: parseNullableInt(ef17u1),
+    bundestagswahlkreisBis: ef17u2 !== '' ? parseNullableInt(ef17u2) : parseNullableInt(ef17u1),
     ...(ef19 !== '' ? { interneAngaben: ef19 } : {})
   }
 }
 
-export const parseLine = (l: string): Land | Regierungsbezirk | Region | Kreis | Gemeindeverband | Gemeinde | null => {
+export const parseLine = (
+  l: string
+): Land | Regierungsbezirk | Region | Kreis | Gemeindeverband | Gemeinde | null => {
   // get satzart
   const satzart = l.substring(0, 2).trim()
 

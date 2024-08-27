@@ -1,13 +1,15 @@
 import cx from 'clsx'
 import Link from 'next/link'
 import { Link as RadixLink } from '@radix-ui/themes'
-import { inter } from '@/utils/fonts'
+import { inter, mono } from '@/utils/fonts'
 
 import '@/styles/globals.css'
 import Contexts from '@/components/Contexts'
 import { Metadata } from 'next'
 
 const navigation = [
+  { name: 'Datensätze', href: '/' },
+  { name: 'Schemas', href: '/schema' },
   { name: 'API', href: '/swagger' },
   { name: 'GitHub', href: 'https://github.com/jens-ox/oda' }
 ]
@@ -23,15 +25,15 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="de" suppressHydrationWarning>
-      <body className={cx(inter.variable, 'font-sans')}>
+      <body className={cx(inter.variable, mono.variable, 'font-sans')}>
         <Contexts>
           <div className="flex flex-col justify-between min-h-screen bg-slate-1">
             <div className="flex flex-col gap-12">
-              <nav className="container mx-auto py-4 flex gap-8">
+              <nav className="container mx-auto py-4 flex gap-12">
                 <Link href="/">
                   <h1 className="font-medium">Open Data Aggregator</h1>
                 </Link>
-                <div className="flex gap-4 text-slate-11">
+                <div className="flex gap-8 text-slate-11">
                   {navigation.map((item) => (
                     <RadixLink asChild key={item.name}>
                       <Link key={item.name} href={item.href}>
@@ -42,7 +44,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 </div>
               </nav>
 
-              <main className="container mx-auto">{children}</main>
+              <main className="container mx-auto pb-12">{children}</main>
             </div>
 
             <footer className="container mx-auto border-t border-slate-5 py-4 text-2 text-slate-10 flex gap-4">
