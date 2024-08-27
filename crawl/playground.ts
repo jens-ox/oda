@@ -1,3 +1,3 @@
-import { KrankenkassenExporter } from '@/sources/krankenkassen/exporter'
+import { LadesaeulenExporter } from '@/sources/ladesaeulenregister/exporter'
 
-KrankenkassenExporter()
+LadesaeulenExporter()

@@ -1,4 +1,4 @@
-import { ZodSchema } from 'zod'
+import { schemas } from '@/schemas'
 
 export type Exporter = () => Promise<
   Array<{
@@ -18,5 +18,5 @@ export interface Source {
   description: string
   sourceName: string
   sourceLink: string
-  targets?: Record<string, ZodSchema>
+  targets: Record<string, keyof typeof schemas>
 }

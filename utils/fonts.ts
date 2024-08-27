@@ -1,4 +1,5 @@
-import { Inter, EB_Garamond } from 'next/font/google'
+import { Inter, Source_Code_Pro } from 'next/font/google'
 
 export const inter = Inter({ subsets: ['latin'], variable: '--font-sans' })
-export const ebGaramond = EB_Garamond({ subsets: ['latin'], variable: '--font-serif' })
+
+export const mono = Source_Code_Pro({ variable: '--font-mono', subsets: ['latin'] })

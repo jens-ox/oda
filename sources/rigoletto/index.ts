@@ -1,4 +1,3 @@
-import { rigolettoSchema } from './schema'
 import { Source } from '@/types'
 
 export const Rigoletto: Source = {
@@ -8,6 +7,6 @@ export const Rigoletto: Source = {
   sourceName: 'Umweltbundesamt',
   sourceLink: 'https://webrigoletto.uba.de/Rigoletto/',
   targets: {
-    'main.json': rigolettoSchema
+    'main.json': 'uba-rigoletto'
   }
 }

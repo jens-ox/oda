@@ -1,4 +1,3 @@
-import { krankenhausSchema } from './schema'
 import { Source } from '@/types'
 
 export const Krankenkassen: Source = {
@@ -8,6 +7,6 @@ export const Krankenkassen: Source = {
   sourceName: 'GKV Spitzenverband',
   sourceLink: 'https://www.gkv-spitzenverband.de/krankenkassenliste.pdf',
   targets: {
-    'main.json': krankenhausSchema
+    'main.json': 'gkv-krankenkassen'
   }
 }

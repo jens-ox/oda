@@ -1,9 +1,8 @@
 import axios from 'axios'
-import { parse } from 'papaparse'
-import { bafinObjectSchema } from './schema'
 import { Exporter } from '@/types'
 import { germanDateToString } from '@/utils/germanDateToString'
-import { validate } from '@/utils/validate'
+import { parseCsv } from '@/utils/csv'
+import { bafinSchema } from '@/schemas/bafin'
 
 export const BafinExporter: Exporter = async () => {
   const { data: rawData } = await axios.get(
@@ -11,7 +10,8 @@ export const BafinExporter: Exporter = async () => {
     { insecureHTTPParser: true }
   )
 
-  const parsedData = parse<Array<string>>(rawData).data
+  const parsedData = await parseCsv<string[]>(rawData)
+
   const data = parsedData.map((e) => ({
     veroeffentlichung: germanDateToString(e[9]),
     emittent: {
@@ -31,11 +31,17 @@ export const BafinExporter: Exporter = async () => {
     }
   }))
 
-  const validatedData = validate(bafinObjectSchema, data)
+  const validationResult = bafinSchema.safeParse(data)
+
+  if (!validationResult.success) {
+    console.error(JSON.stringify(validationResult.error, null, 2))
+    throw new Error('error validating data')
+  }
+
   return [
     {
       targetFile: 'main.json',
-      data: validatedData
+      data: validationResult.data
     }
   ]
 }

@@ -1,14 +1,13 @@
 export type Stecker = {
   steckertypen: string
   kW?: number
-  publicKey: string
 }
 
 export type Ladesaeule = {
   betreiber: string
   strasse: string
   hausnummer: string
-  addresszusatz: string
+  adresszusatz: string
   plz: string
   ort: string
   bundesland: string

@@ -1,17 +1,18 @@
-import Papa from 'papaparse'
-import { bfgObjectSchema } from './schema'
+import { bfgSchema } from '@/schemas/bfg'
 import { parseOptionalString, parseStringArray } from '@/utils/format'
 import { germanDateToString } from '@/utils/germanDateToString'
 import streamToString from '@/utils/streamToString'
-import { validate } from '@/utils/validate'
 import { Exporter } from '@/types'
 import { getBrowser } from '@/utils/playwright'
+import { parseCsv } from '@/utils/csv'
 
 export const ArzneiEngpassExporter: Exporter = async () => {
   const browser = await getBrowser()
   const page = await browser.newPage()
 
-  await page.goto('https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml')
+  await page.goto(
+    'https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml'
+  )
 
   // select everything
   await Promise.all([
@@ -41,7 +42,7 @@ export const ArzneiEngpassExporter: Exporter = async () => {
 
   // parse downloaded CSV
   // eslint-disable-next-line @typescript-eslint/no-explicit-any -- no need to check this
-  const parsedCsv = Papa.parse<any>(data, { header: true }).data
+  const parsedCsv = await parseCsv<any>(data, { hasHeader: true })
 
   const cleanedData = parsedCsv.map((e) => ({
     pzn: parseStringArray(e.PZN),
@@ -52,7 +53,7 @@ export const ArzneiEngpassExporter: Exporter = async () => {
     datumLetzteMeldung: germanDateToString(e['Datum der letzten Meldung']),
     grundArt: e['Art des Grundes'],
     bezeichnung: e.Arzneimittlbezeichnung,
-    atcCode: e['Atc Code'],
+    atcCode: e['Atc Code'] as string,
     wirkstoffe: e.Wirkstoffe,
     krankenhausrelevant: e.Krankenhausrelevant === 'ja',
     zulassungsinhaber: e.Zulassungsinhaber,
@@ -68,11 +69,20 @@ export const ArzneiEngpassExporter: Exporter = async () => {
   // filter out dead fields
   const filteredData = cleanedData.filter((e) => e.pzn && e.pzn.length > 0)
 
-  const validatedData = validate(bfgObjectSchema, filteredData)
+  // sort by atc code
+  const sortedData = filteredData.sort((a, b) => a.atcCode.localeCompare(b.atcCode))
+
+  // validate against schema
+  const validationResult = bfgSchema.safeParse(sortedData)
+
+  if (!validationResult.success) {
+    console.error(JSON.stringify(validationResult.error, null, 2))
+    throw new Error('error validating data')
+  }
 
   return [
     {
-      data: validatedData,
+      data: validationResult.data,
       targetFile: 'main.json'
     }
   ]
