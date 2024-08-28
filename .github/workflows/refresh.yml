@@ -11,8 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: oven-sh/setup-bun@v2
+      - run: bun install --frozen-lockfile
       - name: Set up Playwright
-        run: bunx playwright install
+        run: bunx playwright install chromium
       - name: Refresh list
         uses: nick-fields/retry@v2
         with:
