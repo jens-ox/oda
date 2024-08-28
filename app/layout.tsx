@@ -1,6 +1,6 @@
 import cx from 'clsx'
 import Link from 'next/link'
-import { Link as RadixLink } from '@radix-ui/themes'
+import { Button, Link as RadixLink } from '@radix-ui/themes'
 import { inter, mono } from '@/utils/fonts'
 
 import '@/styles/globals.css'
@@ -10,7 +10,7 @@ import { Metadata } from 'next'
 const navigation = [
   { name: 'Datensätze', href: '/' },
   { name: 'Schemas', href: '/schema' },
-  { name: 'API', href: '/swagger' },
+  { name: 'API', href: 'https://redocly.github.io/redoc/?url=https://www.krake.dev/openapi.json' },
   { name: 'GitHub', href: 'https://github.com/jens-ox/oda' }
 ]
 
@@ -29,17 +29,17 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Contexts>
           <div className="flex flex-col justify-between min-h-screen bg-slate-1">
             <div className="flex flex-col gap-12">
-              <nav className="container mx-auto py-4 flex gap-12">
+              <nav className="container mx-auto py-4 flex gap-12 items-center">
                 <Link href="/">
                   <h1 className="font-medium">Open Data Aggregator</h1>
                 </Link>
                 <div className="flex gap-8 text-slate-11">
                   {navigation.map((item) => (
-                    <RadixLink asChild key={item.name}>
+                    <Button asChild key={item.name} variant="ghost">
                       <Link key={item.name} href={item.href}>
                         <span>{item.name}</span>
                       </Link>
-                    </RadixLink>
+                    </Button>
                   ))}
                 </div>
               </nav>

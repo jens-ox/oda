@@ -10,7 +10,7 @@ Extraction, versioning and machine-readable provisioning of public data.
 
 ## API
 
-See the [deployed Swagger docs](https://krake.dev/swagger).
+See the [Swagger docs](https://redocly.github.io/redoc/?url=https://www.krake.dev/openapi.json).
 
 ## Adding exporters
 
