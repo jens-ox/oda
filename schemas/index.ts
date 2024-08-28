@@ -3,6 +3,7 @@ import { bfgSchema } from './bfg'
 import { LadesaeulenSchema } from './bna'
 import { DestatisSchema } from './destatis'
 import { krankenkassenSchema } from './gkv'
+import { RadabstellanlagenSchema } from './radparken'
 import { RigolettoSchema } from './uba'
 
 export const schemas = {
@@ -11,5 +12,6 @@ export const schemas = {
   'destatis-gemeindeverzeichnis': DestatisSchema,
   'bna-ladesaeulen': LadesaeulenSchema,
   'uba-rigoletto': RigolettoSchema,
-  'gkv-krankenkassen': krankenkassenSchema
+  'gkv-krankenkassen': krankenkassenSchema,
+  radabstellanlagen: RadabstellanlagenSchema
 }
