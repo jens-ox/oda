@@ -1,7 +1,7 @@
 name: Refresh all sources
 on:
   schedule:
-    - cron: "0 4 * * *" # every day at 4 in the morning
+    - cron: '0 4 * * *' # every day at 4 in the morning
   workflow_dispatch:
 
 jobs:
@@ -9,23 +9,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v3
-      - uses: pnpm/action-setup@v2
-        with:
-          version: latest
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 18
-          cache: 'pnpm'
-      - run: pnpm install --frozen-lockfile
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
       - name: Set up Playwright
-        run: pnpm exec playwright install
+        run: bunx playwright install
       - name: Refresh list
         uses: nick-fields/retry@v2
         with:
           timeout_minutes: 5
           max_attempts: 3
-          command: pnpm crawl
+          command: bun run crawl
       - name: Raise a PR if files have changed
         id: cpr
         uses: peter-evans/create-pull-request@v4
@@ -39,5 +32,3 @@ jobs:
           token: ${{ secrets.PAT }}
           pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
           merge-method: squash
-
-          
