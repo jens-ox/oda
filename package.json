@@ -8,9 +8,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint .",
-    "crawl": "tsx --tsconfig tsconfig-crawl.json crawl/index.ts",
-    "crawl:dev": "tsx --tsconfig tsconfig-crawl.json crawl/playground.ts",
-    "crawl:dry": "DRY_RUN=1 pnpm crawl"
+    "crawl": "bun run crawl/index.ts",
+    "crawl:dev": "bun crawl/playground.ts",
+    "crawl:dry": "DRY_RUN=1 bun run crawl"
   },
   "author": "Jens Ochsenmeier <github@jens-ox.de>",
   "license": "MIT",
@@ -63,7 +63,6 @@
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "swagger-ui-react": "^5.17.14",
-    "tsx": "^4.19.0",
     "unzip-stream": "^0.3.4",
     "zod": "^3.23.8",
     "zod-to-json-schema": "^3.23.2"
