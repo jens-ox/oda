@@ -1,9 +1,12 @@
 import { Page } from 'playwright'
 import { Exporter } from '@/types'
 import { getBrowser } from '@/utils/playwright'
-import { krankenkassenSchema } from '@/schemas/gkv'
+import { Krankenkasse, krankenkassenSchema } from '@/schemas/gkv'
 
-const extractPage = async (page: Page) => {
+const getLink = (pageCounter: number) =>
+  `https://gkv-spitzenverband.de/service/krankenkassenliste/krankenkassen.jsp?pageNo=${pageCounter}`
+
+const extractPage = async (page: Page): Promise<Krankenkasse[]> => {
   const rows = await page.locator('tbody > tr').all()
   return Promise.all(
     rows.map(async (r) => {
@@ -25,24 +28,38 @@ const extractPage = async (page: Page) => {
 export const KrankenkassenExporter: Exporter = async () => {
   const browser = await getBrowser()
   const page = await browser.newPage()
+  let counter = 1
 
-  await page.goto('https://gkv-spitzenverband.de/service/krankenkassenliste/krankenkassen.jsp', {
+  await page.goto(getLink(counter), {
     waitUntil: 'domcontentloaded'
   })
 
-  const results = []
+  // get correct total amount
+  const total = (await page.locator('.results').first().textContent())?.split(' ')[0]
+  if (!total) throw new Error('could not extract total count')
+  const totalCount = parseInt(total)
+  if (isNaN(totalCount)) throw new Error('could not parse total count')
+  console.log('total: ', total)
+
+  const results: Krankenkasse[] = []
+  let previous: Krankenkasse[] = []
   while (true) {
     const result = await extractPage(page)
-    results.push(...result)
 
-    // go to next page if possible
-    const next = await page.locator('a.next').count()
-    if (next > 0) {
-      await page.locator('a.next').first().click()
-    } else {
-      browser.close()
+    // stop if no more changes are coming in
+    if (JSON.stringify(result) === JSON.stringify(previous)) {
+      await browser.close()
       break
     }
+
+    // persist and increment
+    results.push(...result)
+    previous = result
+    counter += 1
+
+    await page.goto(getLink(counter), {
+      waitUntil: 'domcontentloaded'
+    })
   }
 
   const validationResult = krankenkassenSchema.safeParse(results)
@@ -50,6 +67,12 @@ export const KrankenkassenExporter: Exporter = async () => {
   if (!validationResult.success) {
     console.error(JSON.stringify(validationResult.error, null, 2))
     throw new Error('error validating data')
+  }
+
+  if (validationResult.data.length !== totalCount) {
+    throw new Error(
+      `wrong entry count! Expected ${totalCount}, got ${validationResult.data.length}`
+    )
   }
 
   return [

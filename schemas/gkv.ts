@@ -15,8 +15,10 @@ export const krankenkassenObjectSchema = z.object({
     )
 })
 
+export type Krankenkasse = z.infer<typeof krankenkassenObjectSchema>
+
 export const krankenkassenSchema = z
   .array(krankenkassenObjectSchema)
   .describe('Liste gesetzlicher Krankenkassen.')
 
-export type KrankenhausType = z.infer<typeof krankenkassenSchema>
+export type KrankenkassenType = z.infer<typeof krankenkassenSchema>
