@@ -115,7 +115,13 @@ export const RadabstellanlageSchema = z.object({
       .string()
       .date()
       .optional()
-      .describe('Datum der letzten Datenerhebung (z.B. 2021-12-31).')
+      .describe('Datum der letzten Datenerhebung (z.B. 2021-12-31).'),
+    access: z
+      .enum(['yes', 'private', 'customers', 'members'])
+      .optional()
+      .describe(
+        'Zugangsregelung der Radabstellanlage (https://wiki.openstreetmap.org/wiki/DE:Key:access).'
+      )
   })
 })
 
