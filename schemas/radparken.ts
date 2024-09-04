@@ -24,6 +24,13 @@ export const RadabstellanlageSchema = z.object({
   }),
   properties: z.object({
     original_uid: z.string().describe('Eindeutige ID/Kennung (vom Datengeber).'),
+    osm: z
+      .object({
+        id: z.number().describe('OSM-ID der Radabstellanlage.'),
+        type: z.enum(['node', 'way', 'relation']).describe('OSM-Typ der Radabstellanlage.')
+      })
+      .optional()
+      .describe('OSM-Kennung der Radabstellanlage.'),
     name: z.string().describe('Name oder Bezeichnung der Anlage.'),
     type: z
       .enum([
@@ -103,7 +110,12 @@ export const RadabstellanlageSchema = z.object({
       .number()
       .optional()
       .describe('Anzahl Stellplätze, die für Lastenräder geeignet sind.'),
-    tags: z.array(z.string()).optional().describe('Übernahme externer Merkmale.')
+    tags: z.array(z.string()).optional().describe('Übernahme externer Merkmale.'),
+    date_surveyed: z
+      .string()
+      .date()
+      .optional()
+      .describe('Datum der letzten Datenerhebung (z.B. 2021-12-31).')
   })
 })
 
