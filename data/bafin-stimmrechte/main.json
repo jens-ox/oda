@@ -7492,38 +7492,6 @@
     }
   },
   {
-    "veroeffentlichung": "2009-01-12",
-    "emittent": {
-      "name": "VOLKSWAGEN AKTIENGESELLSCHAFT",
-      "sitz": "Wolfsburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Dr. Hans-Michel Piëch GmbH",
-      "sitz": "Salzburg",
-      "land": "Österreich"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 50.76
-    }
-  },
-  {
-    "veroeffentlichung": "2011-03-08",
-    "emittent": {
-      "name": "SGL Carbon SE",
-      "sitz": "Wiesbaden",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Dr. Hans-Michel Piëch GmbH",
-      "sitz": "Salzburg",
-      "land": "Österreich"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 8.18
-    }
-  },
-  {
     "veroeffentlichung": "2010-07-15",
     "emittent": {
       "name": "Drägerwerk AG & Co. KGaA",
@@ -7573,6 +7541,38 @@
       "gesamt": 54.16,
       "instrumente": 0,
       "summe": 54.16
+    }
+  },
+  {
+    "veroeffentlichung": "2009-01-12",
+    "emittent": {
+      "name": "VOLKSWAGEN AKTIENGESELLSCHAFT",
+      "sitz": "Wolfsburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Dr.Hans Michel Piech GmbH",
+      "sitz": "Wien",
+      "land": "Österreich"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 50.76
+    }
+  },
+  {
+    "veroeffentlichung": "2011-03-08",
+    "emittent": {
+      "name": "SGL Carbon SE",
+      "sitz": "Wiesbaden",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Dr.Hans Michel Piech GmbH",
+      "sitz": "Wien",
+      "land": "Österreich"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 8.18
     }
   },
   {
@@ -9373,7 +9373,7 @@
       "land": "Deutschland"
     },
     "meldepflichtiger": {
-      "name": "Fleischer, Prof. Dr. Klaus"
+      "name": "Fleischer, Prof. Dr. Klaus Dieter"
     },
     "stimmrechtsanteile": {
       "gesamt": 5.57,
