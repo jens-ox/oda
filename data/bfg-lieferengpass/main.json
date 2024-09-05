@@ -1115,6 +1115,28 @@
   },
   {
     "pzn": [
+      "15211429"
+    ],
+    "enr": [
+      "2155389"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-09",
+    "datumEnde": "2025-04-01",
+    "datumErstmeldung": "2024-09-04",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Herstellerwechsel",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Anapen 300 Mikrogramm Injektionslösung",
+    "atcCode": "C01CA24",
+    "wirkstoffe": "Epinephrin/Adrenalin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Bioprojet Pharma",
+    "mail": "medinfo@bioprojet.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "02288318"
     ],
     "enr": [
@@ -2828,11 +2850,11 @@
     "enr": [
       "2202118"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-08-13",
-    "datumEnde": "2024-10-20",
+    "datumEnde": "2024-10-13",
     "datumErstmeldung": "2024-08-21",
-    "datumLetzteMeldung": "2024-08-21",
+    "datumLetzteMeldung": "2024-09-04",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Der Lieferengpass kann vorerst durch die Packungsgröße 60g kompensiert werden.",
@@ -2841,9 +2863,34 @@
     "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Calcipotriol-Monohydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Vorgesehen",
+    "telefon": "08964186116",
+    "mail": "martin.schreiber@dermapharm.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Calcipotriderm comp. 50 Mikrogramm/g + 0,5 mg/g Gel - Einreichungsnummer: 2202118"
+  },
+  {
+    "pzn": [
+      "16763757"
+    ],
+    "enr": [
+      "2202118"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-13",
+    "datumEnde": "2024-10-13",
+    "datumErstmeldung": "2024-08-21",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Der Lieferengpass kann vorerst durch die Packungsgröße 60g kompensiert werden.",
+    "bezeichnung": "Calcipotriderm comp. 50 Mikrogramm/g + 0,5 mg/g Gel",
+    "atcCode": "D05AX52",
+    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Calcipotriol-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186116",
+    "mail": "martin.schreiber@dermapharm.com",
+    "infoFachkreise": "Nein",
     "alternativPraeparat": "Calcipotriderm comp. 50 Mikrogramm/g + 0,5 mg/g Gel - Einreichungsnummer: 2202118"
   },
   {
@@ -2968,21 +3015,21 @@
     "enr": [
       "2188649"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-10",
-    "datumEnde": "2024-10-06",
+    "datumEnde": "2024-11-03",
     "datumErstmeldung": "2024-07-23",
-    "datumLetzteMeldung": "2024-08-01",
+    "datumLetzteMeldung": "2024-09-04",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Momecutan Lösung",
     "atcCode": "D07AC13",
     "wirkstoffe": "Mometasonfuroat (Ph.Eur.)",
-    "krankenhausrelevant": true,
+    "krankenhausrelevant": false,
     "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Vorgesehen"
+    "telefon": "08964186116",
+    "mail": "martin.schreiber@dermapharm.com",
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -3449,11 +3496,11 @@
     "enr": [
       "0608977"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-26",
-    "datumEnde": "2024-08-31",
+    "datumEnde": "2024-10-30",
     "datumErstmeldung": "2024-08-01",
-    "datumLetzteMeldung": "2024-08-01",
+    "datumLetzteMeldung": "2024-09-04",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "MPA GYN 5",
@@ -4586,6 +4633,28 @@
   },
   {
     "pzn": [
+      "03410891"
+    ],
+    "enr": [
+      "2103441"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-09-07",
+    "datumEnde": "2024-09-13",
+    "datumErstmeldung": "2022-09-07",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxi 500 - 1 A Pharma",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "00000000"
     ],
     "enr": [
@@ -4673,28 +4742,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
     "mail": "info@abz.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03410891"
-    ],
-    "enr": [
-      "2103441"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-09-07",
-    "datumEnde": "2024-08-30",
-    "datumErstmeldung": "2022-09-07",
-    "datumLetzteMeldung": "2024-08-20",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxi 500 - 1 A Pharma",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5668,6 +5715,72 @@
   },
   {
     "pzn": [
+      "08860908"
+    ],
+    "enr": [
+      "2160114"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-11",
+    "datumEnde": "2024-11-01",
+    "datumErstmeldung": "2023-05-24",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clarithromycin-1A Pharma 500 mg Filmtabletten",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04332377"
+    ],
+    "enr": [
+      "2160407"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2024-09-30",
+    "datumErstmeldung": "2023-04-05",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clarithromycin - 1 A Pharma 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04332466"
+    ],
+    "enr": [
+      "2160407"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2024-09-30",
+    "datumErstmeldung": "2023-04-05",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clarithromycin - 1 A Pharma 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "04330929"
     ],
     "enr": [
@@ -5706,72 +5819,6 @@
     "atcCode": "J01FA09",
     "wirkstoffe": "Clarithromycin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08860908"
-    ],
-    "enr": [
-      "2160114"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-11",
-    "datumEnde": "2024-08-31",
-    "datumErstmeldung": "2023-05-24",
-    "datumLetzteMeldung": "2024-07-02",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clarithromycin-1A Pharma 500 mg Filmtabletten",
-    "atcCode": "J01FA09",
-    "wirkstoffe": "Clarithromycin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04332377"
-    ],
-    "enr": [
-      "2160407"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-05",
-    "datumEnde": "2024-08-31",
-    "datumErstmeldung": "2023-04-05",
-    "datumLetzteMeldung": "2024-07-02",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clarithromycin - 1 A Pharma 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA09",
-    "wirkstoffe": "Clarithromycin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04332466"
-    ],
-    "enr": [
-      "2160407"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-05",
-    "datumEnde": "2024-08-31",
-    "datumErstmeldung": "2023-04-05",
-    "datumLetzteMeldung": "2024-07-02",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clarithromycin - 1 A Pharma 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA09",
-    "wirkstoffe": "Clarithromycin",
-    "krankenhausrelevant": true,
     "zulassungsinhaber": "1 A Pharma GmbH",
     "mail": "info@1apharma.com",
     "infoFachkreise": "Vorgesehen"
@@ -5821,6 +5868,50 @@
     "telefon": "08000700800",
     "mail": "kundenservice@viatris.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00230007"
+    ],
+    "enr": [
+      "2155619"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-29",
+    "datumEnde": "2024-10-31",
+    "datumErstmeldung": "2024-06-03",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin HEXAL 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00278379"
+    ],
+    "enr": [
+      "2155619"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-29",
+    "datumEnde": "2024-10-31",
+    "datumErstmeldung": "2024-06-03",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin HEXAL 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -6009,50 +6100,6 @@
   },
   {
     "pzn": [
-      "07116993"
-    ],
-    "enr": [
-      "2160507"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-03",
-    "datumEnde": "2024-08-30",
-    "datumErstmeldung": "2024-07-25",
-    "datumLetzteMeldung": "2024-08-14",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin 500 - 1 A Pharma",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07116987"
-    ],
-    "enr": [
-      "2160506"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-27",
-    "datumEnde": "2024-08-30",
-    "datumErstmeldung": "2024-04-19",
-    "datumLetzteMeldung": "2024-08-14",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin 250 - 1 A Pharma",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04044336"
     ],
     "enr": [
@@ -6093,50 +6140,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
     "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00230007"
-    ],
-    "enr": [
-      "2155619"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-29",
-    "datumEnde": "2024-08-31",
-    "datumErstmeldung": "2024-06-03",
-    "datumLetzteMeldung": "2024-07-26",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin HEXAL 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00278379"
-    ],
-    "enr": [
-      "2155619"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-29",
-    "datumEnde": "2024-08-31",
-    "datumErstmeldung": "2024-06-03",
-    "datumLetzteMeldung": "2024-07-26",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin HEXAL 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -7753,29 +7756,6 @@
   },
   {
     "pzn": [
-      "15426265"
-    ],
-    "enr": [
-      "2714809"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-14",
-    "datumEnde": "2024-08-31",
-    "datumErstmeldung": "2024-05-29",
-    "datumLetzteMeldung": "2024-05-29",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Talzenna 0,25 mg Hartkapseln",
-    "atcCode": "L01XX60",
-    "wirkstoffe": "Talazoparibtosilat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Europe MA EEIG",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "10410472"
     ],
     "enr": [
@@ -9181,6 +9161,270 @@
     "mail": "p.baccetti@moltenifarma.it",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Oramorph 20mg/ml Lösung - Einreichungsnummer: 2126695"
+  },
+  {
+    "pzn": [
+      "14256915"
+    ],
+    "enr": [
+      "2198723"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-02",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-09-04",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon PAINBREAK 24 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PB Pharma GmbH",
+    "telefon": "02159-914470",
+    "mail": "christian.hueneburg@pbpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Palladone retard 24 mg - Einreichungsnummer: 2182664"
+  },
+  {
+    "pzn": [
+      "14256921"
+    ],
+    "enr": [
+      "2198723"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-02",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-09-04",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon PAINBREAK 24 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PB Pharma GmbH",
+    "telefon": "02159-914470",
+    "mail": "christian.hueneburg@pbpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Palladone retard 24 mg - Einreichungsnummer: 2182664"
+  },
+  {
+    "pzn": [
+      "14256884"
+    ],
+    "enr": [
+      "2198722"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-02",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-09-04",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon PAINBREAK 16 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PB Pharma GmbH",
+    "telefon": "02159-914470",
+    "mail": "christian.hueneburg@pbpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Palladone retard 16 mg - Einreichungsnummer: 2182663"
+  },
+  {
+    "pzn": [
+      "14256890"
+    ],
+    "enr": [
+      "2198722"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-02",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-09-04",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon PAINBREAK 16 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PB Pharma GmbH",
+    "telefon": "02159-914470",
+    "mail": "christian.hueneburg@pbpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Palladone retard 16 mg - Einreichungsnummer: 2182663"
+  },
+  {
+    "pzn": [
+      "14256909"
+    ],
+    "enr": [
+      "2198722"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-02",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-09-04",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon PAINBREAK 16 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PB Pharma GmbH",
+    "telefon": "02159-914470",
+    "mail": "christian.hueneburg@pbpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Palladone retard 16 mg - Einreichungsnummer: 2182663"
+  },
+  {
+    "pzn": [
+      "14256855"
+    ],
+    "enr": [
+      "2198721"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-02",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-09-04",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon PAINBREAK 8 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PB Pharma GmbH",
+    "telefon": "02159-914470",
+    "mail": "christian.hueneburg@pbpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Palladone retard 8 mg - Einreichungsnummer: 2182662"
+  },
+  {
+    "pzn": [
+      "14256861"
+    ],
+    "enr": [
+      "2198721"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-02",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-09-04",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon PAINBREAK 8 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PB Pharma GmbH",
+    "telefon": "02159-914470",
+    "mail": "christian.hueneburg@pbpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Palladone retard 8 mg - Einreichungsnummer: 2182662"
+  },
+  {
+    "pzn": [
+      "14256878"
+    ],
+    "enr": [
+      "2198721"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-02",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-09-04",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon PAINBREAK 8 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PB Pharma GmbH",
+    "telefon": "02159-914470",
+    "mail": "christian.hueneburg@pbpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Palladone retard 8 mg - Einreichungsnummer: 2182662"
+  },
+  {
+    "pzn": [
+      "14256826"
+    ],
+    "enr": [
+      "2198720"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-02",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-09-04",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon PAINBREAK 4 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PB Pharma GmbH",
+    "telefon": "02159 914470",
+    "mail": "christian.hueneburg@pbpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Palladone retard 4 mg - Einreichungsnummer: 2182661"
+  },
+  {
+    "pzn": [
+      "14256832"
+    ],
+    "enr": [
+      "2198720"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-02",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-09-04",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon PAINBREAK 4 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PB Pharma GmbH",
+    "telefon": "02159 914470",
+    "mail": "christian.hueneburg@pbpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Palladone retard 4 mg - Einreichungsnummer: 2182661"
+  },
+  {
+    "pzn": [
+      "14256849"
+    ],
+    "enr": [
+      "2198720"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-02",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-09-04",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon PAINBREAK 4 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PB Pharma GmbH",
+    "telefon": "02159 914470",
+    "mail": "christian.hueneburg@pbpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Palladone retard 4 mg - Einreichungsnummer: 2182661"
   },
   {
     "pzn": [
@@ -11397,6 +11641,28 @@
   },
   {
     "pzn": [
+      "04897197"
+    ],
+    "enr": [
+      "0002306"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-01",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-09-04",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Herstellerwechsel",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Petnidan Saft",
+    "atcCode": "N03AD01",
+    "wirkstoffe": "Ethosuximid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
+    "mail": "info@desitin.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "18873958"
     ],
     "enr": [
@@ -11517,9 +11783,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-08-15",
-    "datumEnde": "2024-08-30",
+    "datumEnde": "2024-09-06",
     "datumErstmeldung": "2024-08-15",
-    "datumLetzteMeldung": "2024-08-28",
+    "datumLetzteMeldung": "2024-09-04",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Oxcarbazepin - 1 A Pharma 60 mg/ml Suspension zum Einnehmen",
@@ -17143,6 +17409,72 @@
   },
   {
     "pzn": [
+      "12589452"
+    ],
+    "enr": [
+      "2196252"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-10",
+    "datumEnde": "2025-01-16",
+    "datumErstmeldung": "2024-02-09",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "L-Poladdict 30 mg Tabletten",
+    "atcCode": "TERM_ID_NA_2090005949",
+    "wirkstoffe": "Levomethadonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "12589469"
+    ],
+    "enr": [
+      "2196252"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-10",
+    "datumEnde": "2025-01-16",
+    "datumErstmeldung": "2024-02-09",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "L-Poladdict 30 mg Tabletten",
+    "atcCode": "TERM_ID_NA_2090005949",
+    "wirkstoffe": "Levomethadonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "12589475"
+    ],
+    "enr": [
+      "2196252"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-10",
+    "datumEnde": "2025-01-16",
+    "datumErstmeldung": "2024-02-09",
+    "datumLetzteMeldung": "2024-09-04",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "L-Poladdict 30 mg Tabletten",
+    "atcCode": "TERM_ID_NA_2090005949",
+    "wirkstoffe": "Levomethadonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
       "12589328"
     ],
     "enr": [
@@ -17163,50 +17495,6 @@
     "mail": "service@hexal.com",
     "infoFachkreise": "Ja",
     "alternativPraeparat": "L-Poladdict 5 mg Tabletten - Einreichungsnummer: 2196250"
-  },
-  {
-    "pzn": [
-      "12589452"
-    ],
-    "enr": [
-      "2196252"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-10",
-    "datumEnde": "2024-08-30",
-    "datumErstmeldung": "2024-02-09",
-    "datumLetzteMeldung": "2024-07-02",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "L-Poladdict 30 mg Tabletten",
-    "atcCode": "TERM_ID_NA_2090005949",
-    "wirkstoffe": "Levomethadonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "12589469"
-    ],
-    "enr": [
-      "2196252"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-10",
-    "datumEnde": "2024-08-30",
-    "datumErstmeldung": "2024-02-09",
-    "datumLetzteMeldung": "2024-07-02",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "L-Poladdict 30 mg Tabletten",
-    "atcCode": "TERM_ID_NA_2090005949",
-    "wirkstoffe": "Levomethadonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
