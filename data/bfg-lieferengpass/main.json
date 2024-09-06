@@ -831,30 +831,6 @@
   },
   {
     "pzn": [
-      "05541338"
-    ],
-    "enr": [
-      "0037262"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-31",
-    "datumEnde": "2024-10-15",
-    "datumErstmeldung": "2024-03-04",
-    "datumLetzteMeldung": "2024-08-15",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Marcumar",
-    "atcCode": "B01AA04",
-    "wirkstoffe": "Phenprocoumon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800 0700 800",
-    "mail": "kundenservice@viatris.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Marcumar - Einreichungsnummer: 0037262"
-  },
-  {
-    "pzn": [
       "07768170"
     ],
     "enr": [
@@ -864,7 +840,7 @@
     "datumBeginn": "2024-01-31",
     "datumEnde": "2024-10-15",
     "datumErstmeldung": "2024-03-04",
-    "datumLetzteMeldung": "2024-08-15",
+    "datumLetzteMeldung": "2024-09-05",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Marcumar",
@@ -2705,6 +2681,52 @@
     "zulassungsinhaber": "Aristo Pharma GmbH",
     "mail": "info@aristo-pharma.de",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14035640"
+    ],
+    "enr": [
+      "2199049"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-08-05",
+    "datumEnde": "2024-10-04",
+    "datumErstmeldung": "2024-09-05",
+    "datumLetzteMeldung": "2024-09-05",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ezetimib Micro Labs 10 mg Tabletten",
+    "atcCode": "C10AX09",
+    "wirkstoffe": "Ezetimib",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Micro Labs GmbH",
+    "mail": "ausschreibungen@microlabsgmbh.de",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Ezetimib Micro Labs 10 mg Tabletten - Einreichungsnummer: 2199049"
+  },
+  {
+    "pzn": [
+      "14035657"
+    ],
+    "enr": [
+      "2199049"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-08-05",
+    "datumEnde": "2024-10-04",
+    "datumErstmeldung": "2024-09-05",
+    "datumLetzteMeldung": "2024-09-05",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ezetimib Micro Labs 10 mg Tabletten",
+    "atcCode": "C10AX09",
+    "wirkstoffe": "Ezetimib",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Micro Labs GmbH",
+    "mail": "ausschreibungen@microlabsgmbh.de",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Ezetimib Micro Labs 10 mg Tabletten - Einreichungsnummer: 2199049"
   },
   {
     "pzn": [
@@ -5356,29 +5378,6 @@
   },
   {
     "pzn": [
-      "14358544"
-    ],
-    "enr": [
-      "2162812"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-02",
-    "datumEnde": "2024-08-31",
-    "datumErstmeldung": "2024-04-03",
-    "datumLetzteMeldung": "2024-07-09",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Erhöhter Abverkauf wegen Verknappung von Ampicillin/Sulbactam.",
-    "bezeichnung": "Sulbactam Eberth 1000 mg",
-    "atcCode": "J01CG01",
-    "wirkstoffe": "Sulbactam-Natrium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
-    "mail": "schoeberl@eberth.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08837281"
     ],
     "enr": [
@@ -6280,6 +6279,28 @@
     "telefon": "06252/95-7000",
     "mail": "shortages@infectopharm.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03928180"
+    ],
+    "enr": [
+      "2103170"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-05",
+    "datumEnde": "2024-11-30",
+    "datumErstmeldung": "2024-09-05",
+    "datumLetzteMeldung": "2024-09-05",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Gentamicin-ratiopharm 80 mg/2 ml SF",
+    "atcCode": "J01GB03",
+    "wirkstoffe": "Gentamicinsulfat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -8310,31 +8331,6 @@
   },
   {
     "pzn": [
-      "09924013"
-    ],
-    "enr": [
-      "2181390"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-19",
-    "datumEnde": "2024-09-09",
-    "datumErstmeldung": "2024-08-19",
-    "datumLetzteMeldung": "2024-08-30",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Erhöhte Nachfrage wegen Alendronsäure Lieferengpass",
-    "bezeichnung": "Ibandronate Bluefish 150 mg Filmtabletten",
-    "atcCode": "M05BA06",
-    "wirkstoffe": "Ibandronat-Natrium-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Bluefish Pharmaceuticals AB (publ)",
-    "telefon": "00436601373322",
-    "mail": "mariam.motamen@bluefishpharma.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Ibandronate Bluefish 150 mg Filmtabletten - Einreichungsnummer: 2181390"
-  },
-  {
-    "pzn": [
       "00000000"
     ],
     "enr": [
@@ -8377,52 +8373,6 @@
     "zulassungsinhaber": "ALIUD PHARMA GmbH",
     "telefon": "+49733396510",
     "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08472508"
-    ],
-    "enr": [
-      "2180324"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-08",
-    "datumEnde": "2024-09-09",
-    "datumErstmeldung": "2024-07-09",
-    "datumLetzteMeldung": "2024-08-30",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Risedronat Bluefish 35 mg Filmtabletten einmal wöchentlich",
-    "atcCode": "M05BA07",
-    "wirkstoffe": "Risedronat-Natrium-2,5-Hydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Bluefish Pharmaceuticals AB (publ)",
-    "telefon": "00436601373322",
-    "mail": "mariam.motamen@bluefishpharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08472566"
-    ],
-    "enr": [
-      "2180324"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-08",
-    "datumEnde": "2024-09-09",
-    "datumErstmeldung": "2024-07-09",
-    "datumLetzteMeldung": "2024-08-30",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Risedronat Bluefish 35 mg Filmtabletten einmal wöchentlich",
-    "atcCode": "M05BA07",
-    "wirkstoffe": "Risedronat-Natrium-2,5-Hydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Bluefish Pharmaceuticals AB (publ)",
-    "telefon": "00436601373322",
-    "mail": "mariam.motamen@bluefishpharma.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -10698,6 +10648,160 @@
   },
   {
     "pzn": [
+      "00262295"
+    ],
+    "enr": [
+      "2188453"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-05",
+    "datumEnde": "2024-11-30",
+    "datumErstmeldung": "2024-08-14",
+    "datumLetzteMeldung": "2024-09-05",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 35 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00262303"
+    ],
+    "enr": [
+      "2188453"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-05",
+    "datumEnde": "2024-11-30",
+    "datumErstmeldung": "2024-08-14",
+    "datumLetzteMeldung": "2024-09-05",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 35 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04406928"
+    ],
+    "enr": [
+      "2188453"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-05",
+    "datumEnde": "2024-11-30",
+    "datumErstmeldung": "2024-08-14",
+    "datumLetzteMeldung": "2024-09-05",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 35 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04406986"
+    ],
+    "enr": [
+      "2188453"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-05",
+    "datumEnde": "2024-11-30",
+    "datumErstmeldung": "2024-08-14",
+    "datumLetzteMeldung": "2024-09-05",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 35 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00267217"
+    ],
+    "enr": [
+      "2188455"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2024-11-30",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2024-09-05",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04407891"
+    ],
+    "enr": [
+      "2188455"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2024-11-30",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2024-09-05",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04420070"
+    ],
+    "enr": [
+      "2188455"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2024-11-30",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2024-09-05",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "00583094"
     ],
     "enr": [
@@ -10718,97 +10822,6 @@
     "telefon": "+80027081901",
     "mail": "PatientSafetyRoW@indivior.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04420070"
-    ],
-    "enr": [
-      "2188455"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-14",
-    "datumEnde": "2024-11-30",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-08-14",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00262295"
-    ],
-    "enr": [
-      "2188453"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-05",
-    "datumEnde": "2024-11-30",
-    "datumErstmeldung": "2024-08-14",
-    "datumLetzteMeldung": "2024-08-14",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 35 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Buprenorphin AWD Matrix 35 Mikrogramm/h Transdermales Pflaster - Einreichungsnummer: 2188453"
-  },
-  {
-    "pzn": [
-      "00262303"
-    ],
-    "enr": [
-      "2188453"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-05",
-    "datumEnde": "2024-11-30",
-    "datumErstmeldung": "2024-08-14",
-    "datumLetzteMeldung": "2024-08-14",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 35 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Buprenorphin AWD Matrix 35 Mikrogramm/h Transdermales Pflaster - Einreichungsnummer: 2188453"
-  },
-  {
-    "pzn": [
-      "04406928"
-    ],
-    "enr": [
-      "2188453"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-05",
-    "datumEnde": "2024-11-30",
-    "datumErstmeldung": "2024-08-14",
-    "datumLetzteMeldung": "2024-08-14",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 35 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Buprenorphin AWD Matrix 35 Mikrogramm/h Transdermales Pflaster - Einreichungsnummer: 2188453"
   },
   {
     "pzn": [
@@ -11798,29 +11811,6 @@
   },
   {
     "pzn": [
-      "11267806"
-    ],
-    "enr": [
-      "2165232"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-01",
-    "datumEnde": "2024-09-13",
-    "datumErstmeldung": "2024-08-15",
-    "datumLetzteMeldung": "2024-08-15",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Timox extent 600 mg Tabletten mit veränderter Wirkstofffreisetzung",
-    "atcCode": "N03AF02",
-    "wirkstoffe": "Oxcarbazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
-    "mail": "info@desitin.de",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Apydan extent 600 mg Tabletten mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2165227"
-  },
-  {
-    "pzn": [
       "07712689"
     ],
     "enr": [
@@ -12757,6 +12747,72 @@
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "mail": "Service.De@glenmarkpharma.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16233025"
+    ],
+    "enr": [
+      "2203599"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-05",
+    "datumEnde": "2024-10-31",
+    "datumErstmeldung": "2024-09-05",
+    "datumLetzteMeldung": "2024-09-05",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Risperidon-ratiopharm 50 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension",
+    "atcCode": "N05AX08",
+    "wirkstoffe": "Risperidon",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16233002"
+    ],
+    "enr": [
+      "2203598"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-05",
+    "datumEnde": "2024-10-31",
+    "datumErstmeldung": "2024-09-05",
+    "datumLetzteMeldung": "2024-09-05",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Risperidon-ratiopharm 37,5 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension",
+    "atcCode": "N05AX08",
+    "wirkstoffe": "Risperidon",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16232988"
+    ],
+    "enr": [
+      "2203597"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-05",
+    "datumEnde": "2024-10-31",
+    "datumErstmeldung": "2024-09-05",
+    "datumLetzteMeldung": "2024-09-05",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Risperidon-ratiopharm 25 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension",
+    "atcCode": "N05AX08",
+    "wirkstoffe": "Risperidon",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
