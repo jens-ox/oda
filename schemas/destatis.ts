@@ -83,6 +83,7 @@ export const DestatisSchema = z
         z.object({
           date: Date,
           ars: Ars,
+          ags: z.string().describe('Amtlicher Gemeindeschlüssel, Vorgänger des ARS.'),
           name: z.string().describe('Name der Gemeinde.'),
           gemeindeTyp: z
             .enum([

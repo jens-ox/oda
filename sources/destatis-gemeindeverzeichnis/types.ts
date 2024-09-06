@@ -37,6 +37,7 @@ export type Gemeindeverband = Entry & {
 }
 
 export type Gemeinde = Entry & {
+  ags: string
   gemeindeTyp: string
   flaecheHektar: number
   bevoelkerungInsgesamt: number

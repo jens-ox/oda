@@ -209,6 +209,7 @@ const parseGemeinde = (l: string): Gemeinde => {
   return {
     type: 'gemeinde',
     date: `${ef2u1}-${ef2u2}-${ef2u3}`,
+    ags: `${ef3u1}${ef3u2}${ef3u3}${ef3u4}`,
     ars: `${ef3u1}${ef3u2}${ef3u3}${ef4}${ef3u4}`,
     name: ef5,
     gemeindeTyp: typeMap.get(ef7u1) ?? ef7u1,
