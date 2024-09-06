@@ -6,7 +6,8 @@ const parseLand = (l: string): Land => {
   const ef2u1 = l.substring(2, 6).trim()
   const ef2u2 = l.substring(6, 8).trim()
   const ef2u3 = l.substring(8, 10).trim()
-  const ef3u1 = l.substring(10, 12).trim()
+  const ef3 = l.substring(10, 18).trim()
+  // const ef3u1 = l.substring(10, 12).trim()
   // const ef3u2 = l.substring(12, 13).trim()
   // const ef3u3 = l.substring(13, 15).trim()
   // const ef3u4 = l.substring(15, 18).trim()
@@ -22,7 +23,7 @@ const parseLand = (l: string): Land => {
   return {
     type: 'land',
     date: `${ef2u1}-${ef2u2}-${ef2u3}`,
-    landSchluessel: parseInt(ef3u1),
+    ars: ef3,
     name: ef5,
     sitzLandesregierung: ef6,
     ...(ef9 !== '' ? { interneAngaben: ef9 } : {})
@@ -33,8 +34,9 @@ const parseRegierungsbezirk = (l: string): Regierungsbezirk => {
   const ef2u1 = l.substring(2, 6).trim()
   const ef2u2 = l.substring(6, 8).trim()
   const ef2u3 = l.substring(8, 10).trim()
-  const ef3u1 = l.substring(10, 12).trim()
-  const ef3u2 = l.substring(12, 13).trim()
+  const ef3 = l.substring(10, 18).trim()
+  // const ef3u1 = l.substring(10, 12).trim()
+  // const ef3u2 = l.substring(12, 13).trim()
   // const ef3u3 = l.substring(13, 15).trim()
   // const ef3u4 = l.substring(15, 18).trim()
   // const ef4 = l.substring(18, 22).trim()
@@ -49,8 +51,7 @@ const parseRegierungsbezirk = (l: string): Regierungsbezirk => {
   return {
     type: 'regierungsbezirk',
     date: `${ef2u1}-${ef2u2}-${ef2u3}`,
-    landSchluessel: parseInt(ef3u1),
-    regierungsbezirkSchluessel: parseInt(ef3u2),
+    ars: ef3,
     name: ef5,
     sitzVerwaltung: ef6,
     ...(ef9 !== '' ? { interneAngaben: ef9 } : {})
@@ -61,9 +62,10 @@ const parseRegion = (l: string): Region => {
   const ef2u1 = l.substring(2, 6).trim()
   const ef2u2 = l.substring(6, 8).trim()
   const ef2u3 = l.substring(8, 10).trim()
-  const ef3u1 = l.substring(10, 12).trim()
-  const ef3u2 = l.substring(12, 13).trim()
-  const ef3u3 = l.substring(13, 15).trim()
+  const ef3 = l.substring(10, 18).trim()
+  // const ef3u1 = l.substring(10, 12).trim()
+  // const ef3u2 = l.substring(12, 13).trim()
+  // const ef3u3 = l.substring(13, 15).trim()
   // const ef3u4 = l.substring(15, 18).trim()
   // const ef4 = l.substring(18, 22).trim()
   const ef5 = l.substring(22, 72).trim()
@@ -77,9 +79,7 @@ const parseRegion = (l: string): Region => {
   return {
     type: 'region',
     date: `${ef2u1}-${ef2u2}-${ef2u3}`,
-    landSchluessel: parseInt(ef3u1),
-    regierungsbezirkSchluessel: parseInt(ef3u2),
-    regionSchluessel: parseInt(ef3u3),
+    ars: ef3,
     name: ef5,
     sitzVerwaltung: ef6,
     ...(ef9 !== '' ? { interneAngaben: ef9 } : {})
@@ -90,9 +90,10 @@ const parseKreis = (l: string): Kreis => {
   const ef2u1 = l.substring(2, 6).trim()
   const ef2u2 = l.substring(6, 8).trim()
   const ef2u3 = l.substring(8, 10).trim()
-  const ef3u1 = l.substring(10, 12).trim()
-  const ef3u2 = l.substring(12, 13).trim()
-  const ef3u3 = l.substring(13, 15).trim()
+  const ef3 = l.substring(10, 18).trim()
+  // const ef3u1 = l.substring(10, 12).trim()
+  // const ef3u2 = l.substring(12, 13).trim()
+  // const ef3u3 = l.substring(13, 15).trim()
   // const ef3u4 = l.substring(15, 18).trim()
   // const ef4 = l.substring(18, 22).trim()
   const ef5 = l.substring(22, 72).trim()
@@ -114,9 +115,7 @@ const parseKreis = (l: string): Kreis => {
   return {
     type: 'kreis',
     date: `${ef2u1}-${ef2u2}-${ef2u3}`,
-    landSchluessel: parseInt(ef3u1),
-    regierungsbezirkSchluessel: parseInt(ef3u2),
-    kreisSchluessel: parseInt(ef3u3),
+    ars: ef3,
     name: ef5,
     sitzVerwaltung: ef6,
     kreisTyp: typeMap.get(ef7u1) ?? ef7u1,
@@ -128,9 +127,10 @@ const parseGemeindeverband = (l: string): Gemeindeverband => {
   const ef2u1 = l.substring(2, 6).trim()
   const ef2u2 = l.substring(6, 8).trim()
   const ef2u3 = l.substring(8, 10).trim()
-  const ef3u1 = l.substring(10, 12).trim()
-  const ef3u2 = l.substring(12, 13).trim()
-  const ef3u3 = l.substring(13, 15).trim()
+  const ef3 = l.substring(10, 18).trim()
+  // const ef3u1 = l.substring(10, 12).trim()
+  // const ef3u2 = l.substring(12, 13).trim()
+  // const ef3u3 = l.substring(13, 15).trim()
   // const ef3u4 = l.substring(15, 18).trim()
   const ef4 = l.substring(18, 22).trim()
   const ef5 = l.substring(22, 72).trim()
@@ -156,10 +156,7 @@ const parseGemeindeverband = (l: string): Gemeindeverband => {
   return {
     type: 'gemeindeverband',
     date: `${ef2u1}-${ef2u2}-${ef2u3}`,
-    landSchluessel: parseInt(ef3u1),
-    regierungsbezirkSchluessel: parseInt(ef3u2),
-    kreisSchluessel: parseInt(ef3u3),
-    gemeindeverbandSchluessel: parseInt(ef4),
+    ars: `${ef3}${ef4}`,
     name: ef5,
     sitzVerwaltung: ef6,
     gemeindeverbandTyp: typeMap.get(ef7u1) ?? ef7u1,
@@ -209,24 +206,10 @@ const parseGemeinde = (l: string): Gemeinde => {
     ['67', 'grosseKreisstadt']
   ])
 
-  const landSchluessel = ef3u1
-  const rbzSchluessel = ef3u2
-  const kreisSchluessel = ef3u3
-  const verbandSchluessel = ef4
-  const gemeindeSchluessel = ef3u4
-  const ars = parseInt(
-    `${landSchluessel}${rbzSchluessel}${kreisSchluessel}${verbandSchluessel}${gemeindeSchluessel}`
-  )
-
   return {
     type: 'gemeinde',
     date: `${ef2u1}-${ef2u2}-${ef2u3}`,
-    ars,
-    landSchluessel: parseInt(landSchluessel),
-    regierungsbezirkSchluessel: parseInt(rbzSchluessel),
-    kreisSchluessel: parseInt(kreisSchluessel),
-    gemeindeverbandSchluessel: parseInt(verbandSchluessel),
-    gemeindeSchluessel: parseInt(gemeindeSchluessel),
+    ars: `${ef3u1}${ef3u2}${ef3u3}${ef4}${ef3u4}`,
     name: ef5,
     gemeindeTyp: typeMap.get(ef7u1) ?? ef7u1,
     flaecheHektar: parseInt(ef8),

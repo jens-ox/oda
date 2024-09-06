@@ -11,50 +11,32 @@ type Entry = {
   date: string
   name: string
   interneAngaben?: string
+  ars: string
 }
 
 export type Land = Entry & {
-  landSchluessel: number
   sitzLandesregierung: string
 }
 
 export type Regierungsbezirk = Entry & {
-  landSchluessel: number
-  regierungsbezirkSchluessel: number
   sitzVerwaltung: string
 }
 
 export type Region = Entry & {
-  landSchluessel: number
-  regierungsbezirkSchluessel: number
-  regionSchluessel: number
   sitzVerwaltung: string
 }
 
 export type Kreis = Entry & {
-  landSchluessel: number
-  regierungsbezirkSchluessel: number
-  kreisSchluessel: number
   sitzVerwaltung: string
   kreisTyp: string
 }
 
 export type Gemeindeverband = Entry & {
-  landSchluessel: number
-  regierungsbezirkSchluessel: number
-  kreisSchluessel: number
-  gemeindeverbandSchluessel: number
   sitzVerwaltung: string
   gemeindeverbandTyp: string
 }
 
 export type Gemeinde = Entry & {
-  ars: number
-  landSchluessel: number
-  regierungsbezirkSchluessel: number
-  kreisSchluessel: number
-  gemeindeverbandSchluessel: number
-  gemeindeSchluessel: number
   gemeindeTyp: string
   flaecheHektar: number
   bevoelkerungInsgesamt: number

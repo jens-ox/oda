@@ -2,29 +2,13 @@ import { z } from 'zod'
 
 const Date = z.string().describe('Datum der letzten Aktualisierung (z.B. 2024-08-31).')
 
-const LandSchluessel = z
-  .number()
-  .int()
-  .describe('Genormter Landesschlüssel (z.B. 1 für Schleswig-Holstein).')
-
-const RegierungsbezirkSchluessel = z
-  .number()
-  .int()
-  .describe('Genormter Regierungsbezirksschlüssel (z.B. 1 für Statistische Region Braunschweig).')
-
-const RegionSchluessel = z
-  .number()
-  .int()
-  .describe('Genormter Regionsschlüssel (z.B. 1 für Region Stuttgart).')
-
-const KreisSchluessel = z.number().int().describe('Genormter Kreisschlüssel (z.B. 57 für Plön).')
-
-const GemeindeverbandSchluessel = z
-  .number()
-  .int()
-  .describe('Genormter Gemeindeverbandsschlüssel (z.B. 5166 für Marne-Nordsee).')
-
 const NameVerwaltungssitz = z.string().describe('Name des Ortes des Verwaltungssitzes.')
+
+const Ars = z
+  .string()
+  .describe(
+    'Amtlicher Regionalschlüssel in 12 Ziffern. 2 Ziffern Bundesland, 1 Ziffer Regierungsbezirk (0 = kein Regierungsbezirk), 2 Ziffern Kreis, 4 Ziffern Gemeindeverband, 3 Ziffern Gemeinde.'
+  )
 
 export const DestatisSchema = z
   .object({
@@ -32,7 +16,7 @@ export const DestatisSchema = z
       .array(
         z.object({
           date: Date,
-          landSchluessel: LandSchluessel,
+          ars: Ars,
           name: z.string().describe('Name des Bundeslandes.'),
           sitzLandesregierung: NameVerwaltungssitz
         })
@@ -42,8 +26,7 @@ export const DestatisSchema = z
       .array(
         z.object({
           date: Date,
-          landSchluessel: LandSchluessel,
-          regierungsbezirkSchluessel: RegierungsbezirkSchluessel,
+          ars: Ars,
           name: z.string().describe('Name des Regierungsbezirks.'),
           sitzVerwaltung: NameVerwaltungssitz
         })
@@ -53,9 +36,7 @@ export const DestatisSchema = z
       .array(
         z.object({
           date: Date,
-          landSchluessel: LandSchluessel,
-          regierungsbezirkSchluessel: RegierungsbezirkSchluessel,
-          regionSchluessel: RegionSchluessel,
+          ars: Ars,
           name: z.string().describe('Name der Region.'),
           sitzVerwaltung: NameVerwaltungssitz
         })
@@ -65,9 +46,7 @@ export const DestatisSchema = z
       .array(
         z.object({
           date: Date,
-          landSchluessel: LandSchluessel,
-          regierungsbezirkSchluessel: RegierungsbezirkSchluessel,
-          kreisSchluessel: KreisSchluessel,
+          ars: Ars,
           name: z.string().describe('Name des Kreises.'),
           sitzVerwaltung: NameVerwaltungssitz,
           kreisTyp: z
@@ -80,10 +59,7 @@ export const DestatisSchema = z
       .array(
         z.object({
           date: Date,
-          landSchluessel: LandSchluessel,
-          regierungsbezirkSchluessel: RegierungsbezirkSchluessel,
-          kreisSchluessel: KreisSchluessel,
-          gemeindeverbandSchluessel: GemeindeverbandSchluessel,
+          ars: Ars,
           name: z.string().describe('Name des Gemeindeverbands.'),
           sitzVerwaltung: NameVerwaltungssitz,
           gemeindeverbandTyp: z
@@ -106,12 +82,7 @@ export const DestatisSchema = z
       .array(
         z.object({
           date: Date,
-          ars: z.number().int().describe('Amtlicher Regionalschlüssel der Gemeinde.'),
-          landSchluessel: LandSchluessel,
-          regierungsbezirkSchluessel: RegierungsbezirkSchluessel,
-          kreisSchluessel: KreisSchluessel,
-          gemeindeverbandSchluessel: GemeindeverbandSchluessel,
-          gemeindeSchluessel: z.number().int().describe('Genormter Schlüssel der Gemeinde.'),
+          ars: Ars,
           name: z.string().describe('Name der Gemeinde.'),
           gemeindeTyp: z
             .enum([
