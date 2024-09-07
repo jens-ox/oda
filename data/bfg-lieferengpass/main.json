@@ -621,6 +621,29 @@
   },
   {
     "pzn": [
+      "04946837"
+    ],
+    "enr": [
+      "2122525"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-03",
+    "datumEnde": "2024-09-18",
+    "datumErstmeldung": "2024-09-06",
+    "datumLetzteMeldung": "2024-09-06",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Kreon 25 000",
+    "atcCode": "A09AA02",
+    "wirkstoffe": "Pankreas-Pulver vom Schwein",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Abbott Laboratories GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "08923075"
     ],
     "enr": [
@@ -995,6 +1018,54 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "UCB Pharma GmbH",
     "telefon": "+49 2173 48 4848",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03075346"
+    ],
+    "enr": [
+      "1441686"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-06",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-09-06",
+    "datumLetzteMeldung": "2024-09-06",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Eingeschränkte Lieferfähigkeit. Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
+    "bezeichnung": "Ferrlecit 40 mg",
+    "atcCode": "B03AC",
+    "wirkstoffe": "Eisen(III)-natrium-D-gluconat-hydroxid-oxid-Komplex (ca. 2:1:1:x:y)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "0800 52 52 010",
+    "mail": "medinfo.de@sanofi.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03075375"
+    ],
+    "enr": [
+      "0385744"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-06",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-09-06",
+    "datumLetzteMeldung": "2024-09-06",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Eingeschränkte Lieferfähigkeit. Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
+    "bezeichnung": "Ferrlecit 62,5 mg",
+    "atcCode": "B03AC",
+    "wirkstoffe": "Eisen(III)-natrium-D-gluconat-hydroxid-oxid-Komplex (ca. 2:1:1:x:y)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "08005252010",
+    "mail": "medinfo.de@sanofi.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -1554,29 +1625,6 @@
   },
   {
     "pzn": [
-      "07392629"
-    ],
-    "enr": [
-      "2109389"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-07-24",
-    "datumEnde": "2024-09-13",
-    "datumErstmeldung": "2024-07-30",
-    "datumLetzteMeldung": "2024-07-30",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "DOCITON 160mg retard",
-    "atcCode": "C07AA05",
-    "wirkstoffe": "Propranololhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00089572"
     ],
     "enr": [
@@ -2022,19 +2070,19 @@
   },
   {
     "pzn": [
-      "11856224"
+      "03738829"
     ],
     "enr": [
-      "2117443"
+      "2117445"
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-04-11",
-    "datumEnde": "2024-09-30",
+    "datumEnde": "2024-12-31",
     "datumErstmeldung": "2022-04-21",
-    "datumLetzteMeldung": "2024-08-05",
+    "datumLetzteMeldung": "2024-09-06",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
-    "bezeichnung": "Accupro 5",
+    "bezeichnung": "Accupro 20",
     "atcCode": "C09AA06",
     "wirkstoffe": "Quinaprilhydrochlorid",
     "krankenhausrelevant": true,
@@ -2042,7 +2090,7 @@
     "telefon": "+49 (0) 30 550055-51000",
     "mail": "medical.information@pfizer.com",
     "infoFachkreise": "Ja",
-    "alternativPraeparat": "Ramipril AL 5 mg Tabletten - Einreichungsnummer: 2155948"
+    "alternativPraeparat": "Ramipril AL 10 mg Tabletten - Einreichungsnummer: 2155949"
   },
   {
     "pzn": [
@@ -2053,9 +2101,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-04-11",
-    "datumEnde": "2024-09-30",
+    "datumEnde": "2024-12-31",
     "datumErstmeldung": "2022-04-21",
-    "datumLetzteMeldung": "2024-08-05",
+    "datumLetzteMeldung": "2024-09-06",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Accupro 10",
@@ -2070,19 +2118,19 @@
   },
   {
     "pzn": [
-      "03738829"
+      "11856224"
     ],
     "enr": [
-      "2117445"
+      "2117443"
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-04-11",
-    "datumEnde": "2024-09-30",
+    "datumEnde": "2024-12-31",
     "datumErstmeldung": "2022-04-21",
-    "datumLetzteMeldung": "2024-08-05",
+    "datumLetzteMeldung": "2024-09-06",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
-    "bezeichnung": "Accupro 20",
+    "bezeichnung": "Accupro 5",
     "atcCode": "C09AA06",
     "wirkstoffe": "Quinaprilhydrochlorid",
     "krankenhausrelevant": true,
@@ -2090,7 +2138,7 @@
     "telefon": "+49 (0) 30 550055-51000",
     "mail": "medical.information@pfizer.com",
     "infoFachkreise": "Ja",
-    "alternativPraeparat": "Ramipril AL 10 mg Tabletten - Einreichungsnummer: 2155949"
+    "alternativPraeparat": "Ramipril AL 5 mg Tabletten - Einreichungsnummer: 2155948"
   },
   {
     "pzn": [
@@ -2190,19 +2238,19 @@
   },
   {
     "pzn": [
-      "00923236"
+      "04627836"
     ],
     "enr": [
-      "2126905"
+      "2126902"
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-03-03",
-    "datumEnde": "2024-09-30",
+    "datumEnde": "2024-12-31",
     "datumErstmeldung": "2022-03-17",
-    "datumLetzteMeldung": "2024-08-05",
+    "datumLetzteMeldung": "2024-09-06",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
-    "bezeichnung": "Accuzide 20 mg/25 mg diuplus",
+    "bezeichnung": "Accuzide 10 mg/12,5 mg",
     "atcCode": "C09BA06",
     "wirkstoffe": "Hydrochlorothiazid; Quinaprilhydrochlorid",
     "krankenhausrelevant": true,
@@ -2210,7 +2258,7 @@
     "telefon": "+49 (0) 30 550055-51000",
     "mail": "medical.information@pfizer.com",
     "infoFachkreise": "Ja",
-    "alternativPraeparat": "Quinaplus AL 20 mg/25 mg Filmtabletten - Einreichungsnummer: 2160603"
+    "alternativPraeparat": "Quinaplus AL 10 mg/12,5 mg Filmtabletten - Einreichungsnummer: 2160601"
   },
   {
     "pzn": [
@@ -2221,9 +2269,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-03-03",
-    "datumEnde": "2024-09-30",
+    "datumEnde": "2024-12-31",
     "datumErstmeldung": "2022-03-17",
-    "datumLetzteMeldung": "2024-08-05",
+    "datumLetzteMeldung": "2024-09-06",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Accuzide 20 mg/12,5 mg",
@@ -2238,19 +2286,19 @@
   },
   {
     "pzn": [
-      "04627836"
+      "00923236"
     ],
     "enr": [
-      "2126902"
+      "2126905"
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-03-03",
-    "datumEnde": "2024-09-30",
+    "datumEnde": "2024-12-31",
     "datumErstmeldung": "2022-03-17",
-    "datumLetzteMeldung": "2024-08-05",
+    "datumLetzteMeldung": "2024-09-06",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
-    "bezeichnung": "Accuzide 10 mg/12,5 mg",
+    "bezeichnung": "Accuzide 20 mg/25 mg diuplus",
     "atcCode": "C09BA06",
     "wirkstoffe": "Hydrochlorothiazid; Quinaprilhydrochlorid",
     "krankenhausrelevant": true,
@@ -2258,7 +2306,7 @@
     "telefon": "+49 (0) 30 550055-51000",
     "mail": "medical.information@pfizer.com",
     "infoFachkreise": "Ja",
-    "alternativPraeparat": "Quinaplus AL 10 mg/12,5 mg Filmtabletten - Einreichungsnummer: 2160601"
+    "alternativPraeparat": "Quinaplus AL 20 mg/25 mg Filmtabletten - Einreichungsnummer: 2160603"
   },
   {
     "pzn": [
@@ -8075,30 +8123,6 @@
   },
   {
     "pzn": [
-      "18438174"
-    ],
-    "enr": [
-      "7007075"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-14",
-    "datumEnde": "2024-09-16",
-    "datumErstmeldung": "2024-07-08",
-    "datumLetzteMeldung": "2024-07-08",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pirfenidon Viatris",
-    "atcCode": "L04AX05",
-    "wirkstoffe": "Pirfenidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Limited",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Pirfenidon Viatris - Einreichungsnummer: 7007073"
-  },
-  {
-    "pzn": [
       "07289558"
     ],
     "enr": [
@@ -9375,30 +9399,6 @@
     "mail": "christian.hueneburg@pbpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Palladone retard 4 mg - Einreichungsnummer: 2182661"
-  },
-  {
-    "pzn": [
-      "06103741"
-    ],
-    "enr": [
-      "2178116"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-07",
-    "datumEnde": "2024-09-13",
-    "datumErstmeldung": "2024-08-15",
-    "datumLetzteMeldung": "2024-09-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-dura 8 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Germany GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon-dura 16 mg Retardtabletten - Einreichungsnummer: 2178117"
   },
   {
     "pzn": [
@@ -10799,29 +10799,6 @@
     "zulassungsinhaber": "TEVA GmbH",
     "mail": "info@teva.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00583094"
-    ],
-    "enr": [
-      "2142771"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-06",
-    "datumEnde": "2024-09-09",
-    "datumErstmeldung": "2023-07-19",
-    "datumLetzteMeldung": "2024-08-26",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "SUBUTEX 8 mg",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Indivior Europe Limited",
-    "telefon": "+80027081901",
-    "mail": "PatientSafetyRoW@indivior.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -16412,6 +16389,75 @@
   },
   {
     "pzn": [
+      "00246244"
+    ],
+    "enr": [
+      "2141204"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-15",
+    "datumEnde": "2024-11-30",
+    "datumErstmeldung": "2024-06-19",
+    "datumLetzteMeldung": "2024-09-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Apsomol N",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
+    "telefon": "+44 (1271) 334609",
+    "mail": "medicalinformation@tawpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00246250"
+    ],
+    "enr": [
+      "2141204"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-15",
+    "datumEnde": "2024-11-30",
+    "datumErstmeldung": "2024-06-19",
+    "datumLetzteMeldung": "2024-09-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Apsomol N",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
+    "telefon": "+44 (1271) 334609",
+    "mail": "medicalinformation@tawpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00246267"
+    ],
+    "enr": [
+      "2141204"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-15",
+    "datumEnde": "2024-11-30",
+    "datumErstmeldung": "2024-06-19",
+    "datumLetzteMeldung": "2024-09-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Apsomol N",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
+    "telefon": "+44 (1271) 334609",
+    "mail": "medicalinformation@tawpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "01664630"
     ],
     "enr": [
@@ -16639,75 +16685,6 @@
   },
   {
     "pzn": [
-      "00246244"
-    ],
-    "enr": [
-      "2141204"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-04-15",
-    "datumEnde": "2024-07-31",
-    "datumErstmeldung": "2024-06-19",
-    "datumLetzteMeldung": "2024-06-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Apsomol N",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
-    "telefon": "+44 (1271) 334609",
-    "mail": "medicalinformation@tawpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00246250"
-    ],
-    "enr": [
-      "2141204"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-04-15",
-    "datumEnde": "2024-07-31",
-    "datumErstmeldung": "2024-06-19",
-    "datumLetzteMeldung": "2024-06-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Apsomol N",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
-    "telefon": "+44 (1271) 334609",
-    "mail": "medicalinformation@tawpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00246267"
-    ],
-    "enr": [
-      "2141204"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-04-15",
-    "datumEnde": "2024-07-31",
-    "datumErstmeldung": "2024-06-19",
-    "datumLetzteMeldung": "2024-06-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Apsomol N",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
-    "telefon": "+44 (1271) 334609",
-    "mail": "medicalinformation@tawpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00674968"
     ],
     "enr": [
@@ -16900,11 +16877,11 @@
     "enr": [
       "2103816"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-10-20",
-    "datumEnde": "2024-08-31",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2023-11-28",
-    "datumLetzteMeldung": "2023-11-28",
+    "datumLetzteMeldung": "2024-09-06",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Gent-Ophtal Augensalbe",
@@ -16947,9 +16924,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-05-03",
-    "datumEnde": "2024-09-03",
+    "datumEnde": "2024-11-04",
     "datumErstmeldung": "2024-05-03",
-    "datumLetzteMeldung": "2024-08-06",
+    "datumLetzteMeldung": "2024-09-06",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Hydrocortison-POS N 2,5 %",
@@ -17032,6 +17009,51 @@
   },
   {
     "pzn": [
+      "02747789"
+    ],
+    "enr": [
+      "2104133"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-20",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2023-11-22",
+    "datumLetzteMeldung": "2024-09-06",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Dexamytrex Augensalbe",
+    "atcCode": "S01CA01",
+    "wirkstoffe": "Dexamethason; Gentamicinsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
+    "telefon": "01737406122",
+    "mail": "Quality.Berlin@bausch.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02192162"
+    ],
+    "enr": [
+      "2191157"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-10-20",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2023-11-28",
+    "datumLetzteMeldung": "2024-09-06",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Dexagent-Ophtal 5 mg/g und 0,3 mg/g Augensalbe",
+    "atcCode": "S01CA01",
+    "wirkstoffe": "Dexamethason; Gentamicinsulfat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
+    "mail": "Quality.Berlin@bausch.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "03083251"
     ],
     "enr": [
@@ -17051,51 +17073,6 @@
     "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
     "telefon": "068059292188",
     "mail": "christine.funk@ursapharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02192162"
-    ],
-    "enr": [
-      "2191157"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-20",
-    "datumEnde": "2024-08-31",
-    "datumErstmeldung": "2023-11-28",
-    "datumLetzteMeldung": "2023-11-28",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Dexagent-Ophtal 5 mg/g und 0,3 mg/g Augensalbe",
-    "atcCode": "S01CA01",
-    "wirkstoffe": "Dexamethason; Gentamicinsulfat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "mail": "Quality.Berlin@bausch.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02747789"
-    ],
-    "enr": [
-      "2104133"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2023-10-20",
-    "datumEnde": "2024-08-31",
-    "datumErstmeldung": "2023-11-22",
-    "datumLetzteMeldung": "2023-11-22",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Dexamytrex Augensalbe",
-    "atcCode": "S01CA01",
-    "wirkstoffe": "Dexamethason; Gentamicinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "telefon": "01737406122",
-    "mail": "Quality.Berlin@bausch.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -17139,6 +17116,52 @@
     "wirkstoffe": "Clonidinhydrochlorid",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
+    "mail": "Pharma.Kundenservice@bausch.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04828612"
+    ],
+    "enr": [
+      "2128700"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-01",
+    "datumEnde": "2024-10-31",
+    "datumErstmeldung": "2024-06-07",
+    "datumLetzteMeldung": "2024-09-06",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Tim-Ophtal 0.25%",
+    "atcCode": "S01ED01",
+    "wirkstoffe": "Timololmaleat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
+    "telefon": "0800 090949094",
+    "mail": "Pharma.Kundenservice@bausch.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04828629"
+    ],
+    "enr": [
+      "2128700"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-01",
+    "datumEnde": "2024-10-31",
+    "datumErstmeldung": "2024-06-07",
+    "datumLetzteMeldung": "2024-09-06",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Tim-Ophtal 0.25%",
+    "atcCode": "S01ED01",
+    "wirkstoffe": "Timololmaleat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
+    "telefon": "0800 090949094",
     "mail": "Pharma.Kundenservice@bausch.com",
     "infoFachkreise": "Vorgesehen"
   },
@@ -17203,50 +17226,6 @@
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Tim-Ophtal 0.1%",
-    "atcCode": "S01ED01",
-    "wirkstoffe": "Timololmaleat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "mail": "Pharma.Kundenservice@bausch.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04828612"
-    ],
-    "enr": [
-      "2128700"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-01",
-    "datumEnde": "2024-08-31",
-    "datumErstmeldung": "2024-06-07",
-    "datumLetzteMeldung": "2024-06-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Tim-Ophtal 0.25%",
-    "atcCode": "S01ED01",
-    "wirkstoffe": "Timololmaleat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "mail": "Pharma.Kundenservice@bausch.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04828629"
-    ],
-    "enr": [
-      "2128700"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-01-01",
-    "datumEnde": "2024-08-31",
-    "datumErstmeldung": "2024-06-07",
-    "datumLetzteMeldung": "2024-06-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Tim-Ophtal 0.25%",
     "atcCode": "S01ED01",
     "wirkstoffe": "Timololmaleat",
     "krankenhausrelevant": true,
@@ -18042,5 +18021,55 @@
     "mail": "info@koehler-chemie.de",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "GASTROLUX RE 180 mg/ml Lösung - Einreichungsnummer: 2165147"
+  },
+  {
+    "pzn": [
+      "00000000"
+    ],
+    "enr": [
+      "2119013"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-05",
+    "datumEnde": "2024-11-26",
+    "datumErstmeldung": "2024-09-06",
+    "datumLetzteMeldung": "2024-09-06",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Wartung Zyklotron",
+    "bezeichnung": "Sodium Iodide (I 123) Injection DRN 5375",
+    "atcCode": "V09FX",
+    "wirkstoffe": "Natriumiodid ((123)I)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Curium Netherlands B.V. HR-Beiname: Mallinckrodt Pharmaceuicals, Curium, Curiumpharma, Mallinckrodt Medical",
+    "telefon": "+49 30 800 9305 70",
+    "mail": "kundenservice@curiumpharma.com",
+    "infoFachkreise": "Ja",
+    "alternativPraeparat": "GE Healthcare [123I] Sodium Iodide Injection - Einreichungsnummer: 2118972"
+  },
+  {
+    "pzn": [
+      "00000000"
+    ],
+    "enr": [
+      "2128548"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-05",
+    "datumEnde": "2024-11-26",
+    "datumErstmeldung": "2024-09-06",
+    "datumLetzteMeldung": "2024-09-06",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Wartung Zyklotron",
+    "bezeichnung": "MIBG (I123) Injection DRN 5379",
+    "atcCode": "V09FX, V09IX",
+    "wirkstoffe": "Iobenguan ((123)I)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Curium Netherlands B.V. HR-Beiname: Mallinckrodt Pharmaceuicals, Curium, Curiumpharma, Mallinckrodt Medical",
+    "telefon": "+49 30 800 9305 70",
+    "mail": "kundenservice@curiumpharma.com",
+    "infoFachkreise": "Ja",
+    "alternativPraeparat": "AdreView lobenguane [123I] Injection - Einreichungsnummer: 2118974"
   }
 ]
