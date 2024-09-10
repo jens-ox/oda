@@ -668,6 +668,52 @@
   },
   {
     "pzn": [
+      "16508321"
+    ],
+    "enr": [
+      "2715299"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-09",
+    "datumEnde": "2024-09-20",
+    "datumErstmeldung": "2024-09-09",
+    "datumLetzteMeldung": "2024-09-09",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Lyumjev 100 Einheiten /ml KwikPen Injektionslösung im Fertigpen",
+    "atcCode": "A10AB04",
+    "wirkstoffe": "Insulin lispro",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Eli Lilly Nederland B.V.",
+    "telefon": "06172 2732222",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Lyumjev 100 Einheiten/ml KwikPen Injektionslösung im Fertigpen - Einreichungsnummer: 2715300"
+  },
+  {
+    "pzn": [
+      "00558647"
+    ],
+    "enr": [
+      "2705855"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-06",
+    "datumEnde": "2024-09-30",
+    "datumErstmeldung": "2024-09-09",
+    "datumLetzteMeldung": "2024-09-09",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "NovoRapid 100 E/ml Injektionslösung in Durchstechflasche - OP[5x(1x10ml)]",
+    "atcCode": "A10AB05",
+    "wirkstoffe": "Insulin aspart",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "13835031"
     ],
     "enr": [
@@ -3546,9 +3592,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-06-03",
-    "datumEnde": "2024-09-02",
+    "datumEnde": "2024-10-31",
     "datumErstmeldung": "2024-06-03",
-    "datumLetzteMeldung": "2024-08-15",
+    "datumLetzteMeldung": "2024-09-09",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Oestro-Gynaedron 1,0 mg/g",
@@ -4376,9 +4422,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-06-05",
-    "datumEnde": "2024-09-06",
+    "datumEnde": "2024-09-13",
     "datumErstmeldung": "2024-06-05",
-    "datumLetzteMeldung": "2024-07-26",
+    "datumLetzteMeldung": "2024-09-09",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Paricalcitol HEXAL 5 Mikrogramm/ml Injektionslösung",
@@ -4928,6 +4974,28 @@
   },
   {
     "pzn": [
+      "03899886"
+    ],
+    "enr": [
+      "2172847"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-16",
+    "datumEnde": "2024-10-25",
+    "datumErstmeldung": "2024-08-01",
+    "datumLetzteMeldung": "2024-09-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "PenHEXAL Saft 0,4 Mega Einheiten/5 ml",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "01841730"
     ],
     "enr": [
@@ -4990,50 +5058,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "ratiopharm GmbH",
     "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03899886"
-    ],
-    "enr": [
-      "2172847"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-16",
-    "datumEnde": "2024-09-06",
-    "datumErstmeldung": "2024-08-01",
-    "datumLetzteMeldung": "2024-08-14",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "PenHEXAL Saft 0,4 Mega Einheiten/5 ml",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03930076"
-    ],
-    "enr": [
-      "2172847"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-16",
-    "datumEnde": "2024-09-06",
-    "datumErstmeldung": "2024-08-01",
-    "datumLetzteMeldung": "2024-08-14",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "PenHEXAL Saft 0,4 Mega Einheiten/5 ml",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -6257,30 +6281,6 @@
     "telefon": "+49 (0) 30 550055-51000",
     "mail": "medical.information@pfizer.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00010760"
-    ],
-    "enr": [
-      "2137174"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-22",
-    "datumEnde": "2024-09-15",
-    "datumErstmeldung": "2024-04-18",
-    "datumLetzteMeldung": "2024-06-18",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Zithromax 250 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Azithromycin-ratiopharm 250mg Filmtabletten - Einreichungsnummer: 2162285"
   },
   {
     "pzn": [
@@ -7913,6 +7913,100 @@
   },
   {
     "pzn": [
+      "02236623"
+    ],
+    "enr": [
+      "2701855"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-01",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-09-09",
+    "datumLetzteMeldung": "2024-09-09",
+    "grund": "Herstellerwechsel",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Pegasys 135 Mikrogramm Injektionslösung in Fertigspritze - OP4",
+    "atcCode": "L03AB11",
+    "wirkstoffe": "Peginterferon alfa-2a ((mit Angabe der Molmasse des pegylierten Teils in x kDa))",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "zr pharma& GmbH - Zweigniederlassung Hietzing -",
+    "telefon": "+436649189282",
+    "mail": "sophie.schobesberger@pharmaand.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02236586"
+    ],
+    "enr": [
+      "2701856",
+      "2701857"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-01",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-09-09",
+    "datumLetzteMeldung": "2024-09-09",
+    "grund": "Herstellerwechsel",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Pegasys 180 Mikrogramm Injektionslösung in Fertigspritze - OP1",
+    "atcCode": "L03AB11",
+    "wirkstoffe": "Peginterferon alfa-2a ((mit Angabe der Molmasse des pegylierten Teils in x kDa))",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "zr pharma& GmbH - Zweigniederlassung Hietzing -",
+    "telefon": "+436649189282",
+    "mail": "sophie.schobesberger@pharmaand.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02236592"
+    ],
+    "enr": [
+      "2701856",
+      "2701857"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-01",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-09-09",
+    "datumLetzteMeldung": "2024-09-09",
+    "grund": "Herstellerwechsel",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Pegasys 180 Mikrogramm Injektionslösung in Fertigspritze - OP1",
+    "atcCode": "L03AB11",
+    "wirkstoffe": "Peginterferon alfa-2a ((mit Angabe der Molmasse des pegylierten Teils in x kDa))",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "zr pharma& GmbH - Zweigniederlassung Hietzing -",
+    "telefon": "+436649189282",
+    "mail": "sophie.schobesberger@pharmaand.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05024206"
+    ],
+    "enr": [
+      "2710099"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-01",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-09-09",
+    "datumLetzteMeldung": "2024-09-09",
+    "grund": "Herstellerwechsel",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Pegasys 90 Mikrogramm Injektionslösung in Fertigspritze - OP0,5ml",
+    "atcCode": "L03AB11",
+    "wirkstoffe": "Peginterferon alfa-2a ((mit Angabe der Molmasse des pegylierten Teils in x kDa))",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "zr pharma& GmbH - Zweigniederlassung Hietzing -",
+    "telefon": "+436649189282",
+    "mail": "sophie.schobesberger@pharmaand.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "06964414"
     ],
     "enr": [
@@ -8096,6 +8190,52 @@
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "mail": "Service.De@glenmarkpharma.com",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17252585"
+    ],
+    "enr": [
+      "2715649"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-08-30",
+    "datumEnde": "2024-11-15",
+    "datumErstmeldung": "2024-09-09",
+    "datumLetzteMeldung": "2024-09-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Lenalidomid Mylan 5 mg Hartkapseln",
+    "atcCode": "L04AX04",
+    "wirkstoffe": "Lenalidomid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Ireland Limited",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17252579"
+    ],
+    "enr": [
+      "2715647"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-08-30",
+    "datumEnde": "2024-11-15",
+    "datumErstmeldung": "2024-09-09",
+    "datumLetzteMeldung": "2024-09-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Lenalidomid Mylan 2,5 mg Hartkapseln",
+    "atcCode": "L04AX04",
+    "wirkstoffe": "Lenalidomid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Ireland Limited",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -11773,9 +11913,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-08-15",
-    "datumEnde": "2024-09-06",
+    "datumEnde": "2024-09-13",
     "datumErstmeldung": "2024-08-15",
-    "datumLetzteMeldung": "2024-09-04",
+    "datumLetzteMeldung": "2024-09-09",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Oxcarbazepin - 1 A Pharma 60 mg/ml Suspension zum Einnehmen",
@@ -12637,52 +12777,6 @@
   },
   {
     "pzn": [
-      "07373230"
-    ],
-    "enr": [
-      "2705749"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-03",
-    "datumEnde": "2024-08-30",
-    "datumErstmeldung": "2024-06-03",
-    "datumLetzteMeldung": "2024-08-19",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Der Grund für den Lieferengpass ist ein Versorgungsproblem bei den Nadeln.",
-    "bezeichnung": "ZYPADHERA 210 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(483mg+3ml)",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapinembonat-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Cheplapharm Registration GmbH",
-    "telefon": "+49 7321 757 81-36",
-    "mail": "regulatory@cheplapharm-reg.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "07373359"
-    ],
-    "enr": [
-      "2705751"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-26",
-    "datumEnde": "2024-08-30",
-    "datumErstmeldung": "2024-08-01",
-    "datumLetzteMeldung": "2024-08-16",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ZYPADHERA 405 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(931mg+3ml)",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapinembonat-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Cheplapharm Registration GmbH",
-    "mail": "iva.gjolli@cheplapharm-reg.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "16031468"
     ],
     "enr": [
@@ -13124,6 +13218,29 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14045118"
+    ],
+    "enr": [
+      "2713155"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-03",
+    "datumEnde": "2025-01-15",
+    "datumErstmeldung": "2024-09-09",
+    "datumLetzteMeldung": "2024-09-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Duloxetin Mylan 30 mg magensaftresistente Hartkapseln - OP100(Fl)",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mylan Pharmaceuticals Limited",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
     "infoFachkreise": "Nein"
   },
   {
@@ -16093,9 +16210,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-12-15",
-    "datumEnde": "2024-10-01",
+    "datumEnde": "2024-12-06",
     "datumErstmeldung": "2022-02-18",
-    "datumLetzteMeldung": "2024-03-11",
+    "datumLetzteMeldung": "2024-09-09",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Herstellerwechsel Sekundärverpacker",
@@ -16118,9 +16235,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-12-15",
-    "datumEnde": "2024-10-01",
+    "datumEnde": "2024-12-06",
     "datumErstmeldung": "2022-02-18",
-    "datumLetzteMeldung": "2024-03-11",
+    "datumLetzteMeldung": "2024-09-09",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Herstellerwechsel Sekundärverpacker",
