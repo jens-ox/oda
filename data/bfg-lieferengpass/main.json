@@ -501,7 +501,7 @@
     "atcCode": "A07AA09",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
   },
@@ -524,7 +524,7 @@
     "atcCode": "A07AA09",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
   },
@@ -691,6 +691,52 @@
   },
   {
     "pzn": [
+      "18229766"
+    ],
+    "enr": [
+      "7005734"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-10",
+    "datumEnde": "2024-10-15",
+    "datumErstmeldung": "2024-09-11",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Kirsty 100 Einheiten/ml Injektionslösung im Fertigpen",
+    "atcCode": "A10AB05",
+    "wirkstoffe": "Insulin aspart",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
+    "mail": "Plx-bioconeulocalaffiliate@pharmalex.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Insulin aspart Sanofi - Einreichungsnummer: 2715150"
+  },
+  {
+    "pzn": [
+      "18229743"
+    ],
+    "enr": [
+      "7005733"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-10",
+    "datumEnde": "2024-09-20",
+    "datumErstmeldung": "2024-09-11",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Kirsty 100 Einheiten/ml Injektionslösung im Fertigpen",
+    "atcCode": "A10AB05",
+    "wirkstoffe": "Insulin aspart",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
+    "mail": "Plx-bioconeulocalaffiliate@pharmalex.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Insulin aspart Sanofi - Einreichungsnummer: 2715149"
+  },
+  {
+    "pzn": [
       "00558647"
     ],
     "enr": [
@@ -721,9 +767,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-04-11",
-    "datumEnde": "2024-08-31",
+    "datumEnde": "2024-09-30",
     "datumErstmeldung": "2024-04-15",
-    "datumLetzteMeldung": "2024-07-30",
+    "datumLetzteMeldung": "2024-09-11",
     "grund": "Probleme beim Sonstigen Hersteller",
     "grundArt": "Sonstige",
     "bezeichnung": "Semglee 100 Einheiten/ml Injektionslösung in Fertigpen - OP(5x3ml)",
@@ -946,6 +992,30 @@
     "mail": "KD_Service@novonordisk.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Refixia - Einreichungsnummer: 2672984"
+  },
+  {
+    "pzn": [
+      "15635394"
+    ],
+    "enr": [
+      "2674699"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-11",
+    "datumEnde": "2024-10-31",
+    "datumErstmeldung": "2024-09-11",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Esperoct",
+    "atcCode": "B02BD02",
+    "wirkstoffe": "Turoctocog alfa pegol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Esperoct - Einreichungsnummer: 2674700"
   },
   {
     "pzn": [
@@ -1667,50 +1737,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "TEVA GmbH",
     "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00089572"
-    ],
-    "enr": [
-      "2164889"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-01",
-    "datumEnde": "2024-09-30",
-    "datumErstmeldung": "2024-08-06",
-    "datumLetzteMeldung": "2024-08-06",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Metoprolol-ratiopharm Succinat 23,75 mg Retardtabletten",
-    "atcCode": "C07AB02",
-    "wirkstoffe": "Metoprololsuccinat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00089595"
-    ],
-    "enr": [
-      "2164889"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-01",
-    "datumEnde": "2024-09-30",
-    "datumErstmeldung": "2024-08-06",
-    "datumLetzteMeldung": "2024-08-06",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Metoprolol-ratiopharm Succinat 23,75 mg Retardtabletten",
-    "atcCode": "C07AB02",
-    "wirkstoffe": "Metoprololsuccinat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -3238,7 +3264,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -3264,7 +3290,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -3290,7 +3316,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -3316,7 +3342,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -3342,7 +3368,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -3368,7 +3394,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -3414,7 +3440,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -3437,7 +3463,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -3460,7 +3486,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -3668,7 +3694,7 @@
     "atcCode": "G03DB08",
     "wirkstoffe": "Dienogest",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954247484",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein",
@@ -3692,11 +3718,35 @@
     "atcCode": "G03DB08",
     "wirkstoffe": "Dienogest",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954247484",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Diemono 2 mg Filmtabletten - Einreichungsnummer: 2201711"
+  },
+  {
+    "pzn": [
+      "07330373"
+    ],
+    "enr": [
+      "2126118"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-11",
+    "datumEnde": "2024-12-31",
+    "datumErstmeldung": "2024-09-11",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Kliogest N",
+    "atcCode": "G03FA",
+    "wirkstoffe": "Estradiol-Hemihydrat; Norethisteronacetat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Kliogest N - Einreichungsnummer: 2126118"
   },
   {
     "pzn": [
@@ -3721,6 +3771,30 @@
     "mail": "KD_Service@novonordisk.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Novofem Filmtabletten - Einreichungsnummer: 2147567"
+  },
+  {
+    "pzn": [
+      "09280314"
+    ],
+    "enr": [
+      "2709207"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-01",
+    "datumEnde": "2024-12-31",
+    "datumErstmeldung": "2024-09-11",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ovitrelle 250 Mikrogramm Injektionslösung in Fertigpen - OP0,5ml",
+    "atcCode": "G03GA08",
+    "wirkstoffe": "Choriogonadotropin alfa",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Merck Europe B.V.",
+    "telefon": "08004288373",
+    "mail": "service@merckgroup.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Ovitrelle 250 Mikrogramm/0,5ml Injektionslösung in Fertigspritze - OP1 - Einreichungsnummer: 2702425"
   },
   {
     "pzn": [
@@ -3976,29 +4050,6 @@
     "mail": "regulatory@fidiapharma.it",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Urbason solubile forte 1000 mg - Einreichungsnummer: 0085717"
-  },
-  {
-    "pzn": [
-      "13918745"
-    ],
-    "enr": [
-      "2713980"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-09-01",
-    "datumEnde": "2024-10-15",
-    "datumErstmeldung": "2024-07-17",
-    "datumLetzteMeldung": "2024-07-17",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Supply issue affecting 5mg product at packaging vendor.",
-    "bezeichnung": "Alkindi 5 mg Granulat zur Entnahme aus Kapsel - OP50",
-    "atcCode": "H02AB09",
-    "wirkstoffe": "Hydrocortison",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Diurnal Europe B.V.",
-    "mail": "diurnalorders@neurocrine.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -4749,6 +4800,28 @@
   },
   {
     "pzn": [
+      "02394397"
+    ],
+    "enr": [
+      "2101884"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-11",
+    "datumEnde": "2024-09-30",
+    "datumErstmeldung": "2024-03-11",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxicillin-ratiopharm 750mg Filmtabletten",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "Info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "03410891"
     ],
     "enr": [
@@ -4907,28 +4980,6 @@
   },
   {
     "pzn": [
-      "02394397"
-    ],
-    "enr": [
-      "2101884"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-11",
-    "datumEnde": "2024-09-08",
-    "datumErstmeldung": "2024-03-11",
-    "datumLetzteMeldung": "2024-08-06",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxicillin-ratiopharm 750mg Filmtabletten",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "Info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "06648305"
     ],
     "enr": [
@@ -4974,24 +5025,25 @@
   },
   {
     "pzn": [
-      "03899886"
+      "08703988"
     ],
     "enr": [
-      "2172847"
+      "2136599"
     ],
     "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-16",
-    "datumEnde": "2024-10-25",
-    "datumErstmeldung": "2024-08-01",
-    "datumLetzteMeldung": "2024-09-09",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "PenHEXAL Saft 0,4 Mega Einheiten/5 ml",
+    "datumBeginn": "2022-11-15",
+    "datumEnde": "2024-11-30",
+    "datumErstmeldung": "2022-12-05",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Nach Wiederverfügbarkeit im September 2023 wurden die Mengen umgehend komplett vom Markt abgerufen.",
+    "bezeichnung": "Penicillin V-ratiopharm 1,5 Mega",
     "atcCode": "J01CE02",
     "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5005,7 +5057,7 @@
     "datumBeginn": "2022-11-15",
     "datumEnde": "2024-10-31",
     "datumErstmeldung": "2022-12-05",
-    "datumLetzteMeldung": "2024-09-03",
+    "datumLetzteMeldung": "2024-09-11",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Penicillin V-ratiopharm 1 Mega Filmtabletten",
@@ -5027,7 +5079,7 @@
     "datumBeginn": "2022-11-15",
     "datumEnde": "2024-10-31",
     "datumErstmeldung": "2022-12-05",
-    "datumLetzteMeldung": "2024-09-03",
+    "datumLetzteMeldung": "2024-09-11",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Penicillin V-ratiopharm 1 Mega Filmtabletten",
@@ -5040,24 +5092,24 @@
   },
   {
     "pzn": [
-      "08730666"
+      "03899886"
     ],
     "enr": [
-      "2118340"
+      "2172847"
     ],
     "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-15",
-    "datumEnde": "2024-10-31",
-    "datumErstmeldung": "2022-12-05",
-    "datumLetzteMeldung": "2024-09-03",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Penicillin V-ratiopharm 1 Mega Filmtabletten",
+    "datumBeginn": "2024-07-16",
+    "datumEnde": "2024-10-25",
+    "datumErstmeldung": "2024-08-01",
+    "datumLetzteMeldung": "2024-09-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "PenHEXAL Saft 0,4 Mega Einheiten/5 ml",
     "atcCode": "J01CE02",
     "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5354,29 +5406,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08703988"
-    ],
-    "enr": [
-      "2136599"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-15",
-    "datumEnde": "2024-08-30",
-    "datumErstmeldung": "2022-12-05",
-    "datumLetzteMeldung": "2024-04-17",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Nach Wiederverfügbarkeit im September 2023 wurden die Mengen umgehend komplett vom Markt abgerufen.",
-    "bezeichnung": "Penicillin V-ratiopharm 1,5 Mega",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5786,6 +5815,98 @@
   },
   {
     "pzn": [
+      "03169780"
+    ],
+    "enr": [
+      "2159947"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-15",
+    "datumEnde": "2024-10-15",
+    "datumErstmeldung": "2024-09-11",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clarithromycin AL 250 mg Filmtabletten",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03169811"
+    ],
+    "enr": [
+      "2159947"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-15",
+    "datumEnde": "2024-10-15",
+    "datumErstmeldung": "2024-09-11",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clarithromycin AL 250 mg Filmtabletten",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03169828"
+    ],
+    "enr": [
+      "2159948"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-15",
+    "datumEnde": "2024-10-15",
+    "datumErstmeldung": "2024-09-11",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clarithromycin AL 500 mg Filmtabletten",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01025491"
+    ],
+    "enr": [
+      "2156802"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-15",
+    "datumEnde": "2024-12-31",
+    "datumErstmeldung": "2024-09-11",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clarithromycin AL pro 250 mg Filmtabletten",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "00557576"
     ],
     "enr": [
@@ -5942,6 +6063,167 @@
   },
   {
     "pzn": [
+      "00000000"
+    ],
+    "enr": [
+      "2162932"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-09-30",
+    "datumErstmeldung": "2024-07-16",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin AL 500 mg Filmtabletten",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01805013"
+    ],
+    "enr": [
+      "2162932"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2024-09-30",
+    "datumErstmeldung": "2024-07-16",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin AL 500 mg Filmtabletten",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00000000"
+    ],
+    "enr": [
+      "2162931"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-01",
+    "datumEnde": "2024-09-30",
+    "datumErstmeldung": "2024-07-16",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin AL 250 mg Filmtabletten",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01805007"
+    ],
+    "enr": [
+      "2162931"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-01",
+    "datumEnde": "2024-09-30",
+    "datumErstmeldung": "2024-07-16",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin AL 250 mg Filmtabletten",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04982922"
+    ],
+    "enr": [
+      "2163514"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-10-31",
+    "datumErstmeldung": "2024-07-22",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "AZI-TEVA 500 mg Filmtabletten",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "AZI-TEVA 250 mg Filmtabletten - Einreichungsnummer: 2163513"
+  },
+  {
+    "pzn": [
+      "01065622"
+    ],
+    "enr": [
+      "2190670"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-10-31",
+    "datumErstmeldung": "2024-07-22",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin AbZ 500 mg Filmtabletten",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "mail": "info@abz.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Azithromycin-ratiopharm 250mg Filmtabletten - Einreichungsnummer: 2162285"
+  },
+  {
+    "pzn": [
+      "03738232"
+    ],
+    "enr": [
+      "2162572"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2024-10-31",
+    "datumErstmeldung": "2024-07-22",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin-ratiopharm 500 mg Filmtabletten",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Azithromycin-ratiopharm 500 mg Filmtabletten - Einreichungsnummer: 2162572"
+  },
+  {
+    "pzn": [
       "00230007"
     ],
     "enr": [
@@ -5986,98 +6268,6 @@
   },
   {
     "pzn": [
-      "00000000"
-    ],
-    "enr": [
-      "2162931"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-01",
-    "datumEnde": "2024-09-30",
-    "datumErstmeldung": "2024-07-16",
-    "datumLetzteMeldung": "2024-08-29",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin AL 250 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01805007"
-    ],
-    "enr": [
-      "2162931"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-01",
-    "datumEnde": "2024-09-30",
-    "datumErstmeldung": "2024-07-16",
-    "datumLetzteMeldung": "2024-08-29",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin AL 250 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00000000"
-    ],
-    "enr": [
-      "2162932"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-01",
-    "datumEnde": "2024-09-30",
-    "datumErstmeldung": "2024-07-16",
-    "datumLetzteMeldung": "2024-08-29",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin AL 500 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01805013"
-    ],
-    "enr": [
-      "2162932"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-01",
-    "datumEnde": "2024-09-30",
-    "datumErstmeldung": "2024-07-16",
-    "datumLetzteMeldung": "2024-08-29",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin AL 500 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "09637549"
     ],
     "enr": [
@@ -6099,75 +6289,6 @@
     "telefon": "+4915788121077",
     "mail": "malte.kinast@hecpharm.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04982922"
-    ],
-    "enr": [
-      "2163514"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-15",
-    "datumEnde": "2024-09-15",
-    "datumErstmeldung": "2024-07-22",
-    "datumLetzteMeldung": "2024-08-21",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "AZI-TEVA 500 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "AZI-TEVA 250 mg Filmtabletten - Einreichungsnummer: 2163513"
-  },
-  {
-    "pzn": [
-      "01065622"
-    ],
-    "enr": [
-      "2190670"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-15",
-    "datumEnde": "2024-09-15",
-    "datumErstmeldung": "2024-07-22",
-    "datumLetzteMeldung": "2024-08-21",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin AbZ 500 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
-    "mail": "info@abz.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Azithromycin-ratiopharm 250mg Filmtabletten - Einreichungsnummer: 2162285"
-  },
-  {
-    "pzn": [
-      "03738232"
-    ],
-    "enr": [
-      "2162572"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-15",
-    "datumEnde": "2024-09-15",
-    "datumErstmeldung": "2024-07-22",
-    "datumLetzteMeldung": "2024-08-21",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin-ratiopharm 500 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Azithromycin-ratiopharm 500 mg Filmtabletten - Einreichungsnummer: 2162572"
   },
   {
     "pzn": [
@@ -7289,29 +7410,6 @@
   },
   {
     "pzn": [
-      "04108088"
-    ],
-    "enr": [
-      "2113316"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-12",
-    "datumEnde": "2024-07-31",
-    "datumErstmeldung": "2024-02-05",
-    "datumLetzteMeldung": "2024-06-04",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Methotrexat-GRY 5000 mg/50 ml Konzentrat zur Herstellung einer Infusionslösung",
-    "atcCode": "L01BA01",
-    "wirkstoffe": "Methotrexat-Dinatrium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "TEVA GmbH",
-    "telefon": "0800/800 50 13",
-    "mail": "gks-post@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "12476676"
     ],
     "enr": [
@@ -7661,6 +7759,29 @@
     "telefon": "+4961016032416",
     "mail": "christiane.georgi@stada.de",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00753892"
+    ],
+    "enr": [
+      "2145891"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-01",
+    "datumEnde": "2024-11-15",
+    "datumErstmeldung": "2024-09-11",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Eto-Gry 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "L01CB01",
+    "wirkstoffe": "Etoposid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "rui.araujo@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Eto-Gry 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung - Einreichungsnummer: 2145891"
   },
   {
     "pzn": [
@@ -8526,7 +8647,7 @@
     "datumBeginn": "2023-01-01",
     "datumEnde": "2024-12-31",
     "datumErstmeldung": "2023-04-19",
-    "datumLetzteMeldung": "2024-06-25",
+    "datumLetzteMeldung": "2024-09-11",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Ibandronsäure AL 2 mg Konzentrat zur Herstellung einer Infusionslösung",
@@ -8549,7 +8670,7 @@
     "datumBeginn": "2023-01-01",
     "datumEnde": "2024-12-31",
     "datumErstmeldung": "2023-04-19",
-    "datumLetzteMeldung": "2024-06-25",
+    "datumLetzteMeldung": "2024-09-11",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Ibandronsäure AL 2 mg Konzentrat zur Herstellung einer Infusionslösung",
@@ -9300,6 +9421,75 @@
   },
   {
     "pzn": [
+      "06118240"
+    ],
+    "enr": [
+      "2177421"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-01",
+    "datumEnde": "2024-09-30",
+    "datumErstmeldung": "2024-08-27",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-AL 4 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06118257"
+    ],
+    "enr": [
+      "2177421"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-01",
+    "datumEnde": "2024-09-30",
+    "datumErstmeldung": "2024-08-27",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-AL 4 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06118263"
+    ],
+    "enr": [
+      "2177421"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-01",
+    "datumEnde": "2024-09-30",
+    "datumErstmeldung": "2024-08-27",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-AL 4 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "14256915"
     ],
     "enr": [
@@ -9982,78 +10172,6 @@
     "telefon": "061016032416",
     "mail": "christiane.georgi@stada.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06118240"
-    ],
-    "enr": [
-      "2177421"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-01",
-    "datumEnde": "2024-09-30",
-    "datumErstmeldung": "2024-08-27",
-    "datumLetzteMeldung": "2024-08-27",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-AL 4 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon-AL 4 mg Retardtabletten - Einreichungsnummer: 2177421"
-  },
-  {
-    "pzn": [
-      "06118257"
-    ],
-    "enr": [
-      "2177421"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-01",
-    "datumEnde": "2024-09-30",
-    "datumErstmeldung": "2024-08-27",
-    "datumLetzteMeldung": "2024-08-27",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-AL 4 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon-AL 4 mg Retardtabletten - Einreichungsnummer: 2177421"
-  },
-  {
-    "pzn": [
-      "06118263"
-    ],
-    "enr": [
-      "2177421"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-01",
-    "datumEnde": "2024-09-30",
-    "datumErstmeldung": "2024-08-27",
-    "datumLetzteMeldung": "2024-08-27",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-AL 4 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon-AL 4 mg Retardtabletten - Einreichungsnummer: 2177421"
   },
   {
     "pzn": [
@@ -10784,6 +10902,50 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Ennogen Healthcare (Europe) Limited",
     "mail": "pavan@ennogen.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03450011"
+    ],
+    "enr": [
+      "2173083"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-11",
+    "datumEnde": "2024-09-30",
+    "datumErstmeldung": "2024-09-11",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Targin 10 mg/5 mg Retardtabletten",
+    "atcCode": "N02AA55",
+    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03450040"
+    ],
+    "enr": [
+      "2173083"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-11",
+    "datumEnde": "2024-09-30",
+    "datumErstmeldung": "2024-09-11",
+    "datumLetzteMeldung": "2024-09-11",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Targin 10 mg/5 mg Retardtabletten",
+    "atcCode": "N02AA55",
+    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -11778,9 +11940,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-07-03",
-    "datumEnde": "2024-09-15",
+    "datumEnde": "2024-10-18",
     "datumErstmeldung": "2023-07-03",
-    "datumLetzteMeldung": "2024-06-27",
+    "datumLetzteMeldung": "2024-09-11",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Eletriptan Bluefish 20 mg Filmtabletten",
@@ -12474,7 +12636,7 @@
     "datumBeginn": "2022-08-31",
     "datumEnde": "2024-12-31",
     "datumErstmeldung": "2022-08-31",
-    "datumLetzteMeldung": "2024-06-25",
+    "datumLetzteMeldung": "2024-09-11",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Selegilin AL 5",
@@ -12497,7 +12659,7 @@
     "datumBeginn": "2022-08-31",
     "datumEnde": "2024-12-31",
     "datumErstmeldung": "2022-08-31",
-    "datumLetzteMeldung": "2024-06-25",
+    "datumLetzteMeldung": "2024-09-11",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Selegilin AL 5",
@@ -12520,7 +12682,7 @@
     "datumBeginn": "2022-08-31",
     "datumEnde": "2024-12-31",
     "datumErstmeldung": "2022-08-31",
-    "datumLetzteMeldung": "2024-06-25",
+    "datumLetzteMeldung": "2024-09-11",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Selegilin AL 5",
@@ -13284,7 +13446,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -13307,7 +13469,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -13330,7 +13492,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15866,7 +16028,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15888,7 +16050,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15910,7 +16072,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15932,7 +16094,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15954,7 +16116,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15976,7 +16138,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15998,7 +16160,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16020,7 +16182,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16042,7 +16204,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16064,7 +16226,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16086,7 +16248,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16108,7 +16270,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16130,7 +16292,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16152,7 +16314,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16174,7 +16336,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16196,7 +16358,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16218,7 +16380,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16283,7 +16445,7 @@
     "datumBeginn": "2024-05-01",
     "datumEnde": "2024-10-31",
     "datumErstmeldung": "2024-06-18",
-    "datumLetzteMeldung": "2024-08-29",
+    "datumLetzteMeldung": "2024-09-11",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Betahistin AL 16 mg Tabletten",
@@ -16306,7 +16468,7 @@
     "datumBeginn": "2024-05-01",
     "datumEnde": "2024-10-31",
     "datumErstmeldung": "2024-06-18",
-    "datumLetzteMeldung": "2024-08-29",
+    "datumLetzteMeldung": "2024-09-11",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Betahistin AL 16 mg Tabletten",
@@ -16329,7 +16491,7 @@
     "datumBeginn": "2024-05-01",
     "datumEnde": "2024-10-31",
     "datumErstmeldung": "2024-06-18",
-    "datumLetzteMeldung": "2024-08-29",
+    "datumLetzteMeldung": "2024-09-11",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Betahistin AL 16 mg Tabletten",
@@ -16352,7 +16514,7 @@
     "datumBeginn": "2024-05-01",
     "datumEnde": "2024-10-31",
     "datumErstmeldung": "2024-06-18",
-    "datumLetzteMeldung": "2024-08-29",
+    "datumLetzteMeldung": "2024-09-11",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Betahistin AL 16 mg Tabletten",
@@ -16919,29 +17081,6 @@
   },
   {
     "pzn": [
-      "04421508"
-    ],
-    "enr": [
-      "0009047"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-22",
-    "datumEnde": "2024-10-22",
-    "datumErstmeldung": "2024-08-22",
-    "datumLetzteMeldung": "2024-08-22",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Posifenicol C 1%",
-    "atcCode": "S01AA01",
-    "wirkstoffe": "Chloramphenicol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02498642"
     ],
     "enr": [
@@ -17118,7 +17257,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
