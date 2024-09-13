@@ -789,9 +789,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-05-02",
-    "datumEnde": "2024-09-15",
+    "datumEnde": "2024-12-15",
     "datumErstmeldung": "2024-06-21",
-    "datumLetzteMeldung": "2024-08-22",
+    "datumLetzteMeldung": "2024-09-12",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Keine weiteren Informationen",
@@ -802,7 +802,8 @@
     "zulassungsinhaber": "Mylan Ireland Limited",
     "telefon": "08000700800",
     "mail": "kundenservice@viatris.com",
-    "infoFachkreise": "Nein"
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Sitagliptin/Metforminhydrochlorid Mylan - Einreichungsnummer: 7003160"
   },
   {
     "pzn": [
@@ -3501,7 +3502,7 @@
     "datumBeginn": "2023-06-30",
     "datumEnde": "2025-12-31",
     "datumErstmeldung": "2023-06-30",
-    "datumLetzteMeldung": "2024-08-29",
+    "datumLetzteMeldung": "2024-09-12",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Takrozem 1 mg/g Salbe",
@@ -3511,7 +3512,32 @@
     "zulassungsinhaber": "Pierre Fabre Dermo-Kosmetik GmbH",
     "telefon": "076145261230",
     "mail": "zulassung_de@pierre-fabre.com",
-    "infoFachkreise": "Nein"
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Protopic 0,1% Salbe - OP30g - Einreichungsnummer: 2701533"
+  },
+  {
+    "pzn": [
+      "14063286"
+    ],
+    "enr": [
+      "2193900"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-06-30",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2023-06-30",
+    "datumLetzteMeldung": "2024-09-12",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Takrozem 1 mg/g Salbe",
+    "atcCode": "D11AH01",
+    "wirkstoffe": "Tacrolimus-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pierre Fabre Dermo-Kosmetik GmbH",
+    "telefon": "076145261230",
+    "mail": "zulassung_de@pierre-fabre.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Protopic 0,1% Salbe - OP30g - Einreichungsnummer: 2701533"
   },
   {
     "pzn": [
@@ -4076,38 +4102,16 @@
   },
   {
     "pzn": [
-      "15999021"
-    ],
-    "enr": [
-      "2714956"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-29",
-    "datumEnde": "2024-09-09",
-    "datumErstmeldung": "2024-09-02",
-    "datumLetzteMeldung": "2024-09-02",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Baqsimi 3 mg Nasenpulver in einem Einzeldosisbehältnis",
-    "atcCode": "H04AA01",
-    "wirkstoffe": "Glucagon",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Eli Lilly Nederland B.V.",
-    "mail": "Franck.Vitali@amphastar-france.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "15998145"
     ],
     "enr": [
       "2714955"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-08-26",
-    "datumEnde": "2024-09-09",
+    "datumEnde": "2024-09-16",
     "datumErstmeldung": "2024-09-02",
-    "datumLetzteMeldung": "2024-09-02",
+    "datumLetzteMeldung": "2024-09-12",
     "grund": "Probleme beim Sonstigen Hersteller",
     "grundArt": "Sonstige",
     "bezeichnung": "Baqsimi 3 mg Nasenpulver in einem Einzeldosisbehältnis",
@@ -4117,6 +4121,28 @@
     "zulassungsinhaber": "Eli Lilly Nederland B.V.",
     "mail": "Franck.Vitali@amphastar-france.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "15999021"
+    ],
+    "enr": [
+      "2714956"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-29",
+    "datumEnde": "2024-09-16",
+    "datumErstmeldung": "2024-09-02",
+    "datumLetzteMeldung": "2024-09-12",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Baqsimi 3 mg Nasenpulver in einem Einzeldosisbehältnis",
+    "atcCode": "H04AA01",
+    "wirkstoffe": "Glucagon",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Eli Lilly Nederland B.V.",
+    "mail": "Franck.Vitali@amphastar-france.com",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -6358,30 +6384,6 @@
   },
   {
     "pzn": [
-      "02481966"
-    ],
-    "enr": [
-      "2137175"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-06-18",
-    "datumEnde": "2024-09-15",
-    "datumErstmeldung": "2024-06-19",
-    "datumLetzteMeldung": "2024-07-17",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Zithromax 500 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "AZI-TEVA 500 mg Filmtabletten - Einreichungsnummer: 2163514"
-  },
-  {
-    "pzn": [
       "08590283"
     ],
     "enr": [
@@ -6402,6 +6404,30 @@
     "telefon": "+49 (0) 30 550055-51000",
     "mail": "medical.information@pfizer.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11240380"
+    ],
+    "enr": [
+      "2190615"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-16",
+    "datumEnde": "2024-12-31",
+    "datumErstmeldung": "2024-09-12",
+    "datumLetzteMeldung": "2024-09-12",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sobelin 100 mg Vaginalzäpfchen",
+    "atcCode": "J01FF01",
+    "wirkstoffe": "Clindamycin-2-dihydrogenphosphat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Sobelin Vaginalcreme - Einreichungsnummer: 2128680"
   },
   {
     "pzn": [
@@ -7078,10 +7104,10 @@
       "2131435"
     ],
     "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-15",
+    "datumBeginn": "2024-09-30",
     "datumEnde": "2025-03-15",
     "datumErstmeldung": "2024-08-06",
-    "datumLetzteMeldung": "2024-08-15",
+    "datumLetzteMeldung": "2024-09-12",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Foscavir",
@@ -7735,6 +7761,28 @@
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
     "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "05505940"
+    ],
+    "enr": [
+      "2171688"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-09",
+    "datumEnde": "2024-10-31",
+    "datumErstmeldung": "2024-09-12",
+    "datumLetzteMeldung": "2024-09-12",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Vinblastinsulfat Teva 1 mg/ml Injektionslösung",
+    "atcCode": "L01CA01",
+    "wirkstoffe": "Vinblastinsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "gks-post@ratiopharm.de",
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -12961,6 +13009,31 @@
   },
   {
     "pzn": [
+      "07373336"
+    ],
+    "enr": [
+      "2705751"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-08-30",
+    "datumEnde": "2024-10-18",
+    "datumErstmeldung": "2024-09-12",
+    "datumLetzteMeldung": "2024-09-12",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Aufgrund eines Lieferengpasses des Arzneimittels in der Krankenhausversorgung, wurde dieses Produkt als Ersatz verwendet.",
+    "bezeichnung": "ZYPADHERA 405 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(931mg+3ml)",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapinembonat-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Cheplapharm Registration GmbH",
+    "telefon": "+49 73217578136",
+    "mail": "iva.gjolli@cheplapharm-reg.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "ZYPADHERA 300 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(690mg+3ml) - Einreichungsnummer: 2705750"
+  },
+  {
+    "pzn": [
       "16031468"
     ],
     "enr": [
@@ -13273,6 +13346,52 @@
   },
   {
     "pzn": [
+      "04943721"
+    ],
+    "enr": [
+      "2109072"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-01",
+    "datumEnde": "2024-10-31",
+    "datumErstmeldung": "2024-09-12",
+    "datumLetzteMeldung": "2024-09-12",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nitrazepam AL 5",
+    "atcCode": "N05CD02",
+    "wirkstoffe": "Nitrazepam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04943738"
+    ],
+    "enr": [
+      "2109072"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-01",
+    "datumEnde": "2024-10-31",
+    "datumErstmeldung": "2024-09-12",
+    "datumLetzteMeldung": "2024-09-12",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nitrazepam AL 5",
+    "atcCode": "N05CD02",
+    "wirkstoffe": "Nitrazepam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "15436281"
     ],
     "enr": [
@@ -13429,6 +13548,28 @@
   },
   {
     "pzn": [
+      "18021385"
+    ],
+    "enr": [
+      "2195623"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-12",
+    "datumEnde": "2024-10-31",
+    "datumErstmeldung": "2024-09-12",
+    "datumLetzteMeldung": "2024-09-12",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Kinecteen 54 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "mail": "regulatory@medice.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "18021379"
     ],
     "enr": [
@@ -13436,9 +13577,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-06-20",
-    "datumEnde": "2024-10-15",
+    "datumEnde": "2024-10-31",
     "datumErstmeldung": "2024-06-20",
-    "datumLetzteMeldung": "2024-08-11",
+    "datumLetzteMeldung": "2024-09-12",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "---",
@@ -13459,9 +13600,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-06-20",
-    "datumEnde": "2024-10-15",
+    "datumEnde": "2024-10-31",
     "datumErstmeldung": "2024-06-20",
-    "datumLetzteMeldung": "2024-08-11",
+    "datumLetzteMeldung": "2024-09-12",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "---",
@@ -13482,9 +13623,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-06-20",
-    "datumEnde": "2024-10-15",
+    "datumEnde": "2024-10-31",
     "datumErstmeldung": "2024-06-20",
-    "datumLetzteMeldung": "2024-08-11",
+    "datumLetzteMeldung": "2024-09-12",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "---",

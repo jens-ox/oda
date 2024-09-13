@@ -4614,24 +4614,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-08-13",
-    "emittent": {
-      "name": "AMADEUS FIRE AG",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.01,
-      "instrumente": 0.14,
-      "summe": 3.15
-    }
-  },
-  {
     "veroeffentlichung": "2024-08-23",
     "emittent": {
       "name": "Allianz SE",
@@ -5316,7 +5298,7 @@
     }
   },
   {
-    "veroeffentlichung": "2013-06-04",
+    "veroeffentlichung": "2024-09-11",
     "emittent": {
       "name": "COMMERZBANK Aktiengesellschaft",
       "sitz": "Frankfurt am Main",
@@ -5328,7 +5310,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 17.15
+      "gesamt": 12.11,
+      "instrumente": 0,
+      "summe": 12.11
     }
   },
   {
@@ -7756,7 +7740,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-09-10",
+    "veroeffentlichung": "2024-09-11",
     "emittent": {
       "name": "SUSS MicroTec SE",
       "sitz": "Garching b. München",
@@ -7768,9 +7752,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.37,
+      "gesamt": 5.78,
       "instrumente": 0,
-      "summe": 3.37
+      "summe": 5.78
     }
   },
   {
@@ -9350,7 +9334,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-09-04",
+    "veroeffentlichung": "2024-09-12",
     "emittent": {
       "name": "VELTARION SE",
       "sitz": "Berlin",
@@ -9360,9 +9344,9 @@
       "name": "Fleischer, Prof. Dr. Klaus Dieter"
     },
     "stimmrechtsanteile": {
-      "gesamt": 75,
+      "gesamt": 75.5,
       "instrumente": 0,
-      "summe": 75
+      "summe": 75.5
     }
   },
   {
@@ -15293,7 +15277,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-09-10",
+    "veroeffentlichung": "2024-09-11",
     "emittent": {
       "name": "Siemens Energy AG",
       "sitz": "München",
@@ -15305,9 +15289,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.83,
-      "instrumente": 4.28,
-      "summe": 6.11
+      "gesamt": 1.72,
+      "instrumente": 4.24,
+      "summe": 5.95
     }
   },
   {
@@ -21069,7 +21053,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-08-29",
+    "veroeffentlichung": "2024-09-12",
     "emittent": {
       "name": "MTU Aero Engines AG",
       "sitz": "München",
@@ -21081,9 +21065,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.62,
-      "instrumente": 1.23,
-      "summe": 4.85
+      "gesamt": 3.6,
+      "instrumente": 1.22,
+      "summe": 4.81
     }
   },
   {
@@ -21138,6 +21122,24 @@
       "gesamt": 5.04,
       "instrumente": 0,
       "summe": 5.04
+    }
+  },
+  {
+    "veroeffentlichung": "2024-09-12",
+    "emittent": {
+      "name": "Bilfinger SE",
+      "sitz": "Mannheim",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Morgan Stanley",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.02,
+      "instrumente": 1.9,
+      "summe": 4.92
     }
   },
   {
@@ -22045,7 +22047,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-06-30",
+    "veroeffentlichung": "2024-09-12",
     "emittent": {
       "name": "ATOSS Software SE",
       "sitz": "München",
@@ -22055,9 +22057,9 @@
       "name": "Obereder, Andreas F.J."
     },
     "stimmrechtsanteile": {
-      "gesamt": 30.00002,
+      "gesamt": 26.59,
       "instrumente": 0,
-      "summe": 30.00002
+      "summe": 26.59
     }
   },
   {
@@ -26343,7 +26345,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-04-03",
+    "veroeffentlichung": "2024-09-12",
     "emittent": {
       "name": "SAP SE",
       "sitz": "Walldorf",
@@ -26355,9 +26357,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.0011,
+      "gesamt": 4.9524,
       "instrumente": 0,
-      "summe": 5.0011
+      "summe": 4.9524
     }
   },
   {
@@ -28641,9 +28643,9 @@
       "name": "Simkiss, Sarah"
     },
     "stimmrechtsanteile": {
-      "gesamt": 98.02999,
+      "gesamt": 98.03,
       "instrumente": 0,
-      "summe": 98.02999
+      "summe": 98.03
     }
   },
   {
@@ -31464,24 +31466,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-08-07",
-    "emittent": {
-      "name": "Siltronic AG",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.31,
-      "instrumente": 4.71,
-      "summe": 5.02
-    }
-  },
-  {
     "veroeffentlichung": "2024-08-15",
     "emittent": {
       "name": "Siemens Energy AG",
@@ -31680,7 +31664,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-07-31",
+    "veroeffentlichung": "2024-09-11",
     "emittent": {
       "name": "Delivery Hero SE",
       "sitz": "Berlin",
@@ -31693,8 +31677,8 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 0.06,
-      "instrumente": 10.42,
-      "summe": 10.48
+      "instrumente": 11.29,
+      "summe": 11.36
     }
   },
   {
@@ -32276,7 +32260,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-09-05",
+    "veroeffentlichung": "2024-09-11",
     "emittent": {
       "name": "Delivery Hero SE",
       "sitz": "Berlin",
@@ -32288,9 +32272,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.67,
-      "instrumente": 2.04,
-      "summe": 5.71
+      "gesamt": 2.995,
+      "instrumente": 2.02,
+      "summe": 5.015
     }
   },
   {
