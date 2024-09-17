@@ -2788,6 +2788,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-09-13",
+    "emittent": {
+      "name": "LANXESS Aktiengesellschaft",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Barclays PLC",
+      "sitz": "London",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.04,
+      "instrumente": 5.04,
+      "summe": 5.08
+    }
+  },
+  {
     "veroeffentlichung": "2024-09-09",
     "emittent": {
       "name": "HELLA GmbH & Co. KGaA",
@@ -3804,7 +3822,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-09-12",
+    "veroeffentlichung": "2024-09-16",
     "emittent": {
       "name": "Siemens Aktiengesellschaft",
       "sitz": "München",
@@ -3817,8 +3835,8 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 6.32,
-      "instrumente": 0.04,
-      "summe": 6.37
+      "instrumente": 0.02,
+      "summe": 6.35
     }
   },
   {
@@ -5295,22 +5313,6 @@
       "gesamt": 12.11,
       "instrumente": 0,
       "summe": 12.11
-    }
-  },
-  {
-    "veroeffentlichung": "2019-04-18",
-    "emittent": {
-      "name": "New Work SE",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Burda, Prof. Dr. Hubert"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 50.24,
-      "instrumente": 0,
-      "summe": 50.24
     }
   },
   {
@@ -7704,6 +7706,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-09-16",
+    "emittent": {
+      "name": "Vonovia SE",
+      "sitz": "Bochum",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "DWS Investment GmbH",
+      "sitz": "Frankfurt",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.01,
+      "instrumente": 0.01,
+      "summe": 3.02
+    }
+  },
+  {
     "veroeffentlichung": "2024-09-11",
     "emittent": {
       "name": "SUSS MicroTec SE",
@@ -7758,7 +7778,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-09-11",
+    "veroeffentlichung": "2024-09-13",
     "emittent": {
       "name": "SFC Energy AG",
       "sitz": "Brunnthal",
@@ -7770,9 +7790,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.84,
+      "gesamt": 5.42,
       "instrumente": 0,
-      "summe": 4.84
+      "summe": 5.42
     }
   },
   {
@@ -7866,7 +7886,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-08-28",
+    "veroeffentlichung": "2024-09-16",
     "emittent": {
       "name": "DEUTZ Aktiengesellschaft",
       "sitz": "Köln",
@@ -7878,9 +7898,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.33,
+      "gesamt": 5.12,
       "instrumente": 0,
-      "summe": 4.33
+      "summe": 5.12
     }
   },
   {
@@ -14879,7 +14899,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-03-04",
+    "veroeffentlichung": "2024-09-13",
     "emittent": {
       "name": "PVA TePla AG",
       "sitz": "Wettenberg",
@@ -14891,27 +14911,9 @@
       "land": "Jersey, Kanalinseln"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.99,
+      "gesamt": 5.54,
       "instrumente": 0,
-      "summe": 4.99
-    }
-  },
-  {
-    "veroeffentlichung": "2024-04-30",
-    "emittent": {
-      "name": "NORMA Group SE",
-      "sitz": "Maintal",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JANUS HENDERSON GROUP PLC",
-      "sitz": "St Helier",
-      "land": "Jersey, Kanalinseln"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.05,
-      "instrumente": 0,
-      "summe": 3.05
+      "summe": 5.54
     }
   },
   {
@@ -15259,24 +15261,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-07-08",
-    "emittent": {
-      "name": "New Work SE",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JPMORGAN CHASE & CO",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.59,
-      "instrumente": 0.02,
-      "summe": 3.61
-    }
-  },
-  {
     "veroeffentlichung": "2024-09-13",
     "emittent": {
       "name": "K+S Aktiengesellschaft",
@@ -15289,9 +15273,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.03,
-      "instrumente": 9.63,
-      "summe": 12.66
+      "gesamt": 2.5,
+      "instrumente": 9.5,
+      "summe": 12
     }
   },
   {
@@ -15630,22 +15614,6 @@
       "gesamt": 7.93,
       "instrumente": 0.22,
       "summe": 8.16
-    }
-  },
-  {
-    "veroeffentlichung": "2024-06-17",
-    "emittent": {
-      "name": "New Work SE",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Kain, Raphael"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 6.52,
-      "instrumente": 0,
-      "summe": 6.52
     }
   },
   {
@@ -26223,24 +26191,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-17",
-    "emittent": {
-      "name": "New Work SE",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Samson Rock Event Driven Fund Limited",
-      "sitz": "Camana Bay",
-      "land": "Cayman Inseln (Kaimaninseln)"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 6.52,
-      "instrumente": 0,
-      "summe": 6.52
-    }
-  },
-  {
     "veroeffentlichung": "2023-12-04",
     "emittent": {
       "name": "Adtran Networks SE",
@@ -26309,7 +26259,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-09-12",
+    "veroeffentlichung": "2024-09-16",
     "emittent": {
       "name": "SAP SE",
       "sitz": "Walldorf",
@@ -26321,9 +26271,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.9524,
+      "gesamt": 5.0004,
       "instrumente": 0,
-      "summe": 4.9524
+      "summe": 5.0004
     }
   },
   {
@@ -31608,7 +31558,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-09-05",
+    "veroeffentlichung": "2024-09-16",
     "emittent": {
       "name": "Deutsche Pfandbriefbank AG",
       "sitz": "München",
@@ -31620,9 +31570,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.37,
-      "instrumente": 8.59,
-      "summe": 8.96
+      "gesamt": 0.57,
+      "instrumente": 7.49,
+      "summe": 8.06
     }
   },
   {
@@ -32096,6 +32046,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-09-16",
+    "emittent": {
+      "name": "TUI AG",
+      "sitz": "Hannover",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "UBS Group AG",
+      "sitz": "Zürich",
+      "land": "Schweiz"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 2.4,
+      "instrumente": 3.39,
+      "summe": 5.8
+    }
+  },
+  {
     "veroeffentlichung": "2024-09-12",
     "emittent": {
       "name": "TeamViewer SE",
@@ -32240,6 +32208,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-09-13",
+    "emittent": {
+      "name": "Covestro AG",
+      "sitz": "Leverkusen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "UBS Group AG",
+      "sitz": "Zürich",
+      "land": "Schweiz"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.46,
+      "instrumente": 1.96,
+      "summe": 5.42
+    }
+  },
+  {
     "veroeffentlichung": "2021-01-07",
     "emittent": {
       "name": "SCHNIGGE Capital Markets SE",
@@ -32271,6 +32257,24 @@
       "gesamt": 3.18,
       "instrumente": 0,
       "summe": 3.18
+    }
+  },
+  {
+    "veroeffentlichung": "2024-09-13",
+    "emittent": {
+      "name": "COMMERZBANK Aktiengesellschaft",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "UniCredit S.p.A.",
+      "sitz": "Mailand",
+      "land": "Italien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 7.29,
+      "instrumente": 1.92,
+      "summe": 9.21
     }
   },
   {
@@ -32740,7 +32744,7 @@
     }
   },
   {
-    "veroeffentlichung": "2022-11-22",
+    "veroeffentlichung": "2024-09-16",
     "emittent": {
       "name": "BRAIN Biotech AG",
       "sitz": "Zwingenberg",
@@ -32752,9 +32756,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.2,
+      "gesamt": 5.1,
       "instrumente": 0,
-      "summe": 3.2
+      "summe": 5.1
     }
   },
   {
