@@ -1208,7 +1208,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-07",
+    "veroeffentlichung": "2024-10-10",
     "emittent": {
       "name": "PUMA SE",
       "sitz": "Herzogenaurach",
@@ -1220,9 +1220,9 @@
       "land": "Frankreich"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.87,
-      "instrumente": 0.07,
-      "summe": 4.94
+      "gesamt": 4.9371,
+      "instrumente": 0.0657,
+      "summe": 5.0028
     }
   },
   {
@@ -2304,7 +2304,7 @@
   {
     "veroeffentlichung": "2023-07-06",
     "emittent": {
-      "name": "Panamax Aktiengesellschaft",
+      "name": "Panamax New Energy Aktiengesellschaft",
       "sitz": "Frankfurt am Main",
       "land": "Deutschland"
     },
@@ -2770,7 +2770,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-10",
+    "veroeffentlichung": "2024-10-11",
     "emittent": {
       "name": "Covestro AG",
       "sitz": "Leverkusen",
@@ -2782,9 +2782,9 @@
       "land": "Großbritannien"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.01,
-      "instrumente": 1.87,
-      "summe": 4.88
+      "gesamt": 3.08,
+      "instrumente": 1.92,
+      "summe": 5.01
     }
   },
   {
@@ -4074,7 +4074,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-04",
+    "veroeffentlichung": "2024-10-10",
     "emittent": {
       "name": "K+S Aktiengesellschaft",
       "sitz": "Kassel",
@@ -4086,8 +4086,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.32,
-      "instrumente": 2.04,
+      "gesamt": 4.83,
+      "instrumente": 2.52,
       "summe": 7.36
     }
   },
@@ -4362,6 +4362,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-10-11",
+    "emittent": {
+      "name": "Deutsche Lufthansa Aktiengesellschaft",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "BlackRock, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.05,
+      "instrumente": 0.78,
+      "summe": 3.82
+    }
+  },
+  {
     "veroeffentlichung": "2024-10-04",
     "emittent": {
       "name": "Deutsche Börse Aktiengesellschaft",
@@ -4416,7 +4434,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-10",
+    "veroeffentlichung": "2024-10-11",
     "emittent": {
       "name": "CTS Eventim AG & Co. KGaA",
       "sitz": "München",
@@ -7764,7 +7782,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-09-20",
+    "veroeffentlichung": "2024-10-10",
     "emittent": {
       "name": "SFC Energy AG",
       "sitz": "Brunnthal",
@@ -7776,9 +7794,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.08,
+      "gesamt": 5.09,
       "instrumente": 0,
-      "summe": 5.08
+      "summe": 5.09
     }
   },
   {
@@ -7887,24 +7905,6 @@
       "gesamt": 4.95,
       "instrumente": 0,
       "summe": 4.95
-    }
-  },
-  {
-    "veroeffentlichung": "2024-06-25",
-    "emittent": {
-      "name": "Covestro AG",
-      "sitz": "Leverkusen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "DWS Investment GmbH",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.15,
-      "instrumente": 0,
-      "summe": 3.15
     }
   },
   {
@@ -13451,22 +13451,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-07-31",
-    "emittent": {
-      "name": "Linus Digital Finance AG",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Heße, Alexander"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.45,
-      "instrumente": 0,
-      "summe": 3.45
-    }
-  },
-  {
     "veroeffentlichung": "2015-09-03",
     "emittent": {
       "name": "Fresenius SE & Co. KGaA",
@@ -13932,6 +13916,22 @@
       "gesamt": 3.33,
       "instrumente": 0,
       "summe": 3.33
+    }
+  },
+  {
+    "veroeffentlichung": "2024-10-10",
+    "emittent": {
+      "name": "Linus Digital Finance AG",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Horsthemke, Philipp"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 71.42,
+      "instrumente": 0,
+      "summe": 71.42
     }
   },
   {
@@ -18159,7 +18159,7 @@
   {
     "veroeffentlichung": "2017-10-30",
     "emittent": {
-      "name": "Panamax Aktiengesellschaft",
+      "name": "Panamax New Energy Aktiengesellschaft",
       "sitz": "Frankfurt am Main",
       "land": "Deutschland"
     },
@@ -18515,7 +18515,7 @@
   {
     "veroeffentlichung": "2024-09-10",
     "emittent": {
-      "name": "Panamax Aktiengesellschaft",
+      "name": "Panamax New Energy Aktiengesellschaft",
       "sitz": "Frankfurt am Main",
       "land": "Deutschland"
     },
@@ -20609,6 +20609,22 @@
     }
   },
   {
+    "veroeffentlichung": "2024-10-10",
+    "emittent": {
+      "name": "Linus Digital Finance AG",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Mittermeier, Dr. Matthias"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 71.41999,
+      "instrumente": 0,
+      "summe": 71.41999
+    }
+  },
+  {
     "veroeffentlichung": "2018-03-26",
     "emittent": {
       "name": "Softing AG",
@@ -20743,7 +20759,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-09-25",
+    "veroeffentlichung": "2024-10-11",
     "emittent": {
       "name": "Zalando SE",
       "sitz": "Berlin",
@@ -20755,13 +20771,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.62,
-      "instrumente": 1.03,
-      "summe": 4.64
+      "gesamt": 4.3,
+      "instrumente": 1.87,
+      "summe": 6.16
     }
   },
   {
-    "veroeffentlichung": "2024-09-30",
+    "veroeffentlichung": "2024-10-11",
     "emittent": {
       "name": "WashTec AG",
       "sitz": "Augsburg",
@@ -20773,9 +20789,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.53,
-      "instrumente": 2.87,
-      "summe": 9.4
+      "gesamt": 5.83,
+      "instrumente": 4.23,
+      "summe": 10.06
     }
   },
   {
@@ -20923,7 +20939,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-07",
+    "veroeffentlichung": "2024-10-10",
     "emittent": {
       "name": "HelloFresh SE",
       "sitz": "Berlin",
@@ -20935,9 +20951,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.88,
-      "instrumente": 9.24,
-      "summe": 14.11
+      "gesamt": 4.68,
+      "instrumente": 8.08,
+      "summe": 12.76
     }
   },
   {
@@ -20956,24 +20972,6 @@
       "gesamt": 5.04,
       "instrumente": 0,
       "summe": 5.04
-    }
-  },
-  {
-    "veroeffentlichung": "2024-10-10",
-    "emittent": {
-      "name": "Bilfinger SE",
-      "sitz": "Mannheim",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Morgan Stanley",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.00346,
-      "instrumente": 1.9,
-      "summe": 4.9
     }
   },
   {
@@ -21452,22 +21450,6 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 75.98
-    }
-  },
-  {
-    "veroeffentlichung": "2021-05-20",
-    "emittent": {
-      "name": "Linus Digital Finance AG",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Neuhoff, David Johannes"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 9.35,
-      "instrumente": 0,
-      "summe": 9.35
     }
   },
   {
@@ -25703,7 +25685,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-09-27",
+    "veroeffentlichung": "2024-10-11",
     "emittent": {
       "name": "Aurubis AG",
       "sitz": "Hamburg",
@@ -25715,9 +25697,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 7.34,
-      "instrumente": 6.39,
-      "summe": 13.73
+      "gesamt": 7.72,
+      "instrumente": 7.5,
+      "summe": 15.23
     }
   },
   {
@@ -26174,22 +26156,6 @@
       "gesamt": 9.8,
       "instrumente": 0.22,
       "summe": 10.02
-    }
-  },
-  {
-    "veroeffentlichung": "2023-08-03",
-    "emittent": {
-      "name": "Linus Digital Finance AG",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Samwer, Alexander"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 60.27,
-      "instrumente": 0,
-      "summe": 60.27
     }
   },
   {
@@ -28765,6 +28731,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-10-10",
+    "emittent": {
+      "name": "TUI AG",
+      "sitz": "Hannover",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Société Générale S.A.",
+      "sitz": "Paris",
+      "land": "Frankreich"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.01,
+      "instrumente": 5.05,
+      "summe": 5.06
+    }
+  },
+  {
     "veroeffentlichung": "2024-03-25",
     "emittent": {
       "name": "Rheinmetall Aktiengesellschaft",
@@ -29038,24 +29022,6 @@
       "gesamt": 3.14,
       "instrumente": 0,
       "summe": 3.14
-    }
-  },
-  {
-    "veroeffentlichung": "2024-10-09",
-    "emittent": {
-      "name": "TAG Immobilien AG",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Staat Norwegen",
-      "sitz": "Oslo",
-      "land": "Norwegen"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.04,
-      "instrumente": 0,
-      "summe": 3.04
     }
   },
   {
@@ -30514,7 +30480,7 @@
   {
     "veroeffentlichung": "2024-10-04",
     "emittent": {
-      "name": "Panamax Aktiengesellschaft",
+      "name": "Panamax New Energy Aktiengesellschaft",
       "sitz": "Frankfurt am Main",
       "land": "Deutschland"
     },
@@ -31246,7 +31212,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-09",
+    "veroeffentlichung": "2024-10-11",
     "emittent": {
       "name": "thyssenkrupp AG",
       "sitz": "Essen",
@@ -31258,9 +31224,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.83,
-      "instrumente": 4.81,
-      "summe": 5.64
+      "gesamt": 0.05,
+      "instrumente": 5.56,
+      "summe": 5.61
     }
   },
   {
@@ -31300,7 +31266,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-10",
+    "veroeffentlichung": "2024-10-11",
     "emittent": {
       "name": "Siemens Energy AG",
       "sitz": "München",
@@ -31312,9 +31278,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.42,
-      "instrumente": 9.62,
-      "summe": 10.04
+      "gesamt": 0.4,
+      "instrumente": 9.33,
+      "summe": 9.73
     }
   },
   {
