@@ -3988,24 +3988,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-03",
-    "emittent": {
-      "name": "LANXESS Aktiengesellschaft",
-      "sitz": "Köln",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.19,
-      "instrumente": 1.03,
-      "summe": 4.22
-    }
-  },
-  {
     "veroeffentlichung": "2024-10-18",
     "emittent": {
       "name": "K+S Aktiengesellschaft",
@@ -4276,7 +4258,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-04",
+    "veroeffentlichung": "2024-10-21",
     "emittent": {
       "name": "Deutsche Post AG",
       "sitz": "Bonn",
@@ -4288,31 +4270,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.13,
-      "instrumente": 0.05,
-      "summe": 5.18
+      "gesamt": 4.99,
+      "instrumente": 0.21,
+      "summe": 5.2
     }
   },
   {
-    "veroeffentlichung": "2024-10-18",
-    "emittent": {
-      "name": "Deutsche Lufthansa Aktiengesellschaft",
-      "sitz": "Köln",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.07,
-      "instrumente": 0.73,
-      "summe": 3.8
-    }
-  },
-  {
-    "veroeffentlichung": "2024-10-21",
+    "veroeffentlichung": "2024-10-23",
     "emittent": {
       "name": "Deutsche Börse Aktiengesellschaft",
       "sitz": "Frankfurt am Main",
@@ -4324,8 +4288,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.67,
-      "instrumente": 0.02,
+      "gesamt": 6.65,
+      "instrumente": 0.05,
       "summe": 6.69
     }
   },
@@ -4366,7 +4330,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-18",
+    "veroeffentlichung": "2024-10-22",
     "emittent": {
       "name": "CTS Eventim AG & Co. KGaA",
       "sitz": "München",
@@ -4378,9 +4342,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.07,
-      "instrumente": 0.01,
-      "summe": 5.08
+      "gesamt": 5.03,
+      "instrumente": 0.02,
+      "summe": 5.05
     }
   },
   {
@@ -4564,7 +4528,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-04",
+    "veroeffentlichung": "2024-10-22",
     "emittent": {
       "name": "Allianz SE",
       "sitz": "München",
@@ -4576,8 +4540,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.87,
-      "instrumente": 0.01,
+      "gesamt": 6.77,
+      "instrumente": 0.12,
       "summe": 6.89
     }
   },
@@ -7714,7 +7678,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-18",
+    "veroeffentlichung": "2024-10-23",
     "emittent": {
       "name": "SFC Energy AG",
       "sitz": "Brunnthal",
@@ -7726,9 +7690,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.00116,
+      "gesamt": 4.83,
       "instrumente": 0,
-      "summe": 5.00116
+      "summe": 4.83
     }
   },
   {
@@ -8273,22 +8237,6 @@
       "gesamt": 56.24,
       "instrumente": 0,
       "summe": 56.24
-    }
-  },
-  {
-    "veroeffentlichung": "2023-03-14",
-    "emittent": {
-      "name": "Francotyp-Postalia Holding AG",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Elgeti, Rolf"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0,
-      "instrumente": 25.34,
-      "summe": 25.34
     }
   },
   {
@@ -9237,7 +9185,7 @@
       "land": "Deutschland"
     },
     "meldepflichtiger": {
-      "name": "Flossbach von Storch AG",
+      "name": "Flossbach von Storch SE",
       "sitz": "Köln",
       "land": "Deutschland"
     },
@@ -9255,7 +9203,7 @@
       "land": "Deutschland"
     },
     "meldepflichtiger": {
-      "name": "Flossbach von Storch AG",
+      "name": "Flossbach von Storch SE",
       "sitz": "Köln",
       "land": "Deutschland"
     },
@@ -9273,7 +9221,7 @@
       "land": "Deutschland"
     },
     "meldepflichtiger": {
-      "name": "Flossbach von Storch AG",
+      "name": "Flossbach von Storch SE",
       "sitz": "Köln",
       "land": "Deutschland"
     },
@@ -14936,7 +14884,7 @@
     "veroeffentlichung": "2022-05-27",
     "emittent": {
       "name": "Enapter AG",
-      "sitz": "Heidelberg",
+      "sitz": "Düsseldorf",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -19575,22 +19523,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-05-04",
-    "emittent": {
-      "name": "Francotyp-Postalia Holding AG",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Markus, Dr. Dirk"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0,
-      "instrumente": 25.34,
-      "summe": 25.34
-    }
-  },
-  {
     "veroeffentlichung": "2024-02-19",
     "emittent": {
       "name": "NAKIKI SE",
@@ -20472,7 +20404,7 @@
     "veroeffentlichung": "2024-07-05",
     "emittent": {
       "name": "Enapter AG",
-      "sitz": "Heidelberg",
+      "sitz": "Düsseldorf",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -20727,7 +20659,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-08-20",
+    "veroeffentlichung": "2024-10-22",
     "emittent": {
       "name": "PVA TePla AG",
       "sitz": "Wettenberg",
@@ -20739,9 +20671,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.63,
-      "instrumente": 0.22,
-      "summe": 4.85
+      "gesamt": 4.59,
+      "instrumente": 0.44,
+      "summe": 5.03
     }
   },
   {
@@ -20799,7 +20731,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-14",
+    "veroeffentlichung": "2024-10-23",
     "emittent": {
       "name": "Nagarro SE",
       "sitz": "München",
@@ -20811,9 +20743,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.04,
-      "instrumente": 9.99,
-      "summe": 12.03
+      "gesamt": 2.19,
+      "instrumente": 10.35,
+      "summe": 12.54
     }
   },
   {
@@ -20874,7 +20806,7 @@
     "veroeffentlichung": "2024-07-30",
     "emittent": {
       "name": "Enapter AG",
-      "sitz": "Heidelberg",
+      "sitz": "Düsseldorf",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -26824,7 +26756,7 @@
     "veroeffentlichung": "2022-08-29",
     "emittent": {
       "name": "Enapter AG",
-      "sitz": "Heidelberg",
+      "sitz": "Düsseldorf",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -29871,7 +29803,7 @@
     "veroeffentlichung": "2021-03-19",
     "emittent": {
       "name": "Enapter AG",
-      "sitz": "Heidelberg",
+      "sitz": "Düsseldorf",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -30117,7 +30049,7 @@
     "veroeffentlichung": "2024-01-16",
     "emittent": {
       "name": "Enapter AG",
-      "sitz": "Heidelberg",
+      "sitz": "Düsseldorf",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -31128,6 +31060,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-10-23",
+    "emittent": {
+      "name": "thyssenkrupp AG",
+      "sitz": "Essen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.5,
+      "instrumente": 4.53,
+      "summe": 5.03
+    }
+  },
+  {
     "veroeffentlichung": "2024-05-17",
     "emittent": {
       "name": "TeamViewer SE",
@@ -31146,7 +31096,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-04",
+    "veroeffentlichung": "2024-10-23",
     "emittent": {
       "name": "Siltronic AG",
       "sitz": "München",
@@ -31158,13 +31108,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.21,
-      "instrumente": 4.87,
-      "summe": 5.08
+      "gesamt": 1.5,
+      "instrumente": 5.14,
+      "summe": 6.64
     }
   },
   {
-    "veroeffentlichung": "2024-10-15",
+    "veroeffentlichung": "2024-10-22",
     "emittent": {
       "name": "Siemens Energy AG",
       "sitz": "München",
@@ -31176,9 +31126,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.48,
-      "instrumente": 9.59,
-      "summe": 10.07
+      "gesamt": 0.51,
+      "instrumente": 9.5,
+      "summe": 10.02
     }
   },
   {
@@ -31380,7 +31330,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-17",
+    "veroeffentlichung": "2024-10-23",
     "emittent": {
       "name": "Aurubis AG",
       "sitz": "Hamburg",
@@ -31392,9 +31342,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.01,
-      "instrumente": 8.96,
-      "summe": 8.97
+      "gesamt": 0.38,
+      "instrumente": 8.64,
+      "summe": 9.02
     }
   },
   {
@@ -31852,7 +31802,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-01",
+    "veroeffentlichung": "2024-10-22",
     "emittent": {
       "name": "SMA Solar Technology AG",
       "sitz": "Niestetal",
@@ -31864,13 +31814,13 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.43,
-      "instrumente": 0.77,
-      "summe": 6.2
+      "gesamt": 4.93,
+      "instrumente": 0.53,
+      "summe": 5.45
     }
   },
   {
-    "veroeffentlichung": "2024-07-15",
+    "veroeffentlichung": "2024-10-22",
     "emittent": {
       "name": "Siemens Energy AG",
       "sitz": "München",
@@ -31882,9 +31832,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.05,
-      "instrumente": 2.62,
-      "summe": 5.67
+      "gesamt": 2.8,
+      "instrumente": 3.26,
+      "summe": 6.06
     }
   },
   {
@@ -31924,7 +31874,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-16",
+    "veroeffentlichung": "2024-10-22",
     "emittent": {
       "name": "Covestro AG",
       "sitz": "Leverkusen",
@@ -31936,9 +31886,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.19,
-      "instrumente": 1.87,
-      "summe": 5.06
+      "gesamt": 3.36,
+      "instrumente": 1.66,
+      "summe": 5.01
     }
   },
   {
@@ -34162,6 +34112,22 @@
     }
   },
   {
+    "veroeffentlichung": "2024-10-16",
+    "emittent": {
+      "name": "NAKIKI SE",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Wegerich, Andreas"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 19.22,
+      "instrumente": 0,
+      "summe": 19.22
+    }
+  },
+  {
     "veroeffentlichung": "2006-07-25",
     "emittent": {
       "name": "R. Stahl Aktiengesellschaft",
@@ -34317,6 +34283,24 @@
       "gesamt": 3.01,
       "instrumente": 0,
       "summe": 3.01
+    }
+  },
+  {
+    "veroeffentlichung": "2024-10-22",
+    "emittent": {
+      "name": "JENOPTIK Aktiengesellschaft",
+      "sitz": "Jena",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Wellington Management Group LLP",
+      "sitz": "Boston",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.02,
+      "instrumente": 0.00083,
+      "summe": 3.02
     }
   },
   {
