@@ -1,31 +1,6 @@
 [
   {
     "pzn": [
-      "04913826"
-    ],
-    "enr": [
-      "0801728"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-15",
-    "datumEnde": "2024-10-01",
-    "datumErstmeldung": "2024-01-15",
-    "datumLetzteMeldung": "2024-08-30",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Mitteilung an Dental-Handel und pharmazeutische Großhändler haben stattgefunden",
-    "bezeichnung": "Dontisolon D Mundheilpaste",
-    "atcCode": "A01AC54",
-    "wirkstoffe": "Prednisolonacetat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "SEPTODONT GmbH",
-    "telefon": "+49 89 179251551",
-    "mail": "dominik.gohr@pharmalex.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Dontisolon D Zylinderampullen - Einreichungsnummer: 0801705"
-  },
-  {
-    "pzn": [
       "01016960"
     ],
     "enr": [
@@ -479,7 +454,7 @@
     "atcCode": "A07AA09",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
   },
@@ -502,7 +477,7 @@
     "atcCode": "A07AA09",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
   },
@@ -536,11 +511,11 @@
     "enr": [
       "2189227"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-08-05",
-    "datumEnde": "2024-10-15",
+    "datumEnde": "2024-11-04",
     "datumErstmeldung": "2024-08-05",
-    "datumLetzteMeldung": "2024-08-05",
+    "datumLetzteMeldung": "2024-10-28",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Asacol 800 mg magensaftresistente Tabletten",
@@ -828,7 +803,7 @@
     "atcCode": "A11CC05",
     "wirkstoffe": "Colecalciferol",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
@@ -2236,6 +2211,75 @@
   },
   {
     "pzn": [
+      "13836007"
+    ],
+    "enr": [
+      "2193821"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-01",
+    "datumEnde": "2024-11-30",
+    "datumErstmeldung": "2024-08-01",
+    "datumLetzteMeldung": "2024-10-28",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ezetimib Denk 10 mg Tabletten",
+    "atcCode": "C10AX09",
+    "wirkstoffe": "Ezetimib",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
+    "mail": "theresa.arlt@denkpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Ezetimib Ascend 10 mg Tabletten - Einreichungsnummer: 2199428"
+  },
+  {
+    "pzn": [
+      "13836013"
+    ],
+    "enr": [
+      "2193821"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-01",
+    "datumEnde": "2024-11-30",
+    "datumErstmeldung": "2024-08-01",
+    "datumLetzteMeldung": "2024-10-28",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ezetimib Denk 10 mg Tabletten",
+    "atcCode": "C10AX09",
+    "wirkstoffe": "Ezetimib",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
+    "mail": "theresa.arlt@denkpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Ezetimib Ascend 10 mg Tabletten - Einreichungsnummer: 2199428"
+  },
+  {
+    "pzn": [
+      "16767910"
+    ],
+    "enr": [
+      "2193821"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-01",
+    "datumEnde": "2024-11-30",
+    "datumErstmeldung": "2024-08-01",
+    "datumLetzteMeldung": "2024-10-28",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ezetimib Denk 10 mg Tabletten",
+    "atcCode": "C10AX09",
+    "wirkstoffe": "Ezetimib",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
+    "mail": "theresa.arlt@denkpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Ezetimib Ascend 10 mg Tabletten - Einreichungsnummer: 2199428"
+  },
+  {
+    "pzn": [
       "14035640"
     ],
     "enr": [
@@ -2279,52 +2323,6 @@
     "mail": "ausschreibungen@microlabsgmbh.de",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Ezetimib Micro Labs 10 mg Tabletten - Einreichungsnummer: 2199049"
-  },
-  {
-    "pzn": [
-      "13836007"
-    ],
-    "enr": [
-      "2193821"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-01",
-    "datumEnde": "2024-10-30",
-    "datumErstmeldung": "2024-08-01",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ezetimib Denk 10 mg Tabletten",
-    "atcCode": "C10AX09",
-    "wirkstoffe": "Ezetimib",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
-    "mail": "theresa.arlt@denkpharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Ezetrol 10 mg - Einreichungsnummer: 7011042"
-  },
-  {
-    "pzn": [
-      "16767910"
-    ],
-    "enr": [
-      "2193821"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-01",
-    "datumEnde": "2024-10-30",
-    "datumErstmeldung": "2024-08-01",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ezetimib Denk 10 mg Tabletten",
-    "atcCode": "C10AX09",
-    "wirkstoffe": "Ezetimib",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
-    "mail": "theresa.arlt@denkpharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Ezetrol 10 mg - Einreichungsnummer: 7011042"
   },
   {
     "pzn": [
@@ -2627,7 +2625,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2653,7 +2651,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2679,7 +2677,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2705,7 +2703,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2731,7 +2729,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2757,7 +2755,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2826,7 +2824,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -2849,7 +2847,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -2872,7 +2870,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -3176,7 +3174,7 @@
     "atcCode": "G03DB08",
     "wirkstoffe": "Dienogest",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954247484",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein",
@@ -3200,7 +3198,7 @@
     "atcCode": "G03DB08",
     "wirkstoffe": "Dienogest",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954247484",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein",
@@ -3441,6 +3439,29 @@
     "telefon": "0800 0700 800",
     "mail": "kundenservice@viatris.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16239430"
+    ],
+    "enr": [
+      "2204918"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-25",
+    "datumEnde": "2024-11-22",
+    "datumErstmeldung": "2024-10-28",
+    "datumLetzteMeldung": "2024-10-28",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tamsublock Duo 0,5 mg/0,4 mg Hartkapseln",
+    "atcCode": "G04CA52",
+    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dr. Pfleger Arzneimittel GmbH - Geschäftsanschrift -",
+    "mail": "regaffairs@dr-pfleger.de",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Tamsublock Duo 0,5 mg/0,4 mg Hartkapseln - Einreichungsnummer: 2204918"
   },
   {
     "pzn": [
@@ -7705,11 +7726,11 @@
     "enr": [
       "2201771"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-09-23",
-    "datumEnde": "2024-11-06",
+    "datumEnde": "2024-11-18",
     "datumErstmeldung": "2024-09-18",
-    "datumLetzteMeldung": "2024-09-18",
+    "datumLetzteMeldung": "2024-10-28",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Vinblastin STADA 10 mg Pulver zur Herstellung einer Injektionslösung",
@@ -8808,6 +8829,28 @@
   },
   {
     "pzn": [
+      "07428758"
+    ],
+    "enr": [
+      "2136335"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-20",
+    "datumEnde": "2024-12-15",
+    "datumErstmeldung": "2024-08-23",
+    "datumLetzteMeldung": "2024-10-28",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ultiva 1 mg",
+    "atcCode": "N01AH06",
+    "wirkstoffe": "Remifentanilhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Aspen Pharma Trading Limited",
+    "mail": "de_quality@aspenpharma.eu",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "07428770"
     ],
     "enr": [
@@ -8826,28 +8869,6 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Aspen Pharma Trading Limited",
     "telefon": "08993083800",
-    "mail": "de_quality@aspenpharma.eu",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07428758"
-    ],
-    "enr": [
-      "2136335"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-20",
-    "datumEnde": "2024-10-15",
-    "datumErstmeldung": "2024-08-23",
-    "datumLetzteMeldung": "2024-09-27",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ultiva 1 mg",
-    "atcCode": "N01AH06",
-    "wirkstoffe": "Remifentanilhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Aspen Pharma Trading Limited",
     "mail": "de_quality@aspenpharma.eu",
     "infoFachkreise": "Vorgesehen"
   },
@@ -9013,53 +9034,6 @@
     "zulassungsinhaber": "Aspen Pharma Trading Limited",
     "telefon": "+49 89  93 08 38 00",
     "mail": "de-info@aspenpharma.eu",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03018466"
-    ],
-    "enr": [
-      "0085769"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-29",
-    "datumEnde": "2024-10-01",
-    "datumErstmeldung": "2024-08-30",
-    "datumLetzteMeldung": "2024-08-30",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "keine",
-    "bezeichnung": "Ultracain D-S forte 1:100.000 1,7ml",
-    "atcCode": "N01BB58",
-    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "SEPTODONT GmbH",
-    "telefon": "+49228971260",
-    "mail": "info@septodont.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Ultracain D-S forte 1:100.000 1,7ml - Einreichungsnummer: 0085769"
-  },
-  {
-    "pzn": [
-      "01913843"
-    ],
-    "enr": [
-      "1463512"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-16",
-    "datumEnde": "2024-10-01",
-    "datumErstmeldung": "2024-01-16",
-    "datumLetzteMeldung": "2024-08-30",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ultracain 2%-Suprarenin 50 ml",
-    "atcCode": "N01BB58",
-    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "SEPTODONT GmbH",
-    "telefon": "+49 228 971260",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -9302,6 +9276,29 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
     "mail": "info@aristo-pharma.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06120515"
+    ],
+    "enr": [
+      "2177417"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-02-01",
+    "datumEnde": "2024-10-02",
+    "datumErstmeldung": "2024-08-28",
+    "datumLetzteMeldung": "2024-10-28",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Hydromorphon-STADA 4 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM GmbH",
+    "telefon": "061016032416",
+    "mail": "christiane.georgi@stada.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -9571,52 +9568,6 @@
     "telefon": "0800 0700 800",
     "mail": "kundenservice@viatris.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06120515"
-    ],
-    "enr": [
-      "2177417"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-01",
-    "datumEnde": "2024-10-28",
-    "datumErstmeldung": "2024-08-28",
-    "datumLetzteMeldung": "2024-09-30",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon-STADA 4 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "telefon": "061016032416",
-    "mail": "christiane.georgi@stada.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06120521"
-    ],
-    "enr": [
-      "2177417"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-01",
-    "datumEnde": "2024-10-28",
-    "datumErstmeldung": "2024-08-28",
-    "datumLetzteMeldung": "2024-09-30",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon-STADA 4 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "telefon": "061016032416",
-    "mail": "christiane.georgi@stada.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -12813,6 +12764,50 @@
   },
   {
     "pzn": [
+      "05117333"
+    ],
+    "enr": [
+      "2160225"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-25",
+    "datumEnde": "2024-11-21",
+    "datumErstmeldung": "2023-08-04",
+    "datumLetzteMeldung": "2024-10-28",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Risperidon STADA 4mg Filmtabletten",
+    "atcCode": "N05AX08",
+    "wirkstoffe": "Risperidon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM GmbH",
+    "mail": "Minyoung.seo@stadapharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05117451"
+    ],
+    "enr": [
+      "2160225"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-07-25",
+    "datumEnde": "2024-11-21",
+    "datumErstmeldung": "2023-08-04",
+    "datumLetzteMeldung": "2024-10-28",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Risperidon STADA 4mg Filmtabletten",
+    "atcCode": "N05AX08",
+    "wirkstoffe": "Risperidon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM GmbH",
+    "mail": "Minyoung.seo@stadapharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "02650050"
     ],
     "enr": [
@@ -12899,50 +12894,6 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "ratiopharm GmbH",
     "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05117333"
-    ],
-    "enr": [
-      "2160225"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-25",
-    "datumEnde": "2024-10-24",
-    "datumErstmeldung": "2023-08-04",
-    "datumLetzteMeldung": "2024-08-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Risperidon STADA 4mg Filmtabletten",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "mail": "Minyoung.seo@stadapharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05117451"
-    ],
-    "enr": [
-      "2160225"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-25",
-    "datumEnde": "2024-10-24",
-    "datumErstmeldung": "2023-08-04",
-    "datumLetzteMeldung": "2024-08-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Risperidon STADA 4mg Filmtabletten",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "mail": "Minyoung.seo@stadapharm.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -13476,7 +13427,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -13499,7 +13450,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -13522,7 +13473,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -13544,7 +13495,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16080,7 +16031,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16102,7 +16053,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16124,7 +16075,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16146,7 +16097,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16168,7 +16119,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16190,7 +16141,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16212,7 +16163,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16234,7 +16185,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16256,7 +16207,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16278,7 +16229,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16300,7 +16251,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16322,7 +16273,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16344,7 +16295,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16366,7 +16317,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16388,7 +16339,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16410,7 +16361,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16432,7 +16383,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -17314,7 +17265,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
