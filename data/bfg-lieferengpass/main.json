@@ -467,9 +467,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-08-05",
-    "datumEnde": "2024-11-04",
+    "datumEnde": "2024-11-28",
     "datumErstmeldung": "2024-08-05",
-    "datumLetzteMeldung": "2024-10-28",
+    "datumLetzteMeldung": "2024-11-04",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Asacol 800 mg magensaftresistente Tabletten",
@@ -3065,6 +3065,31 @@
   },
   {
     "pzn": [
+      "09569740"
+    ],
+    "enr": [
+      "2706149",
+      "2706163"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-04",
+    "datumEnde": "2030-01-01",
+    "datumErstmeldung": "2024-11-04",
+    "datumLetzteMeldung": "2024-11-04",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Stärke wird eventuell vom Markt genommen werden",
+    "bezeichnung": "Emselex 7,5 mg Retardtabletten - OP140(14x10)",
+    "atcCode": "G04BD10",
+    "wirkstoffe": "Darifenacinhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "pharmaand GmbH",
+    "mail": "regulatory@pharmaand.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Emselex 7,5 mg Retardtabletten - OP98 - Einreichungsnummer: 2702588"
+  },
+  {
+    "pzn": [
       "02752885"
     ],
     "enr": [
@@ -3226,29 +3251,6 @@
     "mail": "regaffairs@dr-pfleger.de",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Tamsublock Duo 0,5 mg/0,4 mg Hartkapseln - Einreichungsnummer: 2204918"
-  },
-  {
-    "pzn": [
-      "15869850"
-    ],
-    "enr": [
-      "2202152"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-01",
-    "datumEnde": "2024-11-01",
-    "datumErstmeldung": "2023-05-11",
-    "datumLetzteMeldung": "2024-10-04",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Dutasterid-Tamsulosin Zentiva 0,5 mg/0,4 mg Hartkapseln",
-    "atcCode": "G04CA52",
-    "wirkstoffe": "Dutasterid; Tamsulosinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Zentiva Pharma GmbH",
-    "telefon": "0800 53 53 010",
-    "mail": "MedInfo.DE@zentiva.com",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -8206,11 +8208,11 @@
     "enr": [
       "2112773"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-01",
-    "datumEnde": "2024-10-31",
+    "datumEnde": "2024-12-11",
     "datumErstmeldung": "2024-09-18",
-    "datumLetzteMeldung": "2024-09-18",
+    "datumLetzteMeldung": "2024-11-04",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Acemetacin STADA 60 mg Hartkapseln",
@@ -8229,11 +8231,11 @@
     "enr": [
       "2112773"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-01",
-    "datumEnde": "2024-10-31",
+    "datumEnde": "2024-12-11",
     "datumErstmeldung": "2024-09-18",
-    "datumLetzteMeldung": "2024-09-18",
+    "datumLetzteMeldung": "2024-11-04",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Acemetacin STADA 60 mg Hartkapseln",
@@ -8252,11 +8254,11 @@
     "enr": [
       "2112773"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-01",
-    "datumEnde": "2024-10-31",
+    "datumEnde": "2024-12-11",
     "datumErstmeldung": "2024-09-18",
-    "datumLetzteMeldung": "2024-09-18",
+    "datumLetzteMeldung": "2024-11-04",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Acemetacin STADA 60 mg Hartkapseln",
@@ -10985,6 +10987,29 @@
     "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
     "telefon": "0217310600",
     "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02519835"
+    ],
+    "enr": [
+      "0002341"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-01",
+    "datumEnde": "2024-12-31",
+    "datumErstmeldung": "2024-11-04",
+    "datumLetzteMeldung": "2024-11-04",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "n.a.",
+    "bezeichnung": "Phenhydan",
+    "atcCode": "N03AB02",
+    "wirkstoffe": "Phenytoin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
+    "mail": "info@desitin.de",
     "infoFachkreise": "Nein"
   },
   {
@@ -17119,6 +17144,30 @@
   },
   {
     "pzn": [
+      "06894820"
+    ],
+    "enr": [
+      "2129208"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-11-04",
+    "datumEnde": "2025-01-04",
+    "datumErstmeldung": "2024-11-04",
+    "datumLetzteMeldung": "2024-11-04",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Timo-COMOD 0,25%",
+    "atcCode": "S01ED01",
+    "wirkstoffe": "Timololmaleat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Timo-COMOD 0,25% - Einreichungsnummer: 2129208"
+  },
+  {
+    "pzn": [
       "05460172"
     ],
     "enr": [
@@ -17233,6 +17282,30 @@
     "telefon": "068059292188",
     "mail": "christine.funk@ursapharm.de",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00748098"
+    ],
+    "enr": [
+      "0008875"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-04",
+    "datumEnde": "2025-01-06",
+    "datumErstmeldung": "2024-11-04",
+    "datumLetzteMeldung": "2024-11-04",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Neosynephrin-POS 5%",
+    "atcCode": "S01FB01",
+    "wirkstoffe": "Phenylephrinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Neosynephrin-POS 5% - Einreichungsnummer: 0008875"
   },
   {
     "pzn": [
