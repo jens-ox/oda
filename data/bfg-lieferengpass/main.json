@@ -463,6 +463,29 @@
   },
   {
     "pzn": [
+      "18229743"
+    ],
+    "enr": [
+      "7005733"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-10",
+    "datumEnde": "2024-11-10",
+    "datumErstmeldung": "2024-09-11",
+    "datumLetzteMeldung": "2024-11-06",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Kirsty 100 Einheiten/ml Injektionslösung im Fertigpen",
+    "atcCode": "A10AB05",
+    "wirkstoffe": "Insulin aspart",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
+    "mail": "Plx-bioconeulocalaffiliate@pharmalex.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Insulin aspart Sanofi - Einreichungsnummer: 2715149"
+  },
+  {
+    "pzn": [
       "18229766"
     ],
     "enr": [
@@ -506,29 +529,6 @@
     "telefon": "061319031144",
     "mail": "KD_Service@novonordisk.com",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "18229743"
-    ],
-    "enr": [
-      "7005733"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-10",
-    "datumEnde": "2024-10-31",
-    "datumErstmeldung": "2024-09-11",
-    "datumLetzteMeldung": "2024-10-14",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Kirsty 100 Einheiten/ml Injektionslösung im Fertigpen",
-    "atcCode": "A10AB05",
-    "wirkstoffe": "Insulin aspart",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
-    "mail": "Plx-bioconeulocalaffiliate@pharmalex.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Insulin aspart Sanofi - Einreichungsnummer: 2715149"
   },
   {
     "pzn": [
@@ -1350,11 +1350,11 @@
     "enr": [
       "2116182"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-09-15",
-    "datumEnde": "2024-11-15",
+    "datumEnde": "2024-11-30",
     "datumErstmeldung": "2024-09-18",
-    "datumLetzteMeldung": "2024-09-18",
+    "datumLetzteMeldung": "2024-11-06",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Atenolol AL comp.mite",
@@ -1373,11 +1373,11 @@
     "enr": [
       "2116182"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-09-15",
-    "datumEnde": "2024-11-15",
+    "datumEnde": "2024-11-30",
     "datumErstmeldung": "2024-09-18",
-    "datumLetzteMeldung": "2024-09-18",
+    "datumLetzteMeldung": "2024-11-06",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Atenolol AL comp.mite",
@@ -2286,11 +2286,11 @@
     "enr": [
       "2149881"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-08-13",
-    "datumEnde": "2024-11-17",
+    "datumEnde": "2024-12-31",
     "datumErstmeldung": "2024-08-21",
-    "datumLetzteMeldung": "2024-08-21",
+    "datumLetzteMeldung": "2024-11-06",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Karison Crinale",
@@ -2323,7 +2323,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2349,7 +2349,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2375,7 +2375,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2401,7 +2401,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2427,7 +2427,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2453,7 +2453,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2522,7 +2522,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -2545,7 +2545,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -2568,7 +2568,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -2849,7 +2849,7 @@
     "atcCode": "G03DB08",
     "wirkstoffe": "Dienogest",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954247484",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein",
@@ -2873,7 +2873,7 @@
     "atcCode": "G03DB08",
     "wirkstoffe": "Dienogest",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954247484",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein",
@@ -3341,7 +3341,7 @@
     "atcCode": "H04AA01",
     "wirkstoffe": "Glucagon",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Amphastar France Pharmaceuticals",
+    "zulassungsinhaber": "Amphastar France Pharmaceuticals Rechtsform: S.A.S.",
     "telefon": "+33232277102",
     "mail": "franck.vitali@amphastar-france.com",
     "infoFachkreise": "Vorgesehen",
@@ -3366,7 +3366,7 @@
     "atcCode": "H04AA01",
     "wirkstoffe": "Glucagon",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Amphastar France Pharmaceuticals",
+    "zulassungsinhaber": "Amphastar France Pharmaceuticals Rechtsform: S.A.S.",
     "telefon": "+33232277102",
     "mail": "franck.vitali@amphastar-france.com",
     "infoFachkreise": "Vorgesehen",
@@ -6377,11 +6377,11 @@
     "enr": [
       "2108287"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-10-01",
-    "datumEnde": "2025-01-15",
+    "datumEnde": "2025-03-31",
     "datumErstmeldung": "2024-09-20",
-    "datumLetzteMeldung": "2024-09-20",
+    "datumLetzteMeldung": "2024-11-06",
     "grund": "Probleme beim Sonstigen Hersteller",
     "grundArt": "Sonstige",
     "bezeichnung": "Arilin 500 mg",
@@ -6401,11 +6401,11 @@
     "enr": [
       "2108287"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-10-01",
-    "datumEnde": "2025-01-15",
+    "datumEnde": "2025-03-31",
     "datumErstmeldung": "2024-09-20",
-    "datumLetzteMeldung": "2024-09-20",
+    "datumLetzteMeldung": "2024-11-06",
     "grund": "Probleme beim Sonstigen Hersteller",
     "grundArt": "Sonstige",
     "bezeichnung": "Arilin 500 mg",
@@ -6417,6 +6417,53 @@
     "mail": "tatjana.siemens@drwolffgroup.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Arilin 250 mg - Einreichungsnummer: 2106383"
+  },
+  {
+    "pzn": [
+      "18167568"
+    ],
+    "enr": [
+      "2203903"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-05",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-11-06",
+    "datumLetzteMeldung": "2024-11-06",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "n.a.",
+    "bezeichnung": "Fosfomycin Eberth 4 g Pulver zur Herstellung einer Infusionslösung",
+    "atcCode": "J01XX01",
+    "wirkstoffe": "Fosfomycin-Natrium (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+    "mail": "schoeberl@eberth.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18167551"
+    ],
+    "enr": [
+      "2203902"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-05",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-11-06",
+    "datumLetzteMeldung": "2024-11-06",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "n.a.",
+    "bezeichnung": "Fosfomycin Eberth 2 g Pulver zur Herstellung einer Infusionslösung",
+    "atcCode": "J01XX01",
+    "wirkstoffe": "Fosfomycin-Natrium (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+    "mail": "schoeberl@eberth.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Fosfomycin Eberth 2 g Pulver zur Herstellung einer Infusionslösung - Einreichungsnummer: 2203902"
   },
   {
     "pzn": [
@@ -9820,9 +9867,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-10-21",
-    "datumEnde": "2024-11-06",
+    "datumEnde": "2024-11-13",
     "datumErstmeldung": "2024-10-21",
-    "datumLetzteMeldung": "2024-10-30",
+    "datumLetzteMeldung": "2024-11-06",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "SUBUTEX 8 mg",
@@ -11800,6 +11847,52 @@
   },
   {
     "pzn": [
+      "04917391"
+    ],
+    "enr": [
+      "2155123"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-17",
+    "datumEnde": "2025-03-30",
+    "datumErstmeldung": "2024-11-06",
+    "datumLetzteMeldung": "2024-11-06",
+    "grund": "Herstellerwechsel",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Haloperidol-neuraxpharm Decanoat 50 mg/ml",
+    "atcCode": "N05AD01",
+    "wirkstoffe": "Haloperidoldecanoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01332313"
+    ],
+    "enr": [
+      "2155124"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-03",
+    "datumEnde": "2025-03-30",
+    "datumErstmeldung": "2024-11-06",
+    "datumLetzteMeldung": "2024-11-06",
+    "grund": "Herstellerwechsel",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Haloperidol-neuraxpharm Decanoat 100 mg/ml",
+    "atcCode": "N05AD01",
+    "wirkstoffe": "Haloperidoldecanoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "03215445"
     ],
     "enr": [
@@ -12911,7 +13004,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -12934,7 +13027,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -12957,7 +13050,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -12979,7 +13072,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15515,7 +15608,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15537,7 +15630,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15559,7 +15652,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15581,7 +15674,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15603,7 +15696,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15625,7 +15718,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15647,7 +15740,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15669,7 +15762,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15691,7 +15784,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15713,7 +15806,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15735,7 +15828,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15757,7 +15850,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15779,7 +15872,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15801,7 +15894,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15823,7 +15916,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15845,7 +15938,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15867,7 +15960,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16749,7 +16842,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
@@ -17451,11 +17544,11 @@
     "enr": [
       "2165609"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-10-29",
-    "datumEnde": "2024-11-21",
+    "datumEnde": "2024-12-12",
     "datumErstmeldung": "2024-10-14",
-    "datumLetzteMeldung": "2024-10-14",
+    "datumLetzteMeldung": "2024-11-06",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Fosrenol 1000 mg Kautabletten",
