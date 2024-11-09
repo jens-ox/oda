@@ -2096,51 +2096,6 @@
   },
   {
     "pzn": [
-      "04300118"
-    ],
-    "enr": [
-      "2109375"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-16",
-    "datumEnde": "2024-12-01",
-    "datumErstmeldung": "2024-09-18",
-    "datumLetzteMeldung": "2024-10-16",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ureotop + VAS Creme",
-    "atcCode": "D02AE",
-    "wirkstoffe": "Harnstoff; Tretinoin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "mail": "service@dermapharm.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04788663"
-    ],
-    "enr": [
-      "0148671"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-05",
-    "datumEnde": "2024-11-17",
-    "datumErstmeldung": "2024-09-13",
-    "datumLetzteMeldung": "2024-10-02",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Die Packungsgröße 5 g sollte über die Dauer des Lieferengpasses voraussichtlich verfügbar bleiben.",
-    "bezeichnung": "Leukase N Puder",
-    "atcCode": "D06AX",
-    "wirkstoffe": "Framycetinsulfat (1:x) ((mit Angaben zum Schwefelsäure-Gehalt))",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "mail": "service@dermapharm.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "02251924"
     ],
     "enr": [
@@ -2211,30 +2166,6 @@
   },
   {
     "pzn": [
-      "07608992"
-    ],
-    "enr": [
-      "2168148"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-09-17",
-    "datumEnde": "2024-11-17",
-    "datumErstmeldung": "2024-10-01",
-    "datumLetzteMeldung": "2024-10-01",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Vorläufig kann der Produktlieferengpass der PG 100 ml durch die PG 20ml und 50ml aufgefangen werden.",
-    "bezeichnung": "Prednitop Crinale",
-    "atcCode": "D07AC18",
-    "wirkstoffe": "Prednicarbat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "06978020"
     ],
     "enr": [
@@ -2277,7 +2208,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2303,7 +2234,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2329,7 +2260,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2355,7 +2286,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2381,7 +2312,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2407,7 +2338,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2436,29 +2367,6 @@
   },
   {
     "pzn": [
-      "04972444"
-    ],
-    "enr": [
-      "2111619"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-09-25",
-    "datumEnde": "2024-11-17",
-    "datumErstmeldung": "2024-10-02",
-    "datumLetzteMeldung": "2024-10-02",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Doxyderma 50 mg",
-    "atcCode": "D10BX",
-    "wirkstoffe": "Doxycyclin-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "10985801"
     ],
     "enr": [
@@ -2476,7 +2384,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -2499,7 +2407,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -2522,7 +2430,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -2781,7 +2689,7 @@
     "atcCode": "G03DB08",
     "wirkstoffe": "Dienogest",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "034954247484",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein",
@@ -2805,7 +2713,7 @@
     "atcCode": "G03DB08",
     "wirkstoffe": "Dienogest",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "034954247484",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein",
@@ -3074,6 +2982,138 @@
   },
   {
     "pzn": [
+      "01668929"
+    ],
+    "enr": [
+      "2150044"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-08",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-11-08",
+    "datumLetzteMeldung": "2024-11-08",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tera TAD 10mg",
+    "atcCode": "G04CA03",
+    "wirkstoffe": "Terazosinhydrochlorid-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TAD Pharma GmbH",
+    "mail": "regulatory-affairs@tad.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02224896"
+    ],
+    "enr": [
+      "2150044"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-08",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-11-08",
+    "datumLetzteMeldung": "2024-11-08",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tera TAD 10mg",
+    "atcCode": "G04CA03",
+    "wirkstoffe": "Terazosinhydrochlorid-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TAD Pharma GmbH",
+    "mail": "regulatory-affairs@tad.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01668763"
+    ],
+    "enr": [
+      "2150043"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-08",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-11-08",
+    "datumLetzteMeldung": "2024-11-08",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tera TAD 5mg",
+    "atcCode": "G04CA03",
+    "wirkstoffe": "Terazosinhydrochlorid-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TAD Pharma GmbH",
+    "mail": "regulatory-affairs@tad.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02224867"
+    ],
+    "enr": [
+      "2150043"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-08",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-11-08",
+    "datumLetzteMeldung": "2024-11-08",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tera TAD 5mg",
+    "atcCode": "G04CA03",
+    "wirkstoffe": "Terazosinhydrochlorid-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TAD Pharma GmbH",
+    "mail": "regulatory-affairs@tad.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01668622"
+    ],
+    "enr": [
+      "2150042"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-08",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-11-08",
+    "datumLetzteMeldung": "2024-11-08",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tera TAD 2mg",
+    "atcCode": "G04CA03",
+    "wirkstoffe": "Terazosinhydrochlorid-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TAD Pharma GmbH",
+    "mail": "Regulatory-affairs@tad.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02224844"
+    ],
+    "enr": [
+      "2150042"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-08",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-11-08",
+    "datumLetzteMeldung": "2024-11-08",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tera TAD 2mg",
+    "atcCode": "G04CA03",
+    "wirkstoffe": "Terazosinhydrochlorid-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TAD Pharma GmbH",
+    "mail": "Regulatory-affairs@tad.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "16239430"
     ],
     "enr": [
@@ -3273,7 +3313,7 @@
     "atcCode": "H04AA01",
     "wirkstoffe": "Glucagon",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Amphastar France Pharmaceuticals Rechtsform: S.A.S.",
+    "zulassungsinhaber": "Amphastar France Pharmaceuticals",
     "telefon": "+33232277102",
     "mail": "franck.vitali@amphastar-france.com",
     "infoFachkreise": "Vorgesehen",
@@ -3298,11 +3338,35 @@
     "atcCode": "H04AA01",
     "wirkstoffe": "Glucagon",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Amphastar France Pharmaceuticals Rechtsform: S.A.S.",
+    "zulassungsinhaber": "Amphastar France Pharmaceuticals",
     "telefon": "+33232277102",
     "mail": "franck.vitali@amphastar-france.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Glucagen Hypokit - Einreichungsnummer: 2128288"
+  },
+  {
+    "pzn": [
+      "16036709"
+    ],
+    "enr": [
+      "7003895"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-14",
+    "datumEnde": "2024-12-13",
+    "datumErstmeldung": "2024-08-28",
+    "datumLetzteMeldung": "2024-11-08",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cinacalcet Mylan 30 mg Filmtabletten",
+    "atcCode": "H05BX01",
+    "wirkstoffe": "Cinacalcethydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Pharmaceuticals Limited",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Cinacalcet Mylan 30 mg Filmtabletten - OP(28x1) - Einreichungsnummer: 2712187"
   },
   {
     "pzn": [
@@ -3680,64 +3744,16 @@
   },
   {
     "pzn": [
-      "16036709"
-    ],
-    "enr": [
-      "7003895"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-14",
-    "datumEnde": "2024-11-08",
-    "datumErstmeldung": "2024-08-28",
-    "datumLetzteMeldung": "2024-08-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cinacalcet Mylan 30 mg Filmtabletten",
-    "atcCode": "H05BX01",
-    "wirkstoffe": "Cinacalcethydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Pharmaceuticals Limited",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Cinacalcet Mylan 30 mg Filmtabletten - OP(28x1) - Einreichungsnummer: 2712187"
-  },
-  {
-    "pzn": [
-      "16036738"
-    ],
-    "enr": [
-      "2712195"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-14",
-    "datumEnde": "2024-11-08",
-    "datumErstmeldung": "2024-08-28",
-    "datumLetzteMeldung": "2024-08-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cinacalcet Mylan 90 mg Filmtabletten - OP(28x1)",
-    "atcCode": "H05BX01",
-    "wirkstoffe": "Cinacalcethydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Pharmaceuticals Limited",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Cinacalcet Mylan 90 mg Filmtabletten - Einreichungsnummer: 7003897"
-  },
-  {
-    "pzn": [
       "11531551"
     ],
     "enr": [
       "2191494"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-06-02",
-    "datumEnde": "2024-09-30",
+    "datumEnde": "2024-12-31",
     "datumErstmeldung": "2024-07-03",
-    "datumLetzteMeldung": "2024-07-03",
+    "datumLetzteMeldung": "2024-11-08",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Paricalcitol Accord 5 Mikrogramm/ml Injektionslösung",
@@ -3747,8 +3763,7 @@
     "zulassungsinhaber": "Accord Healthcare B.V.",
     "telefon": "+49 89 700 9951 16",
     "mail": "benjamin_uthoff@accord-healthcare.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Paricalcitol Accord 5 Mikrogramm/ml Injektionslösung - Einreichungsnummer: 2191494"
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -3757,11 +3772,11 @@
     "enr": [
       "2191494"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-06-02",
-    "datumEnde": "2024-09-30",
+    "datumEnde": "2024-12-31",
     "datumErstmeldung": "2024-07-03",
-    "datumLetzteMeldung": "2024-07-03",
+    "datumLetzteMeldung": "2024-11-08",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Paricalcitol Accord 5 Mikrogramm/ml Injektionslösung",
@@ -3771,8 +3786,7 @@
     "zulassungsinhaber": "Accord Healthcare B.V.",
     "telefon": "+49 89 700 9951 16",
     "mail": "benjamin_uthoff@accord-healthcare.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Paricalcitol Accord 5 Mikrogramm/ml Injektionslösung - Einreichungsnummer: 2191494"
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -4972,30 +4986,6 @@
     "zulassungsinhaber": "1 A Pharma GmbH",
     "mail": "info@1apharma.com",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04543944"
-    ],
-    "enr": [
-      "0820163"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-01",
-    "datumEnde": "2024-11-22",
-    "datumErstmeldung": "2024-11-01",
-    "datumLetzteMeldung": "2024-11-01",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 600 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "INFECTOMYCIN 400 Saft - Einreichungsnummer: 0610075"
   },
   {
     "pzn": [
@@ -6962,30 +6952,6 @@
   },
   {
     "pzn": [
-      "10309023"
-    ],
-    "enr": [
-      "2189351"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-01",
-    "datumEnde": "2024-10-01",
-    "datumErstmeldung": "2024-07-03",
-    "datumLetzteMeldung": "2024-07-03",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fluorouracil Accord 50 mg/ml Injektions-/Infusionslösung",
-    "atcCode": "L01BC02",
-    "wirkstoffe": "Fluorouracil-Natrium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Accord Healthcare B.V.",
-    "telefon": "+49 89 700 9951 16",
-    "mail": "benjamin_uthoff@accord-healthcare.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Fluorouracil Accord 50 mg/ml Injektions-/Infusionslösung - Einreichungsnummer: 2189351"
-  },
-  {
-    "pzn": [
       "17857472"
     ],
     "enr": [
@@ -7198,6 +7164,28 @@
   },
   {
     "pzn": [
+      "05505940"
+    ],
+    "enr": [
+      "2171688"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-09",
+    "datumEnde": "2024-11-15",
+    "datumErstmeldung": "2024-09-12",
+    "datumLetzteMeldung": "2024-11-08",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Vinblastinsulfat Teva 1 mg/ml Injektionslösung",
+    "atcCode": "L01CA01",
+    "wirkstoffe": "Vinblastinsulfat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "gks-post@ratiopharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "16395667"
     ],
     "enr": [
@@ -7218,28 +7206,6 @@
     "telefon": "061016032416",
     "mail": "christiane.georgi@stada.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05505940"
-    ],
-    "enr": [
-      "2171688"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-09-09",
-    "datumEnde": "2024-10-31",
-    "datumErstmeldung": "2024-09-12",
-    "datumLetzteMeldung": "2024-09-12",
-    "grund": "Probleme bei der Endfreigabe",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Vinblastinsulfat Teva 1 mg/ml Injektionslösung",
-    "atcCode": "L01CA01",
-    "wirkstoffe": "Vinblastinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "gks-post@ratiopharm.de",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -10493,9 +10459,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-07-03",
-    "datumEnde": "2024-11-11",
+    "datumEnde": "2024-11-18",
     "datumErstmeldung": "2023-07-03",
-    "datumLetzteMeldung": "2024-10-15",
+    "datumLetzteMeldung": "2024-11-08",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Eletriptan Bluefish 20 mg Filmtabletten",
@@ -12869,7 +12835,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -12892,7 +12858,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -12915,7 +12881,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -12937,7 +12903,7 @@
     "atcCode": "N06BA04",
     "wirkstoffe": "Methylphenidathydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15473,7 +15439,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15495,7 +15461,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15517,7 +15483,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15539,7 +15505,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15561,7 +15527,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15583,7 +15549,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15605,7 +15571,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15627,7 +15593,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15649,7 +15615,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15671,7 +15637,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15693,7 +15659,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15715,7 +15681,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15737,7 +15703,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15759,7 +15725,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15781,7 +15747,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15803,7 +15769,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15825,7 +15791,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16707,7 +16673,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
@@ -17248,15 +17214,16 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-09-30",
-    "datumEnde": "2024-12-31",
+    "datumEnde": "2025-01-31",
     "datumErstmeldung": "2024-09-30",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme beim Wirkstoffhersteller",
+    "datumLetzteMeldung": "2024-11-08",
+    "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
+    "grundAnmerkung": "Ab Januar 2025 erfolgt die Belieferung der Bestandskunden mit 75 % des durchschnittlichen monatlichen Bedarfes aus 2024. Ab Februar 2025 werden die Bestandskunden wieder mit 100 % der durchschnittlichen monatlichen Bedarfe aus 2024 beliefert.",
     "bezeichnung": "Aqua ad iniectabilia Braun",
     "atcCode": "TERM_ID_NA_2090009828",
     "wirkstoffe": "",
-    "krankenhausrelevant": true,
+    "krankenhausrelevant": false,
     "zulassungsinhaber": "B. Braun Melsungen Aktiengesellschaft",
     "telefon": "0566191477309",
     "mail": "benjamin.strippel@bbraun.com",
@@ -17271,15 +17238,16 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-09-30",
-    "datumEnde": "2024-12-31",
+    "datumEnde": "2025-01-31",
     "datumErstmeldung": "2024-09-30",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme beim Wirkstoffhersteller",
+    "datumLetzteMeldung": "2024-11-08",
+    "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
+    "grundAnmerkung": "Ab Januar 2025 erfolgt die Belieferung der Bestandskunden mit 75 % des durchschnittlichen monatlichen Bedarfes aus 2024. Ab Februar 2025 werden die Bestandskunden wieder mit 100 % der durchschnittlichen monatlichen Bedarfe aus 2024 beliefert.",
     "bezeichnung": "Aqua ad iniectabilia Braun",
     "atcCode": "TERM_ID_NA_2090009828",
     "wirkstoffe": "",
-    "krankenhausrelevant": true,
+    "krankenhausrelevant": false,
     "zulassungsinhaber": "B. Braun Melsungen Aktiengesellschaft",
     "telefon": "0566191477309",
     "mail": "benjamin.strippel@bbraun.com",
@@ -17915,52 +17883,6 @@
   },
   {
     "pzn": [
-      "01957154"
-    ],
-    "enr": [
-      "0697366"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-30",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-09-30",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme beim Wirkstoffhersteller",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Isotone Natriumchloridlösung 0,9 % Braun",
-    "atcCode": "V07AB",
-    "wirkstoffe": "Natriumchlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "B. Braun Melsungen Aktiengesellschaft",
-    "telefon": "0566191477309",
-    "mail": "benjamin.strippel@bbraun.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01957160"
-    ],
-    "enr": [
-      "0697366"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-30",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-09-30",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme beim Wirkstoffhersteller",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Isotone Natriumchloridlösung 0,9 % Braun",
-    "atcCode": "V07AB",
-    "wirkstoffe": "Natriumchlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "B. Braun Melsungen Aktiengesellschaft",
-    "telefon": "0566191477309",
-    "mail": "benjamin.strippel@bbraun.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02183737"
     ],
     "enr": [
@@ -18006,30 +17928,6 @@
     "telefon": "+49 30 800930570",
     "mail": "customerservice.DE@curiumpharma.com",
     "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "00000000"
-    ],
-    "enr": [
-      "2128552"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-10-22",
-    "datumEnde": "2024-11-16",
-    "datumErstmeldung": "2024-10-22",
-    "datumLetzteMeldung": "2024-10-22",
-    "grund": "Sonstige",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ultra-Technekow FM",
-    "atcCode": "V09FX01",
-    "wirkstoffe": "Natrium((99)Mo)molybdat; Natrium((99m)Tc)pertechnetat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Curium Netherlands B.V. HR-Beiname: Mallinckrodt Pharmaceuicals, Curium, Curiumpharma, Mallinckrodt Medical",
-    "telefon": "+49 30 800930570",
-    "mail": "customerservice.DE@curiumpharma.com",
-    "infoFachkreise": "Ja",
-    "alternativPraeparat": "Pertector - Einreichungsnummer: 2180873"
   },
   {
     "pzn": [
