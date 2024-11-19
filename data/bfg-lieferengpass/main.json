@@ -881,29 +881,6 @@
   },
   {
     "pzn": [
-      "08439712"
-    ],
-    "enr": [
-      "0096595"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-01",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-02-20",
-    "datumLetzteMeldung": "2024-07-02",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Lieferengpass bei einem Zulieferer für Glasflaschen. Wegen hoher Auslastung der Produktionsanlagen (Kapazitätsgrenze erreicht) besteht keine Möglichkeit, die ausgefallene Produktionsmenge in der Folge wieder aufzuholen. Die Belieferung mit PZN 08439712 erfolgt mit 80 % des durchschnittlichen Bedarfes der letzten Monate.",
-    "bezeichnung": "Isotonische Kochsalzlösung Fresenius",
-    "atcCode": "B05XA03",
-    "wirkstoffe": "Natriumchlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-    "mail": "anfragen_generics_fluids@fresenius-kabi.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "06178437"
     ],
     "enr": [
@@ -5657,30 +5634,6 @@
   },
   {
     "pzn": [
-      "09637549"
-    ],
-    "enr": [
-      "2184126"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-30",
-    "datumEnde": "2024-09-30",
-    "datumErstmeldung": "2024-05-03",
-    "datumLetzteMeldung": "2024-08-22",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Lack of stock of primary packaging.",
-    "bezeichnung": "Azithromycin HEC 500 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "HEC Pharm GmbH",
-    "telefon": "+4915788121077",
-    "mail": "malte.kinast@hecpharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "05556423"
     ],
     "enr": [
@@ -7244,29 +7197,6 @@
   },
   {
     "pzn": [
-      "16395667"
-    ],
-    "enr": [
-      "2201771"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-23",
-    "datumEnde": "2024-11-18",
-    "datumErstmeldung": "2024-09-18",
-    "datumLetzteMeldung": "2024-10-28",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Vinblastin STADA 10 mg Pulver zur Herstellung einer Injektionslösung",
-    "atcCode": "L01CA01",
-    "wirkstoffe": "Vinblastinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "telefon": "061016032416",
-    "mail": "christiane.georgi@stada.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "05505911"
     ],
     "enr": [
@@ -7429,30 +7359,6 @@
   },
   {
     "pzn": [
-      "08855764"
-    ],
-    "enr": [
-      "2141348"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-15",
-    "datumEnde": "2024-11-15",
-    "datumErstmeldung": "2024-08-13",
-    "datumLetzteMeldung": "2024-08-13",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Etopophos 1000 mg, Pulver zur Herstellung einer Infusionslösung",
-    "atcCode": "L01CB01",
-    "wirkstoffe": "Etoposidphosphat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "telefon": "+49 3834 39 14-526",
-    "mail": "RA-Etopophos@cheplapharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Etopophos 100 mg, Pulver zur Herstellung einer Infusionslösung - Einreichungsnummer: 2135021"
-  },
-  {
-    "pzn": [
       "10757371"
     ],
     "enr": [
@@ -7496,6 +7402,78 @@
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "19294197"
+    ],
+    "enr": [
+      "7012709"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-28",
+    "datumEnde": "2024-12-05",
+    "datumErstmeldung": "2024-11-18",
+    "datumLetzteMeldung": "2024-11-18",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Vyloy",
+    "atcCode": "L01FX31",
+    "wirkstoffe": "Zolbetuximab",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Astellas Pharma Europe B.V.",
+    "telefon": "+49 89 45 44 1299",
+    "mail": "regulatory@astellas.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Vyloy - Einreichungsnummer: 7019918"
+  },
+  {
+    "pzn": [
+      "19294197"
+    ],
+    "enr": [
+      "7012709"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-28",
+    "datumEnde": "2024-12-05",
+    "datumErstmeldung": "2024-11-18",
+    "datumLetzteMeldung": "2024-11-18",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Vyloy",
+    "atcCode": "L01FX31",
+    "wirkstoffe": "Zolbetuximab",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Astellas Pharma Europe B.V.",
+    "telefon": "+49 89 45 44 1299",
+    "mail": "regulatory@astellas.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Vyloy - Einreichungsnummer: 7019918"
+  },
+  {
+    "pzn": [
+      "19294197"
+    ],
+    "enr": [
+      "7012709"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-28",
+    "datumEnde": "2024-12-05",
+    "datumErstmeldung": "2024-11-18",
+    "datumLetzteMeldung": "2024-11-18",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Vyloy",
+    "atcCode": "L01FX31",
+    "wirkstoffe": "Zolbetuximab",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Astellas Pharma Europe B.V.",
+    "telefon": "+49 89 45 44 1299",
+    "mail": "regulatory@astellas.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Vyloy - Einreichungsnummer: 7019918"
   },
   {
     "pzn": [
@@ -12071,50 +12049,6 @@
   },
   {
     "pzn": [
-      "05117333"
-    ],
-    "enr": [
-      "2160225"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-25",
-    "datumEnde": "2024-11-21",
-    "datumErstmeldung": "2023-08-04",
-    "datumLetzteMeldung": "2024-10-28",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Risperidon STADA 4mg Filmtabletten",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "mail": "Minyoung.seo@stadapharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05117451"
-    ],
-    "enr": [
-      "2160225"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-25",
-    "datumEnde": "2024-11-21",
-    "datumErstmeldung": "2023-08-04",
-    "datumLetzteMeldung": "2024-10-28",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Risperidon STADA 4mg Filmtabletten",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "mail": "Minyoung.seo@stadapharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "02650050"
     ],
     "enr": [
@@ -16675,6 +16609,30 @@
   },
   {
     "pzn": [
+      "00835242"
+    ],
+    "enr": [
+      "2129208"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-11-04",
+    "datumEnde": "2025-01-04",
+    "datumErstmeldung": "2024-11-04",
+    "datumLetzteMeldung": "2024-11-18",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Timo-COMOD 0,25%",
+    "atcCode": "S01ED01",
+    "wirkstoffe": "Timololmaleat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Timo-COMOD 0,25% - Einreichungsnummer: 2129208"
+  },
+  {
+    "pzn": [
       "06894820"
     ],
     "enr": [
@@ -16684,7 +16642,7 @@
     "datumBeginn": "2024-11-04",
     "datumEnde": "2025-01-04",
     "datumErstmeldung": "2024-11-04",
-    "datumLetzteMeldung": "2024-11-04",
+    "datumLetzteMeldung": "2024-11-18",
     "grund": "Probleme bei der Endfreigabe",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Timo-COMOD 0,25%",
@@ -17717,6 +17675,54 @@
     "telefon": "+49 30 6293955 0",
     "mail": "alexander.helmke@humedics.de",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04946547"
+    ],
+    "enr": [
+      "0072666"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-18",
+    "datumEnde": "2024-12-20",
+    "datumErstmeldung": "2024-11-18",
+    "datumLetzteMeldung": "2024-11-18",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Stark erhöhte Bestellmengen in den letzten Wochen.",
+    "bezeichnung": "Glucosteril 5 %",
+    "atcCode": "V07AB",
+    "wirkstoffe": "Glucose-Monohydrat (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "telefon": "061726868200",
+    "mail": "anfragen_generics_fluids@fresenius-kabi.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04986191"
+    ],
+    "enr": [
+      "0072666"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-18",
+    "datumEnde": "2024-12-20",
+    "datumErstmeldung": "2024-11-18",
+    "datumLetzteMeldung": "2024-11-18",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Stark erhöhte Bestellmengen in den letzten Wochen.",
+    "bezeichnung": "Glucosteril 5 %",
+    "atcCode": "V07AB",
+    "wirkstoffe": "Glucose-Monohydrat (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "telefon": "061726868200",
+    "mail": "anfragen_generics_fluids@fresenius-kabi.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
