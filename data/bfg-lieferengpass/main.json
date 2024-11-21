@@ -553,29 +553,6 @@
   },
   {
     "pzn": [
-      "00558647"
-    ],
-    "enr": [
-      "2705855"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-06",
-    "datumEnde": "2024-11-20",
-    "datumErstmeldung": "2024-09-09",
-    "datumLetzteMeldung": "2024-10-31",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "NovoRapid 100 E/ml Injektionslösung in Durchstechflasche - OP[5x(1x10ml)]",
-    "atcCode": "A10AB05",
-    "wirkstoffe": "Insulin aspart",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "17987105"
     ],
     "enr": [
@@ -1055,9 +1032,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-19",
-    "datumEnde": "2024-10-31",
+    "datumEnde": "2024-12-15",
     "datumErstmeldung": "2022-12-16",
-    "datumLetzteMeldung": "2024-10-11",
+    "datumLetzteMeldung": "2024-11-19",
     "grund": "Probleme beim Sonstigen Hersteller",
     "grundArt": "Sonstige",
     "bezeichnung": "Urapidil Stragen 60 mg retardierte Hartkapseln",
@@ -1078,9 +1055,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-19",
-    "datumEnde": "2024-10-31",
+    "datumEnde": "2024-12-15",
     "datumErstmeldung": "2022-12-16",
-    "datumLetzteMeldung": "2024-10-11",
+    "datumLetzteMeldung": "2024-11-19",
     "grund": "Probleme beim Sonstigen Hersteller",
     "grundArt": "Sonstige",
     "bezeichnung": "Urapidil Stragen 60 mg retardierte Hartkapseln",
@@ -2093,6 +2070,29 @@
   },
   {
     "pzn": [
+      "04788657"
+    ],
+    "enr": [
+      "0148671"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-15",
+    "datumEnde": "2025-02-02",
+    "datumErstmeldung": "2024-11-20",
+    "datumLetzteMeldung": "2024-11-20",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Leukase N Puder",
+    "atcCode": "D06AX",
+    "wirkstoffe": "Framycetinsulfat (1:x) ((mit Angaben zum Schwefelsäure-Gehalt))",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "02251924"
     ],
     "enr": [
@@ -2163,6 +2163,72 @@
   },
   {
     "pzn": [
+      "08820441"
+    ],
+    "enr": [
+      "2170319"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-06",
+    "datumEnde": "2025-02-21",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Mometason Glenmark 1mg/g Salbe",
+    "atcCode": "D07AC13",
+    "wirkstoffe": "Mometasonfuroat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08820464"
+    ],
+    "enr": [
+      "2170319"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-06",
+    "datumEnde": "2025-02-21",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Mometason Glenmark 1mg/g Salbe",
+    "atcCode": "D07AC13",
+    "wirkstoffe": "Mometasonfuroat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08820470"
+    ],
+    "enr": [
+      "2170319"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-06",
+    "datumEnde": "2025-02-21",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Mometason Glenmark 1mg/g Salbe",
+    "atcCode": "D07AC13",
+    "wirkstoffe": "Mometasonfuroat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "07608986"
     ],
     "enr": [
@@ -2195,7 +2261,30 @@
     "datumBeginn": "2024-08-13",
     "datumEnde": "2024-12-31",
     "datumErstmeldung": "2024-08-21",
-    "datumLetzteMeldung": "2024-11-06",
+    "datumLetzteMeldung": "2024-11-20",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Karison Crinale",
+    "atcCode": "D07AD01",
+    "wirkstoffe": "Clobetasolpropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06978043"
+    ],
+    "enr": [
+      "2149881"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-13",
+    "datumEnde": "2024-12-31",
+    "datumErstmeldung": "2024-08-21",
+    "datumLetzteMeldung": "2024-11-20",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Karison Crinale",
@@ -2365,6 +2454,52 @@
   },
   {
     "pzn": [
+      "11293471"
+    ],
+    "enr": [
+      "2192533"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-12",
+    "datumEnde": "2024-12-29",
+    "datumErstmeldung": "2024-11-20",
+    "datumLetzteMeldung": "2024-11-20",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Soderm plus Lösung 0,64 mg/g + 20 mg/g Lösung zur Anwendung auf der Haut",
+    "atcCode": "D07XC01",
+    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11293494"
+    ],
+    "enr": [
+      "2192533"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-12",
+    "datumEnde": "2024-12-29",
+    "datumErstmeldung": "2024-11-20",
+    "datumLetzteMeldung": "2024-11-20",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Soderm plus Lösung 0,64 mg/g + 20 mg/g Lösung zur Anwendung auf der Haut",
+    "atcCode": "D07XC01",
+    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "02388758"
     ],
     "enr": [
@@ -2453,6 +2588,29 @@
     "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14216063"
+    ],
+    "enr": [
+      "2203861"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-13",
+    "datumEnde": "2024-12-29",
+    "datumErstmeldung": "2024-11-20",
+    "datumLetzteMeldung": "2024-11-20",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tacrolimus Dermapharm 1 mg/g Salbe",
+    "atcCode": "D11AH01",
+    "wirkstoffe": "Tacrolimus-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -3330,29 +3488,6 @@
     "mail": "ra_dach@organon.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Celestone N 0,5 mg/ml - Einreichungsnummer: 2180387"
-  },
-  {
-    "pzn": [
-      "00190905"
-    ],
-    "enr": [
-      "0450944"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-09-30",
-    "datumEnde": "2024-12-04",
-    "datumErstmeldung": "2024-10-09",
-    "datumLetzteMeldung": "2024-10-09",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Celestan Depot",
-    "atcCode": "H02AB01",
-    "wirkstoffe": "Betamethasonacetat (Ph.Eur.); Betamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Organon Healthcare GmbH",
-    "mail": "ra_dach@organon.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Celestan solubile 4 mg - Einreichungsnummer: 0450909"
   },
   {
     "pzn": [
@@ -6379,28 +6514,6 @@
   },
   {
     "pzn": [
-      "11279867"
-    ],
-    "enr": [
-      "2190203"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-10-07",
-    "datumEnde": "2024-11-15",
-    "datumErstmeldung": "2024-10-17",
-    "datumLetzteMeldung": "2024-10-17",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Linezolid - 1 A Pharma 600 mg Filmtabletten",
-    "atcCode": "J01XX08",
-    "wirkstoffe": "Linezolid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "11240606"
     ],
     "enr": [
@@ -6408,9 +6521,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-06-25",
-    "datumEnde": "2024-11-29",
+    "datumEnde": "2025-02-21",
     "datumErstmeldung": "2024-07-02",
-    "datumLetzteMeldung": "2024-10-07",
+    "datumLetzteMeldung": "2024-11-19",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Linezolid Glenmark 600 mg Filmtabletten",
@@ -6430,9 +6543,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-06-25",
-    "datumEnde": "2024-11-29",
+    "datumEnde": "2025-02-21",
     "datumErstmeldung": "2024-07-02",
-    "datumLetzteMeldung": "2024-10-07",
+    "datumLetzteMeldung": "2024-11-19",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Linezolid Glenmark 600 mg Filmtabletten",
@@ -6441,6 +6554,28 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11279867"
+    ],
+    "enr": [
+      "2190203"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-07",
+    "datumEnde": "2024-11-15",
+    "datumErstmeldung": "2024-10-17",
+    "datumLetzteMeldung": "2024-10-17",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Linezolid - 1 A Pharma 600 mg Filmtabletten",
+    "atcCode": "J01XX08",
+    "wirkstoffe": "Linezolid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
     "infoFachkreise": "Nein"
   },
   {
@@ -7429,54 +7564,6 @@
   },
   {
     "pzn": [
-      "19294197"
-    ],
-    "enr": [
-      "7012709"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-28",
-    "datumEnde": "2024-12-05",
-    "datumErstmeldung": "2024-11-18",
-    "datumLetzteMeldung": "2024-11-18",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Vyloy",
-    "atcCode": "L01FX31",
-    "wirkstoffe": "Zolbetuximab",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Astellas Pharma Europe B.V.",
-    "telefon": "+49 89 45 44 1299",
-    "mail": "regulatory@astellas.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Vyloy - Einreichungsnummer: 7019918"
-  },
-  {
-    "pzn": [
-      "19294197"
-    ],
-    "enr": [
-      "7012709"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-28",
-    "datumEnde": "2024-12-05",
-    "datumErstmeldung": "2024-11-18",
-    "datumLetzteMeldung": "2024-11-18",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Vyloy",
-    "atcCode": "L01FX31",
-    "wirkstoffe": "Zolbetuximab",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Astellas Pharma Europe B.V.",
-    "telefon": "+49 89 45 44 1299",
-    "mail": "regulatory@astellas.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Vyloy - Einreichungsnummer: 7019918"
-  },
-  {
-    "pzn": [
       "12468292"
     ],
     "enr": [
@@ -7497,6 +7584,29 @@
     "mail": "service@hexal.com",
     "infoFachkreise": "Ja",
     "alternativPraeparat": "Neocarbo 10 mg/ml - Einreichungsnummer: 2143536"
+  },
+  {
+    "pzn": [
+      "07121540"
+    ],
+    "enr": [
+      "2129789"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-01",
+    "datumEnde": "2024-12-15",
+    "datumErstmeldung": "2024-11-20",
+    "datumLetzteMeldung": "2024-11-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tamoxifen AL 30",
+    "atcCode": "L02BA01",
+    "wirkstoffe": "Tamoxifencitrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -7604,7 +7714,7 @@
     "atcCode": "L03AB11",
     "wirkstoffe": "Peginterferon alfa-2a ((mit Angabe der Molmasse des pegylierten Teils in x kDa))",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "zr pharma& GmbH - Zweigniederlassung Hietzing -",
+    "zulassungsinhaber": "pharmaand GmbH Zweigniederlassung Hietzing",
     "telefon": "+436649189282",
     "mail": "sophie.schobesberger@pharmaand.com",
     "infoFachkreise": "Vorgesehen"
@@ -7628,7 +7738,7 @@
     "atcCode": "L03AB11",
     "wirkstoffe": "Peginterferon alfa-2a ((mit Angabe der Molmasse des pegylierten Teils in x kDa))",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "zr pharma& GmbH - Zweigniederlassung Hietzing -",
+    "zulassungsinhaber": "pharmaand GmbH Zweigniederlassung Hietzing",
     "telefon": "+436649189282",
     "mail": "sophie.schobesberger@pharmaand.com",
     "infoFachkreise": "Vorgesehen"
@@ -7652,7 +7762,7 @@
     "atcCode": "L03AB11",
     "wirkstoffe": "Peginterferon alfa-2a ((mit Angabe der Molmasse des pegylierten Teils in x kDa))",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "zr pharma& GmbH - Zweigniederlassung Hietzing -",
+    "zulassungsinhaber": "pharmaand GmbH Zweigniederlassung Hietzing",
     "telefon": "+436649189282",
     "mail": "sophie.schobesberger@pharmaand.com",
     "infoFachkreise": "Vorgesehen"
@@ -7675,7 +7785,7 @@
     "atcCode": "L03AB11",
     "wirkstoffe": "Peginterferon alfa-2a ((mit Angabe der Molmasse des pegylierten Teils in x kDa))",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "zr pharma& GmbH - Zweigniederlassung Hietzing -",
+    "zulassungsinhaber": "pharmaand GmbH Zweigniederlassung Hietzing",
     "telefon": "+436649189282",
     "mail": "sophie.schobesberger@pharmaand.com",
     "infoFachkreise": "Vorgesehen"
@@ -7854,9 +7964,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-06-20",
-    "datumEnde": "2024-12-27",
+    "datumEnde": "2025-02-28",
     "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-07",
+    "datumLetzteMeldung": "2024-11-19",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Fingolimod Glenmark 0,5 mg Hartkapseln",
@@ -7876,9 +7986,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-06-20",
-    "datumEnde": "2024-12-27",
+    "datumEnde": "2025-02-28",
     "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-07",
+    "datumLetzteMeldung": "2024-11-19",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Fingolimod Glenmark 0,5 mg Hartkapseln",
@@ -8667,6 +8777,72 @@
   },
   {
     "pzn": [
+      "13925490"
+    ],
+    "enr": [
+      "2185921"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-25",
+    "datumEnde": "2024-12-27",
+    "datumErstmeldung": "2024-10-07",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-HCl Glenmark 8 mg Hartkapseln, retardiert",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13925426"
+    ],
+    "enr": [
+      "2185920"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-28",
+    "datumEnde": "2025-02-21",
+    "datumErstmeldung": "2024-09-02",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-HCl Glenmark 4 mg Hartkapseln, retardiert",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13925432"
+    ],
+    "enr": [
+      "2185920"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-28",
+    "datumEnde": "2025-02-21",
+    "datumErstmeldung": "2024-09-02",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-HCl Glenmark 4 mg Hartkapseln, retardiert",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "09229106"
     ],
     "enr": [
@@ -8871,94 +9047,6 @@
     "mail": "service@hexal.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Hydromorphon-HEXAL 1,3 mg Hartkapseln - Einreichungsnummer: 2190942"
-  },
-  {
-    "pzn": [
-      "13925490"
-    ],
-    "enr": [
-      "2185921"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-09-25",
-    "datumEnde": "2024-11-29",
-    "datumErstmeldung": "2024-10-07",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HCl Glenmark 8 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13925426"
-    ],
-    "enr": [
-      "2185920"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-28",
-    "datumEnde": "2025-02-07",
-    "datumErstmeldung": "2024-09-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HCl Glenmark 4 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13925432"
-    ],
-    "enr": [
-      "2185920"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-28",
-    "datumEnde": "2025-02-07",
-    "datumErstmeldung": "2024-09-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HCl Glenmark 4 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13925449"
-    ],
-    "enr": [
-      "2185920"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-28",
-    "datumEnde": "2025-02-07",
-    "datumErstmeldung": "2024-09-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HCl Glenmark 4 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -9690,9 +9778,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-10-21",
-    "datumEnde": "2024-11-20",
+    "datumEnde": "2024-11-27",
     "datumErstmeldung": "2024-10-21",
-    "datumLetzteMeldung": "2024-11-13",
+    "datumLetzteMeldung": "2024-11-20",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "SUBUTEX 8 mg",
@@ -10134,27 +10222,69 @@
   },
   {
     "pzn": [
-      "07717184"
+      "09947043"
     ],
     "enr": [
-      "2178789"
+      "2176202"
     ],
     "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-02",
-    "datumEnde": "2024-09-30",
-    "datumErstmeldung": "2024-05-02",
-    "datumLetzteMeldung": "2024-05-02",
+    "datumBeginn": "2024-04-12",
+    "datumEnde": "2025-01-10",
+    "datumErstmeldung": "2024-04-30",
+    "datumLetzteMeldung": "2024-11-19",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Es handelt sich nicht um einen vollständigen Lieferengpass sondern um eine eingeschränkte Lieferfähigkeit auf Grund einer vollständigen Auslastung der Produktionslinie. Die Belieferung erfolgt mit 80 % des durchschnittlichen Bedarfes der vorangegangenen Monate.",
-    "bezeichnung": "Paracetamol Kabi 10 mg/ml Infusionslösung",
-    "atcCode": "N02BE01",
-    "wirkstoffe": "Paracetamol",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-    "telefon": "061726867883",
-    "mail": "frank.jethon@fresenius-kabi.com",
-    "infoFachkreise": "Vorgesehen"
+    "bezeichnung": "Rizatriptan Glenmark 5 mg Tabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09947066"
+    ],
+    "enr": [
+      "2176202"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-12",
+    "datumEnde": "2025-01-10",
+    "datumErstmeldung": "2024-04-30",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 5 mg Tabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09947072"
+    ],
+    "enr": [
+      "2176202"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-12",
+    "datumEnde": "2025-01-10",
+    "datumErstmeldung": "2024-04-30",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 5 mg Tabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -10400,50 +10530,6 @@
   },
   {
     "pzn": [
-      "09947043"
-    ],
-    "enr": [
-      "2176202"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-12",
-    "datumEnde": "2025-01-10",
-    "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 5 mg Tabletten",
-    "atcCode": "N02CC04",
-    "wirkstoffe": "Rizatriptanbenzoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09947066"
-    ],
-    "enr": [
-      "2176202"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-12",
-    "datumEnde": "2025-01-10",
-    "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 5 mg Tabletten",
-    "atcCode": "N02CC04",
-    "wirkstoffe": "Rizatriptanbenzoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "14292199"
     ],
     "enr": [
@@ -10451,9 +10537,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-07-03",
-    "datumEnde": "2024-11-18",
+    "datumEnde": "2024-11-30",
     "datumErstmeldung": "2023-07-03",
-    "datumLetzteMeldung": "2024-11-08",
+    "datumLetzteMeldung": "2024-11-19",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Eletriptan Bluefish 20 mg Filmtabletten",
@@ -11873,16 +11959,104 @@
   },
   {
     "pzn": [
+      "16031675"
+    ],
+    "enr": [
+      "2202519"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-16",
+    "datumEnde": "2025-01-24",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 400 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16031617"
+    ],
+    "enr": [
+      "2202518"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-16",
+    "datumEnde": "2025-01-24",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16031646"
+    ],
+    "enr": [
+      "2202518"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-16",
+    "datumEnde": "2025-01-24",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16031563"
+    ],
+    "enr": [
+      "2202517"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-30",
+    "datumEnde": "2025-01-24",
+    "datumErstmeldung": "2024-10-07",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "16031592"
     ],
     "enr": [
       "2202517"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-09-30",
-    "datumEnde": "2024-11-29",
+    "datumEnde": "2025-01-24",
     "datumErstmeldung": "2024-10-07",
-    "datumLetzteMeldung": "2024-10-07",
+    "datumLetzteMeldung": "2024-11-19",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Quetiapin Glenmark 200 mg Retardtabletten",
@@ -11900,11 +12074,33 @@
     "enr": [
       "2202516"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-09-09",
-    "datumEnde": "2024-11-29",
+    "datumEnde": "2025-01-24",
     "datumErstmeldung": "2024-10-07",
-    "datumLetzteMeldung": "2024-10-07",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 150 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16031511"
+    ],
+    "enr": [
+      "2202516"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-09",
+    "datumEnde": "2025-01-24",
+    "datumErstmeldung": "2024-10-07",
+    "datumLetzteMeldung": "2024-11-19",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Quetiapin Glenmark 150 mg Retardtabletten",
@@ -11924,9 +12120,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-06-24",
-    "datumEnde": "2024-11-29",
+    "datumEnde": "2025-01-24",
     "datumErstmeldung": "2024-07-02",
-    "datumLetzteMeldung": "2024-10-07",
+    "datumLetzteMeldung": "2024-11-19",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Quetiapin Glenmark 50 mg Retardtabletten",
@@ -11946,9 +12142,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-06-24",
-    "datumEnde": "2024-11-29",
+    "datumEnde": "2025-01-24",
     "datumErstmeldung": "2024-07-02",
-    "datumLetzteMeldung": "2024-10-07",
+    "datumLetzteMeldung": "2024-11-19",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Quetiapin Glenmark 50 mg Retardtabletten",
@@ -11968,9 +12164,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-06-24",
-    "datumEnde": "2024-11-29",
+    "datumEnde": "2025-01-24",
     "datumErstmeldung": "2024-07-02",
-    "datumLetzteMeldung": "2024-10-07",
+    "datumLetzteMeldung": "2024-11-19",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Quetiapin Glenmark 50 mg Retardtabletten",
@@ -12144,11 +12340,11 @@
     "enr": [
       "2103121"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-10-31",
-    "datumEnde": "2024-11-15",
+    "datumEnde": "2024-12-15",
     "datumErstmeldung": "2024-11-05",
-    "datumLetzteMeldung": "2024-11-05",
+    "datumLetzteMeldung": "2024-11-19",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Oxazepam AL 10",
@@ -12167,11 +12363,11 @@
     "enr": [
       "2103121"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-10-31",
-    "datumEnde": "2024-11-15",
+    "datumEnde": "2024-12-15",
     "datumErstmeldung": "2024-11-05",
-    "datumLetzteMeldung": "2024-11-05",
+    "datumLetzteMeldung": "2024-11-19",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Oxazepam AL 10",
@@ -12438,9 +12634,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-29",
-    "datumEnde": "2024-12-27",
+    "datumEnde": "2025-01-24",
     "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-04",
+    "datumLetzteMeldung": "2024-11-19",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Trazodon Glenmark 100 mg Tabletten",
@@ -12460,9 +12656,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-29",
-    "datumEnde": "2024-12-27",
+    "datumEnde": "2025-01-24",
     "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-04",
+    "datumLetzteMeldung": "2024-11-19",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Trazodon Glenmark 100 mg Tabletten",
@@ -13074,6 +13270,358 @@
     "telefon": "0800 7910010",
     "mail": "jancil@its.jnj.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "15211607"
+    ],
+    "enr": [
+      "2200190"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-08-02",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 80 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211636"
+    ],
+    "enr": [
+      "2200190"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-08-02",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 80 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211582"
+    ],
+    "enr": [
+      "2200189"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-08-02",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 60 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "15211599"
+    ],
+    "enr": [
+      "2200189"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-08-02",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 60 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "15211530"
+    ],
+    "enr": [
+      "2200188"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-08-02",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 40 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211547"
+    ],
+    "enr": [
+      "2200188"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-08-02",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 40 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211553"
+    ],
+    "enr": [
+      "2200188"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-08-02",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 40 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211501"
+    ],
+    "enr": [
+      "2200187"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-08-02",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 25 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211518"
+    ],
+    "enr": [
+      "2200187"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-08-02",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 25 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211524"
+    ],
+    "enr": [
+      "2200187"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-08-02",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 25 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211487"
+    ],
+    "enr": [
+      "2200186"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-08-02",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 18 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211493"
+    ],
+    "enr": [
+      "2200186"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-08-02",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 18 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211642"
+    ],
+    "enr": [
+      "2200191"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-08-02",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 100 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211659"
+    ],
+    "enr": [
+      "2200191"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-08-02",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 100 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211464"
+    ],
+    "enr": [
+      "2200185"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-08-02",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 10 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15211470"
+    ],
+    "enr": [
+      "2200185"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-13",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-08-02",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Glenmark 10 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -13953,358 +14501,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
     "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15211464"
-    ],
-    "enr": [
-      "2200185"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-13",
-    "datumEnde": "2024-12-27",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Glenmark 10 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15211470"
-    ],
-    "enr": [
-      "2200185"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-13",
-    "datumEnde": "2024-12-27",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Glenmark 10 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15211642"
-    ],
-    "enr": [
-      "2200191"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-13",
-    "datumEnde": "2024-12-27",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Glenmark 100 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15211659"
-    ],
-    "enr": [
-      "2200191"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-13",
-    "datumEnde": "2024-12-27",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Glenmark 100 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15211487"
-    ],
-    "enr": [
-      "2200186"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-13",
-    "datumEnde": "2024-12-27",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Glenmark 18 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15211493"
-    ],
-    "enr": [
-      "2200186"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-13",
-    "datumEnde": "2024-12-27",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Glenmark 18 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15211501"
-    ],
-    "enr": [
-      "2200187"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-13",
-    "datumEnde": "2024-12-27",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Glenmark 25 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15211518"
-    ],
-    "enr": [
-      "2200187"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-13",
-    "datumEnde": "2024-12-27",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Glenmark 25 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15211524"
-    ],
-    "enr": [
-      "2200187"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-13",
-    "datumEnde": "2024-12-27",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Glenmark 25 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15211530"
-    ],
-    "enr": [
-      "2200188"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-13",
-    "datumEnde": "2024-12-27",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Glenmark 40 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15211547"
-    ],
-    "enr": [
-      "2200188"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-13",
-    "datumEnde": "2024-12-27",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Glenmark 40 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15211553"
-    ],
-    "enr": [
-      "2200188"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-13",
-    "datumEnde": "2024-12-27",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Glenmark 40 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15211582"
-    ],
-    "enr": [
-      "2200189"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-13",
-    "datumEnde": "2024-12-27",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Glenmark 60 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "15211599"
-    ],
-    "enr": [
-      "2200189"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-13",
-    "datumEnde": "2024-12-27",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Glenmark 60 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "15211607"
-    ],
-    "enr": [
-      "2200190"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-13",
-    "datumEnde": "2024-12-27",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Glenmark 80 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15211636"
-    ],
-    "enr": [
-      "2200190"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-13",
-    "datumEnde": "2024-12-27",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Glenmark 80 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
-    "mail": "Service.De@glenmarkpharma.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -15543,6 +15739,160 @@
   },
   {
     "pzn": [
+      "14135502"
+    ],
+    "enr": [
+      "2182175"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-17",
+    "datumEnde": "2025-01-24",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Glenmark 24 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14135459"
+    ],
+    "enr": [
+      "2182174"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-02",
+    "datumEnde": "2025-01-24",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Glenmark 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14135465"
+    ],
+    "enr": [
+      "2182174"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-02",
+    "datumEnde": "2025-01-24",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Glenmark 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14135471"
+    ],
+    "enr": [
+      "2182174"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-02",
+    "datumEnde": "2025-01-24",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Glenmark 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14135413"
+    ],
+    "enr": [
+      "2182173"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-07",
+    "datumEnde": "2025-01-24",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Glenmark 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14135436"
+    ],
+    "enr": [
+      "2182173"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-07",
+    "datumEnde": "2025-01-24",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Glenmark 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14135442"
+    ],
+    "enr": [
+      "2182173"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-07",
+    "datumEnde": "2025-01-24",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Glenmark 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "00143024"
     ],
     "enr": [
@@ -16609,6 +16959,76 @@
   },
   {
     "pzn": [
+      "00835259"
+    ],
+    "enr": [
+      "2129207"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-19",
+    "datumEnde": "2025-01-31",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Timo-COMOD 0,5%",
+    "atcCode": "S01ED01",
+    "wirkstoffe": "Timololmaleat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Timo-COMOD 0,5% - Einreichungsnummer: 2129207"
+  },
+  {
+    "pzn": [
+      "05460172"
+    ],
+    "enr": [
+      "2130661"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-21",
+    "datumEnde": "2024-12-31",
+    "datumErstmeldung": "2024-08-21",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Timo-COMOD 0,1%",
+    "atcCode": "S01ED01",
+    "wirkstoffe": "Timololmaleat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06894814"
+    ],
+    "enr": [
+      "2130661"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-21",
+    "datumEnde": "2024-12-31",
+    "datumErstmeldung": "2024-08-21",
+    "datumLetzteMeldung": "2024-11-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Timo-COMOD 0,1%",
+    "atcCode": "S01ED01",
+    "wirkstoffe": "Timololmaleat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "00835242"
     ],
     "enr": [
@@ -16654,30 +17074,6 @@
     "mail": "christine.funk@ursapharm.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Timo-COMOD 0,25% - Einreichungsnummer: 2129208"
-  },
-  {
-    "pzn": [
-      "05460172"
-    ],
-    "enr": [
-      "2130661"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-21",
-    "datumEnde": "2024-11-30",
-    "datumErstmeldung": "2024-08-21",
-    "datumLetzteMeldung": "2024-10-23",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Timo-COMOD 0,1%",
-    "atcCode": "S01ED01",
-    "wirkstoffe": "Timololmaleat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Timo-COMOD 0,1% - Einreichungsnummer: 2130661"
   },
   {
     "pzn": [
@@ -17723,30 +18119,6 @@
     "telefon": "061726868200",
     "mail": "anfragen_generics_fluids@fresenius-kabi.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02183737"
-    ],
-    "enr": [
-      "2122523"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-03",
-    "datumEnde": "2024-11-01",
-    "datumErstmeldung": "2023-05-15",
-    "datumLetzteMeldung": "2023-11-06",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "PERITRAST RE/36 %",
-    "atcCode": "V08AA",
-    "wirkstoffe": "Amidotrizoesäure-Lysin-Salz",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Franz Köhler Chemie Gesellschaft mit beschränkter Haftung",
-    "telefon": "+49 6251 1083 373",
-    "mail": "info@koehler-chemie.de",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "GASTROLUX RE 180 mg/ml Lösung - Einreichungsnummer: 2165147"
   },
   {
     "pzn": [
