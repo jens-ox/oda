@@ -353,9 +353,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-02-27",
-    "datumEnde": "2024-11-30",
+    "datumEnde": "2025-01-31",
     "datumErstmeldung": "2024-03-14",
-    "datumLetzteMeldung": "2024-10-04",
+    "datumLetzteMeldung": "2024-12-05",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Pylera 140 mg/125 mg/125 mg Hartkapseln",
@@ -460,6 +460,53 @@
     "telefon": "0800 52 52 010",
     "mail": "medinfo.de@sanofi.com",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00558647"
+    ],
+    "enr": [
+      "2705855"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-05",
+    "datumEnde": "2024-12-19",
+    "datumErstmeldung": "2024-12-05",
+    "datumLetzteMeldung": "2024-12-05",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "NovoRapid 100 E/ml Injektionslösung in Durchstechflasche - OP[5x(1x10ml)]",
+    "atcCode": "A10AB05",
+    "wirkstoffe": "Insulin aspart",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16634474"
+    ],
+    "enr": [
+      "7001469"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-05",
+    "datumEnde": "2024-12-19",
+    "datumErstmeldung": "2024-12-05",
+    "datumLetzteMeldung": "2024-12-05",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fiasp",
+    "atcCode": "A10AB05",
+    "wirkstoffe": "Insulin aspart",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "NovoRapid PumpCart 100 E/ml Injektionslösung in Patrone - OP[5x(5x1,6ml)] - Einreichungsnummer: 2712151"
   },
   {
     "pzn": [
@@ -598,6 +645,30 @@
     "telefon": "0800 0700 800",
     "mail": "kundenservice@viatris.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "15635431"
+    ],
+    "enr": [
+      "2674701"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-05",
+    "datumEnde": "2024-12-19",
+    "datumErstmeldung": "2024-12-05",
+    "datumLetzteMeldung": "2024-12-05",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Esperoct",
+    "atcCode": "B02BD02",
+    "wirkstoffe": "Turoctocog alfa pegol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Esperoct - Einreichungsnummer: 7011001"
   },
   {
     "pzn": [
@@ -879,6 +950,167 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Bioprojet Pharma",
     "mail": "medinfo@bioprojet.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07666618"
+    ],
+    "enr": [
+      "2150171"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-01",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-12-05",
+    "datumLetzteMeldung": "2024-12-05",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "ISMN STADA 50 mg Hartkapseln, retardiert",
+    "atcCode": "C01DA14",
+    "wirkstoffe": "Isosorbidmononitrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM GmbH",
+    "telefon": "061016032416",
+    "mail": "christiane.georgi@stada.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04874138"
+    ],
+    "enr": [
+      "2111257"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-01",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-12-05",
+    "datumLetzteMeldung": "2024-12-05",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "ISMN STADA 40 mg Tabletten",
+    "atcCode": "C01DA14",
+    "wirkstoffe": "Isosorbidmononitrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM GmbH",
+    "telefon": "061016032416",
+    "mail": "christiane.georgi@stada.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04874090"
+    ],
+    "enr": [
+      "2111256"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-01",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-12-05",
+    "datumLetzteMeldung": "2024-12-05",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "ISMN STADA 20 mg Tabletten",
+    "atcCode": "C01DA14",
+    "wirkstoffe": "Isosorbidmononitrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM GmbH",
+    "telefon": "061016032416",
+    "mail": "christiane.georgi@stada.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04874109"
+    ],
+    "enr": [
+      "2111256"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-01",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-12-05",
+    "datumLetzteMeldung": "2024-12-05",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "ISMN STADA 20 mg Tabletten",
+    "atcCode": "C01DA14",
+    "wirkstoffe": "Isosorbidmononitrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM GmbH",
+    "telefon": "061016032416",
+    "mail": "christiane.georgi@stada.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04948931"
+    ],
+    "enr": [
+      "2125092"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-01",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-12-05",
+    "datumLetzteMeldung": "2024-12-05",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ISMN AL40 retard",
+    "atcCode": "C01DA14",
+    "wirkstoffe": "Isosorbidmononitrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04948948"
+    ],
+    "enr": [
+      "2125092"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-01",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-12-05",
+    "datumLetzteMeldung": "2024-12-05",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ISMN AL40 retard",
+    "atcCode": "C01DA14",
+    "wirkstoffe": "Isosorbidmononitrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01061162"
+    ],
+    "enr": [
+      "2149852"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-01",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-12-05",
+    "datumLetzteMeldung": "2024-12-05",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ISMN AL 100 retard",
+    "atcCode": "C01DA14",
+    "wirkstoffe": "Isosorbidmononitrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -6591,11 +6823,11 @@
     "enr": [
       "2196572"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-09-27",
-    "datumEnde": "2024-12-13",
+    "datumEnde": "2025-01-06",
     "datumErstmeldung": "2024-10-01",
-    "datumLetzteMeldung": "2024-10-01",
+    "datumLetzteMeldung": "2024-12-05",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Caspofungin Mylan 70 mg Pulver für ein Konzentrat zur Herstellung einer Infusionslösung",
@@ -6701,182 +6933,6 @@
   },
   {
     "pzn": [
-      "11861975"
-    ],
-    "enr": [
-      "2613595"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-01-01",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2022-10-05",
-    "datumLetzteMeldung": "2023-11-27",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Panzyga",
-    "atcCode": "J06BA02",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Octapharma GmbH",
-    "mail": "thomas.franken@octapharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11862213"
-    ],
-    "enr": [
-      "2613595"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-01-01",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2022-10-05",
-    "datumLetzteMeldung": "2023-11-27",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Panzyga",
-    "atcCode": "J06BA02",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Octapharma GmbH",
-    "mail": "thomas.franken@octapharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11862225"
-    ],
-    "enr": [
-      "2613595"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-01-01",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2022-10-05",
-    "datumLetzteMeldung": "2023-11-27",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Panzyga",
-    "atcCode": "J06BA02",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Octapharma GmbH",
-    "mail": "thomas.franken@octapharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11862236"
-    ],
-    "enr": [
-      "2613595"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-01-01",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2022-10-05",
-    "datumLetzteMeldung": "2023-11-27",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Panzyga",
-    "atcCode": "J06BA02",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Octapharma GmbH",
-    "mail": "thomas.franken@octapharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11862242"
-    ],
-    "enr": [
-      "2613595"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-01-01",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2022-10-05",
-    "datumLetzteMeldung": "2023-11-27",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Panzyga",
-    "atcCode": "J06BA02",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Octapharma GmbH",
-    "mail": "thomas.franken@octapharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11862294"
-    ],
-    "enr": [
-      "2613595"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-01-01",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2022-10-05",
-    "datumLetzteMeldung": "2023-11-27",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Panzyga",
-    "atcCode": "J06BA02",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Octapharma GmbH",
-    "mail": "thomas.franken@octapharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11862302"
-    ],
-    "enr": [
-      "2613595"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-01-01",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2022-10-05",
-    "datumLetzteMeldung": "2023-11-27",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Panzyga",
-    "atcCode": "J06BA02",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Octapharma GmbH",
-    "mail": "thomas.franken@octapharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11862319"
-    ],
-    "enr": [
-      "2613595"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-01-01",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2022-10-05",
-    "datumLetzteMeldung": "2023-11-27",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Panzyga",
-    "atcCode": "J06BA02",
-    "wirkstoffe": "Immunglobulin G vom Menschen",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Octapharma GmbH",
-    "mail": "thomas.franken@octapharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "07587132"
     ],
     "enr": [
@@ -6920,6 +6976,29 @@
     "zulassungsinhaber": "Medac Gesellschaft für klinische Spezialpräparate m.b.H.",
     "mail": "bfarm-meldung@medac.de",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11123929"
+    ],
+    "enr": [
+      "2190741"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-29",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-12-05",
+    "datumLetzteMeldung": "2024-12-05",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Erhöhte Nachfrage durch Lieferengpass eines Mitbewebers",
+    "bezeichnung": "Fludarabin Accord 25 mg/ml Konzentrat zur Herstellung einer Injektions- /Infusionslösung",
+    "atcCode": "L01BB05",
+    "wirkstoffe": "Fludarabinphosphat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_anders@accord-healthcare.com",
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -10522,6 +10601,78 @@
   },
   {
     "pzn": [
+      "00914102"
+    ],
+    "enr": [
+      "2113715"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-21",
+    "datumEnde": "2025-08-15",
+    "datumErstmeldung": "2024-12-05",
+    "datumLetzteMeldung": "2024-12-05",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "carbadura 300 mg retard",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Germany GmbH",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "carbadura 600 mg retard - Einreichungsnummer: 2131193"
+  },
+  {
+    "pzn": [
+      "00914119"
+    ],
+    "enr": [
+      "2113715"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-21",
+    "datumEnde": "2025-08-15",
+    "datumErstmeldung": "2024-12-05",
+    "datumLetzteMeldung": "2024-12-05",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "carbadura 300 mg retard",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Germany GmbH",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "carbadura 600 mg retard - Einreichungsnummer: 2131193"
+  },
+  {
+    "pzn": [
+      "00914125"
+    ],
+    "enr": [
+      "2113715"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-21",
+    "datumEnde": "2025-08-15",
+    "datumErstmeldung": "2024-12-05",
+    "datumLetzteMeldung": "2024-12-05",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "carbadura 300 mg retard",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Germany GmbH",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "carbadura 600 mg retard - Einreichungsnummer: 2131193"
+  },
+  {
+    "pzn": [
       "05507459"
     ],
     "enr": [
@@ -11394,6 +11545,30 @@
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03131688"
+    ],
+    "enr": [
+      "2143570"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-16",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-12-05",
+    "datumLetzteMeldung": "2024-12-05",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cabaseril 2 mg",
+    "atcCode": "N04BC06",
+    "wirkstoffe": "Cabergolin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Cabaseril 2 mg - Einreichungsnummer: 2143570"
   },
   {
     "pzn": [
