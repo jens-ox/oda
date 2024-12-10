@@ -1099,9 +1099,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-07-20",
-    "datumEnde": "2024-11-30",
+    "datumEnde": "2025-03-31",
     "datumErstmeldung": "2023-08-21",
-    "datumLetzteMeldung": "2024-11-05",
+    "datumLetzteMeldung": "2024-12-09",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "grundAnmerkung": "High sales during past few monthCalculated need (packages current calendar year) 1020 packages",
@@ -2711,52 +2711,6 @@
     "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11293471"
-    ],
-    "enr": [
-      "2192533"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-12",
-    "datumEnde": "2024-12-29",
-    "datumErstmeldung": "2024-11-20",
-    "datumLetzteMeldung": "2024-11-20",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Soderm plus Lösung 0,64 mg/g + 20 mg/g Lösung zur Anwendung auf der Haut",
-    "atcCode": "D07XC01",
-    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11293494"
-    ],
-    "enr": [
-      "2192533"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-12",
-    "datumEnde": "2024-12-29",
-    "datumErstmeldung": "2024-11-20",
-    "datumLetzteMeldung": "2024-11-20",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Soderm plus Lösung 0,64 mg/g + 20 mg/g Lösung zur Anwendung auf der Haut",
-    "atcCode": "D07XC01",
-    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -4691,30 +4645,6 @@
   },
   {
     "pzn": [
-      "06648311"
-    ],
-    "enr": [
-      "2124662"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-26",
-    "datumEnde": "2024-12-20",
-    "datumErstmeldung": "2024-09-16",
-    "datumLetzteMeldung": "2024-10-11",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectomox 500 Saft",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Infectomox 750 Saft - Einreichungsnummer: 0727386"
-  },
-  {
-    "pzn": [
       "07574394"
     ],
     "enr": [
@@ -4753,6 +4683,99 @@
     "bezeichnung": "Infectomox 250 Saft",
     "atcCode": "J01CA04",
     "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03124978"
+    ],
+    "enr": [
+      "0156647"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-09",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-12-09",
+    "datumLetzteMeldung": "2024-12-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOCILLIN 400 Saft",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "INFECTOCILLIN 400 Saft - Einreichungsnummer: 0156647"
+  },
+  {
+    "pzn": [
+      "04257888"
+    ],
+    "enr": [
+      "0149618"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-07",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2023-07-07",
+    "datumLetzteMeldung": "2024-12-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocillin 500 Saft",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06649606"
+    ],
+    "enr": [
+      "0149618"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-07",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2023-07-07",
+    "datumLetzteMeldung": "2024-12-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocillin 500 Saft",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06649612"
+    ],
+    "enr": [
+      "0149618"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-07",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2023-07-07",
+    "datumLetzteMeldung": "2024-12-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocillin 500 Saft",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
     "telefon": "06252/95-7000",
@@ -5052,99 +5075,6 @@
     "zulassungsinhaber": "ratiopharm GmbH",
     "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04257888"
-    ],
-    "enr": [
-      "0149618"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-07",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2023-07-07",
-    "datumLetzteMeldung": "2024-08-05",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocillin 500 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06649606"
-    ],
-    "enr": [
-      "0149618"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-07",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2023-07-07",
-    "datumLetzteMeldung": "2024-08-05",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocillin 500 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06649612"
-    ],
-    "enr": [
-      "0149618"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-07",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2023-07-07",
-    "datumLetzteMeldung": "2024-08-05",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocillin 500 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04525308"
-    ],
-    "enr": [
-      "0727357"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-10-11",
-    "datumEnde": "2024-12-16",
-    "datumErstmeldung": "2024-10-14",
-    "datumLetzteMeldung": "2024-11-29",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectobicillin Saft 750",
-    "atcCode": "J01CE10",
-    "wirkstoffe": "Phenoxymethylpenicillin-Benzathin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Infectobicillin Saft 750 - Einreichungsnummer: 0727357"
   },
   {
     "pzn": [
