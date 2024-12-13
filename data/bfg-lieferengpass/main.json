@@ -423,19 +423,20 @@
     "enr": [
       "2199760"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-09-01",
-    "datumEnde": "2024-12-31",
+    "datumEnde": "2025-06-30",
     "datumErstmeldung": "2023-08-08",
-    "datumLetzteMeldung": "2023-08-08",
+    "datumLetzteMeldung": "2024-12-12",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Änderungsanzeigen zur Etablierung eines neuen Fertigproduktherstellers sind derzeit in Vorbereitung und können voraussichtlich im Januar 2025 eingereicht werden.",
     "bezeichnung": "Vancomycin Lyomark 1000 mg Pulver für ein Konzentrat zur Herstellung einer Infusionslösung oder einer Lösung zum Einnehmen",
     "atcCode": "A07AA09, J01XA01",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Bendalis GmbH",
-    "telefon": "089 45 08 08 78 0",
+    "telefon": "089 45 08 08 78 88",
     "mail": "sales@bendalis.com",
     "infoFachkreise": "Nein"
   },
@@ -976,6 +977,50 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Bioprojet Pharma",
     "mail": "medinfo@bioprojet.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08494148"
+    ],
+    "enr": [
+      "2134317"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-02",
+    "datumEnde": "2025-01-30",
+    "datumErstmeldung": "2024-12-12",
+    "datumLetzteMeldung": "2024-12-12",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ISMN AbZ 40 mg Tabletten",
+    "atcCode": "C01DA14",
+    "wirkstoffe": "Isosorbidmononitrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "mail": "info@AbZ.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08494119"
+    ],
+    "enr": [
+      "2134315"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-02",
+    "datumEnde": "2025-01-30",
+    "datumErstmeldung": "2024-12-12",
+    "datumLetzteMeldung": "2024-12-12",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ISMN AbZ 20 mg Tabletten",
+    "atcCode": "C01DA14",
+    "wirkstoffe": "Isosorbidmononitrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "mail": "info@AbZ.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2536,29 +2581,6 @@
   },
   {
     "pzn": [
-      "02094761"
-    ],
-    "enr": [
-      "2126705"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-30",
-    "datumEnde": "2024-12-06",
-    "datumErstmeldung": "2024-08-05",
-    "datumLetzteMeldung": "2024-08-05",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Alfason Crinale",
-    "atcCode": "D07AB02",
-    "wirkstoffe": "Hydrocortison-17-butanoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "telefon": "+49 (0) 3834 3914-526",
-    "mail": "spyros.roussos@cheplapharm.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "02051326"
     ],
     "enr": [
@@ -3576,116 +3598,6 @@
     "telefon": "0800 0700 800",
     "mail": "kundenservice@viatris.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08624444"
-    ],
-    "enr": [
-      "2149291"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-11",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-11-11",
-    "datumLetzteMeldung": "2024-11-11",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Terazosin Aristo 5 mg Tabletten",
-    "atcCode": "G04CA03",
-    "wirkstoffe": "Terazosinhydrochlorid-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08624450"
-    ],
-    "enr": [
-      "2149291"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-11",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-11-11",
-    "datumLetzteMeldung": "2024-11-11",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Terazosin Aristo 5 mg Tabletten",
-    "atcCode": "G04CA03",
-    "wirkstoffe": "Terazosinhydrochlorid-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08624409"
-    ],
-    "enr": [
-      "2149290"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-11",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-11-11",
-    "datumLetzteMeldung": "2024-11-11",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Terazosin Aristo 2 mg Tabletten",
-    "atcCode": "G04CA03",
-    "wirkstoffe": "Terazosinhydrochlorid-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08624415"
-    ],
-    "enr": [
-      "2149290"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-11",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-11-11",
-    "datumLetzteMeldung": "2024-11-11",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Terazosin Aristo 2 mg Tabletten",
-    "atcCode": "G04CA03",
-    "wirkstoffe": "Terazosinhydrochlorid-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08624467"
-    ],
-    "enr": [
-      "2149292"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-11",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-11-11",
-    "datumLetzteMeldung": "2024-11-11",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Terazosin Aristo 10 mg Tabletten",
-    "atcCode": "G04CA03",
-    "wirkstoffe": "Terazosinhydrochlorid-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -4713,28 +4625,6 @@
   },
   {
     "pzn": [
-      "07561598"
-    ],
-    "enr": [
-      "2125642"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-11",
-    "datumEnde": "2024-12-30",
-    "datumErstmeldung": "2024-03-11",
-    "datumLetzteMeldung": "2024-12-04",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxicillin-ratiopharm 500mg/5ml TS",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00000000"
     ],
     "enr": [
@@ -4742,9 +4632,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-05-01",
-    "datumEnde": "2024-12-15",
+    "datumEnde": "2025-01-15",
     "datumErstmeldung": "2024-05-15",
-    "datumLetzteMeldung": "2024-11-26",
+    "datumLetzteMeldung": "2024-12-12",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Amoxicillin AL TS",
@@ -4765,9 +4655,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-05-01",
-    "datumEnde": "2024-12-15",
+    "datumEnde": "2025-01-15",
     "datumErstmeldung": "2024-05-15",
-    "datumLetzteMeldung": "2024-11-26",
+    "datumLetzteMeldung": "2024-12-12",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Amoxicillin AL TS",
@@ -4788,9 +4678,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-05-01",
-    "datumEnde": "2024-12-15",
+    "datumEnde": "2025-01-15",
     "datumErstmeldung": "2024-05-15",
-    "datumLetzteMeldung": "2024-11-26",
+    "datumLetzteMeldung": "2024-12-12",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Amoxicillin AL TS",
@@ -4800,6 +4690,28 @@
     "zulassungsinhaber": "ALIUD PHARMA GmbH",
     "telefon": "0733396510",
     "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07561598"
+    ],
+    "enr": [
+      "2125642"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-11",
+    "datumEnde": "2024-12-30",
+    "datumErstmeldung": "2024-03-11",
+    "datumLetzteMeldung": "2024-12-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxicillin-ratiopharm 500mg/5ml TS",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5539,9 +5451,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-24",
-    "datumEnde": "2024-12-06",
+    "datumEnde": "2025-01-08",
     "datumErstmeldung": "2024-09-20",
-    "datumLetzteMeldung": "2024-12-06",
+    "datumLetzteMeldung": "2024-12-12",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Clarithromycin-1A Pharma 250 mg Filmtabletten",
@@ -5851,29 +5763,6 @@
     "mail": "info@abz.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Azithromycin-ratiopharm 250mg Filmtabletten - Einreichungsnummer: 2162285"
-  },
-  {
-    "pzn": [
-      "08590283"
-    ],
-    "enr": [
-      "2137344"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-06-21",
-    "datumEnde": "2024-12-15",
-    "datumErstmeldung": "2024-06-21",
-    "datumLetzteMeldung": "2024-11-05",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ultreon",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -6533,19 +6422,20 @@
     "enr": [
       "0614009"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-09-01",
-    "datumEnde": "2024-12-31",
+    "datumEnde": "2025-06-30",
     "datumErstmeldung": "2023-08-08",
-    "datumLetzteMeldung": "2023-08-08",
+    "datumLetzteMeldung": "2024-12-12",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Änderungsanzeigen zur Etablierung eines neuen Fertigproduktherstellers sind derzeit in Vorbereitung und können voraussichtlich im Januar 2025 eingereicht werden.",
     "bezeichnung": "Vancomycin Lyomark 500 mg",
     "atcCode": "J01XA01",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Bendalis GmbH",
-    "telefon": "089 45 08 08 78 0",
+    "telefon": "089 45 08 08 78 88",
     "mail": "sales@bendalis.com",
     "infoFachkreise": "Nein"
   },
@@ -7142,6 +7032,102 @@
   },
   {
     "pzn": [
+      "07020342"
+    ],
+    "enr": [
+      "2155983"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-02-13",
+    "datumLetzteMeldung": "2024-12-12",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Aufgrund der Lieferunfähigkeit von Mitbewerbern hat die Bendalis eine deutlich erhöhte Nachfrage. Der derzeitige Lagerbestand ist begrenzt, so dass die Bestände früher als geplant abverkauft sind.",
+    "bezeichnung": "Benda-5 FU",
+    "atcCode": "L01BC02",
+    "wirkstoffe": "Fluorouracil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Bendalis GmbH",
+    "telefon": "+49 89 45 08 08 78-88",
+    "mail": "customer-service@bendalis.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07020394"
+    ],
+    "enr": [
+      "2155983"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-02-13",
+    "datumLetzteMeldung": "2024-12-12",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Aufgrund der Lieferunfähigkeit von Mitbewerbern hat die Bendalis eine deutlich erhöhte Nachfrage. Der derzeitige Lagerbestand ist begrenzt, so dass die Bestände früher als geplant abverkauft sind.",
+    "bezeichnung": "Benda-5 FU",
+    "atcCode": "L01BC02",
+    "wirkstoffe": "Fluorouracil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Bendalis GmbH",
+    "telefon": "+49 89 45 08 08 78-88",
+    "mail": "customer-service@bendalis.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07072439"
+    ],
+    "enr": [
+      "2155983"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-02-13",
+    "datumLetzteMeldung": "2024-12-12",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Aufgrund der Lieferunfähigkeit von Mitbewerbern hat die Bendalis eine deutlich erhöhte Nachfrage. Der derzeitige Lagerbestand ist begrenzt, so dass die Bestände früher als geplant abverkauft sind.",
+    "bezeichnung": "Benda-5 FU",
+    "atcCode": "L01BC02",
+    "wirkstoffe": "Fluorouracil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Bendalis GmbH",
+    "telefon": "+49 89 45 08 08 78-88",
+    "mail": "customer-service@bendalis.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15895741"
+    ],
+    "enr": [
+      "2155983"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-01",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-02-13",
+    "datumLetzteMeldung": "2024-12-12",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Aufgrund der Lieferunfähigkeit von Mitbewerbern hat die Bendalis eine deutlich erhöhte Nachfrage. Der derzeitige Lagerbestand ist begrenzt, so dass die Bestände früher als geplant abverkauft sind.",
+    "bezeichnung": "Benda-5 FU",
+    "atcCode": "L01BC02",
+    "wirkstoffe": "Fluorouracil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Bendalis GmbH",
+    "telefon": "+49 89 45 08 08 78-88",
+    "mail": "customer-service@bendalis.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "12476676"
     ],
     "enr": [
@@ -7252,102 +7238,6 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Hikma Farmaceutica (Portugal), S.A.",
     "mail": "rluetzner@hikma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07020342"
-    ],
-    "enr": [
-      "2155983"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-03-01",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-02-13",
-    "datumLetzteMeldung": "2024-02-13",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Aufgrund der Lieferunfähigkeit von Mitbewerbern hat die Bendalis eine deutlich erhöhte Nachfrage. Der derzeitige Lagerbestand ist begrenzt, so dass die Bestände früher als geplant abverkauft sind.",
-    "bezeichnung": "Benda-5 FU",
-    "atcCode": "L01BC02",
-    "wirkstoffe": "Fluorouracil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Bendalis GmbH",
-    "telefon": "+49 89 45 08 08 78-88",
-    "mail": "customer-service@bendalis.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07020394"
-    ],
-    "enr": [
-      "2155983"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-03-01",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-02-13",
-    "datumLetzteMeldung": "2024-02-13",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Aufgrund der Lieferunfähigkeit von Mitbewerbern hat die Bendalis eine deutlich erhöhte Nachfrage. Der derzeitige Lagerbestand ist begrenzt, so dass die Bestände früher als geplant abverkauft sind.",
-    "bezeichnung": "Benda-5 FU",
-    "atcCode": "L01BC02",
-    "wirkstoffe": "Fluorouracil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Bendalis GmbH",
-    "telefon": "+49 89 45 08 08 78-88",
-    "mail": "customer-service@bendalis.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07072439"
-    ],
-    "enr": [
-      "2155983"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-03-01",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-02-13",
-    "datumLetzteMeldung": "2024-02-13",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Aufgrund der Lieferunfähigkeit von Mitbewerbern hat die Bendalis eine deutlich erhöhte Nachfrage. Der derzeitige Lagerbestand ist begrenzt, so dass die Bestände früher als geplant abverkauft sind.",
-    "bezeichnung": "Benda-5 FU",
-    "atcCode": "L01BC02",
-    "wirkstoffe": "Fluorouracil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Bendalis GmbH",
-    "telefon": "+49 89 45 08 08 78-88",
-    "mail": "customer-service@bendalis.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15895741"
-    ],
-    "enr": [
-      "2155983"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-03-01",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-02-13",
-    "datumLetzteMeldung": "2024-02-13",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Aufgrund der Lieferunfähigkeit von Mitbewerbern hat die Bendalis eine deutlich erhöhte Nachfrage. Der derzeitige Lagerbestand ist begrenzt, so dass die Bestände früher als geplant abverkauft sind.",
-    "bezeichnung": "Benda-5 FU",
-    "atcCode": "L01BC02",
-    "wirkstoffe": "Fluorouracil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Bendalis GmbH",
-    "telefon": "+49 89 45 08 08 78-88",
-    "mail": "customer-service@bendalis.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -7631,6 +7521,72 @@
   },
   {
     "pzn": [
+      "00252463"
+    ],
+    "enr": [
+      "2175982"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-01",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-12-12",
+    "datumLetzteMeldung": "2024-12-12",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Doxorubicin Accord 2 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "L01DB01",
+    "wirkstoffe": "Doxorubicinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_Anders@accord-healthcare.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00252486"
+    ],
+    "enr": [
+      "2175982"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-01",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-12-12",
+    "datumLetzteMeldung": "2024-12-12",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Doxorubicin Accord 2 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "L01DB01",
+    "wirkstoffe": "Doxorubicinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_Anders@accord-healthcare.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00252581"
+    ],
+    "enr": [
+      "2175982"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-07-01",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2024-12-12",
+    "datumLetzteMeldung": "2024-12-12",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Doxorubicin Accord 2 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "L01DB01",
+    "wirkstoffe": "Doxorubicinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_Anders@accord-healthcare.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "07356964"
     ],
     "enr": [
@@ -7721,28 +7677,6 @@
     "mail": "stephan.beduerftig-weigl@bendalis.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Doxorubicin HEXAL 2 mg/ml - Einreichungsnummer: 2109075"
-  },
-  {
-    "pzn": [
-      "08828201"
-    ],
-    "enr": [
-      "2182615"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-06-10",
-    "datumEnde": "2024-12-18",
-    "datumErstmeldung": "2024-05-21",
-    "datumLetzteMeldung": "2024-12-06",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Idarubicin HEXAL 1 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
-    "atcCode": "L01DB06",
-    "wirkstoffe": "Idarubicinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -7839,6 +7773,29 @@
   },
   {
     "pzn": [
+      "07121540"
+    ],
+    "enr": [
+      "2129789"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-11-01",
+    "datumEnde": "2025-01-15",
+    "datumErstmeldung": "2024-11-20",
+    "datumLetzteMeldung": "2024-12-12",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tamoxifen AL 30",
+    "atcCode": "L02BA01",
+    "wirkstoffe": "Tamoxifencitrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "10410472"
     ],
     "enr": [
@@ -7923,29 +7880,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
     "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07121540"
-    ],
-    "enr": [
-      "2129789"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-01",
-    "datumEnde": "2024-12-15",
-    "datumErstmeldung": "2024-11-20",
-    "datumLetzteMeldung": "2024-11-20",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Tamoxifen AL 30",
-    "atcCode": "L02BA01",
-    "wirkstoffe": "Tamoxifencitrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -11535,6 +11469,28 @@
   },
   {
     "pzn": [
+      "10072130"
+    ],
+    "enr": [
+      "2188723"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-02",
+    "datumEnde": "2025-01-15",
+    "datumErstmeldung": "2024-12-12",
+    "datumLetzteMeldung": "2024-12-12",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pramipexol-ratiopharm 0,26 mg Retardtabletten",
+    "atcCode": "N04BC05",
+    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "15785567"
     ],
     "enr": [
@@ -13225,9 +13181,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-10-31",
-    "datumEnde": "2024-12-15",
+    "datumEnde": "2025-01-15",
     "datumErstmeldung": "2024-11-05",
-    "datumLetzteMeldung": "2024-11-19",
+    "datumLetzteMeldung": "2024-12-12",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Oxazepam AL 10",
@@ -13248,9 +13204,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-10-31",
-    "datumEnde": "2024-12-15",
+    "datumEnde": "2025-01-15",
     "datumErstmeldung": "2024-11-05",
-    "datumLetzteMeldung": "2024-11-19",
+    "datumLetzteMeldung": "2024-12-12",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Oxazepam AL 10",
@@ -18166,9 +18122,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-01-18",
-    "datumEnde": "2024-12-31",
+    "datumEnde": "2025-10-31",
     "datumErstmeldung": "2024-02-15",
-    "datumLetzteMeldung": "2024-05-27",
+    "datumLetzteMeldung": "2024-12-12",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Sugammadex Orion 100 mg/ml ",
@@ -18188,9 +18144,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-01-18",
-    "datumEnde": "2024-12-31",
+    "datumEnde": "2025-10-31",
     "datumErstmeldung": "2024-02-15",
-    "datumLetzteMeldung": "2024-05-27",
+    "datumLetzteMeldung": "2024-12-12",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Sugammadex Orion 100 mg/ml ",
@@ -18210,9 +18166,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-10-29",
-    "datumEnde": "2024-12-12",
+    "datumEnde": "2025-01-01",
     "datumErstmeldung": "2024-10-14",
-    "datumLetzteMeldung": "2024-11-06",
+    "datumLetzteMeldung": "2024-12-12",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Fosrenol 1000 mg Kautabletten",
