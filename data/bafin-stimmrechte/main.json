@@ -3626,7 +3626,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-04",
+    "veroeffentlichung": "2024-12-13",
     "emittent": {
       "name": "Zalando SE",
       "sitz": "Berlin",
@@ -3638,9 +3638,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.33,
-      "instrumente": 0.16,
-      "summe": 5.5
+      "gesamt": 5.66,
+      "instrumente": 0.25,
+      "summe": 5.91
     }
   },
   {
@@ -3698,7 +3698,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-11-01",
+    "veroeffentlichung": "2024-12-16",
     "emittent": {
       "name": "TAG Immobilien AG",
       "sitz": "Hamburg",
@@ -3710,9 +3710,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.16,
-      "instrumente": 0.12,
-      "summe": 6.29
+      "gesamt": 5.71,
+      "instrumente": 0.25,
+      "summe": 5.97
     }
   },
   {
@@ -3914,7 +3914,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-12-12",
+    "veroeffentlichung": "2024-12-13",
     "emittent": {
       "name": "MTU Aero Engines AG",
       "sitz": "München",
@@ -3926,9 +3926,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 13.73,
+      "gesamt": 13.77,
       "instrumente": 0.03,
-      "summe": 13.76
+      "summe": 13.8
     }
   },
   {
@@ -4040,7 +4040,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-04",
+    "veroeffentlichung": "2024-12-16",
     "emittent": {
       "name": "Infineon Technologies AG",
       "sitz": "Neubiberg",
@@ -4052,9 +4052,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.79,
-      "instrumente": 0.02,
-      "summe": 6.81
+      "gesamt": 6.76,
+      "instrumente": 0.08,
+      "summe": 6.83
     }
   },
   {
@@ -6330,6 +6330,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-12-13",
+    "emittent": {
+      "name": "CompuGroup Medical SE & Co. KGaA",
+      "sitz": "Koblenz",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "CVC Capital Partners plc",
+      "sitz": "St. Helier",
+      "land": "Jersey, Kanalinseln"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 6.71,
+      "instrumente": 0,
+      "summe": 6.71
+    }
+  },
+  {
     "veroeffentlichung": "2023-02-13",
     "emittent": {
       "name": "Voltabox AG",
@@ -7641,24 +7659,6 @@
       "gesamt": 4.52,
       "instrumente": 0,
       "summe": 4.52
-    }
-  },
-  {
-    "veroeffentlichung": "2024-12-12",
-    "emittent": {
-      "name": "SFC Energy AG",
-      "sitz": "Brunnthal",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "DWS Investment GmbH",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0,
-      "summe": 3.02
     }
   },
   {
@@ -11319,6 +11319,22 @@
   {
     "veroeffentlichung": "2024-12-09",
     "emittent": {
+      "name": "RHÖN-KLINIKUM Aktiengesellschaft",
+      "sitz": "Bad Neustadt a.d. Saale",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "große Broermann, Z."
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 94.51,
+      "instrumente": 0,
+      "summe": 94.51
+    }
+  },
+  {
+    "veroeffentlichung": "2024-12-09",
+    "emittent": {
       "name": "MEDICLIN Aktiengesellschaft",
       "sitz": "Offenburg",
       "land": "Deutschland"
@@ -14733,7 +14749,7 @@
     }
   },
   {
-    "veroeffentlichung": "2022-04-14",
+    "veroeffentlichung": "2024-12-16",
     "emittent": {
       "name": "MAX Automation SE",
       "sitz": "Hamburg",
@@ -14743,9 +14759,9 @@
       "name": "Jaster, Oliver"
     },
     "stimmrechtsanteile": {
-      "gesamt": 58.97,
+      "gesamt": 65.98,
       "instrumente": 0,
-      "summe": 58.97
+      "summe": 65.98
     }
   },
   {
@@ -14956,6 +14972,24 @@
       "gesamt": 5.36,
       "instrumente": 0.83,
       "summe": 6.19
+    }
+  },
+  {
+    "veroeffentlichung": "2024-12-13",
+    "emittent": {
+      "name": "K+S Aktiengesellschaft",
+      "sitz": "Kassel",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "JPMORGAN CHASE & CO",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 1.27,
+      "instrumente": 4.47,
+      "summe": 5.73
     }
   },
   {
@@ -19919,24 +19953,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-06-07",
-    "emittent": {
-      "name": "Mercedes-Benz Group AG",
-      "sitz": "Stuttgart",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Mercedes-Benz Group AG",
-      "sitz": "Stuttgart",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 5.0738,
-      "instrumente": 0,
-      "summe": 5.0738
-    }
-  },
-  {
     "veroeffentlichung": "2022-01-28",
     "emittent": {
       "name": "Daimler Truck Holding AG",
@@ -20547,7 +20563,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-12-11",
+    "veroeffentlichung": "2024-12-16",
     "emittent": {
       "name": "Mercedes-Benz Group AG",
       "sitz": "Stuttgart",
@@ -20559,9 +20575,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.19,
-      "instrumente": 6.93,
-      "summe": 7.12
+      "gesamt": 0.12,
+      "instrumente": 6.95,
+      "summe": 7.08
     }
   },
   {
@@ -28819,6 +28835,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-12-16",
+    "emittent": {
+      "name": "Nexus AG",
+      "sitz": "Donaueschingen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Staat Norwegen",
+      "sitz": "Oslo",
+      "land": "Norwegen"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.08,
+      "instrumente": 0.06,
+      "summe": 3.14
+    }
+  },
+  {
     "veroeffentlichung": "2024-09-04",
     "emittent": {
       "name": "JOST Werke SE",
@@ -30916,6 +30950,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-12-16",
+    "emittent": {
+      "name": "thyssenkrupp AG",
+      "sitz": "Essen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.66,
+      "instrumente": 4.85,
+      "summe": 5.51
+    }
+  },
+  {
     "veroeffentlichung": "2024-12-11",
     "emittent": {
       "name": "TeamViewer SE",
@@ -30934,7 +30986,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-12-12",
+    "veroeffentlichung": "2024-12-13",
     "emittent": {
       "name": "Siemens Energy AG",
       "sitz": "München",
@@ -30947,8 +30999,8 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 0.21,
-      "instrumente": 10.57,
-      "summe": 10.78
+      "instrumente": 10.39,
+      "summe": 10.6
     }
   },
   {
@@ -31003,6 +31055,24 @@
       "gesamt": 0.09,
       "instrumente": 6.84,
       "summe": 6.93
+    }
+  },
+  {
+    "veroeffentlichung": "2024-12-16",
+    "emittent": {
+      "name": "Infineon Technologies AG",
+      "sitz": "Neubiberg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.58,
+      "instrumente": 4.46,
+      "summe": 5.03
     }
   },
   {
@@ -31168,7 +31238,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-12-13",
+    "veroeffentlichung": "2024-12-16",
     "emittent": {
       "name": "Aurubis AG",
       "sitz": "Hamburg",
@@ -31180,9 +31250,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.19,
-      "instrumente": 10.01,
-      "summe": 10.2
+      "gesamt": 0.58,
+      "instrumente": 9.92,
+      "summe": 10.5
     }
   },
   {
@@ -31204,7 +31274,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-12-12",
+    "veroeffentlichung": "2024-12-13",
     "emittent": {
       "name": "ADTRAN Holdings, Inc.",
       "sitz": "Wilmington",
@@ -31216,9 +31286,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.76,
-      "instrumente": 12.55,
-      "summe": 14.31
+      "gesamt": 1.58,
+      "instrumente": 12.56,
+      "summe": 14.14
     }
   },
   {
@@ -31608,7 +31678,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-11-19",
+    "veroeffentlichung": "2024-12-16",
     "emittent": {
       "name": "Nexus AG",
       "sitz": "Donaueschingen",
@@ -31620,9 +31690,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.1,
-      "instrumente": 0.09,
-      "summe": 3.2
+      "gesamt": 5.31,
+      "instrumente": 0.11,
+      "summe": 5.42
     }
   },
   {
@@ -31907,24 +31977,6 @@
       "gesamt": 3.14,
       "instrumente": 0,
       "summe": 3.14
-    }
-  },
-  {
-    "veroeffentlichung": "2024-09-06",
-    "emittent": {
-      "name": "AUTO1 Group SE",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Union Investment Privatfonds GmbH",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.38,
-      "instrumente": 0.62,
-      "summe": 4
     }
   },
   {
@@ -34904,6 +34956,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-12-16",
+    "emittent": {
+      "name": "ABOUT YOU Holding SE",
+      "sitz": "Hamburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Zalando SE",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 2.7,
+      "instrumente": 74.09,
+      "summe": 76.79
+    }
+  },
+  {
     "veroeffentlichung": "2015-09-16",
     "emittent": {
       "name": "Bastei Lübbe AG",
@@ -34915,24 +34985,6 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 3.01
-    }
-  },
-  {
-    "veroeffentlichung": "2024-06-14",
-    "emittent": {
-      "name": "ZEAL Network SE",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "ZEAL Network SE",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.3,
-      "instrumente": 0,
-      "summe": 3.3
     }
   },
   {

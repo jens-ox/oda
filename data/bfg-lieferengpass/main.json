@@ -652,30 +652,6 @@
   },
   {
     "pzn": [
-      "15635431"
-    ],
-    "enr": [
-      "2674701"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-12-05",
-    "datumEnde": "2024-12-19",
-    "datumErstmeldung": "2024-12-05",
-    "datumLetzteMeldung": "2024-12-05",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Esperoct",
-    "atcCode": "B02BD02",
-    "wirkstoffe": "Turoctocog alfa pegol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Esperoct - Einreichungsnummer: 7011001"
-  },
-  {
-    "pzn": [
       "11047401"
     ],
     "enr": [
@@ -2714,7 +2690,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2740,7 +2716,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2766,7 +2742,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2792,7 +2768,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2818,7 +2794,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2844,7 +2820,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2913,7 +2889,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -2936,7 +2912,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -2959,7 +2935,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -3393,6 +3369,31 @@
   },
   {
     "pzn": [
+      "19171106"
+    ],
+    "enr": [
+      "7013796"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-03",
+    "datumEnde": "2025-04-10",
+    "datumErstmeldung": "2024-12-16",
+    "datumLetzteMeldung": "2024-12-16",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Grund für den Engpass ist eine unvorhergesehen hohe Nachfrage",
+    "bezeichnung": "Obgemsa",
+    "atcCode": "G04BD15",
+    "wirkstoffe": "Vibegron",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pierre Fabre Medicament",
+    "telefon": "076145261234",
+    "mail": "christina.morhart@pierre-fabre.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Betmiga 50 mg Retardtabletten - OP30 - Einreichungsnummer: 2709839"
+  },
+  {
+    "pzn": [
       "02752885"
     ],
     "enr": [
@@ -3751,29 +3752,6 @@
     "zulassungsinhaber": "Inresa Arzneimittel GmbH",
     "mail": "qsra@inresa.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03993378"
-    ],
-    "enr": [
-      "0451145"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-10-23",
-    "datumEnde": "2024-12-27",
-    "datumErstmeldung": "2024-10-25",
-    "datumLetzteMeldung": "2024-10-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Celestamine N 0,5 liquidum",
-    "atcCode": "H02AB01",
-    "wirkstoffe": "Betamethason",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Organon Healthcare GmbH",
-    "mail": "ra_dach@organon.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Celestone N 0,5 mg/ml - Einreichungsnummer: 2180387"
   },
   {
     "pzn": [
@@ -4717,6 +4695,29 @@
   },
   {
     "pzn": [
+      "01658374"
+    ],
+    "enr": [
+      "0061705"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-15",
+    "datumEnde": "2025-01-27",
+    "datumErstmeldung": "2024-03-18",
+    "datumLetzteMeldung": "2024-12-16",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Infectocillin 300 Saft",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "03124978"
     ],
     "enr": [
@@ -4921,29 +4922,6 @@
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01658374"
-    ],
-    "enr": [
-      "0061705"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-15",
-    "datumEnde": "2024-12-16",
-    "datumErstmeldung": "2024-03-18",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocillin 300 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -6798,7 +6776,7 @@
     "atcCode": "J04AC01",
     "wirkstoffe": "Isoniazid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -6894,6 +6872,29 @@
     "telefon": "082174881471",
     "mail": "klaus.loechner@drreddys.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07479738"
+    ],
+    "enr": [
+      "2105993"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-16",
+    "datumEnde": "2025-01-15",
+    "datumErstmeldung": "2024-12-16",
+    "datumLetzteMeldung": "2024-12-16",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methotrexat-GRY 5 mg/2 ml Injektionslösung",
+    "atcCode": "L01BA01",
+    "wirkstoffe": "Methotrexat-Dinatrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TEVA GmbH",
+    "telefon": "0800/800 50 13",
+    "mail": "gks-post@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -8594,9 +8595,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-08-26",
-    "datumEnde": "2024-12-13",
+    "datumEnde": "2025-01-13",
     "datumErstmeldung": "2024-08-27",
-    "datumLetzteMeldung": "2024-11-11",
+    "datumLetzteMeldung": "2024-12-16",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Ultiva 5 mg",
@@ -14137,6 +14138,142 @@
   },
   {
     "pzn": [
+      "15269009"
+    ],
+    "enr": [
+      "2201326"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-12",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2024-12-16",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Agakalin 80 mg Filmtabletten",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "telefon": "015779613984",
+    "mail": "m.hennemann@medice.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15269015"
+    ],
+    "enr": [
+      "2201326"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-12",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2024-12-16",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Agakalin 80 mg Filmtabletten",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "telefon": "015779613984",
+    "mail": "m.hennemann@medice.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15268895"
+    ],
+    "enr": [
+      "2201322"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-12",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-03-12",
+    "datumLetzteMeldung": "2024-12-16",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Agakalin 18 mg Filmtabletten",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "telefon": "015779613984",
+    "mail": "m.hennemann@medice.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15268926"
+    ],
+    "enr": [
+      "2201322"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-12",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-03-12",
+    "datumLetzteMeldung": "2024-12-16",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Agakalin 18 mg Filmtabletten",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "telefon": "015779613984",
+    "mail": "m.hennemann@medice.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15268872"
+    ],
+    "enr": [
+      "2201321"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-12",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-03-12",
+    "datumLetzteMeldung": "2024-12-16",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Agakalin 10 mg Filmtabletten",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "mail": "regulatory@medice.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15268889"
+    ],
+    "enr": [
+      "2201321"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-12",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-03-12",
+    "datumLetzteMeldung": "2024-12-16",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Agakalin 10 mg Filmtabletten",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "mail": "regulatory@medice.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "15268978"
     ],
     "enr": [
@@ -14153,7 +14290,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -14176,7 +14313,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -14199,7 +14336,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -16187,138 +16324,6 @@
   },
   {
     "pzn": [
-      "15268895"
-    ],
-    "enr": [
-      "2201322"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-12",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-03-12",
-    "datumLetzteMeldung": "2024-06-05",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Agakalin 18 mg Filmtabletten",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
-    "mail": "m.hennemann@medice.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15268926"
-    ],
-    "enr": [
-      "2201322"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-12",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-03-12",
-    "datumLetzteMeldung": "2024-06-05",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Agakalin 18 mg Filmtabletten",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
-    "mail": "m.hennemann@medice.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15268872"
-    ],
-    "enr": [
-      "2201321"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-12",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-03-12",
-    "datumLetzteMeldung": "2024-06-05",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Agakalin 10 mg Filmtabletten",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
-    "mail": "regulatory@medice.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15268889"
-    ],
-    "enr": [
-      "2201321"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-12",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-03-12",
-    "datumLetzteMeldung": "2024-06-05",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Agakalin 10 mg Filmtabletten",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
-    "mail": "regulatory@medice.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15269009"
-    ],
-    "enr": [
-      "2201326"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-12",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-06-05",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Agakalin 80 mg Filmtabletten",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
-    "mail": "m.hennemann@medice.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15269015"
-    ],
-    "enr": [
-      "2201326"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-12",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-06-05",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Agakalin 80 mg Filmtabletten",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
-    "mail": "m.hennemann@medice.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "14135459"
     ],
     "enr": [
@@ -17396,7 +17401,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
