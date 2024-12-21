@@ -1323,52 +1323,6 @@
   },
   {
     "pzn": [
-      "11510980"
-    ],
-    "enr": [
-      "2191241"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-19",
-    "datumEnde": "2024-12-15",
-    "datumErstmeldung": "2022-12-16",
-    "datumLetzteMeldung": "2024-11-19",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Urapidil Stragen 60 mg retardierte Hartkapseln",
-    "atcCode": "C02CA06",
-    "wirkstoffe": "Urapidil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Stragen Pharma GmbH - Zweigniederlassung Hilden -",
-    "telefon": "021038809700",
-    "mail": "info@stragen-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11511011"
-    ],
-    "enr": [
-      "2191241"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-12-19",
-    "datumEnde": "2024-12-15",
-    "datumErstmeldung": "2022-12-16",
-    "datumLetzteMeldung": "2024-11-19",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Urapidil Stragen 60 mg retardierte Hartkapseln",
-    "atcCode": "C02CA06",
-    "wirkstoffe": "Urapidil",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Stragen Pharma GmbH - Zweigniederlassung Hilden -",
-    "telefon": "021038809700",
-    "mail": "info@stragen-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "11510939"
     ],
     "enr": [
@@ -1376,9 +1330,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-19",
-    "datumEnde": "2024-12-31",
+    "datumEnde": "2025-06-30",
     "datumErstmeldung": "2022-12-16",
-    "datumLetzteMeldung": "2024-07-01",
+    "datumLetzteMeldung": "2024-12-20",
     "grund": "Probleme beim Sonstigen Hersteller",
     "grundArt": "Sonstige",
     "bezeichnung": "Urapidil Stragen 30 mg retardierte Hartkapseln",
@@ -1399,9 +1353,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-12-19",
-    "datumEnde": "2024-12-31",
+    "datumEnde": "2025-06-30",
     "datumErstmeldung": "2022-12-16",
-    "datumLetzteMeldung": "2024-07-01",
+    "datumLetzteMeldung": "2024-12-20",
     "grund": "Probleme beim Sonstigen Hersteller",
     "grundArt": "Sonstige",
     "bezeichnung": "Urapidil Stragen 30 mg retardierte Hartkapseln",
@@ -1412,6 +1366,52 @@
     "telefon": "021038809700",
     "mail": "info@stragen-pharma.de",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11510980"
+    ],
+    "enr": [
+      "2191241"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-19",
+    "datumEnde": "2025-01-15",
+    "datumErstmeldung": "2022-12-16",
+    "datumLetzteMeldung": "2024-12-20",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Urapidil Stragen 60 mg retardierte Hartkapseln",
+    "atcCode": "C02CA06",
+    "wirkstoffe": "Urapidil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Stragen Pharma GmbH - Zweigniederlassung Hilden -",
+    "telefon": "021038809700",
+    "mail": "info@stragen-pharma.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11511011"
+    ],
+    "enr": [
+      "2191241"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-12-19",
+    "datumEnde": "2025-01-15",
+    "datumErstmeldung": "2022-12-16",
+    "datumLetzteMeldung": "2024-12-20",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Urapidil Stragen 60 mg retardierte Hartkapseln",
+    "atcCode": "C02CA06",
+    "wirkstoffe": "Urapidil",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Stragen Pharma GmbH - Zweigniederlassung Hilden -",
+    "telefon": "021038809700",
+    "mail": "info@stragen-pharma.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -2303,29 +2303,6 @@
   },
   {
     "pzn": [
-      "04980834"
-    ],
-    "enr": [
-      "2158523"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-12-01",
-    "datumEnde": "2025-02-09",
-    "datumErstmeldung": "2024-12-04",
-    "datumLetzteMeldung": "2024-12-04",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fusicutan Creme",
-    "atcCode": "D06AX01",
-    "wirkstoffe": "Fusidinsäure (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00587755"
     ],
     "enr": [
@@ -2373,29 +2350,6 @@
   },
   {
     "pzn": [
-      "02051326"
-    ],
-    "enr": [
-      "2149646"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-08",
-    "datumEnde": "2024-12-29",
-    "datumErstmeldung": "2024-11-15",
-    "datumLetzteMeldung": "2024-11-15",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Soderm crinale",
-    "atcCode": "D07AC01",
-    "wirkstoffe": "Betamethasonvalerat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08820441"
     ],
     "enr": [
@@ -2433,75 +2387,6 @@
     "bezeichnung": "Prednitop Crinale",
     "atcCode": "D07AC18",
     "wirkstoffe": "Prednicarbat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06978020"
-    ],
-    "enr": [
-      "2149881"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-13",
-    "datumEnde": "2025-02-02",
-    "datumErstmeldung": "2024-08-21",
-    "datumLetzteMeldung": "2024-12-04",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Karison Crinale",
-    "atcCode": "D07AD01",
-    "wirkstoffe": "Clobetasolpropionat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06978037"
-    ],
-    "enr": [
-      "2149881"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-13",
-    "datumEnde": "2025-02-02",
-    "datumErstmeldung": "2024-08-21",
-    "datumLetzteMeldung": "2024-12-04",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Karison Crinale",
-    "atcCode": "D07AD01",
-    "wirkstoffe": "Clobetasolpropionat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06978043"
-    ],
-    "enr": [
-      "2149881"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-13",
-    "datumEnde": "2025-02-02",
-    "datumErstmeldung": "2024-08-21",
-    "datumLetzteMeldung": "2024-12-04",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Karison Crinale",
-    "atcCode": "D07AD01",
-    "wirkstoffe": "Clobetasolpropionat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
     "telefon": "08964186198",
@@ -2777,52 +2662,6 @@
     "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14216057"
-    ],
-    "enr": [
-      "2203861"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-11-13",
-    "datumEnde": "2025-02-02",
-    "datumErstmeldung": "2024-11-20",
-    "datumLetzteMeldung": "2024-11-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Tacrolimus Dermapharm 1 mg/g Salbe",
-    "atcCode": "D11AH01",
-    "wirkstoffe": "Tacrolimus-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14216063"
-    ],
-    "enr": [
-      "2203861"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-11-13",
-    "datumEnde": "2025-02-02",
-    "datumErstmeldung": "2024-11-20",
-    "datumLetzteMeldung": "2024-11-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Tacrolimus Dermapharm 1 mg/g Salbe",
-    "atcCode": "D11AH01",
-    "wirkstoffe": "Tacrolimus-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -4604,29 +4443,6 @@
   },
   {
     "pzn": [
-      "01658374"
-    ],
-    "enr": [
-      "0061705"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-15",
-    "datumEnde": "2025-01-27",
-    "datumErstmeldung": "2024-03-18",
-    "datumLetzteMeldung": "2024-12-16",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectocillin 300 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "03124978"
     ],
     "enr": [
@@ -5654,30 +5470,6 @@
   },
   {
     "pzn": [
-      "10990736"
-    ],
-    "enr": [
-      "0926134"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-10-04",
-    "datumEnde": "2024-12-20",
-    "datumErstmeldung": "2024-10-07",
-    "datumLetzteMeldung": "2024-10-21",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "TobraZid INFECTOPHARM 40 mg/1 ml",
-    "atcCode": "J01GB01",
-    "wirkstoffe": "Tobramycin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Gernebcin 40 mg/1 ml - Einreichungsnummer: 3002159"
-  },
-  {
-    "pzn": [
       "03928174"
     ],
     "enr": [
@@ -6145,6 +5937,144 @@
   },
   {
     "pzn": [
+      "12472448"
+    ],
+    "enr": [
+      "2192808"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-18",
+    "datumEnde": "2025-01-15",
+    "datumErstmeldung": "2024-12-20",
+    "datumLetzteMeldung": "2024-12-20",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "n.a.",
+    "bezeichnung": "Vancomycin Dr. Eberth 500 mg Pulver für ein Konzentrat zur Herstellung einer Infusionslösung oder einer Lösung zum Einnehmen",
+    "atcCode": "J01XA01",
+    "wirkstoffe": "Vancomycinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+    "mail": "schoeberl@eberth.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12472454"
+    ],
+    "enr": [
+      "2192808"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-18",
+    "datumEnde": "2025-01-15",
+    "datumErstmeldung": "2024-12-20",
+    "datumLetzteMeldung": "2024-12-20",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "n.a.",
+    "bezeichnung": "Vancomycin Dr. Eberth 500 mg Pulver für ein Konzentrat zur Herstellung einer Infusionslösung oder einer Lösung zum Einnehmen",
+    "atcCode": "J01XA01",
+    "wirkstoffe": "Vancomycinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+    "mail": "schoeberl@eberth.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12472460"
+    ],
+    "enr": [
+      "2192808"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-18",
+    "datumEnde": "2025-01-15",
+    "datumErstmeldung": "2024-12-20",
+    "datumLetzteMeldung": "2024-12-20",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "n.a.",
+    "bezeichnung": "Vancomycin Dr. Eberth 500 mg Pulver für ein Konzentrat zur Herstellung einer Infusionslösung oder einer Lösung zum Einnehmen",
+    "atcCode": "J01XA01",
+    "wirkstoffe": "Vancomycinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+    "mail": "schoeberl@eberth.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12472477"
+    ],
+    "enr": [
+      "2192809"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-18",
+    "datumEnde": "2025-01-15",
+    "datumErstmeldung": "2024-12-20",
+    "datumLetzteMeldung": "2024-12-20",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "n.a.",
+    "bezeichnung": "Vancomycin Dr. Eberth 1000 mg Pulver für ein Konzentrat zur Herstellung einer Infusionslösung oder einer Lösung zum Einnehmen",
+    "atcCode": "J01XA01",
+    "wirkstoffe": "Vancomycinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+    "mail": "schoeberl@eberth.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12472483"
+    ],
+    "enr": [
+      "2192809"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-18",
+    "datumEnde": "2025-01-15",
+    "datumErstmeldung": "2024-12-20",
+    "datumLetzteMeldung": "2024-12-20",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "n.a.",
+    "bezeichnung": "Vancomycin Dr. Eberth 1000 mg Pulver für ein Konzentrat zur Herstellung einer Infusionslösung oder einer Lösung zum Einnehmen",
+    "atcCode": "J01XA01",
+    "wirkstoffe": "Vancomycinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+    "mail": "schoeberl@eberth.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "12472508"
+    ],
+    "enr": [
+      "2192809"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-18",
+    "datumEnde": "2025-01-15",
+    "datumErstmeldung": "2024-12-20",
+    "datumLetzteMeldung": "2024-12-20",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "n.a.",
+    "bezeichnung": "Vancomycin Dr. Eberth 1000 mg Pulver für ein Konzentrat zur Herstellung einer Infusionslösung oder einer Lösung zum Einnehmen",
+    "atcCode": "J01XA01",
+    "wirkstoffe": "Vancomycinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+    "mail": "schoeberl@eberth.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "13414708"
     ],
     "enr": [
@@ -6166,6 +6096,52 @@
     "telefon": "089 45 08 08 78 88",
     "mail": "sales@bendalis.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17582880"
+    ],
+    "enr": [
+      "2203601"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-18",
+    "datumEnde": "2025-01-31",
+    "datumErstmeldung": "2024-12-20",
+    "datumLetzteMeldung": "2024-12-20",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "n.a.",
+    "bezeichnung": "Teicoplanin Eberth 400 mg Pulver zur Herstellung einer Injektions-/Infusionslösung oder einer Lösung zum Einnehmen",
+    "atcCode": "J01XA02",
+    "wirkstoffe": "Teicoplanin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+    "mail": "schoeberl@eberth.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17582874"
+    ],
+    "enr": [
+      "2203600"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-18",
+    "datumEnde": "2025-01-31",
+    "datumErstmeldung": "2024-12-20",
+    "datumLetzteMeldung": "2024-12-20",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "n.a.",
+    "bezeichnung": "Teicoplanin Eberth 200 mg Pulver zur Herstellung einer Injektions-/Infusionslösung oder einer Lösung zum Einnehmen",
+    "atcCode": "J01XA02",
+    "wirkstoffe": "Teicoplanin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+    "mail": "schoeberl@eberth.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -6445,11 +6421,11 @@
     "enr": [
       "2152697"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-06-01",
-    "datumEnde": "2024-12-31",
+    "datumEnde": "2025-01-12",
     "datumErstmeldung": "2024-06-05",
-    "datumLetzteMeldung": "2024-06-05",
+    "datumLetzteMeldung": "2024-12-20",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Flucoderm Kapseln 50 mg",
@@ -6457,7 +6433,7 @@
     "wirkstoffe": "Fluconazol",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "mail": "service@dermapharm.de",
+    "mail": "elisabeth.rueckert@dermapharm.de",
     "infoFachkreise": "Nein"
   },
   {
@@ -6571,6 +6547,54 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mylan Pharmaceuticals Limited",
     "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "12546773"
+    ],
+    "enr": [
+      "2712699",
+      "2712700"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-16",
+    "datumEnde": "2025-06-15",
+    "datumErstmeldung": "2024-12-20",
+    "datumLetzteMeldung": "2024-12-20",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil Mylan 200 mg/245 mg Filmtabletten - OP30(Fl)",
+    "atcCode": "J05AR03",
+    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilmaleat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Pharmaceuticals Limited",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "12546796"
+    ],
+    "enr": [
+      "2712699",
+      "2712700"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-16",
+    "datumEnde": "2025-06-15",
+    "datumErstmeldung": "2024-12-20",
+    "datumLetzteMeldung": "2024-12-20",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Emtricitabin/Tenofovirdisoproxil Mylan 200 mg/245 mg Filmtabletten - OP30(Fl)",
+    "atcCode": "J05AR03",
+    "wirkstoffe": "Emtricitabin; Tenofovirdisoproxilmaleat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Pharmaceuticals Limited",
+    "telefon": "0800-0700-800",
     "mail": "kundenservice@viatris.com",
     "infoFachkreise": "Nein"
   },
@@ -13273,6 +13297,30 @@
   },
   {
     "pzn": [
+      "07152782"
+    ],
+    "enr": [
+      "2104088"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-18",
+    "datumEnde": "2025-04-14",
+    "datumErstmeldung": "2024-12-20",
+    "datumLetzteMeldung": "2024-12-20",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Direktbezug beim Wirkstoffhersteller nicht möglich, daher musste über einen Händler bezogen werden, dessen Qualifizierung die Bereitstellung des Wirkstoffs verzögerte",
+    "bezeichnung": "Anafranil 75mg retard",
+    "atcCode": "N06AA04",
+    "wirkstoffe": "Clomipraminhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "mail": "mratzlaff@esteve.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Anafranil 75 mg retard - Einreichungsnummer: 2129687"
+  },
+  {
+    "pzn": [
       "15436281"
     ],
     "enr": [
@@ -16452,11 +16500,11 @@
     "enr": [
       "2100245"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-09-27",
-    "datumEnde": "2024-12-31",
+    "datumEnde": "2025-01-12",
     "datumErstmeldung": "2024-10-21",
-    "datumLetzteMeldung": "2024-10-21",
+    "datumLetzteMeldung": "2024-12-20",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Syntaris",
@@ -16466,7 +16514,7 @@
     "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
     "telefon": "08964186198",
     "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Vorgesehen"
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -17463,31 +17511,6 @@
   },
   {
     "pzn": [
-      "07617732"
-    ],
-    "enr": [
-      "0253221"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-11-25",
-    "datumEnde": "2024-12-23",
-    "datumErstmeldung": "2024-11-25",
-    "datumLetzteMeldung": "2024-12-03",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Es steht kein Alternativpräparat bzw. eine Kompensation zur Verfügung. Bei der Erstmeldung wurde versehentlich das Produkt mit Lieferengpass unter Alternativpräparat angegeben. Eine nachträgliche Löschung dieses Feldes im Zuge einer Änderungsmeldung ist systemseitig nicht möglich.",
-    "bezeichnung": "Zyklolat EDO",
-    "atcCode": "S01FA04",
-    "wirkstoffe": "Cyclopentolathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "telefon": "0800  090 94 90 94",
-    "mail": "pharma.kundenservice@bausch.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Zyklolat EDO - Einreichungsnummer: 0253221"
-  },
-  {
-    "pzn": [
       "00748098"
     ],
     "enr": [
@@ -17811,6 +17834,29 @@
     "telefon": "0032474226898",
     "mail": "guillaume.henry@serb.com",
     "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "12870108"
+    ],
+    "enr": [
+      "2152450"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-20",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2024-12-20",
+    "datumLetzteMeldung": "2024-12-20",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Fomepizole SERB 5 mg/ml, Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "V03AB34",
+    "wirkstoffe": "Fomepizolhemisulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "SERB S.A.",
+    "telefon": "+32474227898",
+    "mail": "guillaume.henry@serb.com",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
