@@ -699,30 +699,6 @@
   },
   {
     "pzn": [
-      "06178437"
-    ],
-    "enr": [
-      "0948822"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-05-31",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-05-31",
-    "datumLetzteMeldung": "2024-05-31",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Lieferengpass bei einem Zulieferer für Glasflaschen. Wegen hoher Auslastung der Produktionsanlagen (Kapazitätsgrenze erreicht) besteht keine Möglichkeit, die ausgefallene Produktionsmenge in der Folge wieder aufzuholen. Die Belieferung erfolgt mit 90 % des durchschnittlichen Bedarfes der letzten Monate.",
-    "bezeichnung": "Isotonische Kochsalzlösung",
-    "atcCode": "B05XA03",
-    "wirkstoffe": "Natriumchlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-    "telefon": "061726867883",
-    "mail": "frank.jethon@fresenius-kabi.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "07577688"
     ],
     "enr": [
@@ -1798,9 +1774,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2018-07-01",
-    "datumEnde": "2024-12-31",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2018-07-10",
-    "datumLetzteMeldung": "2024-07-03",
+    "datumLetzteMeldung": "2024-12-29",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "VALSARTAN COMP BASICS 80 mg/12,5 mg Filmtabletten",
@@ -1821,9 +1797,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2018-07-01",
-    "datumEnde": "2024-12-31",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2018-07-10",
-    "datumLetzteMeldung": "2024-07-03",
+    "datumLetzteMeldung": "2024-12-29",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "VALSARTAN COMP BASICS 80 mg/12,5 mg Filmtabletten",
@@ -1844,9 +1820,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2018-07-01",
-    "datumEnde": "2024-12-31",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2018-07-10",
-    "datumLetzteMeldung": "2024-07-03",
+    "datumLetzteMeldung": "2024-12-29",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "VALSARTAN COMP BASICS 80 mg/12,5 mg Filmtabletten",
@@ -1867,9 +1843,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2018-07-01",
-    "datumEnde": "2024-12-31",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2018-07-10",
-    "datumLetzteMeldung": "2024-07-03",
+    "datumLetzteMeldung": "2024-12-29",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "VALSARTAN COMP BASICS 80 mg/12,5 mg Filmtabletten",
@@ -2348,7 +2324,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2374,7 +2350,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2400,7 +2376,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2426,7 +2402,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2452,7 +2428,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2478,7 +2454,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2547,7 +2523,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -2570,7 +2546,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -2593,7 +2569,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -2929,30 +2905,6 @@
     "mail": "KD_Service@novonordisk.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Novofem Filmtabletten - Einreichungsnummer: 2147567"
-  },
-  {
-    "pzn": [
-      "09280314"
-    ],
-    "enr": [
-      "2709207"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-10-01",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-09-11",
-    "datumLetzteMeldung": "2024-09-11",
-    "grund": "Sonstige",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ovitrelle 250 Mikrogramm Injektionslösung in Fertigpen - OP0,5ml",
-    "atcCode": "G03GA08",
-    "wirkstoffe": "Choriogonadotropin alfa",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Merck Europe B.V.",
-    "telefon": "08004288373",
-    "mail": "service@merckgroup.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Ovitrelle 250 Mikrogramm/0,5ml Injektionslösung in Fertigspritze - OP1 - Einreichungsnummer: 2702425"
   },
   {
     "pzn": [
@@ -4839,29 +4791,6 @@
   },
   {
     "pzn": [
-      "16045358"
-    ],
-    "enr": [
-      "2199587"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-17",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2024-04-24",
-    "datumLetzteMeldung": "2024-10-31",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Erhöhte Nachfrage",
-    "bezeichnung": "CLARITHROMYCIN BASICS 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA09",
-    "wirkstoffe": "Clarithromycin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Basics GmbH",
-    "mail": "rabattvertraege@sunpharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04332377"
     ],
     "enr": [
@@ -6169,7 +6098,7 @@
     "atcCode": "J04AC01",
     "wirkstoffe": "Isoniazid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -8098,6 +8027,29 @@
     "zulassungsinhaber": "Aspen Pharma Trading Limited",
     "telefon": "+49 89  93 08 38 00",
     "mail": "de-info@aspenpharma.eu",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03632634"
+    ],
+    "enr": [
+      "2104034"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-30",
+    "datumEnde": "2025-01-31",
+    "datumErstmeldung": "2024-12-30",
+    "datumLetzteMeldung": "2024-12-30",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "MST 30 mg Mundipharma",
+    "atcCode": "N02AA01",
+    "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069 506029-000",
+    "mail": "medinfo@mundipharma.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -12984,7 +12936,7 @@
     "atcCode": "N06AA04",
     "wirkstoffe": "Clomipraminhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Anafranil 75 mg retard - Einreichungsnummer: 2129687"
@@ -14662,7 +14614,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -14685,7 +14637,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -14708,7 +14660,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -14731,7 +14683,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -14754,7 +14706,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -14776,7 +14728,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -14798,7 +14750,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -14821,7 +14773,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -14844,7 +14796,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -16875,7 +16827,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
