@@ -4212,6 +4212,29 @@
   },
   {
     "pzn": [
+      "19222855"
+    ],
+    "enr": [
+      "7015031"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-09",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-01-13",
+    "datumLetzteMeldung": "2025-01-13",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Emblaveo",
+    "atcCode": "J01DF51",
+    "wirkstoffe": "Avibactam-Natrium; Aztreonam",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pfizer Europe MA EEIG",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "07507110"
     ],
     "enr": [
@@ -6546,30 +6569,6 @@
   },
   {
     "pzn": [
-      "08829560"
-    ],
-    "enr": [
-      "2140379"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-11-20",
-    "datumEnde": "2025-01-06",
-    "datumErstmeldung": "2024-12-06",
-    "datumLetzteMeldung": "2024-12-06",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Verzögerung in der Lieferkette",
-    "bezeichnung": "Mitem 20mg",
-    "atcCode": "L01DC03",
-    "wirkstoffe": "Mitomycin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Substipharm",
-    "telefon": "+49 5151 609 96 24",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Mitem 20mg - Einreichungsnummer: 2140379"
-  },
-  {
-    "pzn": [
       "06559665"
     ],
     "enr": [
@@ -6851,9 +6850,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-03-01",
-    "datumEnde": "2024-12-31",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2021-03-18",
-    "datumLetzteMeldung": "2024-01-08",
+    "datumLetzteMeldung": "2025-01-13",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Verknappung der Packungsgröße",
@@ -6876,9 +6875,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-03-01",
-    "datumEnde": "2024-12-31",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2021-03-18",
-    "datumLetzteMeldung": "2024-01-08",
+    "datumLetzteMeldung": "2025-01-13",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Verknappung der Packungsgröße",
@@ -8246,29 +8245,6 @@
     "telefon": "0800 53 53 010",
     "mail": "MedInfo.DE@zentiva.com",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06103681"
-    ],
-    "enr": [
-      "2178115"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-06-04",
-    "datumEnde": "2025-01-24",
-    "datumErstmeldung": "2024-06-18",
-    "datumLetzteMeldung": "2024-10-01",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-dura 4 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Germany GmbH",
-    "telefon": "0800 0700 800",
-    "mail": "kundenservice@viatris.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -15741,6 +15717,29 @@
     "mail": "sehlers@panpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Neostig-Carinopharm 0,5 mg/ml - Einreichungsnummer: 0139471"
+  },
+  {
+    "pzn": [
+      "05458525"
+    ],
+    "enr": [
+      "3000611"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-30",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-01-13",
+    "datumLetzteMeldung": "2025-01-13",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Kalymin 10 N",
+    "atcCode": "N07AA02",
+    "wirkstoffe": "Pyridostigminbromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
