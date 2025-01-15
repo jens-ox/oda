@@ -2056,11 +2056,11 @@
     "enr": [
       "0148671"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-11-15",
-    "datumEnde": "2025-02-02",
+    "datumEnde": "2025-03-02",
     "datumErstmeldung": "2024-11-20",
-    "datumLetzteMeldung": "2024-11-20",
+    "datumLetzteMeldung": "2025-01-14",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Leukase N Puder",
@@ -2121,6 +2121,29 @@
   },
   {
     "pzn": [
+      "00165221"
+    ],
+    "enr": [
+      "2136963"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-01",
+    "datumEnde": "2025-05-04",
+    "datumErstmeldung": "2025-01-14",
+    "datumLetzteMeldung": "2025-01-14",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "SODERM Salbe",
+    "atcCode": "D07AC01",
+    "wirkstoffe": "Betamethasonvalerat (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "08820441"
     ],
     "enr": [
@@ -2143,6 +2166,30 @@
   },
   {
     "pzn": [
+      "03954993"
+    ],
+    "enr": [
+      "2184545"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-02",
+    "datumEnde": "2025-04-11",
+    "datumErstmeldung": "2025-01-14",
+    "datumLetzteMeldung": "2025-01-14",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednicarbat acis Lösung",
+    "atcCode": "D07AC18",
+    "wirkstoffe": "Prednicarbat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "089 44 23 246 0",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Prednicarbat acis Lösung - Einreichungsnummer: 2184545"
+  },
+  {
+    "pzn": [
       "07608986"
     ],
     "enr": [
@@ -2150,9 +2197,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-11-06",
-    "datumEnde": "2025-02-16",
+    "datumEnde": "2025-04-27",
     "datumErstmeldung": "2024-11-15",
-    "datumLetzteMeldung": "2024-12-04",
+    "datumLetzteMeldung": "2025-01-14",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Prednitop Crinale",
@@ -2319,6 +2366,29 @@
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17445338"
+    ],
+    "enr": [
+      "2201414"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-13",
+    "datumEnde": "2025-02-23",
+    "datumErstmeldung": "2025-01-14",
+    "datumLetzteMeldung": "2025-01-14",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Gentamicutan comp 0,64 mg/g + 1,67 mg/g Creme",
+    "atcCode": "D07CC01",
+    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Gentamicinsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -5627,9 +5697,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-06-01",
-    "datumEnde": "2025-01-12",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2024-06-05",
-    "datumLetzteMeldung": "2024-12-20",
+    "datumLetzteMeldung": "2025-01-14",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Flucoderm Kapseln 50 mg",
@@ -5637,7 +5707,7 @@
     "wirkstoffe": "Fluconazol",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "mail": "elisabeth.rueckert@dermapharm.de",
+    "mail": "elisabeth.rueckert@dermapharm.com",
     "infoFachkreise": "Nein"
   },
   {
@@ -10400,6 +10470,30 @@
   },
   {
     "pzn": [
+      "11095624"
+    ],
+    "enr": [
+      "2198872"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-12",
+    "datumEnde": "2025-01-24",
+    "datumErstmeldung": "2024-12-13",
+    "datumLetzteMeldung": "2025-01-14",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pramipexol Mylan 0,52 mg Retardtabletten",
+    "atcCode": "N04BC05",
+    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Germany GmbH",
+    "telefon": "0800 0700 800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Pramipexol dura 0,18 mg Tabletten - Einreichungsnummer: 2177786"
+  },
+  {
+    "pzn": [
       "08997872"
     ],
     "enr": [
@@ -10422,30 +10516,6 @@
     "mail": "felix.sack@boehringer-ingelheim.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "SIFROL 0,35 mg Tabletten - OP100 - Einreichungsnummer: 2700944"
-  },
-  {
-    "pzn": [
-      "11095624"
-    ],
-    "enr": [
-      "2198872"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-12",
-    "datumEnde": "2025-01-14",
-    "datumErstmeldung": "2024-12-13",
-    "datumLetzteMeldung": "2024-12-13",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pramipexol Mylan 0,52 mg Retardtabletten",
-    "atcCode": "N04BC05",
-    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Germany GmbH",
-    "telefon": "0800 0700 800",
-    "mail": "kundenservice@viatris.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Pramipexol dura 0,18 mg Tabletten - Einreichungsnummer: 2177786"
   },
   {
     "pzn": [
