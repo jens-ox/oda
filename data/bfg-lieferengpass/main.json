@@ -467,6 +467,53 @@
   },
   {
     "pzn": [
+      "15398534"
+    ],
+    "enr": [
+      "2714966"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-16",
+    "datumEnde": "2025-02-04",
+    "datumErstmeldung": "2025-01-16",
+    "datumLetzteMeldung": "2025-01-16",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP1,5 ml",
+    "atcCode": "A10BJ06",
+    "wirkstoffe": "Semaglutid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Ozempic 0,5 mg Injektionslösung in einem Fertigpen - OP(3x1,5ml) - Einreichungsnummer: 2714967"
+  },
+  {
+    "pzn": [
+      "18299347"
+    ],
+    "enr": [
+      "7010557"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-16",
+    "datumEnde": "2025-02-11",
+    "datumErstmeldung": "2025-01-16",
+    "datumLetzteMeldung": "2025-01-16",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Wegovy FlexTouch",
+    "atcCode": "A10BJ06",
+    "wirkstoffe": "Semaglutid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "04029118"
     ],
     "enr": [
@@ -2232,7 +2279,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2258,7 +2305,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2284,7 +2331,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2310,7 +2357,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2336,7 +2383,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2362,7 +2409,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2432,7 +2479,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -2455,7 +2502,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -2478,7 +2525,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -3083,6 +3130,30 @@
     "zulassungsinhaber": "Dr. Pfleger Arzneimittel GmbH - Geschäftsanschrift -",
     "mail": "regaffairs@dr-pfleger.de",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "05459393"
+    ],
+    "enr": [
+      "2178464"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-16",
+    "datumEnde": "2025-01-31",
+    "datumErstmeldung": "2025-01-16",
+    "datumLetzteMeldung": "2025-01-16",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Norditropin FlexPro 5 mg/1,5 ml Injektionslösung in einem Fertigpen",
+    "atcCode": "H01AC01",
+    "wirkstoffe": "Somatropin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Norditropin FlexPro 5 mg/1,5 ml Injektionslösung in einem Fertigpen - Einreichungsnummer: 2178464"
   },
   {
     "pzn": [
@@ -5255,29 +5326,6 @@
   },
   {
     "pzn": [
-      "01676768"
-    ],
-    "enr": [
-      "2116805"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-15",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2025-01-15",
-    "datumLetzteMeldung": "2025-01-15",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "starke Nachfrage",
-    "bezeichnung": "Vancomycin CP 500mg",
-    "atcCode": "J01XA01",
-    "wirkstoffe": "Vancomycinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hikma Farmaceutica (Portugal), S.A.",
-    "mail": "rluetzner@hikma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "12472448"
     ],
     "enr": [
@@ -5287,7 +5335,7 @@
     "datumBeginn": "2024-12-18",
     "datumEnde": "2025-01-15",
     "datumErstmeldung": "2024-12-20",
-    "datumLetzteMeldung": "2024-12-20",
+    "datumLetzteMeldung": "2025-01-16",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "n.a.",
@@ -5310,7 +5358,7 @@
     "datumBeginn": "2024-12-18",
     "datumEnde": "2025-01-15",
     "datumErstmeldung": "2024-12-20",
-    "datumLetzteMeldung": "2024-12-20",
+    "datumLetzteMeldung": "2025-01-16",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "n.a.",
@@ -5333,7 +5381,7 @@
     "datumBeginn": "2024-12-18",
     "datumEnde": "2025-01-15",
     "datumErstmeldung": "2024-12-20",
-    "datumLetzteMeldung": "2024-12-20",
+    "datumLetzteMeldung": "2025-01-16",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "n.a.",
@@ -5356,7 +5404,7 @@
     "datumBeginn": "2024-12-18",
     "datumEnde": "2025-01-15",
     "datumErstmeldung": "2024-12-20",
-    "datumLetzteMeldung": "2024-12-20",
+    "datumLetzteMeldung": "2025-01-16",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "n.a.",
@@ -5379,7 +5427,7 @@
     "datumBeginn": "2024-12-18",
     "datumEnde": "2025-01-15",
     "datumErstmeldung": "2024-12-20",
-    "datumLetzteMeldung": "2024-12-20",
+    "datumLetzteMeldung": "2025-01-16",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "n.a.",
@@ -5393,25 +5441,25 @@
   },
   {
     "pzn": [
-      "12472508"
+      "01676768"
     ],
     "enr": [
-      "2192809"
+      "2116805"
     ],
     "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-12-18",
-    "datumEnde": "2025-01-15",
-    "datumErstmeldung": "2024-12-20",
-    "datumLetzteMeldung": "2024-12-20",
-    "grund": "Sonstige",
+    "datumBeginn": "2025-01-15",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-01-15",
+    "datumLetzteMeldung": "2025-01-15",
+    "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
-    "grundAnmerkung": "n.a.",
-    "bezeichnung": "Vancomycin Dr. Eberth 1000 mg Pulver für ein Konzentrat zur Herstellung einer Infusionslösung oder einer Lösung zum Einnehmen",
+    "grundAnmerkung": "starke Nachfrage",
+    "bezeichnung": "Vancomycin CP 500mg",
     "atcCode": "J01XA01",
     "wirkstoffe": "Vancomycinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
-    "mail": "schoeberl@eberth.de",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hikma Farmaceutica (Portugal), S.A.",
+    "mail": "rluetzner@hikma.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5866,7 +5914,7 @@
     "atcCode": "J04AC01",
     "wirkstoffe": "Isoniazid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -6362,52 +6410,6 @@
   },
   {
     "pzn": [
-      "05505911"
-    ],
-    "enr": [
-      "2169430"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-09-23",
-    "datumEnde": "2025-01-31",
-    "datumErstmeldung": "2024-09-27",
-    "datumLetzteMeldung": "2024-09-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Vincristinsulfat-TEVA 1 mg/ml Injektionslösung",
-    "atcCode": "L01CA02",
-    "wirkstoffe": "Vincristinsulfat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "TEVA GmbH",
-    "telefon": "0731 - 402 7657",
-    "mail": "rui.araujo@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05505928"
-    ],
-    "enr": [
-      "2169430"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-09-23",
-    "datumEnde": "2025-01-31",
-    "datumErstmeldung": "2024-09-27",
-    "datumLetzteMeldung": "2024-09-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Vincristinsulfat-TEVA 1 mg/ml Injektionslösung",
-    "atcCode": "L01CA02",
-    "wirkstoffe": "Vincristinsulfat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "TEVA GmbH",
-    "telefon": "0731 - 402 7657",
-    "mail": "rui.araujo@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "08754862"
     ],
     "enr": [
@@ -6429,6 +6431,52 @@
     "telefon": "+4961016032416",
     "mail": "christiane.georgi@stada.de",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00753892"
+    ],
+    "enr": [
+      "2145891"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-01",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-09-11",
+    "datumLetzteMeldung": "2025-01-16",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Eto-Gry 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "L01CB01",
+    "wirkstoffe": "Etoposid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "rui.araujo@ratiopharm.de",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Eto-Gry 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung - Einreichungsnummer: 2145891"
+  },
+  {
+    "pzn": [
+      "00753946"
+    ],
+    "enr": [
+      "2145891"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-01",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-09-11",
+    "datumLetzteMeldung": "2025-01-16",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Eto-Gry 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "L01CB01",
+    "wirkstoffe": "Etoposid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "rui.araujo@ratiopharm.de",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Eto-Gry 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung - Einreichungsnummer: 2145891"
   },
   {
     "pzn": [
@@ -6523,29 +6571,6 @@
     "mail": "RA-Vepesid@cheplapharm.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Vepesid K 50 mg, Weichkapsel - Einreichungsnummer: 2113220"
-  },
-  {
-    "pzn": [
-      "00753892"
-    ],
-    "enr": [
-      "2145891"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-01",
-    "datumEnde": "2025-06-30",
-    "datumErstmeldung": "2024-09-11",
-    "datumLetzteMeldung": "2024-12-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Eto-Gry 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
-    "atcCode": "L01CB01",
-    "wirkstoffe": "Etoposid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "rui.araujo@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Eto-Gry 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung - Einreichungsnummer: 2145891"
   },
   {
     "pzn": [
@@ -6784,9 +6809,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-11-01",
-    "datumEnde": "2025-04-30",
+    "datumEnde": "2025-02-28",
     "datumErstmeldung": "2024-11-20",
-    "datumLetzteMeldung": "2025-01-15",
+    "datumLetzteMeldung": "2025-01-16",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Tamoxifen AL 30",
@@ -7652,7 +7677,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -12433,6 +12458,29 @@
   },
   {
     "pzn": [
+      "19236136"
+    ],
+    "enr": [
+      "7012032"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-01",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2025-01-16",
+    "datumLetzteMeldung": "2025-01-16",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Paliperidon AL 25 mg Depot-Injektionssuspension in einer Fertigspritze",
+    "atcCode": "N05AX13",
+    "wirkstoffe": "Paliperidonpalmitat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "03295007"
     ],
     "enr": [
@@ -12833,7 +12881,7 @@
     "atcCode": "N06AA04",
     "wirkstoffe": "Clomipraminhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Anafranil 75 mg retard - Einreichungsnummer: 2129687"
@@ -14845,7 +14893,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -14868,7 +14916,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -14891,7 +14939,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -14914,7 +14962,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -14937,7 +14985,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -14959,7 +15007,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -14981,7 +15029,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -15004,7 +15052,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -15027,7 +15075,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -16412,6 +16460,123 @@
   },
   {
     "pzn": [
+      "07124225"
+    ],
+    "enr": [
+      "2130866"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-15",
+    "datumEnde": "2025-02-28",
+    "datumErstmeldung": "2025-01-16",
+    "datumLetzteMeldung": "2025-01-16",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Flutide 250 Diskus",
+    "atcCode": "R03BA05",
+    "wirkstoffe": "Fluticasonpropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
+    "telefon": "0800 1223355",
+    "mail": "service.info@gsk.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Flutide 250 Diskus - Einreichungsnummer: 2130866"
+  },
+  {
+    "pzn": [
+      "07124248"
+    ],
+    "enr": [
+      "2130867"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-11",
+    "datumEnde": "2025-02-21",
+    "datumErstmeldung": "2025-01-16",
+    "datumLetzteMeldung": "2025-01-16",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Flutide forte 500 Diskus",
+    "atcCode": "R03BA05",
+    "wirkstoffe": "Fluticasonpropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
+    "telefon": "0800 1223355",
+    "mail": "service.info@gsk.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Flutide forte 500 Diskus - Einreichungsnummer: 2130867"
+  },
+  {
+    "pzn": [
+      "07533194"
+    ],
+    "enr": [
+      "2139642"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-10",
+    "datumEnde": "2025-03-07",
+    "datumErstmeldung": "2025-01-16",
+    "datumLetzteMeldung": "2025-01-16",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Flutide forte 250 µg Dosier-Aerosol",
+    "atcCode": "R03BA05",
+    "wirkstoffe": "Fluticasonpropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
+    "telefon": "0800 1223355",
+    "mail": "service.info@gsk.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07533142"
+    ],
+    "enr": [
+      "2139641"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-11",
+    "datumEnde": "2025-02-17",
+    "datumErstmeldung": "2025-01-16",
+    "datumLetzteMeldung": "2025-01-16",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Flutide 125 µg Dosier-Aerosol",
+    "atcCode": "R03BA05",
+    "wirkstoffe": "Fluticasonpropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
+    "telefon": "0800 1223355",
+    "mail": "service.info@gsk.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07533159"
+    ],
+    "enr": [
+      "2139641"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-11",
+    "datumEnde": "2025-02-17",
+    "datumErstmeldung": "2025-01-16",
+    "datumLetzteMeldung": "2025-01-16",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Flutide 125 µg Dosier-Aerosol",
+    "atcCode": "R03BA05",
+    "wirkstoffe": "Fluticasonpropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
+    "telefon": "0800 1223355",
+    "mail": "service.info@gsk.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "11072267"
     ],
     "enr": [
@@ -16745,7 +16910,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
@@ -16859,7 +17024,7 @@
     "atcCode": "S01CA02",
     "wirkstoffe": "Oxytetracyclinhydrochlorid; Prednisolon",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein"
   },
