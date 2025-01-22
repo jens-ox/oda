@@ -675,30 +675,6 @@
   },
   {
     "pzn": [
-      "03075346"
-    ],
-    "enr": [
-      "1441686"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-06",
-    "datumEnde": "2025-01-25",
-    "datumErstmeldung": "2024-09-06",
-    "datumLetzteMeldung": "2025-01-17",
-    "grund": "Probleme beim Wirkstoffhersteller",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
-    "bezeichnung": "Ferrlecit 40 mg",
-    "atcCode": "B03AC",
-    "wirkstoffe": "Eisen(III)-natrium-D-gluconat-hydroxid-oxid-Komplex (ca. 2:1:1:x:y)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "0800 52 52 010",
-    "mail": "medinfo.de@sanofi.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03075375"
     ],
     "enr": [
@@ -706,9 +682,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-09-06",
-    "datumEnde": "2025-01-31",
+    "datumEnde": "2025-03-07",
     "datumErstmeldung": "2024-09-06",
-    "datumLetzteMeldung": "2025-01-17",
+    "datumLetzteMeldung": "2025-01-21",
     "grund": "Probleme beim Wirkstoffhersteller",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
@@ -718,6 +694,30 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
     "telefon": "08005252010",
+    "mail": "medinfo.de@sanofi.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03075346"
+    ],
+    "enr": [
+      "1441686"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-06",
+    "datumEnde": "2025-02-05",
+    "datumErstmeldung": "2024-09-06",
+    "datumLetzteMeldung": "2025-01-21",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
+    "bezeichnung": "Ferrlecit 40 mg",
+    "atcCode": "B03AC",
+    "wirkstoffe": "Eisen(III)-natrium-D-gluconat-hydroxid-oxid-Komplex (ca. 2:1:1:x:y)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "0800 52 52 010",
     "mail": "medinfo.de@sanofi.com",
     "infoFachkreise": "Vorgesehen"
   },
@@ -4540,29 +4540,6 @@
   },
   {
     "pzn": [
-      "03811302"
-    ],
-    "enr": [
-      "2160113"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-24",
-    "datumEnde": "2025-01-17",
-    "datumErstmeldung": "2024-09-20",
-    "datumLetzteMeldung": "2024-12-27",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clarithromycin-1A Pharma 250 mg Filmtabletten",
-    "atcCode": "J01FA09",
-    "wirkstoffe": "Clarithromycin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Clarithromycin-1A Pharma 250 mg Filmtabletten - Einreichungsnummer: 2160113"
-  },
-  {
-    "pzn": [
       "04330929"
     ],
     "enr": [
@@ -5782,6 +5759,30 @@
     "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03827272"
+    ],
+    "enr": [
+      "0193128"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-09",
+    "datumEnde": "2025-04-18",
+    "datumErstmeldung": "2025-01-21",
+    "datumLetzteMeldung": "2025-01-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "deutlich erhöhte Abverkäufe",
+    "bezeichnung": "EMB-FATOL 100 mg",
+    "atcCode": "J04AK02",
+    "wirkstoffe": "Ethambutoldihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "mail": "mratzlaff@esteve.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "EMB-FATOL 100 mg - Einreichungsnummer: 0193128"
   },
   {
     "pzn": [
@@ -9802,11 +9803,11 @@
     "enr": [
       "2196836"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-11-07",
-    "datumEnde": "2025-01-15",
+    "datumEnde": "2025-02-28",
     "datumErstmeldung": "2024-11-14",
-    "datumLetzteMeldung": "2024-11-14",
+    "datumLetzteMeldung": "2025-01-21",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Ethosuximid-neuraxpharm 50 mg/ml Lösung zum Einnehmen",
@@ -12050,18 +12051,67 @@
   },
   {
     "pzn": [
+      "00822819"
+    ],
+    "enr": [
+      "2152997"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-11-21",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2024-11-21",
+    "datumLetzteMeldung": "2025-01-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Eingeschränke Lieferfähigkeit",
+    "bezeichnung": "RISPERDAL CONSTA 50 mg",
+    "atcCode": "N05AX08",
+    "wirkstoffe": "Risperidon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
+    "telefon": "+49 2137 955-2288",
+    "mail": "QS-DE@its.jnj.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02650096"
+    ],
+    "enr": [
+      "2152997"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-11-21",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2024-11-21",
+    "datumLetzteMeldung": "2025-01-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Eingeschränke Lieferfähigkeit",
+    "bezeichnung": "RISPERDAL CONSTA 50 mg",
+    "atcCode": "N05AX08",
+    "wirkstoffe": "Risperidon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
+    "telefon": "+49 2137 955-2288",
+    "mail": "QS-DE@its.jnj.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "00822788"
     ],
     "enr": [
       "2152996"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-27",
-    "datumEnde": "2025-01-31",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2024-12-27",
-    "datumLetzteMeldung": "2024-12-27",
+    "datumLetzteMeldung": "2025-01-21",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
+    "grundAnmerkung": "Eingeschränke Lieferfähigkeit",
     "bezeichnung": "RISPERDAL CONSTA 37,5 mg",
     "atcCode": "N05AX08",
     "wirkstoffe": "Risperidon",
@@ -12078,13 +12128,14 @@
     "enr": [
       "2152996"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-27",
-    "datumEnde": "2025-01-31",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2024-12-27",
-    "datumLetzteMeldung": "2024-12-27",
+    "datumLetzteMeldung": "2025-01-21",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
+    "grundAnmerkung": "Eingeschränke Lieferfähigkeit",
     "bezeichnung": "RISPERDAL CONSTA 37,5 mg",
     "atcCode": "N05AX08",
     "wirkstoffe": "Risperidon",
@@ -12093,6 +12144,31 @@
     "telefon": "+49 2137 955-2288",
     "mail": "QS-DE@its.jnj.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02650050"
+    ],
+    "enr": [
+      "2152995"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-26",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2024-09-25",
+    "datumLetzteMeldung": "2025-01-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Eingeschränke Lieferfähigkeit",
+    "bezeichnung": "RISPERDAL CONSTA 25 mg",
+    "atcCode": "N05AX08",
+    "wirkstoffe": "Risperidon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
+    "telefon": "+49 2137 - 955 - 2288",
+    "mail": "QS-DE@its.jnj.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "RISPERDAL CONSTA 25 mg - Einreichungsnummer: 2152995"
   },
   {
     "pzn": [
@@ -12159,76 +12235,6 @@
     "zulassungsinhaber": "ratiopharm GmbH",
     "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00822819"
-    ],
-    "enr": [
-      "2152997"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-21",
-    "datumEnde": "2025-01-31",
-    "datumErstmeldung": "2024-11-21",
-    "datumLetzteMeldung": "2024-11-21",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "RISPERDAL CONSTA 50 mg",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
-    "telefon": "+49 2137 955-2288",
-    "mail": "QS-DE@its.jnj.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02650096"
-    ],
-    "enr": [
-      "2152997"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-21",
-    "datumEnde": "2025-01-31",
-    "datumErstmeldung": "2024-11-21",
-    "datumLetzteMeldung": "2024-11-21",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "RISPERDAL CONSTA 50 mg",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
-    "telefon": "+49 2137 955-2288",
-    "mail": "QS-DE@its.jnj.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02650050"
-    ],
-    "enr": [
-      "2152995"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-26",
-    "datumEnde": "2025-01-31",
-    "datumErstmeldung": "2024-09-25",
-    "datumLetzteMeldung": "2024-11-21",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "RISPERDAL CONSTA 25 mg",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
-    "telefon": "08007910010",
-    "mail": "jancil@its.jnj.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "RISPERDAL CONSTA 25 mg - Einreichungsnummer: 2152995"
   },
   {
     "pzn": [
@@ -17531,9 +17537,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-01-10",
-    "datumEnde": "2025-01-16",
+    "datumEnde": "2025-01-23",
     "datumErstmeldung": "2024-02-09",
-    "datumLetzteMeldung": "2024-09-04",
+    "datumLetzteMeldung": "2025-01-21",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "L-Poladdict 30 mg Tabletten",
@@ -17553,9 +17559,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-01-10",
-    "datumEnde": "2025-01-16",
+    "datumEnde": "2025-01-23",
     "datumErstmeldung": "2024-02-09",
-    "datumLetzteMeldung": "2024-09-04",
+    "datumLetzteMeldung": "2025-01-21",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "L-Poladdict 30 mg Tabletten",
@@ -17575,9 +17581,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-01-10",
-    "datumEnde": "2025-01-16",
+    "datumEnde": "2025-01-23",
     "datumErstmeldung": "2024-02-09",
-    "datumLetzteMeldung": "2024-09-04",
+    "datumLetzteMeldung": "2025-01-21",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "L-Poladdict 30 mg Tabletten",
