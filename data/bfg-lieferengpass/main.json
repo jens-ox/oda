@@ -423,18 +423,18 @@
     "enr": [
       "2702452"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-20",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-03-17",
     "datumErstmeldung": "2025-01-20",
-    "datumLetzteMeldung": "2025-01-20",
+    "datumLetzteMeldung": "2025-01-23",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "grundAnmerkung": "erhöhte Nachfrage am Markt",
     "bezeichnung": "EMEND 80 mg Hartkapseln - OP(5x1)",
     "atcCode": "A04AD12",
     "wirkstoffe": "Aprepitant",
-    "krankenhausrelevant": false,
+    "krankenhausrelevant": true,
     "zulassungsinhaber": "Merck Sharp & Dohme B.V.",
     "telefon": "08945611873",
     "mail": "anton.dimopoulos@msd.de",
@@ -1656,6 +1656,161 @@
   },
   {
     "pzn": [
+      "14166715"
+    ],
+    "enr": [
+      "2193811"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2025-08-31",
+    "datumErstmeldung": "2023-02-15",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ROSUVASTATIN-ELPEN 5 mg Filmtabletten",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "telefon": "030 7974040 0",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14166721"
+    ],
+    "enr": [
+      "2193811"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2025-08-31",
+    "datumErstmeldung": "2023-02-15",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ROSUVASTATIN-ELPEN 5 mg Filmtabletten",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "telefon": "030 7974040 0",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14166738"
+    ],
+    "enr": [
+      "2193812"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2025-08-31",
+    "datumErstmeldung": "2023-03-07",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ROSUVASTATIN-ELPEN 10 mg Filmtabletten",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "telefon": "030 7974040 0",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14166744"
+    ],
+    "enr": [
+      "2193812"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2025-08-31",
+    "datumErstmeldung": "2023-03-07",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ROSUVASTATIN-ELPEN 10 mg Filmtabletten",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "telefon": "030 7974040 0",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14166750"
+    ],
+    "enr": [
+      "2193813"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2025-08-31",
+    "datumErstmeldung": "2023-02-21",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ROSUVASTATIN-ELPEN 20 mg Filmtabletten",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "telefon": "030 7974040 0",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14166767"
+    ],
+    "enr": [
+      "2193813"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2025-08-31",
+    "datumErstmeldung": "2023-02-21",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ROSUVASTATIN-ELPEN 20 mg Filmtabletten",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "telefon": "030 7974040 0",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16037850"
+    ],
+    "enr": [
+      "2193814"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-06",
+    "datumEnde": "2025-08-31",
+    "datumErstmeldung": "2023-03-07",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "ROSUVASTATIN-ELPEN 40 mg Filmtabletten",
+    "atcCode": "C10AA07",
+    "wirkstoffe": "Rosuvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+    "telefon": "030 7974040 0",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "ROSUVASTATIN-ELPEN 40 mg Filmtabletten - Einreichungsnummer: 2193814"
+  },
+  {
+    "pzn": [
       "13588578"
     ],
     "enr": [
@@ -1785,160 +1940,6 @@
     "zulassungsinhaber": "Aristo Pharma GmbH",
     "mail": "info@aristo-pharma.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16037850"
-    ],
-    "enr": [
-      "2193814"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2023-03-07",
-    "datumLetzteMeldung": "2024-07-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ROSUVASTATIN-ELPEN 40 mg Filmtabletten",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "030 7974040 0",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14166750"
-    ],
-    "enr": [
-      "2193813"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2023-02-21",
-    "datumLetzteMeldung": "2024-07-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ROSUVASTATIN-ELPEN 20 mg Filmtabletten",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "030 7974040 0",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14166767"
-    ],
-    "enr": [
-      "2193813"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2023-02-21",
-    "datumLetzteMeldung": "2024-07-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ROSUVASTATIN-ELPEN 20 mg Filmtabletten",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "030 7974040 0",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14166738"
-    ],
-    "enr": [
-      "2193812"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2023-03-07",
-    "datumLetzteMeldung": "2024-07-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ROSUVASTATIN-ELPEN 10 mg Filmtabletten",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "030 7974040 0",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14166744"
-    ],
-    "enr": [
-      "2193812"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2023-03-07",
-    "datumLetzteMeldung": "2024-07-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ROSUVASTATIN-ELPEN 10 mg Filmtabletten",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "030 7974040 0",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14166715"
-    ],
-    "enr": [
-      "2193811"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2023-02-15",
-    "datumLetzteMeldung": "2024-07-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ROSUVASTATIN-ELPEN 5 mg Filmtabletten",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "030 7974040 0",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14166721"
-    ],
-    "enr": [
-      "2193811"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-06",
-    "datumEnde": "2024-12-31",
-    "datumErstmeldung": "2023-02-15",
-    "datumLetzteMeldung": "2024-07-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ROSUVASTATIN-ELPEN 5 mg Filmtabletten",
-    "atcCode": "C10AA07",
-    "wirkstoffe": "Rosuvastatin-Hemicalcium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
-    "telefon": "030 7974040 0",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -3088,30 +3089,6 @@
   },
   {
     "pzn": [
-      "05459393"
-    ],
-    "enr": [
-      "2178464"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-16",
-    "datumEnde": "2025-01-31",
-    "datumErstmeldung": "2025-01-16",
-    "datumLetzteMeldung": "2025-01-16",
-    "grund": "Sonstige",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Norditropin FlexPro 5 mg/1,5 ml Injektionslösung in einem Fertigpen",
-    "atcCode": "H01AC01",
-    "wirkstoffe": "Somatropin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk Pharma GmbH",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Norditropin FlexPro 5 mg/1,5 ml Injektionslösung in einem Fertigpen - Einreichungsnummer: 2178464"
-  },
-  {
-    "pzn": [
       "00860926"
     ],
     "enr": [
@@ -3609,9 +3586,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-06-25",
-    "datumEnde": "2025-02-06",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2024-06-25",
-    "datumLetzteMeldung": "2025-01-09",
+    "datumLetzteMeldung": "2025-01-23",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "DoxyHexal 200 mg tabs",
@@ -4356,28 +4333,6 @@
   },
   {
     "pzn": [
-      "16575300"
-    ],
-    "enr": [
-      "2138192"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-05",
-    "datumEnde": "2025-01-31",
-    "datumErstmeldung": "2023-06-05",
-    "datumLetzteMeldung": "2024-11-05",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefadroxil 250 TS - 1 A Pharma",
-    "atcCode": "J01DB05",
-    "wirkstoffe": "Cefadroxil-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "19222855"
     ],
     "enr": [
@@ -4493,6 +4448,52 @@
   },
   {
     "pzn": [
+      "04332377"
+    ],
+    "enr": [
+      "2160407"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2025-02-09",
+    "datumErstmeldung": "2023-04-05",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "erwartete Lieferfähigkeit4332377\t30.11.2044332466\t06.02.2025",
+    "bezeichnung": "Clarithromycin - 1 A Pharma 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04332466"
+    ],
+    "enr": [
+      "2160407"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-04-05",
+    "datumEnde": "2025-02-09",
+    "datumErstmeldung": "2023-04-05",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "erwartete Lieferfähigkeit4332377\t30.11.2044332466\t06.02.2025",
+    "bezeichnung": "Clarithromycin - 1 A Pharma 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "04330929"
     ],
     "enr": [
@@ -4533,52 +4534,6 @@
     "atcCode": "J01FA09",
     "wirkstoffe": "Clarithromycin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04332377"
-    ],
-    "enr": [
-      "2160407"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-05",
-    "datumEnde": "2025-02-06",
-    "datumErstmeldung": "2023-04-05",
-    "datumLetzteMeldung": "2024-10-24",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "erwartete Lieferfähigkeit4332377\t30.11.2044332466\t06.02.2025",
-    "bezeichnung": "Clarithromycin - 1 A Pharma 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA09",
-    "wirkstoffe": "Clarithromycin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04332466"
-    ],
-    "enr": [
-      "2160407"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-04-05",
-    "datumEnde": "2025-02-06",
-    "datumErstmeldung": "2023-04-05",
-    "datumLetzteMeldung": "2024-10-24",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "erwartete Lieferfähigkeit4332377\t30.11.2044332466\t06.02.2025",
-    "bezeichnung": "Clarithromycin - 1 A Pharma 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA09",
-    "wirkstoffe": "Clarithromycin",
-    "krankenhausrelevant": true,
     "zulassungsinhaber": "1 A Pharma GmbH",
     "mail": "info@1apharma.com",
     "infoFachkreise": "Vorgesehen"
@@ -6439,6 +6394,98 @@
   },
   {
     "pzn": [
+      "10267431"
+    ],
+    "enr": [
+      "2109075"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-23",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-01-23",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Erhöhte Nachfrage seitens des Marktes bedingt durch bestehende Lieferengpässe",
+    "bezeichnung": "Doxorubicin HEXAL 2 mg/ml",
+    "atcCode": "L01DB01",
+    "wirkstoffe": "Doxorubicinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10267448"
+    ],
+    "enr": [
+      "2109075"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-23",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-01-23",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Erhöhte Nachfrage seitens des Marktes bedingt durch bestehende Lieferengpässe",
+    "bezeichnung": "Doxorubicin HEXAL 2 mg/ml",
+    "atcCode": "L01DB01",
+    "wirkstoffe": "Doxorubicinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10267454"
+    ],
+    "enr": [
+      "2109075"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-23",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-01-23",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Erhöhte Nachfrage seitens des Marktes bedingt durch bestehende Lieferengpässe",
+    "bezeichnung": "Doxorubicin HEXAL 2 mg/ml",
+    "atcCode": "L01DB01",
+    "wirkstoffe": "Doxorubicinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10267460"
+    ],
+    "enr": [
+      "2109075"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-23",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-01-23",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Erhöhte Nachfrage seitens des Marktes bedingt durch bestehende Lieferengpässe",
+    "bezeichnung": "Doxorubicin HEXAL 2 mg/ml",
+    "atcCode": "L01DB01",
+    "wirkstoffe": "Doxorubicinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "00252463"
     ],
     "enr": [
@@ -7043,11 +7090,11 @@
     "enr": [
       "2153547"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-10-10",
-    "datumEnde": "2025-01-31",
+    "datumEnde": "2025-07-07",
     "datumErstmeldung": "2024-10-17",
-    "datumLetzteMeldung": "2024-10-17",
+    "datumLetzteMeldung": "2025-01-23",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Ciclosporin Hexal 100 mg",
@@ -9797,28 +9844,6 @@
   },
   {
     "pzn": [
-      "04897197"
-    ],
-    "enr": [
-      "0002306"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-09-01",
-    "datumEnde": "2025-02-28",
-    "datumErstmeldung": "2024-09-04",
-    "datumLetzteMeldung": "2024-09-04",
-    "grund": "Herstellerwechsel",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Petnidan Saft",
-    "atcCode": "N03AD01",
-    "wirkstoffe": "Ethosuximid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
-    "mail": "info@desitin.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00914177"
     ],
     "enr": [
@@ -10046,50 +10071,6 @@
     "mail": "info@1apharma.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Valproat - 1 A Pharma 500 mg Retardtabletten - Einreichungsnummer: 2164972"
-  },
-  {
-    "pzn": [
-      "04343820"
-    ],
-    "enr": [
-      "2164971"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-09",
-    "datumEnde": "2025-01-31",
-    "datumErstmeldung": "2024-09-20",
-    "datumLetzteMeldung": "2024-11-11",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Valproat - 1 A Pharma 300 mg Retardtabletten",
-    "atcCode": "N03AG01",
-    "wirkstoffe": "Natriumvalproat; Valproinsäure",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04343837"
-    ],
-    "enr": [
-      "2164971"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-09",
-    "datumEnde": "2025-01-31",
-    "datumErstmeldung": "2024-09-20",
-    "datumLetzteMeldung": "2024-11-11",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Valproat - 1 A Pharma 300 mg Retardtabletten",
-    "atcCode": "N03AG01",
-    "wirkstoffe": "Natriumvalproat; Valproinsäure",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -10450,6 +10431,98 @@
   },
   {
     "pzn": [
+      "16352675"
+    ],
+    "enr": [
+      "2714802",
+      "7014929"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-23",
+    "datumEnde": "2025-03-22",
+    "datumErstmeldung": "2025-01-23",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "see below",
+    "bezeichnung": "Inbrija 33 mg Hartkapseln mit Pulver zur Inhalation",
+    "atcCode": "N04BA01",
+    "wirkstoffe": "Levodopa",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Acorda Therapeutics Ireland Limited",
+    "mail": "ute.muehlenbeck@merz.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17865106"
+    ],
+    "enr": [
+      "2714802",
+      "7014929"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-23",
+    "datumEnde": "2025-03-22",
+    "datumErstmeldung": "2025-01-23",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "see below",
+    "bezeichnung": "Inbrija 33 mg Hartkapseln mit Pulver zur Inhalation",
+    "atcCode": "N04BA01",
+    "wirkstoffe": "Levodopa",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Acorda Therapeutics Ireland Limited",
+    "mail": "ute.muehlenbeck@merz.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07604244"
+    ],
+    "enr": [
+      "2190751"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-10-28",
+    "datumEnde": "2025-02-06",
+    "datumErstmeldung": "2024-12-03",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pramipexol - 1 A Pharma 0,52 mg Retardtabletten",
+    "atcCode": "N04BC05",
+    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07604250"
+    ],
+    "enr": [
+      "2190751"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-10-28",
+    "datumEnde": "2025-02-06",
+    "datumErstmeldung": "2024-12-03",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pramipexol - 1 A Pharma 0,52 mg Retardtabletten",
+    "atcCode": "N04BC05",
+    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "11095624"
     ],
     "enr": [
@@ -10457,9 +10530,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-08-12",
-    "datumEnde": "2025-01-24",
+    "datumEnde": "2025-02-10",
     "datumErstmeldung": "2024-12-13",
-    "datumLetzteMeldung": "2025-01-14",
+    "datumLetzteMeldung": "2025-01-23",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Pramipexol Mylan 0,52 mg Retardtabletten",
@@ -10471,6 +10544,52 @@
     "mail": "kundenservice@viatris.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Pramipexol dura 0,18 mg Tabletten - Einreichungsnummer: 2177786"
+  },
+  {
+    "pzn": [
+      "16733006"
+    ],
+    "enr": [
+      "2205357"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-01",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2024-12-11",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Pramipexol STADA 0,52 mg Retardtabletten",
+    "atcCode": "N04BC05",
+    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM GmbH",
+    "telefon": "061016032416",
+    "mail": "christiane.georgi@stada.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16733012"
+    ],
+    "enr": [
+      "2205357"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-01",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2024-12-11",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Pramipexol STADA 0,52 mg Retardtabletten",
+    "atcCode": "N04BC05",
+    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM GmbH",
+    "telefon": "061016032416",
+    "mail": "christiane.georgi@stada.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -10613,52 +10732,6 @@
   },
   {
     "pzn": [
-      "16733006"
-    ],
-    "enr": [
-      "2205357"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-01",
-    "datumEnde": "2025-05-15",
-    "datumErstmeldung": "2024-12-11",
-    "datumLetzteMeldung": "2024-12-11",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Pramipexol STADA 0,52 mg Retardtabletten",
-    "atcCode": "N04BC05",
-    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "telefon": "061016032416",
-    "mail": "christiane.georgi@stada.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16733012"
-    ],
-    "enr": [
-      "2205357"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-01",
-    "datumEnde": "2025-05-15",
-    "datumErstmeldung": "2024-12-11",
-    "datumLetzteMeldung": "2024-12-11",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Pramipexol STADA 0,52 mg Retardtabletten",
-    "atcCode": "N04BC05",
-    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "telefon": "061016032416",
-    "mail": "christiane.georgi@stada.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "16732975"
     ],
     "enr": [
@@ -10701,50 +10774,6 @@
     "zulassungsinhaber": "STADAPHARM GmbH",
     "telefon": "061016032416",
     "mail": "christiane.georgi@stada.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07604244"
-    ],
-    "enr": [
-      "2190751"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-10-28",
-    "datumEnde": "2025-02-06",
-    "datumErstmeldung": "2024-12-03",
-    "datumLetzteMeldung": "2024-12-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pramipexol - 1 A Pharma 0,52 mg Retardtabletten",
-    "atcCode": "N04BC05",
-    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07604250"
-    ],
-    "enr": [
-      "2190751"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-10-28",
-    "datumEnde": "2025-02-06",
-    "datumErstmeldung": "2024-12-03",
-    "datumLetzteMeldung": "2024-12-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pramipexol - 1 A Pharma 0,52 mg Retardtabletten",
-    "atcCode": "N04BC05",
-    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -16030,6 +16059,30 @@
   },
   {
     "pzn": [
+      "09219711"
+    ],
+    "enr": [
+      "2710108"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-23",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-01-23",
+    "datumLetzteMeldung": "2025-01-23",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Unexpected higher demand than forecasted",
+    "bezeichnung": "Fampyra 10 mg Retardtabletten - OP28(2x14)(Bl)",
+    "atcCode": "N07XX07",
+    "wirkstoffe": "Fampridin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Acorda Therapeutics Ireland Limited",
+    "mail": "ute.muehlenbeck@merz.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Fampyra 10 mg Retardtabletten - OP56(4x14)(Bl) - Einreichungsnummer: 2710109"
+  },
+  {
+    "pzn": [
       "16015972"
     ],
     "enr": [
@@ -16051,75 +16104,6 @@
     "mail": "service.info@gsk.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Sultanol forte Fertiginhalat - Einreichungsnummer: 2106493"
-  },
-  {
-    "pzn": [
-      "00246244"
-    ],
-    "enr": [
-      "2141204"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-15",
-    "datumEnde": "2025-01-17",
-    "datumErstmeldung": "2024-06-19",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Apsomol N",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
-    "telefon": "+44 (1271) 334609",
-    "mail": "medicalinformation@tawpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00246250"
-    ],
-    "enr": [
-      "2141204"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-15",
-    "datumEnde": "2025-01-17",
-    "datumErstmeldung": "2024-06-19",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Apsomol N",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
-    "telefon": "+44 (1271) 334609",
-    "mail": "medicalinformation@tawpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00246267"
-    ],
-    "enr": [
-      "2141204"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-15",
-    "datumEnde": "2025-01-17",
-    "datumErstmeldung": "2024-06-19",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Apsomol N",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JensonR+ (Ireland) Limited",
-    "telefon": "+44 (1271) 334609",
-    "mail": "medicalinformation@tawpharma.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
