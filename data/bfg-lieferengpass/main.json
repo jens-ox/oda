@@ -1608,9 +1608,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-10-01",
-    "datumEnde": "2025-01-30",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2023-10-05",
-    "datumLetzteMeldung": "2024-07-18",
+    "datumLetzteMeldung": "2025-02-03",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Perindopril/Amlodipin Denk 8 mg/5 mg Tabletten",
@@ -1618,7 +1618,7 @@
     "wirkstoffe": "Amlodipinbesilat; Perindopril-tert-butylamin",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
-    "mail": "edith.eigenberger@denkpharma.de",
+    "mail": "theresa.arlt@denkpharma.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2316,7 +2316,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2342,7 +2342,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2368,7 +2368,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2394,7 +2394,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2420,7 +2420,7 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -2446,33 +2446,10 @@
     "atcCode": "D07BB01",
     "wirkstoffe": "Clioquinol; Flumetasonpivalat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "+49 38351 76-0",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17445338"
-    ],
-    "enr": [
-      "2201414"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-13",
-    "datumEnde": "2025-02-23",
-    "datumErstmeldung": "2025-01-14",
-    "datumLetzteMeldung": "2025-01-14",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Gentamicutan comp 0,64 mg/g + 1,67 mg/g Creme",
-    "atcCode": "D07CC01",
-    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Gentamicinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -2516,7 +2493,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -2539,7 +2516,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -2562,7 +2539,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -2712,6 +2689,29 @@
   },
   {
     "pzn": [
+      "06488729"
+    ],
+    "enr": [
+      "0608977"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-26",
+    "datumEnde": "2025-05-28",
+    "datumErstmeldung": "2024-08-01",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "MPA GYN 5",
+    "atcCode": "G03DA02",
+    "wirkstoffe": "Medroxyprogesteronacetat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "MPA GYN 5 - Einreichungsnummer: 0608977"
+  },
+  {
+    "pzn": [
       "08728416"
     ],
     "enr": [
@@ -2719,9 +2719,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-26",
-    "datumEnde": "2025-04-23",
+    "datumEnde": "2025-05-28",
     "datumErstmeldung": "2024-08-01",
-    "datumLetzteMeldung": "2024-12-27",
+    "datumLetzteMeldung": "2025-02-03",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "MPA GYN 5",
@@ -4597,6 +4597,141 @@
   },
   {
     "pzn": [
+      "00101310"
+    ],
+    "enr": [
+      "2155619"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-09",
+    "datumEnde": "2025-04-11",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin HEXAL 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00230007"
+    ],
+    "enr": [
+      "2155619"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-09",
+    "datumEnde": "2025-04-11",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin HEXAL 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00278379"
+    ],
+    "enr": [
+      "2155619"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-09",
+    "datumEnde": "2025-04-11",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin HEXAL 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04044313"
+    ],
+    "enr": [
+      "2167358"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-28",
+    "datumEnde": "2025-02-21",
+    "datumErstmeldung": "2024-06-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "voraussichtliche Verfügbarkeiten4044313\t20.01.20254044336\t17.01.20254044342\t21.02.2025",
+    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04044336"
+    ],
+    "enr": [
+      "2167358"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-28",
+    "datumEnde": "2025-02-21",
+    "datumErstmeldung": "2024-06-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "voraussichtliche Verfügbarkeiten4044313\t20.01.20254044336\t17.01.20254044342\t21.02.2025",
+    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04044342"
+    ],
+    "enr": [
+      "2167358"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-28",
+    "datumEnde": "2025-02-21",
+    "datumErstmeldung": "2024-06-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "voraussichtliche Verfügbarkeiten4044313\t20.01.20254044336\t17.01.20254044342\t21.02.2025",
+    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "03738232"
     ],
     "enr": [
@@ -4663,75 +4798,6 @@
     "telefon": "+49 (0) 30 550055-51000",
     "mail": "medical.information@pfizer.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04044313"
-    ],
-    "enr": [
-      "2167358"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-28",
-    "datumEnde": "2025-02-27",
-    "datumErstmeldung": "2024-06-03",
-    "datumLetzteMeldung": "2024-12-06",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "voraussichtliche Verfügbarkeiten4044313\t20.01.20254044336\t17.01.20254044342\t21.02.2025",
-    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04044336"
-    ],
-    "enr": [
-      "2167358"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-28",
-    "datumEnde": "2025-02-27",
-    "datumErstmeldung": "2024-06-03",
-    "datumLetzteMeldung": "2024-12-06",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "voraussichtliche Verfügbarkeiten4044313\t20.01.20254044336\t17.01.20254044342\t21.02.2025",
-    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04044342"
-    ],
-    "enr": [
-      "2167358"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-28",
-    "datumEnde": "2025-02-27",
-    "datumErstmeldung": "2024-06-03",
-    "datumLetzteMeldung": "2024-12-06",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "voraussichtliche Verfügbarkeiten4044313\t20.01.20254044336\t17.01.20254044342\t21.02.2025",
-    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -5729,7 +5795,7 @@
     "atcCode": "J04AC01",
     "wirkstoffe": "Isoniazid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -5752,7 +5818,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "EMB-FATOL 100 mg - Einreichungsnummer: 0193128"
@@ -7725,7 +7791,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -9906,6 +9972,72 @@
   },
   {
     "pzn": [
+      "05507459"
+    ],
+    "enr": [
+      "2116582"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-24",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2023-01-24",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Carbamazepin Aristo 600 mg Retardtabletten",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09494765"
+    ],
+    "enr": [
+      "2116582"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-24",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2023-01-24",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Carbamazepin Aristo 600 mg Retardtabletten",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09494771"
+    ],
+    "enr": [
+      "2116582"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-01-24",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2023-01-24",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Carbamazepin Aristo 600 mg Retardtabletten",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "00914177"
     ],
     "enr": [
@@ -10023,72 +10155,6 @@
     "mail": "kundenservice@viatris.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "carbadura 600 mg retard - Einreichungsnummer: 2131193"
-  },
-  {
-    "pzn": [
-      "05507459"
-    ],
-    "enr": [
-      "2116582"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-24",
-    "datumEnde": "2025-01-30",
-    "datumErstmeldung": "2023-01-24",
-    "datumLetzteMeldung": "2024-11-05",
-    "grund": "Sonstige",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Carbamazepin Aristo 600 mg Retardtabletten",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09494765"
-    ],
-    "enr": [
-      "2116582"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-24",
-    "datumEnde": "2025-01-30",
-    "datumErstmeldung": "2023-01-24",
-    "datumLetzteMeldung": "2024-11-05",
-    "grund": "Sonstige",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Carbamazepin Aristo 600 mg Retardtabletten",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09494771"
-    ],
-    "enr": [
-      "2116582"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-24",
-    "datumEnde": "2025-01-30",
-    "datumErstmeldung": "2023-01-24",
-    "datumLetzteMeldung": "2024-11-05",
-    "grund": "Sonstige",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Carbamazepin Aristo 600 mg Retardtabletten",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -11391,6 +11457,930 @@
   },
   {
     "pzn": [
+      "09637756"
+    ],
+    "enr": [
+      "2190551"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-20",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 400 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10627993"
+    ],
+    "enr": [
+      "2190551"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-20",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 400 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09637710"
+    ],
+    "enr": [
+      "2190550"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-07",
+    "datumEnde": "2025-05-21",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09637727"
+    ],
+    "enr": [
+      "2190550"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-07",
+    "datumEnde": "2025-05-21",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09637733"
+    ],
+    "enr": [
+      "2190550"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-07",
+    "datumEnde": "2025-05-21",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10627970"
+    ],
+    "enr": [
+      "2190550"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-07",
+    "datumEnde": "2025-05-21",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09637673"
+    ],
+    "enr": [
+      "2190549"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-17",
+    "datumEnde": "2025-05-21",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09637696"
+    ],
+    "enr": [
+      "2190549"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-17",
+    "datumEnde": "2025-05-21",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09637704"
+    ],
+    "enr": [
+      "2190549"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-17",
+    "datumEnde": "2025-05-21",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10627964"
+    ],
+    "enr": [
+      "2190549"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-17",
+    "datumEnde": "2025-05-21",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09637644"
+    ],
+    "enr": [
+      "2190548"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-18",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 150 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09637650"
+    ],
+    "enr": [
+      "2190548"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-18",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 150 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09637667"
+    ],
+    "enr": [
+      "2190548"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-18",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 150 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09637609"
+    ],
+    "enr": [
+      "2190547"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-09",
+    "datumEnde": "2025-05-21",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 50 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09637615"
+    ],
+    "enr": [
+      "2190547"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-09",
+    "datumEnde": "2025-05-21",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 50 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09637621"
+    ],
+    "enr": [
+      "2190547"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-09",
+    "datumEnde": "2025-05-21",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 50 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10756839"
+    ],
+    "enr": [
+      "2190547"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-09",
+    "datumEnde": "2025-05-21",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 50 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16536292"
+    ],
+    "enr": [
+      "2205901"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-06",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 600 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16536300"
+    ],
+    "enr": [
+      "2205901"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-06",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 600 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16536317"
+    ],
+    "enr": [
+      "2205901"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-06",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 600 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10071892"
+    ],
+    "enr": [
+      "2195200"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-31",
+    "datumEnde": "2025-05-21",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 50 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10071900"
+    ],
+    "enr": [
+      "2195200"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-31",
+    "datumEnde": "2025-05-21",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 50 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10071917"
+    ],
+    "enr": [
+      "2195200"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-10-31",
+    "datumEnde": "2025-05-21",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 50 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09947238"
+    ],
+    "enr": [
+      "2195204"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-31",
+    "datumEnde": "2025-05-21",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 400 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09947244"
+    ],
+    "enr": [
+      "2195204"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-31",
+    "datumEnde": "2025-05-21",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 400 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09947161"
+    ],
+    "enr": [
+      "2195203"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-30",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09947178"
+    ],
+    "enr": [
+      "2195203"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-30",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09947184"
+    ],
+    "enr": [
+      "2195203"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-30",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09947126"
+    ],
+    "enr": [
+      "2195202"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-14",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09947149"
+    ],
+    "enr": [
+      "2195202"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-14",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09947155"
+    ],
+    "enr": [
+      "2195202"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-14",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11192037"
+    ],
+    "enr": [
+      "2195201"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-14",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 150 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11192043"
+    ],
+    "enr": [
+      "2195201"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-14",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 150 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11192066"
+    ],
+    "enr": [
+      "2195201"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-14",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 150 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16031669"
+    ],
+    "enr": [
+      "2202519"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-10-16",
+    "datumEnde": "2025-05-30",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 400 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16031675"
+    ],
+    "enr": [
+      "2202519"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-10-16",
+    "datumEnde": "2025-05-30",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 400 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16031617"
+    ],
+    "enr": [
+      "2202518"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-10-16",
+    "datumEnde": "2025-05-02",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16031646"
+    ],
+    "enr": [
+      "2202518"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-10-16",
+    "datumEnde": "2025-05-02",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16031563"
+    ],
+    "enr": [
+      "2202517"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-30",
+    "datumEnde": "2025-05-02",
+    "datumErstmeldung": "2024-10-07",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16031592"
+    ],
+    "enr": [
+      "2202517"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-30",
+    "datumEnde": "2025-05-02",
+    "datumErstmeldung": "2024-10-07",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16031505"
+    ],
+    "enr": [
+      "2202516"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-09",
+    "datumEnde": "2025-05-02",
+    "datumErstmeldung": "2024-10-07",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 150 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16031511"
+    ],
+    "enr": [
+      "2202516"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-09",
+    "datumEnde": "2025-05-02",
+    "datumErstmeldung": "2024-10-07",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 150 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "09745322"
     ],
     "enr": [
@@ -12458,182 +13448,6 @@
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Quetiapin Glenmark 50 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16031505"
-    ],
-    "enr": [
-      "2202516"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-09",
-    "datumEnde": "2025-03-28",
-    "datumErstmeldung": "2024-10-07",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Glenmark 150 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16031511"
-    ],
-    "enr": [
-      "2202516"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-09",
-    "datumEnde": "2025-03-28",
-    "datumErstmeldung": "2024-10-07",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Glenmark 150 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16031563"
-    ],
-    "enr": [
-      "2202517"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-30",
-    "datumEnde": "2025-03-28",
-    "datumErstmeldung": "2024-10-07",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Glenmark 200 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16031592"
-    ],
-    "enr": [
-      "2202517"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-30",
-    "datumEnde": "2025-03-28",
-    "datumErstmeldung": "2024-10-07",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Glenmark 200 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16031617"
-    ],
-    "enr": [
-      "2202518"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-10-16",
-    "datumEnde": "2025-03-28",
-    "datumErstmeldung": "2024-11-19",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Glenmark 300 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16031646"
-    ],
-    "enr": [
-      "2202518"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-10-16",
-    "datumEnde": "2025-03-28",
-    "datumErstmeldung": "2024-11-19",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Glenmark 300 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16031669"
-    ],
-    "enr": [
-      "2202519"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-10-16",
-    "datumEnde": "2025-03-28",
-    "datumErstmeldung": "2024-11-19",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Glenmark 400 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16031675"
-    ],
-    "enr": [
-      "2202519"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-10-16",
-    "datumEnde": "2025-03-28",
-    "datumErstmeldung": "2024-11-19",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Glenmark 400 mg Retardtabletten",
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
@@ -13948,7 +14762,7 @@
     "atcCode": "N06AA04",
     "wirkstoffe": "Clomipraminhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Anafranil 75 mg retard - Einreichungsnummer: 2129687"
@@ -16049,7 +16863,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -16072,7 +16886,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -16095,7 +16909,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -16118,7 +16932,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -16141,7 +16955,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16163,7 +16977,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16185,7 +16999,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -16208,7 +17022,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -16231,7 +17045,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -16590,94 +17404,6 @@
   },
   {
     "pzn": [
-      "14135488"
-    ],
-    "enr": [
-      "2182175"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-10-17",
-    "datumEnde": "2025-04-11",
-    "datumErstmeldung": "2024-11-19",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Glenmark 24 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14135502"
-    ],
-    "enr": [
-      "2182175"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-10-17",
-    "datumEnde": "2025-04-11",
-    "datumErstmeldung": "2024-11-19",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Glenmark 24 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14135413"
-    ],
-    "enr": [
-      "2182173"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-10-07",
-    "datumEnde": "2025-04-11",
-    "datumErstmeldung": "2024-11-19",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Glenmark 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14135436"
-    ],
-    "enr": [
-      "2182173"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-10-07",
-    "datumEnde": "2025-04-11",
-    "datumErstmeldung": "2024-11-19",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Glenmark 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "14135459"
     ],
     "enr": [
@@ -16685,9 +17411,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-10-02",
-    "datumEnde": "2025-04-11",
+    "datumEnde": "2025-05-30",
     "datumErstmeldung": "2024-11-19",
-    "datumLetzteMeldung": "2024-12-13",
+    "datumLetzteMeldung": "2025-02-03",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Galantamin Glenmark 16 mg Hartkapseln, retardiert",
@@ -16707,9 +17433,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-10-02",
-    "datumEnde": "2025-04-11",
+    "datumEnde": "2025-05-30",
     "datumErstmeldung": "2024-11-19",
-    "datumLetzteMeldung": "2024-12-13",
+    "datumLetzteMeldung": "2025-02-03",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Galantamin Glenmark 16 mg Hartkapseln, retardiert",
@@ -16729,12 +17455,144 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-10-02",
-    "datumEnde": "2025-04-11",
+    "datumEnde": "2025-05-30",
     "datumErstmeldung": "2024-11-19",
-    "datumLetzteMeldung": "2024-12-13",
+    "datumLetzteMeldung": "2025-02-03",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Galantamin Glenmark 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14135413"
+    ],
+    "enr": [
+      "2182173"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-10-07",
+    "datumEnde": "2025-05-30",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Glenmark 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14135436"
+    ],
+    "enr": [
+      "2182173"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-10-07",
+    "datumEnde": "2025-05-30",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Glenmark 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14135442"
+    ],
+    "enr": [
+      "2182173"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-10-07",
+    "datumEnde": "2025-05-30",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Glenmark 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14135488"
+    ],
+    "enr": [
+      "2182175"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-10-17",
+    "datumEnde": "2025-05-30",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Glenmark 24 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14135494"
+    ],
+    "enr": [
+      "2182175"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-10-17",
+    "datumEnde": "2025-05-30",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Glenmark 24 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14135502"
+    ],
+    "enr": [
+      "2182175"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-10-17",
+    "datumEnde": "2025-05-30",
+    "datumErstmeldung": "2024-11-19",
+    "datumLetzteMeldung": "2025-02-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Glenmark 24 mg Hartkapseln, retardiert",
     "atcCode": "N06DA04",
     "wirkstoffe": "Galantaminhydrobromid",
     "krankenhausrelevant": false,
@@ -17681,7 +18539,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
@@ -17718,9 +18576,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-02-20",
-    "datumEnde": "2025-01-31",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2024-02-21",
-    "datumLetzteMeldung": "2024-10-29",
+    "datumLetzteMeldung": "2025-02-03",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Dexa-Gentamicin",
@@ -17795,7 +18653,7 @@
     "atcCode": "S01CA02",
     "wirkstoffe": "Oxytetracyclinhydrochlorid; Prednisolon",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein"
   },
