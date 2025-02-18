@@ -1226,24 +1226,6 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-14",
-    "emittent": {
-      "name": "Zalando SE",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Amundi S.A.",
-      "sitz": "Paris",
-      "land": "Frankreich"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.0824,
-      "instrumente": 0.0015,
-      "summe": 3.0839
-    }
-  },
-  {
     "veroeffentlichung": "2024-05-23",
     "emittent": {
       "name": "MERCK Kommanditgesellschaft auf Aktien",
@@ -3626,7 +3608,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-12",
+    "veroeffentlichung": "2025-02-14",
     "emittent": {
       "name": "Siemens Energy AG",
       "sitz": "München",
@@ -3638,9 +3620,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.09,
-      "instrumente": 0.34,
-      "summe": 5.44
+      "gesamt": 4.7,
+      "instrumente": 0.75,
+      "summe": 5.45
     }
   },
   {
@@ -3860,7 +3842,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-11",
+    "veroeffentlichung": "2025-02-14",
     "emittent": {
       "name": "LEG Immobilien SE",
       "sitz": "Düsseldorf",
@@ -3872,8 +3854,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 10.03,
-      "instrumente": 0.91,
+      "gesamt": 10.48,
+      "instrumente": 0.46,
       "summe": 10.94
     }
   },
@@ -3932,7 +3914,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-06",
+    "veroeffentlichung": "2025-02-14",
     "emittent": {
       "name": "Infineon Technologies AG",
       "sitz": "Neubiberg",
@@ -3945,7 +3927,7 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 6.81,
-      "instrumente": 0.003,
+      "instrumente": 0.001,
       "summe": 6.81
     }
   },
@@ -4181,6 +4163,24 @@
       "gesamt": 5.2,
       "instrumente": 0.12,
       "summe": 5.33
+    }
+  },
+  {
+    "veroeffentlichung": "2025-02-14",
+    "emittent": {
+      "name": "Deutsche Lufthansa Aktiengesellschaft",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "BlackRock, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.04,
+      "instrumente": 0.64,
+      "summe": 3.68
     }
   },
   {
@@ -7592,42 +7592,6 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-12",
-    "emittent": {
-      "name": "MTU Aero Engines AG",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "DWS Investment GmbH",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.00418,
-      "instrumente": 0.00343,
-      "summe": 3.01
-    }
-  },
-  {
-    "veroeffentlichung": "2025-02-13",
-    "emittent": {
-      "name": "HelloFresh SE",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "DWS Investment GmbH",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.1,
-      "instrumente": 0.12,
-      "summe": 3.22
-    }
-  },
-  {
     "veroeffentlichung": "2023-10-13",
     "emittent": {
       "name": "FUCHS SE",
@@ -8629,6 +8593,22 @@
       "gesamt": 0.6,
       "instrumente": 4.68,
       "summe": 5.28
+    }
+  },
+  {
+    "veroeffentlichung": "2025-02-14",
+    "emittent": {
+      "name": "Gerresheimer AG",
+      "sitz": "Düsseldorf",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Ferguson, Scott"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 1.64,
+      "instrumente": 3.91,
+      "summe": 5.55
     }
   },
   {
@@ -9894,24 +9874,6 @@
       "gesamt": 3.01,
       "instrumente": 0,
       "summe": 3.01
-    }
-  },
-  {
-    "veroeffentlichung": "2024-02-23",
-    "emittent": {
-      "name": "Dr. Hönle Aktiengesellschaft",
-      "sitz": "Gräfelfing",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "FundPartner Solutions (Europe) S.A.",
-      "sitz": "Luxembourg",
-      "land": "Luxemburg"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.19,
-      "instrumente": 0,
-      "summe": 3.19
     }
   },
   {
@@ -20325,6 +20287,24 @@
     }
   },
   {
+    "veroeffentlichung": "2025-02-14",
+    "emittent": {
+      "name": "LANXESS Aktiengesellschaft",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Morgan Stanley",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 1.52,
+      "instrumente": 3.63,
+      "summe": 5.14
+    }
+  },
+  {
     "veroeffentlichung": "2025-02-10",
     "emittent": {
       "name": "HelloFresh SE",
@@ -20361,6 +20341,24 @@
     }
   },
   {
+    "veroeffentlichung": "2025-02-14",
+    "emittent": {
+      "name": "flatexDEGIRO AG",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Morgan Stanley",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.03,
+      "instrumente": 0.3,
+      "summe": 3.33
+    }
+  },
+  {
     "veroeffentlichung": "2024-07-30",
     "emittent": {
       "name": "Enapter AG",
@@ -20376,24 +20374,6 @@
       "gesamt": 5.04,
       "instrumente": 0,
       "summe": 5.04
-    }
-  },
-  {
-    "veroeffentlichung": "2025-02-07",
-    "emittent": {
-      "name": "Delivery Hero SE",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Morgan Stanley",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.08,
-      "instrumente": 1.43,
-      "summe": 4.51
     }
   },
   {
@@ -20415,24 +20395,6 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-13",
-    "emittent": {
-      "name": "Bilfinger SE",
-      "sitz": "Mannheim",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Morgan Stanley",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.01,
-      "instrumente": 1.89,
-      "summe": 4.91
-    }
-  },
-  {
     "veroeffentlichung": "2024-12-23",
     "emittent": {
       "name": "AUTO1 Group SE",
@@ -20451,7 +20413,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-06",
+    "veroeffentlichung": "2025-02-16",
     "emittent": {
       "name": "ADTRAN Holdings, Inc.",
       "sitz": "Wilmington",
@@ -20463,9 +20425,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.09,
-      "instrumente": 0.58,
-      "summe": 3.67
+      "gesamt": 3.04,
+      "instrumente": 0.65,
+      "summe": 3.7
     }
   },
   {
@@ -30210,7 +30172,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-12",
+    "veroeffentlichung": "2025-02-17",
     "emittent": {
       "name": "Westwing Group SE",
       "sitz": "Berlin",
@@ -30222,9 +30184,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.93,
-      "instrumente": 4.49,
-      "summe": 7.42
+      "gesamt": 1.71,
+      "instrumente": 5.54,
+      "summe": 7.25
     }
   },
   {
@@ -30884,7 +30846,25 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-07",
+    "veroeffentlichung": "2025-02-17",
+    "emittent": {
+      "name": "SNP Schneider-Neureither & Partner SE",
+      "sitz": "Heidelberg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "UBS Group AG",
+      "sitz": "Zürich",
+      "land": "Schweiz"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.03,
+      "instrumente": 0.23,
+      "summe": 3.26
+    }
+  },
+  {
+    "veroeffentlichung": "2025-02-14",
     "emittent": {
       "name": "Nordex SE",
       "sitz": "Rostock",
@@ -30896,9 +30876,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.27,
-      "instrumente": 1.4,
-      "summe": 4.67
+      "gesamt": 3.4,
+      "instrumente": 1.97,
+      "summe": 5.37
     }
   },
   {
@@ -30953,6 +30933,24 @@
       "gesamt": 3.004,
       "instrumente": 0.34,
       "summe": 3.34
+    }
+  },
+  {
+    "veroeffentlichung": "2025-02-14",
+    "emittent": {
+      "name": "Gerresheimer AG",
+      "sitz": "Düsseldorf",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "UBS Group AG",
+      "sitz": "Zürich",
+      "land": "Schweiz"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.29,
+      "instrumente": 2.01,
+      "summe": 5.3
     }
   },
   {
