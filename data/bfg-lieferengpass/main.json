@@ -24,6 +24,29 @@
   },
   {
     "pzn": [
+      "04913795"
+    ],
+    "enr": [
+      "0801705"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-19",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-02-19",
+    "datumLetzteMeldung": "2025-02-19",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Dontisolon D Zylinderampullen",
+    "atcCode": "A01AC54",
+    "wirkstoffe": "Prednisolon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "SEPTODONT GmbH",
+    "telefon": "+49 89 179251551",
+    "mail": "dominik.gohr@pharmalex.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "01016960"
     ],
     "enr": [
@@ -1092,30 +1115,6 @@
   },
   {
     "pzn": [
-      "06946468"
-    ],
-    "enr": [
-      "2671947"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-31",
-    "datumEnde": "2025-03-12",
-    "datumErstmeldung": "2025-01-31",
-    "datumLetzteMeldung": "2025-01-31",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "NovoSeven",
-    "atcCode": "B02BD08",
-    "wirkstoffe": "Eptacog alfa (aktiviert)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "NovoSeven - Einreichungsnummer: 2671946"
-  },
-  {
-    "pzn": [
       "00379086"
     ],
     "enr": [
@@ -1537,6 +1536,54 @@
   },
   {
     "pzn": [
+      "02077202"
+    ],
+    "enr": [
+      "0688195"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-12-02",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-02-12",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Betrifft auch das Produkt METHYLDOPA SD 250MG FTA 100PC AL DE(PZN 11010823)",
+    "bezeichnung": "Methyldopa STADA 250mg Filmtablette",
+    "atcCode": "C02AB01",
+    "wirkstoffe": "Methyldopa (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM GmbH",
+    "telefon": "061016032416",
+    "mail": "christiane.georgi@stada.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08999339"
+    ],
+    "enr": [
+      "0688195"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-12-02",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-02-12",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Betrifft auch das Produkt METHYLDOPA SD 250MG FTA 100PC AL DE(PZN 11010823)",
+    "bezeichnung": "Methyldopa STADA 250mg Filmtablette",
+    "atcCode": "C02AB01",
+    "wirkstoffe": "Methyldopa (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM GmbH",
+    "telefon": "061016032416",
+    "mail": "christiane.georgi@stada.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "02191151"
     ],
     "enr": [
@@ -1603,52 +1650,6 @@
     "telefon": "+39-0382-422008",
     "mail": "regulatory@teofarma.it",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02077202"
-    ],
-    "enr": [
-      "0688195"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-12-02",
-    "datumEnde": "2025-12-31",
-    "datumErstmeldung": "2025-02-12",
-    "datumLetzteMeldung": "2025-02-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Methyldopa STADA 250mg Filmtablette",
-    "atcCode": "C02AB01",
-    "wirkstoffe": "Methyldopa (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "telefon": "061016032416",
-    "mail": "christiane.georgi@stada.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08999339"
-    ],
-    "enr": [
-      "0688195"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-12-02",
-    "datumEnde": "2025-12-31",
-    "datumErstmeldung": "2025-02-12",
-    "datumLetzteMeldung": "2025-02-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Methyldopa STADA 250mg Filmtablette",
-    "atcCode": "C02AB01",
-    "wirkstoffe": "Methyldopa (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "telefon": "061016032416",
-    "mail": "christiane.georgi@stada.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -1844,6 +1845,52 @@
   },
   {
     "pzn": [
+      "06453317"
+    ],
+    "enr": [
+      "0618645"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-20",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-02-19",
+    "datumLetzteMeldung": "2025-02-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Aldactone 50",
+    "atcCode": "C03DA01",
+    "wirkstoffe": "Spironolacton",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "mail": "mratzlaff@esteve.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Aldactone 50 - Einreichungsnummer: 0618645"
+  },
+  {
+    "pzn": [
+      "06135310"
+    ],
+    "enr": [
+      "0618622"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-03",
+    "datumEnde": "2025-03-07",
+    "datumErstmeldung": "2025-02-19",
+    "datumLetzteMeldung": "2025-02-19",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Aldactone 25",
+    "atcCode": "C03DA01",
+    "wirkstoffe": "Spironolacton",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "mail": "mratzlaff@esteve.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Aldactone 25 - Einreichungsnummer: 0618622"
+  },
+  {
+    "pzn": [
       "00000000"
     ],
     "enr": [
@@ -1875,9 +1922,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-11-15",
-    "datumEnde": "2025-02-14",
+    "datumEnde": "2025-03-31",
     "datumErstmeldung": "2023-11-15",
-    "datumLetzteMeldung": "2024-12-19",
+    "datumLetzteMeldung": "2025-02-20",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Metoprolol-ratiopharm NK 100 mg Retardtabletten",
@@ -1887,6 +1934,30 @@
     "zulassungsinhaber": "ratiopharm GmbH",
     "mail": "info@ratiopharm.de",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09425385"
+    ],
+    "enr": [
+      "2180429"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-19",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-02-19",
+    "datumLetzteMeldung": "2025-02-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Brevibloc 10 mg/ml Injektionslösung",
+    "atcCode": "C07AB09",
+    "wirkstoffe": "Esmololhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Baxter Deutschland GmbH",
+    "telefon": "+43 6781249503",
+    "mail": "tausif_khan@baxter.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Brevibloc 10 mg/ml Infusionslösung - Einreichungsnummer: 2180430"
   },
   {
     "pzn": [
@@ -2623,9 +2694,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-11-15",
-    "datumEnde": "2025-03-02",
+    "datumEnde": "2025-03-09",
     "datumErstmeldung": "2024-11-20",
-    "datumLetzteMeldung": "2025-01-14",
+    "datumLetzteMeldung": "2025-02-20",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Leukase N Puder",
@@ -2635,7 +2706,8 @@
     "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
     "telefon": "08964186198",
     "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Vorgesehen"
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Leukase N Puder - Einreichungsnummer: 0148671"
   },
   {
     "pzn": [
@@ -3019,11 +3091,11 @@
     "enr": [
       "2203861"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-03-09",
+    "datumEnde": "2025-03-16",
     "datumErstmeldung": "2025-02-05",
-    "datumLetzteMeldung": "2025-02-05",
+    "datumLetzteMeldung": "2025-02-20",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Tacrolimus Dermapharm 1 mg/g Salbe",
@@ -3245,52 +3317,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Ferring GmbH",
     "mail": "petra.wagner@ferring.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04084175"
-    ],
-    "enr": [
-      "2183290"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-01",
-    "datumEnde": "2025-02-15",
-    "datumErstmeldung": "2025-01-15",
-    "datumLetzteMeldung": "2025-01-29",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Raloxifen AL 60 mg Filmtabletten",
-    "atcCode": "G03XC01",
-    "wirkstoffe": "Raloxifenhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04084353"
-    ],
-    "enr": [
-      "2183290"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-01",
-    "datumEnde": "2025-02-15",
-    "datumErstmeldung": "2025-01-15",
-    "datumLetzteMeldung": "2025-01-29",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Raloxifen AL 60 mg Filmtabletten",
-    "atcCode": "G03XC01",
-    "wirkstoffe": "Raloxifenhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -4473,28 +4499,6 @@
   },
   {
     "pzn": [
-      "03126575"
-    ],
-    "enr": [
-      "2103604"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-02-24",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2023-02-24",
-    "datumLetzteMeldung": "2025-02-07",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Amoxihexal 1000",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00000000"
     ],
     "enr": [
@@ -4502,9 +4506,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-05-01",
-    "datumEnde": "2025-02-15",
+    "datumEnde": "2025-03-31",
     "datumErstmeldung": "2024-05-15",
-    "datumLetzteMeldung": "2025-01-15",
+    "datumLetzteMeldung": "2025-02-20",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Amoxicillin AL TS",
@@ -4525,9 +4529,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-05-01",
-    "datumEnde": "2025-02-15",
+    "datumEnde": "2025-03-31",
     "datumErstmeldung": "2024-05-15",
-    "datumLetzteMeldung": "2025-01-15",
+    "datumLetzteMeldung": "2025-02-20",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Amoxicillin AL TS",
@@ -4548,9 +4552,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-05-01",
-    "datumEnde": "2025-02-15",
+    "datumEnde": "2025-03-31",
     "datumErstmeldung": "2024-05-15",
-    "datumLetzteMeldung": "2025-01-15",
+    "datumLetzteMeldung": "2025-02-20",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Amoxicillin AL TS",
@@ -4560,6 +4564,28 @@
     "zulassungsinhaber": "ALIUD PHARMA GmbH",
     "telefon": "0733396510",
     "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03126575"
+    ],
+    "enr": [
+      "2103604"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-02-24",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2023-02-24",
+    "datumLetzteMeldung": "2025-02-07",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Amoxihexal 1000",
+    "atcCode": "J01CA04",
+    "wirkstoffe": "Amoxicillin-Trihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5050,11 +5076,11 @@
     "enr": [
       "2137023"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-13",
     "datumEnde": "2025-03-31",
     "datumErstmeldung": "2025-01-30",
-    "datumLetzteMeldung": "2025-01-30",
+    "datumLetzteMeldung": "2025-02-19",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Cefaclor - 1 A Pharma 250 mg Filmtabletten",
@@ -5072,11 +5098,11 @@
     "enr": [
       "2137023"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-13",
     "datumEnde": "2025-03-31",
     "datumErstmeldung": "2025-01-30",
-    "datumLetzteMeldung": "2025-01-30",
+    "datumLetzteMeldung": "2025-02-19",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Cefaclor - 1 A Pharma 250 mg Filmtabletten",
@@ -5085,50 +5111,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
     "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00113721"
-    ],
-    "enr": [
-      "2134964"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-13",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-30",
-    "datumLetzteMeldung": "2025-01-30",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefaclor 500 - 1 A Pharma",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00113738"
-    ],
-    "enr": [
-      "2134964"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-13",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-30",
-    "datumLetzteMeldung": "2025-01-30",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefaclor 500 - 1 A Pharma",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "service@hexal.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5544,16 +5526,38 @@
   },
   {
     "pzn": [
+      "03928180"
+    ],
+    "enr": [
+      "2103170"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-05",
+    "datumEnde": "2025-03-15",
+    "datumErstmeldung": "2024-09-05",
+    "datumLetzteMeldung": "2025-02-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Gentamicin-ratiopharm 80 mg/2 ml SF",
+    "atcCode": "J01GB03",
+    "wirkstoffe": "Gentamicinsulfat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "03928174"
     ],
     "enr": [
       "2103169"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-13",
-    "datumEnde": "2025-02-28",
+    "datumEnde": "2025-03-15",
     "datumErstmeldung": "2024-12-13",
-    "datumLetzteMeldung": "2024-12-13",
+    "datumLetzteMeldung": "2025-02-19",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Gentamicin-ratiopharm 40 mg/ml SF",
@@ -5564,28 +5568,6 @@
     "mail": "stefanie.kesselmeier@ratiopharm.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Gentamicin-ratiopharm 160 mg/2 ml SF - Einreichungsnummer: 2107718"
-  },
-  {
-    "pzn": [
-      "03928180"
-    ],
-    "enr": [
-      "2103170"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-05",
-    "datumEnde": "2025-01-31",
-    "datumErstmeldung": "2024-09-05",
-    "datumLetzteMeldung": "2024-12-13",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Gentamicin-ratiopharm 80 mg/2 ml SF",
-    "atcCode": "J01GB03",
-    "wirkstoffe": "Gentamicinsulfat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -6321,20 +6303,20 @@
   },
   {
     "pzn": [
-      "17582874"
+      "17582880"
     ],
     "enr": [
-      "2203600"
+      "2203601"
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-18",
-    "datumEnde": "2025-02-15",
+    "datumEnde": "2025-03-31",
     "datumErstmeldung": "2024-12-20",
-    "datumLetzteMeldung": "2025-01-31",
+    "datumLetzteMeldung": "2025-02-20",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "n.a.",
-    "bezeichnung": "Teicoplanin Eberth 200 mg Pulver zur Herstellung einer Injektions-/Infusionslösung oder einer Lösung zum Einnehmen",
+    "bezeichnung": "Teicoplanin Eberth 400 mg Pulver zur Herstellung einer Injektions-/Infusionslösung oder einer Lösung zum Einnehmen",
     "atcCode": "J01XA02",
     "wirkstoffe": "Teicoplanin",
     "krankenhausrelevant": true,
@@ -6344,20 +6326,20 @@
   },
   {
     "pzn": [
-      "17582880"
+      "17582874"
     ],
     "enr": [
-      "2203601"
+      "2203600"
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-18",
-    "datumEnde": "2025-02-15",
+    "datumEnde": "2025-03-31",
     "datumErstmeldung": "2024-12-20",
-    "datumLetzteMeldung": "2025-01-31",
+    "datumLetzteMeldung": "2025-02-20",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "n.a.",
-    "bezeichnung": "Teicoplanin Eberth 400 mg Pulver zur Herstellung einer Injektions-/Infusionslösung oder einer Lösung zum Einnehmen",
+    "bezeichnung": "Teicoplanin Eberth 200 mg Pulver zur Herstellung einer Injektions-/Infusionslösung oder einer Lösung zum Einnehmen",
     "atcCode": "J01XA02",
     "wirkstoffe": "Teicoplanin",
     "krankenhausrelevant": true,
@@ -8489,29 +8471,6 @@
   },
   {
     "pzn": [
-      "17252579"
-    ],
-    "enr": [
-      "2715647"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-30",
-    "datumEnde": "2025-06-20",
-    "datumErstmeldung": "2024-09-09",
-    "datumLetzteMeldung": "2024-11-15",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Lenalidomid Mylan 2,5 mg Hartkapseln",
-    "atcCode": "L04AX04",
-    "wirkstoffe": "Lenalidomid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Ireland Limited",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "02244976"
     ],
     "enr": [
@@ -9137,6 +9096,51 @@
   },
   {
     "pzn": [
+      "06115187"
+    ],
+    "enr": [
+      "2176821"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-05",
+    "datumEnde": "2025-04-03",
+    "datumErstmeldung": "2024-08-13",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-ratiopharm 4 mg Retardtabletten",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09229201"
+    ],
+    "enr": [
+      "2184822"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-01",
+    "datumEnde": "2025-03-17",
+    "datumErstmeldung": "2024-08-13",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-HCl-ratiopharm 16 mg Hartkapseln, retardiert",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Hydromorphon-HCl-ratiopharm 16 mg Hartkapseln, retardiert - Einreichungsnummer: 2184822"
+  },
+  {
+    "pzn": [
       "10394767"
     ],
     "enr": [
@@ -9540,29 +9544,6 @@
   },
   {
     "pzn": [
-      "09229201"
-    ],
-    "enr": [
-      "2184822"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-01",
-    "datumEnde": "2025-02-28",
-    "datumErstmeldung": "2024-08-13",
-    "datumLetzteMeldung": "2025-02-06",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HCl-ratiopharm 16 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon-HCl-ratiopharm 16 mg Hartkapseln, retardiert - Einreichungsnummer: 2184822"
-  },
-  {
-    "pzn": [
       "13925426"
     ],
     "enr": [
@@ -9731,28 +9712,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Hydromorphon-ratiopharm 16 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06115187"
-    ],
-    "enr": [
-      "2176821"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-05",
-    "datumEnde": "2025-02-28",
-    "datumErstmeldung": "2024-08-13",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-ratiopharm 4 mg Retardtabletten",
     "atcCode": "N02AA03",
     "wirkstoffe": "Hydromorphonhydrochlorid",
     "krankenhausrelevant": false,
@@ -10167,6 +10126,95 @@
   },
   {
     "pzn": [
+      "10999223"
+    ],
+    "enr": [
+      "2192061"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-03",
+    "datumEnde": "2025-03-14",
+    "datumErstmeldung": "2025-01-08",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycodon-HCl-ratiopharm akut 10 mg Hartkapseln",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10999246"
+    ],
+    "enr": [
+      "2192061"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-03",
+    "datumEnde": "2025-03-14",
+    "datumErstmeldung": "2025-01-08",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycodon-HCl-ratiopharm akut 10 mg Hartkapseln",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10999275"
+    ],
+    "enr": [
+      "2192062"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-03",
+    "datumEnde": "2025-03-14",
+    "datumErstmeldung": "2025-01-08",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycodon-HCl-ratiopharm akut 20 mg Hartkapseln",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Oxycodon-HCl-ratiopharm akut 20 mg Hartkapseln - Einreichungsnummer: 2192062"
+  },
+  {
+    "pzn": [
+      "10999200"
+    ],
+    "enr": [
+      "2192060"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-03",
+    "datumEnde": "2025-03-14",
+    "datumErstmeldung": "2025-01-08",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxycodon-HCl-ratiopharm akut 5 mg Hartkapseln",
+    "atcCode": "N02AA05",
+    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "08859733"
     ],
     "enr": [
@@ -10207,95 +10255,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
     "mail": "medinfo@mundipharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "10999200"
-    ],
-    "enr": [
-      "2192060"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-03",
-    "datumEnde": "2025-02-26",
-    "datumErstmeldung": "2025-01-08",
-    "datumLetzteMeldung": "2025-01-08",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycodon-HCl-ratiopharm akut 5 mg Hartkapseln",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "10999275"
-    ],
-    "enr": [
-      "2192062"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-03",
-    "datumEnde": "2025-02-21",
-    "datumErstmeldung": "2025-01-08",
-    "datumLetzteMeldung": "2025-01-08",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycodon-HCl-ratiopharm akut 20 mg Hartkapseln",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Oxycodon-HCl-ratiopharm akut 20 mg Hartkapseln - Einreichungsnummer: 2192062"
-  },
-  {
-    "pzn": [
-      "10999223"
-    ],
-    "enr": [
-      "2192061"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-03",
-    "datumEnde": "2025-02-26",
-    "datumErstmeldung": "2025-01-08",
-    "datumLetzteMeldung": "2025-01-08",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycodon-HCl-ratiopharm akut 10 mg Hartkapseln",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "10999246"
-    ],
-    "enr": [
-      "2192061"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-03",
-    "datumEnde": "2025-02-26",
-    "datumErstmeldung": "2025-01-08",
-    "datumLetzteMeldung": "2025-01-08",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycodon-HCl-ratiopharm akut 10 mg Hartkapseln",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -10390,6 +10349,94 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
     "mail": "info@aristo-pharma.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00267217"
+    ],
+    "enr": [
+      "2188455"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04407891"
+    ],
+    "enr": [
+      "2188455"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04410108"
+    ],
+    "enr": [
+      "2188455"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04420070"
+    ],
+    "enr": [
+      "2188455"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -10592,72 +10639,6 @@
     "mail": "info@teva.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Buprenorphin AWD Matrix 35 Mikrogramm/h Transdermales Pflaster - Einreichungsnummer: 2188453"
-  },
-  {
-    "pzn": [
-      "00267217"
-    ],
-    "enr": [
-      "2188455"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04407891"
-    ],
-    "enr": [
-      "2188455"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04420070"
-    ],
-    "enr": [
-      "2188455"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -11327,6 +11308,29 @@
     "zulassungsinhaber": "TEVA GmbH",
     "mail": "info@teva.de",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03659811"
+    ],
+    "enr": [
+      "2146006"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-20",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-02-20",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Carbamazepin-ratiopharm 400 mg Retardtabletten",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Carbamazepin-ratiopharm 400 mg Retardtabletten - Einreichungsnummer: 2146006"
   },
   {
     "pzn": [
@@ -15133,29 +15137,6 @@
   },
   {
     "pzn": [
-      "09283583"
-    ],
-    "enr": [
-      "2175978"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-01",
-    "datumEnde": "2025-02-20",
-    "datumErstmeldung": "2025-01-29",
-    "datumLetzteMeldung": "2025-01-29",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin AL 200 mg Filmtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "11240776"
     ],
     "enr": [
@@ -16470,6 +16451,50 @@
   },
   {
     "pzn": [
+      "02530624"
+    ],
+    "enr": [
+      "2102358"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-11-01",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-10-31",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxazepam-ratiopharm 10 mg Tabletten",
+    "atcCode": "N05BA04",
+    "wirkstoffe": "Oxazepam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02530630"
+    ],
+    "enr": [
+      "2102358"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-11-01",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-10-31",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxazepam-ratiopharm 10 mg Tabletten",
+    "atcCode": "N05BA04",
+    "wirkstoffe": "Oxazepam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "03153833"
     ],
     "enr": [
@@ -16585,50 +16610,6 @@
   },
   {
     "pzn": [
-      "02530624"
-    ],
-    "enr": [
-      "2102358"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-11-01",
-    "datumEnde": "2025-02-03",
-    "datumErstmeldung": "2024-10-31",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxazepam-ratiopharm 10 mg Tabletten",
-    "atcCode": "N05BA04",
-    "wirkstoffe": "Oxazepam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02530630"
-    ],
-    "enr": [
-      "2102358"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-11-01",
-    "datumEnde": "2025-02-03",
-    "datumErstmeldung": "2024-10-31",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxazepam-ratiopharm 10 mg Tabletten",
-    "atcCode": "N05BA04",
-    "wirkstoffe": "Oxazepam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03565582"
     ],
     "enr": [
@@ -16665,52 +16646,6 @@
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Tavor 2,5 mg Expidet",
-    "atcCode": "N05BA06",
-    "wirkstoffe": "Lorazepam",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03565553"
-    ],
-    "enr": [
-      "2106948"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-10",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2023-07-11",
-    "datumLetzteMeldung": "2025-01-22",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Tavor 1,0 mg Expidet",
-    "atcCode": "N05BA06",
-    "wirkstoffe": "Lorazepam",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03565576"
-    ],
-    "enr": [
-      "2106948"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-10",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2023-07-11",
-    "datumLetzteMeldung": "2025-01-22",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Tavor 1,0 mg Expidet",
     "atcCode": "N05BA06",
     "wirkstoffe": "Lorazepam",
     "krankenhausrelevant": true,
@@ -17053,6 +16988,28 @@
     "telefon": "06172 2732222",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Cymbalta 30 mg magensaftresistente Hartkapseln - OP28 - Einreichungsnummer: 2793591"
+  },
+  {
+    "pzn": [
+      "13570236"
+    ],
+    "enr": [
+      "2195601"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-17",
+    "datumEnde": "2025-04-02",
+    "datumErstmeldung": "2025-02-20",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidat-HCl-ratiopharm 27 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -19727,6 +19684,29 @@
   },
   {
     "pzn": [
+      "02057665"
+    ],
+    "enr": [
+      "2100245"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-14",
+    "datumEnde": "2025-05-04",
+    "datumErstmeldung": "2025-02-20",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Syntaris",
+    "atcCode": "R01AD04",
+    "wirkstoffe": "Flunisolid-Hemihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "01417699"
     ],
     "enr": [
@@ -20067,29 +20047,6 @@
     "telefon": "0800-2288660",
     "mail": "service.center@astrazeneca.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04421508"
-    ],
-    "enr": [
-      "0009047"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-09",
-    "datumEnde": "2025-05-31",
-    "datumErstmeldung": "2025-01-09",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Probleme bei der Endfreigabe",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Posifenicol C 1%",
-    "atcCode": "S01AA01",
-    "wirkstoffe": "Chloramphenicol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -20877,6 +20834,52 @@
   },
   {
     "pzn": [
+      "04788634"
+    ],
+    "enr": [
+      "0149593"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-01",
+    "datumEnde": "2025-12-28",
+    "datumErstmeldung": "2025-02-20",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Leukase N Kegel",
+    "atcCode": "TERM_ID_NA_2090002765",
+    "wirkstoffe": "Framycetinsulfat (1:x) ((mit Angaben zum Schwefelsäure-Gehalt)); Lidocainhydrochlorid-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04788640"
+    ],
+    "enr": [
+      "0149593"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-01",
+    "datumEnde": "2025-12-28",
+    "datumErstmeldung": "2025-02-20",
+    "datumLetzteMeldung": "2025-02-20",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Leukase N Kegel",
+    "atcCode": "TERM_ID_NA_2090002765",
+    "wirkstoffe": "Framycetinsulfat (1:x) ((mit Angaben zum Schwefelsäure-Gehalt)); Lidocainhydrochlorid-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "12589328"
     ],
     "enr": [
@@ -21293,5 +21296,29 @@
     "telefon": "+49 30 6293955 0",
     "mail": "alexander.helmke@humedics.de",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00000000"
+    ],
+    "enr": [
+      "2128548"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-17",
+    "datumEnde": "2025-03-03",
+    "datumErstmeldung": "2025-02-19",
+    "datumLetzteMeldung": "2025-02-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "MIBG (I123) Injection DRN 5379",
+    "atcCode": "V09FX, V09IX",
+    "wirkstoffe": "Iobenguan ((123)I)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Curium Netherlands B.V. HR-Beiname: Mallinckrodt Pharmaceuicals, Curium, Curiumpharma, Mallinckrodt Medical",
+    "telefon": "+49 30 800930570",
+    "mail": "customerservice.DE@curiumpharma.com",
+    "infoFachkreise": "Ja",
+    "alternativPraeparat": "AdreView lobenguane [123I] Injection - Einreichungsnummer: 2118974"
   }
 ]
