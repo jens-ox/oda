@@ -1,29 +1,6 @@
 [
   {
     "pzn": [
-      "01218882"
-    ],
-    "enr": [
-      "2116158"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-17",
-    "datumEnde": "2025-02-23",
-    "datumErstmeldung": "2025-01-27",
-    "datumLetzteMeldung": "2025-01-27",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Volon A Haftsalbe",
-    "atcCode": "A01AC01",
-    "wirkstoffe": "Triamcinolonacetonid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04913795"
     ],
     "enr": [
@@ -441,6 +418,73 @@
   },
   {
     "pzn": [
+      "15405808"
+    ],
+    "enr": [
+      "2199344"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-11-25",
+    "datumEnde": "2025-03-16",
+    "datumErstmeldung": "2025-02-05",
+    "datumLetzteMeldung": "2025-02-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Stark erhöhte Nachfrage",
+    "bezeichnung": "Aprepitant HEXAL 80 mg Hartkapseln",
+    "atcCode": "A04AD12",
+    "wirkstoffe": "Aprepitant",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15405820"
+    ],
+    "enr": [
+      "2199345"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-09",
+    "datumEnde": "2025-04-11",
+    "datumErstmeldung": "2025-02-05",
+    "datumLetzteMeldung": "2025-02-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Aprepitant HEXAL 125 mg Hartkapseln",
+    "atcCode": "A04AD12",
+    "wirkstoffe": "Aprepitant",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15405837"
+    ],
+    "enr": [
+      "2199346"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-05",
+    "datumEnde": "2025-04-08",
+    "datumErstmeldung": "2025-02-05",
+    "datumLetzteMeldung": "2025-02-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Aprepitant HEXAL 125 mg und 80 mg Hartkapseln",
+    "atcCode": "A04AD12",
+    "wirkstoffe": "Aprepitant",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "16662134"
     ],
     "enr": [
@@ -714,72 +758,6 @@
     "zulassungsinhaber": "Merck Sharp & Dohme B.V.",
     "telefon": "08945611873",
     "mail": "anton.dimopoulos@msd.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15405808"
-    ],
-    "enr": [
-      "2199344"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-25",
-    "datumEnde": "2025-03-16",
-    "datumErstmeldung": "2025-02-05",
-    "datumLetzteMeldung": "2025-02-05",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Aprepitant HEXAL 80 mg Hartkapseln",
-    "atcCode": "A04AD12",
-    "wirkstoffe": "Aprepitant",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15405820"
-    ],
-    "enr": [
-      "2199345"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-09",
-    "datumEnde": "2025-03-14",
-    "datumErstmeldung": "2025-02-05",
-    "datumLetzteMeldung": "2025-02-05",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Aprepitant HEXAL 125 mg Hartkapseln",
-    "atcCode": "A04AD12",
-    "wirkstoffe": "Aprepitant",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15405837"
-    ],
-    "enr": [
-      "2199346"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-05",
-    "datumEnde": "2025-03-16",
-    "datumErstmeldung": "2025-02-05",
-    "datumLetzteMeldung": "2025-02-05",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Aprepitant HEXAL 125 mg und 80 mg Hartkapseln",
-    "atcCode": "A04AD12",
-    "wirkstoffe": "Aprepitant",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2559,11 +2537,11 @@
     "enr": [
       "2200582"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-19",
-    "datumEnde": "2025-03-28",
+    "datumEnde": "2025-05-30",
     "datumErstmeldung": "2025-01-10",
-    "datumLetzteMeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/40 mg Tabletten",
@@ -2581,11 +2559,11 @@
     "enr": [
       "2200582"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-19",
-    "datumEnde": "2025-03-28",
+    "datumEnde": "2025-05-30",
     "datumErstmeldung": "2025-01-10",
-    "datumLetzteMeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/40 mg Tabletten",
@@ -2603,11 +2581,11 @@
     "enr": [
       "2200582"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-19",
-    "datumEnde": "2025-03-28",
+    "datumEnde": "2025-05-30",
     "datumErstmeldung": "2025-01-10",
-    "datumLetzteMeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/40 mg Tabletten",
@@ -2661,53 +2639,6 @@
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "mail": "Service.De@glenmarkpharma.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16321551"
-    ],
-    "enr": [
-      "2201217"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-26",
-    "datumEnde": "2025-03-09",
-    "datumErstmeldung": "2024-12-04",
-    "datumLetzteMeldung": "2024-12-04",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Calcipotriderm comp. 50 Mikrogramm/g + 0,5 mg/g Salbe",
-    "atcCode": "D05AX52",
-    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Calcipotriol-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04788657"
-    ],
-    "enr": [
-      "0148671"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-11-15",
-    "datumEnde": "2025-03-09",
-    "datumErstmeldung": "2024-11-20",
-    "datumLetzteMeldung": "2025-02-20",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Leukase N Puder",
-    "atcCode": "D06AX",
-    "wirkstoffe": "Framycetinsulfat (1:x) ((mit Angaben zum Schwefelsäure-Gehalt))",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Leukase N Puder - Einreichungsnummer: 0148671"
   },
   {
     "pzn": [
@@ -2815,31 +2746,7 @@
     "datumBeginn": "2025-01-22",
     "datumEnde": "2025-03-16",
     "datumErstmeldung": "2025-02-05",
-    "datumLetzteMeldung": "2025-02-05",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "SODERM Creme",
-    "atcCode": "D07AC01",
-    "wirkstoffe": "Betamethasonvalerat (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "SODERM Creme - Einreichungsnummer: 2136974"
-  },
-  {
-    "pzn": [
-      "00165250"
-    ],
-    "enr": [
-      "2136974"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-22",
-    "datumEnde": "2025-03-16",
-    "datumErstmeldung": "2025-02-05",
-    "datumLetzteMeldung": "2025-02-05",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "SODERM Creme",
@@ -5237,9 +5144,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-04-05",
-    "datumEnde": "2025-02-24",
+    "datumEnde": "2025-03-17",
     "datumErstmeldung": "2023-04-05",
-    "datumLetzteMeldung": "2025-02-11",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "grundAnmerkung": "erwartete Lieferfähigkeit4332377\t30.11.2044332466\t06.02.2025",
@@ -5260,9 +5167,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-04-05",
-    "datumEnde": "2025-02-24",
+    "datumEnde": "2025-03-17",
     "datumErstmeldung": "2023-04-05",
-    "datumLetzteMeldung": "2025-02-11",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "grundAnmerkung": "erwartete Lieferfähigkeit4332377\t30.11.2044332466\t06.02.2025",
@@ -5315,6 +5222,75 @@
     "bezeichnung": "Clarithromycin - 1 A Pharma 125 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
     "atcCode": "J01FA09",
     "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04044313"
+    ],
+    "enr": [
+      "2167358"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-28",
+    "datumEnde": "2025-03-28",
+    "datumErstmeldung": "2024-06-03",
+    "datumLetzteMeldung": "2025-02-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "voraussichtliche Verfügbarkeiten4044313\t20.01.20254044336\t17.01.20254044342\t21.02.202521.02.2025 RHDerzeit sind alle 3 PZNs verfügbar, jedoch aufgrund der Marktsituation und der erhöhten Nachfrage bleibt die Lieferengpassmeldung offen",
+    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04044336"
+    ],
+    "enr": [
+      "2167358"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-28",
+    "datumEnde": "2025-03-28",
+    "datumErstmeldung": "2024-06-03",
+    "datumLetzteMeldung": "2025-02-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "voraussichtliche Verfügbarkeiten4044313\t20.01.20254044336\t17.01.20254044342\t21.02.202521.02.2025 RHDerzeit sind alle 3 PZNs verfügbar, jedoch aufgrund der Marktsituation und der erhöhten Nachfrage bleibt die Lieferengpassmeldung offen",
+    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04044342"
+    ],
+    "enr": [
+      "2167358"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-28",
+    "datumEnde": "2025-03-28",
+    "datumErstmeldung": "2024-06-03",
+    "datumLetzteMeldung": "2025-02-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "voraussichtliche Verfügbarkeiten4044313\t20.01.20254044336\t17.01.20254044342\t21.02.202521.02.2025 RHDerzeit sind alle 3 PZNs verfügbar, jedoch aufgrund der Marktsituation und der erhöhten Nachfrage bleibt die Lieferengpassmeldung offen",
+    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
     "mail": "info@1apharma.com",
@@ -5384,75 +5360,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04044313"
-    ],
-    "enr": [
-      "2167358"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-28",
-    "datumEnde": "2025-02-21",
-    "datumErstmeldung": "2024-06-03",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "voraussichtliche Verfügbarkeiten4044313\t20.01.20254044336\t17.01.20254044342\t21.02.2025",
-    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04044336"
-    ],
-    "enr": [
-      "2167358"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-28",
-    "datumEnde": "2025-02-21",
-    "datumErstmeldung": "2024-06-03",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "voraussichtliche Verfügbarkeiten4044313\t20.01.20254044336\t17.01.20254044342\t21.02.2025",
-    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04044342"
-    ],
-    "enr": [
-      "2167358"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-28",
-    "datumEnde": "2025-02-21",
-    "datumErstmeldung": "2024-06-03",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "voraussichtliche Verfügbarkeiten4044313\t20.01.20254044336\t17.01.20254044342\t21.02.2025",
-    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -5571,72 +5478,25 @@
   },
   {
     "pzn": [
-      "00819148"
+      "04954067"
     ],
     "enr": [
-      "2153287"
+      "2151100"
     ],
     "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-27",
-    "datumEnde": "2025-02-17",
+    "datumBeginn": "2024-09-09",
+    "datumEnde": "2025-11-30",
     "datumErstmeldung": "2024-09-20",
-    "datumLetzteMeldung": "2025-01-09",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
-    "bezeichnung": "Cipro-1 A Pharma 250 mg",
+    "bezeichnung": "Cipro-1 A Pharma 100mg",
     "atcCode": "J01MA02",
     "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
     "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Cipro-1 A Pharma 250 mg - Einreichungsnummer: 2153287"
-  },
-  {
-    "pzn": [
-      "00294912"
-    ],
-    "enr": [
-      "2153281"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-18",
-    "datumEnde": "2025-02-17",
-    "datumErstmeldung": "2024-09-20",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ciprohexal 250 mg",
-    "atcCode": "J01MA02",
-    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Ciprohexal 250 mg - Einreichungsnummer: 2153281"
-  },
-  {
-    "pzn": [
-      "01345801"
-    ],
-    "enr": [
-      "2153281"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-18",
-    "datumEnde": "2025-02-17",
-    "datumErstmeldung": "2024-09-20",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ciprohexal 250 mg",
-    "atcCode": "J01MA02",
-    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Ciprohexal 250 mg - Einreichungsnummer: 2153281"
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -5647,9 +5507,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-09-01",
-    "datumEnde": "2025-05-31",
+    "datumEnde": "2025-11-30",
     "datumErstmeldung": "2024-09-20",
-    "datumLetzteMeldung": "2024-12-06",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Ciprohexal 100 mg",
@@ -5662,25 +5522,26 @@
   },
   {
     "pzn": [
-      "04954067"
+      "01345801"
     ],
     "enr": [
-      "2151100"
+      "2153281"
     ],
     "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-09",
-    "datumEnde": "2025-05-31",
+    "datumBeginn": "2024-08-18",
+    "datumEnde": "2025-03-10",
     "datumErstmeldung": "2024-09-20",
-    "datumLetzteMeldung": "2024-12-06",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
-    "bezeichnung": "Cipro-1 A Pharma 100mg",
+    "bezeichnung": "Ciprohexal 250 mg",
     "atcCode": "J01MA02",
     "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Ciprohexal 250 mg - Einreichungsnummer: 2153281"
   },
   {
     "pzn": [
@@ -6539,9 +6400,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-10-07",
-    "datumEnde": "2025-02-21",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2024-10-17",
-    "datumLetzteMeldung": "2025-01-31",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Linezolid - 1 A Pharma 600 mg Filmtabletten",
@@ -6825,6 +6686,30 @@
     "telefon": "08000700800",
     "mail": "kundenservice@viatris.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02948625"
+    ],
+    "enr": [
+      "2704337"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-04-10",
+    "datumErstmeldung": "2025-02-21",
+    "datumLetzteMeldung": "2025-02-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Grippewelle",
+    "bezeichnung": "Tamiflu 30 mg Hartkapseln - OP10",
+    "atcCode": "J05AH02",
+    "wirkstoffe": "Oseltamivirphosphat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Roche Registration GmbH",
+    "telefon": "+49 173 3295308",
+    "mail": "maria.rincon.mr2@roche.com",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -8403,50 +8288,6 @@
   },
   {
     "pzn": [
-      "17305241"
-    ],
-    "enr": [
-      "2205161"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-06-20",
-    "datumEnde": "2025-02-28",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-11-19",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Fingolimod Glenmark 0,5 mg Hartkapseln",
-    "atcCode": "L04AE01",
-    "wirkstoffe": "Fingolimodhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17305258"
-    ],
-    "enr": [
-      "2205161"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-06-20",
-    "datumEnde": "2025-02-28",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2024-11-19",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Fingolimod Glenmark 0,5 mg Hartkapseln",
-    "atcCode": "L04AE01",
-    "wirkstoffe": "Fingolimodhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "17252622"
     ],
     "enr": [
@@ -9096,6 +8937,52 @@
   },
   {
     "pzn": [
+      "10524968"
+    ],
+    "enr": [
+      "2190942"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-20",
+    "datumEnde": "2025-04-04",
+    "datumErstmeldung": "2024-09-20",
+    "datumLetzteMeldung": "2025-02-21",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-HEXAL 1,3 mg Hartkapseln",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Hydromorphon-HEXAL 1,3 mg Hartkapseln - Einreichungsnummer: 2190942"
+  },
+  {
+    "pzn": [
+      "10524974"
+    ],
+    "enr": [
+      "2190942"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-20",
+    "datumEnde": "2025-04-04",
+    "datumErstmeldung": "2024-09-20",
+    "datumLetzteMeldung": "2025-02-21",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-HEXAL 1,3 mg Hartkapseln",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Hydromorphon-HEXAL 1,3 mg Hartkapseln - Einreichungsnummer: 2190942"
+  },
+  {
+    "pzn": [
       "06115187"
     ],
     "enr": [
@@ -9138,29 +9025,6 @@
     "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Hydromorphon-HCl-ratiopharm 16 mg Hartkapseln, retardiert - Einreichungsnummer: 2184822"
-  },
-  {
-    "pzn": [
-      "10394767"
-    ],
-    "enr": [
-      "2189508"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-04",
-    "datumEnde": "2025-02-28",
-    "datumErstmeldung": "2025-02-13",
-    "datumLetzteMeldung": "2025-02-13",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon HEXAL 10 mg/ml Injektions-/Infusionslösung",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon HEXAL 10 mg/ml Injektions-/Infusionslösung - Einreichungsnummer: 2189508"
   },
   {
     "pzn": [
@@ -9227,28 +9091,6 @@
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07563723"
-    ],
-    "enr": [
-      "2178091"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-07-04",
-    "datumEnde": "2025-03-11",
-    "datumErstmeldung": "2024-08-22",
-    "datumLetzteMeldung": "2025-02-13",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-Hexal retard 4 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -9544,72 +9386,6 @@
   },
   {
     "pzn": [
-      "13925426"
-    ],
-    "enr": [
-      "2185920"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-28",
-    "datumEnde": "2025-02-21",
-    "datumErstmeldung": "2024-09-02",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HCl Glenmark 4 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13925432"
-    ],
-    "enr": [
-      "2185920"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-28",
-    "datumEnde": "2025-02-21",
-    "datumErstmeldung": "2024-09-02",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HCl Glenmark 4 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13925449"
-    ],
-    "enr": [
-      "2185920"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-28",
-    "datumEnde": "2025-02-21",
-    "datumErstmeldung": "2024-09-02",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HCl Glenmark 4 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "13925389"
     ],
     "enr": [
@@ -9718,52 +9494,6 @@
     "zulassungsinhaber": "ratiopharm GmbH",
     "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "10524968"
-    ],
-    "enr": [
-      "2190942"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-20",
-    "datumEnde": "2025-02-20",
-    "datumErstmeldung": "2024-09-20",
-    "datumLetzteMeldung": "2024-12-11",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HEXAL 1,3 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon-HEXAL 1,3 mg Hartkapseln - Einreichungsnummer: 2190942"
-  },
-  {
-    "pzn": [
-      "10524974"
-    ],
-    "enr": [
-      "2190942"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-20",
-    "datumEnde": "2025-02-20",
-    "datumErstmeldung": "2024-09-20",
-    "datumLetzteMeldung": "2024-12-11",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HEXAL 1,3 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon-HEXAL 1,3 mg Hartkapseln - Einreichungsnummer: 2190942"
   },
   {
     "pzn": [
@@ -10100,29 +9830,6 @@
     "mail": "christian.hueneburg@pbpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Palladone retard 4 mg - Einreichungsnummer: 2182661"
-  },
-  {
-    "pzn": [
-      "07563692"
-    ],
-    "enr": [
-      "2178092"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-05",
-    "datumEnde": "2025-02-15",
-    "datumErstmeldung": "2024-08-22",
-    "datumLetzteMeldung": "2024-08-22",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-Hexal retard 8 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Hydromorphon - 1 A Pharma 2 mg Hartkapseln, retardiert - Einreichungsnummer: 2184814"
   },
   {
     "pzn": [
@@ -10797,6 +10504,72 @@
   },
   {
     "pzn": [
+      "09947043"
+    ],
+    "enr": [
+      "2176202"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-12",
+    "datumEnde": "2025-05-02",
+    "datumErstmeldung": "2024-04-30",
+    "datumLetzteMeldung": "2025-02-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 5 mg Tabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09947066"
+    ],
+    "enr": [
+      "2176202"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-12",
+    "datumEnde": "2025-05-02",
+    "datumErstmeldung": "2024-04-30",
+    "datumLetzteMeldung": "2025-02-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 5 mg Tabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09947072"
+    ],
+    "enr": [
+      "2176202"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-12",
+    "datumEnde": "2025-05-02",
+    "datumErstmeldung": "2024-04-30",
+    "datumLetzteMeldung": "2025-02-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 5 mg Tabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "00417013"
     ],
     "enr": [
@@ -10804,9 +10577,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-11-17",
-    "datumEnde": "2025-04-11",
+    "datumEnde": "2025-05-02",
     "datumErstmeldung": "2023-12-19",
-    "datumLetzteMeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Sonstige",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 5 mg Schmelztabletten",
@@ -10826,9 +10599,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-11-17",
-    "datumEnde": "2025-04-11",
+    "datumEnde": "2025-05-02",
     "datumErstmeldung": "2023-12-19",
-    "datumLetzteMeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Sonstige",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 5 mg Schmelztabletten",
@@ -10848,100 +10621,12 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-11-17",
-    "datumEnde": "2025-04-11",
+    "datumEnde": "2025-05-02",
     "datumErstmeldung": "2023-12-19",
-    "datumLetzteMeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Sonstige",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 5 mg Schmelztabletten",
-    "atcCode": "N02CC04",
-    "wirkstoffe": "Rizatriptanbenzoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09947190"
-    ],
-    "enr": [
-      "2178496"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-09",
-    "datumEnde": "2025-04-11",
-    "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
-    "atcCode": "N02CC04",
-    "wirkstoffe": "Rizatriptanbenzoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09947221"
-    ],
-    "enr": [
-      "2178496"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-09",
-    "datumEnde": "2025-04-11",
-    "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
-    "atcCode": "N02CC04",
-    "wirkstoffe": "Rizatriptanbenzoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09947250"
-    ],
-    "enr": [
-      "2178496"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-09",
-    "datumEnde": "2025-04-11",
-    "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
-    "atcCode": "N02CC04",
-    "wirkstoffe": "Rizatriptanbenzoat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "10116353"
-    ],
-    "enr": [
-      "2178496"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-09",
-    "datumEnde": "2025-04-11",
-    "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
     "atcCode": "N02CC04",
     "wirkstoffe": "Rizatriptanbenzoat",
     "krankenhausrelevant": false,
@@ -10960,7 +10645,7 @@
     "datumBeginn": "2024-04-08",
     "datumEnde": "2025-04-11",
     "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 10 mg Tabletten",
@@ -10982,7 +10667,7 @@
     "datumBeginn": "2024-04-08",
     "datumEnde": "2025-04-11",
     "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 10 mg Tabletten",
@@ -11004,7 +10689,7 @@
     "datumBeginn": "2024-04-08",
     "datumEnde": "2025-04-11",
     "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 10 mg Tabletten",
@@ -11026,7 +10711,7 @@
     "datumBeginn": "2024-04-08",
     "datumEnde": "2025-04-11",
     "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 10 mg Tabletten",
@@ -11039,19 +10724,19 @@
   },
   {
     "pzn": [
-      "09947043"
+      "09947190"
     ],
     "enr": [
-      "2176202"
+      "2178496"
     ],
     "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-12",
+    "datumBeginn": "2024-04-09",
     "datumEnde": "2025-04-11",
     "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 5 mg Tabletten",
+    "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
     "atcCode": "N02CC04",
     "wirkstoffe": "Rizatriptanbenzoat",
     "krankenhausrelevant": false,
@@ -11061,19 +10746,19 @@
   },
   {
     "pzn": [
-      "09947066"
+      "09947221"
     ],
     "enr": [
-      "2176202"
+      "2178496"
     ],
     "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-12",
+    "datumBeginn": "2024-04-09",
     "datumEnde": "2025-04-11",
     "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 5 mg Tabletten",
+    "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
     "atcCode": "N02CC04",
     "wirkstoffe": "Rizatriptanbenzoat",
     "krankenhausrelevant": false,
@@ -11083,19 +10768,41 @@
   },
   {
     "pzn": [
-      "09947072"
+      "09947250"
     ],
     "enr": [
-      "2176202"
+      "2178496"
     ],
     "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-04-12",
+    "datumBeginn": "2024-04-09",
     "datumEnde": "2025-04-11",
     "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rizatriptan Glenmark 5 mg Tabletten",
+    "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
+    "atcCode": "N02CC04",
+    "wirkstoffe": "Rizatriptanbenzoat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "10116353"
+    ],
+    "enr": [
+      "2178496"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-04-09",
+    "datumEnde": "2025-04-11",
+    "datumErstmeldung": "2024-04-30",
+    "datumLetzteMeldung": "2025-02-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
     "atcCode": "N02CC04",
     "wirkstoffe": "Rizatriptanbenzoat",
     "krankenhausrelevant": false,
@@ -11503,9 +11210,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-09-20",
-    "datumEnde": "2025-02-27",
+    "datumEnde": "2025-03-10",
     "datumErstmeldung": "2024-09-20",
-    "datumLetzteMeldung": "2024-12-27",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Valproat HEXAL chrono 300 mg Retardtabletten",
@@ -12551,11 +12258,11 @@
     "enr": [
       "2143570"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-16",
-    "datumEnde": "2025-02-28",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2024-12-05",
-    "datumLetzteMeldung": "2024-12-05",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Cabaseril 2 mg",
@@ -12934,6 +12641,72 @@
     "telefon": "+49 73217578136",
     "mail": "iva.gjolli@cheplapharm-reg.com",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16031468"
+    ],
+    "enr": [
+      "2202515"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-06-24",
+    "datumEnde": "2025-04-04",
+    "datumErstmeldung": "2024-07-02",
+    "datumLetzteMeldung": "2025-02-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 50 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16031474"
+    ],
+    "enr": [
+      "2202515"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-06-24",
+    "datumEnde": "2025-04-04",
+    "datumErstmeldung": "2024-07-02",
+    "datumLetzteMeldung": "2025-02-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 50 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16031480"
+    ],
+    "enr": [
+      "2202515"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-06-24",
+    "datumEnde": "2025-04-04",
+    "datumErstmeldung": "2024-07-02",
+    "datumLetzteMeldung": "2025-02-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 50 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -15802,72 +15575,6 @@
   },
   {
     "pzn": [
-      "16031468"
-    ],
-    "enr": [
-      "2202515"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-06-24",
-    "datumEnde": "2025-03-28",
-    "datumErstmeldung": "2024-07-02",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Glenmark 50 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16031474"
-    ],
-    "enr": [
-      "2202515"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-06-24",
-    "datumEnde": "2025-03-28",
-    "datumErstmeldung": "2024-07-02",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Glenmark 50 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16031480"
-    ],
-    "enr": [
-      "2202515"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-06-24",
-    "datumEnde": "2025-03-28",
-    "datumErstmeldung": "2024-07-02",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Glenmark 50 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04172815"
     ],
     "enr": [
@@ -15956,127 +15663,6 @@
     "zulassungsinhaber": "ratiopharm GmbH",
     "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00822819"
-    ],
-    "enr": [
-      "2152997"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-11-21",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-11-21",
-    "datumLetzteMeldung": "2025-01-21",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Eingeschränke Lieferfähigkeit",
-    "bezeichnung": "RISPERDAL CONSTA 50 mg",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
-    "telefon": "+49 2137 955-2288",
-    "mail": "QS-DE@its.jnj.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02650096"
-    ],
-    "enr": [
-      "2152997"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-11-21",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-11-21",
-    "datumLetzteMeldung": "2025-01-21",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Eingeschränke Lieferfähigkeit",
-    "bezeichnung": "RISPERDAL CONSTA 50 mg",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
-    "telefon": "+49 2137 955-2288",
-    "mail": "QS-DE@its.jnj.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00822788"
-    ],
-    "enr": [
-      "2152996"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-12-27",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-12-27",
-    "datumLetzteMeldung": "2025-01-21",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Eingeschränke Lieferfähigkeit",
-    "bezeichnung": "RISPERDAL CONSTA 37,5 mg",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
-    "telefon": "+49 2137 955-2288",
-    "mail": "QS-DE@its.jnj.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02650067"
-    ],
-    "enr": [
-      "2152996"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-12-27",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-12-27",
-    "datumLetzteMeldung": "2025-01-21",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Eingeschränke Lieferfähigkeit",
-    "bezeichnung": "RISPERDAL CONSTA 37,5 mg",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
-    "telefon": "+49 2137 955-2288",
-    "mail": "QS-DE@its.jnj.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02650050"
-    ],
-    "enr": [
-      "2152995"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-26",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-09-25",
-    "datumLetzteMeldung": "2025-01-21",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Eingeschränke Lieferfähigkeit",
-    "bezeichnung": "RISPERDAL CONSTA 25 mg",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
-    "telefon": "+49 2137 - 955 - 2288",
-    "mail": "QS-DE@its.jnj.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "RISPERDAL CONSTA 25 mg - Einreichungsnummer: 2152995"
   },
   {
     "pzn": [
@@ -16656,138 +16242,6 @@
   },
   {
     "pzn": [
-      "08671946"
-    ],
-    "enr": [
-      "2111426"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-02",
-    "datumEnde": "2025-02-28",
-    "datumErstmeldung": "2024-12-11",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Busp 5 mg",
-    "atcCode": "N05BE01",
-    "wirkstoffe": "Buspironhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08671952"
-    ],
-    "enr": [
-      "2111426"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-02",
-    "datumEnde": "2025-02-28",
-    "datumErstmeldung": "2024-12-11",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Busp 5 mg",
-    "atcCode": "N05BE01",
-    "wirkstoffe": "Buspironhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08671969"
-    ],
-    "enr": [
-      "2111426"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-02",
-    "datumEnde": "2025-02-28",
-    "datumErstmeldung": "2024-12-11",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Busp 5 mg",
-    "atcCode": "N05BE01",
-    "wirkstoffe": "Buspironhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08671975"
-    ],
-    "enr": [
-      "2111427"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-10-24",
-    "datumEnde": "2025-02-28",
-    "datumErstmeldung": "2024-12-11",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Busp 10mg",
-    "atcCode": "N05BE01",
-    "wirkstoffe": "Buspironhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08671981"
-    ],
-    "enr": [
-      "2111427"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-10-24",
-    "datumEnde": "2025-02-28",
-    "datumErstmeldung": "2024-12-11",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Busp 10mg",
-    "atcCode": "N05BE01",
-    "wirkstoffe": "Buspironhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08671998"
-    ],
-    "enr": [
-      "2111427"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-10-24",
-    "datumEnde": "2025-02-28",
-    "datumErstmeldung": "2024-12-11",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Busp 10mg",
-    "atcCode": "N05BE01",
-    "wirkstoffe": "Buspironhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "07152782"
     ],
     "enr": [
@@ -16819,9 +16273,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-12-14",
-    "datumEnde": "2025-02-28",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2023-12-22",
-    "datumLetzteMeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Trimipramin - 1 A Pharma 40 mg/ml Tropfen zum Einnehmen, Lösung",
@@ -16841,9 +16295,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-12-14",
-    "datumEnde": "2025-02-28",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2023-12-22",
-    "datumLetzteMeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Trimipramin - 1 A Pharma 40 mg/ml Tropfen zum Einnehmen, Lösung",
@@ -16863,9 +16317,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-12-14",
-    "datumEnde": "2025-02-28",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2023-12-22",
-    "datumLetzteMeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Trimipramin - 1 A Pharma 40 mg/ml Tropfen zum Einnehmen, Lösung",
@@ -16920,50 +16374,6 @@
     "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
     "telefon": "049217310600",
     "mail": "info@neuraxpharm.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14265989"
-    ],
-    "enr": [
-      "2197932"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-29",
-    "datumEnde": "2025-03-07",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Trazodon Glenmark 100 mg Tabletten",
-    "atcCode": "N06AX05",
-    "wirkstoffe": "Trazodonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14266026"
-    ],
-    "enr": [
-      "2197932"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-29",
-    "datumEnde": "2025-03-07",
-    "datumErstmeldung": "2024-08-02",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Trazodon Glenmark 100 mg Tabletten",
-    "atcCode": "N06AX05",
-    "wirkstoffe": "Trazodonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
     "infoFachkreise": "Nein"
   },
   {
@@ -20141,29 +19551,6 @@
   },
   {
     "pzn": [
-      "11240931"
-    ],
-    "enr": [
-      "2189480"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-06",
-    "datumEnde": "2025-02-21",
-    "datumErstmeldung": "2025-02-06",
-    "datumLetzteMeldung": "2025-02-06",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ofloxacin-Ophtal 3 mg/g Augensalbe",
-    "atcCode": "S01AE01",
-    "wirkstoffe": "Ofloxacin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "telefon": "0800  090 94 90 94",
-    "mail": "pharma.kundenservice@bausch.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04806964"
     ],
     "enr": [
@@ -20187,6 +19574,29 @@
   },
   {
     "pzn": [
+      "00602762"
+    ],
+    "enr": [
+      "2136312"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-11-01",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-11-01",
+    "datumLetzteMeldung": "2025-02-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Predni-Ophtal Gel",
+    "atcCode": "S01BA04",
+    "wirkstoffe": "Prednisolonacetat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
+    "mail": "pharma.kundenservice@bausch.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Prednisolon-Augensalbe Jenapharm - Einreichungsnummer: 3000274"
+  },
+  {
+    "pzn": [
       "00165209"
     ],
     "enr": [
@@ -20207,29 +19617,6 @@
     "telefon": "068059292188",
     "mail": "christine.funk@ursapharm.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00602762"
-    ],
-    "enr": [
-      "2136312"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-01",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-11-01",
-    "datumLetzteMeldung": "2024-11-01",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Predni-Ophtal Gel",
-    "atcCode": "S01BA04",
-    "wirkstoffe": "Prednisolonacetat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "mail": "pharma.kundenservice@bausch.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Prednisolon-Augensalbe Jenapharm - Einreichungsnummer: 3000274"
   },
   {
     "pzn": [
@@ -20887,9 +20274,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-08-21",
-    "datumEnde": "2025-03-30",
+    "datumEnde": "2025-04-28",
     "datumErstmeldung": "2023-09-14",
-    "datumLetzteMeldung": "2024-08-05",
+    "datumLetzteMeldung": "2025-02-21",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "L-Poladdict 5 mg Tabletten",
@@ -20947,6 +20334,29 @@
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
     "mail": "medinfo@mundipharma.de",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "05116859"
+    ],
+    "enr": [
+      "2164876"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-10",
+    "datumEnde": "2025-04-01",
+    "datumErstmeldung": "2025-02-21",
+    "datumLetzteMeldung": "2025-02-21",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Protaminsulfat LEO Pharma 1400 Heparin-Antidot I.E./ml Injektionslösung und Infusionslösung",
+    "atcCode": "V03AB14",
+    "wirkstoffe": "Protaminsulfat ((mit Angaben zur Herstellung und zum Schwefelsäure-Gehalt))",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Leo Pharma A/S HR-Beiname: Leo Pharmaceutical Products Ltd. A/S",
+    "mail": "regulatory_affairs_de@leo-pharma.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Protamin ME 1000 I.E./ml - Einreichungsnummer: 0037368"
   },
   {
     "pzn": [
@@ -21037,75 +20447,6 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Orion Corporation t/a Orion Pharma",
     "mail": "christoph.lindemann@orionpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01527554"
-    ],
-    "enr": [
-      "2139412"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-11-25",
-    "datumEnde": "2025-04-02",
-    "datumErstmeldung": "2021-12-07",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Calciumfolinat HEXAL 10 mg/ml",
-    "atcCode": "V03AF03",
-    "wirkstoffe": "Calciumfolinat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "0800-4392527",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01527695"
-    ],
-    "enr": [
-      "2139412"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-11-25",
-    "datumEnde": "2025-04-02",
-    "datumErstmeldung": "2021-12-07",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Calciumfolinat HEXAL 10 mg/ml",
-    "atcCode": "V03AF03",
-    "wirkstoffe": "Calciumfolinat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "0800-4392527",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01527703"
-    ],
-    "enr": [
-      "2139412"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2021-11-25",
-    "datumEnde": "2025-04-02",
-    "datumErstmeldung": "2021-12-07",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Calciumfolinat HEXAL 10 mg/ml",
-    "atcCode": "V03AF03",
-    "wirkstoffe": "Calciumfolinat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "telefon": "0800-4392527",
-    "mail": "service@hexal.com",
     "infoFachkreise": "Nein"
   },
   {
