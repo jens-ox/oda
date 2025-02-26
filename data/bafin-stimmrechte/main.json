@@ -1208,24 +1208,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-07-02",
-    "emittent": {
-      "name": "Aumann AG",
-      "sitz": "Beelen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Amiral Gestion",
-      "sitz": "Paris",
-      "land": "Frankreich"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.06,
-      "instrumente": 0,
-      "summe": 3.06
-    }
-  },
-  {
     "veroeffentlichung": "2024-05-23",
     "emittent": {
       "name": "MERCK Kommanditgesellschaft auf Aktien",
@@ -3572,7 +3554,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-21",
+    "veroeffentlichung": "2025-02-25",
     "emittent": {
       "name": "Siemens Energy AG",
       "sitz": "München",
@@ -3584,9 +3566,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.36,
-      "instrumente": 0.14,
-      "summe": 5.49
+      "gesamt": 5.07,
+      "instrumente": 0.5,
+      "summe": 5.57
     }
   },
   {
@@ -3752,7 +3734,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-21",
+    "veroeffentlichung": "2025-02-25",
     "emittent": {
       "name": "MTU Aero Engines AG",
       "sitz": "München",
@@ -3764,9 +3746,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 13.5,
+      "gesamt": 13.44,
       "instrumente": 0.05,
-      "summe": 13.55
+      "summe": 13.5
     }
   },
   {
@@ -3932,7 +3914,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-24",
+    "veroeffentlichung": "2025-02-25",
     "emittent": {
       "name": "Heidelberg Materials AG",
       "sitz": "Heidelberg",
@@ -3944,9 +3926,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.14,
-      "instrumente": 0.16,
-      "summe": 5.3
+      "gesamt": 4.67,
+      "instrumente": 0.15,
+      "summe": 4.82
     }
   },
   {
@@ -7538,24 +7520,6 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-19",
-    "emittent": {
-      "name": "TAG Immobilien AG",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "DWS Investment GmbH",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.18,
-      "instrumente": 0,
-      "summe": 3.18
-    }
-  },
-  {
     "veroeffentlichung": "2024-12-03",
     "emittent": {
       "name": "Scout24 SE",
@@ -7571,6 +7535,24 @@
       "gesamt": 4.7,
       "instrumente": 0,
       "summe": 4.7
+    }
+  },
+  {
+    "veroeffentlichung": "2025-02-24",
+    "emittent": {
+      "name": "MTU Aero Engines AG",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "DWS Investment GmbH",
+      "sitz": "Frankfurt",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.02,
+      "instrumente": 0.00343,
+      "summe": 3.02
     }
   },
   {
@@ -7607,6 +7589,24 @@
       "gesamt": 3.08,
       "instrumente": 0,
       "summe": 3.08
+    }
+  },
+  {
+    "veroeffentlichung": "2025-02-24",
+    "emittent": {
+      "name": "CompuGroup Medical SE & Co. KGaA",
+      "sitz": "Koblenz",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "DWS Investment GmbH",
+      "sitz": "Frankfurt",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.06,
+      "instrumente": 0,
+      "summe": 3.06
     }
   },
   {
@@ -14885,7 +14885,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-21",
+    "veroeffentlichung": "2025-02-25",
     "emittent": {
       "name": "PNE AG",
       "sitz": "Cuxhaven",
@@ -14897,9 +14897,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.99,
-      "instrumente": 1.1,
-      "summe": 6.1
+      "gesamt": 5.00194,
+      "instrumente": 1.08,
+      "summe": 6.09
     }
   },
   {
@@ -27431,7 +27431,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-11-18",
+    "veroeffentlichung": "2025-02-24",
     "emittent": {
       "name": "Nagarro SE",
       "sitz": "München",
@@ -27443,9 +27443,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.78,
-      "instrumente": 7.56,
-      "summe": 9.34
+      "gesamt": 2.32,
+      "instrumente": 4.1,
+      "summe": 6.42
     }
   },
   {
@@ -28064,6 +28064,24 @@
       "gesamt": 5.1,
       "instrumente": 0,
       "summe": 5.1
+    }
+  },
+  {
+    "veroeffentlichung": "2025-02-25",
+    "emittent": {
+      "name": "SNP Schneider-Neureither & Partner SE",
+      "sitz": "Heidelberg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Squarepoint Holdings Limited",
+      "sitz": "George Town",
+      "land": "Cayman Inseln (Kaimaninseln)"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.00438,
+      "instrumente": 0.02,
+      "summe": 3.03
     }
   },
   {
@@ -30298,7 +30316,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-21",
+    "veroeffentlichung": "2025-02-25",
     "emittent": {
       "name": "PNE AG",
       "sitz": "Cuxhaven",
@@ -30310,9 +30328,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.32,
-      "instrumente": 8.27,
-      "summe": 8.58
+      "gesamt": 0.59,
+      "instrumente": 7.89,
+      "summe": 8.48
     }
   },
   {
@@ -30439,24 +30457,6 @@
       "gesamt": 0.36,
       "instrumente": 5.17,
       "summe": 5.52
-    }
-  },
-  {
-    "veroeffentlichung": "2025-02-20",
-    "emittent": {
-      "name": "Deutsche Pfandbriefbank AG",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.48,
-      "instrumente": 4.94,
-      "summe": 5.42
     }
   },
   {
@@ -30798,7 +30798,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-24",
+    "veroeffentlichung": "2025-02-25",
     "emittent": {
       "name": "RENK Group AG",
       "sitz": "Augsburg",
@@ -31026,7 +31026,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-24",
+    "veroeffentlichung": "2025-02-25",
     "emittent": {
       "name": "AIXTRON SE",
       "sitz": "Herzogenrath",
@@ -31038,9 +31038,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.01,
-      "instrumente": 0.13,
-      "summe": 3.14
+      "gesamt": 3.02,
+      "instrumente": 0.14,
+      "summe": 3.16
     }
   },
   {
