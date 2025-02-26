@@ -40,7 +40,7 @@
     "atcCode": "A02BA02",
     "wirkstoffe": "Ranitidinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "AbZ-Pharma GmbH",
     "telefon": "0800 10 117 07",
     "mail": "info@ratiopharm.de",
     "infoFachkreise": "Ja"
@@ -63,7 +63,7 @@
     "atcCode": "A02BA02",
     "wirkstoffe": "Ranitidinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "AbZ-Pharma GmbH",
     "telefon": "0800 10 117 07",
     "mail": "info@ratiopharm.de",
     "infoFachkreise": "Ja"
@@ -86,7 +86,7 @@
     "atcCode": "A02BA02",
     "wirkstoffe": "Ranitidinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "AbZ-Pharma GmbH",
     "telefon": "0800 10 117 07",
     "mail": "info@ratiopharm.de",
     "infoFachkreise": "Ja"
@@ -109,7 +109,7 @@
     "atcCode": "A02BA02",
     "wirkstoffe": "Ranitidinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "AbZ-Pharma GmbH",
     "telefon": "0800 10 117 07",
     "mail": "info@ratiopharm.de",
     "infoFachkreise": "Ja"
@@ -132,7 +132,7 @@
     "atcCode": "A02BA02",
     "wirkstoffe": "Ranitidinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "AbZ-Pharma GmbH",
     "telefon": "0800 10 117 07",
     "mail": "info@ratiopharm.de",
     "infoFachkreise": "Ja"
@@ -414,6 +414,30 @@
     "zulassungsinhaber": "Baxter Deutschland GmbH",
     "telefon": "089 31701 0",
     "mail": "cqa_de@baxter.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02364367"
+    ],
+    "enr": [
+      "2702451"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-27",
+    "datumEnde": "2025-03-18",
+    "datumErstmeldung": "2025-02-25",
+    "datumLetzteMeldung": "2025-02-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Erhöhte Nachfrage",
+    "bezeichnung": "EMEND 80 mg Hartkapseln - OP2",
+    "atcCode": "A04AD12",
+    "wirkstoffe": "Aprepitant",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Merck Sharp & Dohme B.V.",
+    "telefon": "08945611873",
+    "mail": "anton.dimopoulos@msd.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -878,16 +902,40 @@
   },
   {
     "pzn": [
+      "13835048"
+    ],
+    "enr": [
+      "7007916",
+      "7007917"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-21",
+    "datumEnde": "2025-07-22",
+    "datumErstmeldung": "2025-02-25",
+    "datumLetzteMeldung": "2025-02-25",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Semglee",
+    "atcCode": "A10AE04",
+    "wirkstoffe": "Insulin glargin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
+    "mail": "Plx-bioconeulocalaffiliate@pharmalex.com",
+    "infoFachkreise": "Ja",
+    "alternativPraeparat": "Lantus 100 I.E./ml Injektionslösung in Fertigpen - OP(10x3ml)(SoloStar) - Einreichungsnummer: 2704305"
+  },
+  {
+    "pzn": [
       "13835031"
     ],
     "enr": [
       "2713772"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-02-05",
-    "datumEnde": "2025-03-15",
+    "datumEnde": "2025-03-25",
     "datumErstmeldung": "2025-02-05",
-    "datumLetzteMeldung": "2025-02-05",
+    "datumLetzteMeldung": "2025-02-25",
     "grund": "Probleme beim Sonstigen Hersteller",
     "grundArt": "Sonstige",
     "bezeichnung": "Semglee 100 Einheiten/ml Injektionslösung in Fertigpen - OP(5x3ml)",
@@ -897,7 +945,7 @@
     "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
     "mail": "Plx-bioconeulocalaffiliate@pharmalex.com",
     "infoFachkreise": "Ja",
-    "alternativPraeparat": "Insulin aspart Sanofi - Einreichungsnummer: 2715149"
+    "alternativPraeparat": "Lantus 100 I.E./ml Injektionslösung in Fertigpen - OP(5x3ml)(SoloStar) - Einreichungsnummer: 2704301"
   },
   {
     "pzn": [
@@ -12727,6 +12775,30 @@
   },
   {
     "pzn": [
+      "07373336"
+    ],
+    "enr": [
+      "2705751"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-11-29",
+    "datumEnde": "2025-05-22",
+    "datumErstmeldung": "2025-02-25",
+    "datumLetzteMeldung": "2025-02-25",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Der Grund für den Lieferengpass ist eine verspätete Validierung beim Hersteller",
+    "bezeichnung": "ZYPADHERA 405 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(931mg+3ml)",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapinembonat-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Cheplapharm Registration GmbH",
+    "mail": "iva.gjolli@cheplapharm-reg.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Olanzapine Teva 10 mg Filmtabletten - OP98 - Einreichungsnummer: 2711911"
+  },
+  {
+    "pzn": [
       "01658807"
     ],
     "enr": [
@@ -14005,7 +14077,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "AbZ-Pharma GmbH",
     "mail": "info@AbZ.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -14027,7 +14099,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "AbZ-Pharma GmbH",
     "mail": "info@AbZ.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -14049,7 +14121,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "AbZ-Pharma GmbH",
     "mail": "info@AbZ.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16302,7 +16374,7 @@
     "atcCode": "N05BA04",
     "wirkstoffe": "Oxazepam",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "AbZ-Pharma GmbH",
     "mail": "info@AbZ.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -16324,7 +16396,7 @@
     "atcCode": "N05BA04",
     "wirkstoffe": "Oxazepam",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "AbZ-Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "AbZ-Pharma GmbH",
     "mail": "info@AbZ.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -19939,6 +20011,28 @@
   },
   {
     "pzn": [
+      "03524525"
+    ],
+    "enr": [
+      "3000312"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-21",
+    "datumEnde": "2025-03-21",
+    "datumErstmeldung": "2025-02-25",
+    "datumLetzteMeldung": "2025-02-25",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxytetracyclin-Prednisolon-Augensalbe JENAPHARM",
+    "atcCode": "S01CA02",
+    "wirkstoffe": "Oxytetracyclinhydrochlorid; Prednisolon",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "mail": "nicole.duerrschmidt@dermapharm.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "06319027"
     ],
     "enr": [
@@ -20178,11 +20272,11 @@
     "enr": [
       "1464144"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-01",
-    "datumEnde": "2025-03-03",
+    "datumEnde": "2025-04-21",
     "datumErstmeldung": "2025-01-20",
-    "datumLetzteMeldung": "2025-01-20",
+    "datumLetzteMeldung": "2025-02-25",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Mydriaticum Stulln UD",
@@ -20201,11 +20295,11 @@
     "enr": [
       "1464144"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-01",
-    "datumEnde": "2025-03-03",
+    "datumEnde": "2025-04-21",
     "datumErstmeldung": "2025-01-20",
-    "datumLetzteMeldung": "2025-01-20",
+    "datumLetzteMeldung": "2025-02-25",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Mydriaticum Stulln UD",
@@ -20224,11 +20318,11 @@
     "enr": [
       "1464144"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-01",
-    "datumEnde": "2025-03-03",
+    "datumEnde": "2025-04-21",
     "datumErstmeldung": "2025-01-20",
-    "datumLetzteMeldung": "2025-01-20",
+    "datumLetzteMeldung": "2025-02-25",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Mydriaticum Stulln UD",
@@ -20247,11 +20341,11 @@
     "enr": [
       "1464144"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-01",
-    "datumEnde": "2025-03-03",
+    "datumEnde": "2025-04-21",
     "datumErstmeldung": "2025-01-20",
-    "datumLetzteMeldung": "2025-01-20",
+    "datumLetzteMeldung": "2025-02-25",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Mydriaticum Stulln UD",
@@ -20270,11 +20364,11 @@
     "enr": [
       "0037055"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-01",
-    "datumEnde": "2025-03-03",
+    "datumEnde": "2025-04-01",
     "datumErstmeldung": "2025-01-20",
-    "datumLetzteMeldung": "2025-01-20",
+    "datumLetzteMeldung": "2025-02-25",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Mydriaticum Stulln",
@@ -20293,11 +20387,11 @@
     "enr": [
       "0037055"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-01",
-    "datumEnde": "2025-03-03",
+    "datumEnde": "2025-04-01",
     "datumErstmeldung": "2025-01-20",
-    "datumLetzteMeldung": "2025-01-20",
+    "datumLetzteMeldung": "2025-02-25",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Mydriaticum Stulln",
