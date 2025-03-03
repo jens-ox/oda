@@ -11,6 +11,8 @@ import { LadesaeulenExporter } from './ladesaeulenregister/exporter'
 import { Rigoletto } from './rigoletto'
 import { RigolettoExporter } from './rigoletto/exporter'
 import { ExporterMap } from '@/types'
+import { Wahlen } from './wahlen'
+import { WahlenExporter } from './wahlen/exporter'
 
 export const exporters: Array<ExporterMap> = [
   {
@@ -36,5 +38,9 @@ export const exporters: Array<ExporterMap> = [
   {
     id: Krankenkassen.id,
     exporter: KrankenkassenExporter
+  },
+  {
+    id: Wahlen.id,
+    exporter: WahlenExporter
   }
 ]

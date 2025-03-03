@@ -10,7 +10,8 @@
     "lint": "eslint .",
     "crawl": "bun run crawl/index.ts",
     "crawl:dev": "bun crawl/playground.ts",
-    "crawl:dry": "DRY_RUN=1 bun run crawl"
+    "crawl:dry": "DRY_RUN=1 bun run crawl",
+    "crawl:interactive": "bun run crawl/interactive.ts"
   },
   "author": "Jens Ochsenmeier <github@jens-ox.de>",
   "license": "MIT",
@@ -32,6 +33,7 @@
     "typescript-eslint": "^8.3.0"
   },
   "dependencies": {
+    "@inquirer/prompts": "^5.5.0",
     "@radix-ui/react-icons": "^1.3.0",
     "@radix-ui/themes": "^3.1.3",
     "@tailwindcss/typography": "^0.5.14",

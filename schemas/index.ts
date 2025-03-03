@@ -5,6 +5,7 @@ import { DestatisSchema } from './destatis'
 import { krankenkassenSchema } from './gkv'
 import { RadabstellanlagenSchema } from './radparken'
 import { RigolettoSchema } from './uba'
+import { WahlenSchema } from './wahlen'
 
 export const schemas = {
   'bafin-stimmrechte': bafinSchema,
@@ -13,5 +14,6 @@ export const schemas = {
   'bna-ladesaeulen': LadesaeulenSchema,
   'uba-rigoletto': RigolettoSchema,
   'gkv-krankenkassen': krankenkassenSchema,
-  radabstellanlagen: RadabstellanlagenSchema
+  radabstellanlagen: RadabstellanlagenSchema,
+  wahlen: WahlenSchema
 }

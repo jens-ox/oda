@@ -5,6 +5,7 @@ import { Krankenkassen } from './krankenkassen'
 import { Ladesaeulen } from './ladesaeulenregister'
 import { Rigoletto } from './rigoletto'
 import { Source } from '@/types'
+import { Wahlen } from './wahlen'
 
 export const sources: Array<Source> = [
   BafinStimmrechte,
@@ -12,5 +13,6 @@ export const sources: Array<Source> = [
   Gemeindeverzeichnis,
   Ladesaeulen,
   Rigoletto,
-  Krankenkassen
+  Krankenkassen,
+  Wahlen
 ]
