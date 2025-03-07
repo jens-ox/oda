@@ -859,13 +859,13 @@
     "enr": [
       "2702319"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-02-10",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-04-23",
     "datumErstmeldung": "2025-02-06",
-    "datumLetzteMeldung": "2025-02-06",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
     "bezeichnung": "NovoRapid FlexPen 100 E/ml Injektionslösung in einem vorgefülltem Injektor - OP(10x3ml)",
     "atcCode": "A10AB05",
     "wirkstoffe": "Insulin aspart",
@@ -1063,6 +1063,30 @@
     "telefon": "08000700800",
     "mail": "kundenservice@viatris.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13451454"
+    ],
+    "enr": [
+      "2673520"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-06",
+    "datumEnde": "2025-04-02",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Refixia",
+    "atcCode": "B02BD",
+    "wirkstoffe": "Nonacog beta pegol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Novo Nordisk A/S",
+    "telefon": "061319031144",
+    "mail": "KD_Service@novonordisk.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Refixia - Einreichungsnummer: 2673521"
   },
   {
     "pzn": [
@@ -3569,31 +3593,6 @@
     "mail": "regulatory@pharmaand.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Emselex 7,5 mg Retardtabletten - OP98 - Einreichungsnummer: 2702588"
-  },
-  {
-    "pzn": [
-      "19171106"
-    ],
-    "enr": [
-      "7013796"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-03",
-    "datumEnde": "2025-03-16",
-    "datumErstmeldung": "2024-12-16",
-    "datumLetzteMeldung": "2024-12-17",
-    "grund": "Sonstige",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "n.a.",
-    "bezeichnung": "Obgemsa",
-    "atcCode": "G04BD15",
-    "wirkstoffe": "Vibegron",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pierre Fabre Medicament",
-    "telefon": "076145261234",
-    "mail": "christina.morhart@pierre-fabre.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Obgemsa - Einreichungsnummer: 7013797"
   },
   {
     "pzn": [
@@ -7052,30 +7051,6 @@
   },
   {
     "pzn": [
-      "18272822"
-    ],
-    "enr": [
-      "0029133"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-17",
-    "datumEnde": "2025-03-17",
-    "datumErstmeldung": "2025-01-31",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Efudix",
-    "atcCode": "L01BC02",
-    "wirkstoffe": "Fluorouracil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "08000700800",
-    "mail": "kundenservice@viatris.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Aldara 5% Creme - Einreichungsnummer: 2700404"
-  },
-  {
-    "pzn": [
       "12476676"
     ],
     "enr": [
@@ -9134,29 +9109,6 @@
   },
   {
     "pzn": [
-      "09229201"
-    ],
-    "enr": [
-      "2184822"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-01",
-    "datumEnde": "2025-03-17",
-    "datumErstmeldung": "2024-08-13",
-    "datumLetzteMeldung": "2025-02-20",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HCl-ratiopharm 16 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon-HCl-ratiopharm 16 mg Hartkapseln, retardiert - Einreichungsnummer: 2184822"
-  },
-  {
-    "pzn": [
       "10524997"
     ],
     "enr": [
@@ -9446,51 +9398,6 @@
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "mail": "Service.De@glenmarkpharma.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09229106"
-    ],
-    "enr": [
-      "2184819"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-11-13",
-    "datumEnde": "2025-02-28",
-    "datumErstmeldung": "2024-11-13",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HCl-ratiopharm 2 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon-HCl-ratiopharm 2 mg Hartkapseln, retardiert - Einreichungsnummer: 2184819"
-  },
-  {
-    "pzn": [
-      "06115276"
-    ],
-    "enr": [
-      "2176823"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-13",
-    "datumEnde": "2025-02-28",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-ratiopharm 16 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -10708,11 +10615,11 @@
     "enr": [
       "0328812"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-29",
-    "datumEnde": "2025-02-28",
+    "datumEnde": "2025-06-18",
     "datumErstmeldung": "2025-01-29",
-    "datumLetzteMeldung": "2025-01-29",
+    "datumLetzteMeldung": "2025-03-06",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Mylepsinum",
@@ -10730,11 +10637,11 @@
     "enr": [
       "0328812"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-29",
-    "datumEnde": "2025-02-28",
+    "datumEnde": "2025-06-18",
     "datumErstmeldung": "2025-01-29",
-    "datumLetzteMeldung": "2025-01-29",
+    "datumLetzteMeldung": "2025-03-06",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Mylepsinum",
@@ -10752,11 +10659,11 @@
     "enr": [
       "0328812"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-29",
-    "datumEnde": "2025-02-28",
+    "datumEnde": "2025-06-18",
     "datumErstmeldung": "2025-01-29",
-    "datumLetzteMeldung": "2025-01-29",
+    "datumLetzteMeldung": "2025-03-06",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Mylepsinum",
@@ -18408,6 +18315,204 @@
   },
   {
     "pzn": [
+      "08755407"
+    ],
+    "enr": [
+      "2184225"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-06-15",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Galantamin-ratiopharm 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09300063"
+    ],
+    "enr": [
+      "2184225"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-06-15",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Galantamin-ratiopharm 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09300086"
+    ],
+    "enr": [
+      "2184225"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-06-15",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Galantamin-ratiopharm 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08755519"
+    ],
+    "enr": [
+      "2184227"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-06-15",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Galantamin-ratiopharm 24 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08755554"
+    ],
+    "enr": [
+      "2184227"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-06-15",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Galantamin-ratiopharm 24 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09300100"
+    ],
+    "enr": [
+      "2184227"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-06-15",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Galantamin-ratiopharm 24 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08755442"
+    ],
+    "enr": [
+      "2184226"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-06-15",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Galantamin-ratiopharm 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "08755494"
+    ],
+    "enr": [
+      "2184226"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-06-15",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Galantamin-ratiopharm 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09300092"
+    ],
+    "enr": [
+      "2184226"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-06-15",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Galantamin-ratiopharm 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "14446343"
     ],
     "enr": [
@@ -19614,9 +19719,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-04-17",
-    "datumEnde": "2025-02-28",
+    "datumEnde": "2025-05-25",
     "datumErstmeldung": "2023-07-04",
-    "datumLetzteMeldung": "2024-12-19",
+    "datumLetzteMeldung": "2025-03-06",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Ipratropium Teva 250 Mikrogramm / 1 ml Lösung für einen Vernebler",
