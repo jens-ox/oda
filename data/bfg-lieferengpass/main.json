@@ -1905,7 +1905,7 @@
     "atcCode": "C03DA01",
     "wirkstoffe": "Spironolacton",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aldactone 50 - Einreichungsnummer: 0618645"
@@ -1928,7 +1928,7 @@
     "atcCode": "C03DA01",
     "wirkstoffe": "Spironolacton",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aldactone 25 - Einreichungsnummer: 0618622"
@@ -3078,7 +3078,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -3101,7 +3101,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -3124,7 +3124,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -3366,91 +3366,26 @@
   },
   {
     "pzn": [
-      "13965130"
+      "00027909"
     ],
     "enr": [
-      "2197897"
+      "2700448"
     ],
     "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-14",
-    "datumEnde": "2025-03-07",
-    "datumErstmeldung": "2025-02-14",
-    "datumLetzteMeldung": "2025-02-14",
+    "datumBeginn": "2025-02-28",
+    "datumEnde": "2025-06-06",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
-    "bezeichnung": "Solifenacin Micro Labs 10 mg Filmtabletten",
-    "atcCode": "G04BD08",
-    "wirkstoffe": "Solifenacinsuccinat",
+    "bezeichnung": "EVISTA 60 mg Filmtabletten - OP84",
+    "atcCode": "G03XC01",
+    "wirkstoffe": "Raloxifenhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Micro Labs GmbH",
-    "mail": "ausschreibungen@microlabsgmbh.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13965147"
-    ],
-    "enr": [
-      "2197897"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-06-14",
-    "datumEnde": "2025-03-07",
-    "datumErstmeldung": "2025-02-14",
-    "datumLetzteMeldung": "2025-02-14",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Solifenacin Micro Labs 10 mg Filmtabletten",
-    "atcCode": "G04BD08",
-    "wirkstoffe": "Solifenacinsuccinat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Micro Labs GmbH",
-    "mail": "ausschreibungen@microlabsgmbh.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13965101"
-    ],
-    "enr": [
-      "2197896"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-07-22",
-    "datumEnde": "2025-03-07",
-    "datumErstmeldung": "2025-02-14",
-    "datumLetzteMeldung": "2025-02-14",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Solifenacin Micro Labs 5 mg Filmtabletten",
-    "atcCode": "G04BD08",
-    "wirkstoffe": "Solifenacinsuccinat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Micro Labs GmbH",
-    "mail": "ausschreibungen@microlabsgmbh.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13965118"
-    ],
-    "enr": [
-      "2197896"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-07-22",
-    "datumEnde": "2025-03-07",
-    "datumErstmeldung": "2025-02-14",
-    "datumLetzteMeldung": "2025-02-14",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Solifenacin Micro Labs 5 mg Filmtabletten",
-    "atcCode": "G04BD08",
-    "wirkstoffe": "Solifenacinsuccinat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Micro Labs GmbH",
-    "mail": "ausschreibungen@microlabsgmbh.de",
-    "infoFachkreise": "Nein"
+    "zulassungsinhaber": "Substipharm",
+    "telefon": "nborsutzkystapf@pha-res.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "EVISTA 60 mg Filmtabletten - OP84 - Einreichungsnummer: 2794168"
   },
   {
     "pzn": [
@@ -6674,7 +6609,7 @@
     "atcCode": "J04AC01",
     "wirkstoffe": "Isoniazid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -6696,7 +6631,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "EMB-FATOL 500 mg - Einreichungsnummer: 0193039"
@@ -6720,7 +6655,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "EMB-FATOL 100 mg - Einreichungsnummer: 0193128"
@@ -8787,7 +8722,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -8975,91 +8910,75 @@
   },
   {
     "pzn": [
-      "11055441"
+      "14256884"
     ],
     "enr": [
-      "2190938"
+      "2198722"
     ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-10",
-    "datumEnde": "2025-03-03",
-    "datumErstmeldung": "2025-02-10",
-    "datumLetzteMeldung": "2025-02-26",
-    "grund": "Probleme beim Sonstigen Hersteller",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-02",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-09-04",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon Aristo akut 1,3 mg Hartkapseln",
+    "bezeichnung": "Hydromorphon PAINBREAK 16 mg Retardtabletten",
     "atcCode": "N02AA03",
     "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PB Pharma GmbH",
+    "telefon": "02159-914470",
+    "mail": "christian.hueneburg@pbpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Palladone retard 16 mg - Einreichungsnummer: 2182663"
   },
   {
     "pzn": [
-      "11055458"
+      "14256890"
     ],
     "enr": [
-      "2190938"
+      "2198722"
     ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-10",
-    "datumEnde": "2025-03-03",
-    "datumErstmeldung": "2025-02-10",
-    "datumLetzteMeldung": "2025-02-26",
-    "grund": "Probleme beim Sonstigen Hersteller",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-02",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-09-04",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon Aristo akut 1,3 mg Hartkapseln",
+    "bezeichnung": "Hydromorphon PAINBREAK 16 mg Retardtabletten",
     "atcCode": "N02AA03",
     "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PB Pharma GmbH",
+    "telefon": "02159-914470",
+    "mail": "christian.hueneburg@pbpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Palladone retard 16 mg - Einreichungsnummer: 2182663"
   },
   {
     "pzn": [
-      "11055487"
+      "14256855"
     ],
     "enr": [
-      "2190939"
+      "2198721"
     ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-10",
-    "datumEnde": "2025-03-03",
-    "datumErstmeldung": "2025-02-10",
-    "datumLetzteMeldung": "2025-02-26",
-    "grund": "Probleme beim Sonstigen Hersteller",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-09-02",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-09-04",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon Aristo akut 2,6 mg Hartkapseln",
+    "bezeichnung": "Hydromorphon PAINBREAK 8 mg Retardtabletten",
     "atcCode": "N02AA03",
     "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11055493"
-    ],
-    "enr": [
-      "2190939"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-10",
-    "datumEnde": "2025-03-03",
-    "datumErstmeldung": "2025-02-10",
-    "datumLetzteMeldung": "2025-02-26",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon Aristo akut 2,6 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PB Pharma GmbH",
+    "telefon": "02159-914470",
+    "mail": "christian.hueneburg@pbpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Palladone retard 8 mg - Einreichungsnummer: 2182662"
   },
   {
     "pzn": [
@@ -9518,150 +9437,6 @@
     "mail": "christian.hueneburg@pbpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Palladone retard 24 mg - Einreichungsnummer: 2182664"
-  },
-  {
-    "pzn": [
-      "14256884"
-    ],
-    "enr": [
-      "2198722"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-09-02",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-09-04",
-    "datumLetzteMeldung": "2024-09-04",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon PAINBREAK 16 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PB Pharma GmbH",
-    "telefon": "02159-914470",
-    "mail": "christian.hueneburg@pbpharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Palladone retard 16 mg - Einreichungsnummer: 2182663"
-  },
-  {
-    "pzn": [
-      "14256890"
-    ],
-    "enr": [
-      "2198722"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-09-02",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-09-04",
-    "datumLetzteMeldung": "2024-09-04",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon PAINBREAK 16 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PB Pharma GmbH",
-    "telefon": "02159-914470",
-    "mail": "christian.hueneburg@pbpharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Palladone retard 16 mg - Einreichungsnummer: 2182663"
-  },
-  {
-    "pzn": [
-      "14256909"
-    ],
-    "enr": [
-      "2198722"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-09-02",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-09-04",
-    "datumLetzteMeldung": "2024-09-04",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon PAINBREAK 16 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PB Pharma GmbH",
-    "telefon": "02159-914470",
-    "mail": "christian.hueneburg@pbpharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Palladone retard 16 mg - Einreichungsnummer: 2182663"
-  },
-  {
-    "pzn": [
-      "14256855"
-    ],
-    "enr": [
-      "2198721"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-09-02",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-09-04",
-    "datumLetzteMeldung": "2024-09-04",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon PAINBREAK 8 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PB Pharma GmbH",
-    "telefon": "02159-914470",
-    "mail": "christian.hueneburg@pbpharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Palladone retard 8 mg - Einreichungsnummer: 2182662"
-  },
-  {
-    "pzn": [
-      "14256861"
-    ],
-    "enr": [
-      "2198721"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-09-02",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-09-04",
-    "datumLetzteMeldung": "2024-09-04",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon PAINBREAK 8 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PB Pharma GmbH",
-    "telefon": "02159-914470",
-    "mail": "christian.hueneburg@pbpharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Palladone retard 8 mg - Einreichungsnummer: 2182662"
-  },
-  {
-    "pzn": [
-      "14256878"
-    ],
-    "enr": [
-      "2198721"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-09-02",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-09-04",
-    "datumLetzteMeldung": "2024-09-04",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon PAINBREAK 8 mg Retardtabletten",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PB Pharma GmbH",
-    "telefon": "02159-914470",
-    "mail": "christian.hueneburg@pbpharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Palladone retard 8 mg - Einreichungsnummer: 2182662"
   },
   {
     "pzn": [
@@ -10189,11 +9964,11 @@
     "enr": [
       "0390567"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-18",
-    "datumEnde": "2025-02-28",
+    "datumEnde": "2025-05-15",
     "datumErstmeldung": "2024-12-21",
-    "datumLetzteMeldung": "2024-12-21",
+    "datumLetzteMeldung": "2025-03-06",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Octadon P",
@@ -12023,16 +11798,40 @@
   },
   {
     "pzn": [
+      "01699798"
+    ],
+    "enr": [
+      "2705513"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-19",
+    "datumEnde": "2025-06-20",
+    "datumErstmeldung": "2025-03-07",
+    "datumLetzteMeldung": "2025-03-07",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Verzögerung der Produktion",
+    "bezeichnung": "Neupro 3 mg/24 h transdermales Pflaster - OP(84x1)",
+    "atcCode": "N04BC09",
+    "wirkstoffe": "Rotigotin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "UCB Pharma",
+    "telefon": "+49 2173 48 4848",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Neupro 3 mg/24 h transdermales Pflaster - OP(7x1) - Einreichungsnummer: 2705507"
+  },
+  {
+    "pzn": [
       "05381596"
     ],
     "enr": [
       "2704210"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-03-07",
-    "datumEnde": "2025-03-25",
+    "datumEnde": "2025-04-23",
     "datumErstmeldung": "2025-02-04",
-    "datumLetzteMeldung": "2025-02-04",
+    "datumLetzteMeldung": "2025-03-07",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Es sind andere Packungsgrößen der gleichen Wirkstärke verfügbar.",
@@ -12044,6 +11843,29 @@
     "telefon": "+49 2173 48 4848",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Neupro 2 mg/24 h transdermales Pflaster - OP(28x1) - Einreichungsnummer: 2703045"
+  },
+  {
+    "pzn": [
+      "01699775"
+    ],
+    "enr": [
+      "2705509"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-21",
+    "datumEnde": "2025-04-23",
+    "datumErstmeldung": "2025-03-07",
+    "datumLetzteMeldung": "2025-03-07",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Neupro 3 mg/24 h transdermales Pflaster - OP(28x1)",
+    "atcCode": "N04BC09",
+    "wirkstoffe": "Rotigotin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "UCB Pharma",
+    "telefon": "+49 2173 48 4848",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Neupro 3 mg/24 h transdermales Pflaster - OP(7x1) - Einreichungsnummer: 2705507"
   },
   {
     "pzn": [
@@ -12208,6 +12030,50 @@
   },
   {
     "pzn": [
+      "09491382"
+    ],
+    "enr": [
+      "2145327"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-24",
+    "datumEnde": "2025-05-02",
+    "datumErstmeldung": "2023-03-24",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Melperon Aristo 50 mg Filmtabletten",
+    "atcCode": "N05AD03",
+    "wirkstoffe": "Melperonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09491399"
+    ],
+    "enr": [
+      "2145327"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-03-24",
+    "datumEnde": "2025-05-02",
+    "datumErstmeldung": "2023-03-24",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Melperon Aristo 50 mg Filmtabletten",
+    "atcCode": "N05AD03",
+    "wirkstoffe": "Melperonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "09491407"
     ],
     "enr": [
@@ -12265,50 +12131,6 @@
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Melperon Aristo 100 mg Filmtabletten",
-    "atcCode": "N05AD03",
-    "wirkstoffe": "Melperonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09491382"
-    ],
-    "enr": [
-      "2145327"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-24",
-    "datumEnde": "2025-03-03",
-    "datumErstmeldung": "2023-03-24",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Melperon Aristo 50 mg Filmtabletten",
-    "atcCode": "N05AD03",
-    "wirkstoffe": "Melperonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09491399"
-    ],
-    "enr": [
-      "2145327"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-03-24",
-    "datumEnde": "2025-03-03",
-    "datumErstmeldung": "2023-03-24",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Melperon Aristo 50 mg Filmtabletten",
     "atcCode": "N05AD03",
     "wirkstoffe": "Melperonhydrochlorid",
     "krankenhausrelevant": false,
@@ -15935,7 +15757,7 @@
     "atcCode": "N06AA04",
     "wirkstoffe": "Clomipraminhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Anafranil 75 mg retard - Einreichungsnummer: 2129687"
@@ -17774,7 +17596,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -17797,7 +17619,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -17820,7 +17642,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -17843,7 +17665,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -17866,7 +17688,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -17888,7 +17710,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -17910,7 +17732,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -17933,7 +17755,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -17956,7 +17778,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18315,6 +18137,167 @@
   },
   {
     "pzn": [
+      "09381914"
+    ],
+    "enr": [
+      "2184387"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-25",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Galantamin-neuraxpharm 24 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09381771"
+    ],
+    "enr": [
+      "2184386"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-11",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Galantamin-neuraxpharm 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09381788"
+    ],
+    "enr": [
+      "2184386"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-11",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Galantamin-neuraxpharm 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09381819"
+    ],
+    "enr": [
+      "2184386"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-11",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Galantamin-neuraxpharm 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09381742"
+    ],
+    "enr": [
+      "2184385"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-02",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Galantamin-neuraxpharm 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14289547"
+    ],
+    "enr": [
+      "2184385"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-02",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Galantamin-neuraxpharm 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14289553"
+    ],
+    "enr": [
+      "2184385"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-02",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Galantamin-neuraxpharm 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "08755407"
     ],
     "enr": [
@@ -18510,222 +18493,6 @@
     "zulassungsinhaber": "ratiopharm GmbH",
     "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14446343"
-    ],
-    "enr": [
-      "2201581",
-      "2201582",
-      "2201583"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-10",
-    "datumEnde": "2025-06-01",
-    "datumErstmeldung": "2025-03-04",
-    "datumLetzteMeldung": "2025-03-04",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Galanaxiro 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medical Valley Invest AB Beiname: AXiromed, Xiromed",
-    "mail": "lars.hilbig@xiromed.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14446366"
-    ],
-    "enr": [
-      "2201581",
-      "2201582",
-      "2201583"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-10",
-    "datumEnde": "2025-06-01",
-    "datumErstmeldung": "2025-03-04",
-    "datumLetzteMeldung": "2025-03-04",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Galanaxiro 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medical Valley Invest AB Beiname: AXiromed, Xiromed",
-    "mail": "lars.hilbig@xiromed.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14446372"
-    ],
-    "enr": [
-      "2201581",
-      "2201582",
-      "2201583"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-10",
-    "datumEnde": "2025-06-01",
-    "datumErstmeldung": "2025-03-04",
-    "datumLetzteMeldung": "2025-03-04",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Galanaxiro 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medical Valley Invest AB Beiname: AXiromed, Xiromed",
-    "mail": "lars.hilbig@xiromed.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14446389"
-    ],
-    "enr": [
-      "2201581",
-      "2201582",
-      "2201583"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-10",
-    "datumEnde": "2025-06-01",
-    "datumErstmeldung": "2025-03-04",
-    "datumLetzteMeldung": "2025-03-04",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Galanaxiro 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medical Valley Invest AB Beiname: AXiromed, Xiromed",
-    "mail": "lars.hilbig@xiromed.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14446395"
-    ],
-    "enr": [
-      "2201581",
-      "2201582",
-      "2201583"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-10",
-    "datumEnde": "2025-06-01",
-    "datumErstmeldung": "2025-03-04",
-    "datumLetzteMeldung": "2025-03-04",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Galanaxiro 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medical Valley Invest AB Beiname: AXiromed, Xiromed",
-    "mail": "lars.hilbig@xiromed.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14446403"
-    ],
-    "enr": [
-      "2201581",
-      "2201582",
-      "2201583"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-10",
-    "datumEnde": "2025-06-01",
-    "datumErstmeldung": "2025-03-04",
-    "datumLetzteMeldung": "2025-03-04",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Galanaxiro 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medical Valley Invest AB Beiname: AXiromed, Xiromed",
-    "mail": "lars.hilbig@xiromed.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14446426"
-    ],
-    "enr": [
-      "2201581",
-      "2201582",
-      "2201583"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-10",
-    "datumEnde": "2025-06-01",
-    "datumErstmeldung": "2025-03-04",
-    "datumLetzteMeldung": "2025-03-04",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Galanaxiro 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medical Valley Invest AB Beiname: AXiromed, Xiromed",
-    "mail": "lars.hilbig@xiromed.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14446432"
-    ],
-    "enr": [
-      "2201581",
-      "2201582",
-      "2201583"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-10",
-    "datumEnde": "2025-06-01",
-    "datumErstmeldung": "2025-03-04",
-    "datumLetzteMeldung": "2025-03-04",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Galanaxiro 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medical Valley Invest AB Beiname: AXiromed, Xiromed",
-    "mail": "lars.hilbig@xiromed.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14446449"
-    ],
-    "enr": [
-      "2201581",
-      "2201582",
-      "2201583"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-10",
-    "datumEnde": "2025-06-01",
-    "datumErstmeldung": "2025-03-04",
-    "datumLetzteMeldung": "2025-03-04",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Galanaxiro 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medical Valley Invest AB Beiname: AXiromed, Xiromed",
-    "mail": "lars.hilbig@xiromed.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -19345,28 +19112,6 @@
   },
   {
     "pzn": [
-      "15427448"
-    ],
-    "enr": [
-      "2200423"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-17",
-    "datumEnde": "2025-03-03",
-    "datumErstmeldung": "2025-01-17",
-    "datumLetzteMeldung": "2025-01-17",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Tetrabenazin Aristo 25 mg Tabletten",
-    "atcCode": "N07XX06",
-    "wirkstoffe": "Tetrabenazin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "09219711"
     ],
     "enr": [
@@ -19411,6 +19156,30 @@
     "telefon": "08964186198",
     "mail": "elisabeth.rueckert@dermapharm.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "01890728"
+    ],
+    "enr": [
+      "2117929"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-03",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ventilastin Novolizer",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Ventilastin Novolizer - Einreichungsnummer: 2117929"
   },
   {
     "pzn": [
@@ -19934,7 +19703,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
@@ -20048,7 +19817,7 @@
     "atcCode": "S01CA02",
     "wirkstoffe": "Oxytetracyclinhydrochlorid; Prednisolon",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -20538,6 +20307,30 @@
     "mail": "KD_Service@novonordisk.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Saxenda 6 mg/ml Injektionslösung in Fertigpen - OP(5x3ml) - Einreichungsnummer: 2711754"
+  },
+  {
+    "pzn": [
+      "12392726"
+    ],
+    "enr": [
+      "2672745"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-03",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-03-07",
+    "datumLetzteMeldung": "2025-03-07",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Die unabhängige Prüfung von 4 Chargen 500IU, die bereits in die EU in unser Lager importiert wurden, durch ein unabhängiges Labor in Irland verzögert sich massiv, so dass die PEI-Freigabe noch aussteht.",
+    "bezeichnung": "Coagadex",
+    "atcCode": "TERM_ID_NA_2090001243",
+    "wirkstoffe": "Blutgerinnungsfaktor X",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "BPL Bioproducts Laboratory GmbH",
+    "mail": "s.proske@kedrion.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Coagadex - Einreichungsnummer: 2672744"
   },
   {
     "pzn": [
