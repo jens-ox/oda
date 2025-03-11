@@ -418,6 +418,28 @@
   },
   {
     "pzn": [
+      "16237170"
+    ],
+    "enr": [
+      "2196942"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-10-29",
+    "datumEnde": "2025-07-01",
+    "datumErstmeldung": "2025-02-24",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Aprepilor 125 mg/80 mg Hartkapseln",
+    "atcCode": "A04AD12",
+    "wirkstoffe": "Aprepitant",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Ethypharm",
+    "mail": "info@ethypharm.berlin",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "02364367"
     ],
     "enr": [
@@ -438,28 +460,6 @@
     "zulassungsinhaber": "Merck Sharp & Dohme B.V.",
     "telefon": "08945611873",
     "mail": "anton.dimopoulos@msd.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16237170"
-    ],
-    "enr": [
-      "2196942"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-10-29",
-    "datumEnde": "2025-03-10",
-    "datumErstmeldung": "2025-02-24",
-    "datumLetzteMeldung": "2025-02-24",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Aprepilor 125 mg/80 mg Hartkapseln",
-    "atcCode": "A04AD12",
-    "wirkstoffe": "Aprepitant",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Ethypharm",
-    "mail": "info@ethypharm.berlin",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -875,30 +875,6 @@
     "mail": "KD_Service@novonordisk.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "NovoRapid Penfill 100 E/ml Injektionslösung in Zylinderampulle - OP(10x3ml) - Einreichungsnummer: 2701427"
-  },
-  {
-    "pzn": [
-      "13835048"
-    ],
-    "enr": [
-      "7007916",
-      "7007917"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-21",
-    "datumEnde": "2025-07-22",
-    "datumErstmeldung": "2025-02-25",
-    "datumLetzteMeldung": "2025-02-25",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Semglee",
-    "atcCode": "A10AE04",
-    "wirkstoffe": "Insulin glargin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
-    "mail": "Plx-bioconeulocalaffiliate@pharmalex.com",
-    "infoFachkreise": "Ja",
-    "alternativPraeparat": "Lantus 100 I.E./ml Injektionslösung in Fertigpen - OP(10x3ml)(SoloStar) - Einreichungsnummer: 2704305"
   },
   {
     "pzn": [
@@ -2708,6 +2684,29 @@
   },
   {
     "pzn": [
+      "02494704"
+    ],
+    "enr": [
+      "2102019"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-26",
+    "datumEnde": "2025-04-20",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Volon A-Schüttelmix",
+    "atcCode": "D02AB, D07XB02",
+    "wirkstoffe": "Triamcinolonacetonid; Zinkoxid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "04300118"
     ],
     "enr": [
@@ -2728,6 +2727,30 @@
     "telefon": "08964186198",
     "mail": "elisabeth.rueckert@dermapharm.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06577031"
+    ],
+    "enr": [
+      "2157578"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-01",
+    "datumEnde": "2025-04-20",
+    "datumErstmeldung": "2025-02-05",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydrocutan Creme 1%",
+    "atcCode": "D07AA02",
+    "wirkstoffe": "Hydrocortison",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Hydrocutan Creme 1% - Einreichungsnummer: 2157578"
   },
   {
     "pzn": [
@@ -2752,30 +2775,6 @@
     "mail": "julia.wiedemann@dermapharm.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Soventol HydroCort 0,5% Spray - Einreichungsnummer: 2158935"
-  },
-  {
-    "pzn": [
-      "06577031"
-    ],
-    "enr": [
-      "2157578"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-01",
-    "datumEnde": "2025-03-23",
-    "datumErstmeldung": "2025-02-05",
-    "datumLetzteMeldung": "2025-02-05",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydrocutan Creme 1%",
-    "atcCode": "D07AA02",
-    "wirkstoffe": "Hydrocortison",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydrocutan Creme 1% - Einreichungsnummer: 2157578"
   },
   {
     "pzn": [
@@ -2850,30 +2849,6 @@
   },
   {
     "pzn": [
-      "00165244"
-    ],
-    "enr": [
-      "2136974"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-22",
-    "datumEnde": "2025-03-16",
-    "datumErstmeldung": "2025-02-05",
-    "datumLetzteMeldung": "2025-02-21",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "SODERM Creme",
-    "atcCode": "D07AC01",
-    "wirkstoffe": "Betamethasonvalerat (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "SODERM Creme - Einreichungsnummer: 2136974"
-  },
-  {
-    "pzn": [
       "00165221"
     ],
     "enr": [
@@ -2894,30 +2869,6 @@
     "telefon": "08964186198",
     "mail": "elisabeth.rueckert@dermapharm.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "10116028"
-    ],
-    "enr": [
-      "2188647"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-24",
-    "datumEnde": "2025-03-09",
-    "datumErstmeldung": "2025-02-05",
-    "datumLetzteMeldung": "2025-02-05",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Momecutan Fettcreme",
-    "atcCode": "D07AC13",
-    "wirkstoffe": "Mometasonfuroat (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Momecutan Fettcreme - Einreichungsnummer: 2188647"
   },
   {
     "pzn": [
@@ -3014,40 +2965,16 @@
   },
   {
     "pzn": [
-      "17445367"
-    ],
-    "enr": [
-      "2201415"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-29",
-    "datumEnde": "2025-03-16",
-    "datumErstmeldung": "2025-02-05",
-    "datumLetzteMeldung": "2025-02-05",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Gentamicutan comp 0,64 mg/g + 1,67 mg/g Salbe",
-    "atcCode": "D07CC01",
-    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Gentamicinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Gentamicutan comp 0,64 mg/g + 1,67 mg/g Salbe - Einreichungsnummer: 2201415"
-  },
-  {
-    "pzn": [
       "03239575"
     ],
     "enr": [
       "2107452"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-11-26",
-    "datumEnde": "2025-03-16",
+    "datumEnde": "2025-04-13",
     "datumErstmeldung": "2024-12-04",
-    "datumLetzteMeldung": "2024-12-04",
+    "datumLetzteMeldung": "2025-03-10",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Inderm",
@@ -5065,6 +4992,28 @@
     "zulassungsinhaber": "Aristo Pharma GmbH",
     "mail": "info@aristo-pharma.de",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16045358"
+    ],
+    "enr": [
+      "2160346"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-21",
+    "datumEnde": "2025-03-21",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "CLARITHROMYCIN BASICS 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Basics GmbH",
+    "mail": "Julian.Elmer@sunpharma.com",
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -8752,29 +8701,6 @@
   },
   {
     "pzn": [
-      "00109352"
-    ],
-    "enr": [
-      "2137038"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-16",
-    "datumEnde": "2025-03-05",
-    "datumErstmeldung": "2025-02-17",
-    "datumLetzteMeldung": "2025-03-03",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ultracain D ohne Adrenalin 1,7 ml",
-    "atcCode": "N01BB08",
-    "wirkstoffe": "Articainhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "SEPTODONT GmbH",
-    "telefon": "+49 89 179251551",
-    "mail": "dominik.gohr@pharmalex.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "03079396"
     ],
     "enr": [
@@ -8907,6 +8833,78 @@
     "zulassungsinhaber": "Aristo Pharma GmbH",
     "mail": "info@aristo-pharma.de",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11354959"
+    ],
+    "enr": [
+      "2178097"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-30",
+    "datumEnde": "2025-05-05",
+    "datumErstmeldung": "2024-08-30",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Hydromorphon-HCl PUREN 8 mg Hartkapseln, retardiert",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "telefon": "+49 (0) 89 558 909 - 143",
+    "mail": "gbicer@puren-pharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Hydromorphon-HCl PUREN 24 mg Hartkapseln, retardiert - Einreichungsnummer: 2178099"
+  },
+  {
+    "pzn": [
+      "11354965"
+    ],
+    "enr": [
+      "2178097"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-30",
+    "datumEnde": "2025-05-05",
+    "datumErstmeldung": "2024-08-30",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Hydromorphon-HCl PUREN 8 mg Hartkapseln, retardiert",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "telefon": "+49 (0) 89 558 909 - 143",
+    "mail": "gbicer@puren-pharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Hydromorphon-HCl PUREN 24 mg Hartkapseln, retardiert - Einreichungsnummer: 2178099"
+  },
+  {
+    "pzn": [
+      "11354971"
+    ],
+    "enr": [
+      "2178097"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-30",
+    "datumEnde": "2025-05-05",
+    "datumErstmeldung": "2024-08-30",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Hydromorphon-HCl PUREN 8 mg Hartkapseln, retardiert",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "telefon": "+49 (0) 89 558 909 - 143",
+    "mail": "gbicer@puren-pharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Hydromorphon-HCl PUREN 24 mg Hartkapseln, retardiert - Einreichungsnummer: 2178099"
   },
   {
     "pzn": [
@@ -9317,78 +9315,6 @@
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "mail": "Service.De@glenmarkpharma.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11354959"
-    ],
-    "enr": [
-      "2178097"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-30",
-    "datumEnde": "2025-03-03",
-    "datumErstmeldung": "2024-08-30",
-    "datumLetzteMeldung": "2024-12-04",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon-HCl PUREN 8 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
-    "telefon": "+49 (0) 89 558 909 - 143",
-    "mail": "gbicer@puren-pharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon-HCl PUREN 24 mg Hartkapseln, retardiert - Einreichungsnummer: 2178099"
-  },
-  {
-    "pzn": [
-      "11354965"
-    ],
-    "enr": [
-      "2178097"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-30",
-    "datumEnde": "2025-03-03",
-    "datumErstmeldung": "2024-08-30",
-    "datumLetzteMeldung": "2024-12-04",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon-HCl PUREN 8 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
-    "telefon": "+49 (0) 89 558 909 - 143",
-    "mail": "gbicer@puren-pharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon-HCl PUREN 24 mg Hartkapseln, retardiert - Einreichungsnummer: 2178099"
-  },
-  {
-    "pzn": [
-      "11354971"
-    ],
-    "enr": [
-      "2178097"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-30",
-    "datumEnde": "2025-03-03",
-    "datumErstmeldung": "2024-08-30",
-    "datumLetzteMeldung": "2024-12-04",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon-HCl PUREN 8 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
-    "telefon": "+49 (0) 89 558 909 - 143",
-    "mail": "gbicer@puren-pharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon-HCl PUREN 24 mg Hartkapseln, retardiert - Einreichungsnummer: 2178099"
   },
   {
     "pzn": [
@@ -10887,6 +10813,29 @@
   },
   {
     "pzn": [
+      "07712672"
+    ],
+    "enr": [
+      "2171092"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-23",
+    "datumEnde": "2025-04-07",
+    "datumErstmeldung": "2024-09-23",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Lamotrigin Aurobindo 25 mg Tabletten",
+    "atcCode": "N03AX09",
+    "wirkstoffe": "Lamotrigin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "GBICER@puren-pharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Lamotrigin Aurobindo 25 mg Tabletten - Einreichungsnummer: 2171092"
+  },
+  {
+    "pzn": [
       "05510993"
     ],
     "enr": [
@@ -10950,29 +10899,6 @@
     "zulassungsinhaber": "Aristo Pharma GmbH",
     "mail": "info@aristo-pharma.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07712672"
-    ],
-    "enr": [
-      "2171092"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-23",
-    "datumEnde": "2025-02-28",
-    "datumErstmeldung": "2024-09-23",
-    "datumLetzteMeldung": "2025-02-11",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Lamotrigin Aurobindo 25 mg Tabletten",
-    "atcCode": "N03AX09",
-    "wirkstoffe": "Lamotrigin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
-    "mail": "GBICER@puren-pharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Lamotrigin Aurobindo 25 mg Tabletten - Einreichungsnummer: 2171092"
   },
   {
     "pzn": [
@@ -11452,29 +11378,6 @@
   },
   {
     "pzn": [
-      "16733006"
-    ],
-    "enr": [
-      "2205357"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-01",
-    "datumEnde": "2025-05-15",
-    "datumErstmeldung": "2024-12-11",
-    "datumLetzteMeldung": "2025-02-18",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Pramipexol STADA 0,52 mg Retardtabletten",
-    "atcCode": "N04BC05",
-    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "telefon": "061016032416",
-    "mail": "christiane.georgi@stada.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "16733012"
     ],
     "enr": [
@@ -11484,7 +11387,7 @@
     "datumBeginn": "2024-07-01",
     "datumEnde": "2025-05-15",
     "datumErstmeldung": "2024-12-11",
-    "datumLetzteMeldung": "2025-02-18",
+    "datumLetzteMeldung": "2025-03-10",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Pramipexol STADA 0,52 mg Retardtabletten",
@@ -15899,6 +15802,102 @@
   },
   {
     "pzn": [
+      "02842068"
+    ],
+    "enr": [
+      "2154863"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-08",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-01-08",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "eingeschränkte Lieferfähigkeit aufgrund erhöhter Nachfrage",
+    "bezeichnung": "CONCERTA 54 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
+    "telefon": "+49 2137 - 955 - 2288",
+    "mail": "QS-DE@its.jnj.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02842051"
+    ],
+    "enr": [
+      "2154862"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-29",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2024-05-29",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "eingeschränkte Lieferfähigkeit aufgrund erhöhter Nachfrage",
+    "bezeichnung": "CONCERTA 36 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
+    "telefon": "+49 2137 - 955 - 2288",
+    "mail": "QS-DE@its.jnj.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06876153"
+    ],
+    "enr": [
+      "2172263"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-08",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-01-08",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "eingeschränkte Lieferfähigkeit aufgrund erhöhter Nachfrage",
+    "bezeichnung": "CONCERTA 27 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
+    "telefon": "+49 2137 - 955 - 2288",
+    "mail": "QS-DE@its.jnj.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02842045"
+    ],
+    "enr": [
+      "2154861"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-06-17",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2024-06-17",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "eingeschränkte Lieferfähigkeit aufgrund erhöhter Nachfrage",
+    "bezeichnung": "CONCERTA 18 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
+    "telefon": "+49 2137 - 955 - 2288?",
+    "mail": "QS-DE@its.jnj.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "03943618"
     ],
     "enr": [
@@ -16292,102 +16291,6 @@
     "zulassungsinhaber": "Aristo Pharma GmbH",
     "mail": "helen.braun@aristo-pharma.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02842068"
-    ],
-    "enr": [
-      "2154863"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-08",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-08",
-    "datumLetzteMeldung": "2025-01-08",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Erhöhte Nachfrage",
-    "bezeichnung": "CONCERTA 54 mg Retardtabletten",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
-    "telefon": "+49 2137 - 955 - 2288",
-    "mail": "QS-DE@its.jnj.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06876153"
-    ],
-    "enr": [
-      "2172263"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-08",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-08",
-    "datumLetzteMeldung": "2025-01-08",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Erhöhte Nachfrage",
-    "bezeichnung": "CONCERTA 27 mg Retardtabletten",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
-    "telefon": "+49 2137 - 955 - 2288",
-    "mail": "QS-DE@its.jnj.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02842051"
-    ],
-    "enr": [
-      "2154862"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-29",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-05-29",
-    "datumLetzteMeldung": "2025-01-07",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Erhöhte Nachfrage",
-    "bezeichnung": "CONCERTA 36 mg Retardtabletten",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
-    "telefon": "+49 2137 - 955 - 2288",
-    "mail": "QS-DE@its.jnj.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02842045"
-    ],
-    "enr": [
-      "2154861"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-06-17",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-06-17",
-    "datumLetzteMeldung": "2025-01-07",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Erhöhte Nachfrage",
-    "bezeichnung": "CONCERTA 18 mg Retardtabletten",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "JANSSEN-CILAG GmbH",
-    "telefon": "+49 2137 - 955 - 2288?",
-    "mail": "QS-DE@its.jnj.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -18134,6 +18037,204 @@
     "zulassungsinhaber": "1 A Pharma GmbH",
     "mail": "info@1apharma.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06195401"
+    ],
+    "enr": [
+      "2193163"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "johanna.kraemer@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09632888"
+    ],
+    "enr": [
+      "2193163"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "johanna.kraemer@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09632902"
+    ],
+    "enr": [
+      "2193163"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "johanna.kraemer@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06195016"
+    ],
+    "enr": [
+      "2193162"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "johanna.kraemer@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09632859"
+    ],
+    "enr": [
+      "2193162"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "johanna.kraemer@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09632871"
+    ],
+    "enr": [
+      "2193162"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "johanna.kraemer@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09632842"
+    ],
+    "enr": [
+      "2193161"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "johanna.kraemer@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09901590"
+    ],
+    "enr": [
+      "2193161"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "johanna.kraemer@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10408908"
+    ],
+    "enr": [
+      "2193161"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-03-10",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "johanna.kraemer@heumann.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
