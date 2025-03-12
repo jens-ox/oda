@@ -1066,16 +1066,16 @@
   },
   {
     "pzn": [
-      "11047447"
+      "11047401"
     ],
     "enr": [
-      "2671958"
+      "2671954"
     ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-01",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-30",
-    "datumLetzteMeldung": "2025-01-30",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-12",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2024-08-12",
+    "datumLetzteMeldung": "2025-03-11",
     "grund": "Sonstige",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rixubis",
@@ -1083,10 +1083,9 @@
     "wirkstoffe": "Nonacog gamma",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Baxalta Innovations GmbH",
-    "telefon": "0800 825332 5",
-    "mail": "MedinfoEMEA@takeda.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Alprolix - Einreichungsnummer: 2672863"
+    "telefon": "+49 800 825 3325",
+    "mail": "medinfoEMEA@takeda.com",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -1095,11 +1094,11 @@
     "enr": [
       "2671955"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-02-01",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2025-01-30",
-    "datumLetzteMeldung": "2025-01-30",
+    "datumLetzteMeldung": "2025-03-11",
     "grund": "Sonstige",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rixubis",
@@ -1111,29 +1110,6 @@
     "mail": "MedinfoEMEA@takeda.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Alprolix - Einreichungsnummer: 2672860"
-  },
-  {
-    "pzn": [
-      "11047401"
-    ],
-    "enr": [
-      "2671954"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-12",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-08-12",
-    "datumLetzteMeldung": "2024-08-12",
-    "grund": "Sonstige",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rixubis",
-    "atcCode": "B02BD04",
-    "wirkstoffe": "Nonacog gamma",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Baxalta Innovations GmbH",
-    "telefon": "+49 800 825 3325",
-    "mail": "medinfoEMEA@takeda.com",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -1881,7 +1857,7 @@
     "atcCode": "C03DA01",
     "wirkstoffe": "Spironolacton",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aldactone 50 - Einreichungsnummer: 0618645"
@@ -1904,7 +1880,7 @@
     "atcCode": "C03DA01",
     "wirkstoffe": "Spironolacton",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aldactone 25 - Einreichungsnummer: 0618622"
@@ -2894,6 +2870,30 @@
   },
   {
     "pzn": [
+      "04881517"
+    ],
+    "enr": [
+      "2156331"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-07",
+    "datumEnde": "2025-04-11",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednicarbat acis Creme",
+    "atcCode": "D07AC18",
+    "wirkstoffe": "Prednicarbat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "(0)89 / 44 23 246  0",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Prednicarbat acis Creme - Einreichungsnummer: 2156331"
+  },
+  {
+    "pzn": [
       "02686869"
     ],
     "enr": [
@@ -3005,7 +3005,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -3028,7 +3028,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -3051,7 +3051,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -3313,6 +3313,75 @@
     "telefon": "nborsutzkystapf@pha-res.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "EVISTA 60 mg Filmtabletten - OP84 - Einreichungsnummer: 2794168"
+  },
+  {
+    "pzn": [
+      "15378922"
+    ],
+    "enr": [
+      "2198262"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-04-15",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Solifenacinsuccinat AL 10 mg Filmtabletten",
+    "atcCode": "G04BD08",
+    "wirkstoffe": "Solifenacinsuccinat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15378939"
+    ],
+    "enr": [
+      "2198262"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-04-15",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Solifenacinsuccinat AL 10 mg Filmtabletten",
+    "atcCode": "G04BD08",
+    "wirkstoffe": "Solifenacinsuccinat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15378945"
+    ],
+    "enr": [
+      "2198262"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-04-15",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Solifenacinsuccinat AL 10 mg Filmtabletten",
+    "atcCode": "G04BD08",
+    "wirkstoffe": "Solifenacinsuccinat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -5446,6 +5515,29 @@
   },
   {
     "pzn": [
+      "01345801"
+    ],
+    "enr": [
+      "2153281"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-18",
+    "datumEnde": "2025-03-24",
+    "datumErstmeldung": "2024-09-20",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ciprohexal 250 mg",
+    "atcCode": "J01MA02",
+    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Ciprohexal 250 mg - Einreichungsnummer: 2153281"
+  },
+  {
+    "pzn": [
       "04954067"
     ],
     "enr": [
@@ -5487,29 +5579,6 @@
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01345801"
-    ],
-    "enr": [
-      "2153281"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-18",
-    "datumEnde": "2025-03-10",
-    "datumErstmeldung": "2024-09-20",
-    "datumLetzteMeldung": "2025-02-21",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ciprohexal 250 mg",
-    "atcCode": "J01MA02",
-    "wirkstoffe": "Ciprofloxacinhydrochlorid (1:1) 1 H<2>O",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Ciprohexal 250 mg - Einreichungsnummer: 2153281"
   },
   {
     "pzn": [
@@ -6558,7 +6627,7 @@
     "atcCode": "J04AC01",
     "wirkstoffe": "Isoniazid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -6580,7 +6649,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "EMB-FATOL 500 mg - Einreichungsnummer: 0193039"
@@ -6604,7 +6673,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "EMB-FATOL 100 mg - Einreichungsnummer: 0193128"
@@ -8671,7 +8740,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -10682,9 +10751,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-09-20",
-    "datumEnde": "2025-03-10",
+    "datumEnde": "2025-03-28",
     "datumErstmeldung": "2024-09-20",
-    "datumLetzteMeldung": "2025-02-21",
+    "datumLetzteMeldung": "2025-03-11",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Valproat HEXAL chrono 300 mg Retardtabletten",
@@ -15597,6 +15666,29 @@
   },
   {
     "pzn": [
+      "03565553"
+    ],
+    "enr": [
+      "2106948"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-12",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tavor 1,0 mg Expidet",
+    "atcCode": "N05BA06",
+    "wirkstoffe": "Lorazepam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "03565582"
     ],
     "enr": [
@@ -15660,7 +15752,7 @@
     "atcCode": "N06AA04",
     "wirkstoffe": "Clomipraminhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Anafranil 75 mg retard - Einreichungsnummer: 2129687"
@@ -15775,6 +15867,402 @@
     "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
     "telefon": "049217310600",
     "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "18131978"
+    ],
+    "enr": [
+      "7005380"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-12-01",
+    "datumEnde": "2026-11-30",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Glenmark 120 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "18131984"
+    ],
+    "enr": [
+      "7005380"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-12-01",
+    "datumEnde": "2026-11-30",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Glenmark 120 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "18131955"
+    ],
+    "enr": [
+      "7005379"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-12-01",
+    "datumEnde": "2026-11-30",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Glenmark 90 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "18131961"
+    ],
+    "enr": [
+      "7005379"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-12-01",
+    "datumEnde": "2026-11-30",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Glenmark 90 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11323367"
+    ],
+    "enr": [
+      "2195447"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-12-01",
+    "datumEnde": "2026-11-30",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Glenmark 60 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11323373"
+    ],
+    "enr": [
+      "2195447"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-12-01",
+    "datumEnde": "2026-11-30",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Glenmark 60 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17305376"
+    ],
+    "enr": [
+      "2195447"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-12-01",
+    "datumEnde": "2026-11-30",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Glenmark 60 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "18009349"
+    ],
+    "enr": [
+      "2195447"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-12-01",
+    "datumEnde": "2026-11-30",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Glenmark 60 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16383316"
+    ],
+    "enr": [
+      "2203720"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-12-01",
+    "datumEnde": "2026-11-30",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Glenmark 45 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16383322"
+    ],
+    "enr": [
+      "2203720"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-12-01",
+    "datumEnde": "2026-11-30",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Glenmark 45 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11323344"
+    ],
+    "enr": [
+      "2205422"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-12-01",
+    "datumEnde": "2026-11-30",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Glenmark 40 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11323350"
+    ],
+    "enr": [
+      "2205422"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-12-01",
+    "datumEnde": "2026-11-30",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Glenmark 40 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11323309"
+    ],
+    "enr": [
+      "2205421"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-12-01",
+    "datumEnde": "2026-11-30",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Glenmark 20 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11323315"
+    ],
+    "enr": [
+      "2205421"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-12-01",
+    "datumEnde": "2026-11-30",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Glenmark 20 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11323321"
+    ],
+    "enr": [
+      "2195446"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-12-01",
+    "datumEnde": "2026-11-30",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Glenmark 30 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11323338"
+    ],
+    "enr": [
+      "2195446"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-12-01",
+    "datumEnde": "2026-11-30",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Glenmark 30 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17305353"
+    ],
+    "enr": [
+      "2195446"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-12-01",
+    "datumEnde": "2026-11-30",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Glenmark 30 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "18009332"
+    ],
+    "enr": [
+      "2195446"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-12-01",
+    "datumEnde": "2026-11-30",
+    "datumErstmeldung": "2025-03-11",
+    "datumLetzteMeldung": "2025-03-11",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Glenmark 30 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
     "infoFachkreise": "Nein"
   },
   {
@@ -17499,7 +17987,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -17522,7 +18010,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -17545,7 +18033,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -17568,7 +18056,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -17591,7 +18079,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -17613,7 +18101,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -17635,7 +18123,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -17658,7 +18146,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -17681,7 +18169,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG - Geschäftsanschrift -",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -19804,7 +20292,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
@@ -19918,7 +20406,7 @@
     "atcCode": "S01CA02",
     "wirkstoffe": "Oxytetracyclinhydrochlorid; Prednisolon",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein"
   },
