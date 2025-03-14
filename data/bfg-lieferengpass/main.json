@@ -1159,30 +1159,6 @@
   },
   {
     "pzn": [
-      "03075346"
-    ],
-    "enr": [
-      "1441686"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-06",
-    "datumEnde": "2025-04-04",
-    "datumErstmeldung": "2024-09-06",
-    "datumLetzteMeldung": "2025-03-05",
-    "grund": "Probleme beim Wirkstoffhersteller",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
-    "bezeichnung": "Ferrlecit 40 mg",
-    "atcCode": "B03AC",
-    "wirkstoffe": "Eisen(III)-natrium-D-gluconat-hydroxid-oxid-Komplex (ca. 2:1:1:x:y)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "0800 52 52 010",
-    "mail": "medinfo.de@sanofi.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03961266"
     ],
     "enr": [
@@ -1699,6 +1675,29 @@
   },
   {
     "pzn": [
+      "03209404"
+    ],
+    "enr": [
+      "2101449"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-11",
+    "datumEnde": "2025-04-15",
+    "datumErstmeldung": "2025-03-13",
+    "datumLetzteMeldung": "2025-03-13",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ebrantil 30mg",
+    "atcCode": "C02CA06",
+    "wirkstoffe": "Urapidil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+    "mail": "ra-urapidil@cheplapharm.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Ebrantil 60mg - Einreichungsnummer: 2107313"
+  },
+  {
+    "pzn": [
       "11510980"
     ],
     "enr": [
@@ -1816,6 +1815,29 @@
   },
   {
     "pzn": [
+      "06135310"
+    ],
+    "enr": [
+      "0618622"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-03",
+    "datumEnde": "2025-03-17",
+    "datumErstmeldung": "2025-02-19",
+    "datumLetzteMeldung": "2025-03-13",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Aldactone 25",
+    "atcCode": "C03DA01",
+    "wirkstoffe": "Spironolacton",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "mail": "mratzlaff@esteve.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Aldactone 25 - Einreichungsnummer: 0618622"
+  },
+  {
+    "pzn": [
       "06453317"
     ],
     "enr": [
@@ -1836,29 +1858,6 @@
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aldactone 50 - Einreichungsnummer: 0618645"
-  },
-  {
-    "pzn": [
-      "06135310"
-    ],
-    "enr": [
-      "0618622"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-03",
-    "datumEnde": "2025-03-07",
-    "datumErstmeldung": "2025-02-19",
-    "datumLetzteMeldung": "2025-02-19",
-    "grund": "Sonstige",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Aldactone 25",
-    "atcCode": "C03DA01",
-    "wirkstoffe": "Spironolacton",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
-    "mail": "mratzlaff@esteve.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Aldactone 25 - Einreichungsnummer: 0618622"
   },
   {
     "pzn": [
@@ -3250,11 +3249,11 @@
     "enr": [
       "2700448"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-02-28",
     "datumEnde": "2025-06-06",
     "datumErstmeldung": "2025-03-06",
-    "datumLetzteMeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-13",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "EVISTA 60 mg Filmtabletten - OP84",
@@ -3262,9 +3261,9 @@
     "wirkstoffe": "Raloxifenhydrochlorid",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Substipharm",
-    "telefon": "nborsutzkystapf@pha-res.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "EVISTA 60 mg Filmtabletten - OP84 - Einreichungsnummer: 2794168"
+    "mail": "nborsutzkystapf@pha-res.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Raloxifen AL 60 mg Filmtabletten - Einreichungsnummer: 2183290"
   },
   {
     "pzn": [
@@ -5130,6 +5129,54 @@
   },
   {
     "pzn": [
+      "04678503"
+    ],
+    "enr": [
+      "2125157"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-10",
+    "datumEnde": "2025-04-25",
+    "datumErstmeldung": "2025-03-13",
+    "datumLetzteMeldung": "2025-03-13",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Der Lieferengpass für die 15 ml Flasche (PZN 07130987) wird vrsl bis 30.06.2025 bestehen.",
+    "bezeichnung": "Zithromax Trockensaft",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07130987"
+    ],
+    "enr": [
+      "2125157"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-10",
+    "datumEnde": "2025-04-25",
+    "datumErstmeldung": "2025-03-13",
+    "datumLetzteMeldung": "2025-03-13",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Der Lieferengpass für die 15 ml Flasche (PZN 07130987) wird vrsl bis 30.06.2025 bestehen.",
+    "bezeichnung": "Zithromax Trockensaft",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "07116993"
     ],
     "enr": [
@@ -6195,94 +6242,6 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
     "mail": "schoeberl@eberth.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00564665"
-    ],
-    "enr": [
-      "2136918"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-01",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2023-12-18",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Metronidazol 400 Heumann",
-    "atcCode": "J01XD01",
-    "wirkstoffe": "Metronidazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08636625"
-    ],
-    "enr": [
-      "2136918"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-01",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2023-12-18",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Metronidazol 400 Heumann",
-    "atcCode": "J01XD01",
-    "wirkstoffe": "Metronidazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "08636631"
-    ],
-    "enr": [
-      "2136918"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-01",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2023-12-18",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Metronidazol 400 Heumann",
-    "atcCode": "J01XD01",
-    "wirkstoffe": "Metronidazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12350277"
-    ],
-    "enr": [
-      "2136918"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-01",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2023-12-18",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Metronidazol 400 Heumann",
-    "atcCode": "J01XD01",
-    "wirkstoffe": "Metronidazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -7654,6 +7613,29 @@
   },
   {
     "pzn": [
+      "02402211"
+    ],
+    "enr": [
+      "2183382"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-11",
+    "datumEnde": "2025-05-26",
+    "datumErstmeldung": "2025-03-13",
+    "datumLetzteMeldung": "2025-03-13",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Mitocin 20 mg Pulver zur Herstellung einer Injektions- bzw. Infusionslösung oder Herstellung einer Lösung zur intravesikalen Anwendung",
+    "atcCode": "L01DC03",
+    "wirkstoffe": "Mitomycin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Substipharm",
+    "mail": "nborsutzkystapf@pha-res.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Mitocin 20 mg Pulver zur Herstellung einer Injektions- bzw. Infusionslösung oder Herstellung einer Lösung zur intravesikalen Anwendung - Einreichungsnummer: 2183382"
+  },
+  {
+    "pzn": [
       "06559665"
     ],
     "enr": [
@@ -8082,30 +8064,6 @@
     "grundArt": "Produktionsproblem",
     "grundAnmerkung": "Großhandel eingeschränkt lieferfähig. Alternativen sind vorhanden; Leflunomid - 1 A Pharma® 10 mg Filmtabletten, Leflunomid AL 10 mg Filmtabletten, Leflunomid Aristo® 10 mg Filmtabletten, Leflunomid Bluefish 10 mg Filmtabletten, Leflunomid Heumann 10 mg Filmtabletten, Leflunomid medac 10 mg Filmtabletten, Leflunomid-ratiopharm® 10 mg Filmtabletten, Leflunomid STADA® 10 mg Filmtabletten, Leflunomid Zentiva 10 mg Filmtabletten",
     "bezeichnung": "Arava 10 mg Filmtabletten - OP100(Blister)",
-    "atcCode": "L04AA13",
-    "wirkstoffe": "Leflunomid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-    "telefon": "08005252010",
-    "mail": "medinfo.de@sanofi.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00242625"
-    ],
-    "enr": [
-      "2701089"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-16",
-    "datumEnde": "2025-03-17",
-    "datumErstmeldung": "2025-01-17",
-    "datumLetzteMeldung": "2025-03-05",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Großhandel eingeschränkt lieferfähig. Alternativen sind vorhanden; Leflunomid - 1 A Pharma® 20 mg Filmtabletten, Leflunomid AL 20 mg Filmtabletten, Leflunomid Aristo® 20 mg Filmtabletten, Leflunomid Bluefish 20 mg Filmtabletten, Leflunomid Heumann 20 mg Filmtabletten, Leflunomid HEXAL® 20 mg Filmtabletten, Leflunomid medac 20 mg Filmtabletten, Leflunomid-ratiopharm® 20 mg Filmtabletten, Leflunomid STADA® 20 mg Filmtabletten, Leflunomid Zentiva 20 mg Filmtabletten",
-    "bezeichnung": "Arava 20 mg Filmtabletten - OP100(Flasche)",
     "atcCode": "L04AA13",
     "wirkstoffe": "Leflunomid",
     "krankenhausrelevant": true,
@@ -10581,72 +10539,6 @@
   },
   {
     "pzn": [
-      "05507459"
-    ],
-    "enr": [
-      "2116582"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-24",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2023-01-24",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Sonstige",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Carbamazepin Aristo 600 mg Retardtabletten",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09494765"
-    ],
-    "enr": [
-      "2116582"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-24",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2023-01-24",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Sonstige",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Carbamazepin Aristo 600 mg Retardtabletten",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09494771"
-    ],
-    "enr": [
-      "2116582"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-01-24",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2023-01-24",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Sonstige",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Carbamazepin Aristo 600 mg Retardtabletten",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00914102"
     ],
     "enr": [
@@ -11422,6 +11314,52 @@
   },
   {
     "pzn": [
+      "15785567"
+    ],
+    "enr": [
+      "2202886"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-12-01",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-12-11",
+    "datumLetzteMeldung": "2025-03-13",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pramipexol AL 0,52 mg Retardtabletten",
+    "atcCode": "N04BC05",
+    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15785573"
+    ],
+    "enr": [
+      "2202886"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-12-01",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2024-12-11",
+    "datumLetzteMeldung": "2025-03-13",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pramipexol AL 0,52 mg Retardtabletten",
+    "atcCode": "N04BC05",
+    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "16733012"
     ],
     "enr": [
@@ -11463,52 +11401,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "1 A Pharma GmbH",
     "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15785567"
-    ],
-    "enr": [
-      "2202886"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-12-01",
-    "datumEnde": "2025-03-15",
-    "datumErstmeldung": "2024-12-11",
-    "datumLetzteMeldung": "2025-01-29",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pramipexol AL 0,52 mg Retardtabletten",
-    "atcCode": "N04BC05",
-    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15785573"
-    ],
-    "enr": [
-      "2202886"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-12-01",
-    "datumEnde": "2025-03-15",
-    "datumErstmeldung": "2024-12-11",
-    "datumLetzteMeldung": "2025-01-29",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pramipexol AL 0,52 mg Retardtabletten",
-    "atcCode": "N04BC05",
-    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -19723,6 +19615,52 @@
   },
   {
     "pzn": [
+      "01664630"
+    ],
+    "enr": [
+      "0080387"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-05",
+    "datumEnde": "2025-05-19",
+    "datumErstmeldung": "2025-03-13",
+    "datumLetzteMeldung": "2025-03-13",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sultanol Inhalationslösung",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
+    "telefon": "0800 1223355",
+    "mail": "service.info@gsk.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16015989"
+    ],
+    "enr": [
+      "2106493"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-28",
+    "datumEnde": "2025-04-14",
+    "datumErstmeldung": "2025-03-13",
+    "datumLetzteMeldung": "2025-03-13",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sultanol forte Fertiginhalat",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
+    "telefon": "0800 1223355",
+    "mail": "service.info@gsk.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "01890728"
     ],
     "enr": [
@@ -19927,6 +19865,29 @@
   },
   {
     "pzn": [
+      "07533194"
+    ],
+    "enr": [
+      "2139642"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-10",
+    "datumEnde": "2025-03-24",
+    "datumErstmeldung": "2025-01-16",
+    "datumLetzteMeldung": "2025-03-13",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Flutide forte 250 µg Dosier-Aerosol",
+    "atcCode": "R03BA05",
+    "wirkstoffe": "Fluticasonpropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
+    "telefon": "0800 1223355",
+    "mail": "service.info@gsk.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "11072273"
     ],
     "enr": [
@@ -20019,29 +19980,6 @@
     "mail": "service.info@gsk.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Flutide 250 Diskus - Einreichungsnummer: 2130866"
-  },
-  {
-    "pzn": [
-      "07533194"
-    ],
-    "enr": [
-      "2139642"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-10",
-    "datumEnde": "2025-03-07",
-    "datumErstmeldung": "2025-01-16",
-    "datumLetzteMeldung": "2025-01-16",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Flutide forte 250 µg Dosier-Aerosol",
-    "atcCode": "R03BA05",
-    "wirkstoffe": "Fluticasonpropionat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
-    "telefon": "0800 1223355",
-    "mail": "service.info@gsk.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -20689,29 +20627,6 @@
   },
   {
     "pzn": [
-      "01875775"
-    ],
-    "enr": [
-      "0037055"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-01",
-    "datumEnde": "2025-04-01",
-    "datumErstmeldung": "2025-01-20",
-    "datumLetzteMeldung": "2025-02-25",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Mydriaticum Stulln",
-    "atcCode": "S01FA56",
-    "wirkstoffe": "Tropicamid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pharma Stulln GmbH",
-    "telefon": "09435/3008-440",
-    "mail": "cornelius@pharmastulln.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04647856"
     ],
     "enr": [
@@ -20721,7 +20636,7 @@
     "datumBeginn": "2025-01-01",
     "datumEnde": "2025-04-01",
     "datumErstmeldung": "2025-01-20",
-    "datumLetzteMeldung": "2025-02-25",
+    "datumLetzteMeldung": "2025-03-13",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Mydriaticum Stulln",
