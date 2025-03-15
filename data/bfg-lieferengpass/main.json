@@ -975,11 +975,11 @@
     "enr": [
       "0376142"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-16",
-    "datumEnde": "2025-03-15",
+    "datumEnde": "2025-03-31",
     "datumErstmeldung": "2025-01-31",
-    "datumLetzteMeldung": "2025-01-31",
+    "datumLetzteMeldung": "2025-03-14",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "grundAnmerkung": "keine weiteren Angaben",
@@ -999,11 +999,11 @@
     "enr": [
       "0376142"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-16",
-    "datumEnde": "2025-03-15",
+    "datumEnde": "2025-03-31",
     "datumErstmeldung": "2025-01-31",
-    "datumLetzteMeldung": "2025-01-31",
+    "datumLetzteMeldung": "2025-03-14",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "grundAnmerkung": "keine weiteren Angaben",
@@ -1023,11 +1023,11 @@
     "enr": [
       "0376142"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-16",
-    "datumEnde": "2025-03-15",
+    "datumEnde": "2025-03-31",
     "datumErstmeldung": "2025-01-31",
-    "datumLetzteMeldung": "2025-01-31",
+    "datumLetzteMeldung": "2025-03-14",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "grundAnmerkung": "keine weiteren Angaben",
@@ -1630,11 +1630,11 @@
     "enr": [
       "2104914"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-01",
-    "datumEnde": "2025-02-28",
+    "datumEnde": "2025-05-31",
     "datumErstmeldung": "2024-11-29",
-    "datumLetzteMeldung": "2024-11-29",
+    "datumLetzteMeldung": "2025-03-14",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Lieferverzug",
@@ -4304,29 +4304,6 @@
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07574394"
-    ],
-    "enr": [
-      "0727386"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-12",
-    "datumEnde": "2025-03-24",
-    "datumErstmeldung": "2024-01-15",
-    "datumLetzteMeldung": "2025-03-04",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Infectomox 750 Saft",
-    "atcCode": "J01CA04",
-    "wirkstoffe": "Amoxicillin-Trihydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -7616,23 +7593,22 @@
       "02402211"
     ],
     "enr": [
-      "2183382"
+      "2140379"
     ],
-    "meldungsart": "Änderungsmeldung",
+    "meldungsart": "Erstmeldung",
     "datumBeginn": "2025-03-11",
     "datumEnde": "2025-05-26",
-    "datumErstmeldung": "2025-03-13",
-    "datumLetzteMeldung": "2025-03-13",
+    "datumErstmeldung": "2025-03-14",
+    "datumLetzteMeldung": "2025-03-14",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
-    "bezeichnung": "Mitocin 20 mg Pulver zur Herstellung einer Injektions- bzw. Infusionslösung oder Herstellung einer Lösung zur intravesikalen Anwendung",
+    "bezeichnung": "Mitem 20mg",
     "atcCode": "L01DC03",
     "wirkstoffe": "Mitomycin",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Substipharm",
     "mail": "nborsutzkystapf@pha-res.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Mitocin 20 mg Pulver zur Herstellung einer Injektions- bzw. Infusionslösung oder Herstellung einer Lösung zur intravesikalen Anwendung - Einreichungsnummer: 2183382"
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -8327,6 +8303,30 @@
     "telefon": "0733396511167",
     "mail": "a.kredba@aliud.de",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06057202"
+    ],
+    "enr": [
+      "0812873"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-17",
+    "datumEnde": "2025-10-06",
+    "datumErstmeldung": "2025-03-14",
+    "datumLetzteMeldung": "2025-03-14",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Metalcaptase 300 mg",
+    "atcCode": "M01CC01, TERM_ID_NA_2090010126, V03AB",
+    "wirkstoffe": "Penicillamin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "H e y l Chemisch-pharmazeutische Fabrik GmbH & Co. KG",
+    "telefon": "030816960",
+    "mail": "info@heyl-berlin.de",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Metalcaptase 300 mg - Einreichungsnummer: 0812873"
   },
   {
     "pzn": [
@@ -9456,7 +9456,7 @@
     "atcCode": "N02AA05",
     "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -9480,7 +9480,7 @@
     "atcCode": "N02AA05",
     "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -9504,7 +9504,7 @@
     "atcCode": "N02AA05",
     "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -10920,7 +10920,7 @@
     "atcCode": "N03AX14",
     "wirkstoffe": "Levetiracetam",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -10943,7 +10943,7 @@
     "atcCode": "N03AX14",
     "wirkstoffe": "Levetiracetam",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -11559,7 +11559,7 @@
     "atcCode": "N04BC05",
     "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen",
@@ -11583,7 +11583,7 @@
     "atcCode": "N04BC05",
     "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -11606,7 +11606,7 @@
     "atcCode": "N04BC05",
     "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -12091,7 +12091,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -12114,7 +12114,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -12137,7 +12137,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -12160,7 +12160,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -12183,7 +12183,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -12206,7 +12206,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -12229,7 +12229,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -12252,7 +12252,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -12275,7 +12275,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -12298,7 +12298,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -14639,7 +14639,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -14662,7 +14662,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -14685,7 +14685,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -14708,7 +14708,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -14731,7 +14731,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -14754,7 +14754,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -14777,7 +14777,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -14800,7 +14800,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -14823,7 +14823,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -14846,7 +14846,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -14869,7 +14869,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -14892,7 +14892,7 @@
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -19423,7 +19423,7 @@
     "atcCode": "N07AA02",
     "wirkstoffe": "Pyridostigminbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
@@ -20735,7 +20735,7 @@
     "atcCode": "TERM_ID_NA_2090000138",
     "wirkstoffe": "Natriumhydrogencarbonat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Fresenius Medical Care Deutschland GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "Fresenius Medical Care Deutschland GmbH",
     "telefon": "+4961726090",
     "infoFachkreise": "Vorgesehen"
   },
@@ -21229,5 +21229,29 @@
     "telefon": "+49 30 6293955 0",
     "mail": "alexander.helmke@humedics.de",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00000000"
+    ],
+    "enr": [
+      "7012374"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-04",
+    "datumEnde": "2025-04-19",
+    "datumErstmeldung": "2025-03-14",
+    "datumLetzteMeldung": "2025-03-14",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Stopp bei der Durchführung der Prüfung auf Sterilität wegen Unstimmigkeiten bei der jährlichen Methodenverifizierung",
+    "bezeichnung": "GalliaPharm",
+    "atcCode": "V09X",
+    "wirkstoffe": "((68)Ga)Galliumchlorid; ((68)Ge)Germaniumtetrachlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Eckert & Ziegler Radiopharma GmbH",
+    "mail": "deljana.werner@ezag.com",
+    "infoFachkreise": "Ja",
+    "alternativPraeparat": "GalliAd 0,74 - 1,85 GBq Radionuklidgenerator - Einreichungsnummer: 2198990"
   }
 ]
