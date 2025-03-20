@@ -1190,6 +1190,24 @@
     }
   },
   {
+    "veroeffentlichung": "2025-03-18",
+    "emittent": {
+      "name": "PUMA SE",
+      "sitz": "Herzogenaurach",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Amundi S.A.",
+      "sitz": "Paris",
+      "land": "Frankreich"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.07,
+      "instrumente": 0.5,
+      "summe": 3.57
+    }
+  },
+  {
     "veroeffentlichung": "2024-05-23",
     "emittent": {
       "name": "MERCK Kommanditgesellschaft auf Aktien",
@@ -1205,24 +1223,6 @@
       "gesamt": 3.11,
       "instrumente": 0.01,
       "summe": 3.12
-    }
-  },
-  {
-    "veroeffentlichung": "2025-03-11",
-    "emittent": {
-      "name": "K+S Aktiengesellschaft",
-      "sitz": "Kassel",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Amundi S.A.",
-      "sitz": "Paris",
-      "land": "Frankreich"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0.19,
-      "summe": 3.21
     }
   },
   {
@@ -3500,7 +3500,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-01-21",
+    "veroeffentlichung": "2025-03-18",
     "emittent": {
       "name": "TeamViewer SE",
       "sitz": "Göppingen",
@@ -3512,13 +3512,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.41,
-      "instrumente": 0.6,
-      "summe": 5.01
+      "gesamt": 5.17,
+      "instrumente": 0.44,
+      "summe": 5.61
     }
   },
   {
-    "veroeffentlichung": "2025-03-13",
+    "veroeffentlichung": "2025-03-19",
     "emittent": {
       "name": "TAG Immobilien AG",
       "sitz": "Hamburg",
@@ -3530,9 +3530,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.35,
-      "instrumente": 0.61,
-      "summe": 5.96
+      "gesamt": 5.4,
+      "instrumente": 0.68,
+      "summe": 6.07
     }
   },
   {
@@ -3572,7 +3572,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-03-14",
+    "veroeffentlichung": "2025-03-18",
     "emittent": {
       "name": "Siemens Aktiengesellschaft",
       "sitz": "München",
@@ -3584,9 +3584,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.31,
-      "instrumente": 0.03,
-      "summe": 6.33
+      "gesamt": 6.37,
+      "instrumente": 0.01,
+      "summe": 6.38
     }
   },
   {
@@ -3896,24 +3896,6 @@
     }
   },
   {
-    "veroeffentlichung": "2025-03-13",
-    "emittent": {
-      "name": "HUGO BOSS AG",
-      "sitz": "Metzingen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.07,
-      "instrumente": 0.27,
-      "summe": 3.35
-    }
-  },
-  {
     "veroeffentlichung": "2025-03-04",
     "emittent": {
       "name": "Henkel AG & Co. KGaA",
@@ -4112,7 +4094,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-03-12",
+    "veroeffentlichung": "2025-03-18",
     "emittent": {
       "name": "Deutsche Post AG",
       "sitz": "Bonn",
@@ -4124,9 +4106,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.18,
+      "gesamt": 5.26,
       "instrumente": 0.06,
-      "summe": 5.24
+      "summe": 5.32
     }
   },
   {
@@ -4148,7 +4130,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-03-11",
+    "veroeffentlichung": "2025-03-19",
     "emittent": {
       "name": "Deutsche Börse Aktiengesellschaft",
       "sitz": "Frankfurt am Main",
@@ -4160,9 +4142,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.89,
-      "instrumente": 0.03,
-      "summe": 6.92
+      "gesamt": 6.9,
+      "instrumente": 0.07,
+      "summe": 6.97
     }
   },
   {
@@ -4325,6 +4307,24 @@
       "gesamt": 4.91,
       "instrumente": 0.17,
       "summe": 5.08
+    }
+  },
+  {
+    "veroeffentlichung": "2025-03-18",
+    "emittent": {
+      "name": "Bilfinger SE",
+      "sitz": "Mannheim",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "BlackRock, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.15,
+      "instrumente": 0.38,
+      "summe": 3.53
     }
   },
   {
@@ -7450,24 +7450,6 @@
     }
   },
   {
-    "veroeffentlichung": "2025-03-14",
-    "emittent": {
-      "name": "TAG Immobilien AG",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "DWS Investment GmbH",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.79,
-      "instrumente": 0,
-      "summe": 3.79
-    }
-  },
-  {
     "veroeffentlichung": "2024-12-03",
     "emittent": {
       "name": "Scout24 SE",
@@ -7594,7 +7576,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-25",
+    "veroeffentlichung": "2025-03-19",
     "emittent": {
       "name": "AMADEUS FIRE AG",
       "sitz": "Frankfurt am Main",
@@ -7606,9 +7588,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.96,
+      "gesamt": 5.05,
       "instrumente": 0,
-      "summe": 4.96
+      "summe": 5.05
     }
   },
   {
@@ -8811,6 +8793,24 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 51.548
+    }
+  },
+  {
+    "veroeffentlichung": "2025-03-19",
+    "emittent": {
+      "name": "MERCK Kommanditgesellschaft auf Aktien",
+      "sitz": "Darmstadt",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "First Eagle Investment Management, LLC",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.01,
+      "instrumente": 0,
+      "summe": 3.01
     }
   },
   {
@@ -13927,6 +13927,24 @@
     }
   },
   {
+    "veroeffentlichung": "2025-03-19",
+    "emittent": {
+      "name": "Hypoport SE",
+      "sitz": "Lübeck",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Invesco Ltd.",
+      "sitz": "Hamilton",
+      "land": "Bermuda"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.00195,
+      "instrumente": 0.01,
+      "summe": 3.01
+    }
+  },
+  {
     "veroeffentlichung": "2024-11-11",
     "emittent": {
       "name": "AMADEUS FIRE AG",
@@ -14291,7 +14309,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-01-21",
+    "veroeffentlichung": "2025-03-19",
     "emittent": {
       "name": "AlzChem Group AG",
       "sitz": "Trostberg",
@@ -14303,9 +14321,9 @@
       "land": "Jersey, Kanalinseln"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.45,
+      "gesamt": 4.97,
       "instrumente": 0,
-      "summe": 6.45
+      "summe": 4.97
     }
   },
   {
@@ -17965,6 +17983,22 @@
     }
   },
   {
+    "veroeffentlichung": "2025-03-18",
+    "emittent": {
+      "name": "Douglas AG",
+      "sitz": "Düsseldorf",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Lind, Henrik"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.02,
+      "instrumente": 0,
+      "summe": 3.02
+    }
+  },
+  {
     "veroeffentlichung": "2015-05-06",
     "emittent": {
       "name": "InnoTec TSS Aktiengesellschaft",
@@ -18237,7 +18271,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-03-04",
+    "veroeffentlichung": "2025-03-18",
     "emittent": {
       "name": "Koenig & Bauer AG",
       "sitz": "Würzburg",
@@ -18249,9 +18283,9 @@
       "land": "Luxemburg"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.13,
+      "gesamt": 4.3,
       "instrumente": 0,
-      "summe": 5.13
+      "summe": 4.3
     }
   },
   {
@@ -19335,7 +19369,7 @@
     }
   },
   {
-    "veroeffentlichung": "2017-12-07",
+    "veroeffentlichung": "2025-03-19",
     "emittent": {
       "name": "Aumann AG",
       "sitz": "Beelen",
@@ -19347,9 +19381,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 49.17,
+      "gesamt": 51.59,
       "instrumente": 0,
-      "summe": 49.17
+      "summe": 51.59
     }
   },
   {
@@ -20089,7 +20123,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-03-14",
+    "veroeffentlichung": "2025-03-18",
     "emittent": {
       "name": "HelloFresh SE",
       "sitz": "Berlin",
@@ -20101,9 +20135,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.99755,
-      "instrumente": 11.2,
-      "summe": 14.2
+      "gesamt": 3.39,
+      "instrumente": 10.04,
+      "summe": 13.43
     }
   },
   {
@@ -20143,24 +20177,6 @@
     }
   },
   {
-    "veroeffentlichung": "2025-03-11",
-    "emittent": {
-      "name": "Delivery Hero SE",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Morgan Stanley",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.09,
-      "instrumente": 1.48,
-      "summe": 4.57
-    }
-  },
-  {
     "veroeffentlichung": "2025-03-09",
     "emittent": {
       "name": "Covestro AG",
@@ -20197,24 +20213,6 @@
     }
   },
   {
-    "veroeffentlichung": "2025-03-14",
-    "emittent": {
-      "name": "Bilfinger SE",
-      "sitz": "Mannheim",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Morgan Stanley",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.18,
-      "instrumente": 1.89,
-      "summe": 5.08
-    }
-  },
-  {
     "veroeffentlichung": "2025-03-17",
     "emittent": {
       "name": "AUTO1 Group SE",
@@ -20233,7 +20231,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-03-14",
+    "veroeffentlichung": "2025-03-18",
     "emittent": {
       "name": "ADTRAN Holdings, Inc.",
       "sitz": "Wilmington",
@@ -20245,9 +20243,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.36,
-      "instrumente": 0.96,
-      "summe": 5.32
+      "gesamt": 4.42,
+      "instrumente": 1,
+      "summe": 5.42
     }
   },
   {
@@ -25053,7 +25051,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-08",
+    "veroeffentlichung": "2025-03-18",
     "emittent": {
       "name": "HelloFresh SE",
       "sitz": "Berlin",
@@ -25064,8 +25062,8 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 7.74,
-      "instrumente": 1.98,
-      "summe": 9.72
+      "instrumente": 3.13,
+      "summe": 10.87
     }
   },
   {
@@ -26315,7 +26313,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-08",
+    "veroeffentlichung": "2025-03-18",
     "emittent": {
       "name": "HelloFresh SE",
       "sitz": "Berlin",
@@ -26326,8 +26324,8 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 7.74,
-      "instrumente": 1.98,
-      "summe": 9.72
+      "instrumente": 3.13,
+      "summe": 10.87
     }
   },
   {
@@ -27134,22 +27132,6 @@
       "gesamt": 31.9,
       "instrumente": 0.00225,
       "summe": 31.9
-    }
-  },
-  {
-    "veroeffentlichung": "2024-11-01",
-    "emittent": {
-      "name": "COMMERZBANK Aktiengesellschaft",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Shaw, David Elliott"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0,
-      "instrumente": 5.04,
-      "summe": 5.04
     }
   },
   {
@@ -28063,6 +28045,24 @@
     }
   },
   {
+    "veroeffentlichung": "2025-03-18",
+    "emittent": {
+      "name": "Siemens Energy AG",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Staat Norwegen",
+      "sitz": "Oslo",
+      "land": "Norwegen"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.03,
+      "instrumente": 0,
+      "summe": 3.03
+    }
+  },
+  {
     "veroeffentlichung": "2025-01-23",
     "emittent": {
       "name": "Nexus AG",
@@ -28150,6 +28150,24 @@
       "gesamt": 3.07,
       "instrumente": 0.02,
       "summe": 3.09
+    }
+  },
+  {
+    "veroeffentlichung": "2025-03-18",
+    "emittent": {
+      "name": "COMMERZBANK Aktiengesellschaft",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Staat Norwegen",
+      "sitz": "Oslo",
+      "land": "Norwegen"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.13,
+      "instrumente": 0.61,
+      "summe": 3.74
     }
   },
   {
@@ -30044,7 +30062,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-03-17",
+    "veroeffentlichung": "2025-03-19",
     "emittent": {
       "name": "Westwing Group SE",
       "sitz": "Berlin",
@@ -30056,9 +30074,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.5,
-      "instrumente": 3.68,
-      "summe": 7.17
+      "gesamt": 0.07,
+      "instrumente": 7.18,
+      "summe": 7.24
     }
   },
   {
@@ -30098,6 +30116,24 @@
     }
   },
   {
+    "veroeffentlichung": "2025-03-19",
+    "emittent": {
+      "name": "Rheinmetall Aktiengesellschaft",
+      "sitz": "Düsseldorf",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.31,
+      "instrumente": 4.96,
+      "summe": 5.27
+    }
+  },
+  {
     "veroeffentlichung": "2025-02-28",
     "emittent": {
       "name": "PNE AG",
@@ -30134,7 +30170,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-03-14",
+    "veroeffentlichung": "2025-03-18",
     "emittent": {
       "name": "Nagarro SE",
       "sitz": "München",
@@ -30146,9 +30182,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.11,
-      "instrumente": 4.96,
-      "summe": 5.07
+      "gesamt": 0.01,
+      "instrumente": 5.02,
+      "summe": 5.03
     }
   },
   {
@@ -30242,7 +30278,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-03-14",
+    "veroeffentlichung": "2025-03-18",
     "emittent": {
       "name": "Delivery Hero SE",
       "sitz": "Berlin",
@@ -30254,9 +30290,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.34,
-      "instrumente": 9.66,
-      "summe": 9.99
+      "gesamt": 0.21,
+      "instrumente": 9.91,
+      "summe": 10.12
     }
   },
   {
@@ -30368,7 +30404,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-03-15",
+    "veroeffentlichung": "2025-03-18",
     "emittent": {
       "name": "ADTRAN Holdings, Inc.",
       "sitz": "Wilmington",
@@ -30380,9 +30416,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.01,
-      "instrumente": 8.11,
-      "summe": 10.12
+      "gesamt": 2.33,
+      "instrumente": 7.52,
+      "summe": 9.85
     }
   },
   {
@@ -30792,7 +30828,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-28",
+    "veroeffentlichung": "2025-03-18",
     "emittent": {
       "name": "Gerresheimer AG",
       "sitz": "Düsseldorf",
@@ -30804,9 +30840,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.04,
-      "instrumente": 1.77,
-      "summe": 4.81
+      "gesamt": 3.38,
+      "instrumente": 1.5,
+      "summe": 4.88
     }
   },
   {

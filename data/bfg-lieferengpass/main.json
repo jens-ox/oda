@@ -441,6 +441,30 @@
   },
   {
     "pzn": [
+      "02364367"
+    ],
+    "enr": [
+      "2702451"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-27",
+    "datumEnde": "2025-04-04",
+    "datumErstmeldung": "2025-02-25",
+    "datumLetzteMeldung": "2025-03-19",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Erhöhte Nachfrage",
+    "bezeichnung": "EMEND 80 mg Hartkapseln - OP2",
+    "atcCode": "A04AD12",
+    "wirkstoffe": "Aprepitant",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Merck Sharp & Dohme B.V.",
+    "telefon": "08945611873",
+    "mail": "anton.dimopoulos@msd.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "16237170"
     ],
     "enr": [
@@ -459,30 +483,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Ethypharm",
     "mail": "info@ethypharm.berlin",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02364367"
-    ],
-    "enr": [
-      "2702451"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-27",
-    "datumEnde": "2025-03-18",
-    "datumErstmeldung": "2025-02-25",
-    "datumLetzteMeldung": "2025-02-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Erhöhte Nachfrage",
-    "bezeichnung": "EMEND 80 mg Hartkapseln - OP2",
-    "atcCode": "A04AD12",
-    "wirkstoffe": "Aprepitant",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Merck Sharp & Dohme B.V.",
-    "telefon": "08945611873",
-    "mail": "anton.dimopoulos@msd.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -759,30 +759,6 @@
     "mail": "ulrich.wieland@drreddys.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aprepitant beta 125 mg Hartkapseln - Einreichungsnummer: 2201938"
-  },
-  {
-    "pzn": [
-      "00221669"
-    ],
-    "enr": [
-      "2702452"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-20",
-    "datumEnde": "2025-03-17",
-    "datumErstmeldung": "2025-01-20",
-    "datumLetzteMeldung": "2025-01-23",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "erhöhte Nachfrage am Markt",
-    "bezeichnung": "EMEND 80 mg Hartkapseln - OP(5x1)",
-    "atcCode": "A04AD12",
-    "wirkstoffe": "Aprepitant",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Merck Sharp & Dohme B.V.",
-    "telefon": "08945611873",
-    "mail": "anton.dimopoulos@msd.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -2758,6 +2734,52 @@
   },
   {
     "pzn": [
+      "07608986"
+    ],
+    "enr": [
+      "2168148"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-11-06",
+    "datumEnde": "2025-04-27",
+    "datumErstmeldung": "2024-11-15",
+    "datumLetzteMeldung": "2025-03-19",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednitop Crinale",
+    "atcCode": "D07AC18",
+    "wirkstoffe": "Prednicarbat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07608992"
+    ],
+    "enr": [
+      "2168148"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-11-06",
+    "datumEnde": "2025-04-27",
+    "datumErstmeldung": "2024-11-15",
+    "datumLetzteMeldung": "2025-03-19",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednitop Crinale",
+    "atcCode": "D07AC18",
+    "wirkstoffe": "Prednicarbat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "04881517"
     ],
     "enr": [
@@ -2806,26 +2828,27 @@
   },
   {
     "pzn": [
-      "07608986"
+      "11293502"
     ],
     "enr": [
-      "2168148"
+      "2192533"
     ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-11-06",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-14",
     "datumEnde": "2025-04-27",
-    "datumErstmeldung": "2024-11-15",
-    "datumLetzteMeldung": "2025-01-14",
+    "datumErstmeldung": "2025-03-19",
+    "datumLetzteMeldung": "2025-03-19",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
-    "bezeichnung": "Prednitop Crinale",
-    "atcCode": "D07AC18",
-    "wirkstoffe": "Prednicarbat",
+    "bezeichnung": "Soderm plus Lösung 0,64 mg/g + 20 mg/g Lösung zur Anwendung auf der Haut",
+    "atcCode": "D07XC01",
+    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
     "telefon": "08964186198",
     "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Nein"
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Soderm plus Lösung 0,64 mg/g + 20 mg/g Lösung zur Anwendung auf der Haut - Einreichungsnummer: 2192533"
   },
   {
     "pzn": [
@@ -5835,6 +5858,30 @@
   },
   {
     "pzn": [
+      "03827289"
+    ],
+    "enr": [
+      "0196641"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-24",
+    "datumEnde": "2025-05-30",
+    "datumErstmeldung": "2025-03-19",
+    "datumLetzteMeldung": "2025-03-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "delivery delayed by CMO due to capacity issues in bulk production",
+    "bezeichnung": "EMB-FATOL 400 mg",
+    "atcCode": "J04AK02",
+    "wirkstoffe": "Ethambutoldihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "mail": "mratzlaff@esteve.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "EMB-FATOL 400 mg - Einreichungsnummer: 0196641"
+  },
+  {
+    "pzn": [
       "01409671"
     ],
     "enr": [
@@ -8246,144 +8293,6 @@
   },
   {
     "pzn": [
-      "11100236"
-    ],
-    "enr": [
-      "2190941"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-12",
-    "datumEnde": "2025-03-15",
-    "datumErstmeldung": "2025-02-12",
-    "datumLetzteMeldung": "2025-02-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon beta 2,6 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
-    "mail": "ulrich.wieland@drreddys.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon beta 1,3 mg Hartkapseln - Einreichungsnummer: 2190940"
-  },
-  {
-    "pzn": [
-      "11100242"
-    ],
-    "enr": [
-      "2190941"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-12",
-    "datumEnde": "2025-03-15",
-    "datumErstmeldung": "2025-02-12",
-    "datumLetzteMeldung": "2025-02-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon beta 2,6 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
-    "mail": "ulrich.wieland@drreddys.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon beta 1,3 mg Hartkapseln - Einreichungsnummer: 2190940"
-  },
-  {
-    "pzn": [
-      "11100259"
-    ],
-    "enr": [
-      "2190941"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-12",
-    "datumEnde": "2025-03-15",
-    "datumErstmeldung": "2025-02-12",
-    "datumLetzteMeldung": "2025-02-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon beta 2,6 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
-    "mail": "ulrich.wieland@drreddys.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon beta 1,3 mg Hartkapseln - Einreichungsnummer: 2190940"
-  },
-  {
-    "pzn": [
-      "11100199"
-    ],
-    "enr": [
-      "2190940"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-12",
-    "datumEnde": "2025-03-15",
-    "datumErstmeldung": "2025-02-12",
-    "datumLetzteMeldung": "2025-02-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon beta 1,3 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
-    "mail": "ulrich.wieland@drreddys.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon beta 1,3 mg Hartkapseln - Einreichungsnummer: 2190940"
-  },
-  {
-    "pzn": [
-      "11100207"
-    ],
-    "enr": [
-      "2190940"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-12",
-    "datumEnde": "2025-03-15",
-    "datumErstmeldung": "2025-02-12",
-    "datumLetzteMeldung": "2025-02-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon beta 1,3 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
-    "mail": "ulrich.wieland@drreddys.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon beta 1,3 mg Hartkapseln - Einreichungsnummer: 2190940"
-  },
-  {
-    "pzn": [
-      "11100213"
-    ],
-    "enr": [
-      "2190940"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-12",
-    "datumEnde": "2025-03-15",
-    "datumErstmeldung": "2025-02-12",
-    "datumLetzteMeldung": "2025-02-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon beta 1,3 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "betapharm Arzneimittel GmbH",
-    "mail": "ulrich.wieland@drreddys.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon beta 1,3 mg Hartkapseln - Einreichungsnummer: 2190940"
-  },
-  {
-    "pzn": [
       "09279251"
     ],
     "enr": [
@@ -10374,6 +10283,29 @@
   },
   {
     "pzn": [
+      "17865106"
+    ],
+    "enr": [
+      "7014929"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-23",
+    "datumEnde": "2025-03-28",
+    "datumErstmeldung": "2025-01-24",
+    "datumLetzteMeldung": "2025-03-19",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "We have received the import licence for Inbrija  from Hlfgp now, but the batch release takes still some time.",
+    "bezeichnung": "Inbrija",
+    "atcCode": "N04BA01",
+    "wirkstoffe": "Levodopa",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Acorda Therapeutics Ireland Limited",
+    "mail": "ute.muehlenbeck@merz.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "16352675"
     ],
     "enr": [
@@ -10381,39 +10313,16 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-23",
-    "datumEnde": "2025-03-22",
+    "datumEnde": "2025-03-28",
     "datumErstmeldung": "2025-01-24",
-    "datumLetzteMeldung": "2025-01-24",
+    "datumLetzteMeldung": "2025-03-19",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
-    "grundAnmerkung": "Due to the local representative change from Esteve to Merz the required import licence for Inbrija is not yet available from Hlfgp",
+    "grundAnmerkung": "We have received the import licence for Inbrija  from Hlfgp now, but the batch release takes still some time.",
     "bezeichnung": "Inbrija 33 mg Hartkapseln mit Pulver zur Inhalation",
     "atcCode": "N04BA01",
     "wirkstoffe": "Levodopa",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Acorda Therapeutics Ireland Limited",
-    "mail": "ute.muehlenbeck@merz.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17865106"
-    ],
-    "enr": [
-      "7014929"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-23",
-    "datumEnde": "2025-03-22",
-    "datumErstmeldung": "2025-01-24",
-    "datumLetzteMeldung": "2025-01-24",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Due to the local representative change from Esteve to Merz the required import licence for Inbrija is not yet available from Hlfgp",
-    "bezeichnung": "Inbrija",
-    "atcCode": "N04BA01",
-    "wirkstoffe": "Levodopa",
-    "krankenhausrelevant": true,
     "zulassungsinhaber": "Acorda Therapeutics Ireland Limited",
     "mail": "ute.muehlenbeck@merz.de",
     "infoFachkreise": "Vorgesehen"
@@ -15148,6 +15057,213 @@
   },
   {
     "pzn": [
+      "12587826"
+    ],
+    "enr": [
+      "2199456"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-15",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-03-19",
+    "datumLetzteMeldung": "2025-03-19",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidathydrochlorid-neuraxpharm 27 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17412267"
+    ],
+    "enr": [
+      "2199456"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-15",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-03-19",
+    "datumLetzteMeldung": "2025-03-19",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidathydrochlorid-neuraxpharm 27 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17443322"
+    ],
+    "enr": [
+      "2199456"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-15",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-03-19",
+    "datumLetzteMeldung": "2025-03-19",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidathydrochlorid-neuraxpharm 27 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "10067123"
+    ],
+    "enr": [
+      "2189788"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-15",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-03-19",
+    "datumLetzteMeldung": "2025-03-19",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidathydrochlorid-neuraxpharm 36 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17412273"
+    ],
+    "enr": [
+      "2189788"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-15",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-03-19",
+    "datumLetzteMeldung": "2025-03-19",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidathydrochlorid-neuraxpharm 36 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17443339"
+    ],
+    "enr": [
+      "2189788"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-15",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-03-19",
+    "datumLetzteMeldung": "2025-03-19",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidathydrochlorid-neuraxpharm 36 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "10067100"
+    ],
+    "enr": [
+      "2189787"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-15",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-03-19",
+    "datumLetzteMeldung": "2025-03-19",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidathydrochlorid-neuraxpharm 18 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17412215"
+    ],
+    "enr": [
+      "2189787"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-15",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-03-19",
+    "datumLetzteMeldung": "2025-03-19",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidathydrochlorid-neuraxpharm 18 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17412250"
+    ],
+    "enr": [
+      "2189787"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-15",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-03-19",
+    "datumLetzteMeldung": "2025-03-19",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidathydrochlorid-neuraxpharm 18 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "17395646"
     ],
     "enr": [
@@ -18404,9 +18520,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-12-15",
-    "datumEnde": "2025-03-15",
+    "datumEnde": "2025-05-15",
     "datumErstmeldung": "2022-02-18",
-    "datumLetzteMeldung": "2025-01-07",
+    "datumLetzteMeldung": "2025-03-19",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Herstellerwechsel Sekundärverpacker",
@@ -18429,9 +18545,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-12-15",
-    "datumEnde": "2025-03-15",
+    "datumEnde": "2025-05-15",
     "datumErstmeldung": "2022-02-18",
-    "datumLetzteMeldung": "2025-01-07",
+    "datumLetzteMeldung": "2025-03-19",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Herstellerwechsel Sekundärverpacker",
