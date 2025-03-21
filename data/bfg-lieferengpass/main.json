@@ -3967,6 +3967,29 @@
   },
   {
     "pzn": [
+      "18496421"
+    ],
+    "enr": [
+      "7006058"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-18",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-03-20",
+    "datumLetzteMeldung": "2025-03-20",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "n.a.",
+    "bezeichnung": "Ampicillin Eberth 500 mg Pulver zur Herstellung einer Injektions-/Infusionslösung",
+    "atcCode": "J01CA01",
+    "wirkstoffe": "Ampicillin-Natrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+    "mail": "schoeberl@eberth.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "00000000"
     ],
     "enr": [
@@ -7347,11 +7370,11 @@
     "enr": [
       "2700692"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-02-07",
-    "datumEnde": "2025-04-04",
+    "datumEnde": "2025-05-09",
     "datumErstmeldung": "2025-03-05",
-    "datumLetzteMeldung": "2025-03-05",
+    "datumLetzteMeldung": "2025-03-20",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "grundAnmerkung": "Großhandel eingeschränkt lieferfähig. Alternativen sind vorhanden; Leflunomid - 1 A Pharma® 10 mg Filmtabletten, Leflunomid AL 10 mg Filmtabletten, Leflunomid Aristo® 10 mg Filmtabletten, Leflunomid Bluefish 10 mg Filmtabletten, Leflunomid Heumann 10 mg Filmtabletten, Leflunomid medac 10 mg Filmtabletten, Leflunomid-ratiopharm® 10 mg Filmtabletten, Leflunomid STADA® 10 mg Filmtabletten, Leflunomid Zentiva 10 mg Filmtabletten",
@@ -10948,6 +10971,55 @@
   },
   {
     "pzn": [
+      "07373247"
+    ],
+    "enr": [
+      "2705749"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-19",
+    "datumEnde": "2025-04-07",
+    "datumErstmeldung": "2024-09-30",
+    "datumLetzteMeldung": "2025-03-20",
+    "grund": "Herstellerwechsel",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Der Grund für den Lieferengpass ist eine Änderung der Herstellerstätten. Die Produkte des neuen Herstellers werden ab März 2025 wieder verfügbar sein.",
+    "bezeichnung": "ZYPADHERA 210 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(483mg+3ml)",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapinembonat-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Cheplapharm Registration GmbH",
+    "telefon": "+49 73217578136",
+    "mail": "iva.gjolli@cheplapharm-reg.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "01658807"
+    ],
+    "enr": [
+      "2701450"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-12-03",
+    "datumEnde": "2025-04-07",
+    "datumErstmeldung": "2024-12-06",
+    "datumLetzteMeldung": "2025-03-20",
+    "grund": "Herstellerwechsel",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Die ersten Waren werden ab Januar 2025 bei dem neuen Hersteller verfügbar sein.",
+    "bezeichnung": "ZYPREXA 10 mg Pulver zur Herstellung einer Injektionslösung - OP63,5",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Cheplapharm Registration GmbH",
+    "telefon": "+49 73217578136",
+    "mail": "iva.gjolli@cheplapharm-reg.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "ZELDOX 20 mg/ml Pulver und Lösungsmittel zur Herstellung einer Injektionslösung - Einreichungsnummer: 2190708"
+  },
+  {
+    "pzn": [
       "07373336"
     ],
     "enr": [
@@ -10969,31 +11041,6 @@
     "mail": "iva.gjolli@cheplapharm-reg.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Olanzapine Teva 10 mg Filmtabletten - OP98 - Einreichungsnummer: 2711911"
-  },
-  {
-    "pzn": [
-      "01658807"
-    ],
-    "enr": [
-      "2701450"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-12-03",
-    "datumEnde": "2025-03-17",
-    "datumErstmeldung": "2024-12-06",
-    "datumLetzteMeldung": "2025-02-09",
-    "grund": "Herstellerwechsel",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Die ersten Waren werden ab Januar 2025 bei dem neuen Hersteller verfügbar sein.",
-    "bezeichnung": "ZYPREXA 10 mg Pulver zur Herstellung einer Injektionslösung - OP63,5",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Cheplapharm Registration GmbH",
-    "telefon": "+49 73217578136",
-    "mail": "iva.gjolli@cheplapharm-reg.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "ZELDOX 20 mg/ml Pulver und Lösungsmittel zur Herstellung einer Injektionslösung - Einreichungsnummer: 2190708"
   },
   {
     "pzn": [
@@ -11020,26 +11067,71 @@
   },
   {
     "pzn": [
-      "07373247"
+      "09294546"
     ],
     "enr": [
-      "2705749"
+      "2184347"
     ],
     "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-19",
-    "datumEnde": "2025-03-15",
-    "datumErstmeldung": "2024-09-30",
-    "datumLetzteMeldung": "2024-10-21",
-    "grund": "Herstellerwechsel",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Der Grund für den Lieferengpass ist eine Änderung der Herstellerstätten. Die Produkte des neuen Herstellers werden ab März 2025 wieder verfügbar sein.",
-    "bezeichnung": "ZYPADHERA 210 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(483mg+3ml)",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapinembonat-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Cheplapharm Registration GmbH",
-    "telefon": "+49 73217578136",
-    "mail": "iva.gjolli@cheplapharm-reg.com",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-03-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 200 mg Filmtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09294569"
+    ],
+    "enr": [
+      "2184347"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-03-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 200 mg Filmtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09294598"
+    ],
+    "enr": [
+      "2184347"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-03-31",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-03-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 200 mg Filmtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -11434,75 +11526,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Quetiapin-Hormosan 300 mg Filmtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09294546"
-    ],
-    "enr": [
-      "2184347"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 200 mg Filmtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09294569"
-    ],
-    "enr": [
-      "2184347"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 200 mg Filmtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09294598"
-    ],
-    "enr": [
-      "2184347"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 200 mg Filmtabletten",
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
@@ -15057,6 +15080,30 @@
   },
   {
     "pzn": [
+      "17395652"
+    ],
+    "enr": [
+      "7002499"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-19",
+    "datumEnde": "2025-04-25",
+    "datumErstmeldung": "2025-03-17",
+    "datumLetzteMeldung": "2025-03-20",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Equasym Retard 50 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
+    "telefon": "+49 800 825 3325",
+    "mail": "medinfoEMEA@takeda.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Equasym retard 30 mg Hartkapseln mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2164005"
+  },
+  {
+    "pzn": [
       "12587826"
     ],
     "enr": [
@@ -15285,30 +15332,6 @@
     "mail": "MedinfoEMEA@takeda.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Equasym retard 20 mg Hartkapseln mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2164004"
-  },
-  {
-    "pzn": [
-      "17395652"
-    ],
-    "enr": [
-      "7002499"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-19",
-    "datumEnde": "2025-04-04",
-    "datumErstmeldung": "2025-03-17",
-    "datumLetzteMeldung": "2025-03-17",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Equasym Retard 50 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
-    "telefon": "+49 800 825 3325",
-    "mail": "medinfoEMEA@takeda.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Equasym retard 30 mg Hartkapseln mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2164005"
   },
   {
     "pzn": [
