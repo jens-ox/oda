@@ -1164,39 +1164,16 @@
   },
   {
     "pzn": [
-      "15405010"
-    ],
-    "enr": [
-      "2155388"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-12-31",
-    "datumEnde": "2025-04-01",
-    "datumErstmeldung": "2024-12-02",
-    "datumLetzteMeldung": "2024-12-02",
-    "grund": "Herstellerwechsel",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Anapen Junior 150 Mikrogramm Injektionslösung",
-    "atcCode": "C01CA24",
-    "wirkstoffe": "Epinephrin/Adrenalin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Bioprojet Pharma",
-    "telefon": "025160935554",
-    "mail": "christoph.buss@diapharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "15896166"
     ],
     "enr": [
       "2197202"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-09-18",
-    "datumEnde": "2025-04-01",
+    "datumEnde": "2025-06-30",
     "datumErstmeldung": "2024-09-18",
-    "datumLetzteMeldung": "2024-09-18",
+    "datumLetzteMeldung": "2025-03-21",
     "grund": "Herstellerwechsel",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Anapen 500 Mikrogramm Injektionslösung",
@@ -1215,11 +1192,11 @@
     "enr": [
       "2155389"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-09-09",
-    "datumEnde": "2025-04-01",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2024-09-04",
-    "datumLetzteMeldung": "2024-09-04",
+    "datumLetzteMeldung": "2025-03-21",
     "grund": "Herstellerwechsel",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Anapen 300 Mikrogramm Injektionslösung",
@@ -1228,6 +1205,29 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Bioprojet Pharma",
     "mail": "medinfo@bioprojet.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15405010"
+    ],
+    "enr": [
+      "2155388"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-12-31",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2024-12-02",
+    "datumLetzteMeldung": "2025-03-21",
+    "grund": "Herstellerwechsel",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Anapen Junior 150 Mikrogramm Injektionslösung",
+    "atcCode": "C01CA24",
+    "wirkstoffe": "Epinephrin/Adrenalin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Bioprojet Pharma",
+    "telefon": "025160935554",
+    "mail": "christoph.buss@diapharm.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2365,6 +2365,116 @@
   },
   {
     "pzn": [
+      "13156672"
+    ],
+    "enr": [
+      "2192217"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-22",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-03-21",
+    "datumLetzteMeldung": "2025-03-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ezetimib Glenmark 10 mg Tabletten",
+    "atcCode": "C10AX09",
+    "wirkstoffe": "Ezetimib",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13156689"
+    ],
+    "enr": [
+      "2192217"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-22",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-03-21",
+    "datumLetzteMeldung": "2025-03-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ezetimib Glenmark 10 mg Tabletten",
+    "atcCode": "C10AX09",
+    "wirkstoffe": "Ezetimib",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13156703"
+    ],
+    "enr": [
+      "2192217"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-22",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-03-21",
+    "datumLetzteMeldung": "2025-03-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ezetimib Glenmark 10 mg Tabletten",
+    "atcCode": "C10AX09",
+    "wirkstoffe": "Ezetimib",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14266144"
+    ],
+    "enr": [
+      "2200583"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-29",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2024-02-26",
+    "datumLetzteMeldung": "2025-03-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/80 mg Tabletten",
+    "atcCode": "C10BA02",
+    "wirkstoffe": "Ezetimib; Simvastatin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14266262"
+    ],
+    "enr": [
+      "2200583"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-29",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2024-02-26",
+    "datumLetzteMeldung": "2025-03-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/80 mg Tabletten",
+    "atcCode": "C10BA02",
+    "wirkstoffe": "Ezetimib; Simvastatin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "14266210"
     ],
     "enr": [
@@ -2372,9 +2482,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-19",
-    "datumEnde": "2025-05-30",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2025-01-10",
-    "datumLetzteMeldung": "2025-02-21",
+    "datumLetzteMeldung": "2025-03-21",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/40 mg Tabletten",
@@ -2394,9 +2504,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-19",
-    "datumEnde": "2025-05-30",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2025-01-10",
-    "datumLetzteMeldung": "2025-02-21",
+    "datumLetzteMeldung": "2025-03-21",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/40 mg Tabletten",
@@ -2416,56 +2526,12 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-19",
-    "datumEnde": "2025-05-30",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2025-01-10",
-    "datumLetzteMeldung": "2025-02-21",
+    "datumLetzteMeldung": "2025-03-21",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/40 mg Tabletten",
-    "atcCode": "C10BA02",
-    "wirkstoffe": "Ezetimib; Simvastatin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14266144"
-    ],
-    "enr": [
-      "2200583"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-29",
-    "datumEnde": "2025-05-16",
-    "datumErstmeldung": "2024-02-26",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme bei der Chargenprüfung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/80 mg Tabletten",
-    "atcCode": "C10BA02",
-    "wirkstoffe": "Ezetimib; Simvastatin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14266262"
-    ],
-    "enr": [
-      "2200583"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-29",
-    "datumEnde": "2025-05-16",
-    "datumErstmeldung": "2024-02-26",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme bei der Chargenprüfung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/80 mg Tabletten",
     "atcCode": "C10BA02",
     "wirkstoffe": "Ezetimib; Simvastatin",
     "krankenhausrelevant": false,
@@ -2941,29 +3007,6 @@
     "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03863121"
-    ],
-    "enr": [
-      "2702809"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-27",
-    "datumEnde": "2025-03-21",
-    "datumErstmeldung": "2025-02-27",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Mitbewerber(Generika) is out of stock. Daraus resultiert eine höhere Nachfrage unserer Produkte",
-    "bezeichnung": "Protopic 0,1% Salbe - OP10g",
-    "atcCode": "D11AH01",
-    "wirkstoffe": "Tacrolimus",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Leo Pharma A/S HR-Beiname: Leo Pharmaceutical Products Ltd. A/S",
-    "mail": "Regulregulatory_affairs_de@leo-pharma.com",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -8106,6 +8149,50 @@
   },
   {
     "pzn": [
+      "13925389"
+    ],
+    "enr": [
+      "2185919"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-07",
+    "datumEnde": "2025-04-18",
+    "datumErstmeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-03-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Hydromorphon-HCl Glenmark 2 mg Hartkapseln, retardiert",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "13925395"
+    ],
+    "enr": [
+      "2185919"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-01-07",
+    "datumEnde": "2025-04-18",
+    "datumErstmeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-03-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Hydromorphon-HCl Glenmark 2 mg Hartkapseln, retardiert",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "11354959"
     ],
     "enr": [
@@ -8335,72 +8422,6 @@
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
     "mail": "medinfo@mundipharma.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "13925389"
-    ],
-    "enr": [
-      "2185919"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-07",
-    "datumEnde": "2025-04-18",
-    "datumErstmeldung": "2025-01-10",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon-HCl Glenmark 2 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13925395"
-    ],
-    "enr": [
-      "2185919"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-07",
-    "datumEnde": "2025-04-18",
-    "datumErstmeldung": "2025-01-10",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon-HCl Glenmark 2 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "13925403"
-    ],
-    "enr": [
-      "2185919"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-07",
-    "datumEnde": "2025-04-18",
-    "datumErstmeldung": "2025-01-10",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon-HCl Glenmark 2 mg Hartkapseln, retardiert",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -19207,6 +19228,30 @@
   },
   {
     "pzn": [
+      "13167747"
+    ],
+    "enr": [
+      "2182719"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-11",
+    "datumEnde": "2025-06-10",
+    "datumErstmeldung": "2025-03-21",
+    "datumLetzteMeldung": "2025-03-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Bronchospasmin 10 ml Injektionslösung",
+    "atcCode": "R03CC14",
+    "wirkstoffe": "Reproterolhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Bronchospasmin 1 ml Injektionslösung - Einreichungsnummer: 2182718"
+  },
+  {
+    "pzn": [
       "02498613"
     ],
     "enr": [
@@ -19298,6 +19343,29 @@
   },
   {
     "pzn": [
+      "10775794"
+    ],
+    "enr": [
+      "2189383"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-05-25",
+    "datumEnde": "2025-09-30",
+    "datumErstmeldung": "2023-06-01",
+    "datumLetzteMeldung": "2025-03-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Prednifluid 10 mg/ml Augentropfensuspension",
+    "atcCode": "S01BA04",
+    "wirkstoffe": "Prednisolonacetat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "telefon": "0349542470",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "00602762"
     ],
     "enr": [
@@ -19341,29 +19409,6 @@
     "telefon": "068059292188",
     "mail": "christine.funk@ursapharm.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "10775794"
-    ],
-    "enr": [
-      "2189383"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-25",
-    "datumEnde": "2025-06-30",
-    "datumErstmeldung": "2023-06-01",
-    "datumLetzteMeldung": "2024-10-01",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Prednifluid 10 mg/ml Augentropfensuspension",
-    "atcCode": "S01BA04",
-    "wirkstoffe": "Prednisolonacetat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "telefon": "0349542470",
-    "mail": "zulassung-sekretariat@mibegmbh.de",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -19463,11 +19508,11 @@
     "enr": [
       "3000312"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-02-21",
-    "datumEnde": "2025-03-21",
+    "datumEnde": "2025-04-11",
     "datumErstmeldung": "2025-02-25",
-    "datumLetzteMeldung": "2025-02-25",
+    "datumLetzteMeldung": "2025-03-21",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Oxytetracyclin-Prednisolon-Augensalbe JENAPHARM",
@@ -19477,50 +19522,6 @@
     "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06319027"
-    ],
-    "enr": [
-      "0011506"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-01",
-    "datumEnde": "2025-03-21",
-    "datumErstmeldung": "2024-06-07",
-    "datumLetzteMeldung": "2025-02-28",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Clonid-Ophtal 1/16%",
-    "atcCode": "S01EA04",
-    "wirkstoffe": "Clonidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "mail": "Pharma.Kundenservice@bausch.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06319033"
-    ],
-    "enr": [
-      "0011506"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-01",
-    "datumEnde": "2025-03-21",
-    "datumErstmeldung": "2024-06-07",
-    "datumLetzteMeldung": "2025-02-28",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Clonid-Ophtal 1/16%",
-    "atcCode": "S01EA04",
-    "wirkstoffe": "Clonidinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "mail": "Pharma.Kundenservice@bausch.com",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -20038,28 +20039,6 @@
   },
   {
     "pzn": [
-      "11871011"
-    ],
-    "enr": [
-      "2131571"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-30",
-    "datumEnde": "2025-03-15",
-    "datumErstmeldung": "2025-01-31",
-    "datumLetzteMeldung": "2025-02-28",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Substitol 100mg",
-    "atcCode": "TERM_ID_NA_2090010356",
-    "wirkstoffe": "Morphinsulfat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "05116859"
     ],
     "enr": [
@@ -20170,6 +20149,28 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Orion Corporation t/a Orion Pharma",
     "mail": "christoph.lindemann@orionpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08832705"
+    ],
+    "enr": [
+      "2155140"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-24",
+    "datumEnde": "2026-03-31",
+    "datumErstmeldung": "2025-03-21",
+    "datumLetzteMeldung": "2025-03-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "OsvaRen",
+    "atcCode": "V03AE04",
+    "wirkstoffe": "Calciumacetat; Schweres, basisches Magnesiumcarbonat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Fresenius Medical Care Nephrologica Deutschland GmbH",
+    "mail": "andreas.fischer@wsqms.com",
     "infoFachkreise": "Nein"
   },
   {
