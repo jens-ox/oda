@@ -1022,30 +1022,6 @@
   },
   {
     "pzn": [
-      "11047418"
-    ],
-    "enr": [
-      "2671955"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-01",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2025-01-30",
-    "datumLetzteMeldung": "2025-03-11",
-    "grund": "Sonstige",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Rixubis",
-    "atcCode": "B02BD04",
-    "wirkstoffe": "Nonacog gamma",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Baxalta Innovations GmbH",
-    "telefon": "0800 825332 5",
-    "mail": "MedinfoEMEA@takeda.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Alprolix - Einreichungsnummer: 2672860"
-  },
-  {
-    "pzn": [
       "00379086"
     ],
     "enr": [
@@ -1769,28 +1745,6 @@
     "telefon": "+44 7745 523 826",
     "mail": "dw@universal-medicines.com",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00997594"
-    ],
-    "enr": [
-      "2148965"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-15",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2023-11-15",
-    "datumLetzteMeldung": "2025-02-20",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Metoprolol-ratiopharm NK 100 mg Retardtabletten",
-    "atcCode": "C07AB02",
-    "wirkstoffe": "Metoprololtartrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -4672,6 +4626,52 @@
   },
   {
     "pzn": [
+      "01805013"
+    ],
+    "enr": [
+      "2162932"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-01",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin AL 500 mg Filmtabletten",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03738232"
+    ],
+    "enr": [
+      "2162572"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2024-07-22",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin-ratiopharm 500 mg Filmtabletten",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Azithromycin-ratiopharm 500 mg Filmtabletten - Einreichungsnummer: 2162572"
+  },
+  {
+    "pzn": [
       "04678503"
     ],
     "enr": [
@@ -4940,29 +4940,6 @@
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03738232"
-    ],
-    "enr": [
-      "2162572"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-15",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-07-22",
-    "datumLetzteMeldung": "2025-01-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin-ratiopharm 500 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Azithromycin-ratiopharm 500 mg Filmtabletten - Einreichungsnummer: 2162572"
   },
   {
     "pzn": [
@@ -7139,9 +7116,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-11-01",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-05-31",
     "datumErstmeldung": "2024-11-20",
-    "datumLetzteMeldung": "2025-02-27",
+    "datumLetzteMeldung": "2025-03-25",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Tamoxifen AL 30",
@@ -7568,6 +7545,190 @@
     "mail": "service@hexal.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Ciclosporin Hexal 100 mg - Einreichungsnummer: 2153547"
+  },
+  {
+    "pzn": [
+      "18105478"
+    ],
+    "enr": [
+      "7005615"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-15",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tacrolimus AL 5 mg Hartkapseln, retardiert",
+    "atcCode": "L04AD02",
+    "wirkstoffe": "Tacrolimus-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18110485"
+    ],
+    "enr": [
+      "7005615"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-15",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tacrolimus AL 5 mg Hartkapseln, retardiert",
+    "atcCode": "L04AD02",
+    "wirkstoffe": "Tacrolimus-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18105455"
+    ],
+    "enr": [
+      "7005614"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-15",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tacrolimus AL 3 mg Hartkapseln, retardiert",
+    "atcCode": "L04AD02",
+    "wirkstoffe": "Tacrolimus-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18110479"
+    ],
+    "enr": [
+      "7005614"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-15",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tacrolimus AL 3 mg Hartkapseln, retardiert",
+    "atcCode": "L04AD02",
+    "wirkstoffe": "Tacrolimus-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18105432"
+    ],
+    "enr": [
+      "7005613"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-15",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tacrolimus AL 1 mg Hartkapseln, retardiert",
+    "atcCode": "L04AD02",
+    "wirkstoffe": "Tacrolimus-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18110410"
+    ],
+    "enr": [
+      "7005613"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-15",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tacrolimus AL 1 mg Hartkapseln, retardiert",
+    "atcCode": "L04AD02",
+    "wirkstoffe": "Tacrolimus-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18105389"
+    ],
+    "enr": [
+      "7005612"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-15",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tacrolimus AL 0,5 mg Hartkapseln, retardiert",
+    "atcCode": "L04AD02",
+    "wirkstoffe": "Tacrolimus-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18110404"
+    ],
+    "enr": [
+      "7005612"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-15",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tacrolimus AL 0,5 mg Hartkapseln, retardiert",
+    "atcCode": "L04AD02",
+    "wirkstoffe": "Tacrolimus-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -8637,6 +8798,292 @@
   },
   {
     "pzn": [
+      "00262332"
+    ],
+    "enr": [
+      "2188454"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2025-04-21",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00262349"
+    ],
+    "enr": [
+      "2188454"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2025-04-21",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00266531"
+    ],
+    "enr": [
+      "2188454"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2025-04-21",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04407129"
+    ],
+    "enr": [
+      "2188454"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2025-04-21",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04407170"
+    ],
+    "enr": [
+      "2188454"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2025-04-21",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00267217"
+    ],
+    "enr": [
+      "2188455"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2025-04-22",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04407891"
+    ],
+    "enr": [
+      "2188455"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2025-04-22",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04410108"
+    ],
+    "enr": [
+      "2188455"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2025-04-22",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07563539"
+    ],
+    "enr": [
+      "2188452"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-13",
+    "datumEnde": "2025-04-21",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin-ratiopharm 70 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07563551"
+    ],
+    "enr": [
+      "2188452"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-13",
+    "datumEnde": "2025-04-21",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin-ratiopharm 70 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07563433"
+    ],
+    "enr": [
+      "2188451"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-13",
+    "datumEnde": "2025-04-21",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin-ratiopharm 52,5 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07563485"
+    ],
+    "enr": [
+      "2188451"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-13",
+    "datumEnde": "2025-04-21",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin-ratiopharm 52,5 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07563410"
+    ],
+    "enr": [
+      "2188450"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-13",
+    "datumEnde": "2025-04-21",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin-ratiopharm 35 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "11279637"
     ],
     "enr": [
@@ -8657,314 +9104,6 @@
     "mail": "info@ratopharm.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Buprenoratiopharm 52,5 Mikrogramm/Stunde Transdermales Pflaster - Einreichungsnummer: 2193482"
-  },
-  {
-    "pzn": [
-      "04406986"
-    ],
-    "enr": [
-      "2188453"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-05",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-08-14",
-    "datumLetzteMeldung": "2025-02-26",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 35 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00267217"
-    ],
-    "enr": [
-      "2188455"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-02-26",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04407891"
-    ],
-    "enr": [
-      "2188455"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-02-26",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04410108"
-    ],
-    "enr": [
-      "2188455"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-02-26",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07563410"
-    ],
-    "enr": [
-      "2188450"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-13",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-02-26",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin-ratiopharm 35 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07563433"
-    ],
-    "enr": [
-      "2188451"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-13",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin-ratiopharm 52,5 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07563485"
-    ],
-    "enr": [
-      "2188451"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-13",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin-ratiopharm 52,5 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07563539"
-    ],
-    "enr": [
-      "2188452"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-13",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin-ratiopharm 70 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07563551"
-    ],
-    "enr": [
-      "2188452"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-13",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin-ratiopharm 70 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00262332"
-    ],
-    "enr": [
-      "2188454"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00262349"
-    ],
-    "enr": [
-      "2188454"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00266531"
-    ],
-    "enr": [
-      "2188454"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04407129"
-    ],
-    "enr": [
-      "2188454"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04407170"
-    ],
-    "enr": [
-      "2188454"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -9424,9 +9563,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-29",
-    "datumEnde": "2025-06-18",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2025-01-29",
-    "datumLetzteMeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-25",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Mylepsinum",
@@ -9446,9 +9585,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-29",
-    "datumEnde": "2025-06-18",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2025-01-29",
-    "datumLetzteMeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-25",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Mylepsinum",
@@ -9468,9 +9607,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-29",
-    "datumEnde": "2025-06-18",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2025-01-29",
-    "datumLetzteMeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-25",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Mylepsinum",
@@ -9524,6 +9663,52 @@
     "zulassungsinhaber": "TEVA GmbH",
     "mail": "info@teva.de",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03659811"
+    ],
+    "enr": [
+      "2146006"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-20",
+    "datumEnde": "2025-05-22",
+    "datumErstmeldung": "2025-02-20",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Carbamazepin-ratiopharm 400 mg Retardtabletten",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Carbamazepin-ratiopharm 400 mg Retardtabletten - Einreichungsnummer: 2146006"
+  },
+  {
+    "pzn": [
+      "03659834"
+    ],
+    "enr": [
+      "2146006"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-20",
+    "datumEnde": "2025-05-22",
+    "datumErstmeldung": "2025-02-20",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Carbamazepin-ratiopharm 400 mg Retardtabletten",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Carbamazepin-ratiopharm 400 mg Retardtabletten - Einreichungsnummer: 2146006"
   },
   {
     "pzn": [
@@ -9593,29 +9778,6 @@
     "zulassungsinhaber": "Desitin Arzneimittel GmbH",
     "mail": "info@desitin.de",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03659811"
-    ],
-    "enr": [
-      "2146006"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-20",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-20",
-    "datumLetzteMeldung": "2025-02-20",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Carbamazepin-ratiopharm 400 mg Retardtabletten",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Carbamazepin-ratiopharm 400 mg Retardtabletten - Einreichungsnummer: 2146006"
   },
   {
     "pzn": [
@@ -9712,6 +9874,29 @@
     "mail": "kundenservice@viatris.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "carbadura 600 mg retard - Einreichungsnummer: 2131193"
+  },
+  {
+    "pzn": [
+      "17206817"
+    ],
+    "enr": [
+      "7000774"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-07-31",
+    "datumErstmeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Valproat AL 300 mg/ml Lösung zum Einnehmen",
+    "atcCode": "N03AG01",
+    "wirkstoffe": "Natriumvalproat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -11041,6 +11226,50 @@
   },
   {
     "pzn": [
+      "09266975"
+    ],
+    "enr": [
+      "2186971"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-31",
+    "datumEnde": "2025-04-22",
+    "datumErstmeldung": "2025-02-04",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-ratiopharm 150 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09266981"
+    ],
+    "enr": [
+      "2186971"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-31",
+    "datumEnde": "2025-04-22",
+    "datumErstmeldung": "2025-02-04",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-ratiopharm 150 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "09294546"
     ],
     "enr": [
@@ -12316,50 +12545,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Quetiapin-ratiopharm 300 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09266975"
-    ],
-    "enr": [
-      "2186971"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-31",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-04",
-    "datumLetzteMeldung": "2025-02-04",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-ratiopharm 150 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09266981"
-    ],
-    "enr": [
-      "2186971"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-31",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-04",
-    "datumLetzteMeldung": "2025-02-04",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-ratiopharm 150 mg Retardtabletten",
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
@@ -15028,6 +15213,75 @@
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "mail": "Service.De@glenmarkpharma.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14167407"
+    ],
+    "enr": [
+      "2200322"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-04-15",
+    "datumErstmeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidat AL 40 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14167413"
+    ],
+    "enr": [
+      "2200322"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-04-15",
+    "datumErstmeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidat AL 40 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17877055"
+    ],
+    "enr": [
+      "2203319"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-15",
+    "datumEnde": "2025-04-15",
+    "datumErstmeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-03-25",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidat AL 18 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
