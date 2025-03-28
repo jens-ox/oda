@@ -910,9 +910,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-16",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-04-15",
     "datumErstmeldung": "2025-01-31",
-    "datumLetzteMeldung": "2025-03-14",
+    "datumLetzteMeldung": "2025-03-27",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "grundAnmerkung": "keine weiteren Angaben",
@@ -934,9 +934,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-16",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-04-15",
     "datumErstmeldung": "2025-01-31",
-    "datumLetzteMeldung": "2025-03-14",
+    "datumLetzteMeldung": "2025-03-27",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "grundAnmerkung": "keine weiteren Angaben",
@@ -958,9 +958,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-16",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-04-15",
     "datumErstmeldung": "2025-01-31",
-    "datumLetzteMeldung": "2025-03-14",
+    "datumLetzteMeldung": "2025-03-27",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "grundAnmerkung": "keine weiteren Angaben",
@@ -1561,6 +1561,52 @@
   },
   {
     "pzn": [
+      "03209404"
+    ],
+    "enr": [
+      "2101449"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-11",
+    "datumEnde": "2025-05-12",
+    "datumErstmeldung": "2025-03-13",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ebrantil 30mg",
+    "atcCode": "C02CA06",
+    "wirkstoffe": "Urapidil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+    "mail": "ra-urapidil@cheplapharm.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Ebrantil 60mg - Einreichungsnummer: 2107313"
+  },
+  {
+    "pzn": [
+      "03209410"
+    ],
+    "enr": [
+      "2101449"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-11",
+    "datumEnde": "2025-05-12",
+    "datumErstmeldung": "2025-03-13",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ebrantil 30mg",
+    "atcCode": "C02CA06",
+    "wirkstoffe": "Urapidil",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+    "mail": "ra-urapidil@cheplapharm.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Ebrantil 60mg - Einreichungsnummer: 2107313"
+  },
+  {
+    "pzn": [
       "11510980"
     ],
     "enr": [
@@ -1604,29 +1650,6 @@
     "telefon": "021038809700",
     "mail": "info@stragen-pharma.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03209404"
-    ],
-    "enr": [
-      "2101449"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-11",
-    "datumEnde": "2025-04-15",
-    "datumErstmeldung": "2025-03-13",
-    "datumLetzteMeldung": "2025-03-13",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ebrantil 30mg",
-    "atcCode": "C02CA06",
-    "wirkstoffe": "Urapidil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "mail": "ra-urapidil@cheplapharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Ebrantil 60mg - Einreichungsnummer: 2107313"
   },
   {
     "pzn": [
@@ -5349,6 +5372,126 @@
   },
   {
     "pzn": [
+      "12537923"
+    ],
+    "enr": [
+      "2186563"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-10",
+    "datumEnde": "2025-04-07",
+    "datumErstmeldung": "2025-02-10",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Moxifloxacin Holsten 400 mg Filmtabletten",
+    "atcCode": "J01MA14",
+    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "telefon": "069962339000",
+    "mail": "info@holstenpharma.de",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Moxifloxacin Holsten 400 mg Filmtabletten - Einreichungsnummer: 2186563"
+  },
+  {
+    "pzn": [
+      "12537975"
+    ],
+    "enr": [
+      "2186563"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-10",
+    "datumEnde": "2025-04-07",
+    "datumErstmeldung": "2025-02-10",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Moxifloxacin Holsten 400 mg Filmtabletten",
+    "atcCode": "J01MA14",
+    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "telefon": "069962339000",
+    "mail": "info@holstenpharma.de",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Moxifloxacin Holsten 400 mg Filmtabletten - Einreichungsnummer: 2186563"
+  },
+  {
+    "pzn": [
+      "12537998"
+    ],
+    "enr": [
+      "2186563"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-10",
+    "datumEnde": "2025-04-07",
+    "datumErstmeldung": "2025-02-10",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Moxifloxacin Holsten 400 mg Filmtabletten",
+    "atcCode": "J01MA14",
+    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "telefon": "069962339000",
+    "mail": "info@holstenpharma.de",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Moxifloxacin Holsten 400 mg Filmtabletten - Einreichungsnummer: 2186563"
+  },
+  {
+    "pzn": [
+      "14046649"
+    ],
+    "enr": [
+      "2186563"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-10",
+    "datumEnde": "2025-04-07",
+    "datumErstmeldung": "2025-02-10",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Moxifloxacin Holsten 400 mg Filmtabletten",
+    "atcCode": "J01MA14",
+    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "telefon": "069962339000",
+    "mail": "info@holstenpharma.de",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Moxifloxacin Holsten 400 mg Filmtabletten - Einreichungsnummer: 2186563"
+  },
+  {
+    "pzn": [
+      "18312728"
+    ],
+    "enr": [
+      "2186563"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-10",
+    "datumEnde": "2025-04-07",
+    "datumErstmeldung": "2025-02-10",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Moxifloxacin Holsten 400 mg Filmtabletten",
+    "atcCode": "J01MA14",
+    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "telefon": "069962339000",
+    "mail": "info@holstenpharma.de",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Moxifloxacin Holsten 400 mg Filmtabletten - Einreichungsnummer: 2186563"
+  },
+  {
+    "pzn": [
       "11356579"
     ],
     "enr": [
@@ -5418,126 +5561,6 @@
     "mail": "GBICER@puren-pharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Moxifloxacin PUREN 400 mg Filmtabletten - Einreichungsnummer: 2196308"
-  },
-  {
-    "pzn": [
-      "12537923"
-    ],
-    "enr": [
-      "2186563"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-10",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-10",
-    "datumLetzteMeldung": "2025-02-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Moxifloxacin Holsten 400 mg Filmtabletten",
-    "atcCode": "J01MA14",
-    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
-    "telefon": "069962339000",
-    "mail": "info@holstenpharma.de",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Moxifloxacin Holsten 400 mg Filmtabletten - Einreichungsnummer: 2186563"
-  },
-  {
-    "pzn": [
-      "12537975"
-    ],
-    "enr": [
-      "2186563"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-10",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-10",
-    "datumLetzteMeldung": "2025-02-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Moxifloxacin Holsten 400 mg Filmtabletten",
-    "atcCode": "J01MA14",
-    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
-    "telefon": "069962339000",
-    "mail": "info@holstenpharma.de",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Moxifloxacin Holsten 400 mg Filmtabletten - Einreichungsnummer: 2186563"
-  },
-  {
-    "pzn": [
-      "12537998"
-    ],
-    "enr": [
-      "2186563"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-10",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-10",
-    "datumLetzteMeldung": "2025-02-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Moxifloxacin Holsten 400 mg Filmtabletten",
-    "atcCode": "J01MA14",
-    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
-    "telefon": "069962339000",
-    "mail": "info@holstenpharma.de",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Moxifloxacin Holsten 400 mg Filmtabletten - Einreichungsnummer: 2186563"
-  },
-  {
-    "pzn": [
-      "14046649"
-    ],
-    "enr": [
-      "2186563"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-10",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-10",
-    "datumLetzteMeldung": "2025-02-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Moxifloxacin Holsten 400 mg Filmtabletten",
-    "atcCode": "J01MA14",
-    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
-    "telefon": "069962339000",
-    "mail": "info@holstenpharma.de",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Moxifloxacin Holsten 400 mg Filmtabletten - Einreichungsnummer: 2186563"
-  },
-  {
-    "pzn": [
-      "18312728"
-    ],
-    "enr": [
-      "2186563"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-10",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-10",
-    "datumLetzteMeldung": "2025-02-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Moxifloxacin Holsten 400 mg Filmtabletten",
-    "atcCode": "J01MA14",
-    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
-    "telefon": "069962339000",
-    "mail": "info@holstenpharma.de",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Moxifloxacin Holsten 400 mg Filmtabletten - Einreichungsnummer: 2186563"
   },
   {
     "pzn": [
@@ -14869,6 +14892,29 @@
   },
   {
     "pzn": [
+      "10744658"
+    ],
+    "enr": [
+      "2712092"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-24",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-03-27",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Die Lilly Deutschland GmbH stellt die Vermarktung von Duloxetin Lilly ein und verkauft gegenwärtig die Lagerbestände ab.  Das Arzneimittel Duloxetin Lilly 30mg, 98 Tabletten ist nicht mehr verfügbar und wird zum 15. Mai in der Lauer-Taxe AV gesetzt.",
+    "bezeichnung": "Duloxetin Lilly 30 mg magensaftresistente Hartkapseln - OP98",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Eli Lilly Nederland B.V.",
+    "telefon": "06172 2732222",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "18249160"
     ],
     "enr": [
@@ -16104,6 +16150,116 @@
   },
   {
     "pzn": [
+      "17977785"
+    ],
+    "enr": [
+      "2201810"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-25",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2024-07-23",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Heumann 100 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14063872"
+    ],
+    "enr": [
+      "2201804"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-25",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2024-07-23",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14063889"
+    ],
+    "enr": [
+      "2201804"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-25",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2024-07-23",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18092942"
+    ],
+    "enr": [
+      "2201804"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-25",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2024-07-23",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18092959"
+    ],
+    "enr": [
+      "2201804"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-25",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2024-07-23",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "15268978"
     ],
     "enr": [
@@ -16172,116 +16328,6 @@
     "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14063872"
-    ],
-    "enr": [
-      "2201804"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-25",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-07-23",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14063889"
-    ],
-    "enr": [
-      "2201804"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-25",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-07-23",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "18092942"
-    ],
-    "enr": [
-      "2201804"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-25",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-07-23",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "18092959"
-    ],
-    "enr": [
-      "2201804"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-25",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-07-23",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17977785"
-    ],
-    "enr": [
-      "2201810"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-25",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-07-23",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Heumann 100 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -17853,138 +17899,6 @@
   },
   {
     "pzn": [
-      "09632842"
-    ],
-    "enr": [
-      "2193161"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-18",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09901590"
-    ],
-    "enr": [
-      "2193161"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-18",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "10408908"
-    ],
-    "enr": [
-      "2193161"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-18",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06195016"
-    ],
-    "enr": [
-      "2193162"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-18",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09632859"
-    ],
-    "enr": [
-      "2193162"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-18",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09632871"
-    ],
-    "enr": [
-      "2193162"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-18",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "06195401"
     ],
     "enr": [
@@ -17992,9 +17906,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-05-15",
     "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-18",
+    "datumLetzteMeldung": "2025-03-27",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
@@ -18014,9 +17928,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-05-15",
     "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-18",
+    "datumLetzteMeldung": "2025-03-27",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
@@ -18036,12 +17950,144 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-05-15",
     "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-18",
+    "datumLetzteMeldung": "2025-03-27",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06195016"
+    ],
+    "enr": [
+      "2193162"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09632859"
+    ],
+    "enr": [
+      "2193162"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09632871"
+    ],
+    "enr": [
+      "2193162"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09632842"
+    ],
+    "enr": [
+      "2193161"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09901590"
+    ],
+    "enr": [
+      "2193161"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10408908"
+    ],
+    "enr": [
+      "2193161"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
     "atcCode": "N06DA04",
     "wirkstoffe": "Galantaminhydrobromid",
     "krankenhausrelevant": false,
@@ -19050,6 +19096,30 @@
   },
   {
     "pzn": [
+      "01890728"
+    ],
+    "enr": [
+      "2117929"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-03",
+    "datumEnde": "2025-04-15",
+    "datumErstmeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-03-27",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Ventilastin Novolizer",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Ventilastin Novolizer - Einreichungsnummer: 2117929"
+  },
+  {
+    "pzn": [
       "07722179"
     ],
     "enr": [
@@ -19141,30 +19211,6 @@
     "telefon": "0800 1223355",
     "mail": "service.info@gsk.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01890728"
-    ],
-    "enr": [
-      "2117929"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-03",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-03-06",
-    "datumLetzteMeldung": "2025-03-06",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ventilastin Novolizer",
-    "atcCode": "R03AC02",
-    "wirkstoffe": "Salbutamolsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Ventilastin Novolizer - Einreichungsnummer: 2117929"
   },
   {
     "pzn": [
