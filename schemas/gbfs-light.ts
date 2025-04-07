@@ -5,11 +5,11 @@ export const GbfsLightSchema = z
     language: z.string().describe('Sprache des Feeds'),
     email: z.string().email().describe('Kontakt-Email des Feeds'),
     license_id: z.string().describe('Lizenz-ID des Feeds'),
-    license_name: z.string().describe('Lizenz-Name des Feeds'),
+    license_url: z.string().describe('Lizenz-URL des Feeds'),
     timezone: z.string().describe('Zeitzone des Feeds'),
     system: z.array(
       z.object({
-        id: z.string().describe('ID des Systems'),
+        system_id: z.string().describe('ID des Systems'),
         name: z.string().describe('Name des Angebots'),
         operator: z.string().describe('Name des Betreibers'),
         opening_hours: z.string().describe('Öffnungszeiten im OSM-Format'),
