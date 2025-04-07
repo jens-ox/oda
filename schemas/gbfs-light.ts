@@ -1,33 +1,36 @@
 import { z } from 'zod'
-import { Address } from './base'
 
 export const GbfsLightSchema = z
   .object({
+    language: z.string().describe('Sprache des Feeds'),
+    email: z.string().email().describe('Kontakt-Email des Feeds'),
+    license_id: z.string().describe('Lizenz-ID des Feeds'),
+    license_name: z.string().describe('Lizenz-Name des Feeds'),
+    timezone: z.string().describe('Zeitzone des Feeds'),
     system: z.array(
       z.object({
+        id: z.string().describe('ID des Systems'),
         name: z.string().describe('Name des Angebots'),
         operator: z.string().describe('Name des Betreibers'),
         opening_hours: z.string().describe('Öffnungszeiten im OSM-Format'),
         url: z.string().describe('URL zur Website des Angebots'),
-        mail: z.string().email().describe('Mail für Kundenanfragen'),
-        terms: z.object({
-          url: z.string().optional().describe('URL zu den Nutzungsbedingungen'),
-          last_updated: z
-            .string()
-            .date()
-            .describe(
-              'Zeitpunkt der letzten Aktualisierung der Nutzungsbedingungen im ISO-Format (z.B. 2022-12-31)'
-            )
-        }),
-        privacy: z.object({
-          url: z.string().optional().describe('URL zur Datenschutzerklärung'),
-          last_updated: z
-            .string()
-            .date()
-            .describe(
-              'Zeitpunkt der letzten Aktualisierung der Datenschutzerklärung im ISO-Format (z.B. 2022-12-31)'
-            )
-        }),
+        email: z.string().email().describe('Mail für Kundenanfragen'),
+        terms: z.string().optional().describe('URL zu den Nutzungsbedingungen'),
+        terms_last_updated: z
+          .string()
+          .date()
+          .optional()
+          .describe(
+            'Zeitpunkt der letzten Aktualisierung der Nutzungsbedingungen im ISO-Format (z.B. 2022-12-31)'
+          ),
+        privacy: z.string().optional().describe('URL zur Datenschutzerklärung'),
+        privacy_last_updated: z
+          .string()
+          .date()
+          .optional()
+          .describe(
+            'Zeitpunkt der letzten Aktualisierung der Datenschutzerklärung im ISO-Format (z.B. 2022-12-31)'
+          ),
         vehicle_types: z
           .array(
             z.object({
@@ -83,7 +86,9 @@ export const GbfsLightSchema = z
               name: z.string().describe('Name der Ausleih-Station'),
               lat: z.number().describe('Breitengrad der Station (in WGS84)'),
               lon: z.number().describe('Längengrad der Station (in WGS84)'),
-              address: Address.describe('Anschrift der Station'),
+              address: z.string().describe('Anschrift der Station (Straße und ggf. Hausnummer)'),
+              post_code: z.string().describe('Postleitzahl der Station'),
+              city: z.string().describe('Ort der Station'),
               url: z
                 .string()
                 .url()
