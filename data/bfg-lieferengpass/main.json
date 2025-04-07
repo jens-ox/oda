@@ -1,29 +1,6 @@
 [
   {
     "pzn": [
-      "04913795"
-    ],
-    "enr": [
-      "0801705"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-19",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-19",
-    "datumLetzteMeldung": "2025-02-19",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Dontisolon D Zylinderampullen",
-    "atcCode": "A01AC54",
-    "wirkstoffe": "Prednisolon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "SEPTODONT GmbH",
-    "telefon": "+49 89 179251551",
-    "mail": "dominik.gohr@pharmalex.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "01016960"
     ],
     "enr": [
@@ -369,29 +346,6 @@
   },
   {
     "pzn": [
-      "09705624"
-    ],
-    "enr": [
-      "2178257"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-13",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-03-17",
-    "datumLetzteMeldung": "2025-03-17",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pylera 140 mg/125 mg/125 mg Hartkapseln",
-    "atcCode": "A02BD08",
-    "wirkstoffe": "Citronensäure-Bismut-Kalium-Salz (2:1:5) Hydrat; Metronidazol; Tetracyclinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Laboratoires Juvise Pharmaceuticals",
-    "telefon": "+33 (0)4 26 29 40 00",
-    "mail": "bruno.pouly@juvise.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "02084248"
     ],
     "enr": [
@@ -441,6 +395,77 @@
   },
   {
     "pzn": [
+      "14853031"
+    ],
+    "enr": [
+      "2200818"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-01",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-02-11",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Aprepitant AL 125 mg und 80 mg Hartkapseln",
+    "atcCode": "A04AD12",
+    "wirkstoffe": "Aprepitant",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "02364404"
+    ],
+    "enr": [
+      "2702455"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-02",
+    "datumEnde": "2025-04-23",
+    "datumErstmeldung": "2025-03-31",
+    "datumLetzteMeldung": "2025-03-31",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Erhöhte Nachfragre",
+    "bezeichnung": "EMEND 125 mg Hartkapsel und EMEND 80 mg Hartkapsel - OP(1+2)",
+    "atcCode": "A04AD12",
+    "wirkstoffe": "Aprepitant",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Merck Sharp & Dohme B.V.",
+    "telefon": "08945611873",
+    "mail": "anton.dimopoulos@msd.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11331875"
+    ],
+    "enr": [
+      "2713264"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-01",
+    "datumEnde": "2025-04-11",
+    "datumErstmeldung": "2025-03-31",
+    "datumLetzteMeldung": "2025-03-31",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Erhöhte Nachfrage",
+    "bezeichnung": "EMEND 125 mg Pulver zur Herstellung einer Suspension zum Einnehmen - OPXXXXmg",
+    "atcCode": "A04AD12",
+    "wirkstoffe": "Aprepitant",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Merck Sharp & Dohme B.V.",
+    "telefon": "08945611873",
+    "mail": "anton.dimopoulos@msd.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "02364367"
     ],
     "enr": [
@@ -448,9 +473,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-02-27",
-    "datumEnde": "2025-04-04",
+    "datumEnde": "2025-04-11",
     "datumErstmeldung": "2025-02-25",
-    "datumLetzteMeldung": "2025-03-19",
+    "datumLetzteMeldung": "2025-03-31",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Erhöhte Nachfrage",
@@ -683,29 +708,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Aprepitant AL 125 mg Hartkapseln",
-    "atcCode": "A04AD12",
-    "wirkstoffe": "Aprepitant",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14853031"
-    ],
-    "enr": [
-      "2200818"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-07-01",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-11",
-    "datumLetzteMeldung": "2025-02-11",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Aprepitant AL 125 mg und 80 mg Hartkapseln",
     "atcCode": "A04AD12",
     "wirkstoffe": "Aprepitant",
     "krankenhausrelevant": false,
@@ -980,11 +982,11 @@
     "enr": [
       "2673520"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-03-06",
-    "datumEnde": "2025-04-02",
+    "datumEnde": "2025-04-23",
     "datumErstmeldung": "2025-03-06",
-    "datumLetzteMeldung": "2025-03-06",
+    "datumLetzteMeldung": "2025-04-02",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Refixia",
@@ -1065,6 +1067,30 @@
     "zulassungsinhaber": "UCB Pharma GmbH",
     "telefon": "+49 2173 48 4848",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03075346"
+    ],
+    "enr": [
+      "1441686"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-04",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-04-04",
+    "datumLetzteMeldung": "2025-04-04",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Eingeschränkte Lieferfähigkeit. Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
+    "bezeichnung": "Ferrlecit 40 mg",
+    "atcCode": "B03AC",
+    "wirkstoffe": "Eisen(III)-natrium-D-gluconat-hydroxid-oxid-Komplex (ca. 2:1:1:x:y)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "08005252010",
+    "mail": "medinfo.de@sanofi.com",
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -1465,52 +1491,6 @@
   },
   {
     "pzn": [
-      "02191151"
-    ],
-    "enr": [
-      "0321879"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-01",
-    "datumEnde": "2025-04-01",
-    "datumErstmeldung": "2025-02-14",
-    "datumLetzteMeldung": "2025-02-14",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Presinol 500",
-    "atcCode": "C02AB01",
-    "wirkstoffe": "Methyldopa (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEOFARMA S.R.L.",
-    "telefon": "0382422008",
-    "mail": "regulatory@teofarma.it",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02039733"
-    ],
-    "enr": [
-      "2100062"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-01",
-    "datumEnde": "2025-04-01",
-    "datumErstmeldung": "2025-02-14",
-    "datumLetzteMeldung": "2025-02-14",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Presinol 125",
-    "atcCode": "C02AB01",
-    "wirkstoffe": "Methyldopa (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEOFARMA S.R.L.",
-    "telefon": "0382422008",
-    "mail": "regulatory@teofarma.it",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "03000822"
     ],
     "enr": [
@@ -1724,6 +1704,29 @@
   },
   {
     "pzn": [
+      "06135310"
+    ],
+    "enr": [
+      "0618622"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-30",
+    "datumEnde": "2025-04-20",
+    "datumErstmeldung": "2025-04-01",
+    "datumLetzteMeldung": "2025-04-01",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Aldactone 25",
+    "atcCode": "C03DA01",
+    "wirkstoffe": "Spironolacton",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "mail": "aragoncillo@esteve.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Aldactone 25 - Einreichungsnummer: 0618622"
+  },
+  {
+    "pzn": [
       "06453317"
     ],
     "enr": [
@@ -1792,30 +1795,6 @@
     "mail": "tausif_khan@baxter.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Brevibloc 10 mg/ml Infusionslösung - Einreichungsnummer: 2180430"
-  },
-  {
-    "pzn": [
-      "13251324"
-    ],
-    "enr": [
-      "2194096"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-07-10",
-    "datumEnde": "2025-06-30",
-    "datumErstmeldung": "2023-07-14",
-    "datumLetzteMeldung": "2025-01-07",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Behördlich angeforderte Rückruf.",
-    "bezeichnung": "Rapibloc 20 mg/2 ml Konzentrat zur Herstellung einer Injektionslösung",
-    "atcCode": "C07AB14",
-    "wirkstoffe": "Landiololhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Amomed Pharma GmbH",
-    "telefon": "+49 171 290 1176",
-    "mail": "quality.de@aoporphan.com",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -1888,30 +1867,6 @@
     "mail": "medical.information@pfizer.com",
     "infoFachkreise": "Ja",
     "alternativPraeparat": "Ramipril AL 10 mg Tabletten - Einreichungsnummer: 2155949"
-  },
-  {
-    "pzn": [
-      "04511542"
-    ],
-    "enr": [
-      "2129702"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-01",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-01-19",
-    "datumLetzteMeldung": "2024-10-07",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Es ist beabsichtigt, den Vertrieb einzustellen.",
-    "bezeichnung": "Cibacen 10 mg Filmtabletten",
-    "atcCode": "C09AA07",
-    "wirkstoffe": "Benazeprilhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Healthcare GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -2098,6 +2053,239 @@
     "telefon": "0214403990",
     "mail": "info@basics.de",
     "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "00323128"
+    ],
+    "enr": [
+      "2139583"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-20",
+    "datumEnde": "2025-07-15",
+    "datumErstmeldung": "2025-04-01",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "na",
+    "bezeichnung": "Sortis 40 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Pharma GmbH",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00323134"
+    ],
+    "enr": [
+      "2139583"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-20",
+    "datumEnde": "2025-07-15",
+    "datumErstmeldung": "2025-04-01",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "na",
+    "bezeichnung": "Sortis 40 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Pharma GmbH",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00323140"
+    ],
+    "enr": [
+      "2139583"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-20",
+    "datumEnde": "2025-07-15",
+    "datumErstmeldung": "2025-04-01",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "na",
+    "bezeichnung": "Sortis 40 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Pharma GmbH",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07699368"
+    ],
+    "enr": [
+      "2139582"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-06",
+    "datumEnde": "2025-08-05",
+    "datumErstmeldung": "2025-04-01",
+    "datumLetzteMeldung": "2025-04-01",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "na",
+    "bezeichnung": "Sortis 20 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Pharma GmbH",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07699374"
+    ],
+    "enr": [
+      "2139582"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-06",
+    "datumEnde": "2025-08-05",
+    "datumErstmeldung": "2025-04-01",
+    "datumLetzteMeldung": "2025-04-01",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "na",
+    "bezeichnung": "Sortis 20 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Pharma GmbH",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07753027"
+    ],
+    "enr": [
+      "2177524"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-20",
+    "datumEnde": "2025-06-20",
+    "datumErstmeldung": "2025-03-31",
+    "datumLetzteMeldung": "2025-03-31",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin - 1A Pharma 80 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Hemicalcium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Atorvastatin - 1A Pharma 80 mg Filmtabletten - Einreichungsnummer: 2177524"
+  },
+  {
+    "pzn": [
+      "07752944"
+    ],
+    "enr": [
+      "2171990"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-26",
+    "datumEnde": "2025-05-16",
+    "datumErstmeldung": "2025-03-31",
+    "datumLetzteMeldung": "2025-03-31",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin - 1A Pharma 40 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Atorvastatin - 1A Pharma 40 mg Filmtabletten - Einreichungsnummer: 2171990"
+  },
+  {
+    "pzn": [
+      "07752890"
+    ],
+    "enr": [
+      "2171988"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-20",
+    "datumEnde": "2025-04-11",
+    "datumErstmeldung": "2025-03-31",
+    "datumLetzteMeldung": "2025-03-31",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin-1A Pharma 20 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Atorvastatin-1A Pharma 20 mg Filmtabletten - Einreichungsnummer: 2171988"
+  },
+  {
+    "pzn": [
+      "07752855"
+    ],
+    "enr": [
+      "2171987"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-18",
+    "datumEnde": "2025-05-23",
+    "datumErstmeldung": "2025-03-31",
+    "datumLetzteMeldung": "2025-03-31",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin - 1A Pharma 10 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07752861"
+    ],
+    "enr": [
+      "2171987"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-18",
+    "datumEnde": "2025-05-23",
+    "datumErstmeldung": "2025-03-31",
+    "datumLetzteMeldung": "2025-03-31",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin - 1A Pharma 10 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -2923,11 +3111,11 @@
     "enr": [
       "2102019"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-02-26",
-    "datumEnde": "2025-04-20",
+    "datumEnde": "2025-05-11",
     "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-04-02",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Volon A-Schüttelmix",
@@ -2974,7 +3162,7 @@
     "datumBeginn": "2025-02-01",
     "datumEnde": "2025-05-04",
     "datumErstmeldung": "2025-02-05",
-    "datumLetzteMeldung": "2025-03-26",
+    "datumLetzteMeldung": "2025-04-04",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Hydrocutan Creme 1%",
@@ -2986,54 +3174,6 @@
     "mail": "elisabeth.rueckert@dermapharm.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Hydrocutan Creme 1% - Einreichungsnummer: 2157578"
-  },
-  {
-    "pzn": [
-      "06577031"
-    ],
-    "enr": [
-      "2157578"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-01",
-    "datumEnde": "2025-05-04",
-    "datumErstmeldung": "2025-02-05",
-    "datumLetzteMeldung": "2025-03-26",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydrocutan Creme 1%",
-    "atcCode": "D07AA02",
-    "wirkstoffe": "Hydrocortison",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydrocutan Creme 1% - Einreichungsnummer: 2157578"
-  },
-  {
-    "pzn": [
-      "00587755"
-    ],
-    "enr": [
-      "0895847"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-12-01",
-    "datumEnde": "2025-04-20",
-    "datumErstmeldung": "2024-12-04",
-    "datumLetzteMeldung": "2025-03-24",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydrocutan Salbe 1%",
-    "atcCode": "D07AA02",
-    "wirkstoffe": "Hydrocortison",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Hydrocutan Salbe 1% - Einreichungsnummer: 0895847"
   },
   {
     "pzn": [
@@ -3058,6 +3198,30 @@
     "mail": "julia.wiedemann@dermapharm.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Soventol HydroCort 0,5% Spray - Einreichungsnummer: 2158935"
+  },
+  {
+    "pzn": [
+      "06630794"
+    ],
+    "enr": [
+      "0070928"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-31",
+    "datumEnde": "2025-05-18",
+    "datumErstmeldung": "2025-04-02",
+    "datumLetzteMeldung": "2025-04-02",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Volon A Tinktur N",
+    "atcCode": "D07AB",
+    "wirkstoffe": "Salicylsäure; Triamcinolonacetonid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Volon A Tinktur N - Einreichungsnummer: 0070928"
   },
   {
     "pzn": [
@@ -3185,9 +3349,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-11-06",
-    "datumEnde": "2025-04-27",
+    "datumEnde": "2025-05-25",
     "datumErstmeldung": "2024-11-15",
-    "datumLetzteMeldung": "2025-03-19",
+    "datumLetzteMeldung": "2025-04-02",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Prednitop Crinale",
@@ -3208,9 +3372,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-11-06",
-    "datumEnde": "2025-04-27",
+    "datumEnde": "2025-05-25",
     "datumErstmeldung": "2024-11-15",
-    "datumLetzteMeldung": "2025-03-19",
+    "datumLetzteMeldung": "2025-04-02",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Prednitop Crinale",
@@ -3224,40 +3388,16 @@
   },
   {
     "pzn": [
-      "04881517"
-    ],
-    "enr": [
-      "2156331"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-07",
-    "datumEnde": "2025-04-11",
-    "datumErstmeldung": "2025-03-11",
-    "datumLetzteMeldung": "2025-03-11",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednicarbat acis Creme",
-    "atcCode": "D07AC18",
-    "wirkstoffe": "Prednicarbat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "acis Arzneimittel GmbH",
-    "telefon": "(0)89 / 44 23 246  0",
-    "mail": "Medwiss.Acis@dermapharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Prednicarbat acis Creme - Einreichungsnummer: 2156331"
-  },
-  {
-    "pzn": [
       "03954993"
     ],
     "enr": [
       "2184545"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-02",
-    "datumEnde": "2025-04-11",
+    "datumEnde": "2025-05-09",
     "datumErstmeldung": "2025-01-14",
-    "datumLetzteMeldung": "2025-01-14",
+    "datumLetzteMeldung": "2025-04-01",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Prednicarbat acis Lösung",
@@ -3277,11 +3417,11 @@
     "enr": [
       "2192533"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-03-14",
-    "datumEnde": "2025-04-27",
+    "datumEnde": "2025-05-11",
     "datumErstmeldung": "2025-03-19",
-    "datumLetzteMeldung": "2025-03-19",
+    "datumLetzteMeldung": "2025-04-02",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Soderm plus Lösung 0,64 mg/g + 20 mg/g Lösung zur Anwendung auf der Haut",
@@ -3303,9 +3443,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-11-26",
-    "datumEnde": "2025-04-13",
+    "datumEnde": "2025-05-11",
     "datumErstmeldung": "2024-12-04",
-    "datumLetzteMeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-04-02",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Inderm",
@@ -4130,29 +4270,6 @@
   },
   {
     "pzn": [
-      "06846637"
-    ],
-    "enr": [
-      "2161213"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-01",
-    "datumEnde": "2025-05-30",
-    "datumErstmeldung": "2024-11-05",
-    "datumLetzteMeldung": "2024-11-05",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Dexamethason acis 4 mg",
-    "atcCode": "H02AB02",
-    "wirkstoffe": "Dexamethason",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "acis Arzneimittel GmbH",
-    "telefon": "+ 49 (0)89 / 44 23 246  0",
-    "mail": "Medwiss.Acis@dermapharm.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "04807745"
     ],
     "enr": [
@@ -4272,28 +4389,6 @@
   },
   {
     "pzn": [
-      "16129865"
-    ],
-    "enr": [
-      "2192879"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-11-10",
-    "datumEnde": "2025-05-30",
-    "datumErstmeldung": "2023-11-10",
-    "datumLetzteMeldung": "2025-01-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cinacalcet-ratiopharm 30 mg Filmtabletten",
-    "atcCode": "H05BX01",
-    "wirkstoffe": "Cinacalcethydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "16127346"
     ],
     "enr": [
@@ -4301,12 +4396,12 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-02-08",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2024-04-29",
-    "datumLetzteMeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-04-01",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
-    "grundAnmerkung": "Die Produktion ist für den Oktober 2024 geplant. Mit dem Transport Ende Jan 2025, den Re-Tests für die EU und dem Freigabeprozess rechnet Ascend GmbH bis spätestens Ende 31.03.2025 wieder liefern zu können.",
+    "grundAnmerkung": "Die neuen Chargen sind bereits in EU. Der Re-test der Chargen sowie die Freigabe erfolgt bis Ende April 2025.",
     "bezeichnung": "Cinacalcet Ascend 90mg Filmtabletten",
     "atcCode": "H05BX01",
     "wirkstoffe": "Cinacalcethydrochlorid",
@@ -4325,61 +4420,13 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-02-08",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2024-04-29",
-    "datumLetzteMeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-04-01",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
-    "grundAnmerkung": "Die Produktion ist für den Oktober 2024 geplant. Mit dem Transport Ende Jan 2025, den Re-Tests für die EU und dem Freigabeprozess rechnet Ascend GmbH bis spätestens Ende 31.03.2025 wieder liefern zu können.",
+    "grundAnmerkung": "Die neuen Chargen sind bereits in EU. Der Re-test der Chargen sowie die Freigabe erfolgt bis Ende April 2025.",
     "bezeichnung": "Cinacalcet Ascend 90mg Filmtabletten",
-    "atcCode": "H05BX01",
-    "wirkstoffe": "Cinacalcethydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Ascend GmbH",
-    "telefon": "069505064471",
-    "mail": "info@ascend-de.eu",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16127317"
-    ],
-    "enr": [
-      "2202055"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-08",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-04-29",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Die Produktion ist für den Oktober 2024 geplant. Mit dem Transport Ende Jan 2025, den Re-Tests für die EU und dem Freigabeprozess rechnet Ascend GmbH bis spätestens Ende 31.03.2025 wieder liefern zu können.",
-    "bezeichnung": "Cinacalcet Ascend 60mg Filmtabletten",
-    "atcCode": "H05BX01",
-    "wirkstoffe": "Cinacalcethydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Ascend GmbH",
-    "telefon": "069505064471",
-    "mail": "info@ascend-de.eu",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16127323"
-    ],
-    "enr": [
-      "2202055"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-08",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-04-29",
-    "datumLetzteMeldung": "2025-01-10",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Die Produktion ist für den Oktober 2024 geplant. Mit dem Transport Ende Jan 2025, den Re-Tests für die EU und dem Freigabeprozess rechnet Ascend GmbH bis spätestens Ende 31.03.2025 wieder liefern zu können.",
-    "bezeichnung": "Cinacalcet Ascend 60mg Filmtabletten",
     "atcCode": "H05BX01",
     "wirkstoffe": "Cinacalcethydrochlorid",
     "krankenhausrelevant": true,
@@ -4397,12 +4444,12 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-02-08",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2024-04-29",
-    "datumLetzteMeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-04-01",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
-    "grundAnmerkung": "Die Produktion ist für den Oktober 2024 geplant. Mit dem Transport Ende Jan 2025, den Re-Tests für die EU und dem Freigabeprozess rechnet Ascend GmbH bis spätestens Ende 31.03.2025 wieder liefern zu können.",
+    "grundAnmerkung": "Die neuen Chargen sind bereits in EU. Der Re-test der Chargen sowie die Freigabe erfolgt bis Ende April 2025.",
     "bezeichnung": "Cinacalcet Ascend 30mg Filmtabletten",
     "atcCode": "H05BX01",
     "wirkstoffe": "Cinacalcethydrochlorid",
@@ -4421,12 +4468,12 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-02-08",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2024-04-29",
-    "datumLetzteMeldung": "2025-01-10",
+    "datumLetzteMeldung": "2025-04-01",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
-    "grundAnmerkung": "Die Produktion ist für den Oktober 2024 geplant. Mit dem Transport Ende Jan 2025, den Re-Tests für die EU und dem Freigabeprozess rechnet Ascend GmbH bis spätestens Ende 31.03.2025 wieder liefern zu können.",
+    "grundAnmerkung": "Die neuen Chargen sind bereits in EU. Der Re-test der Chargen sowie die Freigabe erfolgt bis Ende April 2025.",
     "bezeichnung": "Cinacalcet Ascend 30mg Filmtabletten",
     "atcCode": "H05BX01",
     "wirkstoffe": "Cinacalcethydrochlorid",
@@ -4434,6 +4481,28 @@
     "zulassungsinhaber": "Ascend GmbH",
     "telefon": "069505064471",
     "mail": "info@ascend-de.eu",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16129865"
+    ],
+    "enr": [
+      "2192879"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2023-11-10",
+    "datumEnde": "2025-05-30",
+    "datumErstmeldung": "2023-11-10",
+    "datumLetzteMeldung": "2025-01-28",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cinacalcet-ratiopharm 30 mg Filmtabletten",
+    "atcCode": "H05BX01",
+    "wirkstoffe": "Cinacalcethydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -4598,6 +4667,72 @@
   },
   {
     "pzn": [
+      "00658863"
+    ],
+    "enr": [
+      "2141151"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2022-11-03",
+    "datumLetzteMeldung": "2025-04-04",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pen Mega - 1 A Pharma",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00658886"
+    ],
+    "enr": [
+      "2141151"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2022-11-03",
+    "datumLetzteMeldung": "2025-04-04",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pen Mega - 1 A Pharma",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00658923"
+    ],
+    "enr": [
+      "2141151"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2022-11-03",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2022-11-03",
+    "datumLetzteMeldung": "2025-04-04",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pen Mega - 1 A Pharma",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "08412038"
     ],
     "enr": [
@@ -4737,72 +4872,6 @@
     "mail": "service@hexal.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "PenHEXAL 1,5 Mega - Einreichungsnummer: 2141148"
-  },
-  {
-    "pzn": [
-      "00658863"
-    ],
-    "enr": [
-      "2141151"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2025-04-02",
-    "datumErstmeldung": "2022-11-03",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pen Mega - 1 A Pharma",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00658886"
-    ],
-    "enr": [
-      "2141151"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2025-04-02",
-    "datumErstmeldung": "2022-11-03",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pen Mega - 1 A Pharma",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00658923"
-    ],
-    "enr": [
-      "2141151"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-03",
-    "datumEnde": "2025-04-02",
-    "datumErstmeldung": "2022-11-03",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pen Mega - 1 A Pharma",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -4988,73 +5057,6 @@
   },
   {
     "pzn": [
-      "16822537"
-    ],
-    "enr": [
-      "2137023"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-13",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-30",
-    "datumLetzteMeldung": "2025-02-19",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefaclor - 1 A Pharma 250 mg Filmtabletten",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16822543"
-    ],
-    "enr": [
-      "2137023"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-13",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-30",
-    "datumLetzteMeldung": "2025-02-19",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cefaclor - 1 A Pharma 250 mg Filmtabletten",
-    "atcCode": "J01DC04",
-    "wirkstoffe": "Cefaclor-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07507110"
-    ],
-    "enr": [
-      "0610075"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-12-01",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2023-11-27",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOMYCIN 400 Saft",
-    "atcCode": "J01FA01",
-    "wirkstoffe": "Erythromycinestolat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "02838440"
     ],
     "enr": [
@@ -5124,6 +5126,72 @@
   },
   {
     "pzn": [
+      "00101310"
+    ],
+    "enr": [
+      "2155619"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-09",
+    "datumEnde": "2025-04-11",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-04-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin HEXAL 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00230007"
+    ],
+    "enr": [
+      "2155619"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-09",
+    "datumEnde": "2025-04-11",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-04-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin HEXAL 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00278379"
+    ],
+    "enr": [
+      "2155619"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-09",
+    "datumEnde": "2025-04-11",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-04-04",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin HEXAL 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "01805013"
     ],
     "enr": [
@@ -5167,54 +5235,6 @@
     "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Azithromycin-ratiopharm 500 mg Filmtabletten - Einreichungsnummer: 2162572"
-  },
-  {
-    "pzn": [
-      "04678503"
-    ],
-    "enr": [
-      "2125157"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-10",
-    "datumEnde": "2025-04-25",
-    "datumErstmeldung": "2025-03-13",
-    "datumLetzteMeldung": "2025-03-13",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Der Lieferengpass für die 15 ml Flasche (PZN 07130987) wird vrsl bis 30.06.2025 bestehen.",
-    "bezeichnung": "Zithromax Trockensaft",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "07130987"
-    ],
-    "enr": [
-      "2125157"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-10",
-    "datumEnde": "2025-04-25",
-    "datumErstmeldung": "2025-03-13",
-    "datumLetzteMeldung": "2025-03-13",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Der Lieferengpass für die 15 ml Flasche (PZN 07130987) wird vrsl bis 30.06.2025 bestehen.",
-    "bezeichnung": "Zithromax Trockensaft",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -5306,141 +5326,6 @@
   },
   {
     "pzn": [
-      "04044313"
-    ],
-    "enr": [
-      "2167358"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-28",
-    "datumEnde": "2025-03-28",
-    "datumErstmeldung": "2024-06-03",
-    "datumLetzteMeldung": "2025-02-21",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "voraussichtliche Verfügbarkeiten4044313\t20.01.20254044336\t17.01.20254044342\t21.02.202521.02.2025 RHDerzeit sind alle 3 PZNs verfügbar, jedoch aufgrund der Marktsituation und der erhöhten Nachfrage bleibt die Lieferengpassmeldung offen",
-    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04044336"
-    ],
-    "enr": [
-      "2167358"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-28",
-    "datumEnde": "2025-03-28",
-    "datumErstmeldung": "2024-06-03",
-    "datumLetzteMeldung": "2025-02-21",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "voraussichtliche Verfügbarkeiten4044313\t20.01.20254044336\t17.01.20254044342\t21.02.202521.02.2025 RHDerzeit sind alle 3 PZNs verfügbar, jedoch aufgrund der Marktsituation und der erhöhten Nachfrage bleibt die Lieferengpassmeldung offen",
-    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04044342"
-    ],
-    "enr": [
-      "2167358"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-28",
-    "datumEnde": "2025-03-28",
-    "datumErstmeldung": "2024-06-03",
-    "datumLetzteMeldung": "2025-02-21",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "voraussichtliche Verfügbarkeiten4044313\t20.01.20254044336\t17.01.20254044342\t21.02.202521.02.2025 RHDerzeit sind alle 3 PZNs verfügbar, jedoch aufgrund der Marktsituation und der erhöhten Nachfrage bleibt die Lieferengpassmeldung offen",
-    "bezeichnung": "Azithromycin - 1 A Pharma 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00101310"
-    ],
-    "enr": [
-      "2155619"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-09",
-    "datumEnde": "2025-04-11",
-    "datumErstmeldung": "2025-02-03",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin HEXAL 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00230007"
-    ],
-    "enr": [
-      "2155619"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-09",
-    "datumEnde": "2025-04-11",
-    "datumErstmeldung": "2025-02-03",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin HEXAL 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00278379"
-    ],
-    "enr": [
-      "2155619"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-09",
-    "datumEnde": "2025-04-11",
-    "datumErstmeldung": "2025-02-03",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin HEXAL 200 mg/5 ml Pulver zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "05556423"
     ],
     "enr": [
@@ -5487,51 +5372,6 @@
   },
   {
     "pzn": [
-      "03928180"
-    ],
-    "enr": [
-      "2103170"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-05",
-    "datumEnde": "2025-03-15",
-    "datumErstmeldung": "2024-09-05",
-    "datumLetzteMeldung": "2025-02-19",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Gentamicin-ratiopharm 80 mg/2 ml SF",
-    "atcCode": "J01GB03",
-    "wirkstoffe": "Gentamicinsulfat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03928174"
-    ],
-    "enr": [
-      "2103169"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-12-13",
-    "datumEnde": "2025-03-15",
-    "datumErstmeldung": "2024-12-13",
-    "datumLetzteMeldung": "2025-02-19",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Gentamicin-ratiopharm 40 mg/ml SF",
-    "atcCode": "J01GB03",
-    "wirkstoffe": "Gentamicinsulfat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "stefanie.kesselmeier@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Gentamicin-ratiopharm 160 mg/2 ml SF - Einreichungsnummer: 2107718"
-  },
-  {
-    "pzn": [
       "01345801"
     ],
     "enr": [
@@ -5539,9 +5379,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-08-18",
-    "datumEnde": "2025-03-30",
+    "datumEnde": "2025-04-29",
     "datumErstmeldung": "2024-09-20",
-    "datumLetzteMeldung": "2025-03-18",
+    "datumLetzteMeldung": "2025-03-31",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Ciprohexal 250 mg",
@@ -6111,9 +5951,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-18",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2024-12-20",
-    "datumLetzteMeldung": "2025-02-20",
+    "datumLetzteMeldung": "2025-04-03",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "n.a.",
@@ -6134,9 +5974,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-18",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2024-12-20",
-    "datumLetzteMeldung": "2025-02-20",
+    "datumLetzteMeldung": "2025-04-03",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "n.a.",
@@ -6383,11 +6223,11 @@
     "enr": [
       "2705491"
     ],
-    "meldungsart": "Änderungsmeldung",
+    "meldungsart": "Erstmeldung",
     "datumBeginn": "2024-11-01",
     "datumEnde": "2025-05-02",
-    "datumErstmeldung": "2024-10-22",
-    "datumLetzteMeldung": "2024-11-28",
+    "datumErstmeldung": "2025-04-02",
+    "datumLetzteMeldung": "2025-04-02",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Ecalta 100 mg Pulver zur Herstellung eines Konzentrats zur Herstellung einer Infusionslösung - OP1",
@@ -6398,6 +6238,30 @@
     "telefon": "+49 (0) 30 550055-51000",
     "mail": "medical.information@pfizer.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09505084"
+    ],
+    "enr": [
+      "2106370"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-01",
+    "datumEnde": "2025-06-15",
+    "datumErstmeldung": "2025-04-01",
+    "datumLetzteMeldung": "2025-04-01",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "3x höherer Bedarf in den letzten Monaten.",
+    "bezeichnung": "Eremfat i.v. 300mg",
+    "atcCode": "J04AB02",
+    "wirkstoffe": "Rifampicin-Natrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "mail": "aragoncillo@esteve.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Eremfat i.v. 300mg - Einreichungsnummer: 2106370"
   },
   {
     "pzn": [
@@ -6701,52 +6565,6 @@
     "mail": "regulatory@lipomed.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Dacarbazin Lipomed 1000 mg Pulver zur Herstellung einer Infusionslösung - Einreichungsnummer: 2197015"
-  },
-  {
-    "pzn": [
-      "01274099"
-    ],
-    "enr": [
-      "2105603"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-17",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-17",
-    "datumLetzteMeldung": "2025-01-17",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Methotrexat \"Lederle\" Tabletten 2,5mg",
-    "atcCode": "L01BA01",
-    "wirkstoffe": "Methotrexat-Dinatrium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "03055005551000",
-    "mail": "medical.information@pfizer.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04907932"
-    ],
-    "enr": [
-      "2105604"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-17",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-17",
-    "datumLetzteMeldung": "2025-01-17",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Methotrexat \"Lederle\" Tabletten 10mg",
-    "atcCode": "L01BA01",
-    "wirkstoffe": "Methotrexat-Dinatrium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "03055005551000",
-    "mail": "medical.information@pfizer.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -8628,6 +8446,30 @@
   },
   {
     "pzn": [
+      "16260631"
+    ],
+    "enr": [
+      "0433621"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-03",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-04-03",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "keine",
+    "bezeichnung": "Scandonest 3% ohne Vasokonstriktor, Injektionslösung",
+    "atcCode": "N01BB03, TERM_ID_NA_2090010144",
+    "wirkstoffe": "Mepivacainhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "SEPTODONT GmbH",
+    "telefon": "0228 971 26 0",
+    "mail": "info@septodont.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "03079396"
     ],
     "enr": [
@@ -8697,6 +8539,54 @@
   },
   {
     "pzn": [
+      "14273109"
+    ],
+    "enr": [
+      "2195905"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-04-03",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-04-03",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "keine",
+    "bezeichnung": "Septanest mit Epinephrin 1:100.000 - 40mg/ml + 0,01mg/ml Injektionslösung",
+    "atcCode": "N01BB58",
+    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrogentartrat/Adrenalinhydrogentartrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "SEPTODONT GmbH",
+    "telefon": "0228 971 26 0",
+    "mail": "info@septodont.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14273115"
+    ],
+    "enr": [
+      "2195904"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-04-03",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-04-03",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "keine",
+    "bezeichnung": "Septanest mit Epinephrin 1:200.000 - 40 mg/ml + 0,005 mg/ml Injektionslösung",
+    "atcCode": "N01BB58",
+    "wirkstoffe": "Articainhydrochlorid; Epinephrinhydrogentartrat/Adrenalinhydrogentartrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "SEPTODONT GmbH",
+    "telefon": "0228 971 26 0",
+    "mail": "info@septodont.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "09069068"
     ],
     "enr": [
@@ -8763,27 +8653,69 @@
   },
   {
     "pzn": [
-      "11354965"
+      "10524997"
     ],
     "enr": [
-      "2178097"
+      "2190943"
     ],
     "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-30",
-    "datumEnde": "2025-05-05",
-    "datumErstmeldung": "2024-08-30",
-    "datumLetzteMeldung": "2025-03-23",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hydromorphon-HCl PUREN 8 mg Hartkapseln, retardiert",
+    "datumBeginn": "2025-01-07",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-02-13",
+    "datumLetzteMeldung": "2025-04-04",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-HEXAL 2,6 mg Hartkapseln",
     "atcCode": "N02AA03",
     "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
-    "telefon": "+49 (0) 89 558 909 - 143",
-    "mail": "gbicer@puren-pharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydromorphon-HCl PUREN 24 mg Hartkapseln, retardiert - Einreichungsnummer: 2178099"
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10525011"
+    ],
+    "enr": [
+      "2190943"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-07",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-02-13",
+    "datumLetzteMeldung": "2025-04-04",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-HEXAL 2,6 mg Hartkapseln",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10525028"
+    ],
+    "enr": [
+      "2190943"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-07",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2025-02-13",
+    "datumLetzteMeldung": "2025-04-04",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Hydromorphon-HEXAL 2,6 mg Hartkapseln",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -8900,72 +8832,6 @@
     "mail": "christian.hueneburg@pbpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Palladone retard 8 mg - Einreichungsnummer: 2182662"
-  },
-  {
-    "pzn": [
-      "10524997"
-    ],
-    "enr": [
-      "2190943"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-07",
-    "datumEnde": "2025-04-03",
-    "datumErstmeldung": "2025-02-13",
-    "datumLetzteMeldung": "2025-02-13",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HEXAL 2,6 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "10525011"
-    ],
-    "enr": [
-      "2190943"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-07",
-    "datumEnde": "2025-04-03",
-    "datumErstmeldung": "2025-02-13",
-    "datumLetzteMeldung": "2025-02-13",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HEXAL 2,6 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "10525028"
-    ],
-    "enr": [
-      "2190943"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-07",
-    "datumEnde": "2025-04-03",
-    "datumErstmeldung": "2025-02-13",
-    "datumLetzteMeldung": "2025-02-13",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydromorphon-HEXAL 2,6 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -9889,6 +9755,54 @@
   },
   {
     "pzn": [
+      "06707315"
+    ],
+    "enr": [
+      "5015385"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-12-05",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2024-12-10",
+    "datumLetzteMeldung": "2025-04-04",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Transfer",
+    "bezeichnung": "Phenobarbital-neuraxpharm 100 mg",
+    "atcCode": "N03AA02",
+    "wirkstoffe": "Phenobarbital",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "049217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06707321"
+    ],
+    "enr": [
+      "5015385"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-12-05",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2024-12-10",
+    "datumLetzteMeldung": "2025-04-04",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Transfer",
+    "bezeichnung": "Phenobarbital-neuraxpharm 100 mg",
+    "atcCode": "N03AA02",
+    "wirkstoffe": "Phenobarbital",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "049217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "06707284"
     ],
     "enr": [
@@ -9896,9 +9810,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-03",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-05-31",
     "datumErstmeldung": "2024-10-16",
-    "datumLetzteMeldung": "2025-03-12",
+    "datumLetzteMeldung": "2025-04-04",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Transfer",
@@ -9920,9 +9834,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-03",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-05-31",
     "datumErstmeldung": "2024-10-16",
-    "datumLetzteMeldung": "2025-03-12",
+    "datumLetzteMeldung": "2025-04-04",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Transfer",
@@ -9932,54 +9846,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
     "telefon": "0217310600",
-    "mail": "info@neuraxpharm.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06707315"
-    ],
-    "enr": [
-      "5015385"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-12-05",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-12-10",
-    "datumLetzteMeldung": "2024-12-10",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Transfer",
-    "bezeichnung": "Phenobarbital-neuraxpharm 100 mg",
-    "atcCode": "N03AA02",
-    "wirkstoffe": "Phenobarbital",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "049217310600",
-    "mail": "info@neuraxpharm.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06707321"
-    ],
-    "enr": [
-      "5015385"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-12-05",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-12-10",
-    "datumLetzteMeldung": "2024-12-10",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Transfer",
-    "bezeichnung": "Phenobarbital-neuraxpharm 100 mg",
-    "atcCode": "N03AA02",
-    "wirkstoffe": "Phenobarbital",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "049217310600",
     "mail": "info@neuraxpharm.de",
     "infoFachkreise": "Nein"
   },
@@ -10095,6 +9961,98 @@
   },
   {
     "pzn": [
+      "04897145"
+    ],
+    "enr": [
+      "2129957"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-01",
+    "datumEnde": "2025-05-28",
+    "datumErstmeldung": "2025-04-03",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "n.a.",
+    "bezeichnung": "Timonil 150 retard",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
+    "mail": "info@desitin.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00630600"
+    ],
+    "enr": [
+      "2142611"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-28",
+    "datumEnde": "2025-05-28",
+    "datumErstmeldung": "2025-03-03",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "n.a.",
+    "bezeichnung": "Timonil 200 retard",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
+    "mail": "info@desitin.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "08871711"
+    ],
+    "enr": [
+      "2131191"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-28",
+    "datumEnde": "2025-05-28",
+    "datumErstmeldung": "2025-03-03",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "n.a.",
+    "bezeichnung": "Timonil 400 retard",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
+    "mail": "info@desitin.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16763361"
+    ],
+    "enr": [
+      "2129958"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-28",
+    "datumEnde": "2025-05-28",
+    "datumErstmeldung": "2025-03-03",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "n.a.",
+    "bezeichnung": "Timonil 300 retard",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
+    "mail": "info@desitin.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "03659811"
     ],
     "enr": [
@@ -10138,75 +10096,6 @@
     "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Carbamazepin-ratiopharm 400 mg Retardtabletten - Einreichungsnummer: 2146006"
-  },
-  {
-    "pzn": [
-      "16763361"
-    ],
-    "enr": [
-      "2129958"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-28",
-    "datumEnde": "2025-05-13",
-    "datumErstmeldung": "2025-03-03",
-    "datumLetzteMeldung": "2025-03-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "n.a.",
-    "bezeichnung": "Timonil 300 retard",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
-    "mail": "info@desitin.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08871711"
-    ],
-    "enr": [
-      "2131191"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-28",
-    "datumEnde": "2025-03-20",
-    "datumErstmeldung": "2025-03-03",
-    "datumLetzteMeldung": "2025-03-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "n.a.",
-    "bezeichnung": "Timonil 400 retard",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
-    "mail": "info@desitin.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00630600"
-    ],
-    "enr": [
-      "2142611"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-28",
-    "datumEnde": "2025-03-20",
-    "datumErstmeldung": "2025-03-03",
-    "datumLetzteMeldung": "2025-03-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "n.a.",
-    "bezeichnung": "Timonil 200 retard",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
-    "mail": "info@desitin.de",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -10352,98 +10241,6 @@
   },
   {
     "pzn": [
-      "12547376"
-    ],
-    "enr": [
-      "2194662"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-10-29",
-    "datumEnde": "2025-04-15",
-    "datumErstmeldung": "2025-02-11",
-    "datumLetzteMeldung": "2025-03-12",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sultiam-neuraxpharm 50 mg Filmtabletten",
-    "atcCode": "N03AX03",
-    "wirkstoffe": "Sultiam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "049217310600",
-    "mail": "info@neuraxpharm.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "12547407"
-    ],
-    "enr": [
-      "2194662"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-10-29",
-    "datumEnde": "2025-04-15",
-    "datumErstmeldung": "2025-02-11",
-    "datumLetzteMeldung": "2025-03-12",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sultiam-neuraxpharm 50 mg Filmtabletten",
-    "atcCode": "N03AX03",
-    "wirkstoffe": "Sultiam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "049217310600",
-    "mail": "info@neuraxpharm.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "12547442"
-    ],
-    "enr": [
-      "2194664"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-12-17",
-    "datumEnde": "2025-04-15",
-    "datumErstmeldung": "2025-02-11",
-    "datumLetzteMeldung": "2025-03-12",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sultiam-neuraxpharm 200 mg Filmtabletten",
-    "atcCode": "N03AX03",
-    "wirkstoffe": "Sultiam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "049217310600",
-    "mail": "info@neuraxpharm.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "12547459"
-    ],
-    "enr": [
-      "2194664"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-12-17",
-    "datumEnde": "2025-04-15",
-    "datumErstmeldung": "2025-02-11",
-    "datumLetzteMeldung": "2025-03-12",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sultiam-neuraxpharm 200 mg Filmtabletten",
-    "atcCode": "N03AX03",
-    "wirkstoffe": "Sultiam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
-    "telefon": "049217310600",
-    "mail": "info@neuraxpharm.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "05510993"
     ],
     "enr": [
@@ -10451,9 +10248,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-03-11",
-    "datumEnde": "2025-04-01",
+    "datumEnde": "2025-04-14",
     "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-03",
+    "datumLetzteMeldung": "2025-04-04",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Lamotrigin Aristo 200 mg Tabletten zur Herstellung einer Suspension zum Einnehmen",
@@ -10473,9 +10270,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-03-11",
-    "datumEnde": "2025-04-01",
+    "datumEnde": "2025-04-14",
     "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-03",
+    "datumLetzteMeldung": "2025-04-04",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Lamotrigin Aristo 200 mg Tabletten zur Herstellung einer Suspension zum Einnehmen",
@@ -10495,9 +10292,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-03-11",
-    "datumEnde": "2025-04-01",
+    "datumEnde": "2025-04-14",
     "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-03",
+    "datumLetzteMeldung": "2025-04-04",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Lamotrigin Aristo 200 mg Tabletten zur Herstellung einer Suspension zum Einnehmen",
@@ -10517,9 +10314,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-03-11",
-    "datumEnde": "2025-03-28",
+    "datumEnde": "2025-04-14",
     "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-12-02",
+    "datumLetzteMeldung": "2025-03-31",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Lamotrigin Aristo 25 mg Tabletten zur Herstellung einer Suspension zum Einnehmen",
@@ -10539,9 +10336,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-03-11",
-    "datumEnde": "2025-03-28",
+    "datumEnde": "2025-04-14",
     "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-12-02",
+    "datumLetzteMeldung": "2025-03-31",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Lamotrigin Aristo 25 mg Tabletten zur Herstellung einer Suspension zum Einnehmen",
@@ -10561,9 +10358,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-03-11",
-    "datumEnde": "2025-03-28",
+    "datumEnde": "2025-04-14",
     "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2024-12-02",
+    "datumLetzteMeldung": "2025-03-31",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Lamotrigin Aristo 25 mg Tabletten zur Herstellung einer Suspension zum Einnehmen",
@@ -10675,9 +10472,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-08",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2024-01-25",
-    "datumLetzteMeldung": "2025-01-31",
+    "datumLetzteMeldung": "2025-03-31",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Parkopan 5mg",
@@ -10697,9 +10494,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-01-08",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2024-01-25",
-    "datumLetzteMeldung": "2025-01-31",
+    "datumLetzteMeldung": "2025-03-31",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Parkopan 5mg",
@@ -10719,9 +10516,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-09-12",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2024-01-25",
-    "datumLetzteMeldung": "2025-01-31",
+    "datumLetzteMeldung": "2025-03-31",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Parkopan 2mg",
@@ -10741,9 +10538,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-09-12",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2024-01-25",
-    "datumLetzteMeldung": "2025-01-31",
+    "datumLetzteMeldung": "2025-03-31",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Parkopan 2mg",
@@ -10894,48 +10691,72 @@
   },
   {
     "pzn": [
-      "17865106"
+      "07609158"
     ],
     "enr": [
-      "7014929"
+      "2173266"
     ],
     "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-23",
-    "datumEnde": "2025-03-28",
-    "datumErstmeldung": "2025-01-24",
-    "datumLetzteMeldung": "2025-03-19",
-    "grund": "Sonstige",
+    "datumBeginn": "2024-05-31",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-06-03",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
-    "grundAnmerkung": "We have received the import licence for Inbrija  from Hlfgp now, but the batch release takes still some time.",
-    "bezeichnung": "Inbrija",
-    "atcCode": "N04BA01",
-    "wirkstoffe": "Levodopa",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Acorda Therapeutics Ireland Limited",
-    "mail": "ute.muehlenbeck@merz.de",
+    "bezeichnung": "Pramipexol-Hormosan 0,18 mg Tabletten",
+    "atcCode": "N04BC05",
+    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
-      "16352675"
+      "07609448"
     ],
     "enr": [
-      "2714802"
+      "2173267"
     ],
     "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-23",
-    "datumEnde": "2025-03-28",
-    "datumErstmeldung": "2025-01-24",
-    "datumLetzteMeldung": "2025-03-19",
-    "grund": "Sonstige",
+    "datumBeginn": "2024-10-14",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-10-14",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
-    "grundAnmerkung": "We have received the import licence for Inbrija  from Hlfgp now, but the batch release takes still some time.",
-    "bezeichnung": "Inbrija 33 mg Hartkapseln mit Pulver zur Inhalation",
-    "atcCode": "N04BA01",
-    "wirkstoffe": "Levodopa",
+    "bezeichnung": "Pramipexol-Hormosan 0,35 mg Tabletten",
+    "atcCode": "N04BC05",
+    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Acorda Therapeutics Ireland Limited",
-    "mail": "ute.muehlenbeck@merz.de",
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Pramipexol-Hormosan 0,35 mg Tabletten - Einreichungsnummer: 2173267"
+  },
+  {
+    "pzn": [
+      "07609460"
+    ],
+    "enr": [
+      "2173268"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-05",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-08-15",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pramipexol-Hormosan 0,7 mg Tabletten",
+    "atcCode": "N04BC05",
+    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -11120,100 +10941,6 @@
     "telefon": "049217310600",
     "mail": "info@neuraxpharm.de",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "07609448"
-    ],
-    "enr": [
-      "2173267"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-10-14",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-10-14",
-    "datumLetzteMeldung": "2024-10-14",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pramipexol-Hormosan 0,35 mg Tabletten",
-    "atcCode": "N04BC05",
-    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Pramipexol-Hormosan 0,35 mg Tabletten - Einreichungsnummer: 2173267"
-  },
-  {
-    "pzn": [
-      "07609158"
-    ],
-    "enr": [
-      "2173266"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-31",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-06-03",
-    "datumLetzteMeldung": "2024-10-14",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pramipexol-Hormosan 0,18 mg Tabletten",
-    "atcCode": "N04BC05",
-    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "07609460"
-    ],
-    "enr": [
-      "2173268"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-05",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-08-15",
-    "datumLetzteMeldung": "2024-10-14",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pramipexol-Hormosan 0,7 mg Tabletten",
-    "atcCode": "N04BC05",
-    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03131688"
-    ],
-    "enr": [
-      "2143570"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-12-16",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-12-05",
-    "datumLetzteMeldung": "2025-02-21",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Cabaseril 2 mg",
-    "atcCode": "N04BC06",
-    "wirkstoffe": "Cabergolin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pfizer Pharma GmbH",
-    "telefon": "+49 (0) 30 550055-51000",
-    "mail": "medical.information@pfizer.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Cabaseril 2 mg - Einreichungsnummer: 2143570"
   },
   {
     "pzn": [
@@ -11403,19 +11130,19 @@
   },
   {
     "pzn": [
-      "04917391"
+      "01332313"
     ],
     "enr": [
-      "2155123"
+      "2155124"
     ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-09-17",
-    "datumEnde": "2025-03-30",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-03",
+    "datumEnde": "2025-07-31",
     "datumErstmeldung": "2024-11-06",
-    "datumLetzteMeldung": "2024-11-06",
+    "datumLetzteMeldung": "2025-04-01",
     "grund": "Herstellerwechsel",
     "grundArt": "Produktionsproblem",
-    "bezeichnung": "Haloperidol-neuraxpharm Decanoat 50 mg/ml",
+    "bezeichnung": "Haloperidol-neuraxpharm Decanoat 100 mg/ml",
     "atcCode": "N05AD01",
     "wirkstoffe": "Haloperidoldecanoat",
     "krankenhausrelevant": false,
@@ -11426,19 +11153,19 @@
   },
   {
     "pzn": [
-      "01332313"
+      "04917391"
     ],
     "enr": [
-      "2155124"
+      "2155123"
     ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-07-03",
-    "datumEnde": "2025-03-30",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-17",
+    "datumEnde": "2025-07-31",
     "datumErstmeldung": "2024-11-06",
-    "datumLetzteMeldung": "2024-11-06",
+    "datumLetzteMeldung": "2025-04-01",
     "grund": "Herstellerwechsel",
     "grundArt": "Produktionsproblem",
-    "bezeichnung": "Haloperidol-neuraxpharm Decanoat 100 mg/ml",
+    "bezeichnung": "Haloperidol-neuraxpharm Decanoat 50 mg/ml",
     "atcCode": "N05AD01",
     "wirkstoffe": "Haloperidoldecanoat",
     "krankenhausrelevant": false,
@@ -11655,6 +11382,710 @@
   },
   {
     "pzn": [
+      "09294612"
+    ],
+    "enr": [
+      "2184348"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 300 mg Filmtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09294629"
+    ],
+    "enr": [
+      "2184348"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 300 mg Filmtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09294523"
+    ],
+    "enr": [
+      "2184345"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 100 mg Filmtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09294546"
+    ],
+    "enr": [
+      "2184345"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 100 mg Filmtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09294492"
+    ],
+    "enr": [
+      "2184344"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 25 mg Filmtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09294500"
+    ],
+    "enr": [
+      "2184344"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 25 mg Filmtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09294517"
+    ],
+    "enr": [
+      "2184344"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 25 mg Filmtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09294546"
+    ],
+    "enr": [
+      "2184347"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 200 mg Filmtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09294569"
+    ],
+    "enr": [
+      "2184347"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 200 mg Filmtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09294598"
+    ],
+    "enr": [
+      "2184347"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 200 mg Filmtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11146072"
+    ],
+    "enr": [
+      "2190556"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-10-31",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 400 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11146008"
+    ],
+    "enr": [
+      "2190555"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-10-31",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11146014"
+    ],
+    "enr": [
+      "2190555"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-10-31",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11146020"
+    ],
+    "enr": [
+      "2190555"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-10-31",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11145977"
+    ],
+    "enr": [
+      "2190554"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-10-31",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11145983"
+    ],
+    "enr": [
+      "2190554"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-10-31",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11146008"
+    ],
+    "enr": [
+      "2190554"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-10-31",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11145954"
+    ],
+    "enr": [
+      "2190553"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-10-31",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 150 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11145960"
+    ],
+    "enr": [
+      "2190553"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-10-31",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 150 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11145919"
+    ],
+    "enr": [
+      "2190552"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-20",
+    "datumEnde": "2025-10-31",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 50 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11145925"
+    ],
+    "enr": [
+      "2190552"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-20",
+    "datumEnde": "2025-10-31",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 50 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11145931"
+    ],
+    "enr": [
+      "2190552"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-20",
+    "datumEnde": "2025-10-31",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 50 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16536292"
+    ],
+    "enr": [
+      "2205901"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-11-06",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-03-31",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 600 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16536300"
+    ],
+    "enr": [
+      "2205901"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-11-06",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-03-31",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 600 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16536317"
+    ],
+    "enr": [
+      "2205901"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-11-06",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-03-31",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 600 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09947126"
+    ],
+    "enr": [
+      "2195202"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-12-14",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-03-31",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09947149"
+    ],
+    "enr": [
+      "2195202"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-12-14",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-03-31",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09947155"
+    ],
+    "enr": [
+      "2195202"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-12-14",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-03-31",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin - 1 A Pharma 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09637644"
+    ],
+    "enr": [
+      "2190548"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-12-18",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-03-31",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 150 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09637650"
+    ],
+    "enr": [
+      "2190548"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-12-18",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-03-31",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 150 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09637667"
+    ],
+    "enr": [
+      "2190548"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-12-18",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-02-03",
+    "datumLetzteMeldung": "2025-03-31",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin HEXAL 150 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "09283554"
     ],
     "enr": [
@@ -11833,75 +12264,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "ratiopharm GmbH",
     "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09294546"
-    ],
-    "enr": [
-      "2184347"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-03-20",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 200 mg Filmtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09294569"
-    ],
-    "enr": [
-      "2184347"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-03-20",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 200 mg Filmtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09294598"
-    ],
-    "enr": [
-      "2184347"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-03-20",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 200 mg Filmtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -12210,167 +12572,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
     "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09294523"
-    ],
-    "enr": [
-      "2184345"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 100 mg Filmtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09294546"
-    ],
-    "enr": [
-      "2184345"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 100 mg Filmtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09294612"
-    ],
-    "enr": [
-      "2184348"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 300 mg Filmtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09294629"
-    ],
-    "enr": [
-      "2184348"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 300 mg Filmtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09294492"
-    ],
-    "enr": [
-      "2184344"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 25 mg Filmtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09294500"
-    ],
-    "enr": [
-      "2184344"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 25 mg Filmtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09294517"
-    ],
-    "enr": [
-      "2184344"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-02-27",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 25 mg Filmtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -13407,72 +13608,6 @@
   },
   {
     "pzn": [
-      "09637644"
-    ],
-    "enr": [
-      "2190548"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-12-18",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-03",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin HEXAL 150 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09637650"
-    ],
-    "enr": [
-      "2190548"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-12-18",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-03",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin HEXAL 150 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09637667"
-    ],
-    "enr": [
-      "2190548"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-12-18",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-03",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin HEXAL 150 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "09637609"
     ],
     "enr": [
@@ -13557,72 +13692,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16536292"
-    ],
-    "enr": [
-      "2205901"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-06",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-03",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin - 1 A Pharma 600 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16536300"
-    ],
-    "enr": [
-      "2205901"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-06",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-03",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin - 1 A Pharma 600 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16536317"
-    ],
-    "enr": [
-      "2205901"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-06",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-03",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin - 1 A Pharma 600 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -13794,72 +13863,6 @@
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Quetiapin - 1 A Pharma 300 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09947126"
-    ],
-    "enr": [
-      "2195202"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-12-14",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-03",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin - 1 A Pharma 200 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09947149"
-    ],
-    "enr": [
-      "2195202"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-12-14",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-03",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin - 1 A Pharma 200 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09947155"
-    ],
-    "enr": [
-      "2195202"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-12-14",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-02-03",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin - 1 A Pharma 200 mg Retardtabletten",
     "atcCode": "N05AH04",
     "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
@@ -14203,282 +14206,6 @@
   },
   {
     "pzn": [
-      "11145977"
-    ],
-    "enr": [
-      "2190554"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-06-10",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-01-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 200 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11145983"
-    ],
-    "enr": [
-      "2190554"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-06-10",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-01-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 200 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11146008"
-    ],
-    "enr": [
-      "2190554"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-06-10",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-01-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 200 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11146072"
-    ],
-    "enr": [
-      "2190556"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-06-10",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-01-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 400 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11146008"
-    ],
-    "enr": [
-      "2190555"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-06-10",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-01-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 300 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11146014"
-    ],
-    "enr": [
-      "2190555"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-06-10",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-01-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 300 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11146020"
-    ],
-    "enr": [
-      "2190555"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-06-10",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-01-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 300 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11145954"
-    ],
-    "enr": [
-      "2190553"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-01-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 150 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11145960"
-    ],
-    "enr": [
-      "2190553"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-01-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 150 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11145919"
-    ],
-    "enr": [
-      "2190552"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-20",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-01-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 50 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11145925"
-    ],
-    "enr": [
-      "2190552"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-20",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-01-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 50 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11145931"
-    ],
-    "enr": [
-      "2190552"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-20",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-01-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 50 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04787876"
     ],
     "enr": [
@@ -14793,6 +14520,29 @@
   },
   {
     "pzn": [
+      "18302351"
+    ],
+    "enr": [
+      "7000417"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-10",
+    "datumEnde": "2025-05-16",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-04-01",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Paliperidon Advanz Pharma 25 mg Depot-Injektionssuspension in einer Fertigspritze",
+    "atcCode": "N05AX13",
+    "wirkstoffe": "Paliperidonpalmitat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Advanz Pharma Limited",
+    "mail": "fzimmermann@productlife-group.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Paliperidon Advanz Pharma 50 mg Depot-Injektionssuspension in einer Fertigspritze - Einreichungsnummer: 7000418"
+  },
+  {
+    "pzn": [
       "18302397"
     ],
     "enr": [
@@ -14800,9 +14550,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-09",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-04-18",
     "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-03-23",
+    "datumLetzteMeldung": "2025-04-01",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Paliperidon Advanz Pharma 150 mg Depot-Injektionssuspension in einer Fertigspritze",
@@ -14859,29 +14609,6 @@
     "telefon": "0217310600",
     "mail": "info@neuraxpharm.de",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "18302351"
-    ],
-    "enr": [
-      "7000417"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-10",
-    "datumEnde": "2025-04-11",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-01-28",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Paliperidon Advanz Pharma 25 mg Depot-Injektionssuspension in einer Fertigspritze",
-    "atcCode": "N05AX13",
-    "wirkstoffe": "Paliperidonpalmitat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Advanz Pharma Limited",
-    "mail": "fzimmermann@productlife-group.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Paliperidon Advanz Pharma 50 mg Depot-Injektionssuspension in einer Fertigspritze - Einreichungsnummer: 7000418"
   },
   {
     "pzn": [
@@ -15223,6 +14950,218 @@
     "telefon": "049217310600",
     "mail": "info@neuraxpharm.de",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03669287"
+    ],
+    "enr": [
+      "2165611"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-05",
+    "datumEnde": "2025-06-06",
+    "datumErstmeldung": "2025-04-05",
+    "datumLetzteMeldung": "2025-04-05",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Sertralin Aurobindo 50 mg Filmtabletten",
+    "atcCode": "N06AB06",
+    "wirkstoffe": "Sertralinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "gbicer@puren-pharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Sertralin Aurobindo 50 mg Filmtabletten - Einreichungsnummer: 2165611"
+  },
+  {
+    "pzn": [
+      "11175961"
+    ],
+    "enr": [
+      "2196398"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-05",
+    "datumEnde": "2025-06-05",
+    "datumErstmeldung": "2025-04-05",
+    "datumLetzteMeldung": "2025-04-05",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin PUREN 60 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "GBICER@puren-pharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Duloxetin PUREN 60 mg magensaftresistente Hartkapseln - Einreichungsnummer: 2196398"
+  },
+  {
+    "pzn": [
+      "11175990"
+    ],
+    "enr": [
+      "2196397"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-05",
+    "datumEnde": "2025-06-06",
+    "datumErstmeldung": "2025-04-05",
+    "datumLetzteMeldung": "2025-04-05",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin PUREN 40 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "gbicer@puren-pharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Duloxetin PUREN 40 mg magensaftresistente Hartkapseln - Einreichungsnummer: 2196397"
+  },
+  {
+    "pzn": [
+      "11373431"
+    ],
+    "enr": [
+      "2193590"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-05",
+    "datumEnde": "2025-06-06",
+    "datumErstmeldung": "2025-04-05",
+    "datumLetzteMeldung": "2025-04-05",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Aurobindo 60 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "gbicer@puren-pharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Duloxetin PUREN 60 mg magensaftresistente Hartkapseln - Einreichungsnummer: 2196398"
+  },
+  {
+    "pzn": [
+      "11373454"
+    ],
+    "enr": [
+      "2193590"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-05",
+    "datumEnde": "2025-06-06",
+    "datumErstmeldung": "2025-04-05",
+    "datumLetzteMeldung": "2025-04-05",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Aurobindo 60 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "gbicer@puren-pharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Duloxetin PUREN 60 mg magensaftresistente Hartkapseln - Einreichungsnummer: 2196398"
+  },
+  {
+    "pzn": [
+      "11373425"
+    ],
+    "enr": [
+      "2193589"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-05",
+    "datumEnde": "2025-06-05",
+    "datumErstmeldung": "2025-04-05",
+    "datumLetzteMeldung": "2025-04-05",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Duloxetin Aurobindo 40 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "telefon": "(0) 89 558 909 - 143",
+    "mail": "gbicer@puren-pharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Duloxetin Aurobindo 40 mg magensaftresistente Hartkapseln - Einreichungsnummer: 2193589"
+  },
+  {
+    "pzn": [
+      "11373371"
+    ],
+    "enr": [
+      "2193588"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-05",
+    "datumEnde": "2025-07-15",
+    "datumErstmeldung": "2025-04-05",
+    "datumLetzteMeldung": "2025-04-05",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Erhöhte Verkäufe",
+    "bezeichnung": "Duloxetin Aurobindo 30 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "telefon": "(0) 89 558 909 - 143",
+    "mail": "gbicer@puren-pharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Duloxetin Aurobindo 30 mg magensaftresistente Hartkapseln - Einreichungsnummer: 2193588"
+  },
+  {
+    "pzn": [
+      "11373365"
+    ],
+    "enr": [
+      "2193587"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-05",
+    "datumEnde": "2025-06-02",
+    "datumErstmeldung": "2025-04-05",
+    "datumLetzteMeldung": "2025-04-05",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Erhöhte Verkäufe",
+    "bezeichnung": "Duloxetin Aurobindo 20 mg magensaftresistente Hartkapseln",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "telefon": "089/558909-143",
+    "mail": "gbicer@puren-pharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Duloxetin Aurobindo 20 mg magensaftresistente Hartkapseln - Einreichungsnummer: 2193587"
+  },
+  {
+    "pzn": [
+      "10744670"
+    ],
+    "enr": [
+      "2712096"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-01",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-04-04",
+    "datumLetzteMeldung": "2025-04-04",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Die Lilly Deutschland GmbH stellt die Vermarktung von Duloxetin Lilly ein und verkauft gegenwärtig die Lagerbestände ab.  Das Arzneimittel Duloxetin Lilly 60mg, 98 Kapseln ist nicht mehr verfügbar und wird zum 15. Mai in der Lauer-Taxe AV gesetzt.",
+    "bezeichnung": "Duloxetin Lilly 60 mg magensaftresistente Hartkapseln - OP98",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Eli Lilly Nederland B.V.",
+    "telefon": "06172 2732222",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -15668,6 +15607,390 @@
   },
   {
     "pzn": [
+      "12405038"
+    ],
+    "enr": [
+      "2188328"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-03",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-03",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidathydrochlorid - 1 A Pharma 54 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "12405021"
+    ],
+    "enr": [
+      "2188327"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-26",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-03",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidathydrochlorid - 1 A Pharma 36 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "12405009"
+    ],
+    "enr": [
+      "2188326"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-12-02",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-03",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidathydrochlorid - 1 A Pharma 18 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03944026"
+    ],
+    "enr": [
+      "2157583"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-25",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2024-03-26",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "METHYLPHENI TAD 20 mg Tabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TAD Pharma GmbH",
+    "mail": "thomas.morgenster@tad.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03943624"
+    ],
+    "enr": [
+      "2157582"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-25",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2024-03-26",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "METHYLPHENI TAD 10 mg Tabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TAD Pharma GmbH",
+    "mail": "thomas.morgenstern@tad.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03943630"
+    ],
+    "enr": [
+      "2157582"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-25",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2024-03-26",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "METHYLPHENI TAD 10 mg Tabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TAD Pharma GmbH",
+    "mail": "thomas.morgenstern@tad.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03943647"
+    ],
+    "enr": [
+      "2157582"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-25",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2024-03-26",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "METHYLPHENI TAD 10 mg Tabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TAD Pharma GmbH",
+    "mail": "thomas.morgenstern@tad.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03943618"
+    ],
+    "enr": [
+      "2157581"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-25",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2024-03-26",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "METHYLPHENI TAD 5 mg Tabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TAD Pharma GmbH",
+    "mail": "thomas.morgenstern@tad.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17395646"
+    ],
+    "enr": [
+      "7002498"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-24",
+    "datumEnde": "2025-05-16",
+    "datumErstmeldung": "2025-03-17",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Equasym Retard 40 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
+    "telefon": "+49 800 825 3325",
+    "mail": "MedinfoEMEA@takeda.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Equasym retard 20 mg Hartkapseln mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2164004"
+  },
+  {
+    "pzn": [
+      "10067152"
+    ],
+    "enr": [
+      "2189789"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-01",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-04-01",
+    "datumLetzteMeldung": "2025-04-01",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidathydrochlorid-neuraxpharm 54 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17412221"
+    ],
+    "enr": [
+      "2189789"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-01",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-04-01",
+    "datumLetzteMeldung": "2025-04-01",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidathydrochlorid-neuraxpharm 54 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17412296"
+    ],
+    "enr": [
+      "2189789"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-01",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-04-01",
+    "datumLetzteMeldung": "2025-04-01",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidathydrochlorid-neuraxpharm 54 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17305494"
+    ],
+    "enr": [
+      "2204114"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-04-01",
+    "datumLetzteMeldung": "2025-04-01",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Metiphenal 30 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17305502"
+    ],
+    "enr": [
+      "2204114"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-04-01",
+    "datumLetzteMeldung": "2025-04-01",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Metiphenal 30 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17305442"
+    ],
+    "enr": [
+      "2204113"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-04-01",
+    "datumLetzteMeldung": "2025-04-01",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Metiphenal 20 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17305459"
+    ],
+    "enr": [
+      "2204113"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-04-01",
+    "datumLetzteMeldung": "2025-04-01",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Metiphenal 20 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17305465"
+    ],
+    "enr": [
+      "2204113"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-03-01",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-04-01",
+    "datumLetzteMeldung": "2025-04-01",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Metiphenal 20 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "14167407"
     ],
     "enr": [
@@ -15968,30 +16291,6 @@
   },
   {
     "pzn": [
-      "17395646"
-    ],
-    "enr": [
-      "7002498"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-03-24",
-    "datumEnde": "2025-04-11",
-    "datumErstmeldung": "2025-03-17",
-    "datumLetzteMeldung": "2025-03-17",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Equasym Retard 40 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
-    "telefon": "+49 800 825 3325",
-    "mail": "MedinfoEMEA@takeda.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Equasym retard 20 mg Hartkapseln mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2164004"
-  },
-  {
-    "pzn": [
       "02842068"
     ],
     "enr": [
@@ -16084,116 +16383,6 @@
     "zulassungsinhaber": "JANSSEN-CILAG GmbH",
     "telefon": "+49 2137 - 955 - 2288?",
     "mail": "QS-DE@its.jnj.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03943618"
-    ],
-    "enr": [
-      "2157581"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-25",
-    "datumEnde": "2025-04-15",
-    "datumErstmeldung": "2024-03-26",
-    "datumLetzteMeldung": "2025-03-04",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "METHYLPHENI TAD 5 mg Tabletten",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "TAD Pharma GmbH",
-    "mail": "thomas.morgenstern@tad.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03944026"
-    ],
-    "enr": [
-      "2157583"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-25",
-    "datumEnde": "2025-04-15",
-    "datumErstmeldung": "2024-03-26",
-    "datumLetzteMeldung": "2025-03-04",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "METHYLPHENI TAD 20 mg Tabletten",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "TAD Pharma GmbH",
-    "mail": "thomas.morgenster@tad.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03943624"
-    ],
-    "enr": [
-      "2157582"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-25",
-    "datumEnde": "2025-04-15",
-    "datumErstmeldung": "2024-03-26",
-    "datumLetzteMeldung": "2025-03-04",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "METHYLPHENI TAD 10 mg Tabletten",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "TAD Pharma GmbH",
-    "mail": "thomas.morgenstern@tad.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03943630"
-    ],
-    "enr": [
-      "2157582"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-25",
-    "datumEnde": "2025-04-15",
-    "datumErstmeldung": "2024-03-26",
-    "datumLetzteMeldung": "2025-03-04",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "METHYLPHENI TAD 10 mg Tabletten",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "TAD Pharma GmbH",
-    "mail": "thomas.morgenstern@tad.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03943647"
-    ],
-    "enr": [
-      "2157582"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-25",
-    "datumEnde": "2025-04-15",
-    "datumErstmeldung": "2024-03-26",
-    "datumLetzteMeldung": "2025-03-04",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "METHYLPHENI TAD 10 mg Tabletten",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "TAD Pharma GmbH",
-    "mail": "thomas.morgenstern@tad.de",
     "infoFachkreise": "Nein"
   },
   {
@@ -18233,6 +18422,29 @@
   },
   {
     "pzn": [
+      "04134476"
+    ],
+    "enr": [
+      "2186361"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-05",
+    "datumEnde": "2025-07-05",
+    "datumErstmeldung": "2025-04-05",
+    "datumLetzteMeldung": "2025-04-05",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Rivastigmin Aurobindo 6 mg Hartkapseln",
+    "atcCode": "N06DA03",
+    "wirkstoffe": "Rivastigminhydrogentartrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "gbicer@puren-pharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Rivastigmin Aurobindo 6 mg Hartkapseln - Einreichungsnummer: 2186361"
+  },
+  {
+    "pzn": [
       "06195401"
     ],
     "enr": [
@@ -19195,6 +19407,29 @@
   },
   {
     "pzn": [
+      "10142043"
+    ],
+    "enr": [
+      "2188172"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-05",
+    "datumEnde": "2025-06-05",
+    "datumErstmeldung": "2025-04-05",
+    "datumLetzteMeldung": "2025-04-05",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Memantin Aurobindo 20 mg Filmtabletten",
+    "atcCode": "N06DX01",
+    "wirkstoffe": "Memantinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "mail": "gbicer@puren-pharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Memantin Aurobindo 20 mg Filmtabletten - Einreichungsnummer: 2188172"
+  },
+  {
+    "pzn": [
       "00143024"
     ],
     "enr": [
@@ -19242,29 +19477,6 @@
     "telefon": "06915036724",
     "mail": "udo.meyer@merz.de",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "05458525"
-    ],
-    "enr": [
-      "3000611"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-12-30",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-13",
-    "datumLetzteMeldung": "2025-01-13",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Kalymin 10 N",
-    "atcCode": "N07AA02",
-    "wirkstoffe": "Pyridostigminbromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -19687,9 +19899,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-01",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-04-30",
     "datumErstmeldung": "2025-01-10",
-    "datumLetzteMeldung": "2025-02-26",
+    "datumLetzteMeldung": "2025-04-01",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Fluticason Cipla 250 Mikrogramm/Sprühstoß Druckgasinhalation, Suspension",
@@ -19773,17 +19985,17 @@
   },
   {
     "pzn": [
-      "02498613"
+      "02498636"
     ],
     "enr": [
-      "2102411"
+      "2102131"
     ],
     "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-06-13",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-06-12",
-    "datumLetzteMeldung": "2024-12-19",
-    "grund": "Probleme in der Herstellung",
+    "datumBeginn": "2024-12-05",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-12-06",
+    "datumLetzteMeldung": "2025-04-03",
+    "grund": "Probleme bei der Endfreigabe",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Gentamicin-POS",
     "atcCode": "S01AA11",
@@ -19796,17 +20008,17 @@
   },
   {
     "pzn": [
-      "02498636"
+      "02498613"
     ],
     "enr": [
-      "2102131"
+      "2102411"
     ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-12-05",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-12-06",
-    "datumLetzteMeldung": "2024-12-06",
-    "grund": "Probleme bei der Endfreigabe",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-06-13",
+    "datumEnde": "2025-04-30",
+    "datumErstmeldung": "2024-06-12",
+    "datumLetzteMeldung": "2024-12-19",
+    "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Gentamicin-POS",
     "atcCode": "S01AA11",
@@ -19848,14 +20060,60 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-17",
-    "datumEnde": "2025-04-30",
+    "datumEnde": "2025-06-30",
     "datumErstmeldung": "2024-06-17",
-    "datumLetzteMeldung": "2025-01-03",
+    "datumLetzteMeldung": "2025-03-31",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Virupos",
     "atcCode": "S01AD03",
     "wirkstoffe": "Aciclovir",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04806964"
+    ],
+    "enr": [
+      "2186298"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2024-05-09",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-31",
+    "datumLetzteMeldung": "2025-03-31",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Hydrocortison-POS N 2,5 %",
+    "atcCode": "S01BA02",
+    "wirkstoffe": "Hydrocortisonacetat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00165209"
+    ],
+    "enr": [
+      "2157937"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-11-21",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-01-03",
+    "datumLetzteMeldung": "2025-03-31",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Predni-POS 1 %",
+    "atcCode": "S01BA04",
+    "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
     "telefon": "068059292188",
@@ -19910,29 +20168,6 @@
   },
   {
     "pzn": [
-      "00165209"
-    ],
-    "enr": [
-      "2157937"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-21",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-03",
-    "datumLetzteMeldung": "2025-01-03",
-    "grund": "Probleme bei der Endfreigabe",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Predni-POS 1 %",
-    "atcCode": "S01BA04",
-    "wirkstoffe": "Prednisolonacetat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "07590714"
     ],
     "enr": [
@@ -19940,9 +20175,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-08-22",
-    "datumEnde": "2025-03-31",
+    "datumEnde": "2025-06-30",
     "datumErstmeldung": "2024-08-22",
-    "datumLetzteMeldung": "2025-01-03",
+    "datumLetzteMeldung": "2025-03-31",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Fluoropos",
@@ -19971,29 +20206,6 @@
     "bezeichnung": "Dexa-Gentamicin",
     "atcCode": "S01CA01",
     "wirkstoffe": "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.); Gentamicinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03083251"
-    ],
-    "enr": [
-      "2106472"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-02-20",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-02-21",
-    "datumLetzteMeldung": "2025-02-03",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Dexa-Gentamicin",
-    "atcCode": "S01CA01",
-    "wirkstoffe": "Dexamethason; Gentamicinsulfat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
     "telefon": "068059292188",
@@ -20047,147 +20259,6 @@
   },
   {
     "pzn": [
-      "03524525"
-    ],
-    "enr": [
-      "3000312"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-21",
-    "datumEnde": "2025-04-11",
-    "datumErstmeldung": "2025-02-25",
-    "datumLetzteMeldung": "2025-03-21",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxytetracyclin-Prednisolon-Augensalbe JENAPHARM",
-    "atcCode": "S01CA02",
-    "wirkstoffe": "Oxytetracyclinhydrochlorid; Prednisolon",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
-    "mail": "nicole.duerrschmidt@dermapharm.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01084648"
-    ],
-    "enr": [
-      "0309602"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-11-01",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-11-01",
-    "datumLetzteMeldung": "2024-12-03",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Es steht kein Alternativpräparat bzw. eine Kompensation zur Verfügung. Bei der Erstmeldung wurde versehentlich das Produkt mit Lieferengpass unter Alternativpräparat angegeben. Eine nachträgliche Löschung dieses Feldes im Zuge einer Änderungsmeldung ist systemseitig nicht möglich.",
-    "bezeichnung": "Miochol-E Pulver und Lösungsmittel zur Herstellung einer Instillationslösung zur intraokularen Anwendung",
-    "atcCode": "S01EB09",
-    "wirkstoffe": "Acetylcholinchlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "telefon": "0800  090 94 90 94",
-    "mail": "pharma.kundenservice@bausch.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Miochol-E Pulver und Lösungsmittel zur Herstellung einer Instillationslösung zur intraokularen Anwendung - Einreichungsnummer: 0309602"
-  },
-  {
-    "pzn": [
-      "05460172"
-    ],
-    "enr": [
-      "2130661"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-21",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-08-21",
-    "datumLetzteMeldung": "2025-02-28",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Timo-COMOD 0,1%",
-    "atcCode": "S01ED01",
-    "wirkstoffe": "Timololmaleat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Timo-COMOD 0,1% - Einreichungsnummer: 2130661"
-  },
-  {
-    "pzn": [
-      "06894814"
-    ],
-    "enr": [
-      "2130661"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-21",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-08-21",
-    "datumLetzteMeldung": "2025-02-28",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Timo-COMOD 0,1%",
-    "atcCode": "S01ED01",
-    "wirkstoffe": "Timololmaleat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Timo-COMOD 0,1% - Einreichungsnummer: 2130661"
-  },
-  {
-    "pzn": [
-      "04828598"
-    ],
-    "enr": [
-      "2128699"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-01",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-06-07",
-    "datumLetzteMeldung": "2024-09-25",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Tim-Ophtal 0.1%",
-    "atcCode": "S01ED01",
-    "wirkstoffe": "Timololmaleat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "telefon": "+49 173 7934131",
-    "mail": "Pharma.Kundenservice@bausch.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04828606"
-    ],
-    "enr": [
-      "2128699"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-01",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2024-06-07",
-    "datumLetzteMeldung": "2024-09-25",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Tim-Ophtal 0.1%",
-    "atcCode": "S01ED01",
-    "wirkstoffe": "Timololmaleat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "telefon": "+49 173 7934131",
-    "mail": "Pharma.Kundenservice@bausch.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03204424"
     ],
     "enr": [
@@ -20235,29 +20306,6 @@
   },
   {
     "pzn": [
-      "05520023"
-    ],
-    "enr": [
-      "1464144"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-01",
-    "datumEnde": "2025-04-21",
-    "datumErstmeldung": "2025-01-20",
-    "datumLetzteMeldung": "2025-02-25",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Mydriaticum Stulln UD",
-    "atcCode": "S01FA06",
-    "wirkstoffe": "Tropicamid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Pharma Stulln GmbH",
-    "telefon": "094353008440",
-    "mail": "cornelius@pharmastulln.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "05520052"
     ],
     "enr": [
@@ -20267,7 +20315,7 @@
     "datumBeginn": "2025-01-01",
     "datumEnde": "2025-04-21",
     "datumErstmeldung": "2025-01-20",
-    "datumLetzteMeldung": "2025-02-25",
+    "datumLetzteMeldung": "2025-03-31",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Mydriaticum Stulln UD",
@@ -20290,7 +20338,7 @@
     "datumBeginn": "2025-01-01",
     "datumEnde": "2025-04-21",
     "datumErstmeldung": "2025-01-20",
-    "datumLetzteMeldung": "2025-02-25",
+    "datumLetzteMeldung": "2025-03-31",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Mydriaticum Stulln UD",
@@ -20313,7 +20361,7 @@
     "datumBeginn": "2025-01-01",
     "datumEnde": "2025-04-21",
     "datumErstmeldung": "2025-01-20",
-    "datumLetzteMeldung": "2025-02-25",
+    "datumLetzteMeldung": "2025-03-31",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Mydriaticum Stulln UD",
@@ -20334,9 +20382,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-01",
-    "datumEnde": "2025-04-01",
+    "datumEnde": "2025-06-15",
     "datumErstmeldung": "2025-01-20",
-    "datumLetzteMeldung": "2025-03-13",
+    "datumLetzteMeldung": "2025-04-04",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Mydriaticum Stulln",
@@ -20347,30 +20395,6 @@
     "telefon": "09435/3008-440",
     "mail": "cornelius@pharmastulln.de",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00748106"
-    ],
-    "enr": [
-      "0608486"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-12-13",
-    "datumEnde": "2025-03-31",
-    "datumErstmeldung": "2025-01-03",
-    "datumLetzteMeldung": "2025-01-03",
-    "grund": "Probleme bei der Endfreigabe",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Neosynephrin-POS 10%",
-    "atcCode": "S01FB01",
-    "wirkstoffe": "Phenylephrinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Neosynephrin-POS 10% - Einreichungsnummer: 0608486"
   },
   {
     "pzn": [
@@ -20583,29 +20607,6 @@
   },
   {
     "pzn": [
-      "05116859"
-    ],
-    "enr": [
-      "2164876"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-10",
-    "datumEnde": "2025-04-01",
-    "datumErstmeldung": "2025-02-21",
-    "datumLetzteMeldung": "2025-02-21",
-    "grund": "Probleme bei der Endfreigabe",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Protaminsulfat LEO Pharma 1400 Heparin-Antidot I.E./ml Injektionslösung und Infusionslösung",
-    "atcCode": "V03AB14",
-    "wirkstoffe": "Protaminsulfat ((mit Angaben zur Herstellung und zum Schwefelsäure-Gehalt))",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Leo Pharma A/S HR-Beiname: Leo Pharmaceutical Products Ltd. A/S",
-    "mail": "regulatory_affairs_de@leo-pharma.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Protamin ME 1000 I.E./ml - Einreichungsnummer: 0037368"
-  },
-  {
-    "pzn": [
       "06912400"
     ],
     "enr": [
@@ -20728,79 +20729,7 @@
     "datumBeginn": "2024-01-01",
     "datumEnde": "2025-11-01",
     "datumErstmeldung": "2024-04-23",
-    "datumLetzteMeldung": "2025-03-18",
-    "grund": "Herstellerwechsel",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Der Hersteller hat geschlossen.",
-    "bezeichnung": "Calciumfolinat onkovis 10 mg/ml Injektionslösung",
-    "atcCode": "V03AF03",
-    "wirkstoffe": "Calciumfolinat-Hydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Onkovis GmbH",
-    "telefon": "088568308467",
-    "mail": "christina.hergemoeller@onkovis.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06415506"
-    ],
-    "enr": [
-      "2170338"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-01",
-    "datumEnde": "2025-11-01",
-    "datumErstmeldung": "2024-04-23",
-    "datumLetzteMeldung": "2025-03-18",
-    "grund": "Herstellerwechsel",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Der Hersteller hat geschlossen.",
-    "bezeichnung": "Calciumfolinat onkovis 10 mg/ml Injektionslösung",
-    "atcCode": "V03AF03",
-    "wirkstoffe": "Calciumfolinat-Hydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Onkovis GmbH",
-    "telefon": "088568308467",
-    "mail": "christina.hergemoeller@onkovis.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06415512"
-    ],
-    "enr": [
-      "2170338"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-01",
-    "datumEnde": "2025-11-01",
-    "datumErstmeldung": "2024-04-23",
-    "datumLetzteMeldung": "2025-03-18",
-    "grund": "Herstellerwechsel",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Der Hersteller hat geschlossen.",
-    "bezeichnung": "Calciumfolinat onkovis 10 mg/ml Injektionslösung",
-    "atcCode": "V03AF03",
-    "wirkstoffe": "Calciumfolinat-Hydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Onkovis GmbH",
-    "telefon": "088568308467",
-    "mail": "christina.hergemoeller@onkovis.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06415529"
-    ],
-    "enr": [
-      "2170338"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-01",
-    "datumEnde": "2025-11-01",
-    "datumErstmeldung": "2024-04-23",
-    "datumLetzteMeldung": "2025-03-18",
+    "datumLetzteMeldung": "2025-04-04",
     "grund": "Herstellerwechsel",
     "grundArt": "Produktionsproblem",
     "grundAnmerkung": "Der Hersteller hat geschlossen.",
