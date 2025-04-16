@@ -442,54 +442,6 @@
   },
   {
     "pzn": [
-      "02364404"
-    ],
-    "enr": [
-      "2702455"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-04-02",
-    "datumEnde": "2025-04-23",
-    "datumErstmeldung": "2025-03-31",
-    "datumLetzteMeldung": "2025-03-31",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Erhöhte Nachfragre",
-    "bezeichnung": "EMEND 125 mg Hartkapsel und EMEND 80 mg Hartkapsel - OP(1+2)",
-    "atcCode": "A04AD12",
-    "wirkstoffe": "Aprepitant",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Merck Sharp & Dohme B.V.",
-    "telefon": "08945611873",
-    "mail": "anton.dimopoulos@msd.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02364367"
-    ],
-    "enr": [
-      "2702451"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-27",
-    "datumEnde": "2025-04-11",
-    "datumErstmeldung": "2025-02-25",
-    "datumLetzteMeldung": "2025-03-31",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Erhöhte Nachfrage",
-    "bezeichnung": "EMEND 80 mg Hartkapseln - OP2",
-    "atcCode": "A04AD12",
-    "wirkstoffe": "Aprepitant",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Merck Sharp & Dohme B.V.",
-    "telefon": "08945611873",
-    "mail": "anton.dimopoulos@msd.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "16237170"
     ],
     "enr": [
@@ -3526,6 +3478,52 @@
   },
   {
     "pzn": [
+      "03954993"
+    ],
+    "enr": [
+      "2184545"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-02",
+    "datumEnde": "2025-05-16",
+    "datumErstmeldung": "2025-01-14",
+    "datumLetzteMeldung": "2025-04-15",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednicarbat acis Lösung",
+    "atcCode": "D07AC18",
+    "wirkstoffe": "Prednicarbat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "089 44 23 246 0",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03955018"
+    ],
+    "enr": [
+      "2184545"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-02",
+    "datumEnde": "2025-05-16",
+    "datumErstmeldung": "2025-01-14",
+    "datumLetzteMeldung": "2025-04-15",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Prednicarbat acis Lösung",
+    "atcCode": "D07AC18",
+    "wirkstoffe": "Prednicarbat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "089 44 23 246 0",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "07608986"
     ],
     "enr": [
@@ -3569,30 +3567,6 @@
     "telefon": "08964186198",
     "mail": "elisabeth.rueckert@dermapharm.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03954993"
-    ],
-    "enr": [
-      "2184545"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-02",
-    "datumEnde": "2025-05-09",
-    "datumErstmeldung": "2025-01-14",
-    "datumLetzteMeldung": "2025-04-01",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Prednicarbat acis Lösung",
-    "atcCode": "D07AC18",
-    "wirkstoffe": "Prednicarbat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "acis Arzneimittel GmbH",
-    "telefon": "089 44 23 246 0",
-    "mail": "Medwiss.Acis@dermapharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Prednicarbat acis Lösung - Einreichungsnummer: 2184545"
   },
   {
     "pzn": [
@@ -8686,28 +8660,6 @@
     "bezeichnung": "Palladon 2,6 mg Hartkapseln",
     "atcCode": "N02AA03",
     "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03930426"
-    ],
-    "enr": [
-      "2156594"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-27",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2025-02-28",
-    "datumLetzteMeldung": "2025-02-28",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxygesic 5 mg",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
     "mail": "medinfo@mundipharma.de",
@@ -20404,6 +20356,28 @@
     "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
     "mail": "Quality.Berlin@bausch.com",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03524525"
+    ],
+    "enr": [
+      "3000312"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-14",
+    "datumEnde": "2025-05-16",
+    "datumErstmeldung": "2025-04-15",
+    "datumLetzteMeldung": "2025-04-15",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxytetracyclin-Prednisolon-Augensalbe JENAPHARM",
+    "atcCode": "S01CA02",
+    "wirkstoffe": "Oxytetracyclinhydrochlorid; Prednisolon",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "mail": "VL.mibe.Lieferengpass-Extern@dermapharm.com",
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
