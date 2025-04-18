@@ -1072,6 +1072,28 @@
   },
   {
     "pzn": [
+      "00557027"
+    ],
+    "enr": [
+      "2132903"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-17",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-17",
+    "datumLetzteMeldung": "2025-04-17",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Dobutamin Liquid Fresenius 250 mg/50 ml Infusionslösung",
+    "atcCode": "C01CA07",
+    "wirkstoffe": "Dobutaminhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+    "mail": "Anfragen_Generics_Fluids@fresenius-kabi.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "15896166"
     ],
     "enr": [
@@ -1686,11 +1708,11 @@
     "enr": [
       "0618622"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-03-30",
-    "datumEnde": "2025-04-20",
+    "datumEnde": "2025-05-30",
     "datumErstmeldung": "2025-04-01",
-    "datumLetzteMeldung": "2025-04-01",
+    "datumLetzteMeldung": "2025-04-17",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Aldactone 25",
@@ -3995,6 +4017,52 @@
   },
   {
     "pzn": [
+      "14358389"
+    ],
+    "enr": [
+      "2201385"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-01",
+    "datumEnde": "2025-05-06",
+    "datumErstmeldung": "2025-02-12",
+    "datumLetzteMeldung": "2025-04-17",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Solifenacin Succinat Zentiva 10 mg Filmtabletten",
+    "atcCode": "G04BD08",
+    "wirkstoffe": "Solifenacinsuccinat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Zentiva Pharma GmbH",
+    "telefon": "0800 53 53 010",
+    "mail": "MedInfo.DE@zentiva.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14358403"
+    ],
+    "enr": [
+      "2201385"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-01",
+    "datumEnde": "2025-05-06",
+    "datumErstmeldung": "2025-02-12",
+    "datumLetzteMeldung": "2025-04-17",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Solifenacin Succinat Zentiva 10 mg Filmtabletten",
+    "atcCode": "G04BD08",
+    "wirkstoffe": "Solifenacinsuccinat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Zentiva Pharma GmbH",
+    "telefon": "0800 53 53 010",
+    "mail": "MedInfo.DE@zentiva.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "15378922"
     ],
     "enr": [
@@ -4086,75 +4154,6 @@
     "mail": "gbicer@puren-pharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Solifenacinsuccinat Aurobindo 5 mg Filmtabletten - Einreichungsnummer: 2198518"
-  },
-  {
-    "pzn": [
-      "14358372"
-    ],
-    "enr": [
-      "2201385"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-01",
-    "datumEnde": "2025-04-14",
-    "datumErstmeldung": "2025-02-12",
-    "datumLetzteMeldung": "2025-02-12",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Solifenacin Succinat Zentiva 10 mg Filmtabletten",
-    "atcCode": "G04BD08",
-    "wirkstoffe": "Solifenacinsuccinat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Zentiva Pharma GmbH",
-    "telefon": "0800 53 53 010",
-    "mail": "MedInfo.DE@zentiva.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14358389"
-    ],
-    "enr": [
-      "2201385"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-01",
-    "datumEnde": "2025-04-14",
-    "datumErstmeldung": "2025-02-12",
-    "datumLetzteMeldung": "2025-02-12",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Solifenacin Succinat Zentiva 10 mg Filmtabletten",
-    "atcCode": "G04BD08",
-    "wirkstoffe": "Solifenacinsuccinat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Zentiva Pharma GmbH",
-    "telefon": "0800 53 53 010",
-    "mail": "MedInfo.DE@zentiva.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14358403"
-    ],
-    "enr": [
-      "2201385"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-01",
-    "datumEnde": "2025-04-14",
-    "datumErstmeldung": "2025-02-12",
-    "datumLetzteMeldung": "2025-02-12",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Solifenacin Succinat Zentiva 10 mg Filmtabletten",
-    "atcCode": "G04BD08",
-    "wirkstoffe": "Solifenacinsuccinat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Zentiva Pharma GmbH",
-    "telefon": "0800 53 53 010",
-    "mail": "MedInfo.DE@zentiva.com",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -6185,6 +6184,30 @@
   },
   {
     "pzn": [
+      "03827272"
+    ],
+    "enr": [
+      "0193128"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-09",
+    "datumEnde": "2025-05-09",
+    "datumErstmeldung": "2025-01-21",
+    "datumLetzteMeldung": "2025-04-17",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "deutlich erhöhte Abverkäufe",
+    "bezeichnung": "EMB-FATOL 100 mg",
+    "atcCode": "J04AK02",
+    "wirkstoffe": "Ethambutoldihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "mail": "mratzlaff@esteve.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "EMB-FATOL 100 mg - Einreichungsnummer: 0193128"
+  },
+  {
+    "pzn": [
       "03827289"
     ],
     "enr": [
@@ -6229,30 +6252,6 @@
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "EMB-FATOL 500 mg - Einreichungsnummer: 0193039"
-  },
-  {
-    "pzn": [
-      "03827272"
-    ],
-    "enr": [
-      "0193128"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-01-09",
-    "datumEnde": "2025-04-18",
-    "datumErstmeldung": "2025-01-21",
-    "datumLetzteMeldung": "2025-01-21",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "deutlich erhöhte Abverkäufe",
-    "bezeichnung": "EMB-FATOL 100 mg",
-    "atcCode": "J04AK02",
-    "wirkstoffe": "Ethambutoldihydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
-    "mail": "mratzlaff@esteve.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "EMB-FATOL 100 mg - Einreichungsnummer: 0193128"
   },
   {
     "pzn": [
@@ -9255,28 +9254,6 @@
   },
   {
     "pzn": [
-      "04855023"
-    ],
-    "enr": [
-      "0390567"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-12-18",
-    "datumEnde": "2025-05-15",
-    "datumErstmeldung": "2024-12-21",
-    "datumLetzteMeldung": "2025-03-06",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Octadon P",
-    "atcCode": "N02BE51",
-    "wirkstoffe": "Coffein; Paracetamol",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "mail": "ra-octadon@cheplapharm.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "09947190"
     ],
     "enr": [
@@ -10024,138 +10001,6 @@
     "mail": "info@1apharma.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Valproat - 1 A Pharma 500 mg Retardtabletten - Einreichungsnummer: 2164972"
-  },
-  {
-    "pzn": [
-      "05510993"
-    ],
-    "enr": [
-      "2161976"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-11",
-    "datumEnde": "2025-04-14",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-04-04",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Lamotrigin Aristo 200 mg Tabletten zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "N03AX09",
-    "wirkstoffe": "Lamotrigin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05511001"
-    ],
-    "enr": [
-      "2161976"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-11",
-    "datumEnde": "2025-04-14",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-04-04",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Lamotrigin Aristo 200 mg Tabletten zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "N03AX09",
-    "wirkstoffe": "Lamotrigin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05511018"
-    ],
-    "enr": [
-      "2161976"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-11",
-    "datumEnde": "2025-04-14",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-04-04",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Lamotrigin Aristo 200 mg Tabletten zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "N03AX09",
-    "wirkstoffe": "Lamotrigin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05510906"
-    ],
-    "enr": [
-      "2161973"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-11",
-    "datumEnde": "2025-04-14",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-31",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Lamotrigin Aristo 25 mg Tabletten zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "N03AX09",
-    "wirkstoffe": "Lamotrigin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05510912"
-    ],
-    "enr": [
-      "2161973"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-11",
-    "datumEnde": "2025-04-14",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-31",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Lamotrigin Aristo 25 mg Tabletten zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "N03AX09",
-    "wirkstoffe": "Lamotrigin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "05510929"
-    ],
-    "enr": [
-      "2161973"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-11",
-    "datumEnde": "2025-04-14",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-31",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Lamotrigin Aristo 25 mg Tabletten zur Herstellung einer Suspension zum Einnehmen",
-    "atcCode": "N03AX09",
-    "wirkstoffe": "Lamotrigin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aristo Pharma GmbH",
-    "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -11230,6 +11075,56 @@
     "zulassungsinhaber": "Cheplapharm Registration GmbH",
     "mail": "iva.gjolli@the-force.org",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04174725"
+    ],
+    "enr": [
+      "2170563"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-10",
+    "datumEnde": "2025-07-31",
+    "datumErstmeldung": "2025-02-12",
+    "datumLetzteMeldung": "2025-04-17",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "increased demand; Exceptional increase of demand due to out of stock of competitors",
+    "bezeichnung": "Seroquel Prolong 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+    "telefon": "+49 3834 451 0",
+    "mail": "RA-Seroquel@cheplapharm.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Seroquel Prolong 400 mg Retardtabletten - Einreichungsnummer: 2170564"
+  },
+  {
+    "pzn": [
+      "04174783"
+    ],
+    "enr": [
+      "2170563"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-10",
+    "datumEnde": "2025-07-31",
+    "datumErstmeldung": "2025-02-12",
+    "datumLetzteMeldung": "2025-04-17",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "increased demand; Exceptional increase of demand due to out of stock of competitors",
+    "bezeichnung": "Seroquel Prolong 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+    "telefon": "+49 3834 451 0",
+    "mail": "RA-Seroquel@cheplapharm.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Seroquel Prolong 400 mg Retardtabletten - Einreichungsnummer: 2170564"
   },
   {
     "pzn": [
@@ -12954,31 +12849,6 @@
     "mail": "RA-Seroquel@cheplapharm.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Seroquel Prolong 50 mg Retardtabletten - Einreichungsnummer: 2170561"
-  },
-  {
-    "pzn": [
-      "04174783"
-    ],
-    "enr": [
-      "2170563"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-10",
-    "datumEnde": "2025-07-31",
-    "datumErstmeldung": "2025-02-12",
-    "datumLetzteMeldung": "2025-02-12",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "increased demand; Exceptional increase of demand due to out of stock of competitors",
-    "bezeichnung": "Seroquel Prolong 300 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "telefon": "+49 3834 451 0",
-    "mail": "RA-Seroquel@cheplapharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Seroquel Prolong 300 mg Retardtabletten - Einreichungsnummer: 2170563"
   },
   {
     "pzn": [
@@ -15711,6 +15581,30 @@
   },
   {
     "pzn": [
+      "17395646"
+    ],
+    "enr": [
+      "7002498"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-24",
+    "datumEnde": "2025-09-30",
+    "datumErstmeldung": "2025-03-17",
+    "datumLetzteMeldung": "2025-04-17",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Equasym Retard 40 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
+    "telefon": "+49 800 825 3325",
+    "mail": "MedinfoEMEA@takeda.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Equasym retard 20 mg Hartkapseln mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2164004"
+  },
+  {
+    "pzn": [
       "14167407"
     ],
     "enr": [
@@ -16018,30 +15912,6 @@
     "zulassungsinhaber": "TAD Pharma GmbH",
     "mail": "thomas.morgenstern@tad.de",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "17395646"
-    ],
-    "enr": [
-      "7002498"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-03-24",
-    "datumEnde": "2025-05-16",
-    "datumErstmeldung": "2025-03-17",
-    "datumLetzteMeldung": "2025-04-03",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Equasym Retard 40 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
-    "telefon": "+49 800 825 3325",
-    "mail": "MedinfoEMEA@takeda.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Equasym retard 20 mg Hartkapseln mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2164004"
   },
   {
     "pzn": [
@@ -19783,6 +19653,75 @@
   },
   {
     "pzn": [
+      "00674968"
+    ],
+    "enr": [
+      "2140393"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-17",
+    "datumEnde": "2025-05-16",
+    "datumErstmeldung": "2025-04-17",
+    "datumLetzteMeldung": "2025-04-17",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sultanol Dosier-Aerosol",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
+    "telefon": "0800 1223355",
+    "mail": "service.info@gsk.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07532964"
+    ],
+    "enr": [
+      "2140393"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-17",
+    "datumEnde": "2025-05-16",
+    "datumErstmeldung": "2025-04-17",
+    "datumLetzteMeldung": "2025-04-17",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sultanol Dosier-Aerosol",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
+    "telefon": "0800 1223355",
+    "mail": "service.info@gsk.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "07532970"
+    ],
+    "enr": [
+      "2140393"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-17",
+    "datumEnde": "2025-05-16",
+    "datumErstmeldung": "2025-04-17",
+    "datumLetzteMeldung": "2025-04-17",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sultanol Dosier-Aerosol",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "GlaxoSmithKline GmbH & Co. KG",
+    "telefon": "0800 1223355",
+    "mail": "service.info@gsk.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "07820775"
     ],
     "enr": [
@@ -20174,28 +20113,6 @@
   },
   {
     "pzn": [
-      "01405638"
-    ],
-    "enr": [
-      "2103816"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-20",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2023-11-28",
-    "datumLetzteMeldung": "2024-09-06",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Gent-Ophtal Augensalbe",
-    "atcCode": "S01AA20",
-    "wirkstoffe": "Gentamicinsulfat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "mail": "Quality.Berlin@bausch.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "07136323"
     ],
     "enr": [
@@ -20211,6 +20128,29 @@
     "bezeichnung": "Virupos",
     "atcCode": "S01AD03",
     "wirkstoffe": "Aciclovir",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04806958"
+    ],
+    "enr": [
+      "2186297"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-17",
+    "datumEnde": "2025-07-31",
+    "datumErstmeldung": "2025-04-17",
+    "datumLetzteMeldung": "2025-04-17",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Hydrocortison-POS N 1 %",
+    "atcCode": "S01BA02",
+    "wirkstoffe": "Hydrocortisonacetat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
     "telefon": "068059292188",
@@ -20467,6 +20407,29 @@
     "telefon": "030 330930",
     "mail": "pharma.kundenservice@bausch.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "05460172"
+    ],
+    "enr": [
+      "2130661"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-17",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-17",
+    "datumLetzteMeldung": "2025-04-17",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Timo-COMOD 0,1%",
+    "atcCode": "S01ED01",
+    "wirkstoffe": "Timololmaleat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
