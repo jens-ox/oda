@@ -3737,30 +3737,6 @@
   },
   {
     "pzn": [
-      "06577025"
-    ],
-    "enr": [
-      "2157578"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-01",
-    "datumEnde": "2025-05-04",
-    "datumErstmeldung": "2025-02-05",
-    "datumLetzteMeldung": "2025-04-04",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Hydrocutan Creme 1%",
-    "atcCode": "D07AA02",
-    "wirkstoffe": "Hydrocortison",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Hydrocutan Creme 1% - Einreichungsnummer: 2157578"
-  },
-  {
-    "pzn": [
       "02251924"
     ],
     "enr": [
@@ -4039,54 +4015,6 @@
     "mail": "elisabeth.rueckert@dermapharm.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Gentamicutan comp 0,64 mg/g + 1,67 mg/g Salbe - Einreichungsnummer: 2201415"
-  },
-  {
-    "pzn": [
-      "01430458"
-    ],
-    "enr": [
-      "2108270"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-25",
-    "datumEnde": "2025-05-18",
-    "datumErstmeldung": "2025-04-09",
-    "datumLetzteMeldung": "2025-04-09",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Soderm plus",
-    "atcCode": "D07XC01",
-    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Soderm plus - Einreichungsnummer: 2108270"
-  },
-  {
-    "pzn": [
-      "11293502"
-    ],
-    "enr": [
-      "2192533"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-03-14",
-    "datumEnde": "2025-05-11",
-    "datumErstmeldung": "2025-03-19",
-    "datumLetzteMeldung": "2025-04-02",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Soderm plus Lösung 0,64 mg/g + 20 mg/g Lösung zur Anwendung auf der Haut",
-    "atcCode": "D07XC01",
-    "wirkstoffe": "Betamethasondipropionat (Ph.Eur.); Salicylsäure",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Soderm plus Lösung 0,64 mg/g + 20 mg/g Lösung zur Anwendung auf der Haut - Einreichungsnummer: 2192533"
   },
   {
     "pzn": [
@@ -4902,6 +4830,54 @@
   },
   {
     "pzn": [
+      "01971378"
+    ],
+    "enr": [
+      "0091356"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-25",
+    "datumEnde": "2025-12-19",
+    "datumErstmeldung": "2025-04-28",
+    "datumLetzteMeldung": "2025-04-28",
+    "grund": "Herstellerwechsel",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "The current manufacturer Sanofi Srl has stopped the production. On 24 April 2025 we have submitted a worksharing type II variation (DE/H/xxxx/WS/2126) to introduce the new manufacturer. We have entered 19/12/2025 as shortage end date as worst case of variation approval.",
+    "bezeichnung": "Urbason 16 mg Tabletten",
+    "atcCode": "H02AB04",
+    "wirkstoffe": "Methylprednisolon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "FIDIA FARMACEUTICI SPA",
+    "mail": "regulatory@fidiapharma.it",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Urbason 16 mg Tabletten - Einreichungsnummer: 0091356"
+  },
+  {
+    "pzn": [
+      "02511414"
+    ],
+    "enr": [
+      "0091356"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-25",
+    "datumEnde": "2025-12-19",
+    "datumErstmeldung": "2025-04-28",
+    "datumLetzteMeldung": "2025-04-28",
+    "grund": "Herstellerwechsel",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "The current manufacturer Sanofi Srl has stopped the production. On 24 April 2025 we have submitted a worksharing type II variation (DE/H/xxxx/WS/2126) to introduce the new manufacturer. We have entered 19/12/2025 as shortage end date as worst case of variation approval.",
+    "bezeichnung": "Urbason 16 mg Tabletten",
+    "atcCode": "H02AB04",
+    "wirkstoffe": "Methylprednisolon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "FIDIA FARMACEUTICI SPA",
+    "mail": "regulatory@fidiapharma.it",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Urbason 16 mg Tabletten - Einreichungsnummer: 0091356"
+  },
+  {
+    "pzn": [
       "08424202"
     ],
     "enr": [
@@ -5323,6 +5299,30 @@
   },
   {
     "pzn": [
+      "01831708"
+    ],
+    "enr": [
+      "0156647"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-17",
+    "datumEnde": "2025-05-05",
+    "datumErstmeldung": "2024-12-09",
+    "datumLetzteMeldung": "2025-04-28",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "INFECTOCILLIN 400 Saft",
+    "atcCode": "J01CE02",
+    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+    "telefon": "06252/95-7000",
+    "mail": "shortages@infectopharm.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Infectocillin 500 Saft - Einreichungsnummer: 0149618"
+  },
+  {
+    "pzn": [
       "04257888"
     ],
     "enr": [
@@ -5480,54 +5480,6 @@
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01831708"
-    ],
-    "enr": [
-      "0156647"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-12-09",
-    "datumEnde": "2025-06-30",
-    "datumErstmeldung": "2024-12-09",
-    "datumLetzteMeldung": "2025-01-17",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOCILLIN 400 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Infectocillin 500 Saft - Einreichungsnummer: 0149618"
-  },
-  {
-    "pzn": [
-      "03124978"
-    ],
-    "enr": [
-      "0156647"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-12-09",
-    "datumEnde": "2025-06-30",
-    "datumErstmeldung": "2024-12-09",
-    "datumLetzteMeldung": "2025-01-17",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "INFECTOCILLIN 400 Saft",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
-    "telefon": "06252/95-7000",
-    "mail": "shortages@infectopharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Infectocillin 500 Saft - Einreichungsnummer: 0149618"
   },
   {
     "pzn": [
@@ -15849,6 +15801,30 @@
   },
   {
     "pzn": [
+      "17395652"
+    ],
+    "enr": [
+      "7002499"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-19",
+    "datumEnde": "2025-05-09",
+    "datumErstmeldung": "2025-03-17",
+    "datumLetzteMeldung": "2025-04-28",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Equasym Retard 50 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
+    "telefon": "+49 800 825 3325",
+    "mail": "medinfoEMEA@takeda.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Equasym retard 30 mg Hartkapseln mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2164005"
+  },
+  {
+    "pzn": [
       "03944026"
     ],
     "enr": [
@@ -16343,30 +16319,6 @@
     "telefon": "0733396510",
     "mail": "info@aliud.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17395652"
-    ],
-    "enr": [
-      "7002499"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-03-19",
-    "datumEnde": "2025-04-25",
-    "datumErstmeldung": "2025-03-17",
-    "datumLetzteMeldung": "2025-03-20",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Equasym Retard 50 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
-    "telefon": "+49 800 825 3325",
-    "mail": "medinfoEMEA@takeda.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Equasym retard 30 mg Hartkapseln mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2164005"
   },
   {
     "pzn": [
@@ -20886,30 +20838,6 @@
     "telefon": "+4921295301564",
     "mail": "ccreutz@productlife-group.com",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12392726"
-    ],
-    "enr": [
-      "2672745"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-03",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2025-03-07",
-    "datumLetzteMeldung": "2025-03-07",
-    "grund": "Probleme bei der Endfreigabe",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Die unabhängige Prüfung von 4 Chargen 500IU, die bereits in die EU in unser Lager importiert wurden, durch ein unabhängiges Labor in Irland verzögert sich massiv, so dass die PEI-Freigabe noch aussteht.",
-    "bezeichnung": "Coagadex",
-    "atcCode": "TERM_ID_NA_2090001243",
-    "wirkstoffe": "Blutgerinnungsfaktor X",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "BPL Bioproducts Laboratory GmbH",
-    "mail": "s.proske@kedrion.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Coagadex - Einreichungsnummer: 2672744"
   },
   {
     "pzn": [
