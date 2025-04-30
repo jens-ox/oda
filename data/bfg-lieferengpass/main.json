@@ -395,6 +395,29 @@
   },
   {
     "pzn": [
+      "15376834"
+    ],
+    "enr": [
+      "2200645"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-08-01",
+    "datumEnde": "2025-07-15",
+    "datumErstmeldung": "2025-02-11",
+    "datumLetzteMeldung": "2025-04-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Aprepitant AL 125 mg Hartkapseln",
+    "atcCode": "A04AD12",
+    "wirkstoffe": "Aprepitant",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "00221669"
     ],
     "enr": [
@@ -637,29 +660,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Aprepitant AL 80 mg Hartkapseln",
-    "atcCode": "A04AD12",
-    "wirkstoffe": "Aprepitant",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15376834"
-    ],
-    "enr": [
-      "2200645"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-08-01",
-    "datumEnde": "2025-05-02",
-    "datumErstmeldung": "2025-02-11",
-    "datumLetzteMeldung": "2025-02-11",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Aprepitant AL 125 mg Hartkapseln",
     "atcCode": "A04AD12",
     "wirkstoffe": "Aprepitant",
     "krankenhausrelevant": false,
@@ -1027,11 +1027,11 @@
     "enr": [
       "1441686"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-04-04",
-    "datumEnde": "2025-04-30",
+    "datumEnde": "2025-05-16",
     "datumErstmeldung": "2025-04-04",
-    "datumLetzteMeldung": "2025-04-04",
+    "datumLetzteMeldung": "2025-04-29",
     "grund": "Probleme beim Wirkstoffhersteller",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Eingeschränkte Lieferfähigkeit. Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
@@ -1789,7 +1789,7 @@
     "atcCode": "C03DA01",
     "wirkstoffe": "Spironolacton",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "aragoncillo@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aldactone 25 - Einreichungsnummer: 0618622"
@@ -1812,7 +1812,7 @@
     "atcCode": "C03DA01",
     "wirkstoffe": "Spironolacton",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aldactone 50 - Einreichungsnummer: 0618645"
@@ -4058,7 +4058,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -4081,7 +4081,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -4104,7 +4104,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -4830,6 +4830,102 @@
   },
   {
     "pzn": [
+      "01646632"
+    ],
+    "enr": [
+      "0085746"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-14",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-04-29",
+    "datumLetzteMeldung": "2025-04-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "The current reason of shortage is an increase of sales due to shortage of competitor. Furthermore, for next batches to be manufactured and released, we are working on the switch from current finish product manufacturer to a new one.",
+    "bezeichnung": "Urbason solubile forte 250 mg",
+    "atcCode": "H02AB04",
+    "wirkstoffe": "Natrium(methylprednisolon-21-succinat)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "FIDIA FARMACEUTICI SPA",
+    "mail": "regulatory@fidiapharma.it",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Urbason solubile forte 250 mg - Einreichungsnummer: 0085746"
+  },
+  {
+    "pzn": [
+      "01693991"
+    ],
+    "enr": [
+      "0085717"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-31",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-03-28",
+    "datumLetzteMeldung": "2025-04-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "We have an increase of sales due to shortage of competitor",
+    "bezeichnung": "Urbason solubile forte 1000 mg",
+    "atcCode": "H02AB04",
+    "wirkstoffe": "Natrium(methylprednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "FIDIA FARMACEUTICI SPA",
+    "mail": "regulatory@fidiapharma.it",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Methylprednisolon acis 1000 mg Pulver und Lösungsmittel zur Herstellung einer Injektions- bzw. Infusionslösung - Einreichungsnummer: 2189739"
+  },
+  {
+    "pzn": [
+      "04807745"
+    ],
+    "enr": [
+      "0085717"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-31",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-03-28",
+    "datumLetzteMeldung": "2025-04-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "We have an increase of sales due to shortage of competitor",
+    "bezeichnung": "Urbason solubile forte 1000 mg",
+    "atcCode": "H02AB04",
+    "wirkstoffe": "Natrium(methylprednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "FIDIA FARMACEUTICI SPA",
+    "mail": "regulatory@fidiapharma.it",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Methylprednisolon acis 1000 mg Pulver und Lösungsmittel zur Herstellung einer Injektions- bzw. Infusionslösung - Einreichungsnummer: 2189739"
+  },
+  {
+    "pzn": [
+      "09221292"
+    ],
+    "enr": [
+      "0085717"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-31",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-03-28",
+    "datumLetzteMeldung": "2025-04-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "We have an increase of sales due to shortage of competitor",
+    "bezeichnung": "Urbason solubile forte 1000 mg",
+    "atcCode": "H02AB04",
+    "wirkstoffe": "Natrium(methylprednisolon-21-succinat)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "FIDIA FARMACEUTICI SPA",
+    "mail": "regulatory@fidiapharma.it",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Methylprednisolon acis 1000 mg Pulver und Lösungsmittel zur Herstellung einer Injektions- bzw. Infusionslösung - Einreichungsnummer: 2189739"
+  },
+  {
+    "pzn": [
       "01971378"
     ],
     "enr": [
@@ -4894,59 +4990,11 @@
     "atcCode": "H02AB04",
     "wirkstoffe": "Methylprednisolon",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Methylprednisolon 8mg JENAPHARM - Einreichungsnummer: 2132488"
-  },
-  {
-    "pzn": [
-      "04807745"
-    ],
-    "enr": [
-      "0085717"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-31",
-    "datumEnde": "2025-06-27",
-    "datumErstmeldung": "2025-03-28",
-    "datumLetzteMeldung": "2025-03-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "We have an increase of sales due to shortage of competitor",
-    "bezeichnung": "Urbason solubile forte 1000 mg",
-    "atcCode": "H02AB04",
-    "wirkstoffe": "Natrium(methylprednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "FIDIA FARMACEUTICI SPA",
-    "mail": "regulatory@fidiapharma.it",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Urbason solubile forte 1000 mg - Einreichungsnummer: 0085717"
-  },
-  {
-    "pzn": [
-      "09221292"
-    ],
-    "enr": [
-      "0085717"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-31",
-    "datumEnde": "2025-06-27",
-    "datumErstmeldung": "2025-03-28",
-    "datumLetzteMeldung": "2025-03-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "We have an increase of sales due to shortage of competitor",
-    "bezeichnung": "Urbason solubile forte 1000 mg",
-    "atcCode": "H02AB04",
-    "wirkstoffe": "Natrium(methylprednisolon-21-succinat)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "FIDIA FARMACEUTICI SPA",
-    "mail": "regulatory@fidiapharma.it",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Urbason solubile forte 1000 mg - Einreichungsnummer: 0085717"
   },
   {
     "pzn": [
@@ -5215,9 +5263,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-05-01",
-    "datumEnde": "2025-05-01",
+    "datumEnde": "2025-07-15",
     "datumErstmeldung": "2024-05-15",
-    "datumLetzteMeldung": "2025-03-26",
+    "datumLetzteMeldung": "2025-04-29",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Amoxicillin AL TS",
@@ -5238,9 +5286,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-05-01",
-    "datumEnde": "2025-05-01",
+    "datumEnde": "2025-07-15",
     "datumErstmeldung": "2024-05-15",
-    "datumLetzteMeldung": "2025-03-26",
+    "datumLetzteMeldung": "2025-04-29",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Amoxicillin AL TS",
@@ -5261,9 +5309,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-05-01",
-    "datumEnde": "2025-05-01",
+    "datumEnde": "2025-07-15",
     "datumErstmeldung": "2024-05-15",
-    "datumLetzteMeldung": "2025-03-26",
+    "datumLetzteMeldung": "2025-04-29",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Amoxicillin AL TS",
@@ -5693,6 +5741,29 @@
   },
   {
     "pzn": [
+      "01805013"
+    ],
+    "enr": [
+      "2162932"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-01",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-04-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin AL 500 mg Filmtabletten",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "00101310"
     ],
     "enr": [
@@ -5759,29 +5830,6 @@
   },
   {
     "pzn": [
-      "01805013"
-    ],
-    "enr": [
-      "2162932"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-01",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2025-03-25",
-    "datumLetzteMeldung": "2025-03-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin AL 500 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03738232"
     ],
     "enr": [
@@ -5835,9 +5883,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-31",
-    "datumEnde": "2025-04-30",
+    "datumEnde": "2025-05-28",
     "datumErstmeldung": "2024-12-06",
-    "datumLetzteMeldung": "2025-02-18",
+    "datumLetzteMeldung": "2025-04-29",
     "grund": "Herstellerwechsel",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "TOBI Podhaler 28 mg Hartkapseln mit Pulver zur Inhalation - OP224(4x56)",
@@ -5934,7 +5982,7 @@
     "atcCode": "J01MA14",
     "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
     "telefon": "069962339020",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
@@ -6487,7 +6535,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin-Natrium",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "aragoncillo@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Eremfat i.v. 300mg - Einreichungsnummer: 2106370"
@@ -6511,7 +6559,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "EMB-FATOL 100 mg - Einreichungsnummer: 0193128"
@@ -6535,7 +6583,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "EMB-FATOL 400 mg - Einreichungsnummer: 0196641"
@@ -8192,9 +8240,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-01",
-    "datumEnde": "2025-04-30",
+    "datumEnde": "2025-05-22",
     "datumErstmeldung": "2024-09-18",
-    "datumLetzteMeldung": "2025-03-18",
+    "datumLetzteMeldung": "2025-04-29",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Acemetacin STADA 60 mg Hartkapseln",
@@ -8215,9 +8263,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-01",
-    "datumEnde": "2025-04-30",
+    "datumEnde": "2025-05-22",
     "datumErstmeldung": "2024-09-18",
-    "datumLetzteMeldung": "2025-03-18",
+    "datumLetzteMeldung": "2025-04-29",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Acemetacin STADA 60 mg Hartkapseln",
@@ -8238,9 +8286,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-01",
-    "datumEnde": "2025-04-30",
+    "datumEnde": "2025-05-22",
     "datumErstmeldung": "2024-09-18",
-    "datumLetzteMeldung": "2025-03-18",
+    "datumLetzteMeldung": "2025-04-29",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Acemetacin STADA 60 mg Hartkapseln",
@@ -8601,7 +8649,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "VL.mibe.Lieferengpass-Extern@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -8623,7 +8671,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "VL.mibe.Lieferengpass-Extern@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -8645,7 +8693,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -14602,6 +14650,52 @@
   },
   {
     "pzn": [
+      "03295007"
+    ],
+    "enr": [
+      "2103121"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-10-31",
+    "datumEnde": "2025-07-15",
+    "datumErstmeldung": "2024-11-05",
+    "datumLetzteMeldung": "2025-04-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxazepam AL 10",
+    "atcCode": "N05BA04",
+    "wirkstoffe": "Oxazepam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03295013"
+    ],
+    "enr": [
+      "2103121"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-10-31",
+    "datumEnde": "2025-07-15",
+    "datumErstmeldung": "2024-11-05",
+    "datumLetzteMeldung": "2025-04-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Oxazepam AL 10",
+    "atcCode": "N05BA04",
+    "wirkstoffe": "Oxazepam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "02422225"
     ],
     "enr": [
@@ -14715,52 +14809,6 @@
   },
   {
     "pzn": [
-      "03295007"
-    ],
-    "enr": [
-      "2103121"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-10-31",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-11-05",
-    "datumLetzteMeldung": "2025-01-15",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxazepam AL 10",
-    "atcCode": "N05BA04",
-    "wirkstoffe": "Oxazepam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03295013"
-    ],
-    "enr": [
-      "2103121"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-10-31",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-11-05",
-    "datumLetzteMeldung": "2025-01-15",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxazepam AL 10",
-    "atcCode": "N05BA04",
-    "wirkstoffe": "Oxazepam",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03565582"
     ],
     "enr": [
@@ -14824,7 +14872,7 @@
     "atcCode": "N06AA04",
     "wirkstoffe": "Clomipraminhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Anafranil 75 mg retard - Einreichungsnummer: 2129687"
@@ -18094,7 +18142,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18117,7 +18165,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18140,7 +18188,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18163,7 +18211,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18186,7 +18234,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -18208,7 +18256,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -19757,6 +19805,98 @@
   },
   {
     "pzn": [
+      "00168739"
+    ],
+    "enr": [
+      "2141160"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-24",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-04-29",
+    "datumLetzteMeldung": "2025-04-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Salbutamol AL Inhalat",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00168745"
+    ],
+    "enr": [
+      "2141160"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-24",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-04-29",
+    "datumLetzteMeldung": "2025-04-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Salbutamol AL Inhalat",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00168751"
+    ],
+    "enr": [
+      "2141160"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-24",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-04-29",
+    "datumLetzteMeldung": "2025-04-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Salbutamol AL Inhalat",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "13893399"
+    ],
+    "enr": [
+      "2141160"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-24",
+    "datumEnde": "2025-05-15",
+    "datumErstmeldung": "2025-04-29",
+    "datumLetzteMeldung": "2025-04-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Salbutamol AL Inhalat",
+    "atcCode": "R03AC02",
+    "wirkstoffe": "Salbutamolsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "00674968"
     ],
     "enr": [
@@ -20084,9 +20224,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-01",
-    "datumEnde": "2025-04-30",
+    "datumEnde": "2025-05-31",
     "datumErstmeldung": "2025-01-10",
-    "datumLetzteMeldung": "2025-04-01",
+    "datumLetzteMeldung": "2025-04-29",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Fluticason Cipla 250 Mikrogramm/Sprühstoß Druckgasinhalation, Suspension",
@@ -20325,7 +20465,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
