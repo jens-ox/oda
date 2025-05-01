@@ -764,39 +764,16 @@
   },
   {
     "pzn": [
-      "18229766"
-    ],
-    "enr": [
-      "7005734"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-05-31",
-    "datumEnde": "2026-01-01",
-    "datumErstmeldung": "2025-04-25",
-    "datumLetzteMeldung": "2025-04-25",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Kirsty 100 Einheiten/ml Injektionslösung im Fertigpen",
-    "atcCode": "A10AB05",
-    "wirkstoffe": "Insulin aspart",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
-    "mail": "nadia.cali@biocon.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Insulin aspart Sanofi - Einreichungsnummer: 2715150"
-  },
-  {
-    "pzn": [
       "18229743"
     ],
     "enr": [
       "7005733"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-05-31",
     "datumEnde": "2026-01-01",
     "datumErstmeldung": "2025-04-25",
-    "datumLetzteMeldung": "2025-04-25",
+    "datumLetzteMeldung": "2025-04-30",
     "grund": "Probleme beim Sonstigen Hersteller",
     "grundArt": "Sonstige",
     "bezeichnung": "Kirsty 100 Einheiten/ml Injektionslösung im Fertigpen",
@@ -806,7 +783,30 @@
     "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
     "mail": "nadia.cali@biocon.com",
     "infoFachkreise": "Nein",
-    "alternativPraeparat": "Insulin aspart Sanofi - Einreichungsnummer: 2715149"
+    "alternativPraeparat": "NovoRapid FlexPen 100 E/ml Injektionslösung in einem vorgefülltem Injektor - OP(5x3ml) - Einreichungsnummer: 2796500"
+  },
+  {
+    "pzn": [
+      "18229766"
+    ],
+    "enr": [
+      "7005734"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-05-31",
+    "datumEnde": "2026-01-01",
+    "datumErstmeldung": "2025-04-25",
+    "datumLetzteMeldung": "2025-04-30",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Kirsty 100 Einheiten/ml Injektionslösung im Fertigpen",
+    "atcCode": "A10AB05",
+    "wirkstoffe": "Insulin aspart",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
+    "mail": "nadia.cali@biocon.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "NovoRapid FlexPen 100 E/ml Injektionslösung in einem vorgefülltem Injektor - OP(10x3ml) - Einreichungsnummer: 2702319"
   },
   {
     "pzn": [
@@ -7127,6 +7127,52 @@
   },
   {
     "pzn": [
+      "11179195"
+    ],
+    "enr": [
+      "2189826"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-02",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2024-09-03",
+    "datumLetzteMeldung": "2025-04-30",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Etoposid Accord 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "L01CB01",
+    "wirkstoffe": "Etoposid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "benjamin_uthoff@accord-healthcare.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Etoposid Accord 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung - Einreichungsnummer: 2189826"
+  },
+  {
+    "pzn": [
+      "11179232"
+    ],
+    "enr": [
+      "2189826"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-02",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2024-09-03",
+    "datumLetzteMeldung": "2025-04-30",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Etoposid Accord 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "L01CB01",
+    "wirkstoffe": "Etoposid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "benjamin_uthoff@accord-healthcare.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Etoposid Accord 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung - Einreichungsnummer: 2189826"
+  },
+  {
+    "pzn": [
       "03724336"
     ],
     "enr": [
@@ -7195,119 +7241,6 @@
     "mail": "rui.araujo@ratiopharm.de",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Eto-Gry 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung - Einreichungsnummer: 2145891"
-  },
-  {
-    "pzn": [
-      "11179195"
-    ],
-    "enr": [
-      "2189826"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-02",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-09-03",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Etoposid Accord 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
-    "atcCode": "L01CB01",
-    "wirkstoffe": "Etoposid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Accord Healthcare B.V.",
-    "mail": "benjamin_uthoff@accord-healthcare.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Etoposid Accord 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung - Einreichungsnummer: 2189826"
-  },
-  {
-    "pzn": [
-      "11179226"
-    ],
-    "enr": [
-      "2189826"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-02",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-09-03",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Etoposid Accord 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
-    "atcCode": "L01CB01",
-    "wirkstoffe": "Etoposid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Accord Healthcare B.V.",
-    "mail": "benjamin_uthoff@accord-healthcare.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Etoposid Accord 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung - Einreichungsnummer: 2189826"
-  },
-  {
-    "pzn": [
-      "11179232"
-    ],
-    "enr": [
-      "2189826"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-02",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-09-03",
-    "datumLetzteMeldung": "2025-01-09",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Etoposid Accord 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
-    "atcCode": "L01CB01",
-    "wirkstoffe": "Etoposid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Accord Healthcare B.V.",
-    "mail": "benjamin_uthoff@accord-healthcare.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Etoposid Accord 20 mg/ml Konzentrat zur Herstellung einer Infusionslösung - Einreichungsnummer: 2189826"
-  },
-  {
-    "pzn": [
-      "00252463"
-    ],
-    "enr": [
-      "2175982"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-01",
-    "datumEnde": "2025-04-17",
-    "datumErstmeldung": "2024-12-12",
-    "datumLetzteMeldung": "2025-04-09",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Doxorubicin Accord 2 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
-    "atcCode": "L01DB01",
-    "wirkstoffe": "Doxorubicinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Accord Healthcare B.V.",
-    "mail": "martin_Anders@accord-healthcare.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00252486"
-    ],
-    "enr": [
-      "2175982"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-01",
-    "datumEnde": "2025-04-17",
-    "datumErstmeldung": "2024-12-12",
-    "datumLetzteMeldung": "2025-04-09",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Doxorubicin Accord 2 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
-    "atcCode": "L01DB01",
-    "wirkstoffe": "Doxorubicinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Accord Healthcare B.V.",
-    "mail": "martin_Anders@accord-healthcare.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -8930,6 +8863,28 @@
   },
   {
     "pzn": [
+      "09279251"
+    ],
+    "enr": [
+      "2159113"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-11",
+    "datumEnde": "2025-06-15",
+    "datumErstmeldung": "2025-02-12",
+    "datumLetzteMeldung": "2025-04-30",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Palladon 2,6 mg Hartkapseln",
+    "atcCode": "N02AA03",
+    "wirkstoffe": "Hydromorphonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "14256826"
     ],
     "enr": [
@@ -9136,28 +9091,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09279251"
-    ],
-    "enr": [
-      "2159113"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-11",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2025-02-12",
-    "datumLetzteMeldung": "2025-02-12",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Palladon 2,6 mg Hartkapseln",
-    "atcCode": "N02AA03",
-    "wirkstoffe": "Hydromorphonhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
-    "mail": "medinfo@mundipharma.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -10606,6 +10539,50 @@
     "telefon": "049217310600",
     "mail": "info@neuraxpharm.de",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "10072147"
+    ],
+    "enr": [
+      "2188723"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-28",
+    "datumEnde": "2025-05-16",
+    "datumErstmeldung": "2025-04-30",
+    "datumLetzteMeldung": "2025-04-30",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pramipexol-ratiopharm 0,26 mg Retardtabletten",
+    "atcCode": "N04BC05",
+    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17537508"
+    ],
+    "enr": [
+      "2188723"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-28",
+    "datumEnde": "2025-05-16",
+    "datumErstmeldung": "2025-04-30",
+    "datumLetzteMeldung": "2025-04-30",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pramipexol-ratiopharm 0,26 mg Retardtabletten",
+    "atcCode": "N04BC05",
+    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -14581,6 +14558,29 @@
   },
   {
     "pzn": [
+      "01871056"
+    ],
+    "enr": [
+      "7012398"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-03",
+    "datumEnde": "2025-08-31",
+    "datumErstmeldung": "2025-04-30",
+    "datumLetzteMeldung": "2025-04-30",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Niapelf",
+    "atcCode": "N05AX13",
+    "wirkstoffe": "Paliperidonpalmitat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Neuraxpharm Pharmaceuticals S.L.",
+    "telefon": "0217310600",
+    "mail": "info@neuraxpharm.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "18302351"
     ],
     "enr": [
@@ -14601,52 +14601,6 @@
     "mail": "fzimmermann@productlife-group.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Paliperidon Advanz Pharma 50 mg Depot-Injektionssuspension in einer Fertigspritze - Einreichungsnummer: 7000418"
-  },
-  {
-    "pzn": [
-      "01871062"
-    ],
-    "enr": [
-      "7012394"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-07",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2025-03-18",
-    "datumLetzteMeldung": "2025-03-18",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Niapelf",
-    "atcCode": "N05AX13",
-    "wirkstoffe": "Paliperidonpalmitat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Neuraxpharm Pharmaceuticals S.L.",
-    "telefon": "0217310600",
-    "mail": "info@neuraxpharm.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "01871085"
-    ],
-    "enr": [
-      "7012396"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-11-28",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2025-02-06",
-    "datumLetzteMeldung": "2025-03-18",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Niapelf",
-    "atcCode": "N05AX13",
-    "wirkstoffe": "Paliperidonpalmitat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Neuraxpharm Pharmaceuticals S.L.",
-    "telefon": "0217310600",
-    "mail": "info@neuraxpharm.de",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
