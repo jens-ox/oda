@@ -1022,6 +1022,30 @@
   },
   {
     "pzn": [
+      "03075375"
+    ],
+    "enr": [
+      "0385744"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-06",
+    "datumEnde": "2025-12-22",
+    "datumErstmeldung": "2025-05-06",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Eingeschränkte Lieferfähigkeit. Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
+    "bezeichnung": "Ferrlecit 62,5 mg",
+    "atcCode": "B03AC",
+    "wirkstoffe": "Eisen(III)-natrium-D-gluconat-hydroxid-oxid-Komplex (ca. 2:1:1:x:y)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "08005252010",
+    "mail": "medinfo.de@sanofi.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "03075346"
     ],
     "enr": [
@@ -1029,9 +1053,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-04-04",
-    "datumEnde": "2025-05-16",
+    "datumEnde": "2025-12-22",
     "datumErstmeldung": "2025-04-04",
-    "datumLetzteMeldung": "2025-04-29",
+    "datumLetzteMeldung": "2025-05-06",
     "grund": "Probleme beim Wirkstoffhersteller",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Eingeschränkte Lieferfähigkeit. Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
@@ -1608,29 +1632,6 @@
   },
   {
     "pzn": [
-      "03209410"
-    ],
-    "enr": [
-      "2101449"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-03-20",
-    "datumEnde": "2025-05-12",
-    "datumErstmeldung": "2025-03-13",
-    "datumLetzteMeldung": "2025-04-14",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Ebrantil 30mg",
-    "atcCode": "C02CA06",
-    "wirkstoffe": "Urapidil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "mail": "ra-urapidil@cheplapharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Ebrantil 60mg - Einreichungsnummer: 2107313"
-  },
-  {
-    "pzn": [
       "11510980"
     ],
     "enr": [
@@ -1810,7 +1811,7 @@
     "atcCode": "C03DA01",
     "wirkstoffe": "Spironolacton",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "aragoncillo@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aldactone 25 - Einreichungsnummer: 0618622"
@@ -1833,7 +1834,7 @@
     "atcCode": "C03DA01",
     "wirkstoffe": "Spironolacton",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aldactone 50 - Einreichungsnummer: 0618645"
@@ -4008,7 +4009,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -4031,7 +4032,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -4054,7 +4055,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -4914,7 +4915,7 @@
     "atcCode": "H02AB04",
     "wirkstoffe": "Methylprednisolon",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein",
@@ -4990,6 +4991,56 @@
     "zulassungsinhaber": "Alliance Pharma (Ireland) Limited",
     "mail": "arzneimittelsicherheit@alliancepharma.co.uk",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16036715"
+    ],
+    "enr": [
+      "2712191",
+      "7003896"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-14",
+    "datumEnde": "2025-07-15",
+    "datumErstmeldung": "2025-05-06",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cinacalcet Mylan 60 mg Filmtabletten - OP(28x1)",
+    "atcCode": "H05BX01",
+    "wirkstoffe": "Cinacalcethydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Pharmaceuticals Limited",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Cinacalcet Mylan 30 mg Filmtabletten - OP(28x1) - Einreichungsnummer: 2712187"
+  },
+  {
+    "pzn": [
+      "16036721"
+    ],
+    "enr": [
+      "2712191",
+      "7003896"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-14",
+    "datumEnde": "2025-07-15",
+    "datumErstmeldung": "2025-05-06",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cinacalcet Mylan 60 mg Filmtabletten - OP(28x1)",
+    "atcCode": "H05BX01",
+    "wirkstoffe": "Cinacalcethydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Pharmaceuticals Limited",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Cinacalcet Mylan 30 mg Filmtabletten - OP(28x1) - Einreichungsnummer: 2712187"
   },
   {
     "pzn": [
@@ -5595,6 +5646,29 @@
   },
   {
     "pzn": [
+      "03738232"
+    ],
+    "enr": [
+      "2162572"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-15",
+    "datumEnde": "2025-06-20",
+    "datumErstmeldung": "2024-07-22",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Azithromycin-ratiopharm 500 mg Filmtabletten",
+    "atcCode": "J01FA10",
+    "wirkstoffe": "Azithromycin-Dihydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Azithromycin-ratiopharm 500 mg Filmtabletten - Einreichungsnummer: 2162572"
+  },
+  {
+    "pzn": [
       "01805013"
     ],
     "enr": [
@@ -5681,29 +5755,6 @@
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03738232"
-    ],
-    "enr": [
-      "2162572"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-15",
-    "datumEnde": "2025-05-15",
-    "datumErstmeldung": "2024-07-22",
-    "datumLetzteMeldung": "2025-03-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin-ratiopharm 500 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Azithromycin-ratiopharm 500 mg Filmtabletten - Einreichungsnummer: 2162572"
   },
   {
     "pzn": [
@@ -5836,7 +5887,7 @@
     "atcCode": "J01MA14",
     "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
     "telefon": "069962339020",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
@@ -6389,10 +6440,34 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin-Natrium",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "aragoncillo@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Eremfat i.v. 300mg - Einreichungsnummer: 2106370"
+  },
+  {
+    "pzn": [
+      "02525669"
+    ],
+    "enr": [
+      "0193039"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-30",
+    "datumEnde": "2025-06-13",
+    "datumErstmeldung": "2025-05-06",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "higher Sales in previous months (3 times) possibly due to stock out 100er + Delay in Bulk production at CMO",
+    "bezeichnung": "EMB-FATOL 500 mg",
+    "atcCode": "J04AK02",
+    "wirkstoffe": "Ethambutoldihydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "telefon": "030338427413",
+    "mail": "mratzlaff@esteve.com",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -6413,7 +6488,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "EMB-FATOL 100 mg - Einreichungsnummer: 0193128"
@@ -6437,7 +6512,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "EMB-FATOL 400 mg - Einreichungsnummer: 0196641"
@@ -8435,7 +8510,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "VL.mibe.Lieferengpass-Extern@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -8457,7 +8532,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "VL.mibe.Lieferengpass-Extern@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -8479,7 +8554,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -9042,116 +9117,6 @@
   },
   {
     "pzn": [
-      "00262332"
-    ],
-    "enr": [
-      "2188454"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-04-21",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00262349"
-    ],
-    "enr": [
-      "2188454"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-04-21",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00266531"
-    ],
-    "enr": [
-      "2188454"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-04-21",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04407129"
-    ],
-    "enr": [
-      "2188454"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-04-21",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04407170"
-    ],
-    "enr": [
-      "2188454"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-04-21",
-    "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
-    "atcCode": "N02AE01",
-    "wirkstoffe": "Buprenorphin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "00267217"
     ],
     "enr": [
@@ -9159,9 +9124,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-04-22",
+    "datumEnde": "2025-10-30",
     "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-05-06",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
@@ -9181,9 +9146,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-04-22",
+    "datumEnde": "2025-10-30",
     "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-05-06",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
@@ -9203,9 +9168,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-03-14",
-    "datumEnde": "2025-04-22",
+    "datumEnde": "2025-10-30",
     "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-05-06",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
@@ -9218,41 +9183,129 @@
   },
   {
     "pzn": [
-      "07563539"
+      "00262332"
     ],
     "enr": [
-      "2188452"
+      "2188454"
     ],
     "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-03-13",
-    "datumEnde": "2025-04-21",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2025-10-30",
     "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-05-06",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin-ratiopharm 70 Mikrogramm/h Transdermales Pflaster",
+    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
     "atcCode": "N02AE01",
     "wirkstoffe": "Buprenorphin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
-      "07563551"
+      "00262349"
     ],
     "enr": [
-      "2188452"
+      "2188454"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2025-10-30",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00266531"
+    ],
+    "enr": [
+      "2188454"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2025-10-30",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04407129"
+    ],
+    "enr": [
+      "2188454"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2025-10-30",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04407170"
+    ],
+    "enr": [
+      "2188454"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-14",
+    "datumEnde": "2025-10-30",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@teva.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07563410"
+    ],
+    "enr": [
+      "2188450"
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-03-13",
-    "datumEnde": "2025-04-21",
+    "datumEnde": "2025-10-30",
     "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-05-06",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin-ratiopharm 70 Mikrogramm/h Transdermales Pflaster",
+    "bezeichnung": "Buprenorphin-ratiopharm 35 Mikrogramm/h Transdermales Pflaster",
     "atcCode": "N02AE01",
     "wirkstoffe": "Buprenorphin",
     "krankenhausrelevant": false,
@@ -9269,9 +9322,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-03-13",
-    "datumEnde": "2025-04-21",
+    "datumEnde": "2025-10-30",
     "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-05-06",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Buprenorphin-ratiopharm 52,5 Mikrogramm/h Transdermales Pflaster",
@@ -9291,9 +9344,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-03-13",
-    "datumEnde": "2025-04-21",
+    "datumEnde": "2025-10-30",
     "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-05-06",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Buprenorphin-ratiopharm 52,5 Mikrogramm/h Transdermales Pflaster",
@@ -9306,19 +9359,41 @@
   },
   {
     "pzn": [
-      "07563410"
+      "07563539"
     ],
     "enr": [
-      "2188450"
+      "2188452"
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-03-13",
-    "datumEnde": "2025-04-21",
+    "datumEnde": "2025-10-30",
     "datumErstmeldung": "2024-03-13",
-    "datumLetzteMeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-05-06",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
-    "bezeichnung": "Buprenorphin-ratiopharm 35 Mikrogramm/h Transdermales Pflaster",
+    "bezeichnung": "Buprenorphin-ratiopharm 70 Mikrogramm/h Transdermales Pflaster",
+    "atcCode": "N02AE01",
+    "wirkstoffe": "Buprenorphin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "07563551"
+    ],
+    "enr": [
+      "2188452"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-03-13",
+    "datumEnde": "2025-10-30",
+    "datumErstmeldung": "2024-03-13",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Buprenorphin-ratiopharm 70 Mikrogramm/h Transdermales Pflaster",
     "atcCode": "N02AE01",
     "wirkstoffe": "Buprenorphin",
     "krankenhausrelevant": false,
@@ -9752,72 +9827,6 @@
     "telefon": "0217310600",
     "mail": "info@neuraxpharm.de",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00695835"
-    ],
-    "enr": [
-      "0328812"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-29",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2025-01-29",
-    "datumLetzteMeldung": "2025-03-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Mylepsinum",
-    "atcCode": "N03AA03",
-    "wirkstoffe": "Primidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@Teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00695841"
-    ],
-    "enr": [
-      "0328812"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-29",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2025-01-29",
-    "datumLetzteMeldung": "2025-03-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Mylepsinum",
-    "atcCode": "N03AA03",
-    "wirkstoffe": "Primidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@Teva.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "04896430"
-    ],
-    "enr": [
-      "0328812"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-29",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2025-01-29",
-    "datumLetzteMeldung": "2025-03-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Mylepsinum",
-    "atcCode": "N03AA03",
-    "wirkstoffe": "Primidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEVA GmbH",
-    "mail": "info@Teva.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -14817,7 +14826,7 @@
     "atcCode": "N06AA04",
     "wirkstoffe": "Clomipraminhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Anafranil 75 mg retard - Einreichungsnummer: 2129687"
@@ -16904,6 +16913,116 @@
   },
   {
     "pzn": [
+      "14063872"
+    ],
+    "enr": [
+      "2201804"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-25",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2024-07-23",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14063889"
+    ],
+    "enr": [
+      "2201804"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-25",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2024-07-23",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18092942"
+    ],
+    "enr": [
+      "2201804"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-25",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2024-07-23",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18092959"
+    ],
+    "enr": [
+      "2201804"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-25",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2024-07-23",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17977785"
+    ],
+    "enr": [
+      "2201810"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-07-25",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2024-07-23",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Atomoxetin Heumann 100 mg Hartkapseln",
+    "atcCode": "N06BA09",
+    "wirkstoffe": "Atomoxetinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "14352493"
     ],
     "enr": [
@@ -17604,116 +17723,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Glenmark Pharmaceuticals s.r.o.",
     "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17977785"
-    ],
-    "enr": [
-      "2201810"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-25",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-07-23",
-    "datumLetzteMeldung": "2025-03-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Heumann 100 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14063872"
-    ],
-    "enr": [
-      "2201804"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-25",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-07-23",
-    "datumLetzteMeldung": "2025-03-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14063889"
-    ],
-    "enr": [
-      "2201804"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-25",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-07-23",
-    "datumLetzteMeldung": "2025-03-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "18092942"
-    ],
-    "enr": [
-      "2201804"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-25",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-07-23",
-    "datumLetzteMeldung": "2025-03-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "18092959"
-    ],
-    "enr": [
-      "2201804"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-25",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-07-23",
-    "datumLetzteMeldung": "2025-03-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -18461,7 +18470,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18484,7 +18493,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18507,7 +18516,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18530,7 +18539,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18553,7 +18562,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -18575,7 +18584,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -18601,6 +18610,204 @@
     "mail": "gbicer@puren-pharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Rivastigmin Aurobindo 6 mg Hartkapseln - Einreichungsnummer: 2186361"
+  },
+  {
+    "pzn": [
+      "09632842"
+    ],
+    "enr": [
+      "2193161"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09901590"
+    ],
+    "enr": [
+      "2193161"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10408908"
+    ],
+    "enr": [
+      "2193161"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06195016"
+    ],
+    "enr": [
+      "2193162"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09632859"
+    ],
+    "enr": [
+      "2193162"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09632871"
+    ],
+    "enr": [
+      "2193162"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06195401"
+    ],
+    "enr": [
+      "2193163"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09632888"
+    ],
+    "enr": [
+      "2193163"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09632902"
+    ],
+    "enr": [
+      "2193163"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-05-06",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -18799,204 +19006,6 @@
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "mail": "Service.De@glenmarkpharma.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06195401"
-    ],
-    "enr": [
-      "2193163"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-05-15",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09632888"
-    ],
-    "enr": [
-      "2193163"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-05-15",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09632902"
-    ],
-    "enr": [
-      "2193163"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-05-15",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06195016"
-    ],
-    "enr": [
-      "2193162"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-05-15",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09632859"
-    ],
-    "enr": [
-      "2193162"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-05-15",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09632871"
-    ],
-    "enr": [
-      "2193162"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-05-15",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09632842"
-    ],
-    "enr": [
-      "2193161"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-05-15",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09901590"
-    ],
-    "enr": [
-      "2193161"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-05-15",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "10408908"
-    ],
-    "enr": [
-      "2193161"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-05-15",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-03-27",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -20432,7 +20441,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
@@ -21501,103 +21510,6 @@
     "telefon": "+49 30 6293955 0",
     "mail": "alexander.helmke@humedics.de",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "00000000"
-    ],
-    "enr": [
-      "2128551"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-04-07",
-    "datumEnde": "2025-05-06",
-    "datumErstmeldung": "2025-04-16",
-    "datumLetzteMeldung": "2025-04-16",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Wartung Zyklotron",
-    "bezeichnung": "KryptoScan Generator DRN 3633",
-    "atcCode": "V09EX01",
-    "wirkstoffe": "Poly(styrol-co-divinylbenzol)sulfonsäure-(x:y)-((81)Rb)Rubidiumsalz",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Curium Netherlands B.V. HR-Beiname: Mallinckrodt Pharmaceuicals, Curium, Curiumpharma, Mallinckrodt Medical",
-    "telefon": "030800930570",
-    "mail": "customerservice.DE@curiumpharma.com",
-    "infoFachkreise": "Ja",
-    "alternativPraeparat": "Pulmotec Graphit - Tiegel zur Vorbereitung der Technegas-Inhalation - Einreichungsnummer: 2147298"
-  },
-  {
-    "pzn": [
-      "00000000"
-    ],
-    "enr": [
-      "2119013"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-04-09",
-    "datumEnde": "2025-05-06",
-    "datumErstmeldung": "2025-04-16",
-    "datumLetzteMeldung": "2025-04-16",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Wartung Zyklotron",
-    "bezeichnung": "Sodium Iodide (I 123) Injection DRN 5375",
-    "atcCode": "V09FX",
-    "wirkstoffe": "Natriumiodid ((123)I)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Curium Netherlands B.V. HR-Beiname: Mallinckrodt Pharmaceuicals, Curium, Curiumpharma, Mallinckrodt Medical",
-    "telefon": "030800930570",
-    "mail": "customerservice.DE@curiumpharma.com",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "00000000"
-    ],
-    "enr": [
-      "2119013"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-04-09",
-    "datumEnde": "2025-05-06",
-    "datumErstmeldung": "2025-04-16",
-    "datumLetzteMeldung": "2025-04-16",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Wartung Zyklotron",
-    "bezeichnung": "Sodium Iodide (I 123) Injection DRN 5375",
-    "atcCode": "V09FX",
-    "wirkstoffe": "Natriumiodid ((123)I)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Curium Netherlands B.V. HR-Beiname: Mallinckrodt Pharmaceuicals, Curium, Curiumpharma, Mallinckrodt Medical",
-    "telefon": "030800930570",
-    "mail": "customerservice.DE@curiumpharma.com",
-    "infoFachkreise": "Ja"
-  },
-  {
-    "pzn": [
-      "00000000"
-    ],
-    "enr": [
-      "2128548"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-04-09",
-    "datumEnde": "2025-05-06",
-    "datumErstmeldung": "2025-04-16",
-    "datumLetzteMeldung": "2025-04-16",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Wartung Zyklotron",
-    "bezeichnung": "MIBG (I123) Injection DRN 5379",
-    "atcCode": "V09FX, V09IX",
-    "wirkstoffe": "Iobenguan ((123)I)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Curium Netherlands B.V. HR-Beiname: Mallinckrodt Pharmaceuicals, Curium, Curiumpharma, Mallinckrodt Medical",
-    "telefon": "030800930570",
-    "mail": "customerservice.DE@curiumpharma.com",
-    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
