@@ -1811,7 +1811,7 @@
     "atcCode": "C03DA01",
     "wirkstoffe": "Spironolacton",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "aragoncillo@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aldactone 25 - Einreichungsnummer: 0618622"
@@ -1834,7 +1834,7 @@
     "atcCode": "C03DA01",
     "wirkstoffe": "Spironolacton",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aldactone 50 - Einreichungsnummer: 0618645"
@@ -1870,11 +1870,11 @@
     "enr": [
       "2100794"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-04-01",
-    "datumEnde": "2025-04-30",
+    "datumEnde": "2025-05-15",
     "datumErstmeldung": "2025-04-09",
-    "datumLetzteMeldung": "2025-04-09",
+    "datumLetzteMeldung": "2025-05-07",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Teneretic",
@@ -3831,6 +3831,54 @@
   },
   {
     "pzn": [
+      "10115968"
+    ],
+    "enr": [
+      "2188647"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-21",
+    "datumEnde": "2025-06-01",
+    "datumErstmeldung": "2025-03-26",
+    "datumLetzteMeldung": "2025-05-07",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Momecutan Fettcreme",
+    "atcCode": "D07AC13",
+    "wirkstoffe": "Mometasonfuroat (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Momecutan Fettcreme - Einreichungsnummer: 2188647"
+  },
+  {
+    "pzn": [
+      "10116011"
+    ],
+    "enr": [
+      "2188647"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-21",
+    "datumEnde": "2025-06-01",
+    "datumErstmeldung": "2025-03-26",
+    "datumLetzteMeldung": "2025-05-07",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Momecutan Fettcreme",
+    "atcCode": "D07AC13",
+    "wirkstoffe": "Mometasonfuroat (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Momecutan Fettcreme - Einreichungsnummer: 2188647"
+  },
+  {
+    "pzn": [
       "08820441"
     ],
     "enr": [
@@ -3850,30 +3898,6 @@
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "mail": "Service.De@glenmarkpharma.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "10115968"
-    ],
-    "enr": [
-      "2188647"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-21",
-    "datumEnde": "2025-05-11",
-    "datumErstmeldung": "2025-03-26",
-    "datumLetzteMeldung": "2025-03-26",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Momecutan Fettcreme",
-    "atcCode": "D07AC13",
-    "wirkstoffe": "Mometasonfuroat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
-    "telefon": "08964186198",
-    "mail": "elisabeth.rueckert@dermapharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Momecutan Fettcreme - Einreichungsnummer: 2188647"
   },
   {
     "pzn": [
@@ -3969,6 +3993,54 @@
   },
   {
     "pzn": [
+      "06978020"
+    ],
+    "enr": [
+      "2149881"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-17",
+    "datumEnde": "2025-06-08",
+    "datumErstmeldung": "2025-05-07",
+    "datumLetzteMeldung": "2025-05-07",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Karison Crinale",
+    "atcCode": "D07AD01",
+    "wirkstoffe": "Clobetasolpropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Karison Crinale - Einreichungsnummer: 2149881"
+  },
+  {
+    "pzn": [
+      "06978037"
+    ],
+    "enr": [
+      "2149881"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-17",
+    "datumEnde": "2025-06-08",
+    "datumErstmeldung": "2025-05-07",
+    "datumLetzteMeldung": "2025-05-07",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Karison Crinale",
+    "atcCode": "D07AD01",
+    "wirkstoffe": "Clobetasolpropionat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+    "telefon": "08964186198",
+    "mail": "elisabeth.rueckert@dermapharm.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Karison Crinale - Einreichungsnummer: 2149881"
+  },
+  {
+    "pzn": [
       "03239575"
     ],
     "enr": [
@@ -4009,7 +4081,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -4032,7 +4104,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -4055,7 +4127,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -4915,7 +4987,7 @@
     "atcCode": "H02AB04",
     "wirkstoffe": "Methylprednisolon",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein",
@@ -5887,7 +5959,7 @@
     "atcCode": "J01MA14",
     "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "Holsten Pharma GmbH",
     "telefon": "069962339020",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
@@ -6405,11 +6477,11 @@
     "enr": [
       "2196571"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-02-28",
-    "datumEnde": "2025-05-09",
+    "datumEnde": "2025-09-03",
     "datumErstmeldung": "2025-03-17",
-    "datumLetzteMeldung": "2025-03-17",
+    "datumLetzteMeldung": "2025-05-07",
     "grund": "Probleme beim Sonstigen Hersteller",
     "grundArt": "Sonstige",
     "bezeichnung": "Caspofungin Mylan 50 mg Pulver für ein Konzentrat zur Herstellung einer Infusionslösung",
@@ -6440,7 +6512,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin-Natrium",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "aragoncillo@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Eremfat i.v. 300mg - Einreichungsnummer: 2106370"
@@ -6464,7 +6536,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "030338427413",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -6488,7 +6560,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "EMB-FATOL 100 mg - Einreichungsnummer: 0193128"
@@ -6512,7 +6584,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "EMB-FATOL 400 mg - Einreichungsnummer: 0196641"
@@ -6773,52 +6845,6 @@
   },
   {
     "pzn": [
-      "12476676"
-    ],
-    "enr": [
-      "2189558"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-01",
-    "datumEnde": "2025-06-30",
-    "datumErstmeldung": "2024-02-29",
-    "datumLetzteMeldung": "2025-01-31",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fluorouracil PhaRes 50 mg/ml Injektionslösung",
-    "atcCode": "L01BC02",
-    "wirkstoffe": "Fluorouracil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pharma Resources GmbH",
-    "telefon": "+49 5151 609 96 0",
-    "mail": "info@pha-res.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "12476682"
-    ],
-    "enr": [
-      "2189558"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-01",
-    "datumEnde": "2025-06-30",
-    "datumErstmeldung": "2024-02-29",
-    "datumLetzteMeldung": "2025-01-31",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fluorouracil PhaRes 50 mg/ml Injektionslösung",
-    "atcCode": "L01BC02",
-    "wirkstoffe": "Fluorouracil",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pharma Resources GmbH",
-    "telefon": "+49 5151 609 96 0",
-    "mail": "info@pha-res.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "12476707"
     ],
     "enr": [
@@ -6826,9 +6852,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-01-01",
-    "datumEnde": "2025-06-30",
+    "datumEnde": "2025-08-30",
     "datumErstmeldung": "2024-02-29",
-    "datumLetzteMeldung": "2025-01-31",
+    "datumLetzteMeldung": "2025-05-07",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Fluorouracil PhaRes 50 mg/ml Injektionslösung",
@@ -7032,6 +7058,29 @@
   },
   {
     "pzn": [
+      "05505934"
+    ],
+    "enr": [
+      "2169430"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-01",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-05-07",
+    "datumLetzteMeldung": "2025-05-07",
+    "grund": "Sonstige",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Vincristinsulfat-TEVA 1 mg/ml Injektionslösung",
+    "atcCode": "L01CA02",
+    "wirkstoffe": "Vincristinsulfat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "TEVA GmbH",
+    "telefon": "0731-4027657",
+    "mail": "rui.araujo@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "08754862"
     ],
     "enr": [
@@ -7102,31 +7151,6 @@
   },
   {
     "pzn": [
-      "03724336"
-    ],
-    "enr": [
-      "2113220"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-12-18",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2024-12-19",
-    "datumLetzteMeldung": "2025-01-29",
-    "grund": "Sonstige",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "shortage of API",
-    "bezeichnung": "Vepesid K 50 mg, Weichkapsel",
-    "atcCode": "L01CB01",
-    "wirkstoffe": "Etoposid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "telefon": "+4938344511303",
-    "mail": "RA-Vepesid@cheplapharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Vepesid K 50 mg, Weichkapsel - Einreichungsnummer: 2113220"
-  },
-  {
-    "pzn": [
       "00753892"
     ],
     "enr": [
@@ -7182,7 +7206,7 @@
     "datumBeginn": "2025-01-27",
     "datumEnde": "2025-07-31",
     "datumErstmeldung": "2025-01-27",
-    "datumLetzteMeldung": "2025-05-05",
+    "datumLetzteMeldung": "2025-05-07",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "grundAnmerkung": "Herstellungsumstellung nach Produktionsproblemen",
@@ -7205,7 +7229,7 @@
     "datumBeginn": "2025-01-27",
     "datumEnde": "2025-07-31",
     "datumErstmeldung": "2025-01-27",
-    "datumLetzteMeldung": "2025-05-05",
+    "datumLetzteMeldung": "2025-05-07",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "grundAnmerkung": "Herstellungsumstellung nach Produktionsproblemen",
@@ -7401,6 +7425,29 @@
     "mail": "stephan.beduerftig-weigl@bendalis.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Doxorubicin HEXAL 2 mg/ml - Einreichungsnummer: 2109075"
+  },
+  {
+    "pzn": [
+      "17867967"
+    ],
+    "enr": [
+      "2152243"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-07",
+    "datumEnde": "2025-07-31",
+    "datumErstmeldung": "2025-05-07",
+    "datumLetzteMeldung": "2025-05-07",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Herausforderungen in der Herstellung",
+    "bezeichnung": "Epirubicin Hikma 2 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "L01DB03",
+    "wirkstoffe": "Epirubicinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hikma Farmaceutica (Portugal), S.A.",
+    "mail": "rluetzner@hikma.com",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -8510,7 +8557,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "VL.mibe.Lieferengpass-Extern@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -8532,7 +8579,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "VL.mibe.Lieferengpass-Extern@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -8554,7 +8601,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -10086,6 +10133,29 @@
   },
   {
     "pzn": [
+      "12501954"
+    ],
+    "enr": [
+      "2197738"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-05-01",
+    "datumEnde": "2025-07-01",
+    "datumErstmeldung": "2024-05-08",
+    "datumLetzteMeldung": "2025-05-07",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Levetiracetam PUREN 100 mg/ml Lösung zum Einnehmen",
+    "atcCode": "N03AX14",
+    "wirkstoffe": "Levetiracetam",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+    "telefon": "089 85794 143",
+    "mail": "GBICER@puren-pharma.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "16396336"
     ],
     "enr": [
@@ -10151,29 +10221,6 @@
     "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
     "telefon": "069478730",
     "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "12501954"
-    ],
-    "enr": [
-      "2197738"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-05-01",
-    "datumEnde": "2025-04-18",
-    "datumErstmeldung": "2024-05-08",
-    "datumLetzteMeldung": "2025-01-29",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Levetiracetam PUREN 100 mg/ml Lösung zum Einnehmen",
-    "atcCode": "N03AX14",
-    "wirkstoffe": "Levetiracetam",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
-    "telefon": "089 85794 143",
-    "mail": "GBICER@puren-pharma.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -10928,6 +10975,29 @@
     "telefon": "061016032416",
     "mail": "christiane.georgi@stada.de",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03131613"
+    ],
+    "enr": [
+      "2143569"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-08",
+    "datumEnde": "2025-06-27",
+    "datumErstmeldung": "2025-05-07",
+    "datumLetzteMeldung": "2025-05-07",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Cabaseril 1 mg",
+    "atcCode": "N04BC06",
+    "wirkstoffe": "Cabergolin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -14826,7 +14896,7 @@
     "atcCode": "N06AA04",
     "wirkstoffe": "Clomipraminhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Anafranil 75 mg retard - Einreichungsnummer: 2129687"
@@ -15844,30 +15914,6 @@
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17395652"
-    ],
-    "enr": [
-      "7002499"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-03-19",
-    "datumEnde": "2025-05-09",
-    "datumErstmeldung": "2025-03-17",
-    "datumLetzteMeldung": "2025-04-28",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Equasym Retard 50 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
-    "telefon": "+49 800 825 3325",
-    "mail": "medinfoEMEA@takeda.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Equasym retard 30 mg Hartkapseln mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2164005"
   },
   {
     "pzn": [
@@ -18470,7 +18516,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18493,7 +18539,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18516,7 +18562,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18539,7 +18585,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18562,7 +18608,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -18584,7 +18630,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -20441,7 +20487,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
@@ -20536,51 +20582,6 @@
     "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
     "telefon": "068059292188",
     "mail": "christine.funk@ursapharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02747789"
-    ],
-    "enr": [
-      "2104133"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-20",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2023-11-22",
-    "datumLetzteMeldung": "2024-09-06",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Dexamytrex Augensalbe",
-    "atcCode": "S01CA01",
-    "wirkstoffe": "Dexamethason; Gentamicinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "telefon": "01737406122",
-    "mail": "Quality.Berlin@bausch.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02192162"
-    ],
-    "enr": [
-      "2191157"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-10-20",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2023-11-28",
-    "datumLetzteMeldung": "2024-09-06",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Dexagent-Ophtal 5 mg/g und 0,3 mg/g Augensalbe",
-    "atcCode": "S01CA01",
-    "wirkstoffe": "Dexamethason; Gentamicinsulfat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "mail": "Quality.Berlin@bausch.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
