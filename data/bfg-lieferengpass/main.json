@@ -1810,7 +1810,7 @@
     "atcCode": "C03DA01",
     "wirkstoffe": "Spironolacton",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "aragoncillo@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aldactone 25 - Einreichungsnummer: 0618622"
@@ -1833,7 +1833,7 @@
     "atcCode": "C03DA01",
     "wirkstoffe": "Spironolacton",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aldactone 50 - Einreichungsnummer: 0618645"
@@ -2053,16 +2053,63 @@
   },
   {
     "pzn": [
+      "04127714"
+    ],
+    "enr": [
+      "2165602"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-04-16",
+    "datumEnde": "2025-07-15",
+    "datumErstmeldung": "2025-05-09",
+    "datumLetzteMeldung": "2025-05-09",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Tarka 240 mg/2 mg Tabletten mit veränderter Wirkstofffreisetzung",
+    "atcCode": "C09BB10",
+    "wirkstoffe": "Trandolapril; Verapamilhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04167317"
+    ],
+    "enr": [
+      "2159721"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-04-09",
+    "datumEnde": "2025-07-15",
+    "datumErstmeldung": "2025-04-22",
+    "datumLetzteMeldung": "2025-05-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tarka 180 mg/ 2 mg Tabletten mit veränderter Wirkstofffreisetzung",
+    "atcCode": "C09BB10",
+    "wirkstoffe": "Trandolapril; Verapamilhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Tarka 180 mg/ 2 mg Tabletten mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2159721"
+  },
+  {
+    "pzn": [
       "04167346"
     ],
     "enr": [
       "2159721"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-04-09",
-    "datumEnde": "2025-05-14",
+    "datumEnde": "2025-07-15",
     "datumErstmeldung": "2025-04-22",
-    "datumLetzteMeldung": "2025-04-22",
+    "datumLetzteMeldung": "2025-05-09",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Tarka 180 mg/ 2 mg Tabletten mit veränderter Wirkstofffreisetzung",
@@ -2166,6 +2213,31 @@
     "telefon": "0214403990",
     "mail": "info@basics.de",
     "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "09252418"
+    ],
+    "enr": [
+      "2182884"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-29",
+    "datumEnde": "2026-03-15",
+    "datumErstmeldung": "2025-05-09",
+    "datumLetzteMeldung": "2025-05-09",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Kapazitätsengpässe aufgrund gestiegener Bedarfe",
+    "bezeichnung": "Sortis 20 mg Kautabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Pharma GmbH",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Sortis 10 mg Kautabletten - Einreichungsnummer: 2182883"
   },
   {
     "pzn": [
@@ -4080,7 +4152,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -4103,7 +4175,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -4126,32 +4198,34 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
   {
     "pzn": [
-      "14063286"
+      "01992788"
     ],
     "enr": [
-      "2193900"
+      "2701534"
     ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-06-30",
-    "datumEnde": "2025-12-31",
-    "datumErstmeldung": "2023-06-30",
-    "datumLetzteMeldung": "2025-05-05",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Takrozem 1 mg/g Salbe",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-07",
+    "datumEnde": "2025-07-29",
+    "datumErstmeldung": "2025-05-09",
+    "datumLetzteMeldung": "2025-05-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Erhöhter Abverkauf als geplant aufgrund von OOS des Mitbewerbers.",
+    "bezeichnung": "Protopic 0,1% Salbe - OP60g",
     "atcCode": "D11AH01",
-    "wirkstoffe": "Tacrolimus-Monohydrat",
+    "wirkstoffe": "Tacrolimus",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Pierre Fabre Dermo-Kosmetik GmbH",
-    "telefon": "076145261230",
-    "mail": "zulassung_de@pierre-fabre.com",
-    "infoFachkreise": "Nein"
+    "zulassungsinhaber": "Leo Pharma A/S HR-Beiname: Leo Pharmaceutical Products Ltd. A/S",
+    "telefon": "06102/201-0",
+    "mail": "regulatory_affairs_de@leo-pharma.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Protopic 0,1% Salbe - OP10g - Einreichungsnummer: 2702809"
   },
   {
     "pzn": [
@@ -4164,7 +4238,7 @@
     "datumBeginn": "2023-06-30",
     "datumEnde": "2025-12-31",
     "datumErstmeldung": "2023-06-30",
-    "datumLetzteMeldung": "2025-05-05",
+    "datumLetzteMeldung": "2025-05-09",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Takrozem 1 mg/g Salbe",
@@ -4174,7 +4248,8 @@
     "zulassungsinhaber": "Pierre Fabre Dermo-Kosmetik GmbH",
     "telefon": "076145261230",
     "mail": "zulassung_de@pierre-fabre.com",
-    "infoFachkreise": "Nein"
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Protopic 0,1% Salbe - OP30g - Einreichungsnummer: 2701533"
   },
   {
     "pzn": [
@@ -4316,52 +4391,6 @@
     "mail": "nborsutzkystapf@pha-res.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Raloxifen AL 60 mg Filmtabletten - Einreichungsnummer: 2183290"
-  },
-  {
-    "pzn": [
-      "14358389"
-    ],
-    "enr": [
-      "2201385"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-01",
-    "datumEnde": "2025-05-06",
-    "datumErstmeldung": "2025-02-12",
-    "datumLetzteMeldung": "2025-04-17",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Solifenacin Succinat Zentiva 10 mg Filmtabletten",
-    "atcCode": "G04BD08",
-    "wirkstoffe": "Solifenacinsuccinat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Zentiva Pharma GmbH",
-    "telefon": "0800 53 53 010",
-    "mail": "MedInfo.DE@zentiva.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14358403"
-    ],
-    "enr": [
-      "2201385"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-01",
-    "datumEnde": "2025-05-06",
-    "datumErstmeldung": "2025-02-12",
-    "datumLetzteMeldung": "2025-04-17",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Solifenacin Succinat Zentiva 10 mg Filmtabletten",
-    "atcCode": "G04BD08",
-    "wirkstoffe": "Solifenacinsuccinat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Zentiva Pharma GmbH",
-    "telefon": "0800 53 53 010",
-    "mail": "MedInfo.DE@zentiva.com",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -4986,7 +5015,7 @@
     "atcCode": "H02AB04",
     "wirkstoffe": "Methylprednisolon",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein",
@@ -5717,6 +5746,28 @@
   },
   {
     "pzn": [
+      "16045358"
+    ],
+    "enr": [
+      "2199587"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-10",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-05-09",
+    "datumLetzteMeldung": "2025-05-09",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "CLARITHROMYCIN BASICS 250 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+    "atcCode": "J01FA09",
+    "wirkstoffe": "Clarithromycin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Basics GmbH",
+    "mail": "alexander.sandler@sunpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "03738232"
     ],
     "enr": [
@@ -5958,7 +6009,7 @@
     "atcCode": "J01MA14",
     "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "Holsten Pharma GmbH",
     "telefon": "069962339020",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
@@ -6511,7 +6562,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin-Natrium",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "aragoncillo@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Eremfat i.v. 300mg - Einreichungsnummer: 2106370"
@@ -6535,7 +6586,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "030338427413",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -6559,7 +6610,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "EMB-FATOL 100 mg - Einreichungsnummer: 0193128"
@@ -6583,7 +6634,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "EMB-FATOL 400 mg - Einreichungsnummer: 0196641"
@@ -8579,7 +8630,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "VL.mibe.Lieferengpass-Extern@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -8601,7 +8652,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "VL.mibe.Lieferengpass-Extern@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -8623,7 +8674,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -14918,7 +14969,7 @@
     "atcCode": "N06AA04",
     "wirkstoffe": "Clomipraminhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Anafranil 75 mg retard - Einreichungsnummer: 2129687"
@@ -18538,7 +18589,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18561,7 +18612,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18584,7 +18635,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18607,7 +18658,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18630,7 +18681,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -18652,7 +18703,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -20261,29 +20312,6 @@
   },
   {
     "pzn": [
-      "11072273"
-    ],
-    "enr": [
-      "2191142"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-01",
-    "datumEnde": "2025-05-31",
-    "datumErstmeldung": "2025-01-10",
-    "datumLetzteMeldung": "2025-04-29",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Fluticason Cipla 250 Mikrogramm/Sprühstoß Druckgasinhalation, Suspension",
-    "atcCode": "R03BA05",
-    "wirkstoffe": "Fluticasonpropionat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cipla Europe Rechtsform: NV",
-    "mail": "info.de@cipla.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Fluticason Cipla 250 Mikrogramm/Sprühstoß Druckgasinhalation, Suspension - Einreichungsnummer: 2191142"
-  },
-  {
-    "pzn": [
       "00668732"
     ],
     "enr": [
@@ -20486,7 +20514,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
