@@ -1,6 +1,29 @@
 [
   {
     "pzn": [
+      "04913795"
+    ],
+    "enr": [
+      "0801705"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-12",
+    "datumEnde": "2025-05-31",
+    "datumErstmeldung": "2025-05-13",
+    "datumLetzteMeldung": "2025-05-13",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Dontisolon D Zylinderampullen",
+    "atcCode": "A01AC54",
+    "wirkstoffe": "Prednisolon",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "SEPTODONT GmbH",
+    "telefon": "0228 971 26 0",
+    "mail": "info@septodont.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "01016960"
     ],
     "enr": [
@@ -368,30 +391,6 @@
     "mail": "ra-domperidone@cheplapharm.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Motilium Tropfen 10 mg/ml Suspension - Einreichungsnummer: 2102252"
-  },
-  {
-    "pzn": [
-      "17825130"
-    ],
-    "enr": [
-      "2104597"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-05-01",
-    "datumEnde": "2025-04-30",
-    "datumErstmeldung": "2023-04-28",
-    "datumLetzteMeldung": "2024-06-06",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Herstellerwechsel",
-    "bezeichnung": "Scopoderm TTS",
-    "atcCode": "A04AD01",
-    "wirkstoffe": "Scopolamin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Baxter Deutschland GmbH",
-    "telefon": "089 31701 0",
-    "mail": "cqa_de@baxter.com",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -1042,28 +1041,6 @@
     "telefon": "08005252010",
     "mail": "medinfo.de@sanofi.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "03961266"
-    ],
-    "enr": [
-      "0152394"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-03",
-    "datumEnde": "2025-04-25",
-    "datumErstmeldung": "2025-02-28",
-    "datumLetzteMeldung": "2025-02-28",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hepar 10 % Baxter",
-    "atcCode": "B05BA01",
-    "wirkstoffe": "Alanin; Arginin; Glycin; Histidin; Isoleucin; Leucin; Lysin; Methionin; Phenylalanin; Prolin; Serin; Threonin; Tryptophan; Valin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Baxter Deutschland GmbH",
-    "mail": "uta_laux@baxter.com",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -3906,9 +3883,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-02",
-    "datumEnde": "2025-05-16",
+    "datumEnde": "2025-05-23",
     "datumErstmeldung": "2025-01-14",
-    "datumLetzteMeldung": "2025-04-15",
+    "datumLetzteMeldung": "2025-05-13",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Prednicarbat acis Lösung",
@@ -3929,9 +3906,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-02",
-    "datumEnde": "2025-05-16",
+    "datumEnde": "2025-05-23",
     "datumErstmeldung": "2025-01-14",
-    "datumLetzteMeldung": "2025-04-15",
+    "datumLetzteMeldung": "2025-05-13",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Prednicarbat acis Lösung",
@@ -4734,6 +4711,30 @@
   },
   {
     "pzn": [
+      "11729885"
+    ],
+    "enr": [
+      "2189739"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-06",
+    "datumEnde": "2025-06-06",
+    "datumErstmeldung": "2025-05-13",
+    "datumLetzteMeldung": "2025-05-13",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylprednisolon acis 1000 mg Pulver und Lösungsmittel zur Herstellung einer Injektions- bzw. Infusionslösung",
+    "atcCode": "H02AB04",
+    "wirkstoffe": "Natrium(methylprednisolon-21-succinat)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "acis Arzneimittel GmbH",
+    "telefon": "(0)89 / 44 23 246  0",
+    "mail": "Medwiss.Acis@dermapharm.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Methylprednisolon acis 1000 mg Pulver und Lösungsmittel zur Herstellung einer Injektions- bzw. Infusionslösung - Einreichungsnummer: 2189739"
+  },
+  {
+    "pzn": [
       "01646632"
     ],
     "enr": [
@@ -5324,29 +5325,6 @@
     "mail": "shortages@infectopharm.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Infectocillin 500 Saft - Einreichungsnummer: 0149618"
-  },
-  {
-    "pzn": [
-      "08703988"
-    ],
-    "enr": [
-      "2136599"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2022-11-15",
-    "datumEnde": "2025-04-29",
-    "datumErstmeldung": "2022-12-05",
-    "datumLetzteMeldung": "2025-04-08",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Nach Wiederverfügbarkeit im September 2023 wurden die Mengen umgehend komplett vom Markt abgerufen.",
-    "bezeichnung": "Penicillin V-ratiopharm 1,5 Mega",
-    "atcCode": "J01CE02",
-    "wirkstoffe": "Phenoxymethylpenicillin-Kalium",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -8397,30 +8375,6 @@
   },
   {
     "pzn": [
-      "04904106"
-    ],
-    "enr": [
-      "2126168"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-10-08",
-    "datumEnde": "2025-08-01",
-    "datumErstmeldung": "2024-10-08",
-    "datumLetzteMeldung": "2025-05-08",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Herstellungsprobleme, Probleme Freigabemodalitäten",
-    "bezeichnung": "Sufenta mite",
-    "atcCode": "N01AH03",
-    "wirkstoffe": "Sufentanilcitrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Piramal Critical Care B.V.",
-    "telefon": "+4915144982803",
-    "mail": "iris.bruchmueller@piramal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "04022613"
     ],
     "enr": [
@@ -9892,78 +9846,6 @@
     "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Carbamazepin-ratiopharm 400 mg Retardtabletten - Einreichungsnummer: 2146006"
-  },
-  {
-    "pzn": [
-      "00914102"
-    ],
-    "enr": [
-      "2113715"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-21",
-    "datumEnde": "2025-08-15",
-    "datumErstmeldung": "2024-12-05",
-    "datumLetzteMeldung": "2024-12-05",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "carbadura 300 mg retard",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Germany GmbH",
-    "telefon": "08000700800",
-    "mail": "kundenservice@viatris.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "carbadura 600 mg retard - Einreichungsnummer: 2131193"
-  },
-  {
-    "pzn": [
-      "00914119"
-    ],
-    "enr": [
-      "2113715"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-21",
-    "datumEnde": "2025-08-15",
-    "datumErstmeldung": "2024-12-05",
-    "datumLetzteMeldung": "2024-12-05",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "carbadura 300 mg retard",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Germany GmbH",
-    "telefon": "08000700800",
-    "mail": "kundenservice@viatris.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "carbadura 600 mg retard - Einreichungsnummer: 2131193"
-  },
-  {
-    "pzn": [
-      "00914125"
-    ],
-    "enr": [
-      "2113715"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2024-11-21",
-    "datumEnde": "2025-08-15",
-    "datumErstmeldung": "2024-12-05",
-    "datumLetzteMeldung": "2024-12-05",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "carbadura 300 mg retard",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Germany GmbH",
-    "telefon": "08000700800",
-    "mail": "kundenservice@viatris.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "carbadura 600 mg retard - Einreichungsnummer: 2131193"
   },
   {
     "pzn": [
@@ -14600,6 +14482,29 @@
     "zulassungsinhaber": "ratiopharm GmbH",
     "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "03565553"
+    ],
+    "enr": [
+      "2106948"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-19",
+    "datumEnde": "2025-08-29",
+    "datumErstmeldung": "2025-05-13",
+    "datumLetzteMeldung": "2025-05-13",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tavor 1,0 mg Expidet",
+    "atcCode": "N05BA06",
+    "wirkstoffe": "Lorazepam",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Pfizer Pharma GmbH",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -20796,6 +20701,28 @@
     "mail": "info@heyl-berlin.de",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Radiogardase - Cs - Einreichungsnummer: 0813163"
+  },
+  {
+    "pzn": [
+      "11870974"
+    ],
+    "enr": [
+      "2133233"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-13",
+    "datumEnde": "2025-05-28",
+    "datumErstmeldung": "2025-05-13",
+    "datumLetzteMeldung": "2025-05-13",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Substitol 30 mg Hartkapseln, retardiert",
+    "atcCode": "TERM_ID_NA_2090010356",
+    "wirkstoffe": "Morphinhemisulfat-2,5-Hydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "medinfo@mundipharma.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
