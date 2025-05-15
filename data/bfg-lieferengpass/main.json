@@ -394,6 +394,30 @@
   },
   {
     "pzn": [
+      "02364404"
+    ],
+    "enr": [
+      "2702455"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-14",
+    "datumEnde": "2025-06-12",
+    "datumErstmeldung": "2025-05-14",
+    "datumLetzteMeldung": "2025-05-14",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Erhöhte Nachfrage",
+    "bezeichnung": "EMEND 125 mg Hartkapsel und EMEND 80 mg Hartkapsel - OP(1+2)",
+    "atcCode": "A04AD12",
+    "wirkstoffe": "Aprepitant",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Merck Sharp & Dohme B.V.",
+    "telefon": "08945611873",
+    "mail": "anton.dimopoulos@msd.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "15376834"
     ],
     "enr": [
@@ -840,9 +864,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-05-02",
-    "datumEnde": "2025-05-15",
+    "datumEnde": "2025-09-15",
     "datumErstmeldung": "2024-06-21",
-    "datumLetzteMeldung": "2024-12-17",
+    "datumLetzteMeldung": "2025-05-14",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Keine weiteren Informationen",
@@ -1116,29 +1140,6 @@
   },
   {
     "pzn": [
-      "15896166"
-    ],
-    "enr": [
-      "2197202"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-18",
-    "datumEnde": "2025-06-30",
-    "datumErstmeldung": "2024-09-18",
-    "datumLetzteMeldung": "2025-03-21",
-    "grund": "Herstellerwechsel",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Anapen 500 Mikrogramm Injektionslösung",
-    "atcCode": "C01CA24",
-    "wirkstoffe": "Epinephrin/Adrenalin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Bioprojet Pharma",
-    "telefon": "+49 251 60935 554",
-    "mail": "christoph.buss@diapharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "15211429"
     ],
     "enr": [
@@ -1146,9 +1147,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-09-09",
-    "datumEnde": "2025-04-30",
+    "datumEnde": "2025-05-30",
     "datumErstmeldung": "2024-09-04",
-    "datumLetzteMeldung": "2025-03-21",
+    "datumLetzteMeldung": "2025-05-14",
     "grund": "Herstellerwechsel",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Anapen 300 Mikrogramm Injektionslösung",
@@ -1168,9 +1169,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-31",
-    "datumEnde": "2025-04-30",
+    "datumEnde": "2025-05-30",
     "datumErstmeldung": "2024-12-02",
-    "datumLetzteMeldung": "2025-03-21",
+    "datumLetzteMeldung": "2025-05-14",
     "grund": "Herstellerwechsel",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Anapen Junior 150 Mikrogramm Injektionslösung",
@@ -1179,6 +1180,29 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Bioprojet Pharma",
     "telefon": "025160935554",
+    "mail": "christoph.buss@diapharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15896166"
+    ],
+    "enr": [
+      "2197202"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-18",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2024-09-18",
+    "datumLetzteMeldung": "2025-03-21",
+    "grund": "Herstellerwechsel",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Anapen 500 Mikrogramm Injektionslösung",
+    "atcCode": "C01CA24",
+    "wirkstoffe": "Epinephrin/Adrenalin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Bioprojet Pharma",
+    "telefon": "+49 251 60935 554",
     "mail": "christoph.buss@diapharm.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -1790,30 +1814,6 @@
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aldactone 50 - Einreichungsnummer: 0618645"
-  },
-  {
-    "pzn": [
-      "09425385"
-    ],
-    "enr": [
-      "2180429"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-19",
-    "datumEnde": "2025-04-22",
-    "datumErstmeldung": "2025-02-19",
-    "datumLetzteMeldung": "2025-04-14",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Brevibloc 10 mg/ml Injektionslösung",
-    "atcCode": "C07AB09",
-    "wirkstoffe": "Esmololhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Baxter Deutschland GmbH",
-    "telefon": "+43 6781249503",
-    "mail": "tausif_khan@baxter.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Brevibloc 10 mg/ml Infusionslösung - Einreichungsnummer: 2180430"
   },
   {
     "pzn": [
@@ -3601,41 +3601,19 @@
   },
   {
     "pzn": [
-      "14266144"
+      "14266167"
     ],
     "enr": [
-      "2200583"
+      "2200580"
     ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-29",
-    "datumEnde": "2025-12-31",
-    "datumErstmeldung": "2024-02-26",
-    "datumLetzteMeldung": "2025-03-21",
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-04-23",
+    "datumEnde": "2026-03-31",
+    "datumErstmeldung": "2025-05-14",
+    "datumLetzteMeldung": "2025-05-14",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/80 mg Tabletten",
-    "atcCode": "C10BA02",
-    "wirkstoffe": "Ezetimib; Simvastatin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14266262"
-    ],
-    "enr": [
-      "2200583"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-01-29",
-    "datumEnde": "2025-12-31",
-    "datumErstmeldung": "2024-02-26",
-    "datumLetzteMeldung": "2025-03-21",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/80 mg Tabletten",
+    "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/10 mg Tabletten",
     "atcCode": "C10BA02",
     "wirkstoffe": "Ezetimib; Simvastatin",
     "krankenhausrelevant": false,
@@ -3652,9 +3630,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-19",
-    "datumEnde": "2025-12-31",
+    "datumEnde": "2026-03-31",
     "datumErstmeldung": "2025-01-10",
-    "datumLetzteMeldung": "2025-03-21",
+    "datumLetzteMeldung": "2025-05-14",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/40 mg Tabletten",
@@ -3674,9 +3652,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-19",
-    "datumEnde": "2025-12-31",
+    "datumEnde": "2026-03-31",
     "datumErstmeldung": "2025-01-10",
-    "datumLetzteMeldung": "2025-03-21",
+    "datumLetzteMeldung": "2025-05-14",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/40 mg Tabletten",
@@ -3696,12 +3674,56 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-12-19",
-    "datumEnde": "2025-12-31",
+    "datumEnde": "2026-03-31",
     "datumErstmeldung": "2025-01-10",
-    "datumLetzteMeldung": "2025-03-21",
+    "datumLetzteMeldung": "2025-05-14",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/40 mg Tabletten",
+    "atcCode": "C10BA02",
+    "wirkstoffe": "Ezetimib; Simvastatin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14266144"
+    ],
+    "enr": [
+      "2200583"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-29",
+    "datumEnde": "2026-03-31",
+    "datumErstmeldung": "2024-02-26",
+    "datumLetzteMeldung": "2025-05-14",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/80 mg Tabletten",
+    "atcCode": "C10BA02",
+    "wirkstoffe": "Ezetimib; Simvastatin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14266262"
+    ],
+    "enr": [
+      "2200583"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-01-29",
+    "datumEnde": "2026-03-31",
+    "datumErstmeldung": "2024-02-26",
+    "datumLetzteMeldung": "2025-05-14",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ezetimib/Simvastatin Glenmark 10 mg/80 mg Tabletten",
     "atcCode": "C10BA02",
     "wirkstoffe": "Ezetimib; Simvastatin",
     "krankenhausrelevant": false,
@@ -3975,9 +3997,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-11-26",
-    "datumEnde": "2025-05-11",
+    "datumEnde": "2025-06-01",
     "datumErstmeldung": "2024-12-04",
-    "datumLetzteMeldung": "2025-04-02",
+    "datumLetzteMeldung": "2025-05-14",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Inderm",
@@ -6457,9 +6479,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-04-08",
-    "datumEnde": "2025-05-15",
+    "datumEnde": "2025-10-15",
     "datumErstmeldung": "2024-07-01",
-    "datumLetzteMeldung": "2024-10-10",
+    "datumLetzteMeldung": "2025-05-14",
     "grund": "Probleme beim Sonstigen Hersteller",
     "grundArt": "Sonstige",
     "bezeichnung": "Tenofovirdisoproxil Mylan 245 mg Filmtabletten - OP90(3x30)",
@@ -6574,9 +6596,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-11-27",
-    "datumEnde": "2025-05-28",
+    "datumEnde": "2025-07-31",
     "datumErstmeldung": "2024-12-19",
-    "datumLetzteMeldung": "2025-04-27",
+    "datumLetzteMeldung": "2025-05-14",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Cyclophosphamid HEXAL 2000 mg",
@@ -8327,19 +8349,19 @@
   },
   {
     "pzn": [
-      "04125690"
+      "04126620"
     ],
     "enr": [
-      "2709536"
+      "2713240"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-11-18",
-    "datumEnde": "2025-05-15",
+    "datumEnde": "2025-07-20",
     "datumErstmeldung": "2024-11-28",
-    "datumLetzteMeldung": "2024-11-28",
+    "datumLetzteMeldung": "2025-05-14",
     "grund": "Sonstige",
     "grundArt": "Produktionsproblem",
-    "bezeichnung": "Zoledronsäure Mylan 4 mg/5 ml Konzentrat zur Herstellung einer Infusionslösung - OP5ml",
+    "bezeichnung": "Zoledronsäure Mylan 4 mg/5 ml Konzentrat zur Herstellung einer Infusionslösung - OP[4x(4x5ml)]",
     "atcCode": "M05BA08",
     "wirkstoffe": "Zoledronsäure-Monohydrat",
     "krankenhausrelevant": false,
@@ -8351,19 +8373,19 @@
   },
   {
     "pzn": [
-      "04126620"
+      "04125690"
     ],
     "enr": [
-      "2713240"
+      "2709536"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-11-18",
-    "datumEnde": "2025-05-15",
+    "datumEnde": "2025-07-20",
     "datumErstmeldung": "2024-11-28",
-    "datumLetzteMeldung": "2024-11-28",
+    "datumLetzteMeldung": "2025-05-14",
     "grund": "Sonstige",
     "grundArt": "Produktionsproblem",
-    "bezeichnung": "Zoledronsäure Mylan 4 mg/5 ml Konzentrat zur Herstellung einer Infusionslösung - OP[4x(4x5ml)]",
+    "bezeichnung": "Zoledronsäure Mylan 4 mg/5 ml Konzentrat zur Herstellung einer Infusionslösung - OP5ml",
     "atcCode": "M05BA08",
     "wirkstoffe": "Zoledronsäure-Monohydrat",
     "krankenhausrelevant": false,
@@ -14894,6 +14916,50 @@
   },
   {
     "pzn": [
+      "14265995"
+    ],
+    "enr": [
+      "2197932"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-07",
+    "datumEnde": "2025-07-04",
+    "datumErstmeldung": "2025-05-14",
+    "datumLetzteMeldung": "2025-05-14",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Trazodon Glenmark 100 mg Tabletten",
+    "atcCode": "N06AX05",
+    "wirkstoffe": "Trazodonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14266026"
+    ],
+    "enr": [
+      "2197932"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-07",
+    "datumEnde": "2025-07-04",
+    "datumErstmeldung": "2025-05-14",
+    "datumLetzteMeldung": "2025-05-14",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Trazodon Glenmark 100 mg Tabletten",
+    "atcCode": "N06AX05",
+    "wirkstoffe": "Trazodonhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "04165459"
     ],
     "enr": [
@@ -15545,6 +15611,78 @@
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "mail": "Service.De@glenmarkpharma.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03806264"
+    ],
+    "enr": [
+      "2164004"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-12",
+    "datumEnde": "2025-07-31",
+    "datumErstmeldung": "2025-05-14",
+    "datumLetzteMeldung": "2025-05-14",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Equasym retard 20 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
+    "telefon": "+49 800 825 3325",
+    "mail": "MedinfoEMEA@takeda.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Equasym retard 10 mg Hartkapseln mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2164003"
+  },
+  {
+    "pzn": [
+      "06681604"
+    ],
+    "enr": [
+      "2164004"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-12",
+    "datumEnde": "2025-07-31",
+    "datumErstmeldung": "2025-05-14",
+    "datumLetzteMeldung": "2025-05-14",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Equasym retard 20 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
+    "telefon": "+49 800 825 3325",
+    "mail": "MedinfoEMEA@takeda.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Equasym retard 10 mg Hartkapseln mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2164003"
+  },
+  {
+    "pzn": [
+      "07350022"
+    ],
+    "enr": [
+      "2164004"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-12",
+    "datumEnde": "2025-07-31",
+    "datumErstmeldung": "2025-05-14",
+    "datumLetzteMeldung": "2025-05-14",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Equasym retard 20 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
+    "telefon": "+49 800 825 3325",
+    "mail": "MedinfoEMEA@takeda.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Equasym retard 10 mg Hartkapseln mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2164003"
   },
   {
     "pzn": [
