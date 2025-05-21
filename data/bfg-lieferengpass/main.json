@@ -1812,7 +1812,7 @@
     "atcCode": "C03DA01",
     "wirkstoffe": "Spironolacton",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "aragoncillo@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aldactone 25 - Einreichungsnummer: 0618622"
@@ -1835,7 +1835,7 @@
     "atcCode": "C03DA01",
     "wirkstoffe": "Spironolacton",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aldactone 50 - Einreichungsnummer: 0618645"
@@ -1849,9 +1849,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-04-01",
-    "datumEnde": "2025-05-15",
+    "datumEnde": "2025-06-06",
     "datumErstmeldung": "2025-04-09",
-    "datumLetzteMeldung": "2025-05-07",
+    "datumLetzteMeldung": "2025-05-20",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Teneretic",
@@ -3893,7 +3893,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -3916,7 +3916,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -3939,7 +3939,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -4506,90 +4506,35 @@
       "01684466"
     ],
     "enr": [
-      "3002126",
-      "3002179",
-      "3002180"
+      "3002179"
     ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2025-05-01",
     "datumEnde": "2026-01-01",
-    "datumErstmeldung": "2025-05-16",
-    "datumLetzteMeldung": "2025-05-16",
+    "datumErstmeldung": "2025-05-20",
+    "datumLetzteMeldung": "2025-05-20",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
-    "bezeichnung": "Metypred 250mg GALEN",
+    "bezeichnung": "Metypred 125mg GALEN",
     "atcCode": "H02AB04",
     "wirkstoffe": "Natrium(methylprednisolon-21-succinat)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "GALENpharma GmbH",
     "mail": "vertrieb@galenpharma.de",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Urbason solubile forte 250 mg - Einreichungsnummer: 0085746"
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
       "01684472"
     ],
     "enr": [
-      "3002126",
-      "3002179",
-      "3002180"
+      "3002126"
     ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2025-05-01",
     "datumEnde": "2026-01-01",
-    "datumErstmeldung": "2025-05-16",
-    "datumLetzteMeldung": "2025-05-16",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Metypred 250mg GALEN",
-    "atcCode": "H02AB04",
-    "wirkstoffe": "Natrium(methylprednisolon-21-succinat)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "GALENpharma GmbH",
-    "mail": "vertrieb@galenpharma.de",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Urbason solubile forte 250 mg - Einreichungsnummer: 0085746"
-  },
-  {
-    "pzn": [
-      "01684503"
-    ],
-    "enr": [
-      "3002126",
-      "3002179",
-      "3002180"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-05-01",
-    "datumEnde": "2026-01-01",
-    "datumErstmeldung": "2025-05-16",
-    "datumLetzteMeldung": "2025-05-16",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Metypred 250mg GALEN",
-    "atcCode": "H02AB04",
-    "wirkstoffe": "Natrium(methylprednisolon-21-succinat)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "GALENpharma GmbH",
-    "mail": "vertrieb@galenpharma.de",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Urbason solubile forte 250 mg - Einreichungsnummer: 0085746"
-  },
-  {
-    "pzn": [
-      "05020757"
-    ],
-    "enr": [
-      "3002126",
-      "3002179",
-      "3002180"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-05-01",
-    "datumEnde": "2026-01-01",
-    "datumErstmeldung": "2025-05-16",
-    "datumLetzteMeldung": "2025-05-16",
+    "datumErstmeldung": "2025-05-20",
+    "datumLetzteMeldung": "2025-05-20",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Metypred 250mg GALEN",
@@ -4606,15 +4551,13 @@
       "11359916"
     ],
     "enr": [
-      "3002126",
-      "3002179",
-      "3002180"
+      "3002126"
     ],
     "meldungsart": "Erstmeldung",
     "datumBeginn": "2025-05-01",
     "datumEnde": "2026-01-01",
-    "datumErstmeldung": "2025-05-16",
-    "datumLetzteMeldung": "2025-05-16",
+    "datumErstmeldung": "2025-05-20",
+    "datumLetzteMeldung": "2025-05-20",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Metypred 250mg GALEN",
@@ -4625,6 +4568,75 @@
     "mail": "vertrieb@galenpharma.de",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Urbason solubile forte 250 mg - Einreichungsnummer: 0085746"
+  },
+  {
+    "pzn": [
+      "01684503"
+    ],
+    "enr": [
+      "3002180"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-01",
+    "datumEnde": "2026-01-01",
+    "datumErstmeldung": "2025-05-20",
+    "datumLetzteMeldung": "2025-05-20",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Metypred forte 1000mg GALEN",
+    "atcCode": "H02AB04",
+    "wirkstoffe": "Natrium(methylprednisolon-21-succinat)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "GALENpharma GmbH",
+    "mail": "vertrieb@galenpharma.de",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Urbason solubile forte 1000 mg - Einreichungsnummer: 0085717"
+  },
+  {
+    "pzn": [
+      "05020757"
+    ],
+    "enr": [
+      "3002180"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-01",
+    "datumEnde": "2026-01-01",
+    "datumErstmeldung": "2025-05-20",
+    "datumLetzteMeldung": "2025-05-20",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Metypred forte 1000mg GALEN",
+    "atcCode": "H02AB04",
+    "wirkstoffe": "Natrium(methylprednisolon-21-succinat)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "GALENpharma GmbH",
+    "mail": "vertrieb@galenpharma.de",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Urbason solubile forte 1000 mg - Einreichungsnummer: 0085717"
+  },
+  {
+    "pzn": [
+      "09087480"
+    ],
+    "enr": [
+      "3002180"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-01",
+    "datumEnde": "2026-01-01",
+    "datumErstmeldung": "2025-05-20",
+    "datumLetzteMeldung": "2025-05-20",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Metypred forte 1000mg GALEN",
+    "atcCode": "H02AB04",
+    "wirkstoffe": "Natrium(methylprednisolon-21-succinat)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "GALENpharma GmbH",
+    "mail": "vertrieb@galenpharma.de",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Urbason solubile forte 1000 mg - Einreichungsnummer: 0085717"
   },
   {
     "pzn": [
@@ -5733,7 +5745,7 @@
     "atcCode": "J01MA14",
     "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "Holsten Pharma GmbH",
     "telefon": "069962339020",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
@@ -6196,7 +6208,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin-Natrium",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "aragoncillo@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Eremfat i.v. 300mg - Einreichungsnummer: 2106370"
@@ -6220,7 +6232,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "telefon": "030338427413",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -6244,7 +6256,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "EMB-FATOL 400 mg - Einreichungsnummer: 0196641"
@@ -8169,7 +8181,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "VL.mibe.Lieferengpass-Extern@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -8191,7 +8203,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "VL.mibe.Lieferengpass-Extern@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -8213,7 +8225,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -14264,6 +14276,29 @@
   },
   {
     "pzn": [
+      "09941537"
+    ],
+    "enr": [
+      "2150454"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-20",
+    "datumEnde": "2025-07-18",
+    "datumErstmeldung": "2025-05-20",
+    "datumLetzteMeldung": "2025-05-20",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Midazolam B. Braun 1 mg/ml",
+    "atcCode": "N05CD08",
+    "wirkstoffe": "Midazolamhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "B. Braun Melsungen Aktiengesellschaft",
+    "telefon": "0566191477309",
+    "mail": "benjamin.strippel@bbraun.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "07152782"
     ],
     "enr": [
@@ -14281,7 +14316,7 @@
     "atcCode": "N06AA04",
     "wirkstoffe": "Clomipraminhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Anafranil 75 mg retard - Einreichungsnummer: 2129687"
@@ -15371,6 +15406,29 @@
   },
   {
     "pzn": [
+      "17877055"
+    ],
+    "enr": [
+      "2203319"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-15",
+    "datumEnde": "2025-06-04",
+    "datumErstmeldung": "2025-03-25",
+    "datumLetzteMeldung": "2025-05-20",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidat AL 18 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "13570213"
     ],
     "enr": [
@@ -15684,29 +15742,6 @@
     "zulassungsinhaber": "TAD Pharma GmbH",
     "mail": "thomas.morgenstern@tad.de",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "17877055"
-    ],
-    "enr": [
-      "2203319"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-03-15",
-    "datumEnde": "2025-05-20",
-    "datumErstmeldung": "2025-03-25",
-    "datumLetzteMeldung": "2025-04-22",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Methylphenidat AL 18 mg Retardtabletten",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -18086,7 +18121,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18109,7 +18144,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18132,7 +18167,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18155,7 +18190,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18178,7 +18213,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -18200,7 +18235,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -19988,7 +20023,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
