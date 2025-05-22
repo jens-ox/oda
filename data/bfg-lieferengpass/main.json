@@ -1564,11 +1564,11 @@
     "enr": [
       "2104913"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-04-10",
-    "datumEnde": "2025-05-31",
+    "datumEnde": "2025-06-30",
     "datumErstmeldung": "2025-04-10",
-    "datumLetzteMeldung": "2025-04-10",
+    "datumLetzteMeldung": "2025-05-21",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Heitrin 2mg",
@@ -1590,9 +1590,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-01",
-    "datumEnde": "2025-05-31",
+    "datumEnde": "2025-06-30",
     "datumErstmeldung": "2024-11-29",
-    "datumLetzteMeldung": "2025-03-14",
+    "datumLetzteMeldung": "2025-05-21",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Lieferverzug",
@@ -1613,11 +1613,11 @@
     "enr": [
       "2104912"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-01",
-    "datumEnde": "2025-04-30",
+    "datumEnde": "2025-06-30",
     "datumErstmeldung": "2024-11-29",
-    "datumLetzteMeldung": "2024-11-29",
+    "datumLetzteMeldung": "2025-05-21",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Lieferverzug",
@@ -1812,7 +1812,7 @@
     "atcCode": "C03DA01",
     "wirkstoffe": "Spironolacton",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "aragoncillo@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aldactone 25 - Einreichungsnummer: 0618622"
@@ -1835,7 +1835,7 @@
     "atcCode": "C03DA01",
     "wirkstoffe": "Spironolacton",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Aldactone 50 - Einreichungsnummer: 0618645"
@@ -2194,6 +2194,314 @@
   },
   {
     "pzn": [
+      "16576297"
+    ],
+    "enr": [
+      "2204075"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-31",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-25",
+    "datumLetzteMeldung": "2025-05-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin Micro Labs 80 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Micro Labs GmbH",
+    "mail": "ausschreibungen@microlabsgmbh.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16576305"
+    ],
+    "enr": [
+      "2204075"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-31",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-25",
+    "datumLetzteMeldung": "2025-05-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin Micro Labs 80 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Micro Labs GmbH",
+    "mail": "ausschreibungen@microlabsgmbh.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16576400"
+    ],
+    "enr": [
+      "2204075"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-31",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-25",
+    "datumLetzteMeldung": "2025-05-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin Micro Labs 80 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Micro Labs GmbH",
+    "mail": "ausschreibungen@microlabsgmbh.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18214747"
+    ],
+    "enr": [
+      "7004433"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-31",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-25",
+    "datumLetzteMeldung": "2025-05-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin Micro Labs 60 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Micro Labs GmbH",
+    "mail": "ausschreibungen@microlabsgmbh.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16576417"
+    ],
+    "enr": [
+      "2204074"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-31",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-25",
+    "datumLetzteMeldung": "2025-05-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin Micro Labs 40 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Micro Labs GmbH",
+    "mail": "ausschreibungen@microlabsgmbh.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16576423"
+    ],
+    "enr": [
+      "2204074"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-31",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-25",
+    "datumLetzteMeldung": "2025-05-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin Micro Labs 40 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Micro Labs GmbH",
+    "mail": "ausschreibungen@microlabsgmbh.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16576446"
+    ],
+    "enr": [
+      "2204074"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-31",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-25",
+    "datumLetzteMeldung": "2025-05-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin Micro Labs 40 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Micro Labs GmbH",
+    "mail": "ausschreibungen@microlabsgmbh.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "18214782"
+    ],
+    "enr": [
+      "7004432"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-31",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-25",
+    "datumLetzteMeldung": "2025-05-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin Micro Labs 30 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Micro Labs GmbH",
+    "mail": "ausschreibungen@microlabsgmbh.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16576268"
+    ],
+    "enr": [
+      "2204073"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-31",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-25",
+    "datumLetzteMeldung": "2025-05-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin Micro Labs 20 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Micro Labs GmbH",
+    "mail": "ausschreibungen@microlabsgmbh.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16576274"
+    ],
+    "enr": [
+      "2204073"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-31",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-25",
+    "datumLetzteMeldung": "2025-05-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin Micro Labs 20 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Micro Labs GmbH",
+    "mail": "ausschreibungen@microlabsgmbh.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16576280"
+    ],
+    "enr": [
+      "2204073"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-31",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-25",
+    "datumLetzteMeldung": "2025-05-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin Micro Labs 20 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Micro Labs GmbH",
+    "mail": "ausschreibungen@microlabsgmbh.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16576239"
+    ],
+    "enr": [
+      "2204072"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-31",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-25",
+    "datumLetzteMeldung": "2025-05-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin Micro Labs 10 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Micro Labs GmbH",
+    "mail": "ausschreibungen@microlabsgmbh.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16576245"
+    ],
+    "enr": [
+      "2204072"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-31",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-25",
+    "datumLetzteMeldung": "2025-05-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin Micro Labs 10 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Micro Labs GmbH",
+    "mail": "ausschreibungen@microlabsgmbh.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16576251"
+    ],
+    "enr": [
+      "2204072"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-31",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-04-25",
+    "datumLetzteMeldung": "2025-05-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Atorvastatin Micro Labs 10 mg Filmtabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Micro Labs GmbH",
+    "mail": "ausschreibungen@microlabsgmbh.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "09252418"
     ],
     "enr": [
@@ -2215,314 +2523,6 @@
     "mail": "kundenservice@viatris.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Sortis 10 mg Kautabletten - Einreichungsnummer: 2182883"
-  },
-  {
-    "pzn": [
-      "16576297"
-    ],
-    "enr": [
-      "2204075"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-31",
-    "datumEnde": "2025-05-27",
-    "datumErstmeldung": "2025-04-25",
-    "datumLetzteMeldung": "2025-04-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atorvastatin Micro Labs 80 mg Filmtabletten",
-    "atcCode": "C10AA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Micro Labs GmbH",
-    "mail": "ausschreibungen@microlabsgmbh.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16576305"
-    ],
-    "enr": [
-      "2204075"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-31",
-    "datumEnde": "2025-05-27",
-    "datumErstmeldung": "2025-04-25",
-    "datumLetzteMeldung": "2025-04-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atorvastatin Micro Labs 80 mg Filmtabletten",
-    "atcCode": "C10AA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Micro Labs GmbH",
-    "mail": "ausschreibungen@microlabsgmbh.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16576400"
-    ],
-    "enr": [
-      "2204075"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-31",
-    "datumEnde": "2025-05-27",
-    "datumErstmeldung": "2025-04-25",
-    "datumLetzteMeldung": "2025-04-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atorvastatin Micro Labs 80 mg Filmtabletten",
-    "atcCode": "C10AA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Micro Labs GmbH",
-    "mail": "ausschreibungen@microlabsgmbh.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "18214747"
-    ],
-    "enr": [
-      "7004433"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-31",
-    "datumEnde": "2025-05-27",
-    "datumErstmeldung": "2025-04-25",
-    "datumLetzteMeldung": "2025-04-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atorvastatin Micro Labs 60 mg Filmtabletten",
-    "atcCode": "C10AA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Micro Labs GmbH",
-    "mail": "ausschreibungen@microlabsgmbh.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16576417"
-    ],
-    "enr": [
-      "2204074"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-31",
-    "datumEnde": "2025-05-27",
-    "datumErstmeldung": "2025-04-25",
-    "datumLetzteMeldung": "2025-04-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atorvastatin Micro Labs 40 mg Filmtabletten",
-    "atcCode": "C10AA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Micro Labs GmbH",
-    "mail": "ausschreibungen@microlabsgmbh.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16576423"
-    ],
-    "enr": [
-      "2204074"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-31",
-    "datumEnde": "2025-05-27",
-    "datumErstmeldung": "2025-04-25",
-    "datumLetzteMeldung": "2025-04-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atorvastatin Micro Labs 40 mg Filmtabletten",
-    "atcCode": "C10AA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Micro Labs GmbH",
-    "mail": "ausschreibungen@microlabsgmbh.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16576446"
-    ],
-    "enr": [
-      "2204074"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-31",
-    "datumEnde": "2025-05-27",
-    "datumErstmeldung": "2025-04-25",
-    "datumLetzteMeldung": "2025-04-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atorvastatin Micro Labs 40 mg Filmtabletten",
-    "atcCode": "C10AA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Micro Labs GmbH",
-    "mail": "ausschreibungen@microlabsgmbh.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "18214782"
-    ],
-    "enr": [
-      "7004432"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-31",
-    "datumEnde": "2025-05-27",
-    "datumErstmeldung": "2025-04-25",
-    "datumLetzteMeldung": "2025-04-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atorvastatin Micro Labs 30 mg Filmtabletten",
-    "atcCode": "C10AA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Micro Labs GmbH",
-    "mail": "ausschreibungen@microlabsgmbh.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16576268"
-    ],
-    "enr": [
-      "2204073"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-31",
-    "datumEnde": "2025-05-27",
-    "datumErstmeldung": "2025-04-25",
-    "datumLetzteMeldung": "2025-04-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atorvastatin Micro Labs 20 mg Filmtabletten",
-    "atcCode": "C10AA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Micro Labs GmbH",
-    "mail": "ausschreibungen@microlabsgmbh.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16576274"
-    ],
-    "enr": [
-      "2204073"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-31",
-    "datumEnde": "2025-05-27",
-    "datumErstmeldung": "2025-04-25",
-    "datumLetzteMeldung": "2025-04-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atorvastatin Micro Labs 20 mg Filmtabletten",
-    "atcCode": "C10AA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Micro Labs GmbH",
-    "mail": "ausschreibungen@microlabsgmbh.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16576280"
-    ],
-    "enr": [
-      "2204073"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-03-31",
-    "datumEnde": "2025-05-27",
-    "datumErstmeldung": "2025-04-25",
-    "datumLetzteMeldung": "2025-04-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atorvastatin Micro Labs 20 mg Filmtabletten",
-    "atcCode": "C10AA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Micro Labs GmbH",
-    "mail": "ausschreibungen@microlabsgmbh.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16576239"
-    ],
-    "enr": [
-      "2204072"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-03-31",
-    "datumEnde": "2025-05-27",
-    "datumErstmeldung": "2025-04-25",
-    "datumLetzteMeldung": "2025-04-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atorvastatin Micro Labs 10 mg Filmtabletten",
-    "atcCode": "C10AA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Micro Labs GmbH",
-    "mail": "ausschreibungen@microlabsgmbh.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16576245"
-    ],
-    "enr": [
-      "2204072"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-03-31",
-    "datumEnde": "2025-05-27",
-    "datumErstmeldung": "2025-04-25",
-    "datumLetzteMeldung": "2025-04-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atorvastatin Micro Labs 10 mg Filmtabletten",
-    "atcCode": "C10AA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Micro Labs GmbH",
-    "mail": "ausschreibungen@microlabsgmbh.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16576251"
-    ],
-    "enr": [
-      "2204072"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-03-31",
-    "datumEnde": "2025-05-27",
-    "datumErstmeldung": "2025-04-25",
-    "datumLetzteMeldung": "2025-04-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Atorvastatin Micro Labs 10 mg Filmtabletten",
-    "atcCode": "C10AA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Micro Labs GmbH",
-    "mail": "ausschreibungen@microlabsgmbh.de",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -3893,7 +3893,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -3916,7 +3916,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -3939,7 +3939,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -5745,7 +5745,7 @@
     "atcCode": "J01MA14",
     "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
     "telefon": "069962339020",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
@@ -6208,7 +6208,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin-Natrium",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "aragoncillo@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Eremfat i.v. 300mg - Einreichungsnummer: 2106370"
@@ -6232,7 +6232,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "telefon": "030338427413",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen"
@@ -6256,7 +6256,7 @@
     "atcCode": "J04AK02",
     "wirkstoffe": "Ethambutoldihydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "EMB-FATOL 400 mg - Einreichungsnummer: 0196641"
@@ -7820,9 +7820,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-01",
-    "datumEnde": "2025-05-22",
+    "datumEnde": "2026-01-18",
     "datumErstmeldung": "2024-09-18",
-    "datumLetzteMeldung": "2025-04-29",
+    "datumLetzteMeldung": "2025-05-21",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Acemetacin STADA 60 mg Hartkapseln",
@@ -7843,9 +7843,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-01",
-    "datumEnde": "2025-05-22",
+    "datumEnde": "2026-01-18",
     "datumErstmeldung": "2024-09-18",
-    "datumLetzteMeldung": "2025-04-29",
+    "datumLetzteMeldung": "2025-05-21",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Acemetacin STADA 60 mg Hartkapseln",
@@ -7866,9 +7866,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-01",
-    "datumEnde": "2025-05-22",
+    "datumEnde": "2026-01-18",
     "datumErstmeldung": "2024-09-18",
-    "datumLetzteMeldung": "2025-04-29",
+    "datumLetzteMeldung": "2025-05-21",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Acemetacin STADA 60 mg Hartkapseln",
@@ -8000,6 +8000,28 @@
     "mail": "de-info@aspenpharma.eu",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Nimbex 5mg - Einreichungsnummer: 2136267"
+  },
+  {
+    "pzn": [
+      "06681202"
+    ],
+    "enr": [
+      "2169632"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-05-20",
+    "datumEnde": "2025-06-30",
+    "datumErstmeldung": "2025-05-21",
+    "datumLetzteMeldung": "2025-05-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tizanidin-TEVA 4 mg Tabletten",
+    "atcCode": "M03BX02",
+    "wirkstoffe": "Tizanidinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEVA GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -8181,7 +8203,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "VL.mibe.Lieferengpass-Extern@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -8203,7 +8225,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "VL.mibe.Lieferengpass-Extern@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -8225,7 +8247,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "nicole.duerrschmidt@dermapharm.com",
     "infoFachkreise": "Nein"
   },
@@ -14299,6 +14321,30 @@
   },
   {
     "pzn": [
+      "02151921"
+    ],
+    "enr": [
+      "0083948"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-06-30",
+    "datumEnde": "2025-09-30",
+    "datumErstmeldung": "2025-05-21",
+    "datumLetzteMeldung": "2025-05-21",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "supplier of closures is not producing anymore",
+    "bezeichnung": "Distraneurin Mixtur",
+    "atcCode": "N05CM02",
+    "wirkstoffe": "Clomethiazolhemiedisilat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+    "mail": "ra-distraneurin@cheplapharm.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Distraneurin Kapsel - Einreichungsnummer: 0077505"
+  },
+  {
+    "pzn": [
       "07152782"
     ],
     "enr": [
@@ -14316,7 +14362,7 @@
     "atcCode": "N06AA04",
     "wirkstoffe": "Clomipraminhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Anafranil 75 mg retard - Einreichungsnummer: 2129687"
@@ -16916,94 +16962,6 @@
   },
   {
     "pzn": [
-      "14063872"
-    ],
-    "enr": [
-      "2201804"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-25",
-    "datumEnde": "2025-05-31",
-    "datumErstmeldung": "2024-07-23",
-    "datumLetzteMeldung": "2025-05-06",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14063889"
-    ],
-    "enr": [
-      "2201804"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-25",
-    "datumEnde": "2025-05-31",
-    "datumErstmeldung": "2024-07-23",
-    "datumLetzteMeldung": "2025-05-06",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "18092942"
-    ],
-    "enr": [
-      "2201804"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-25",
-    "datumEnde": "2025-05-31",
-    "datumErstmeldung": "2024-07-23",
-    "datumLetzteMeldung": "2025-05-06",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "18092959"
-    ],
-    "enr": [
-      "2201804"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-07-25",
-    "datumEnde": "2025-05-31",
-    "datumErstmeldung": "2024-07-23",
-    "datumLetzteMeldung": "2025-05-06",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Atomoxetin Heumann 10 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "17977785"
     ],
     "enr": [
@@ -18121,7 +18079,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18144,7 +18102,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18167,7 +18125,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18190,7 +18148,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "telefon": "015779613984",
     "mail": "m.hennemann@medice.de",
     "infoFachkreise": "Vorgesehen"
@@ -18213,7 +18171,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -18235,7 +18193,7 @@
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+    "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
     "mail": "regulatory@medice.de",
     "infoFachkreise": "Vorgesehen"
   },
@@ -20023,7 +19981,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
