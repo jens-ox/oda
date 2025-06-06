@@ -2504,6 +2504,24 @@
     }
   },
   {
+    "veroeffentlichung": "2025-06-05",
+    "emittent": {
+      "name": "PUMA SE",
+      "sitz": "Herzogenaurach",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Barclays PLC",
+      "sitz": "London",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.48,
+      "instrumente": 1.39,
+      "summe": 4.87
+    }
+  },
+  {
     "veroeffentlichung": "2025-06-02",
     "emittent": {
       "name": "COMMERZBANK Aktiengesellschaft",
@@ -3446,7 +3464,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-06-02",
+    "veroeffentlichung": "2025-06-05",
     "emittent": {
       "name": "TAG Immobilien AG",
       "sitz": "Hamburg",
@@ -3458,9 +3476,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.5,
-      "instrumente": 0.97,
-      "summe": 6.47
+      "gesamt": 5.45,
+      "instrumente": 1.07,
+      "summe": 6.52
     }
   },
   {
@@ -3605,24 +3623,6 @@
       "gesamt": 4.62,
       "instrumente": 0.14,
       "summe": 4.76
-    }
-  },
-  {
-    "veroeffentlichung": "2025-06-02",
-    "emittent": {
-      "name": "PUMA SE",
-      "sitz": "Herzogenaurach",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.79,
-      "instrumente": 0.59,
-      "summe": 5.38
     }
   },
   {
@@ -3860,7 +3860,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-03-25",
+    "veroeffentlichung": "2025-06-05",
     "emittent": {
       "name": "Hannover Rück SE",
       "sitz": "Hannover",
@@ -3872,9 +3872,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0.12,
-      "summe": 3.14
+      "gesamt": 3.17,
+      "instrumente": 0.07,
+      "summe": 3.24
     }
   },
   {
@@ -3950,7 +3950,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-05-26",
+    "veroeffentlichung": "2025-06-05",
     "emittent": {
       "name": "Fresenius Medical Care AG",
       "sitz": "Hof",
@@ -3962,9 +3962,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.49,
-      "instrumente": 0.51,
-      "summe": 4.99995
+      "gesamt": 4.8,
+      "instrumente": 0.28,
+      "summe": 5.08
     }
   },
   {
@@ -3983,24 +3983,6 @@
       "gesamt": 5.38,
       "instrumente": 0.01,
       "summe": 5.39
-    }
-  },
-  {
-    "veroeffentlichung": "2025-06-02",
-    "emittent": {
-      "name": "flatexDEGIRO AG",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0.01,
-      "summe": 3.03
     }
   },
   {
@@ -4202,7 +4184,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-05-30",
+    "veroeffentlichung": "2025-06-05",
     "emittent": {
       "name": "COMMERZBANK Aktiengesellschaft",
       "sitz": "Frankfurt am Main",
@@ -4214,9 +4196,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.51,
-      "instrumente": 1.46,
-      "summe": 7.97
+      "gesamt": 6.14,
+      "instrumente": 1.69,
+      "summe": 7.83
     }
   },
   {
@@ -4382,7 +4364,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-05-29",
+    "veroeffentlichung": "2025-06-04",
     "emittent": {
       "name": "ADTRAN Holdings, Inc.",
       "sitz": "Wilmington",
@@ -4394,9 +4376,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 9.88,
-      "instrumente": 1.17,
-      "summe": 11.05
+      "gesamt": 10.14,
+      "instrumente": 1.31,
+      "summe": 11.46
     }
   },
   {
@@ -8598,7 +8580,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-03-21",
+    "veroeffentlichung": "2025-06-05",
     "emittent": {
       "name": "MERCK Kommanditgesellschaft auf Aktien",
       "sitz": "Darmstadt",
@@ -8610,9 +8592,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.01,
+      "gesamt": 5.12,
       "instrumente": 0,
-      "summe": 3.01
+      "summe": 5.12
     }
   },
   {
@@ -17773,7 +17755,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-07-29",
+    "veroeffentlichung": "2025-06-05",
     "emittent": {
       "name": "Deutsche Konsum REIT-AG",
       "sitz": "Broderstorf",
@@ -17785,9 +17767,9 @@
       "land": "Österreich"
     },
     "stimmrechtsanteile": {
-      "gesamt": 7.12,
+      "gesamt": 4.61,
       "instrumente": 0,
-      "summe": 7.12
+      "summe": 4.61
     }
   },
   {
@@ -19609,24 +19591,6 @@
   {
     "veroeffentlichung": "2025-06-03",
     "emittent": {
-      "name": "Bilfinger SE",
-      "sitz": "Mannheim",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Morgan Stanley",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 1.95,
-      "summe": 4.97
-    }
-  },
-  {
-    "veroeffentlichung": "2025-06-03",
-    "emittent": {
       "name": "AUTO1 Group SE",
       "sitz": "München",
       "land": "Deutschland"
@@ -20496,24 +20460,6 @@
       "gesamt": 5.79,
       "instrumente": 0,
       "summe": 5.79
-    }
-  },
-  {
-    "veroeffentlichung": "2024-07-29",
-    "emittent": {
-      "name": "Deutsche Konsum REIT-AG",
-      "sitz": "Broderstorf",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "NUMBER23CONSULTING LIMITED",
-      "sitz": "Auckland",
-      "land": "Neuseeland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.29,
-      "instrumente": 0,
-      "summe": 4.29
     }
   },
   {
@@ -29064,24 +29010,6 @@
     }
   },
   {
-    "veroeffentlichung": "2018-11-15",
-    "emittent": {
-      "name": "Westwing Group SE",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Tengelmann Verwaltungs- und Beteiligungs GmbH",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.93,
-      "instrumente": 0,
-      "summe": 4.93
-    }
-  },
-  {
     "veroeffentlichung": "2024-04-25",
     "emittent": {
       "name": "WashTec AG",
@@ -29560,24 +29488,6 @@
     }
   },
   {
-    "veroeffentlichung": "2025-06-04",
-    "emittent": {
-      "name": "PNE AG",
-      "sitz": "Cuxhaven",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.01,
-      "instrumente": 5.02,
-      "summe": 5.03
-    }
-  },
-  {
     "veroeffentlichung": "2025-05-30",
     "emittent": {
       "name": "LEG Immobilien SE",
@@ -29596,7 +29506,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-06-02",
+    "veroeffentlichung": "2025-06-04",
     "emittent": {
       "name": "K+S Aktiengesellschaft",
       "sitz": "Kassel",
@@ -29608,9 +29518,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.4,
-      "instrumente": 8.55,
-      "summe": 8.95
+      "gesamt": 0.08,
+      "instrumente": 8.05,
+      "summe": 8.13
     }
   },
   {
@@ -29758,7 +29668,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-06-03",
+    "veroeffentlichung": "2025-06-04",
     "emittent": {
       "name": "ADTRAN Holdings, Inc.",
       "sitz": "Wilmington",
@@ -29770,9 +29680,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.28,
-      "instrumente": 9.46,
-      "summe": 10.75
+      "gesamt": 1.36,
+      "instrumente": 9.18,
+      "summe": 10.54
     }
   },
   {
@@ -30130,24 +30040,6 @@
     }
   },
   {
-    "veroeffentlichung": "2025-02-17",
-    "emittent": {
-      "name": "SNP Schneider-Neureither & Partner SE",
-      "sitz": "Heidelberg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "UBS Group AG",
-      "sitz": "Zürich",
-      "land": "Schweiz"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.03,
-      "instrumente": 0.23,
-      "summe": 3.26
-    }
-  },
-  {
     "veroeffentlichung": "2025-05-19",
     "emittent": {
       "name": "Nordex SE",
@@ -30196,9 +30088,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.91,
-      "instrumente": 4.7,
-      "summe": 7.61
+      "gesamt": 3.31,
+      "instrumente": 4.74,
+      "summe": 8.05
     }
   },
   {
