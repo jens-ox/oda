@@ -301,7 +301,7 @@
   },
   {
     "name": "BKK Linde",
-    "zusatzbeitrag": 2.5,
+    "zusatzbeitrag": 2.99,
     "openedIn": [
       "bundesweit"
     ]
@@ -441,26 +441,6 @@
       "Rheinland-Pfalz",
       "Saarland",
       "Sachsen"
-    ]
-  },
-  {
-    "name": "BKK ZF & Partner",
-    "zusatzbeitrag": 3.4,
-    "openedIn": [
-      "Baden-Württemberg",
-      "Bayern",
-      "Berlin",
-      "Brandenburg",
-      "Bremen",
-      "Hamburg",
-      "Hessen",
-      "Niedersachsen",
-      "Nordrhein-Westfalen",
-      "Rheinland-Pfalz",
-      "Saarland",
-      "Sachsen",
-      "Sachsen-Anhalt",
-      "Thüringen"
     ]
   },
   {
@@ -724,7 +704,7 @@
   },
   {
     "name": "Siemens-Betriebskrankenkasse (SBK)",
-    "zusatzbeitrag": 2.9,
+    "zusatzbeitrag": 3.8,
     "openedIn": [
       "bundesweit"
     ]
@@ -755,7 +735,7 @@
   },
   {
     "name": "Südzucker BKK",
-    "zusatzbeitrag": 2.3,
+    "zusatzbeitrag": 2.9,
     "openedIn": [
       "betriebs­be­zogen (nur für Mitar­beitende wählbar)"
     ]
@@ -793,6 +773,26 @@
     "zusatzbeitrag": 2.45,
     "openedIn": [
       "bundesweit"
+    ]
+  },
+  {
+    "name": "ZF BKK",
+    "zusatzbeitrag": 3.4,
+    "openedIn": [
+      "Baden-Württemberg",
+      "Bayern",
+      "Berlin",
+      "Brandenburg",
+      "Bremen",
+      "Hamburg",
+      "Hessen",
+      "Niedersachsen",
+      "Nordrhein-Westfalen",
+      "Rheinland-Pfalz",
+      "Saarland",
+      "Sachsen",
+      "Sachsen-Anhalt",
+      "Thüringen"
     ]
   }
 ]
