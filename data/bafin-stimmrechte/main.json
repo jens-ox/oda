@@ -2452,7 +2452,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-08-22",
+    "veroeffentlichung": "2025-08-25",
     "emittent": {
       "name": "Gerresheimer AG",
       "sitz": "Düsseldorf",
@@ -2464,9 +2464,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.08,
-      "instrumente": 5.08,
-      "summe": 5.15
+      "gesamt": 0.32,
+      "instrumente": 4.8,
+      "summe": 5.12
     }
   },
   {
@@ -2520,7 +2520,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-08-21",
+    "veroeffentlichung": "2025-08-25",
     "emittent": {
       "name": "PUMA SE",
       "sitz": "Herzogenaurach",
@@ -2532,9 +2532,9 @@
       "land": "Großbritannien"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.97,
-      "instrumente": 2.07,
-      "summe": 5.04
+      "gesamt": 0.2,
+      "instrumente": 4.88,
+      "summe": 5.07
     }
   },
   {
@@ -3552,7 +3552,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-08-15",
+    "veroeffentlichung": "2025-08-26",
     "emittent": {
       "name": "SAP SE",
       "sitz": "Walldorf",
@@ -3714,7 +3714,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-08-19",
+    "veroeffentlichung": "2025-08-25",
     "emittent": {
       "name": "Mercedes-Benz Group AG",
       "sitz": "Stuttgart",
@@ -3726,9 +3726,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.92,
-      "instrumente": 0.12,
-      "summe": 6.04
+      "gesamt": 5.94,
+      "instrumente": 0.17,
+      "summe": 6.1
     }
   },
   {
@@ -4254,7 +4254,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-08-21",
+    "veroeffentlichung": "2025-08-26",
     "emittent": {
       "name": "COMMERZBANK Aktiengesellschaft",
       "sitz": "Frankfurt am Main",
@@ -4266,9 +4266,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.78,
-      "instrumente": 1.8,
-      "summe": 7.58
+      "gesamt": 6.25,
+      "instrumente": 1.27,
+      "summe": 7.52
     }
   },
   {
@@ -7601,6 +7601,24 @@
       "gesamt": 3.01,
       "instrumente": 0,
       "summe": 3.01
+    }
+  },
+  {
+    "veroeffentlichung": "2025-08-26",
+    "emittent": {
+      "name": "DEUTZ Aktiengesellschaft",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "DWS Investment GmbH",
+      "sitz": "Frankfurt",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.07,
+      "instrumente": 0,
+      "summe": 3.07
     }
   },
   {
@@ -14249,24 +14267,6 @@
     }
   },
   {
-    "veroeffentlichung": "2025-08-22",
-    "emittent": {
-      "name": "Gerresheimer AG",
-      "sitz": "Düsseldorf",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JPMORGAN CHASE & CO",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 1.78,
-      "instrumente": 3.37,
-      "summe": 5.15
-    }
-  },
-  {
     "veroeffentlichung": "2024-08-28",
     "emittent": {
       "name": "Delivery Hero SE",
@@ -19605,7 +19605,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-08-05",
+    "veroeffentlichung": "2025-08-25",
     "emittent": {
       "name": "Gerresheimer AG",
       "sitz": "Düsseldorf",
@@ -19617,9 +19617,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.5,
-      "instrumente": 6.02,
-      "summe": 8.51
+      "gesamt": 2.12,
+      "instrumente": 7.44,
+      "summe": 9.57
     }
   },
   {
@@ -27479,6 +27479,24 @@
     }
   },
   {
+    "veroeffentlichung": "2025-08-25",
+    "emittent": {
+      "name": "TUI AG",
+      "sitz": "Hannover",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Staat Norwegen",
+      "sitz": "Oslo",
+      "land": "Norwegen"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.26,
+      "instrumente": 0.08,
+      "summe": 3.33
+    }
+  },
+  {
     "veroeffentlichung": "2023-11-24",
     "emittent": {
       "name": "TeamViewer SE",
@@ -29366,24 +29384,6 @@
     }
   },
   {
-    "veroeffentlichung": "2025-08-22",
-    "emittent": {
-      "name": "K+S Aktiengesellschaft",
-      "sitz": "Kassel",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.2,
-      "instrumente": 4.89,
-      "summe": 5.09
-    }
-  },
-  {
     "veroeffentlichung": "2025-08-21",
     "emittent": {
       "name": "Gerresheimer AG",
@@ -29898,7 +29898,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-07-29",
+    "veroeffentlichung": "2025-08-26",
     "emittent": {
       "name": "COMMERZBANK Aktiengesellschaft",
       "sitz": "Frankfurt am Main",
@@ -29910,8 +29910,8 @@
       "land": "Italien"
     },
     "stimmrechtsanteile": {
-      "gesamt": 20.17,
-      "instrumente": 9.16,
+      "gesamt": 26.04,
+      "instrumente": 3.31,
       "summe": 29.34
     }
   },
@@ -30791,24 +30791,6 @@
       "gesamt": 14.67,
       "instrumente": 0,
       "summe": 14.67
-    }
-  },
-  {
-    "veroeffentlichung": "2019-12-19",
-    "emittent": {
-      "name": "TAG Immobilien AG",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Versorgungsanstalt des Bundes und der Länder",
-      "sitz": "Karlsruhe, Baden",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.71,
-      "instrumente": 0,
-      "summe": 4.71
     }
   },
   {
@@ -33338,7 +33320,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-08-21",
+    "veroeffentlichung": "2025-08-26",
     "emittent": {
       "name": "Ming Le Sports AG",
       "sitz": "Heidelberg",
@@ -33348,9 +33330,9 @@
       "name": "Zours, Wilhelm Konrad Thomas"
     },
     "stimmrechtsanteile": {
-      "gesamt": 51.09,
+      "gesamt": 23.16,
       "instrumente": 0,
-      "summe": 51.09
+      "summe": 23.16
     }
   },
   {
