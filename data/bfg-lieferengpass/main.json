@@ -1887,6 +1887,28 @@
   },
   {
     "pzn": [
+      "10123790"
+    ],
+    "enr": [
+      "2182187"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-09-09",
+    "datumEnde": "2026-06-30",
+    "datumErstmeldung": "2025-09-09",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Herstellerwechsel",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Adenosin Altamedics 3 mg/ml Injektionslösung",
+    "atcCode": "C01EB10",
+    "wirkstoffe": "Adenosin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "ALTAMEDICS GmbH",
+    "mail": "info@altamedics.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "10123784"
     ],
     "enr": [
@@ -1979,6 +2001,94 @@
     "zulassungsinhaber": "STADAPHARM GmbH",
     "telefon": "061016032416",
     "mail": "christiane.georgi@stada.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09722775"
+    ],
+    "enr": [
+      "2107471"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-09-03",
+    "datumEnde": "2025-10-17",
+    "datumErstmeldung": "2025-09-09",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clonidin-ratiopharm 300",
+    "atcCode": "C02AC01",
+    "wirkstoffe": "Clonidinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09722746"
+    ],
+    "enr": [
+      "2107470"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-09-04",
+    "datumEnde": "2025-10-17",
+    "datumErstmeldung": "2025-09-09",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clonidin-ratiopharm 150",
+    "atcCode": "C02AC01",
+    "wirkstoffe": "Clonidinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09722686"
+    ],
+    "enr": [
+      "3001058"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-09-04",
+    "datumEnde": "2025-10-17",
+    "datumErstmeldung": "2025-09-09",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clonidin-ratiopharm 75",
+    "atcCode": "C02AC01",
+    "wirkstoffe": "Clonidinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09722692"
+    ],
+    "enr": [
+      "3001058"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-09-04",
+    "datumEnde": "2025-10-17",
+    "datumErstmeldung": "2025-09-09",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clonidin-ratiopharm 75",
+    "atcCode": "C02AC01",
+    "wirkstoffe": "Clonidinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2627,6 +2737,29 @@
     "telefon": "0214403990",
     "mail": "info@basics.de",
     "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "09252418"
+    ],
+    "enr": [
+      "2182884"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-08-29",
+    "datumEnde": "2025-12-16",
+    "datumErstmeldung": "2025-09-09",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Sortis 20 mg Kautabletten",
+    "atcCode": "C10AA05",
+    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Pharma GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -3764,6 +3897,31 @@
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "mail": "Service.De@glenmarkpharma.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "05368673"
+    ],
+    "enr": [
+      "2708571"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-08-29",
+    "datumEnde": "2025-12-14",
+    "datumErstmeldung": "2025-09-09",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Probleme mit der Folie",
+    "bezeichnung": "Aldara 5% Creme - OP24",
+    "atcCode": "D06BB10",
+    "wirkstoffe": "Imiquimod",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Healthcare Limited",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Zyclara 3,75% Creme - OP(14x250mg) - Einreichungsnummer: 2709662"
   },
   {
     "pzn": [
@@ -6787,30 +6945,6 @@
   },
   {
     "pzn": [
-      "02841755"
-    ],
-    "enr": [
-      "2152867"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-06-30",
-    "datumEnde": "2025-09-09",
-    "datumErstmeldung": "2025-07-11",
-    "datumLetzteMeldung": "2025-09-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Alternativpräparat Luxerm ENR 2195903 ist nur für die Tageslichtbehandlung (AK unter Verwendung von natürlichem Tageslicht) zugelassen",
-    "bezeichnung": "Metvix 160 mg/g Creme",
-    "atcCode": "L01XD03",
-    "wirkstoffe": "Methyl(5-amino-4-oxopentanoat)-hydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Galderma Laboratorium GmbH",
-    "mail": "zulassung@galderma.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Luxerm 160 mg/g Creme - Einreichungsnummer: 2195903"
-  },
-  {
-    "pzn": [
       "17205367"
     ],
     "enr": [
@@ -7439,6 +7573,52 @@
   },
   {
     "pzn": [
+      "00074464"
+    ],
+    "enr": [
+      "2154692"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-24",
+    "datumEnde": "2025-10-15",
+    "datumErstmeldung": "2025-09-10",
+    "datumLetzteMeldung": "2025-09-10",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "00074464 war noch bis Anfang Mai 2025 verfügbar.",
+    "bezeichnung": "Sympal injekt 50 mg Injektions-/Infusionslösung",
+    "atcCode": "M01AE17",
+    "wirkstoffe": "Dexketoprofen-Trometamol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "BERLIN-CHEMIE Aktiengesellschaft",
+    "mail": "tdrescher-welk@berlin-chemie.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00074470"
+    ],
+    "enr": [
+      "2154692"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-24",
+    "datumEnde": "2025-10-15",
+    "datumErstmeldung": "2025-09-10",
+    "datumLetzteMeldung": "2025-09-10",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "00074464 war noch bis Anfang Mai 2025 verfügbar.",
+    "bezeichnung": "Sympal injekt 50 mg Injektions-/Infusionslösung",
+    "atcCode": "M01AE17",
+    "wirkstoffe": "Dexketoprofen-Trometamol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "BERLIN-CHEMIE Aktiengesellschaft",
+    "mail": "tdrescher-welk@berlin-chemie.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "12361789"
     ],
     "enr": [
@@ -7791,6 +7971,28 @@
   },
   {
     "pzn": [
+      "04022599"
+    ],
+    "enr": [
+      "3000349"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2027-04-30",
+    "datumErstmeldung": "2025-04-16",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Procain 2 % JENAPHARM",
+    "atcCode": "N01BA02",
+    "wirkstoffe": "Procainhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "04022613"
     ],
     "enr": [
@@ -7800,7 +8002,7 @@
     "datumBeginn": "2025-02-24",
     "datumEnde": "2027-04-30",
     "datumErstmeldung": "2025-04-16",
-    "datumLetzteMeldung": "2025-06-26",
+    "datumLetzteMeldung": "2025-09-09",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Procain 2 % JENAPHARM",
@@ -7822,10 +8024,76 @@
     "datumBeginn": "2025-02-24",
     "datumEnde": "2027-04-30",
     "datumErstmeldung": "2025-04-16",
-    "datumLetzteMeldung": "2025-06-26",
+    "datumLetzteMeldung": "2025-09-09",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Procain 2 % JENAPHARM",
+    "atcCode": "N01BA02",
+    "wirkstoffe": "Procainhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04022576"
+    ],
+    "enr": [
+      "3000348"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-10",
+    "datumEnde": "2027-08-31",
+    "datumErstmeldung": "2025-01-15",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Procain 1 % JENAPHARM",
+    "atcCode": "N01BA02",
+    "wirkstoffe": "Procainhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04022582"
+    ],
+    "enr": [
+      "3000348"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-10",
+    "datumEnde": "2027-08-31",
+    "datumErstmeldung": "2025-01-15",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Procain 1 % JENAPHARM",
+    "atcCode": "N01BA02",
+    "wirkstoffe": "Procainhydrochlorid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "mail": "zulassung-sekretariat@mibegmbh.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "06342954"
+    ],
+    "enr": [
+      "3000348"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-10",
+    "datumEnde": "2027-08-31",
+    "datumErstmeldung": "2025-01-15",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Procain 1 % JENAPHARM",
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
@@ -7842,15 +8110,15 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-10",
-    "datumEnde": "2027-04-30",
+    "datumEnde": "2027-08-31",
     "datumErstmeldung": "2025-01-15",
-    "datumLetzteMeldung": "2025-06-26",
+    "datumLetzteMeldung": "2025-09-09",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Procain 1 % JENAPHARM",
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
-    "krankenhausrelevant": false,
+    "krankenhausrelevant": true,
     "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
@@ -15663,6 +15931,184 @@
   },
   {
     "pzn": [
+      "14045118"
+    ],
+    "enr": [
+      "2713155"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-07-08",
+    "datumEnde": "2026-03-16",
+    "datumErstmeldung": "2025-09-09",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Duloxetin Mylan 30 mg magensaftresistente Hartkapseln - OP100(Fl)",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mylan Pharmaceuticals Limited",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14045093"
+    ],
+    "enr": [
+      "2713165"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-07-08",
+    "datumEnde": "2026-03-16",
+    "datumErstmeldung": "2025-09-09",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Duloxetin Mylan 60 mg magensaftresistente Hartkapseln - OP100(Fl)",
+    "atcCode": "N06AX21",
+    "wirkstoffe": "Duloxetin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Mylan Pharmaceuticals Limited",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "14281149"
+    ],
+    "enr": [
+      "2200317"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-07-09",
+    "datumEnde": "2025-10-15",
+    "datumErstmeldung": "2025-07-09",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidat-ratiopharm 40 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14281155"
+    ],
+    "enr": [
+      "2200317"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-07-09",
+    "datumEnde": "2025-10-15",
+    "datumErstmeldung": "2025-07-09",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidat-ratiopharm 40 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14281095"
+    ],
+    "enr": [
+      "2200315"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-07-09",
+    "datumEnde": "2025-10-15",
+    "datumErstmeldung": "2025-07-09",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidat-ratiopharm 20 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14281126"
+    ],
+    "enr": [
+      "2200316"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-09-01",
+    "datumEnde": "2025-10-15",
+    "datumErstmeldung": "2025-09-09",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidat-ratiopharm 30 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14281043"
+    ],
+    "enr": [
+      "2200314"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-09-01",
+    "datumEnde": "2025-10-15",
+    "datumErstmeldung": "2025-09-09",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidat-ratiopharm 10 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratriopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14281066"
+    ],
+    "enr": [
+      "2200314"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-09-01",
+    "datumEnde": "2025-10-15",
+    "datumErstmeldung": "2025-09-09",
+    "datumLetzteMeldung": "2025-09-09",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidat-ratiopharm 10 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratriopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "17877078"
     ],
     "enr": [
@@ -15955,72 +16401,6 @@
     "zulassungsinhaber": "TAD Pharma GmbH",
     "mail": "thomas.morgenstern@tad.de",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "14281095"
-    ],
-    "enr": [
-      "2200315"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-07-09",
-    "datumEnde": "2025-08-28",
-    "datumErstmeldung": "2025-07-09",
-    "datumLetzteMeldung": "2025-07-09",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Methylphenidat-ratiopharm 20 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14281149"
-    ],
-    "enr": [
-      "2200317"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-07-09",
-    "datumEnde": "2025-08-28",
-    "datumErstmeldung": "2025-07-09",
-    "datumLetzteMeldung": "2025-07-09",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Methylphenidat-ratiopharm 40 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14281155"
-    ],
-    "enr": [
-      "2200317"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-07-09",
-    "datumEnde": "2025-08-28",
-    "datumErstmeldung": "2025-07-09",
-    "datumLetzteMeldung": "2025-07-09",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Methylphenidat-ratiopharm 40 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -17861,7 +18241,7 @@
     "atcCode": "N06DA04",
     "wirkstoffe": "Galantaminhydrobromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medical Valley Invest AB Beiname: AXiromed, Xiromed",
+    "zulassungsinhaber": "Medical Valley Invest AB HR-Beiname: AXiromed, Xiromed",
     "mail": "lars.hilbig@xiromed.com",
     "infoFachkreise": "Nein"
   },
@@ -17883,7 +18263,7 @@
     "atcCode": "N06DA04",
     "wirkstoffe": "Galantaminhydrobromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medical Valley Invest AB Beiname: AXiromed, Xiromed",
+    "zulassungsinhaber": "Medical Valley Invest AB HR-Beiname: AXiromed, Xiromed",
     "mail": "lars.hilbig@xiromed.com",
     "infoFachkreise": "Nein"
   },
@@ -17905,7 +18285,7 @@
     "atcCode": "N06DA04",
     "wirkstoffe": "Galantaminhydrobromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medical Valley Invest AB Beiname: AXiromed, Xiromed",
+    "zulassungsinhaber": "Medical Valley Invest AB HR-Beiname: AXiromed, Xiromed",
     "mail": "lars.hilbig@xiromed.com",
     "infoFachkreise": "Nein"
   },
@@ -17927,7 +18307,7 @@
     "atcCode": "N06DA04",
     "wirkstoffe": "Galantaminhydrobromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medical Valley Invest AB Beiname: AXiromed, Xiromed",
+    "zulassungsinhaber": "Medical Valley Invest AB HR-Beiname: AXiromed, Xiromed",
     "mail": "lars.hilbig@xiromed.com",
     "infoFachkreise": "Nein"
   },
@@ -17949,7 +18329,7 @@
     "atcCode": "N06DA04",
     "wirkstoffe": "Galantaminhydrobromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medical Valley Invest AB Beiname: AXiromed, Xiromed",
+    "zulassungsinhaber": "Medical Valley Invest AB HR-Beiname: AXiromed, Xiromed",
     "mail": "lars.hilbig@xiromed.com",
     "infoFachkreise": "Nein"
   },
@@ -17971,7 +18351,7 @@
     "atcCode": "N06DA04",
     "wirkstoffe": "Galantaminhydrobromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medical Valley Invest AB Beiname: AXiromed, Xiromed",
+    "zulassungsinhaber": "Medical Valley Invest AB HR-Beiname: AXiromed, Xiromed",
     "mail": "lars.hilbig@xiromed.com",
     "infoFachkreise": "Nein"
   },
@@ -17993,7 +18373,7 @@
     "atcCode": "N06DA04",
     "wirkstoffe": "Galantaminhydrobromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medical Valley Invest AB Beiname: AXiromed, Xiromed",
+    "zulassungsinhaber": "Medical Valley Invest AB HR-Beiname: AXiromed, Xiromed",
     "mail": "lars.hilbig@xiromed.com",
     "infoFachkreise": "Nein"
   },
@@ -18015,7 +18395,7 @@
     "atcCode": "N06DA04",
     "wirkstoffe": "Galantaminhydrobromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medical Valley Invest AB Beiname: AXiromed, Xiromed",
+    "zulassungsinhaber": "Medical Valley Invest AB HR-Beiname: AXiromed, Xiromed",
     "mail": "lars.hilbig@xiromed.com",
     "infoFachkreise": "Nein"
   },
@@ -18037,7 +18417,7 @@
     "atcCode": "N06DA04",
     "wirkstoffe": "Galantaminhydrobromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Medical Valley Invest AB Beiname: AXiromed, Xiromed",
+    "zulassungsinhaber": "Medical Valley Invest AB HR-Beiname: AXiromed, Xiromed",
     "mail": "lars.hilbig@xiromed.com",
     "infoFachkreise": "Nein"
   },
@@ -19763,9 +20143,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2021-07-01",
-    "datumEnde": "2025-12-31",
+    "datumEnde": "2026-12-31",
     "datumErstmeldung": "2021-02-25",
-    "datumLetzteMeldung": "2024-12-19",
+    "datumLetzteMeldung": "2025-09-09",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Visudyne 15 mg Pulver zur Herstellung einer Infusionslösung - OP1",
@@ -19774,7 +20154,7 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
     "mail": "RA-Visudyne@cheplapharm.com",
-    "infoFachkreise": "Nein"
+    "infoFachkreise": "Ja"
   },
   {
     "pzn": [
