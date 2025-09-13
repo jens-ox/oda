@@ -2282,6 +2282,30 @@
   },
   {
     "pzn": [
+      "02186807"
+    ],
+    "enr": [
+      "2105036"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-09-19",
+    "datumEnde": "2025-10-05",
+    "datumErstmeldung": "2025-09-12",
+    "datumLetzteMeldung": "2025-09-12",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Nepresol",
+    "atcCode": "C02DB01",
+    "wirkstoffe": "Wasserhaltiges Dihydralazinsulfat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "TEOFARMA S.R.L.",
+    "telefon": "+39-0382-422008",
+    "mail": "regulatory@teofarma.it",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Nepresol - Einreichungsnummer: 2105036"
+  },
+  {
+    "pzn": [
       "17847918"
     ],
     "enr": [
@@ -2386,7 +2410,7 @@
     "atcCode": "C07AA05",
     "wirkstoffe": "Propranololhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
@@ -2483,6 +2507,29 @@
   },
   {
     "pzn": [
+      "04660242"
+    ],
+    "enr": [
+      "2138442"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-08-29",
+    "datumEnde": "2026-01-15",
+    "datumErstmeldung": "2025-09-12",
+    "datumLetzteMeldung": "2025-09-12",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Udrik 0,5 mg",
+    "atcCode": "C09AA10",
+    "wirkstoffe": "Trandolapril",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Viatris Healthcare GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "03414966"
     ],
     "enr": [
@@ -2502,6 +2549,75 @@
     "zulassungsinhaber": "TEOFARMA S.R.L.",
     "telefon": "+39-0382-422008",
     "mail": "regulatory@teofarma.it",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "18364760"
+    ],
+    "enr": [
+      "2181116"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-14",
+    "datumEnde": "2026-01-15",
+    "datumErstmeldung": "2025-09-12",
+    "datumLetzteMeldung": "2025-09-12",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Perindopril-Arginin/Indapamid Viatris 5 mg/1,25 mg Filmtabletten",
+    "atcCode": "C09BA04",
+    "wirkstoffe": "Indapamid; Perindopril-Arginin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Germany GmbH",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "18364777"
+    ],
+    "enr": [
+      "2181116"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-14",
+    "datumEnde": "2026-01-15",
+    "datumErstmeldung": "2025-09-12",
+    "datumLetzteMeldung": "2025-09-12",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Perindopril-Arginin/Indapamid Viatris 5 mg/1,25 mg Filmtabletten",
+    "atcCode": "C09BA04",
+    "wirkstoffe": "Indapamid; Perindopril-Arginin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Germany GmbH",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "05870059"
+    ],
+    "enr": [
+      "2173237"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-02-14",
+    "datumEnde": "2026-01-15",
+    "datumErstmeldung": "2025-09-12",
+    "datumLetzteMeldung": "2025-09-12",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Perindopril-dura plus 2 mg/0,625 mg Tabletten",
+    "atcCode": "C09BA04",
+    "wirkstoffe": "Indapamid; Perindopril-tert-butylamin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Germany GmbH",
+    "telefon": "0800-0700-800",
+    "mail": "kundenservice@viatris.com",
     "infoFachkreise": "Nein"
   },
   {
@@ -4122,7 +4238,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -4145,7 +4261,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -4168,7 +4284,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -5918,7 +6034,7 @@
     "atcCode": "J01XA01",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Vancomycin \"Lederle\" 500mg - Einreichungsnummer: 2136654"
@@ -6149,7 +6265,7 @@
     "atcCode": "J04AC01",
     "wirkstoffe": "Isoniazid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -6172,7 +6288,7 @@
     "atcCode": "J04AC01",
     "wirkstoffe": "Isoniazid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -7269,31 +7385,6 @@
   },
   {
     "pzn": [
-      "18073815"
-    ],
-    "enr": [
-      "7007357"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-08-17",
-    "datumEnde": "2025-09-30",
-    "datumErstmeldung": "2025-08-01",
-    "datumLetzteMeldung": "2025-08-01",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "siehe unter \"Weitere Informationen zum Lieferengpass\"",
-    "bezeichnung": "SOTYKTU",
-    "atcCode": "L04AA56",
-    "wirkstoffe": "Deucravacitinib",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Bristol-Myers Squibb Pharma EEIG",
-    "telefon": "08000752002",
-    "mail": "medwiss.info@bms.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "SOTYKTU - Einreichungsnummer: 7007355"
-  },
-  {
-    "pzn": [
       "18105478"
     ],
     "enr": [
@@ -8033,7 +8124,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
   },
@@ -8055,7 +8146,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
   },
@@ -8077,7 +8168,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
   },
@@ -8099,7 +8190,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
   },
@@ -8121,7 +8212,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
   },
@@ -8143,7 +8234,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
   },
@@ -8165,7 +8256,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
   },
@@ -10146,7 +10237,7 @@
     "atcCode": "N03AX12",
     "wirkstoffe": "Gabapentin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "Holsten Pharma GmbH",
     "mail": "d.stephan@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Gabapentin Holsten 300 mg Hartkapseln - Einreichungsnummer: 2158852"
@@ -10169,7 +10260,7 @@
     "atcCode": "N03AX12",
     "wirkstoffe": "Gabapentin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "Holsten Pharma GmbH",
     "mail": "d.stephan@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Gabapentin Holsten 600 mg Filmtabletten - Einreichungsnummer: 2163100"
@@ -10192,7 +10283,7 @@
     "atcCode": "N03AX12",
     "wirkstoffe": "Gabapentin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "Holsten Pharma GmbH",
     "mail": "d.stephan@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Gabapentin Holsten 600 mg Filmtabletten - Einreichungsnummer: 2163100"
@@ -10215,7 +10306,7 @@
     "atcCode": "N03AX12",
     "wirkstoffe": "Gabapentin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "Holsten Pharma GmbH",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Gabapentin Holsten 800 mg Filmtabletten - Einreichungsnummer: 2163101"
@@ -10238,7 +10329,7 @@
     "atcCode": "N03AX12",
     "wirkstoffe": "Gabapentin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "Holsten Pharma GmbH",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Gabapentin Holsten 100 mg Hartkapseln - Einreichungsnummer: 2158851"
@@ -10526,7 +10617,7 @@
     "datumBeginn": "2025-07-14",
     "datumEnde": "2025-10-15",
     "datumErstmeldung": "2025-07-16",
-    "datumLetzteMeldung": "2025-09-05",
+    "datumLetzteMeldung": "2025-09-12",
     "grund": "Probleme beim Sonstigen Hersteller",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Verzögerung der Bereitstellung der Packungsbeilage im Rahmen eines PSUSA Verfahrens zu Amantadin.",
@@ -10536,7 +10627,8 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Merz Pharmaceuticals GmbH",
     "mail": "ute.muehlenbeck@merz.de",
-    "infoFachkreise": "Vorgesehen"
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "PK-Merz Infusion - Einreichungsnummer: 0119586"
   },
   {
     "pzn": [
@@ -15045,7 +15137,7 @@
     "atcCode": "N06AA04",
     "wirkstoffe": "Clomipraminhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Anafranil 75 mg retard - Einreichungsnummer: 2129687"
@@ -15121,6 +15213,75 @@
   },
   {
     "pzn": [
+      "06330508"
+    ],
+    "enr": [
+      "0914987"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-08-01",
+    "datumEnde": "2025-10-31",
+    "datumErstmeldung": "2025-08-12",
+    "datumLetzteMeldung": "2025-09-12",
+    "grund": "Änderung des Herstellverfahrens",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Doxepin 75 Holsten",
+    "atcCode": "N06AA12",
+    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "mail": "y.maniya@holstenpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Doxepin 50 Holsten - Einreichungsnummer: 0911813"
+  },
+  {
+    "pzn": [
+      "06330514"
+    ],
+    "enr": [
+      "0914987"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-08-01",
+    "datumEnde": "2025-10-31",
+    "datumErstmeldung": "2025-08-12",
+    "datumLetzteMeldung": "2025-09-12",
+    "grund": "Änderung des Herstellverfahrens",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Doxepin 75 Holsten",
+    "atcCode": "N06AA12",
+    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "mail": "y.maniya@holstenpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Doxepin 50 Holsten - Einreichungsnummer: 0911813"
+  },
+  {
+    "pzn": [
+      "06330520"
+    ],
+    "enr": [
+      "0914987"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-08-01",
+    "datumEnde": "2025-10-31",
+    "datumErstmeldung": "2025-08-12",
+    "datumLetzteMeldung": "2025-09-12",
+    "grund": "Änderung des Herstellverfahrens",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Doxepin 75 Holsten",
+    "atcCode": "N06AA12",
+    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "mail": "y.maniya@holstenpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Doxepin 50 Holsten - Einreichungsnummer: 0911813"
+  },
+  {
+    "pzn": [
       "06330572"
     ],
     "enr": [
@@ -15137,7 +15298,7 @@
     "atcCode": "N06AA12",
     "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "Holsten Pharma GmbH",
     "telefon": "069962339020",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
@@ -15161,7 +15322,7 @@
     "atcCode": "N06AA12",
     "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "Holsten Pharma GmbH",
     "telefon": "069962339020",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
@@ -15185,57 +15346,11 @@
     "atcCode": "N06AA12",
     "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+    "zulassungsinhaber": "Holsten Pharma GmbH",
     "telefon": "069962339020",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Doxepin 25 Holsten - Einreichungsnummer: 0915001"
-  },
-  {
-    "pzn": [
-      "06330508"
-    ],
-    "enr": [
-      "0914987"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-08-01",
-    "datumEnde": "2025-09-05",
-    "datumErstmeldung": "2025-08-12",
-    "datumLetzteMeldung": "2025-08-12",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Doxepin 75 Holsten",
-    "atcCode": "N06AA12",
-    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
-    "mail": "y.maniya@holstenpharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Doxepin 75 Holsten - Einreichungsnummer: 0914987"
-  },
-  {
-    "pzn": [
-      "06330514"
-    ],
-    "enr": [
-      "0914987"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-08-01",
-    "datumEnde": "2025-09-05",
-    "datumErstmeldung": "2025-08-12",
-    "datumLetzteMeldung": "2025-08-12",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Doxepin 75 Holsten",
-    "atcCode": "N06AA12",
-    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
-    "mail": "y.maniya@holstenpharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Doxepin 75 Holsten - Einreichungsnummer: 0914987"
   },
   {
     "pzn": [
@@ -19900,6 +20015,30 @@
   },
   {
     "pzn": [
+      "00602762"
+    ],
+    "enr": [
+      "2136312"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-11-01",
+    "datumEnde": "2026-06-30",
+    "datumErstmeldung": "2024-11-01",
+    "datumLetzteMeldung": "2025-09-12",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Predni-Ophtal Gel",
+    "atcCode": "S01BA04",
+    "wirkstoffe": "Prednisolonacetat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
+    "telefon": "0800  090 94 90 94",
+    "mail": "pharma.kundenservice@bausch.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Prednisolon-Augensalbe Jenapharm - Einreichungsnummer: 3000274"
+  },
+  {
+    "pzn": [
       "10775794"
     ],
     "enr": [
@@ -19916,7 +20055,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
@@ -19943,30 +20082,6 @@
     "telefon": "068059292188",
     "mail": "christine.funk@ursapharm.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00602762"
-    ],
-    "enr": [
-      "2136312"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-11-01",
-    "datumEnde": "2025-10-10",
-    "datumErstmeldung": "2024-11-01",
-    "datumLetzteMeldung": "2025-06-13",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Predni-Ophtal Gel",
-    "atcCode": "S01BA04",
-    "wirkstoffe": "Prednisolonacetat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
-    "telefon": "0800  090 94 90 94",
-    "mail": "pharma.kundenservice@bausch.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Prednisolon-Augensalbe Jenapharm - Einreichungsnummer: 3000274"
   },
   {
     "pzn": [
