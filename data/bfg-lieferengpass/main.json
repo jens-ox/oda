@@ -603,11 +603,11 @@
     "enr": [
       "2715718"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-08-13",
-    "datumEnde": "2025-09-15",
+    "datumEnde": "2025-10-01",
     "datumErstmeldung": "2025-08-13",
-    "datumLetzteMeldung": "2025-08-13",
+    "datumLetzteMeldung": "2025-09-19",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Unerwartet hohe Nachfrage infolge des vorherigen Lieferengpasses",
@@ -9137,6 +9137,28 @@
   },
   {
     "pzn": [
+      "12646256"
+    ],
+    "enr": [
+      "2194173"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-09-18",
+    "datumEnde": "2025-10-15",
+    "datumErstmeldung": "2025-09-19",
+    "datumLetzteMeldung": "2025-09-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Targin 60 mg/30 mg Retardtabletten",
+    "atcCode": "N02AA55",
+    "wirkstoffe": "Naloxonhydrochlorid-Dihydrat; Oxycodonhydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+    "mail": "RegulatoryAffairsDE@mundipharma.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "11538702"
     ],
     "enr": [
@@ -10278,29 +10300,6 @@
     "zulassungsinhaber": "Desitin Arzneimittel GmbH",
     "mail": "info@desitin.de",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "04922995"
-    ],
-    "enr": [
-      "2114008"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-09-04",
-    "datumEnde": "2025-10-18",
-    "datumErstmeldung": "2025-09-04",
-    "datumLetzteMeldung": "2025-09-04",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Tegretal 400mg retard",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novartis Pharma GmbH",
-    "mail": "patrick.bittorf@novartis.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Tegretal 200mg retard - Einreichungsnummer: 2113103"
   },
   {
     "pzn": [
@@ -11764,6 +11763,30 @@
   },
   {
     "pzn": [
+      "07373359"
+    ],
+    "enr": [
+      "2705751"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-09-03",
+    "datumEnde": "2025-10-31",
+    "datumErstmeldung": "2025-07-18",
+    "datumLetzteMeldung": "2025-09-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "ZYPADHERA 405 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(931mg+3ml)",
+    "atcCode": "N05AH03",
+    "wirkstoffe": "Olanzapinembonat-Monohydrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Cheplapharm Registration GmbH",
+    "telefon": "1601537174",
+    "mail": "mallikarjun.sunkara@cheplapharm-reg.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Zyprexa 5 mg überzogene Tabletten - OP56(Blister) - Einreichungsnummer: 2794530"
+  },
+  {
+    "pzn": [
       "07373307"
     ],
     "enr": [
@@ -11829,30 +11852,6 @@
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Cheplapharm Registration GmbH",
     "telefon": "01601537174",
-    "mail": "mallikarjun.sunkara@cheplapharm-reg.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Zyprexa 5 mg überzogene Tabletten - OP56(Blister) - Einreichungsnummer: 2794530"
-  },
-  {
-    "pzn": [
-      "07373336"
-    ],
-    "enr": [
-      "2705751"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-09-03",
-    "datumEnde": "2025-11-24",
-    "datumErstmeldung": "2025-07-18",
-    "datumLetzteMeldung": "2025-09-04",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "ZYPADHERA 405 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(931mg+3ml)",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapinembonat-Monohydrat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Cheplapharm Registration GmbH",
-    "telefon": "1601537174",
     "mail": "mallikarjun.sunkara@cheplapharm-reg.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Zyprexa 5 mg überzogene Tabletten - OP56(Blister) - Einreichungsnummer: 2794530"
@@ -11968,6 +11967,30 @@
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "mail": "Service.De@glenmarkpharma.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04174412"
+    ],
+    "enr": [
+      "2170562"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-09-19",
+    "datumEnde": "2025-11-15",
+    "datumErstmeldung": "2025-09-19",
+    "datumLetzteMeldung": "2025-09-19",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Competitors stockout",
+    "bezeichnung": "Seroquel Prolong 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+    "mail": "ra-seroquel@cheplapharm.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Seroquel XR 200 mg Retardtabletten - Einreichungsnummer: 2178332"
   },
   {
     "pzn": [
@@ -14884,6 +14907,76 @@
   },
   {
     "pzn": [
+      "07568241"
+    ],
+    "enr": [
+      "2707600"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-09-19",
+    "datumEnde": "2025-10-15",
+    "datumErstmeldung": "2025-09-19",
+    "datumLetzteMeldung": "2025-09-19",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Eingeschränkte Lieferfähigkeit aufgrund höherer Abverkäufe",
+    "bezeichnung": "XEPLION 25 mg Depot-Injektionssuspension - OP1ml",
+    "atcCode": "N05AX13",
+    "wirkstoffe": "Paliperidonpalmitat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Janssen-Cilag International NV",
+    "telefon": "+49 2137 - 955 - 2288",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "18302368"
+    ],
+    "enr": [
+      "7000418"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-06-02",
+    "datumEnde": "2025-10-17",
+    "datumErstmeldung": "2025-06-02",
+    "datumLetzteMeldung": "2025-09-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Paliperidon Advanz Pharma 50 mg Depot-Injektionssuspension in einer Fertigspritze",
+    "atcCode": "N05AX13",
+    "wirkstoffe": "Paliperidonpalmitat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Advanz Pharma Limited",
+    "telefon": "02129 5301577",
+    "mail": "fzimmermann@productlife-group.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Paliperidon AbZ 50 mg Depot-Injektionssuspension - Einreichungsnummer: 7001828"
+  },
+  {
+    "pzn": [
+      "18302351"
+    ],
+    "enr": [
+      "7000417"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-10",
+    "datumEnde": "2025-11-30",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-09-19",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Paliperidon Advanz Pharma 25 mg Depot-Injektionssuspension in einer Fertigspritze",
+    "atcCode": "N05AX13",
+    "wirkstoffe": "Paliperidonpalmitat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Advanz Pharma Limited",
+    "mail": "fzimmermann@productlife-group.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Paliperidon Advanz Pharma 50 mg Depot-Injektionssuspension in einer Fertigspritze - Einreichungsnummer: 7000418"
+  },
+  {
+    "pzn": [
       "19236136"
     ],
     "enr": [
@@ -14927,29 +15020,6 @@
     "telefon": "0733396510",
     "mail": "info@aliud.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "18302351"
-    ],
-    "enr": [
-      "7000417"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-10",
-    "datumEnde": "2025-09-15",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-08-11",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Paliperidon Advanz Pharma 25 mg Depot-Injektionssuspension in einer Fertigspritze",
-    "atcCode": "N05AX13",
-    "wirkstoffe": "Paliperidonpalmitat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Advanz Pharma Limited",
-    "mail": "fzimmermann@productlife-group.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Paliperidon Advanz Pharma 50 mg Depot-Injektionssuspension in einer Fertigspritze - Einreichungsnummer: 7000418"
   },
   {
     "pzn": [
@@ -19345,11 +19415,11 @@
     "enr": [
       "2105796"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-08-20",
-    "datumEnde": "2025-09-15",
+    "datumEnde": "2025-09-26",
     "datumErstmeldung": "2025-08-21",
-    "datumLetzteMeldung": "2025-08-21",
+    "datumLetzteMeldung": "2025-09-19",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Beclorhinol aquosum 50 Mikrogramm",
@@ -19367,11 +19437,11 @@
     "enr": [
       "2105796"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-08-20",
-    "datumEnde": "2025-09-15",
+    "datumEnde": "2025-09-26",
     "datumErstmeldung": "2025-08-21",
-    "datumLetzteMeldung": "2025-08-21",
+    "datumLetzteMeldung": "2025-09-19",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Beclorhinol aquosum 50 Mikrogramm",
