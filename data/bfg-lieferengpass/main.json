@@ -917,9 +917,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-06-03",
-    "datumEnde": "2025-09-30",
+    "datumEnde": "2025-10-31",
     "datumErstmeldung": "2025-07-02",
-    "datumLetzteMeldung": "2025-08-25",
+    "datumLetzteMeldung": "2025-09-29",
     "grund": "Probleme beim Sonstigen Hersteller",
     "grundArt": "Sonstige",
     "bezeichnung": "Semglee 100 Einheiten/ml Injektionslösung in Fertigpen - OP(5x3ml)",
@@ -939,11 +939,11 @@
     "enr": [
       "7007916"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-07-15",
-    "datumEnde": "2025-09-30",
+    "datumEnde": "2025-10-31",
     "datumErstmeldung": "2025-07-29",
-    "datumLetzteMeldung": "2025-07-29",
+    "datumLetzteMeldung": "2025-09-29",
     "grund": "Probleme beim Sonstigen Hersteller",
     "grundArt": "Sonstige",
     "bezeichnung": "Semglee",
@@ -2482,7 +2482,7 @@
     "atcCode": "C07AA05",
     "wirkstoffe": "Propranololhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
@@ -4515,7 +4515,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -4538,7 +4538,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -4561,7 +4561,7 @@
     "atcCode": "D11AA",
     "wirkstoffe": "Methantheliniumbromid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "info.germany@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -6474,7 +6474,7 @@
     "atcCode": "J01XA01",
     "wirkstoffe": "Vancomycinhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Vancomycin \"Lederle\" 500mg - Einreichungsnummer: 2136654"
@@ -6682,7 +6682,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin-Natrium",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Eremfat i.v. 300mg - Einreichungsnummer: 2106370"
@@ -6706,7 +6706,7 @@
     "atcCode": "J04AB02",
     "wirkstoffe": "Rifampicin-Natrium",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Eremfat i.v. 300mg - Einreichungsnummer: 2106370"
@@ -6730,7 +6730,7 @@
     "atcCode": "J04AC01",
     "wirkstoffe": "Isoniazid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -6753,7 +6753,7 @@
     "atcCode": "J04AC01",
     "wirkstoffe": "Isoniazid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Nein"
   },
@@ -8452,7 +8452,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
   },
@@ -8474,7 +8474,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
   },
@@ -8496,7 +8496,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
   },
@@ -8518,7 +8518,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
   },
@@ -8540,7 +8540,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
   },
@@ -8562,7 +8562,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
   },
@@ -8584,7 +8584,7 @@
     "atcCode": "N01BA02",
     "wirkstoffe": "Procainhydrochlorid",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
   },
@@ -10541,7 +10541,7 @@
     "atcCode": "N03AX12",
     "wirkstoffe": "Gabapentin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
     "mail": "d.stephan@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Gabapentin Holsten 300 mg Hartkapseln - Einreichungsnummer: 2158852"
@@ -10564,7 +10564,7 @@
     "atcCode": "N03AX12",
     "wirkstoffe": "Gabapentin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
     "mail": "d.stephan@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Gabapentin Holsten 600 mg Filmtabletten - Einreichungsnummer: 2163100"
@@ -10587,7 +10587,7 @@
     "atcCode": "N03AX12",
     "wirkstoffe": "Gabapentin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
     "mail": "d.stephan@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Gabapentin Holsten 600 mg Filmtabletten - Einreichungsnummer: 2163100"
@@ -10610,7 +10610,7 @@
     "atcCode": "N03AX12",
     "wirkstoffe": "Gabapentin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Gabapentin Holsten 800 mg Filmtabletten - Einreichungsnummer: 2163101"
@@ -10633,7 +10633,7 @@
     "atcCode": "N03AX12",
     "wirkstoffe": "Gabapentin",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Gabapentin Holsten 100 mg Hartkapseln - Einreichungsnummer: 2158851"
@@ -15318,7 +15318,7 @@
     "atcCode": "N06AA04",
     "wirkstoffe": "Clomipraminhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15341,7 +15341,7 @@
     "atcCode": "N06AA04",
     "wirkstoffe": "Clomipraminhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15364,7 +15364,7 @@
     "atcCode": "N06AA04",
     "wirkstoffe": "Clomipraminhydrochlorid",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+    "zulassungsinhaber": "Riemser Pharma GmbH",
     "mail": "mratzlaff@esteve.com",
     "infoFachkreise": "Vorgesehen"
   },
@@ -15455,7 +15455,7 @@
     "atcCode": "N06AA12",
     "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Doxepin 50 Holsten - Einreichungsnummer: 0911813"
@@ -15478,7 +15478,7 @@
     "atcCode": "N06AA12",
     "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Doxepin 50 Holsten - Einreichungsnummer: 0911813"
@@ -15501,7 +15501,7 @@
     "atcCode": "N06AA12",
     "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Doxepin 50 Holsten - Einreichungsnummer: 0911813"
@@ -15524,7 +15524,7 @@
     "atcCode": "N06AA12",
     "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
     "telefon": "069962339020",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
@@ -15548,7 +15548,7 @@
     "atcCode": "N06AA12",
     "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
     "telefon": "069962339020",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
@@ -15572,7 +15572,7 @@
     "atcCode": "N06AA12",
     "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
     "krankenhausrelevant": true,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
     "telefon": "069962339020",
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
@@ -16317,6 +16317,30 @@
     "telefon": "0800-0700-800",
     "mail": "kundenservice@viatris.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17395646"
+    ],
+    "enr": [
+      "7002498"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-09-29",
+    "datumEnde": "2025-10-20",
+    "datumErstmeldung": "2025-09-29",
+    "datumLetzteMeldung": "2025-09-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Equasym Retard 40 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
+    "telefon": "0800 / 825332 5",
+    "mail": "MedinfoEMEA@takeda.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Equasym retard 20 mg Hartkapseln mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2164004"
   },
   {
     "pzn": [
@@ -19358,7 +19382,7 @@
     "datumBeginn": "2025-08-20",
     "datumEnde": "2025-10-13",
     "datumErstmeldung": "2025-08-21",
-    "datumLetzteMeldung": "2025-09-22",
+    "datumLetzteMeldung": "2025-09-29",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Beclorhinol aquosum 50 Mikrogramm",
@@ -19380,7 +19404,7 @@
     "datumBeginn": "2025-08-20",
     "datumEnde": "2025-10-13",
     "datumErstmeldung": "2025-08-21",
-    "datumLetzteMeldung": "2025-09-22",
+    "datumLetzteMeldung": "2025-09-29",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Beclorhinol aquosum 50 Mikrogramm",
@@ -20191,7 +20215,7 @@
     "atcCode": "S01BA04",
     "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
-    "zulassungsinhaber": "mibe GmbH Arzneimittel",
+    "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "0349542470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
     "infoFachkreise": "Nein"
