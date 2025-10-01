@@ -1152,6 +1152,24 @@
     }
   },
   {
+    "veroeffentlichung": "2025-09-30",
+    "emittent": {
+      "name": "JENOPTIK Aktiengesellschaft",
+      "sitz": "Jena",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Amundi S.A.",
+      "sitz": "Paris",
+      "land": "Frankreich"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.15,
+      "instrumente": 0,
+      "summe": 3.15
+    }
+  },
+  {
     "veroeffentlichung": "2025-03-13",
     "emittent": {
       "name": "Infineon Technologies AG",
@@ -2052,24 +2070,6 @@
     }
   },
   {
-    "veroeffentlichung": "2025-09-19",
-    "emittent": {
-      "name": "B+S Banksysteme Aktiengesellschaft",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Axxion S.A.",
-      "sitz": "Grevenmacher",
-      "land": "Luxemburg"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.62,
-      "instrumente": 0,
-      "summe": 3.62
-    }
-  },
-  {
     "veroeffentlichung": "2025-09-04",
     "emittent": {
       "name": "Aumann AG",
@@ -2447,24 +2447,6 @@
       "gesamt": 0.26,
       "instrumente": 4.83,
       "summe": 5.1
-    }
-  },
-  {
-    "veroeffentlichung": "2025-09-10",
-    "emittent": {
-      "name": "SMA Solar Technology AG",
-      "sitz": "Niestetal",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Bank of America Corporation",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 1.89,
-      "instrumente": 3.15,
-      "summe": 5.04
     }
   },
   {
@@ -3352,7 +3334,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-07-07",
+    "veroeffentlichung": "2025-09-30",
     "emittent": {
       "name": "Zalando SE",
       "sitz": "Berlin",
@@ -3364,9 +3346,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.45,
-      "instrumente": 0.26,
-      "summe": 5.71
+      "gesamt": 5.001,
+      "instrumente": 0.06,
+      "summe": 5.06
     }
   },
   {
@@ -3532,7 +3514,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-08-26",
+    "veroeffentlichung": "2025-09-29",
     "emittent": {
       "name": "SAP SE",
       "sitz": "Walldorf",
@@ -3544,9 +3526,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.55,
-      "instrumente": 0.02,
-      "summe": 6.57
+      "gesamt": 6.56,
+      "instrumente": 0.04,
+      "summe": 6.61
     }
   },
   {
@@ -4180,7 +4162,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-09-24",
+    "veroeffentlichung": "2025-09-29",
     "emittent": {
       "name": "DEUTSCHE BANK AKTIENGESELLSCHAFT",
       "sitz": "Frankfurt am Main",
@@ -4192,8 +4174,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 7.49,
-      "instrumente": 0.02,
+      "gesamt": 7.2,
+      "instrumente": 0.31,
       "summe": 7.51
     }
   },
@@ -8104,7 +8086,7 @@
   {
     "veroeffentlichung": "2022-11-07",
     "emittent": {
-      "name": "tmc Content Group AG",
+      "name": "VIDINEXT AG",
       "sitz": "Zug",
       "land": "Schweiz"
     },
@@ -14089,6 +14071,24 @@
     }
   },
   {
+    "veroeffentlichung": "2025-09-30",
+    "emittent": {
+      "name": "Covestro AG",
+      "sitz": "Leverkusen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "JPMORGAN CHASE & CO",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 2.51,
+      "instrumente": 2.52,
+      "summe": 5.03
+    }
+  },
+  {
     "veroeffentlichung": "2025-08-05",
     "emittent": {
       "name": "Adtran Networks SE",
@@ -14405,7 +14405,7 @@
   {
     "veroeffentlichung": "2025-08-29",
     "emittent": {
-      "name": "tmc Content Group AG",
+      "name": "VIDINEXT AG",
       "sitz": "Zug",
       "land": "Schweiz"
     },
@@ -19300,7 +19300,7 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 0.01,
-      "instrumente": 9.99,
+      "instrumente": 10.00139,
       "summe": 10.01
     }
   },
@@ -19413,7 +19413,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-09-25",
+    "veroeffentlichung": "2025-09-29",
     "emittent": {
       "name": "Bilfinger SE",
       "sitz": "Mannheim",
@@ -19425,9 +19425,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.09,
+      "gesamt": 3.05,
       "instrumente": 2.47,
-      "summe": 5.56
+      "summe": 5.52
     }
   },
   {
@@ -19449,7 +19449,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-09-26",
+    "veroeffentlichung": "2025-09-29",
     "emittent": {
       "name": "ADTRAN Holdings, Inc.",
       "sitz": "Wilmington",
@@ -19461,9 +19461,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.41,
-      "instrumente": 3.6,
-      "summe": 5.0031
+      "gesamt": 1.45,
+      "instrumente": 4,
+      "summe": 5.45
     }
   },
   {
@@ -20846,7 +20846,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-09-25",
+    "veroeffentlichung": "2025-09-29",
     "emittent": {
       "name": "HUGO BOSS AG",
       "sitz": "Metzingen",
@@ -20858,9 +20858,9 @@
       "land": "Italien"
     },
     "stimmrechtsanteile": {
-      "gesamt": 15.01,
-      "instrumente": 0.65,
-      "summe": 15.66
+      "gesamt": 14.15,
+      "instrumente": 0,
+      "summe": 14.15
     }
   },
   {
@@ -22548,7 +22548,7 @@
   {
     "veroeffentlichung": "2020-11-17",
     "emittent": {
-      "name": "tmc Content Group AG",
+      "name": "VIDINEXT AG",
       "sitz": "Zug",
       "land": "Schweiz"
     },
@@ -27191,10 +27191,10 @@
     }
   },
   {
-    "veroeffentlichung": "2025-09-16",
+    "veroeffentlichung": "2025-09-30",
     "emittent": {
-      "name": "Scout24 SE",
-      "sitz": "München",
+      "name": "Symrise AG",
+      "sitz": "Holzminden",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -27203,9 +27203,9 @@
       "land": "Norwegen"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.1,
-      "instrumente": 0,
-      "summe": 3.1
+      "gesamt": 3.07,
+      "instrumente": 0.41,
+      "summe": 3.48
     }
   },
   {
@@ -29044,6 +29044,24 @@
     }
   },
   {
+    "veroeffentlichung": "2025-09-29",
+    "emittent": {
+      "name": "Covestro AG",
+      "sitz": "Leverkusen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 2.98,
+      "instrumente": 2.08,
+      "summe": 5.06
+    }
+  },
+  {
     "veroeffentlichung": "2025-04-23",
     "emittent": {
       "name": "AUTO1 Group SE",
@@ -29571,24 +29589,6 @@
       "gesamt": 3.82,
       "instrumente": 0,
       "summe": 3.82
-    }
-  },
-  {
-    "veroeffentlichung": "2025-09-24",
-    "emittent": {
-      "name": "Siltronic AG",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Union Investment Privatfonds GmbH",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.2,
-      "instrumente": 0.9,
-      "summe": 4.1
     }
   },
   {
@@ -30142,7 +30142,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-09-15",
+    "veroeffentlichung": "2025-09-29",
     "emittent": {
       "name": "Knaus Tabbert AG",
       "sitz": "Jandelsbrunn",
@@ -30154,9 +30154,9 @@
       "land": "Niederlande"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.34,
+      "gesamt": 5.06,
       "instrumente": 0,
-      "summe": 3.34
+      "summe": 5.06
     }
   },
   {
@@ -31092,7 +31092,7 @@
   {
     "veroeffentlichung": "2022-11-04",
     "emittent": {
-      "name": "tmc Content Group AG",
+      "name": "VIDINEXT AG",
       "sitz": "Zug",
       "land": "Schweiz"
     },
@@ -32826,7 +32826,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-09-25",
+    "veroeffentlichung": "2025-09-29",
     "emittent": {
       "name": "HUGO BOSS AG",
       "sitz": "Metzingen",
@@ -32838,9 +32838,9 @@
       "land": "Italien"
     },
     "stimmrechtsanteile": {
-      "gesamt": 15.01,
-      "instrumente": 0.65,
-      "summe": 15.66
+      "gesamt": 14.15,
+      "instrumente": 0,
+      "summe": 14.15
     }
   },
   {
