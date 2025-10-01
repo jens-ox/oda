@@ -1656,6 +1656,29 @@
   },
   {
     "pzn": [
+      "14303313"
+    ],
+    "enr": [
+      "2200006"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-09-30",
+    "datumEnde": "2025-12-05",
+    "datumErstmeldung": "2025-09-30",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Viant Pulver zur Herstellung einer Infusionslösung",
+    "atcCode": "B05XC30",
+    "wirkstoffe": "Ascorbinsäure; Biotin; Colecalciferol; Cyanocobalamin; Dexpanthenol; Folsäure-Hydrat ((mit Angaben zum Wasser-Gehalt (1:x))); Nicotinamid; Pyridoxinhydrochlorid; Retinolpalmitat; Riboflavinphosphat-Natrium; Thiaminchloridhydrochlorid; all-rac-Phytomenadion; all-rac-alpha-Tocopherol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "B. Braun Melsungen Aktiengesellschaft",
+    "telefon": "0566191477309",
+    "mail": "benjamin.strippel@bbraun.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "00000000"
     ],
     "enr": [
@@ -5676,9 +5699,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-10-01",
-    "datumEnde": "2025-09-24",
+    "datumEnde": "2025-11-30",
     "datumErstmeldung": "2023-09-01",
-    "datumLetzteMeldung": "2025-09-24",
+    "datumLetzteMeldung": "2025-09-30",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "IRENAT® Tropfen (Natriumperchlorat 300 mg/ml), 40 ml, PZN 00528600, zugelassen in Deutschland, sind seit Sommer 2025 wieder dauerhaft lieferbar.    Es wurde eine neue Produktion aufgebaut.    Veröffentlicht im Auftrag des neuen Zulassungsinhabers Dotopharma GmbH.",
@@ -5934,9 +5957,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-03",
-    "datumEnde": "2025-09-30",
+    "datumEnde": "2025-12-30",
     "datumErstmeldung": "2022-11-03",
-    "datumLetzteMeldung": "2025-07-01",
+    "datumLetzteMeldung": "2025-09-30",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Pen Mega - 1 A Pharma",
@@ -5957,9 +5980,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-03",
-    "datumEnde": "2025-09-30",
+    "datumEnde": "2025-12-30",
     "datumErstmeldung": "2022-11-03",
-    "datumLetzteMeldung": "2025-07-01",
+    "datumLetzteMeldung": "2025-09-30",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Pen Mega - 1 A Pharma",
@@ -5980,9 +6003,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2022-11-03",
-    "datumEnde": "2025-09-30",
+    "datumEnde": "2025-12-30",
     "datumErstmeldung": "2022-11-03",
-    "datumLetzteMeldung": "2025-07-01",
+    "datumLetzteMeldung": "2025-09-30",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Pen Mega - 1 A Pharma",
@@ -6120,9 +6143,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-06-30",
-    "datumEnde": "2025-09-30",
+    "datumEnde": "2025-10-02",
     "datumErstmeldung": "2025-07-23",
-    "datumLetzteMeldung": "2025-09-24",
+    "datumLetzteMeldung": "2025-09-30",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Azithromycin AL 250 mg Filmtabletten",
@@ -6662,6 +6685,31 @@
     "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
     "mail": "elisabeth.rueckert@dermapharm.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "09505109"
+    ],
+    "enr": [
+      "2106371"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-09-08",
+    "datumEnde": "2025-10-12",
+    "datumErstmeldung": "2025-09-30",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "higher sales in previous and current months / delay in new production",
+    "bezeichnung": "Eremfat i.v. 600mg",
+    "atcCode": "J04AB02",
+    "wirkstoffe": "Rifampicin-Natrium",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Riemser Pharma GmbH",
+    "telefon": "03038427574",
+    "mail": "aragoncillo@esteve.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Eremfat i.v. 600mg - Einreichungsnummer: 2106371"
   },
   {
     "pzn": [
@@ -8989,52 +9037,6 @@
   },
   {
     "pzn": [
-      "04682479"
-    ],
-    "enr": [
-      "2169185"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-08-11",
-    "datumEnde": "2025-10-06",
-    "datumErstmeldung": "2025-08-11",
-    "datumLetzteMeldung": "2025-08-11",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycodon-HCl HEXAL 20 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Oxycodon-HCl HEXAL 20 mg Retardtabletten - Einreichungsnummer: 2169185"
-  },
-  {
-    "pzn": [
-      "01128311"
-    ],
-    "enr": [
-      "2169184"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-08-11",
-    "datumEnde": "2025-10-01",
-    "datumErstmeldung": "2025-08-11",
-    "datumLetzteMeldung": "2025-08-11",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Oxycodon-HCl HEXAL 10 mg Retardtabletten",
-    "atcCode": "N02AA05",
-    "wirkstoffe": "Oxycodonhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Oxycodon-HCl HEXAL 10 mg Retardtabletten - Einreichungsnummer: 2169184"
-  },
-  {
-    "pzn": [
       "09901101"
     ],
     "enr": [
@@ -10936,6 +10938,98 @@
   },
   {
     "pzn": [
+      "08454870"
+    ],
+    "enr": [
+      "2190757"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-04-03",
+    "datumEnde": "2025-11-30",
+    "datumErstmeldung": "2025-04-11",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pramipexol HEXAL 0,26 mg Retardtabletten",
+    "atcCode": "N04BC05",
+    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Pramipexol - 1 A Pharma 0,26 mg Retardtabletten - Einreichungsnummer: 2190750"
+  },
+  {
+    "pzn": [
+      "08454924"
+    ],
+    "enr": [
+      "2190757"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-04-03",
+    "datumEnde": "2025-11-30",
+    "datumErstmeldung": "2025-04-11",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pramipexol HEXAL 0,26 mg Retardtabletten",
+    "atcCode": "N04BC05",
+    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Pramipexol - 1 A Pharma 0,26 mg Retardtabletten - Einreichungsnummer: 2190750"
+  },
+  {
+    "pzn": [
+      "08454947"
+    ],
+    "enr": [
+      "2190758"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-18",
+    "datumEnde": "2025-11-30",
+    "datumErstmeldung": "2025-04-11",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pramipexol HEXAL 0,52 mg Retardtabletten",
+    "atcCode": "N04BC05",
+    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Pramipexol HEXAL 0,26 mg Retardtabletten - Einreichungsnummer: 2190757"
+  },
+  {
+    "pzn": [
+      "08454953"
+    ],
+    "enr": [
+      "2190758"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-03-18",
+    "datumEnde": "2025-11-30",
+    "datumErstmeldung": "2025-04-11",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Pramipexol HEXAL 0,52 mg Retardtabletten",
+    "atcCode": "N04BC05",
+    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+    "mail": "service@hexal.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Pramipexol HEXAL 0,26 mg Retardtabletten - Einreichungsnummer: 2190757"
+  },
+  {
+    "pzn": [
       "07604244"
     ],
     "enr": [
@@ -11140,52 +11234,6 @@
   },
   {
     "pzn": [
-      "08454947"
-    ],
-    "enr": [
-      "2190758"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-03-18",
-    "datumEnde": "2025-09-30",
-    "datumErstmeldung": "2025-04-11",
-    "datumLetzteMeldung": "2025-07-22",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pramipexol HEXAL 0,52 mg Retardtabletten",
-    "atcCode": "N04BC05",
-    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Pramipexol HEXAL 0,26 mg Retardtabletten - Einreichungsnummer: 2190757"
-  },
-  {
-    "pzn": [
-      "08454953"
-    ],
-    "enr": [
-      "2190758"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-03-18",
-    "datumEnde": "2025-09-30",
-    "datumErstmeldung": "2025-04-11",
-    "datumLetzteMeldung": "2025-07-22",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pramipexol HEXAL 0,52 mg Retardtabletten",
-    "atcCode": "N04BC05",
-    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Pramipexol HEXAL 0,26 mg Retardtabletten - Einreichungsnummer: 2190757"
-  },
-  {
-    "pzn": [
       "11095624"
     ],
     "enr": [
@@ -11229,52 +11277,6 @@
     "telefon": "0800-0700-800",
     "mail": "kundenservice@viatris.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08454870"
-    ],
-    "enr": [
-      "2190757"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-04-03",
-    "datumEnde": "2025-09-30",
-    "datumErstmeldung": "2025-04-11",
-    "datumLetzteMeldung": "2025-07-01",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pramipexol HEXAL 0,26 mg Retardtabletten",
-    "atcCode": "N04BC05",
-    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Pramipexol - 1 A Pharma 0,26 mg Retardtabletten - Einreichungsnummer: 2190750"
-  },
-  {
-    "pzn": [
-      "08454924"
-    ],
-    "enr": [
-      "2190757"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-04-03",
-    "datumEnde": "2025-09-30",
-    "datumErstmeldung": "2025-04-11",
-    "datumLetzteMeldung": "2025-07-01",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Pramipexol HEXAL 0,26 mg Retardtabletten",
-    "atcCode": "N04BC05",
-    "wirkstoffe": "Pramipexoldihydrochlorid-Monohydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
-    "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Pramipexol - 1 A Pharma 0,26 mg Retardtabletten - Einreichungsnummer: 2190750"
   },
   {
     "pzn": [
@@ -14825,6 +14827,52 @@
   },
   {
     "pzn": [
+      "19236136"
+    ],
+    "enr": [
+      "7012032"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-05-20",
+    "datumEnde": "2025-10-09",
+    "datumErstmeldung": "2025-05-28",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Paliperidon AL 25 mg Depot-Injektionssuspension in einer Fertigspritze",
+    "atcCode": "N05AX13",
+    "wirkstoffe": "Paliperidonpalmitat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "19115527"
+    ],
+    "enr": [
+      "7012033"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-05-20",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-08-04",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Paliperidon AL 50 mg Depot-Injektionssuspension in einer Fertigspritze",
+    "atcCode": "N05AX13",
+    "wirkstoffe": "Paliperidonpalmitat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "07568241"
     ],
     "enr": [
@@ -14892,52 +14940,6 @@
     "mail": "fzimmermann@productlife-group.com",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Paliperidon Advanz Pharma 50 mg Depot-Injektionssuspension in einer Fertigspritze - Einreichungsnummer: 7000418"
-  },
-  {
-    "pzn": [
-      "19236136"
-    ],
-    "enr": [
-      "7012032"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-05-20",
-    "datumEnde": "2025-09-30",
-    "datumErstmeldung": "2025-05-28",
-    "datumLetzteMeldung": "2025-09-11",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Paliperidon AL 25 mg Depot-Injektionssuspension in einer Fertigspritze",
-    "atcCode": "N05AX13",
-    "wirkstoffe": "Paliperidonpalmitat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "19115527"
-    ],
-    "enr": [
-      "7012033"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-05-20",
-    "datumEnde": "2025-09-30",
-    "datumErstmeldung": "2025-08-04",
-    "datumLetzteMeldung": "2025-09-04",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Paliperidon AL 50 mg Depot-Injektionssuspension in einer Fertigspritze",
-    "atcCode": "N05AX13",
-    "wirkstoffe": "Paliperidonpalmitat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -15282,11 +15284,11 @@
     "enr": [
       "0083948"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-08-25",
-    "datumEnde": "2025-10-31",
+    "datumEnde": "2025-11-30",
     "datumErstmeldung": "2025-08-25",
-    "datumLetzteMeldung": "2025-08-25",
+    "datumLetzteMeldung": "2025-09-30",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "grundAnmerkung": "supplier of closures is not producing anymore",
@@ -16320,6 +16322,29 @@
   },
   {
     "pzn": [
+      "17877078"
+    ],
+    "enr": [
+      "2203321"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-09-01",
+    "datumEnde": "2025-10-09",
+    "datumErstmeldung": "2025-09-04",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidat AL 36 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "17395646"
     ],
     "enr": [
@@ -16495,29 +16520,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "ratiopharm GmbH",
     "mail": "info@ratriopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17877078"
-    ],
-    "enr": [
-      "2203321"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-09-01",
-    "datumEnde": "2025-09-30",
-    "datumErstmeldung": "2025-09-04",
-    "datumLetzteMeldung": "2025-09-04",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Methylphenidat AL 36 mg Retardtabletten",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -18125,6 +18127,204 @@
   },
   {
     "pzn": [
+      "09632842"
+    ],
+    "enr": [
+      "2193161"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09901590"
+    ],
+    "enr": [
+      "2193161"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "10408908"
+    ],
+    "enr": [
+      "2193161"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06195016"
+    ],
+    "enr": [
+      "2193162"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09632859"
+    ],
+    "enr": [
+      "2193162"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09632871"
+    ],
+    "enr": [
+      "2193162"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "06195401"
+    ],
+    "enr": [
+      "2193163"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09632888"
+    ],
+    "enr": [
+      "2193163"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09632902"
+    ],
+    "enr": [
+      "2193163"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-24",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-03-10",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+    "mail": "info@heumann.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "08755407"
     ],
     "enr": [
@@ -18187,72 +18387,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "ratiopharm GmbH",
     "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06195401"
-    ],
-    "enr": [
-      "2193163"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-09-30",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-08-14",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09632888"
-    ],
-    "enr": [
-      "2193163"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-09-30",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-08-14",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09632902"
-    ],
-    "enr": [
-      "2193163"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-09-30",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-08-14",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -18877,138 +19011,6 @@
     "zulassungsinhaber": "Medical Valley Invest AB HR-Beiname: AXiromed, Xiromed",
     "mail": "lars.hilbig@xiromed.com",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "06195016"
-    ],
-    "enr": [
-      "2193162"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-09-30",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-06-25",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09632859"
-    ],
-    "enr": [
-      "2193162"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-09-30",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-06-25",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09632871"
-    ],
-    "enr": [
-      "2193162"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-09-30",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-06-25",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09632842"
-    ],
-    "enr": [
-      "2193161"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-09-30",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-06-25",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09901590"
-    ],
-    "enr": [
-      "2193161"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-09-30",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-06-25",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "10408908"
-    ],
-    "enr": [
-      "2193161"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-02-24",
-    "datumEnde": "2025-09-30",
-    "datumErstmeldung": "2025-03-10",
-    "datumLetzteMeldung": "2025-06-25",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-    "mail": "info@heumann.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -19675,9 +19677,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-01",
-    "datumEnde": "2025-09-30",
+    "datumEnde": "2025-11-01",
     "datumErstmeldung": "2025-06-30",
-    "datumLetzteMeldung": "2025-09-05",
+    "datumLetzteMeldung": "2025-09-30",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "COMBIPRASAL 0,5 mg / 2,5 mg Lösung für einen Vernebler",
@@ -19697,9 +19699,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-01-01",
-    "datumEnde": "2025-09-30",
+    "datumEnde": "2025-11-01",
     "datumErstmeldung": "2025-06-30",
-    "datumLetzteMeldung": "2025-09-05",
+    "datumLetzteMeldung": "2025-09-30",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "COMBIPRASAL 0,5 mg / 2,5 mg Lösung für einen Vernebler",
@@ -19856,6 +19858,72 @@
   },
   {
     "pzn": [
+      "11509818"
+    ],
+    "enr": [
+      "2182006"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-05-01",
+    "datumEnde": "2025-11-01",
+    "datumErstmeldung": "2025-06-30",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ipratropiumbromid 250 Mikrogramm / 1 ml Stulln",
+    "atcCode": "R03BB01",
+    "wirkstoffe": "Ipratropiumbromid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Penta Arzneimittel GmbH",
+    "mail": "cornelius@penta-arzneimittel.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11509824"
+    ],
+    "enr": [
+      "2182006"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-05-01",
+    "datumEnde": "2025-11-01",
+    "datumErstmeldung": "2025-06-30",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ipratropiumbromid 250 Mikrogramm / 1 ml Stulln",
+    "atcCode": "R03BB01",
+    "wirkstoffe": "Ipratropiumbromid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Penta Arzneimittel GmbH",
+    "mail": "cornelius@penta-arzneimittel.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11509830"
+    ],
+    "enr": [
+      "2182006"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-05-01",
+    "datumEnde": "2025-11-01",
+    "datumErstmeldung": "2025-06-30",
+    "datumLetzteMeldung": "2025-09-30",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Ipratropiumbromid 250 Mikrogramm / 1 ml Stulln",
+    "atcCode": "R03BB01",
+    "wirkstoffe": "Ipratropiumbromid",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Penta Arzneimittel GmbH",
+    "mail": "cornelius@penta-arzneimittel.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "00668732"
     ],
     "enr": [
@@ -19892,72 +19960,6 @@
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Ipratropiumbromid 125 Mikrogramm / 1 ml Stulln",
-    "atcCode": "R03BB01",
-    "wirkstoffe": "Ipratropiumbromid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Penta Arzneimittel GmbH",
-    "mail": "cornelius@penta-arzneimittel.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11509818"
-    ],
-    "enr": [
-      "2182006"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-05-01",
-    "datumEnde": "2025-10-01",
-    "datumErstmeldung": "2025-06-30",
-    "datumLetzteMeldung": "2025-06-30",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ipratropiumbromid 250 Mikrogramm / 1 ml Stulln",
-    "atcCode": "R03BB01",
-    "wirkstoffe": "Ipratropiumbromid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Penta Arzneimittel GmbH",
-    "mail": "cornelius@penta-arzneimittel.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11509824"
-    ],
-    "enr": [
-      "2182006"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-05-01",
-    "datumEnde": "2025-10-01",
-    "datumErstmeldung": "2025-06-30",
-    "datumLetzteMeldung": "2025-06-30",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ipratropiumbromid 250 Mikrogramm / 1 ml Stulln",
-    "atcCode": "R03BB01",
-    "wirkstoffe": "Ipratropiumbromid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Penta Arzneimittel GmbH",
-    "mail": "cornelius@penta-arzneimittel.de",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "11509830"
-    ],
-    "enr": [
-      "2182006"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-05-01",
-    "datumEnde": "2025-10-01",
-    "datumErstmeldung": "2025-06-30",
-    "datumLetzteMeldung": "2025-06-30",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Ipratropiumbromid 250 Mikrogramm / 1 ml Stulln",
     "atcCode": "R03BB01",
     "wirkstoffe": "Ipratropiumbromid",
     "krankenhausrelevant": true,
@@ -20392,9 +20394,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-06-01",
-    "datumEnde": "2025-10-15",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2025-01-20",
-    "datumLetzteMeldung": "2025-08-05",
+    "datumLetzteMeldung": "2025-09-30",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Mydriaticum Stulln UD",
