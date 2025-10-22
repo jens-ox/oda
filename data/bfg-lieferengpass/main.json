@@ -1247,6 +1247,30 @@
   },
   {
     "pzn": [
+      "08645943"
+    ],
+    "enr": [
+      "2137710"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-09-16",
+    "datumEnde": "2025-10-31",
+    "datumErstmeldung": "2025-10-21",
+    "datumLetzteMeldung": "2025-10-21",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "next inbound ETA 31.10.2025; Qty: 1.500 packs",
+    "bezeichnung": "innohep 20.000 Anti-Xa I.E./ml Durchstechflaschen Injektionslösung",
+    "atcCode": "B01AB",
+    "wirkstoffe": "Tinzaparin-Natrium",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Leo Pharma A/S HR-Beiname: Leo Pharmaceutical Products Ltd. A/S",
+    "mail": "regulatory_affairs_de@leo-pharma.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "innohep 20.000 Anti-Xa I.E./ml Durchstechflaschen Injektionslösung - Einreichungsnummer: 2137710"
+  },
+  {
+    "pzn": [
       "14026486"
     ],
     "enr": [
@@ -1975,6 +1999,31 @@
     "telefon": "0221 277 299 100",
     "mail": "info@altamedics.de",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "04630287"
+    ],
+    "enr": [
+      "3001951"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-31",
+    "datumEnde": "2025-11-20",
+    "datumErstmeldung": "2025-10-21",
+    "datumLetzteMeldung": "2025-10-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "erhöhte Nachfrage durch Lieferengpass weiterer Anbieter",
+    "bezeichnung": "Dopegyt-Tabletten",
+    "atcCode": "C02AB01",
+    "wirkstoffe": "Methyldopa (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+    "telefon": "03834 451 0",
+    "mail": "ra-dopegyt@cheplapharm.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Methyldopa STADA 250mg Filmtablette - Einreichungsnummer: 0688195"
   },
   {
     "pzn": [
@@ -6460,126 +6509,6 @@
   },
   {
     "pzn": [
-      "10180227"
-    ],
-    "enr": [
-      "2185464"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-07-23",
-    "datumEnde": "2025-10-14",
-    "datumErstmeldung": "2025-07-30",
-    "datumLetzteMeldung": "2025-08-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "API Verzögerung/Produktionsverzögerung",
-    "bezeichnung": "Moxifloxacin Aurobindo 400 mg Filmtabletten",
-    "atcCode": "J01MA14",
-    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
-    "mail": "ATsiboukis@puren-pharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Moxifloxacin PUREN 400 mg Filmtabletten - Einreichungsnummer: 2196308"
-  },
-  {
-    "pzn": [
-      "10180233"
-    ],
-    "enr": [
-      "2185464"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-07-23",
-    "datumEnde": "2025-10-14",
-    "datumErstmeldung": "2025-07-30",
-    "datumLetzteMeldung": "2025-08-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "API Verzögerung/Produktionsverzögerung",
-    "bezeichnung": "Moxifloxacin Aurobindo 400 mg Filmtabletten",
-    "atcCode": "J01MA14",
-    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
-    "mail": "ATsiboukis@puren-pharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Moxifloxacin PUREN 400 mg Filmtabletten - Einreichungsnummer: 2196308"
-  },
-  {
-    "pzn": [
-      "10180256"
-    ],
-    "enr": [
-      "2185464"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-07-23",
-    "datumEnde": "2025-10-14",
-    "datumErstmeldung": "2025-07-30",
-    "datumLetzteMeldung": "2025-08-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "API Verzögerung/Produktionsverzögerung",
-    "bezeichnung": "Moxifloxacin Aurobindo 400 mg Filmtabletten",
-    "atcCode": "J01MA14",
-    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
-    "mail": "ATsiboukis@puren-pharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Moxifloxacin PUREN 400 mg Filmtabletten - Einreichungsnummer: 2196308"
-  },
-  {
-    "pzn": [
-      "11356616"
-    ],
-    "enr": [
-      "2196308"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-07-17",
-    "datumEnde": "2025-10-28",
-    "datumErstmeldung": "2025-07-30",
-    "datumLetzteMeldung": "2025-08-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "API Verzögerung/Produktionsverzögerung",
-    "bezeichnung": "Moxifloxacin PUREN 400 mg Filmtabletten",
-    "atcCode": "J01MA14",
-    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
-    "mail": "ATsiboukis@puren-pharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Moxifloxacin PUREN 400 mg Filmtabletten - Einreichungsnummer: 2196308"
-  },
-  {
-    "pzn": [
-      "15785797"
-    ],
-    "enr": [
-      "2196308"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-07-17",
-    "datumEnde": "2025-10-28",
-    "datumErstmeldung": "2025-07-30",
-    "datumLetzteMeldung": "2025-08-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "API Verzögerung/Produktionsverzögerung",
-    "bezeichnung": "Moxifloxacin PUREN 400 mg Filmtabletten",
-    "atcCode": "J01MA14",
-    "wirkstoffe": "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
-    "mail": "ATsiboukis@puren-pharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Moxifloxacin PUREN 400 mg Filmtabletten - Einreichungsnummer: 2196308"
-  },
-  {
-    "pzn": [
       "13414708"
     ],
     "enr": [
@@ -8349,30 +8278,6 @@
   },
   {
     "pzn": [
-      "15877973"
-    ],
-    "enr": [
-      "2199267"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-07-24",
-    "datumEnde": "2025-11-29",
-    "datumErstmeldung": "2025-07-30",
-    "datumLetzteMeldung": "2025-08-12",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Größere Packungsgröße wurde priorisiert.",
-    "bezeichnung": "IBU-PUREN akut 400 mg Filmtabletten",
-    "atcCode": "M01AE01",
-    "wirkstoffe": "Ibuprofen",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
-    "mail": "ATsiboukis@puren-pharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Ibuprofen PUREN 800 mg Filmtabletten - Einreichungsnummer: 2199163"
-  },
-  {
-    "pzn": [
       "15877996"
     ],
     "enr": [
@@ -8382,7 +8287,7 @@
     "datumBeginn": "2025-07-24",
     "datumEnde": "2025-11-29",
     "datumErstmeldung": "2025-07-30",
-    "datumLetzteMeldung": "2025-08-12",
+    "datumLetzteMeldung": "2025-10-21",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Größere Packungsgröße wurde priorisiert.",
@@ -9862,29 +9767,6 @@
   },
   {
     "pzn": [
-      "11176038"
-    ],
-    "enr": [
-      "2196053"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-07-16",
-    "datumEnde": "2025-12-17",
-    "datumErstmeldung": "2025-07-31",
-    "datumLetzteMeldung": "2025-07-31",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Pregabalin PUREN 25 mg Hartkapseln",
-    "atcCode": "N02BF02",
-    "wirkstoffe": "Pregabalin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
-    "mail": "ATsiboukis@puren-pharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Pregabalin PUREN 25 mg Hartkapseln - Einreichungsnummer: 2196053"
-  },
-  {
-    "pzn": [
       "12436518"
     ],
     "enr": [
@@ -10473,6 +10355,98 @@
   },
   {
     "pzn": [
+      "04897151"
+    ],
+    "enr": [
+      "0004096"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-21",
+    "datumEnde": "2026-02-16",
+    "datumErstmeldung": "2025-10-21",
+    "datumLetzteMeldung": "2025-10-21",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "n.a.",
+    "bezeichnung": "Timonil Saft",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Desitin Arzneimittel GmbH",
+    "mail": "info@desitin.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00914131"
+    ],
+    "enr": [
+      "2113716"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-08-05",
+    "datumEnde": "2026-01-27",
+    "datumErstmeldung": "2025-07-17",
+    "datumLetzteMeldung": "2025-10-21",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "carbadura 400 mg retard",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Germany GmbH",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00914148"
+    ],
+    "enr": [
+      "2113716"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-08-05",
+    "datumEnde": "2026-01-27",
+    "datumErstmeldung": "2025-07-17",
+    "datumLetzteMeldung": "2025-10-21",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "carbadura 400 mg retard",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Germany GmbH",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "00914154"
+    ],
+    "enr": [
+      "2113716"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-08-05",
+    "datumEnde": "2026-01-27",
+    "datumErstmeldung": "2025-07-17",
+    "datumLetzteMeldung": "2025-10-21",
+    "grund": "Probleme beim Wirkstoffhersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "carbadura 400 mg retard",
+    "atcCode": "N03AF01",
+    "wirkstoffe": "Carbamazepin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Mylan Germany GmbH",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "00620518"
     ],
     "enr": [
@@ -10624,30 +10598,6 @@
     "zulassungsinhaber": "ratiopharm GmbH",
     "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00914148"
-    ],
-    "enr": [
-      "2113716"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-08-05",
-    "datumEnde": "2026-08-15",
-    "datumErstmeldung": "2025-07-17",
-    "datumLetzteMeldung": "2025-08-21",
-    "grund": "Probleme beim Wirkstoffhersteller",
-    "grundArt": "Sonstige",
-    "bezeichnung": "carbadura 400 mg retard",
-    "atcCode": "N03AF01",
-    "wirkstoffe": "Carbamazepin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Mylan Germany GmbH",
-    "telefon": "08000700800",
-    "mail": "kundenservice@viatris.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "carbadura 400 mg retard - Einreichungsnummer: 2113716"
   },
   {
     "pzn": [
@@ -14975,54 +14925,6 @@
   },
   {
     "pzn": [
-      "07713507"
-    ],
-    "enr": [
-      "2180751"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-07-30",
-    "datumEnde": "2025-10-17",
-    "datumErstmeldung": "2025-07-30",
-    "datumLetzteMeldung": "2025-09-02",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Mehr Verkäufe als geplant.",
-    "bezeichnung": "Risperidon Aurobindo 1 mg Filmtabletten",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
-    "mail": "ATsiboukis@puren-pharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Risperidon PUREN 1 mg Filmtabletten - Einreichungsnummer: 2195713"
-  },
-  {
-    "pzn": [
-      "11358064"
-    ],
-    "enr": [
-      "2195713"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-07-16",
-    "datumEnde": "2025-11-28",
-    "datumErstmeldung": "2025-07-30",
-    "datumLetzteMeldung": "2025-09-02",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Mehr Verkäufe als geplant. Größere Packungsgröße wurde priorisiert.",
-    "bezeichnung": "Risperidon PUREN 1 mg Filmtabletten",
-    "atcCode": "N05AX08",
-    "wirkstoffe": "Risperidon",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
-    "mail": "ATsiboukis@puren-pharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Risperidon PUREN 1 mg Filmtabletten - Einreichungsnummer: 2195713"
-  },
-  {
-    "pzn": [
       "07568554"
     ],
     "enr": [
@@ -16516,6 +16418,30 @@
   },
   {
     "pzn": [
+      "17395646"
+    ],
+    "enr": [
+      "7002498"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-09-29",
+    "datumEnde": "2025-10-31",
+    "datumErstmeldung": "2025-09-29",
+    "datumLetzteMeldung": "2025-10-21",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Equasym Retard 40 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
+    "telefon": "0800 / 825332 5",
+    "mail": "MedinfoEMEA@takeda.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Equasym retard 20 mg Hartkapseln mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2164004"
+  },
+  {
+    "pzn": [
       "03944026"
     ],
     "enr": [
@@ -16535,30 +16461,6 @@
     "zulassungsinhaber": "TAD Pharma GmbH",
     "mail": "thomas.morgenster@tad.de",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "17395646"
-    ],
-    "enr": [
-      "7002498"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-09-29",
-    "datumEnde": "2025-10-22",
-    "datumErstmeldung": "2025-09-29",
-    "datumLetzteMeldung": "2025-10-20",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Equasym Retard 40 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
-    "telefon": "0800 / 825332 5",
-    "mail": "MedinfoEMEA@takeda.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Equasym retard 20 mg Hartkapseln mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2164004"
   },
   {
     "pzn": [
@@ -17649,29 +17551,6 @@
     "grundArt": "Sonstige",
     "grundAnmerkung": "Andere Stärken wurden zuerst priorisiert",
     "bezeichnung": "Atomoxetin PUREN 10 mg Hartkapseln",
-    "atcCode": "N06BA09",
-    "wirkstoffe": "Atomoxetinhydrochlorid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
-    "mail": "ATsiboukis@puren-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14375749"
-    ],
-    "enr": [
-      "2200383"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-09-01",
-    "datumEnde": "2026-03-11",
-    "datumErstmeldung": "2025-09-11",
-    "datumLetzteMeldung": "2025-09-11",
-    "grund": "Probleme bei der Endfreigabe",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Probleme mit Nitrosamine - Weitere Untersuchung der Charge notwendig",
-    "bezeichnung": "Atomoxetin PUREN 80 mg Hartkapseln",
     "atcCode": "N06BA09",
     "wirkstoffe": "Atomoxetinhydrochlorid",
     "krankenhausrelevant": true,
@@ -19521,28 +19400,6 @@
     "zulassungsinhaber": "Bayer Vital GmbH",
     "telefon": "08006422937",
     "mail": "medical-information@bayer.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "08441844"
-    ],
-    "enr": [
-      "2105796"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-08-20",
-    "datumEnde": "2025-10-13",
-    "datumErstmeldung": "2025-08-21",
-    "datumLetzteMeldung": "2025-10-06",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Beclorhinol aquosum 50 Mikrogramm",
-    "atcCode": "R01AD01",
-    "wirkstoffe": "Beclometasondipropionat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Chiesi GmbH",
-    "mail": "DE-DRA@chiesi.com",
     "infoFachkreise": "Nein"
   },
   {
