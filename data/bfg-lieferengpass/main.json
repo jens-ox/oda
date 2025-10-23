@@ -910,6 +910,29 @@
   },
   {
     "pzn": [
+      "13835048"
+    ],
+    "enr": [
+      "7007916"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-07-15",
+    "datumEnde": "2025-12-15",
+    "datumErstmeldung": "2025-07-29",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Semglee",
+    "atcCode": "A10AE04",
+    "wirkstoffe": "Insulin glargin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
+    "mail": "nadia.cali@biocon.com",
+    "infoFachkreise": "Ja",
+    "alternativPraeparat": "Lantus 100 I.E./ml Injektionslösung in Fertigpen - OP(10x3ml)(SoloStar) - Einreichungsnummer: 2704305"
+  },
+  {
+    "pzn": [
       "13835031"
     ],
     "enr": [
@@ -931,29 +954,6 @@
     "mail": "nadia.cali@biocon.com",
     "infoFachkreise": "Ja",
     "alternativPraeparat": "Lantus 100 I.E./ml Injektionslösung in Fertigpen - OP(5x3ml)(SoloStar) - Einreichungsnummer: 2704301"
-  },
-  {
-    "pzn": [
-      "13835048"
-    ],
-    "enr": [
-      "7007916"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-07-15",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-07-29",
-    "datumLetzteMeldung": "2025-09-29",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Semglee",
-    "atcCode": "A10AE04",
-    "wirkstoffe": "Insulin glargin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
-    "mail": "nadia.cali@biocon.com",
-    "infoFachkreise": "Ja",
-    "alternativPraeparat": "Lantus 100 I.E./ml Injektionslösung in Fertigpen - OP(10x3ml)(SoloStar) - Einreichungsnummer: 2704305"
   },
   {
     "pzn": [
@@ -5794,6 +5794,54 @@
   },
   {
     "pzn": [
+      "02708594"
+    ],
+    "enr": [
+      "2101956"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-06",
+    "datumEnde": "2025-11-14",
+    "datumErstmeldung": "2025-10-22",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "nicht lieferfähig",
+    "bezeichnung": "Thiamazol 5mg Henning",
+    "atcCode": "H03BB02",
+    "wirkstoffe": "Thiamazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "0800 52 52 010",
+    "mail": "medinfo.de@sanofi.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "02708631"
+    ],
+    "enr": [
+      "2101957"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-06",
+    "datumEnde": "2025-11-14",
+    "datumErstmeldung": "2025-10-22",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "nicht lieferfähig",
+    "bezeichnung": "Thiamazol 20 mg Henning",
+    "atcCode": "H03BB02",
+    "wirkstoffe": "Thiamazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+    "telefon": "0800 52 52 010",
+    "mail": "medinfo.de@sanofi.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "00528600"
     ],
     "enr": [
@@ -6313,11 +6361,11 @@
     "enr": [
       "2174067"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-08-27",
-    "datumEnde": "2025-10-15",
+    "datumEnde": "2025-11-14",
     "datumErstmeldung": "2025-08-27",
-    "datumLetzteMeldung": "2025-08-27",
+    "datumLetzteMeldung": "2025-10-22",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Amikacin B. Braun 5 mg/ml Infusionslösung",
@@ -6336,11 +6384,11 @@
     "enr": [
       "2174066"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-08-27",
-    "datumEnde": "2025-10-15",
+    "datumEnde": "2025-11-14",
     "datumErstmeldung": "2025-08-27",
-    "datumLetzteMeldung": "2025-08-27",
+    "datumLetzteMeldung": "2025-10-22",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Amikacin B. Braun 2,5 mg/ml Infusionslösung",
@@ -7789,6 +7837,52 @@
   },
   {
     "pzn": [
+      "00168768"
+    ],
+    "enr": [
+      "2142660"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-22",
+    "datumEnde": "2026-01-31",
+    "datumErstmeldung": "2025-10-22",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Flutamid AL 250",
+    "atcCode": "L02BB01",
+    "wirkstoffe": "Flutamid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00168797"
+    ],
+    "enr": [
+      "2142660"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-22",
+    "datumEnde": "2026-01-31",
+    "datumErstmeldung": "2025-10-22",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Flutamid AL 250",
+    "atcCode": "L02BB01",
+    "wirkstoffe": "Flutamid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "10112711"
     ],
     "enr": [
@@ -8190,11 +8284,11 @@
     "enr": [
       "7005325"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-06-01",
-    "datumEnde": "2025-10-01",
+    "datumEnde": "2025-11-15",
     "datumErstmeldung": "2025-08-12",
-    "datumLetzteMeldung": "2025-08-12",
+    "datumLetzteMeldung": "2025-10-22",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "grundAnmerkung": "OOS in API, neue Produktion aber bereits im Gange",
@@ -8849,31 +8943,6 @@
     "mail": "de_quality@aspenpharma.eu",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "LIDOCAIN-GEL-2% - Einreichungsnummer: 0962816"
-  },
-  {
-    "pzn": [
-      "03839482"
-    ],
-    "enr": [
-      "0084764"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-07-17",
-    "datumEnde": "2025-09-30",
-    "datumErstmeldung": "2025-07-21",
-    "datumLetzteMeldung": "2025-07-21",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "vorübergehende Verzögerung der Produktion aufgrund technischem Defekt",
-    "bezeichnung": "XYLOCAIN PUMPSPRAY",
-    "atcCode": "N01BB02",
-    "wirkstoffe": "Lidocain",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Aspen Pharma Trading Limited",
-    "telefon": "015126466504",
-    "mail": "michael.ostertag@aspenpharma.eu",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "XYLOCAIN PUMPSPRAY dental - Einreichungsnummer: 0077184"
   },
   {
     "pzn": [
@@ -10832,29 +10901,6 @@
   },
   {
     "pzn": [
-      "16031801"
-    ],
-    "enr": [
-      "2715335"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-10-07",
-    "datumEnde": "2025-10-30",
-    "datumErstmeldung": "2025-10-07",
-    "datumLetzteMeldung": "2025-10-07",
-    "grund": "Sonstige",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Lacosamid UCB 10 mg/ml Sirup",
-    "atcCode": "N03AX18",
-    "wirkstoffe": "Lacosamid",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "UCB Pharma",
-    "telefon": "+49 2173 48 4848",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Vimpat 10 mg/ml Sirup - OP200ml - Einreichungsnummer: 2709708"
-  },
-  {
-    "pzn": [
       "04020956"
     ],
     "enr": [
@@ -11078,30 +11124,6 @@
     "telefon": "049217310600",
     "mail": "info@neuraxpharm.de",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "02530357"
-    ],
-    "enr": [
-      "0119586"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-07-14",
-    "datumEnde": "2025-10-15",
-    "datumErstmeldung": "2025-07-16",
-    "datumLetzteMeldung": "2025-09-12",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Verzögerung der Bereitstellung der Packungsbeilage im Rahmen eines PSUSA Verfahrens zu Amantadin.",
-    "bezeichnung": "PK-Merz Infusion",
-    "atcCode": "N04BB01",
-    "wirkstoffe": "Amantadinhemisulfat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Merz Pharmaceuticals GmbH",
-    "mail": "ute.muehlenbeck@merz.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "PK-Merz Infusion - Einreichungsnummer: 0119586"
   },
   {
     "pzn": [
@@ -12106,6 +12128,336 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "15379123"
+    ],
+    "enr": [
+      "2180762"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-01",
+    "datumEnde": "2026-06-30",
+    "datumErstmeldung": "2025-10-22",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Accord 400 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_anders@accord-healthcare.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15379152"
+    ],
+    "enr": [
+      "2180762"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-01",
+    "datumEnde": "2026-06-30",
+    "datumErstmeldung": "2025-10-22",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Accord 400 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_anders@accord-healthcare.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15379169"
+    ],
+    "enr": [
+      "2180762"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-01",
+    "datumEnde": "2026-06-30",
+    "datumErstmeldung": "2025-10-22",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Accord 400 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_anders@accord-healthcare.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15379040"
+    ],
+    "enr": [
+      "2180760"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-01",
+    "datumEnde": "2026-06-30",
+    "datumErstmeldung": "2025-10-22",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Accord 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_anders@accord-healthcare.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15379057"
+    ],
+    "enr": [
+      "2180760"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-01",
+    "datumEnde": "2026-06-30",
+    "datumErstmeldung": "2025-10-22",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Accord 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_anders@accord-healthcare.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15379063"
+    ],
+    "enr": [
+      "2180760"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-01",
+    "datumEnde": "2026-06-30",
+    "datumErstmeldung": "2025-10-22",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Accord 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_anders@accord-healthcare.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15379028"
+    ],
+    "enr": [
+      "2195359"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-01",
+    "datumEnde": "2026-06-30",
+    "datumErstmeldung": "2025-10-22",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Accord 150mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_anders@accord-healthcare.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15379034"
+    ],
+    "enr": [
+      "2195359"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-01",
+    "datumEnde": "2026-06-30",
+    "datumErstmeldung": "2025-10-22",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Accord 150mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_anders@accord-healthcare.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15427773"
+    ],
+    "enr": [
+      "2195359"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-01",
+    "datumEnde": "2026-06-30",
+    "datumErstmeldung": "2025-10-22",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Accord 150mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_anders@accord-healthcare.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "15378997"
+    ],
+    "enr": [
+      "2188137"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-07-01",
+    "datumEnde": "2026-06-30",
+    "datumErstmeldung": "2025-07-14",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Accord 50 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_anders@accord-healthcare.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "15379005"
+    ],
+    "enr": [
+      "2188137"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-07-01",
+    "datumEnde": "2026-06-30",
+    "datumErstmeldung": "2025-07-14",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Accord 50 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_anders@accord-healthcare.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "15379011"
+    ],
+    "enr": [
+      "2188137"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-07-01",
+    "datumEnde": "2026-06-30",
+    "datumErstmeldung": "2025-07-14",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Accord 50 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_anders@accord-healthcare.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "15379086"
+    ],
+    "enr": [
+      "2180761"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-07-01",
+    "datumEnde": "2026-06-30",
+    "datumErstmeldung": "2025-07-14",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Accord 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_anders@accord-healthcare.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "15379100"
+    ],
+    "enr": [
+      "2180761"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-07-01",
+    "datumEnde": "2026-06-30",
+    "datumErstmeldung": "2025-07-14",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Accord 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_anders@accord-healthcare.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "15379117"
+    ],
+    "enr": [
+      "2180761"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-07-01",
+    "datumEnde": "2026-06-30",
+    "datumErstmeldung": "2025-07-14",
+    "datumLetzteMeldung": "2025-10-22",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Accord 300 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Accord Healthcare B.V.",
+    "mail": "martin_anders@accord-healthcare.com",
     "infoFachkreise": "Nein"
   },
   {
@@ -14563,138 +14915,6 @@
     "telefon": "0733396510",
     "mail": "info@aliud.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15379086"
-    ],
-    "enr": [
-      "2180761"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-07-01",
-    "datumEnde": "2025-12-31",
-    "datumErstmeldung": "2025-07-14",
-    "datumLetzteMeldung": "2025-07-14",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Accord 300 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Accord Healthcare B.V.",
-    "mail": "martin_anders@accord-healthcare.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "15379100"
-    ],
-    "enr": [
-      "2180761"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-07-01",
-    "datumEnde": "2025-12-31",
-    "datumErstmeldung": "2025-07-14",
-    "datumLetzteMeldung": "2025-07-14",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Accord 300 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Accord Healthcare B.V.",
-    "mail": "martin_anders@accord-healthcare.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "15379117"
-    ],
-    "enr": [
-      "2180761"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-07-01",
-    "datumEnde": "2025-12-31",
-    "datumErstmeldung": "2025-07-14",
-    "datumLetzteMeldung": "2025-07-14",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Accord 300 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Accord Healthcare B.V.",
-    "mail": "martin_anders@accord-healthcare.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "15378997"
-    ],
-    "enr": [
-      "2188137"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-07-01",
-    "datumEnde": "2025-12-31",
-    "datumErstmeldung": "2025-07-14",
-    "datumLetzteMeldung": "2025-07-14",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Accord 50 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Accord Healthcare B.V.",
-    "mail": "martin_anders@accord-healthcare.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "15379005"
-    ],
-    "enr": [
-      "2188137"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-07-01",
-    "datumEnde": "2025-12-31",
-    "datumErstmeldung": "2025-07-14",
-    "datumLetzteMeldung": "2025-07-14",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Accord 50 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Accord Healthcare B.V.",
-    "mail": "martin_anders@accord-healthcare.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "15379011"
-    ],
-    "enr": [
-      "2188137"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-07-01",
-    "datumEnde": "2025-12-31",
-    "datumErstmeldung": "2025-07-14",
-    "datumLetzteMeldung": "2025-07-14",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Accord 50 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Accord Healthcare B.V.",
-    "mail": "martin_anders@accord-healthcare.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -20307,9 +20527,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-04-14",
-    "datumEnde": "2025-10-31",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2025-04-14",
-    "datumLetzteMeldung": "2025-08-15",
+    "datumLetzteMeldung": "2025-10-22",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Miochol-E Pulver und Lösungsmittel zur Herstellung einer Instillationslösung zur intraokularen Anwendung",
