@@ -910,6 +910,30 @@
   },
   {
     "pzn": [
+      "07359750"
+    ],
+    "enr": [
+      "2705475"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-17",
+    "datumEnde": "2025-12-01",
+    "datumErstmeldung": "2025-10-23",
+    "datumLetzteMeldung": "2025-10-23",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Die Lilly Deutschland GmbH stellt die Vermarktung von Liprolog Mix25 KwikPen 10xStück ein und verkauft gegenwärtig die Lagerbestände ab. Das Arzneimittel Liprolog Mix25 KwikPen 10xStück ist nicht mehr verfügbar und wird zum 01. Dezember 2025 in der Lauer-Taxe AV gesetzt.",
+    "bezeichnung": "Liprolog Mix25 100 E/ml KwikPen Injektionssuspension - OP[2x(5x3ml)]",
+    "atcCode": "A10AD04",
+    "wirkstoffe": "Insulin lispro",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Eli Lilly Nederland B.V.",
+    "telefon": "06172 2732222",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Humalog Mix25 KwikPen 100 E/ml Injektionssuspension - OP[2x(5x3ml)] - Einreichungsnummer: 2707044"
+  },
+  {
+    "pzn": [
       "13835048"
     ],
     "enr": [
@@ -1458,51 +1482,27 @@
   },
   {
     "pzn": [
-      "08778070"
+      "08778093"
     ],
     "enr": [
-      "2700476"
+      "2700480"
     ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-08-04",
-    "datumEnde": "2026-01-31",
-    "datumErstmeldung": "2025-07-29",
-    "datumLetzteMeldung": "2025-07-29",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-06-09",
+    "datumEnde": "2027-06-30",
+    "datumErstmeldung": "2025-06-03",
+    "datumLetzteMeldung": "2025-10-23",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
-    "grundAnmerkung": "Shutdown for annex I implementation",
-    "bezeichnung": "NeoRecormon 2000 IE Injektionslösung in Fertigspritze - OP6",
+    "bezeichnung": "NeoRecormon 5000 IE Injektionslösung in Fertigspritze - OP6",
     "atcCode": "B03XA",
     "wirkstoffe": "Epoetin beta",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Roche Registration GmbH",
+    "telefon": "07626142106",
     "mail": "grenzach.dra@roche.com",
     "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "NeoRecormon 2000 IE Injektionslösung in Fertigspritze - OP6 - Einreichungsnummer: 2793868"
-  },
-  {
-    "pzn": [
-      "00364825"
-    ],
-    "enr": [
-      "2701081"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-07-21",
-    "datumEnde": "2025-12-31",
-    "datumErstmeldung": "2025-07-17",
-    "datumLetzteMeldung": "2025-07-17",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Shutdown for Annex I Implementation",
-    "bezeichnung": "NeoRecormon 4000 IE Injektionslösung in Fertigspritze - OP6",
-    "atcCode": "B03XA",
-    "wirkstoffe": "Epoetin beta",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Roche Registration GmbH",
-    "mail": "grenzach.dra@roche.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "NeoRecormon 4000 IE Injektionslösung in Fertigspritze - OP1 - Einreichungsnummer: 2701080"
+    "alternativPraeparat": "NeoRecormon 5000 IE Injektionslösung in Fertigspritze - OP6 - Einreichungsnummer: 2793449"
   },
   {
     "pzn": [
@@ -1511,11 +1511,11 @@
     "enr": [
       "2700478"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-07-07",
-    "datumEnde": "2026-01-31",
+    "datumEnde": "2027-06-30",
     "datumErstmeldung": "2025-07-02",
-    "datumLetzteMeldung": "2025-07-02",
+    "datumLetzteMeldung": "2025-10-23",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "grundAnmerkung": "Shutdown for annex I implementation",
@@ -1530,27 +1530,51 @@
   },
   {
     "pzn": [
-      "08778093"
+      "00364825"
     ],
     "enr": [
-      "2700480"
+      "2701081"
     ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-06-09",
-    "datumEnde": "2025-11-30",
-    "datumErstmeldung": "2025-06-03",
-    "datumLetzteMeldung": "2025-06-03",
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-07-21",
+    "datumEnde": "2027-06-30",
+    "datumErstmeldung": "2025-07-17",
+    "datumLetzteMeldung": "2025-10-23",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
-    "bezeichnung": "NeoRecormon 5000 IE Injektionslösung in Fertigspritze - OP6",
+    "grundAnmerkung": "Shutdown for Annex I Implementation",
+    "bezeichnung": "NeoRecormon 4000 IE Injektionslösung in Fertigspritze - OP6",
     "atcCode": "B03XA",
     "wirkstoffe": "Epoetin beta",
     "krankenhausrelevant": true,
     "zulassungsinhaber": "Roche Registration GmbH",
-    "telefon": "07626142106",
     "mail": "grenzach.dra@roche.com",
     "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "NeoRecormon 5000 IE Injektionslösung in Fertigspritze - OP6 - Einreichungsnummer: 2793449"
+    "alternativPraeparat": "NeoRecormon 4000 IE Injektionslösung in Fertigspritze - OP1 - Einreichungsnummer: 2701080"
+  },
+  {
+    "pzn": [
+      "08778070"
+    ],
+    "enr": [
+      "2700476"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-08-04",
+    "datumEnde": "2027-06-30",
+    "datumErstmeldung": "2025-07-29",
+    "datumLetzteMeldung": "2025-10-23",
+    "grund": "Unzureichende Produktionskapazitäten",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "Shutdown for annex I implementation",
+    "bezeichnung": "NeoRecormon 2000 IE Injektionslösung in Fertigspritze - OP6",
+    "atcCode": "B03XA",
+    "wirkstoffe": "Epoetin beta",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Roche Registration GmbH",
+    "mail": "grenzach.dra@roche.com",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "NeoRecormon 2000 IE Injektionslösung in Fertigspritze - OP6 - Einreichungsnummer: 2793868"
   },
   {
     "pzn": [
@@ -4668,6 +4692,30 @@
   },
   {
     "pzn": [
+      "16795817"
+    ],
+    "enr": [
+      "7000441"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-11-03",
+    "datumEnde": "2025-12-01",
+    "datumErstmeldung": "2025-10-23",
+    "datumLetzteMeldung": "2025-10-23",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "keine Angaben",
+    "bezeichnung": "Angusta 25 Mikrogramm Tabletten",
+    "atcCode": "G02AD06",
+    "wirkstoffe": "Misoprostol",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Norgine B.V.",
+    "telefon": "064198497262",
+    "mail": "sbotthof@norgine.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "01410823"
     ],
     "enr": [
@@ -6329,29 +6377,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Aristo Pharma GmbH",
     "mail": "info@aristo-pharma.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01805007"
-    ],
-    "enr": [
-      "2162931"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-06-30",
-    "datumEnde": "2025-10-23",
-    "datumErstmeldung": "2025-07-23",
-    "datumLetzteMeldung": "2025-10-15",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Azithromycin AL 250 mg Filmtabletten",
-    "atcCode": "J01FA10",
-    "wirkstoffe": "Azithromycin-Dihydrat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -8498,17 +8523,17 @@
     "enr": [
       "2131178"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-09-17",
-    "datumEnde": "2026-12-31",
+    "datumEnde": "2026-02-28",
     "datumErstmeldung": "2025-10-17",
-    "datumLetzteMeldung": "2025-10-17",
-    "grund": "Unzureichende Produktionskapazitäten",
-    "grundArt": "Sonstige",
+    "datumLetzteMeldung": "2025-10-23",
+    "grund": "GMP Mängel",
+    "grundArt": "Produktionsproblem",
     "bezeichnung": "Mivacron 10mg",
     "atcCode": "M03AC10",
     "wirkstoffe": "Mivacuriumchlorid",
-    "krankenhausrelevant": false,
+    "krankenhausrelevant": true,
     "zulassungsinhaber": "Aspen Pharma Trading Limited",
     "mail": "de_quality@aspenpharma.eu",
     "infoFachkreise": "Vorgesehen",
@@ -12132,6 +12157,52 @@
   },
   {
     "pzn": [
+      "11145954"
+    ],
+    "enr": [
+      "2190553"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-10-23",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 150 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11145960"
+    ],
+    "enr": [
+      "2190553"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-01-27",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-01-28",
+    "datumLetzteMeldung": "2025-10-23",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Quetiapin-Hormosan 150 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+    "telefon": "069478730",
+    "mail": "service@hormosan.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "15379123"
     ],
     "enr": [
@@ -14964,121 +15035,6 @@
   },
   {
     "pzn": [
-      "11145954"
-    ],
-    "enr": [
-      "2190553"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-04-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 150 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11145960"
-    ],
-    "enr": [
-      "2190553"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-27",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-04-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 150 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11145919"
-    ],
-    "enr": [
-      "2190552"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-20",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-04-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 50 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11145925"
-    ],
-    "enr": [
-      "2190552"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-20",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-04-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 50 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "11145931"
-    ],
-    "enr": [
-      "2190552"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-01-20",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-01-28",
-    "datumLetzteMeldung": "2025-04-03",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Quetiapin-Hormosan 50 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
-    "telefon": "069478730",
-    "mail": "service@hormosan.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "16232988"
     ],
     "enr": [
@@ -15314,9 +15270,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-07-10",
-    "datumEnde": "2025-10-31",
+    "datumEnde": "2025-12-15",
     "datumErstmeldung": "2023-07-11",
-    "datumLetzteMeldung": "2025-06-25",
+    "datumLetzteMeldung": "2025-10-23",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Tavor 2,5 mg Expidet",
@@ -15337,9 +15293,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-07-10",
-    "datumEnde": "2025-10-31",
+    "datumEnde": "2025-12-15",
     "datumErstmeldung": "2023-07-11",
-    "datumLetzteMeldung": "2025-06-25",
+    "datumLetzteMeldung": "2025-10-23",
     "grund": "Unzureichende Produktionskapazitäten",
     "grundArt": "Sonstige",
     "bezeichnung": "Tavor 2,5 mg Expidet",
