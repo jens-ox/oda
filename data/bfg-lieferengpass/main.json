@@ -412,31 +412,6 @@
   },
   {
     "pzn": [
-      "02084248"
-    ],
-    "enr": [
-      "2102252"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-11-08",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2024-12-11",
-    "datumLetzteMeldung": "2025-09-22",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "bulk production problem",
-    "bezeichnung": "Motilium Tropfen 10 mg/ml Suspension",
-    "atcCode": "A03FA03",
-    "wirkstoffe": "Domperidon",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
-    "telefon": "+49 3834 451 0",
-    "mail": "ra-domperidone@cheplapharm.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Motilium Tropfen 10 mg/ml Suspension - Einreichungsnummer: 2102252"
-  },
-  {
-    "pzn": [
       "09219303"
     ],
     "enr": [
@@ -934,6 +909,30 @@
   },
   {
     "pzn": [
+      "13835031"
+    ],
+    "enr": [
+      "2713772"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-06-03",
+    "datumEnde": "2025-12-01",
+    "datumErstmeldung": "2025-07-02",
+    "datumLetzteMeldung": "2025-10-27",
+    "grund": "Probleme beim Sonstigen Hersteller",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Semglee 100 Einheiten/ml Injektionslösung in Fertigpen - OP(5x3ml)",
+    "atcCode": "A10AE04",
+    "wirkstoffe": "Insulin glargin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
+    "telefon": "+49 15168646713",
+    "mail": "nadia.cali@biocon.com",
+    "infoFachkreise": "Ja",
+    "alternativPraeparat": "Lantus 100 I.E./ml Injektionslösung in Fertigpen - OP(5x3ml)(SoloStar) - Einreichungsnummer: 2704301"
+  },
+  {
+    "pzn": [
       "13835048"
     ],
     "enr": [
@@ -954,30 +953,6 @@
     "mail": "nadia.cali@biocon.com",
     "infoFachkreise": "Ja",
     "alternativPraeparat": "Lantus 100 I.E./ml Injektionslösung in Fertigpen - OP(10x3ml)(SoloStar) - Einreichungsnummer: 2704305"
-  },
-  {
-    "pzn": [
-      "13835031"
-    ],
-    "enr": [
-      "2713772"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-06-03",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-07-02",
-    "datumLetzteMeldung": "2025-09-29",
-    "grund": "Probleme beim Sonstigen Hersteller",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Semglee 100 Einheiten/ml Injektionslösung in Fertigpen - OP(5x3ml)",
-    "atcCode": "A10AE04",
-    "wirkstoffe": "Insulin glargin",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
-    "telefon": "+49 15168646713",
-    "mail": "nadia.cali@biocon.com",
-    "infoFachkreise": "Ja",
-    "alternativPraeparat": "Lantus 100 I.E./ml Injektionslösung in Fertigpen - OP(5x3ml)(SoloStar) - Einreichungsnummer: 2704301"
   },
   {
     "pzn": [
@@ -1396,10 +1371,10 @@
     "datumBeginn": "2025-05-06",
     "datumEnde": "2025-12-22",
     "datumErstmeldung": "2025-05-06",
-    "datumLetzteMeldung": "2025-10-13",
+    "datumLetzteMeldung": "2025-10-27",
     "grund": "Probleme beim Wirkstoffhersteller",
     "grundArt": "Sonstige",
-    "grundAnmerkung": "Eingeschränkte Lieferfähigkeit. Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
+    "grundAnmerkung": "Nicht lieferfähig. Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
     "bezeichnung": "Ferrlecit 62,5 mg",
     "atcCode": "B03AC",
     "wirkstoffe": "Eisen(III)-natrium-D-gluconat-hydroxid-oxid-Komplex (ca. 2:1:1:x:y)",
@@ -2007,11 +1982,11 @@
     "enr": [
       "3001951"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-10-31",
     "datumEnde": "2025-11-20",
     "datumErstmeldung": "2025-10-21",
-    "datumLetzteMeldung": "2025-10-21",
+    "datumLetzteMeldung": "2025-10-27",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "grundAnmerkung": "erhöhte Nachfrage durch Lieferengpass weiterer Anbieter",
@@ -2022,8 +1997,7 @@
     "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
     "telefon": "03834 451 0",
     "mail": "ra-dopegyt@cheplapharm.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Methyldopa STADA 250mg Filmtablette - Einreichungsnummer: 0688195"
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -3444,29 +3418,6 @@
     "telefon": "061016032416",
     "mail": "christiane.georgi@stada.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09252418"
-    ],
-    "enr": [
-      "2182884"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-08-29",
-    "datumEnde": "2025-12-16",
-    "datumErstmeldung": "2025-09-09",
-    "datumLetzteMeldung": "2025-09-09",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Sortis 20 mg Kautabletten",
-    "atcCode": "C10AA05",
-    "wirkstoffe": "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Viatris Pharma GmbH",
-    "telefon": "0800-0700-800",
-    "mail": "kundenservice@viatris.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -6314,9 +6265,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-10-02",
-    "datumEnde": "2025-10-30",
+    "datumEnde": "2025-12-02",
     "datumErstmeldung": "2025-10-02",
-    "datumLetzteMeldung": "2025-10-02",
+    "datumLetzteMeldung": "2025-10-27",
     "grund": "Sonstige",
     "grundArt": "Sonstige",
     "bezeichnung": "Cefaclor 125 TS - 1 A Pharma",
@@ -7701,6 +7652,29 @@
   },
   {
     "pzn": [
+      "17205367"
+    ],
+    "enr": [
+      "2202947"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-05-19",
+    "datumEnde": "2026-01-05",
+    "datumErstmeldung": "2025-05-23",
+    "datumLetzteMeldung": "2025-10-27",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Arsentrioxid STADA 1 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
+    "atcCode": "L01XX27",
+    "wirkstoffe": "Arsen(III)-oxid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "STADAPHARM GmbH",
+    "telefon": "061016032416",
+    "mail": "christiane.georgi@stada.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "16039866"
     ],
     "enr": [
@@ -7720,29 +7694,6 @@
     "zulassungsinhaber": "Teva B.V. Beiname: Teva Generics",
     "mail": "claus.leger@ratiopharm.de",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "17205367"
-    ],
-    "enr": [
-      "2202947"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-05-19",
-    "datumEnde": "2025-09-23",
-    "datumErstmeldung": "2025-05-23",
-    "datumLetzteMeldung": "2025-05-23",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Arsentrioxid STADA 1 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
-    "atcCode": "L01XX27",
-    "wirkstoffe": "Arsen(III)-oxid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADAPHARM GmbH",
-    "telefon": "061016032416",
-    "mail": "christiane.georgi@stada.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -8716,6 +8667,30 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Sandoz Pharmaceuticals d.d.",
     "mail": "service@hexal.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "04904106"
+    ],
+    "enr": [
+      "2126168"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-27",
+    "datumEnde": "2026-01-15",
+    "datumErstmeldung": "2025-10-27",
+    "datumLetzteMeldung": "2025-10-27",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Probleme bei der Herstellung bei DemoDEMO ELLAS S.A. in Kryoneri, GriechenlandEthniki Odo Athinon Lamias 21o Chlm 14568 Kryoneri+30 21 0816 1802",
+    "bezeichnung": "Sufenta mite",
+    "atcCode": "N01AH03",
+    "wirkstoffe": "Sufentanilcitrat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Piramal Critical Care B.V.",
+    "telefon": "+49 151 44982803",
+    "mail": "iris.bruchmueller@piramal.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -10694,6 +10669,29 @@
   },
   {
     "pzn": [
+      "13248167"
+    ],
+    "enr": [
+      "2158851"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-08-01",
+    "datumEnde": "2025-11-30",
+    "datumErstmeldung": "2025-08-12",
+    "datumLetzteMeldung": "2025-10-27",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Gabapentin Holsten 100 mg Hartkapseln",
+    "atcCode": "N03AX12",
+    "wirkstoffe": "Gabapentin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+    "mail": "y.maniya@holstenpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Gabapentin Holsten 100 mg Hartkapseln - Einreichungsnummer: 2158851"
+  },
+  {
+    "pzn": [
       "13248173"
     ],
     "enr": [
@@ -10783,29 +10781,6 @@
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Gabapentin Holsten 800 mg Filmtabletten - Einreichungsnummer: 2163101"
-  },
-  {
-    "pzn": [
-      "13248167"
-    ],
-    "enr": [
-      "2158851"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-08-01",
-    "datumEnde": "2025-10-24",
-    "datumErstmeldung": "2025-08-12",
-    "datumLetzteMeldung": "2025-08-12",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Gabapentin Holsten 100 mg Hartkapseln",
-    "atcCode": "N03AX12",
-    "wirkstoffe": "Gabapentin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
-    "mail": "y.maniya@holstenpharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Gabapentin Holsten 100 mg Hartkapseln - Einreichungsnummer: 2158851"
   },
   {
     "pzn": [
@@ -19460,6 +19435,28 @@
     "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
     "mail": "RA-Distigmine@cheplapharm.com",
     "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "15427448"
+    ],
+    "enr": [
+      "2200423"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-11-13",
+    "datumEnde": "2026-02-02",
+    "datumErstmeldung": "2025-10-27",
+    "datumLetzteMeldung": "2025-10-27",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Tetrabenazin Aristo 25 mg Tabletten",
+    "atcCode": "N07XX06",
+    "wirkstoffe": "Tetrabenazin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Aristo Pharma GmbH",
+    "mail": "info@aristo-pharma.de",
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
