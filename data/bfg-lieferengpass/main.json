@@ -437,6 +437,29 @@
   },
   {
     "pzn": [
+      "14853025"
+    ],
+    "enr": [
+      "2200644"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-11-01",
+    "datumEnde": "2025-12-19",
+    "datumErstmeldung": "2025-02-11",
+    "datumLetzteMeldung": "2025-10-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Aprepitant AL 80 mg Hartkapseln",
+    "atcCode": "A04AD12",
+    "wirkstoffe": "Aprepitant",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "16662140"
     ],
     "enr": [
@@ -588,29 +611,6 @@
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Aprepitant AL 125 mg und 80 mg Hartkapseln",
-    "atcCode": "A04AD12",
-    "wirkstoffe": "Aprepitant",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14853025"
-    ],
-    "enr": [
-      "2200644"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-11-01",
-    "datumEnde": "2025-10-30",
-    "datumErstmeldung": "2025-02-11",
-    "datumLetzteMeldung": "2025-09-25",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Aprepitant AL 80 mg Hartkapseln",
     "atcCode": "A04AD12",
     "wirkstoffe": "Aprepitant",
     "krankenhausrelevant": false,
@@ -834,54 +834,6 @@
     "mail": "nadia.cali@biocon.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "NovoRapid FlexPen 100 E/ml Injektionslösung in einem vorgefülltem Injektor - OP(10x3ml) - Einreichungsnummer: 2702319"
-  },
-  {
-    "pzn": [
-      "00546578"
-    ],
-    "enr": [
-      "2702007"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-08-29",
-    "datumEnde": "2025-11-12",
-    "datumErstmeldung": "2025-08-29",
-    "datumLetzteMeldung": "2025-10-08",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Protaphane FlexPen 100 I.E./ml Injektionssuspension in Injektor - OP(10x3ml)",
-    "atcCode": "A10AC01",
-    "wirkstoffe": "Isophan-Insulin-Suspension zur Injektion (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "00541629"
-    ],
-    "enr": [
-      "2702242"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-07-09",
-    "datumEnde": "2025-11-12",
-    "datumErstmeldung": "2025-07-11",
-    "datumLetzteMeldung": "2025-10-08",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "Actraphane 30 FlexPen ist eingeschränkt verfügbar; die vorhandenen Mengen können den gesamten Bedarf jedoch nicht vollständig decken",
-    "bezeichnung": "Actraphane 30 FlexPen 100 IE/ml Injektionssuspension in Injektor - OP(10x3ml)",
-    "atcCode": "A10AD01",
-    "wirkstoffe": "Insulin human ((mit Angaben zur Herstellung)); Isophan-Insulin-Suspension zur Injektion (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Novo Nordisk A/S",
-    "telefon": "061319031144",
-    "mail": "KD_Service@novonordisk.com",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Actraphane 30 Penfill 100 IE/ml Injektionssuspension in Zylinderampulle - OP(10x3ml) - Einreichungsnummer: 2702234"
   },
   {
     "pzn": [
@@ -2529,29 +2481,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "02471293"
-    ],
-    "enr": [
-      "0618119"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-09-22",
-    "datumEnde": "2026-01-02",
-    "datumErstmeldung": "2025-10-06",
-    "datumLetzteMeldung": "2025-10-09",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "constraints in production capacity of CMO",
-    "bezeichnung": "Aldactone 10 ml Canrenoat",
-    "atcCode": "C03DA02",
-    "wirkstoffe": "Kaliumcanrenoat",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Riemser Pharma GmbH",
-    "mail": "aragoncillo@esteve.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -6758,6 +6687,53 @@
   },
   {
     "pzn": [
+      "02704610"
+    ],
+    "enr": [
+      "2715979"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-28",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-10-29",
+    "datumLetzteMeldung": "2025-10-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "VFEND 200 mg Filmtabletten",
+    "atcCode": "J02AC03",
+    "wirkstoffe": "Voriconazol",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Pfizer Europe MA EEIG",
+    "telefon": "+49 (0) 30 550055-51000",
+    "mail": "medical.information@pfizer.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Voriconazol - 1 A Pharma 200 mg Filmtabletten - Einreichungsnummer: 2196072"
+  },
+  {
+    "pzn": [
+      "15385939"
+    ],
+    "enr": [
+      "2199278"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-10-01",
+    "datumEnde": "2025-11-15",
+    "datumErstmeldung": "2025-10-15",
+    "datumLetzteMeldung": "2025-10-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Posaconazol AL 40 mg/ml Suspension zum Einnehmen",
+    "atcCode": "J02AC04",
+    "wirkstoffe": "Posaconazol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "15583013"
     ],
     "enr": [
@@ -6776,29 +6752,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
     "mail": "service@hexal.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "15385939"
-    ],
-    "enr": [
-      "2199278"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-10-01",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-10-15",
-    "datumLetzteMeldung": "2025-10-15",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Posaconazol AL 40 mg/ml Suspension zum Einnehmen",
-    "atcCode": "J02AC04",
-    "wirkstoffe": "Posaconazol",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -15461,6 +15414,147 @@
   },
   {
     "pzn": [
+      "06330508"
+    ],
+    "enr": [
+      "0914987"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-08-01",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-08-12",
+    "datumLetzteMeldung": "2025-10-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Doxepin 75 Holsten",
+    "atcCode": "N06AA12",
+    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+    "mail": "y.maniya@holstenpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Doxepin 75 Holsten - Einreichungsnummer: 0914987"
+  },
+  {
+    "pzn": [
+      "06330514"
+    ],
+    "enr": [
+      "0914987"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-08-01",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-08-12",
+    "datumLetzteMeldung": "2025-10-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Doxepin 75 Holsten",
+    "atcCode": "N06AA12",
+    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+    "mail": "y.maniya@holstenpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Doxepin 75 Holsten - Einreichungsnummer: 0914987"
+  },
+  {
+    "pzn": [
+      "06330520"
+    ],
+    "enr": [
+      "0914987"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-08-01",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-08-12",
+    "datumLetzteMeldung": "2025-10-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Doxepin 75 Holsten",
+    "atcCode": "N06AA12",
+    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+    "mail": "y.maniya@holstenpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Doxepin 75 Holsten - Einreichungsnummer: 0914987"
+  },
+  {
+    "pzn": [
+      "06330572"
+    ],
+    "enr": [
+      "0915001"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-07-07",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-07-07",
+    "datumLetzteMeldung": "2025-10-29",
+    "grund": "Änderung des Herstellverfahrens",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Doxepin 25 Holsten",
+    "atcCode": "N06AA12",
+    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+    "telefon": "069962339020",
+    "mail": "y.maniya@holstenpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Doxepin 25 Holsten - Einreichungsnummer: 0915001"
+  },
+  {
+    "pzn": [
+      "06330589"
+    ],
+    "enr": [
+      "0915001"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-07-07",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-07-07",
+    "datumLetzteMeldung": "2025-10-29",
+    "grund": "Änderung des Herstellverfahrens",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Doxepin 25 Holsten",
+    "atcCode": "N06AA12",
+    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+    "telefon": "069962339020",
+    "mail": "y.maniya@holstenpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Doxepin 25 Holsten - Einreichungsnummer: 0915001"
+  },
+  {
+    "pzn": [
+      "06330595"
+    ],
+    "enr": [
+      "0915001"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-07-07",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-07-07",
+    "datumLetzteMeldung": "2025-10-29",
+    "grund": "Änderung des Herstellverfahrens",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Doxepin 25 Holsten",
+    "atcCode": "N06AA12",
+    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+    "telefon": "069962339020",
+    "mail": "y.maniya@holstenpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Doxepin 25 Holsten - Einreichungsnummer: 0915001"
+  },
+  {
+    "pzn": [
       "01252494"
     ],
     "enr": [
@@ -15590,147 +15684,6 @@
     "zulassungsinhaber": "ratiopharm GmbH",
     "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "06330572"
-    ],
-    "enr": [
-      "0915001"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-07-07",
-    "datumEnde": "2025-11-30",
-    "datumErstmeldung": "2025-07-07",
-    "datumLetzteMeldung": "2025-10-07",
-    "grund": "Änderung des Herstellverfahrens",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Doxepin 25 Holsten",
-    "atcCode": "N06AA12",
-    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
-    "telefon": "069962339020",
-    "mail": "y.maniya@holstenpharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Doxepin 25 Holsten - Einreichungsnummer: 0915001"
-  },
-  {
-    "pzn": [
-      "06330589"
-    ],
-    "enr": [
-      "0915001"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-07-07",
-    "datumEnde": "2025-11-30",
-    "datumErstmeldung": "2025-07-07",
-    "datumLetzteMeldung": "2025-10-07",
-    "grund": "Änderung des Herstellverfahrens",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Doxepin 25 Holsten",
-    "atcCode": "N06AA12",
-    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
-    "telefon": "069962339020",
-    "mail": "y.maniya@holstenpharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Doxepin 25 Holsten - Einreichungsnummer: 0915001"
-  },
-  {
-    "pzn": [
-      "06330595"
-    ],
-    "enr": [
-      "0915001"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-07-07",
-    "datumEnde": "2025-11-30",
-    "datumErstmeldung": "2025-07-07",
-    "datumLetzteMeldung": "2025-10-07",
-    "grund": "Änderung des Herstellverfahrens",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Doxepin 25 Holsten",
-    "atcCode": "N06AA12",
-    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
-    "telefon": "069962339020",
-    "mail": "y.maniya@holstenpharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Doxepin 25 Holsten - Einreichungsnummer: 0915001"
-  },
-  {
-    "pzn": [
-      "06330508"
-    ],
-    "enr": [
-      "0914987"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-08-01",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-08-12",
-    "datumLetzteMeldung": "2025-09-12",
-    "grund": "Änderung des Herstellverfahrens",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Doxepin 75 Holsten",
-    "atcCode": "N06AA12",
-    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
-    "mail": "y.maniya@holstenpharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Doxepin 50 Holsten - Einreichungsnummer: 0911813"
-  },
-  {
-    "pzn": [
-      "06330514"
-    ],
-    "enr": [
-      "0914987"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-08-01",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-08-12",
-    "datumLetzteMeldung": "2025-09-12",
-    "grund": "Änderung des Herstellverfahrens",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Doxepin 75 Holsten",
-    "atcCode": "N06AA12",
-    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
-    "mail": "y.maniya@holstenpharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Doxepin 50 Holsten - Einreichungsnummer: 0911813"
-  },
-  {
-    "pzn": [
-      "06330520"
-    ],
-    "enr": [
-      "0914987"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-08-01",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-08-12",
-    "datumLetzteMeldung": "2025-09-12",
-    "grund": "Änderung des Herstellverfahrens",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Doxepin 75 Holsten",
-    "atcCode": "N06AA12",
-    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
-    "mail": "y.maniya@holstenpharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Doxepin 50 Holsten - Einreichungsnummer: 0911813"
   },
   {
     "pzn": [
@@ -16450,6 +16403,121 @@
   },
   {
     "pzn": [
+      "17877078"
+    ],
+    "enr": [
+      "2203321"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-09-01",
+    "datumEnde": "2025-11-04",
+    "datumErstmeldung": "2025-09-04",
+    "datumLetzteMeldung": "2025-10-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidat AL 36 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17305407"
+    ],
+    "enr": [
+      "2204112"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-10-15",
+    "datumEnde": "2025-11-15",
+    "datumErstmeldung": "2025-10-15",
+    "datumLetzteMeldung": "2025-10-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Metiphenal 10 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17305413"
+    ],
+    "enr": [
+      "2204112"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-10-15",
+    "datumEnde": "2025-11-15",
+    "datumErstmeldung": "2025-10-15",
+    "datumLetzteMeldung": "2025-10-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Metiphenal 10 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17305436"
+    ],
+    "enr": [
+      "2204112"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-10-15",
+    "datumEnde": "2025-11-15",
+    "datumErstmeldung": "2025-10-15",
+    "datumLetzteMeldung": "2025-10-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Metiphenal 10 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "17877061"
+    ],
+    "enr": [
+      "2203320"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-06-30",
+    "datumEnde": "2025-11-12",
+    "datumErstmeldung": "2025-07-02",
+    "datumLetzteMeldung": "2025-10-29",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Methylphenidat AL 27 mg Retardtabletten",
+    "atcCode": "N06BA04",
+    "wirkstoffe": "Methylphenidathydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ALIUD PHARMA GmbH",
+    "telefon": "0733396510",
+    "mail": "info@aliud.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "17412267"
     ],
     "enr": [
@@ -16473,30 +16541,6 @@
   },
   {
     "pzn": [
-      "17395646"
-    ],
-    "enr": [
-      "7002498"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-09-29",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-09-29",
-    "datumLetzteMeldung": "2025-10-21",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Equasym Retard 40 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Takeda Pharmaceuticals International AG t/a Takeda Pharmaceuticals International AG Ireland Branch",
-    "telefon": "0800 / 825332 5",
-    "mail": "MedinfoEMEA@takeda.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Equasym retard 20 mg Hartkapseln mit veränderter Wirkstofffreisetzung - Einreichungsnummer: 2164004"
-  },
-  {
-    "pzn": [
       "03944026"
     ],
     "enr": [
@@ -16516,75 +16560,6 @@
     "zulassungsinhaber": "TAD Pharma GmbH",
     "mail": "thomas.morgenster@tad.de",
     "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "17305407"
-    ],
-    "enr": [
-      "2204112"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-10-15",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-10-15",
-    "datumLetzteMeldung": "2025-10-15",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Metiphenal 10 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17305413"
-    ],
-    "enr": [
-      "2204112"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-10-15",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-10-15",
-    "datumLetzteMeldung": "2025-10-15",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Metiphenal 10 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17305436"
-    ],
-    "enr": [
-      "2204112"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-10-15",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-10-15",
-    "datumLetzteMeldung": "2025-10-15",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Metiphenal 10 mg Hartkapseln mit veränderter Wirkstofffreisetzung",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -16628,52 +16603,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "ratiopharm GmbH",
     "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17877078"
-    ],
-    "enr": [
-      "2203321"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-09-01",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-09-04",
-    "datumLetzteMeldung": "2025-10-07",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Methylphenidat AL 36 mg Retardtabletten",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "17877061"
-    ],
-    "enr": [
-      "2203320"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-06-30",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-07-02",
-    "datumLetzteMeldung": "2025-10-07",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Methylphenidat AL 27 mg Retardtabletten",
-    "atcCode": "N06BA04",
-    "wirkstoffe": "Methylphenidathydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ALIUD PHARMA GmbH",
-    "telefon": "0733396510",
-    "mail": "info@aliud.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
