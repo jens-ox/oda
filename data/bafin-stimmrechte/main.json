@@ -1296,6 +1296,24 @@
     }
   },
   {
+    "veroeffentlichung": "2025-10-30",
+    "emittent": {
+      "name": "Allianz SE",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Amundi S.A.",
+      "sitz": "Paris",
+      "land": "Frankreich"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.01,
+      "instrumente": 0.01,
+      "summe": 3.02
+    }
+  },
+  {
     "veroeffentlichung": "2025-08-06",
     "emittent": {
       "name": "adidas AG",
@@ -2478,6 +2496,24 @@
     }
   },
   {
+    "veroeffentlichung": "2025-10-31",
+    "emittent": {
+      "name": "Gerresheimer AG",
+      "sitz": "Düsseldorf",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Bank of America Corporation",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 2.1,
+      "instrumente": 2.99716,
+      "summe": 5.1
+    }
+  },
+  {
     "veroeffentlichung": "2025-10-14",
     "emittent": {
       "name": "Enapter AG",
@@ -3344,7 +3380,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-10-13",
+    "veroeffentlichung": "2025-10-31",
     "emittent": {
       "name": "Zalando SE",
       "sitz": "Berlin",
@@ -3356,9 +3392,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.02,
+      "gesamt": 4.99,
       "instrumente": 0,
-      "summe": 5.02
+      "summe": 4.99
     }
   },
   {
@@ -3616,24 +3652,6 @@
   {
     "veroeffentlichung": "2025-10-29",
     "emittent": {
-      "name": "PUMA SE",
-      "sitz": "Herzogenaurach",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.01,
-      "instrumente": 0.35,
-      "summe": 3.36
-    }
-  },
-  {
-    "veroeffentlichung": "2025-10-29",
-    "emittent": {
       "name": "Nordex SE",
       "sitz": "Rostock",
       "land": "Deutschland"
@@ -3848,7 +3866,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-10-27",
+    "veroeffentlichung": "2025-10-31",
     "emittent": {
       "name": "HENSOLDT AG",
       "sitz": "Taufkirchen",
@@ -3860,9 +3878,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.13,
-      "instrumente": 1.39,
-      "summe": 4.52
+      "gesamt": 3.17,
+      "instrumente": 1.37,
+      "summe": 4.54
     }
   },
   {
@@ -3884,7 +3902,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-10-23",
+    "veroeffentlichung": "2025-10-31",
     "emittent": {
       "name": "Heidelberg Materials AG",
       "sitz": "Heidelberg",
@@ -3896,9 +3914,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.01,
-      "instrumente": 0.21,
-      "summe": 5.22
+      "gesamt": 4.93,
+      "instrumente": 0.18,
+      "summe": 5.11
     }
   },
   {
@@ -5563,24 +5581,6 @@
       "gesamt": 4.997,
       "instrumente": 0,
       "summe": 4.997
-    }
-  },
-  {
-    "veroeffentlichung": "2024-11-18",
-    "emittent": {
-      "name": "capsensixx AG",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "capsensixx AG",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 6.47,
-      "instrumente": 0,
-      "summe": 6.47
     }
   },
   {
@@ -7538,7 +7538,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-10-24",
+    "veroeffentlichung": "2025-10-30",
     "emittent": {
       "name": "flatexDEGIRO AG",
       "sitz": "Frankfurt am Main",
@@ -7550,9 +7550,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.82,
+      "gesamt": 5.13,
       "instrumente": 0,
-      "summe": 4.82
+      "summe": 5.13
     }
   },
   {
@@ -8359,6 +8359,24 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 75.47
+    }
+  },
+  {
+    "veroeffentlichung": "2025-10-30",
+    "emittent": {
+      "name": "Accentro Real Estate AG",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Faros Point Credit Opportunities Feeder Fund ICAV",
+      "sitz": "Dublin",
+      "land": "Irland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 15.72,
+      "instrumente": 0,
+      "summe": 15.72
     }
   },
   {
@@ -13995,7 +14013,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-10-27",
+    "veroeffentlichung": "2025-10-31",
     "emittent": {
       "name": "Gerresheimer AG",
       "sitz": "Düsseldorf",
@@ -14007,9 +14025,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.48,
-      "instrumente": 4.83,
-      "summe": 6.3
+      "gesamt": 2.05,
+      "instrumente": 3.78,
+      "summe": 5.83
     }
   },
   {
@@ -27207,24 +27225,6 @@
     }
   },
   {
-    "veroeffentlichung": "2025-06-30",
-    "emittent": {
-      "name": "Zalando SE",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Staat Norwegen",
-      "sitz": "Oslo",
-      "land": "Norwegen"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.2,
-      "instrumente": 0,
-      "summe": 3.2
-    }
-  },
-  {
     "veroeffentlichung": "2021-06-25",
     "emittent": {
       "name": "Vonovia SE",
@@ -27240,24 +27240,6 @@
       "gesamt": 10.12,
       "instrumente": 0,
       "summe": 10.12
-    }
-  },
-  {
-    "veroeffentlichung": "2025-10-30",
-    "emittent": {
-      "name": "TeamViewer SE",
-      "sitz": "Göppingen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Staat Norwegen",
-      "sitz": "Oslo",
-      "land": "Norwegen"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.59,
-      "instrumente": 1.48,
-      "summe": 5.07
     }
   },
   {
@@ -29204,7 +29186,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-10-24",
+    "veroeffentlichung": "2025-10-31",
     "emittent": {
       "name": "HUGO BOSS AG",
       "sitz": "Metzingen",
@@ -29216,13 +29198,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.26,
-      "instrumente": 6.86,
-      "summe": 7.12
+      "gesamt": 0.23,
+      "instrumente": 5.79,
+      "summe": 6.02
     }
   },
   {
-    "veroeffentlichung": "2025-10-30",
+    "veroeffentlichung": "2025-10-31",
     "emittent": {
       "name": "Gerresheimer AG",
       "sitz": "Düsseldorf",
@@ -29234,9 +29216,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 9.81,
-      "instrumente": 11.02,
-      "summe": 20.83
+      "gesamt": 11.1,
+      "instrumente": 11.66,
+      "summe": 22.76
     }
   },
   {
@@ -30004,7 +29986,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-09-24",
+    "veroeffentlichung": "2025-10-30",
     "emittent": {
       "name": "SUSS MicroTec SE",
       "sitz": "Garching b. München",
@@ -30016,9 +29998,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.46,
+      "gesamt": 4.32,
       "instrumente": 0,
-      "summe": 4.46
+      "summe": 4.32
     }
   },
   {
@@ -30801,6 +30783,22 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 51.85
+    }
+  },
+  {
+    "veroeffentlichung": "2025-10-30",
+    "emittent": {
+      "name": "Accentro Real Estate AG",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Vogel, Robert"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 4.71,
+      "instrumente": 0,
+      "summe": 4.71
     }
   },
   {

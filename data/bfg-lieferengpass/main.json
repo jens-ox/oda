@@ -1977,30 +1977,6 @@
   },
   {
     "pzn": [
-      "02039650"
-    ],
-    "enr": [
-      "0070331"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-10-17",
-    "datumEnde": "2025-10-28",
-    "datumErstmeldung": "2025-10-17",
-    "datumLetzteMeldung": "2025-10-17",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Presinol 250",
-    "atcCode": "C02AB01",
-    "wirkstoffe": "Methyldopa (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "TEOFARMA S.R.L.",
-    "telefon": "+39-0382-422008",
-    "mail": "regulatory@teofarma.it",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Presinol 125 - Einreichungsnummer: 2100062"
-  },
-  {
-    "pzn": [
       "02191151"
     ],
     "enr": [
@@ -2528,6 +2504,53 @@
     "zulassungsinhaber": "Mibe GmbH Arzneimittel",
     "telefon": "034954 2470",
     "mail": "zulassung-sekretariat@mibegmbh.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "03673254"
+    ],
+    "enr": [
+      "2104211"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-10-30",
+    "datumEnde": "2025-11-30",
+    "datumErstmeldung": "2025-10-31",
+    "datumLetzteMeldung": "2025-10-31",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nimotop S",
+    "atcCode": "C08CA06",
+    "wirkstoffe": "Nimodipin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bayer Vital GmbH",
+    "telefon": "08006422937",
+    "mail": "medical-information@bayer.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Nimotop S - Einreichungsnummer: 2104209"
+  },
+  {
+    "pzn": [
+      "06151384"
+    ],
+    "enr": [
+      "2114855"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-30",
+    "datumEnde": "2025-11-30",
+    "datumErstmeldung": "2025-10-31",
+    "datumLetzteMeldung": "2025-10-31",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Nimotop",
+    "atcCode": "C08CA06",
+    "wirkstoffe": "Nimodipin",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Bayer Vital GmbH",
+    "telefon": "08006422937",
+    "mail": "medical-information@bayer.com",
     "infoFachkreise": "Nein"
   },
   {
@@ -7555,29 +7578,6 @@
     "zulassungsinhaber": "Hikma Farmaceutica (Portugal), S.A.",
     "mail": "rluetzner@hikma.com",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "19294205"
-    ],
-    "enr": [
-      "7019918"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-10-07",
-    "datumEnde": "2025-11-01",
-    "datumErstmeldung": "2025-10-13",
-    "datumLetzteMeldung": "2025-10-13",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Vyloy",
-    "atcCode": "L01FX31",
-    "wirkstoffe": "Zolbetuximab",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Astellas Pharma Europe B.V.",
-    "mail": "regulatory@astellas.com",
-    "infoFachkreise": "Nein",
-    "alternativPraeparat": "Vyloy - Einreichungsnummer: 7023022"
   },
   {
     "pzn": [
@@ -16134,6 +16134,30 @@
   },
   {
     "pzn": [
+      "01511062"
+    ],
+    "enr": [
+      "2146312"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-23",
+    "datumEnde": "2025-11-07",
+    "datumErstmeldung": "2025-10-31",
+    "datumLetzteMeldung": "2025-10-31",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Zoloft 20 mg/ml Konzentrat zur Herstellung einer Lösung zum Einnehmen",
+    "atcCode": "N06AB06",
+    "wirkstoffe": "Sertralinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Viatris Pharma GmbH",
+    "telefon": "08000700800",
+    "mail": "kundenservice@viatris.com",
+    "infoFachkreise": "Nein",
+    "alternativPraeparat": "Zoloft 100mg - Einreichungsnummer: 2137077"
+  },
+  {
+    "pzn": [
       "16804195"
     ],
     "enr": [
@@ -18120,6 +18144,98 @@
   },
   {
     "pzn": [
+      "09426798"
+    ],
+    "enr": [
+      "2181943"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-20",
+    "datumEnde": "2025-12-12",
+    "datumErstmeldung": "2025-02-28",
+    "datumLetzteMeldung": "2025-10-31",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "voraussichtliche Verfügbarkeiten der einzelnen PZNsGALANTAMIN-1A Pharma 24 mg Hartkapseln retardiert / 56 St (9426781)\t07.11.2025GALANTAMIN-1A Pharma 24 mg Hartkapseln retardiert / 84 St (9426798)\t05.09.2025PZN 9426675 derzeit noch verfügbar",
+    "bezeichnung": "Galantamin - 1A Pharma 24 mg Hartkapseln retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09426723"
+    ],
+    "enr": [
+      "2181942"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-20",
+    "datumEnde": "2025-12-12",
+    "datumErstmeldung": "2025-02-28",
+    "datumLetzteMeldung": "2025-10-31",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "voraussichtliche VerfügbarkeitenGALANTAMIN-1A Pharma 16 mg Hartkapseln retardiert / 28 St (9426723)\t07.11.2025GALANTAMIN-1A Pharma 16 mg Hartkapseln retardiert / 56 St (9426746)\t07.11.2025GALANTAMIN-1A Pharma 16 mg Hartkapseln retardiert / 84 St (9426752)\t04.07.2025",
+    "bezeichnung": "Galantamin - 1A Pharma 16 mg Hartkapseln retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09426746"
+    ],
+    "enr": [
+      "2181942"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-20",
+    "datumEnde": "2025-12-12",
+    "datumErstmeldung": "2025-02-28",
+    "datumLetzteMeldung": "2025-10-31",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "voraussichtliche VerfügbarkeitenGALANTAMIN-1A Pharma 16 mg Hartkapseln retardiert / 28 St (9426723)\t07.11.2025GALANTAMIN-1A Pharma 16 mg Hartkapseln retardiert / 56 St (9426746)\t07.11.2025GALANTAMIN-1A Pharma 16 mg Hartkapseln retardiert / 84 St (9426752)\t04.07.2025",
+    "bezeichnung": "Galantamin - 1A Pharma 16 mg Hartkapseln retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09426752"
+    ],
+    "enr": [
+      "2181942"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-02-20",
+    "datumEnde": "2025-12-12",
+    "datumErstmeldung": "2025-02-28",
+    "datumLetzteMeldung": "2025-10-31",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "grundAnmerkung": "voraussichtliche VerfügbarkeitenGALANTAMIN-1A Pharma 16 mg Hartkapseln retardiert / 28 St (9426723)\t07.11.2025GALANTAMIN-1A Pharma 16 mg Hartkapseln retardiert / 56 St (9426746)\t07.11.2025GALANTAMIN-1A Pharma 16 mg Hartkapseln retardiert / 84 St (9426752)\t04.07.2025",
+    "bezeichnung": "Galantamin - 1A Pharma 16 mg Hartkapseln retardiert",
+    "atcCode": "N06DA04",
+    "wirkstoffe": "Galantaminhydrobromid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "1 A Pharma GmbH",
+    "mail": "info@1apharma.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "09632842"
     ],
     "enr": [
@@ -19135,144 +19251,6 @@
     "krankenhausrelevant": false,
     "zulassungsinhaber": "ratiopharm GmbH",
     "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09426775"
-    ],
-    "enr": [
-      "2181943"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-20",
-    "datumEnde": "2025-11-07",
-    "datumErstmeldung": "2025-02-28",
-    "datumLetzteMeldung": "2025-02-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "voraussichtliche Verfügbarkeiten der einzelnen PZNsGALANTAMIN-1A Pharma 24 mg Hartkapseln retardiert / 56 St (9426781)\t07.11.2025GALANTAMIN-1A Pharma 24 mg Hartkapseln retardiert / 84 St (9426798)\t05.09.2025PZN 9426675 derzeit noch verfügbar",
-    "bezeichnung": "Galantamin - 1A Pharma 24 mg Hartkapseln retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09426781"
-    ],
-    "enr": [
-      "2181943"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-20",
-    "datumEnde": "2025-11-07",
-    "datumErstmeldung": "2025-02-28",
-    "datumLetzteMeldung": "2025-02-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "voraussichtliche Verfügbarkeiten der einzelnen PZNsGALANTAMIN-1A Pharma 24 mg Hartkapseln retardiert / 56 St (9426781)\t07.11.2025GALANTAMIN-1A Pharma 24 mg Hartkapseln retardiert / 84 St (9426798)\t05.09.2025PZN 9426675 derzeit noch verfügbar",
-    "bezeichnung": "Galantamin - 1A Pharma 24 mg Hartkapseln retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09426798"
-    ],
-    "enr": [
-      "2181943"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-20",
-    "datumEnde": "2025-11-07",
-    "datumErstmeldung": "2025-02-28",
-    "datumLetzteMeldung": "2025-02-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "voraussichtliche Verfügbarkeiten der einzelnen PZNsGALANTAMIN-1A Pharma 24 mg Hartkapseln retardiert / 56 St (9426781)\t07.11.2025GALANTAMIN-1A Pharma 24 mg Hartkapseln retardiert / 84 St (9426798)\t05.09.2025PZN 9426675 derzeit noch verfügbar",
-    "bezeichnung": "Galantamin - 1A Pharma 24 mg Hartkapseln retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09426723"
-    ],
-    "enr": [
-      "2181942"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-20",
-    "datumEnde": "2025-11-07",
-    "datumErstmeldung": "2025-02-28",
-    "datumLetzteMeldung": "2025-02-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "voraussichtliche VerfügbarkeitenGALANTAMIN-1A Pharma 16 mg Hartkapseln retardiert / 28 St (9426723)\t07.11.2025GALANTAMIN-1A Pharma 16 mg Hartkapseln retardiert / 56 St (9426746)\t07.11.2025GALANTAMIN-1A Pharma 16 mg Hartkapseln retardiert / 84 St (9426752)\t04.07.2025",
-    "bezeichnung": "Galantamin - 1A Pharma 16 mg Hartkapseln retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09426746"
-    ],
-    "enr": [
-      "2181942"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-20",
-    "datumEnde": "2025-11-07",
-    "datumErstmeldung": "2025-02-28",
-    "datumLetzteMeldung": "2025-02-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "voraussichtliche VerfügbarkeitenGALANTAMIN-1A Pharma 16 mg Hartkapseln retardiert / 28 St (9426723)\t07.11.2025GALANTAMIN-1A Pharma 16 mg Hartkapseln retardiert / 56 St (9426746)\t07.11.2025GALANTAMIN-1A Pharma 16 mg Hartkapseln retardiert / 84 St (9426752)\t04.07.2025",
-    "bezeichnung": "Galantamin - 1A Pharma 16 mg Hartkapseln retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09426752"
-    ],
-    "enr": [
-      "2181942"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-02-20",
-    "datumEnde": "2025-11-07",
-    "datumErstmeldung": "2025-02-28",
-    "datumLetzteMeldung": "2025-02-28",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "grundAnmerkung": "voraussichtliche VerfügbarkeitenGALANTAMIN-1A Pharma 16 mg Hartkapseln retardiert / 28 St (9426723)\t07.11.2025GALANTAMIN-1A Pharma 16 mg Hartkapseln retardiert / 56 St (9426746)\t07.11.2025GALANTAMIN-1A Pharma 16 mg Hartkapseln retardiert / 84 St (9426752)\t04.07.2025",
-    "bezeichnung": "Galantamin - 1A Pharma 16 mg Hartkapseln retardiert",
-    "atcCode": "N06DA04",
-    "wirkstoffe": "Galantaminhydrobromid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "1 A Pharma GmbH",
-    "mail": "info@1apharma.com",
     "infoFachkreise": "Vorgesehen"
   },
   {
