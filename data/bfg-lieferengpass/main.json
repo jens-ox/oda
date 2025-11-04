@@ -437,6 +437,75 @@
   },
   {
     "pzn": [
+      "14313659"
+    ],
+    "enr": [
+      "2202258"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-01",
+    "datumEnde": "2026-03-13",
+    "datumErstmeldung": "2025-11-03",
+    "datumLetzteMeldung": "2025-11-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Notwendige Variations wurden dem Zulassungsinhaber vom Lohnherstellernicht rechtzeitig angekündigt.",
+    "bezeichnung": "Aprepitant Zentiva 80 mg Hartkapseln",
+    "atcCode": "A04AD12",
+    "wirkstoffe": "Aprepitant",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Zentiva Pharma GmbH",
+    "mail": "MedInfo.DE@zentiva.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "16742672"
+    ],
+    "enr": [
+      "2202259"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-01",
+    "datumEnde": "2026-03-13",
+    "datumErstmeldung": "2025-11-03",
+    "datumLetzteMeldung": "2025-11-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Notwendige Variations wurden dem Zulassungsinhaber vom Lohnherstellernicht rechtzeitig angekündigt.",
+    "bezeichnung": "Aprepitant Zentiva 125 mg Hartkapseln",
+    "atcCode": "A04AD12",
+    "wirkstoffe": "Aprepitant",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Zentiva Pharma GmbH",
+    "mail": "MedInfo.DE@zentiva.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "14313642"
+    ],
+    "enr": [
+      "2202260"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-10-01",
+    "datumEnde": "2026-03-13",
+    "datumErstmeldung": "2025-11-03",
+    "datumLetzteMeldung": "2025-11-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "grundAnmerkung": "Notwendige Variations wurden dem Zulassungsinhaber vom Lohnhersteller nicht rechtzeitig angekündigt.",
+    "bezeichnung": "Aprepitant Zentiva 80 mg und 125 mg Hartkapseln",
+    "atcCode": "A04AD12",
+    "wirkstoffe": "Aprepitant",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Zentiva Pharma GmbH",
+    "mail": "MedInfo.DE@zentiva.com",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "14853025"
     ],
     "enr": [
@@ -1292,52 +1361,6 @@
   },
   {
     "pzn": [
-      "00379086"
-    ],
-    "enr": [
-      "0160465"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-14",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2023-08-14",
-    "datumLetzteMeldung": "2025-08-04",
-    "grund": "Sonstige",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Aufgrund der Schließung der Produktionsstätte ist die Produktion von Ferro sanol 30 mg/ml Tropfen nicht mehr möglich. Die PZN der Gesamtklinikpackung (10 x 30 ml) lautet 01608910; die PZN 07804196 ist die des Klinikpackungbausteins (1 x 30 ml).",
-    "bezeichnung": "Ferro sanol 30mg/ml Tropfen",
-    "atcCode": "B03AA01",
-    "wirkstoffe": "Eisen(II)-glycin-sulfat-Komplex",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "UCB Pharma GmbH",
-    "telefon": "+49 2173 48 4848",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "01608910"
-    ],
-    "enr": [
-      "0160465"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2023-08-14",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2023-08-14",
-    "datumLetzteMeldung": "2025-08-04",
-    "grund": "Sonstige",
-    "grundArt": "Produktionsproblem",
-    "grundAnmerkung": "Aufgrund der Schließung der Produktionsstätte ist die Produktion von Ferro sanol 30 mg/ml Tropfen nicht mehr möglich. Die PZN der Gesamtklinikpackung (10 x 30 ml) lautet 01608910; die PZN 07804196 ist die des Klinikpackungbausteins (1 x 30 ml).",
-    "bezeichnung": "Ferro sanol 30mg/ml Tropfen",
-    "atcCode": "B03AA01",
-    "wirkstoffe": "Eisen(II)-glycin-sulfat-Komplex",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "UCB Pharma GmbH",
-    "telefon": "+49 2173 48 4848",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03075375"
     ],
     "enr": [
@@ -1347,10 +1370,10 @@
     "datumBeginn": "2025-05-06",
     "datumEnde": "2025-12-22",
     "datumErstmeldung": "2025-05-06",
-    "datumLetzteMeldung": "2025-10-27",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Probleme beim Wirkstoffhersteller",
     "grundArt": "Sonstige",
-    "grundAnmerkung": "Nicht lieferfähig. Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
+    "grundAnmerkung": "Eingeschränkt verfügbar. Mögliche Alternativpräparate können der Onkopedia Leitlinie \"Eisenmangel und Eisenmangelanämie\" entnommen werden.",
     "bezeichnung": "Ferrlecit 62,5 mg",
     "atcCode": "B03AC",
     "wirkstoffe": "Eisen(III)-natrium-D-gluconat-hydroxid-oxid-Komplex (ca. 2:1:1:x:y)",
@@ -2049,6 +2072,94 @@
   },
   {
     "pzn": [
+      "09722686"
+    ],
+    "enr": [
+      "3001058"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-09-04",
+    "datumEnde": "2025-12-15",
+    "datumErstmeldung": "2025-09-09",
+    "datumLetzteMeldung": "2025-11-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clonidin-ratiopharm 75",
+    "atcCode": "C02AC01",
+    "wirkstoffe": "Clonidinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09722692"
+    ],
+    "enr": [
+      "3001058"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-09-04",
+    "datumEnde": "2025-12-15",
+    "datumErstmeldung": "2025-09-09",
+    "datumLetzteMeldung": "2025-11-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clonidin-ratiopharm 75",
+    "atcCode": "C02AC01",
+    "wirkstoffe": "Clonidinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09722746"
+    ],
+    "enr": [
+      "2107470"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-09-04",
+    "datumEnde": "2025-12-12",
+    "datumErstmeldung": "2025-09-09",
+    "datumLetzteMeldung": "2025-11-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clonidin-ratiopharm 150",
+    "atcCode": "C02AC01",
+    "wirkstoffe": "Clonidinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09722775"
+    ],
+    "enr": [
+      "2107471"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2025-09-03",
+    "datumEnde": "2025-12-19",
+    "datumErstmeldung": "2025-09-09",
+    "datumLetzteMeldung": "2025-11-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Clonidin-ratiopharm 300",
+    "atcCode": "C02AC01",
+    "wirkstoffe": "Clonidinhydrochlorid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "ratiopharm GmbH",
+    "mail": "info@ratiopharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "14307736"
     ],
     "enr": [
@@ -2068,94 +2179,6 @@
     "zulassungsinhaber": "STADAPHARM GmbH",
     "telefon": "061016032416",
     "mail": "christiane.georgi@stada.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09722775"
-    ],
-    "enr": [
-      "2107471"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-09-03",
-    "datumEnde": "2025-10-17",
-    "datumErstmeldung": "2025-09-09",
-    "datumLetzteMeldung": "2025-09-09",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clonidin-ratiopharm 300",
-    "atcCode": "C02AC01",
-    "wirkstoffe": "Clonidinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09722746"
-    ],
-    "enr": [
-      "2107470"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-09-04",
-    "datumEnde": "2025-10-17",
-    "datumErstmeldung": "2025-09-09",
-    "datumLetzteMeldung": "2025-09-09",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clonidin-ratiopharm 150",
-    "atcCode": "C02AC01",
-    "wirkstoffe": "Clonidinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09722686"
-    ],
-    "enr": [
-      "3001058"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-09-04",
-    "datumEnde": "2025-10-17",
-    "datumErstmeldung": "2025-09-09",
-    "datumLetzteMeldung": "2025-09-09",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clonidin-ratiopharm 75",
-    "atcCode": "C02AC01",
-    "wirkstoffe": "Clonidinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "09722692"
-    ],
-    "enr": [
-      "3001058"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-09-04",
-    "datumEnde": "2025-10-17",
-    "datumErstmeldung": "2025-09-09",
-    "datumLetzteMeldung": "2025-09-09",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Clonidin-ratiopharm 75",
-    "atcCode": "C02AC01",
-    "wirkstoffe": "Clonidinhydrochlorid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "ratiopharm GmbH",
-    "mail": "info@ratiopharm.de",
     "infoFachkreise": "Vorgesehen"
   },
   {
@@ -2907,6 +2930,28 @@
     "zulassungsinhaber": "Aristo Pharma GmbH",
     "mail": "info@aristo-pharma.de",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "09425801"
+    ],
+    "enr": [
+      "2173288"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-22",
+    "datumEnde": "2025-12-05",
+    "datumErstmeldung": "2025-11-03",
+    "datumLetzteMeldung": "2025-11-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Perindopril Erbumin Glenmark 4 mg Tabletten",
+    "atcCode": "C09AA04",
+    "wirkstoffe": "Perindopril-tert-butylamin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -4543,28 +4588,6 @@
     "mail": "ra_dach@organon.com",
     "infoFachkreise": "Nein",
     "alternativPraeparat": "Diprogenta - Einreichungsnummer: 0451317"
-  },
-  {
-    "pzn": [
-      "13426769"
-    ],
-    "enr": [
-      "2197279"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-09-23",
-    "datumEnde": "2025-10-27",
-    "datumErstmeldung": "2025-10-20",
-    "datumLetzteMeldung": "2025-10-30",
-    "grund": "Erhöhte Nachfrage",
-    "grundArt": "Sonstige",
-    "bezeichnung": "ISOTRETINOIN BASICS 10 mg Weichkapseln",
-    "atcCode": "D10BA01",
-    "wirkstoffe": "Isotretinoin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Basics GmbH",
-    "mail": "dominik.lucke@sunpharma.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -6690,28 +6713,6 @@
   },
   {
     "pzn": [
-      "11240612"
-    ],
-    "enr": [
-      "2192186"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-06-25",
-    "datumEnde": "2025-10-17",
-    "datumErstmeldung": "2024-07-02",
-    "datumLetzteMeldung": "2025-09-17",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Linezolid Glenmark 600 mg Filmtabletten",
-    "atcCode": "J01XX08",
-    "wirkstoffe": "Linezolid",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "00173717"
     ],
     "enr": [
@@ -7860,11 +7861,11 @@
     "enr": [
       "2175126"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-08-25",
-    "datumEnde": "2025-10-31",
+    "datumEnde": "2025-12-15",
     "datumErstmeldung": "2025-08-26",
-    "datumLetzteMeldung": "2025-08-26",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Anastrozol Denk 1 mg Filmtabletten",
@@ -8350,11 +8351,11 @@
     "enr": [
       "2154692"
     ],
-    "meldungsart": "Erstmeldung",
+    "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-10-13",
-    "datumEnde": "2025-10-30",
+    "datumEnde": "2025-11-30",
     "datumErstmeldung": "2025-10-14",
-    "datumLetzteMeldung": "2025-10-14",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Sympal injekt 50 mg Injektions-/Infusionslösung",
@@ -9795,9 +9796,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-04-12",
-    "datumEnde": "2025-12-19",
+    "datumEnde": "2026-01-30",
     "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-09-17",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 5 mg Tabletten",
@@ -9817,9 +9818,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-04-12",
-    "datumEnde": "2025-12-19",
+    "datumEnde": "2026-01-30",
     "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-09-17",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 5 mg Tabletten",
@@ -9839,9 +9840,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-04-12",
-    "datumEnde": "2025-12-19",
+    "datumEnde": "2026-01-30",
     "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-09-17",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 5 mg Tabletten",
@@ -9861,9 +9862,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-11-17",
-    "datumEnde": "2025-12-19",
+    "datumEnde": "2026-01-30",
     "datumErstmeldung": "2023-12-19",
-    "datumLetzteMeldung": "2025-09-17",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Sonstige",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 5 mg Schmelztabletten",
@@ -9883,9 +9884,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-11-17",
-    "datumEnde": "2025-12-19",
+    "datumEnde": "2026-01-30",
     "datumErstmeldung": "2023-12-19",
-    "datumLetzteMeldung": "2025-09-17",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Sonstige",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 5 mg Schmelztabletten",
@@ -9905,9 +9906,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2023-11-17",
-    "datumEnde": "2025-12-19",
+    "datumEnde": "2026-01-30",
     "datumErstmeldung": "2023-12-19",
-    "datumLetzteMeldung": "2025-09-17",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Sonstige",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 5 mg Schmelztabletten",
@@ -9927,9 +9928,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-04-09",
-    "datumEnde": "2025-10-31",
+    "datumEnde": "2025-11-28",
     "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-09-17",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Probleme bei der Endfreigabe",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
@@ -9949,9 +9950,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-04-09",
-    "datumEnde": "2025-10-31",
+    "datumEnde": "2025-11-28",
     "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-09-17",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Probleme bei der Endfreigabe",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
@@ -9971,9 +9972,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-04-09",
-    "datumEnde": "2025-10-31",
+    "datumEnde": "2025-11-28",
     "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-09-17",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Probleme bei der Endfreigabe",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
@@ -9993,9 +9994,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-04-09",
-    "datumEnde": "2025-10-31",
+    "datumEnde": "2025-11-28",
     "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-09-17",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Probleme bei der Endfreigabe",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 10 mg Schmelztabletten",
@@ -10015,9 +10016,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-04-08",
-    "datumEnde": "2025-10-31",
+    "datumEnde": "2025-11-28",
     "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-09-17",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Probleme bei der Endfreigabe",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 10 mg Tabletten",
@@ -10037,9 +10038,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-04-08",
-    "datumEnde": "2025-10-31",
+    "datumEnde": "2025-11-28",
     "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-09-17",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Probleme bei der Endfreigabe",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 10 mg Tabletten",
@@ -10059,9 +10060,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-04-08",
-    "datumEnde": "2025-10-31",
+    "datumEnde": "2025-11-28",
     "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-09-17",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Probleme bei der Endfreigabe",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 10 mg Tabletten",
@@ -10081,9 +10082,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-04-08",
-    "datumEnde": "2025-10-31",
+    "datumEnde": "2025-11-28",
     "datumErstmeldung": "2024-04-30",
-    "datumLetzteMeldung": "2025-09-17",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Probleme bei der Endfreigabe",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Rizatriptan Glenmark 10 mg Tabletten",
@@ -10803,6 +10804,50 @@
     "zulassungsinhaber": "1 A Pharma GmbH",
     "mail": "info@1apharma.com",
     "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "11127726"
+    ],
+    "enr": [
+      "2195136"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-30",
+    "datumEnde": "2026-01-30",
+    "datumErstmeldung": "2025-11-03",
+    "datumLetzteMeldung": "2025-11-03",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Zonisamid Glenmark 100 mg Hartkapseln",
+    "atcCode": "N03AX15",
+    "wirkstoffe": "Zonisamid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "11127732"
+    ],
+    "enr": [
+      "2195136"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-30",
+    "datumEnde": "2026-01-30",
+    "datumErstmeldung": "2025-11-03",
+    "datumLetzteMeldung": "2025-11-03",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Zonisamid Glenmark 100 mg Hartkapseln",
+    "atcCode": "N03AX15",
+    "wirkstoffe": "Zonisamid",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -11926,72 +11971,6 @@
   },
   {
     "pzn": [
-      "09465930"
-    ],
-    "enr": [
-      "2706423"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-07-18",
-    "datumEnde": "2025-10-17",
-    "datumErstmeldung": "2025-08-12",
-    "datumLetzteMeldung": "2025-08-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Olanzapin Glenmark 5 mg Tabletten - OP70",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "09465893"
-    ],
-    "enr": [
-      "2706420"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-07-18",
-    "datumEnde": "2025-10-17",
-    "datumErstmeldung": "2025-08-12",
-    "datumLetzteMeldung": "2025-08-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Olanzapin Glenmark 2,5 mg Tabletten - OP70",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "10229270"
-    ],
-    "enr": [
-      "2706419"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-08-04",
-    "datumEnde": "2025-10-17",
-    "datumErstmeldung": "2025-08-12",
-    "datumLetzteMeldung": "2025-08-12",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Olanzapin Glenmark 2,5 mg Tabletten - OP56",
-    "atcCode": "N05AH03",
-    "wirkstoffe": "Olanzapin",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
       "11130651"
     ],
     "enr": [
@@ -12007,6 +11986,50 @@
     "bezeichnung": "Olanzapin Glenmark 10 mg Tabletten - OP56",
     "atcCode": "N05AH03",
     "wirkstoffe": "Olanzapin",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16031563"
+    ],
+    "enr": [
+      "2202517"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-30",
+    "datumEnde": "2026-01-09",
+    "datumErstmeldung": "2024-10-07",
+    "datumLetzteMeldung": "2025-11-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "16031592"
+    ],
+    "enr": [
+      "2202517"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-09-30",
+    "datumEnde": "2026-01-09",
+    "datumErstmeldung": "2024-10-07",
+    "datumLetzteMeldung": "2025-11-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Quetiapin Glenmark 200 mg Retardtabletten",
+    "atcCode": "N05AH04",
+    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
     "mail": "Service.De@glenmarkpharma.com",
@@ -13685,50 +13708,6 @@
     "telefon": "0733396510",
     "mail": "info@aliud.de",
     "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "16031563"
-    ],
-    "enr": [
-      "2202517"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-30",
-    "datumEnde": "2025-11-21",
-    "datumErstmeldung": "2024-10-07",
-    "datumLetzteMeldung": "2025-09-17",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Glenmark 200 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
-  },
-  {
-    "pzn": [
-      "16031592"
-    ],
-    "enr": [
-      "2202517"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-09-30",
-    "datumEnde": "2025-11-21",
-    "datumErstmeldung": "2024-10-07",
-    "datumLetzteMeldung": "2025-09-17",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Quetiapin Glenmark 200 mg Retardtabletten",
-    "atcCode": "N05AH04",
-    "wirkstoffe": "Quetiapinfumarat (Ph.Eur.)",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
-    "mail": "Service.De@glenmarkpharma.com",
-    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
@@ -15461,30 +15440,6 @@
   },
   {
     "pzn": [
-      "06330543"
-    ],
-    "enr": [
-      "0911813"
-    ],
-    "meldungsart": "Erstmeldung",
-    "datumBeginn": "2025-10-13",
-    "datumEnde": "2025-12-31",
-    "datumErstmeldung": "2025-10-30",
-    "datumLetzteMeldung": "2025-10-30",
-    "grund": "Sonstige",
-    "grundArt": "Sonstige",
-    "bezeichnung": "Doxepin 50 Holsten",
-    "atcCode": "N06AA12",
-    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
-    "krankenhausrelevant": true,
-    "zulassungsinhaber": "Holsten Pharma GmbH",
-    "telefon": "069962339020",
-    "mail": "y.maniya@holstenpharma.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Doxepin 50 Holsten - Einreichungsnummer: 0911813"
-  },
-  {
-    "pzn": [
       "06330508"
     ],
     "enr": [
@@ -15494,7 +15449,7 @@
     "datumBeginn": "2025-08-01",
     "datumEnde": "2025-12-31",
     "datumErstmeldung": "2025-08-12",
-    "datumLetzteMeldung": "2025-10-29",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Doxepin 75 Holsten",
@@ -15517,7 +15472,7 @@
     "datumBeginn": "2025-08-01",
     "datumEnde": "2025-12-31",
     "datumErstmeldung": "2025-08-12",
-    "datumLetzteMeldung": "2025-10-29",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Doxepin 75 Holsten",
@@ -15540,7 +15495,7 @@
     "datumBeginn": "2025-08-01",
     "datumEnde": "2025-12-31",
     "datumErstmeldung": "2025-08-12",
-    "datumLetzteMeldung": "2025-10-29",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Erhöhte Nachfrage",
     "grundArt": "Sonstige",
     "bezeichnung": "Doxepin 75 Holsten",
@@ -15551,6 +15506,30 @@
     "mail": "y.maniya@holstenpharma.de",
     "infoFachkreise": "Vorgesehen",
     "alternativPraeparat": "Doxepin 75 Holsten - Einreichungsnummer: 0914987"
+  },
+  {
+    "pzn": [
+      "06330543"
+    ],
+    "enr": [
+      "0911813"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-13",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-10-30",
+    "datumLetzteMeldung": "2025-10-30",
+    "grund": "Sonstige",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Doxepin 50 Holsten",
+    "atcCode": "N06AA12",
+    "wirkstoffe": "Doxepinhydrochlorid (Ph.Eur.)",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "Holsten Pharma GmbH",
+    "telefon": "069962339020",
+    "mail": "y.maniya@holstenpharma.de",
+    "infoFachkreise": "Vorgesehen",
+    "alternativPraeparat": "Doxepin 50 Holsten - Einreichungsnummer: 0911813"
   },
   {
     "pzn": [
@@ -19299,6 +19278,28 @@
   },
   {
     "pzn": [
+      "09947563"
+    ],
+    "enr": [
+      "2185173"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-10-09",
+    "datumEnde": "2025-12-19",
+    "datumErstmeldung": "2025-11-03",
+    "datumLetzteMeldung": "2025-11-03",
+    "grund": "Erhöhte Nachfrage",
+    "grundArt": "Sonstige",
+    "bezeichnung": "Glentek 50 mg Filmtabletten",
+    "atcCode": "N07XX02",
+    "wirkstoffe": "Riluzol",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+    "mail": "Service.De@glenmarkpharma.com",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
       "15427448"
     ],
     "enr": [
@@ -19939,52 +19940,6 @@
   },
   {
     "pzn": [
-      "14144151"
-    ],
-    "enr": [
-      "2201376"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-06-05",
-    "datumEnde": "2025-10-20",
-    "datumErstmeldung": "2025-06-10",
-    "datumLetzteMeldung": "2025-09-15",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hoggar Night 25 mg Schmelztabletten",
-    "atcCode": "R06AA09",
-    "wirkstoffe": "Doxylaminhydrogensuccinat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADA Consumer Health Deutschland GmbH",
-    "telefon": "061016032416",
-    "mail": "christiane.georgi@stada.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "14144168"
-    ],
-    "enr": [
-      "2201376"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-06-05",
-    "datumEnde": "2025-10-20",
-    "datumErstmeldung": "2025-06-10",
-    "datumLetzteMeldung": "2025-09-15",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Hoggar Night 25 mg Schmelztabletten",
-    "atcCode": "R06AA09",
-    "wirkstoffe": "Doxylaminhydrogensuccinat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "STADA Consumer Health Deutschland GmbH",
-    "telefon": "061016032416",
-    "mail": "christiane.georgi@stada.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03746740"
     ],
     "enr": [
@@ -20031,6 +19986,29 @@
   },
   {
     "pzn": [
+      "02498613"
+    ],
+    "enr": [
+      "2102411"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-06-13",
+    "datumEnde": "2025-11-30",
+    "datumErstmeldung": "2024-06-12",
+    "datumLetzteMeldung": "2025-11-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Gentamicin-POS",
+    "atcCode": "S01AA11",
+    "wirkstoffe": "Gentamicinsulfat",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
       "02498636"
     ],
     "enr": [
@@ -20054,29 +20032,6 @@
   },
   {
     "pzn": [
-      "02498613"
-    ],
-    "enr": [
-      "2102411"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-06-13",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2024-06-12",
-    "datumLetzteMeldung": "2025-10-06",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Gentamicin-POS",
-    "atcCode": "S01AA11",
-    "wirkstoffe": "Gentamicinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
       "03949437"
     ],
     "enr": [
@@ -20084,9 +20039,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-11-01",
-    "datumEnde": "2025-10-31",
+    "datumEnde": "2026-01-05",
     "datumErstmeldung": "2025-04-10",
-    "datumLetzteMeldung": "2025-08-07",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Herstellerwechsel",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Fucithalmic 10 mg/g Augentropfen",
@@ -20108,9 +20063,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-07-17",
-    "datumEnde": "2025-10-31",
+    "datumEnde": "2026-01-31",
     "datumErstmeldung": "2024-06-17",
-    "datumLetzteMeldung": "2025-07-03",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Virupos",
@@ -20131,14 +20086,37 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2024-05-09",
-    "datumEnde": "2025-10-31",
+    "datumEnde": "2026-01-31",
     "datumErstmeldung": "2025-03-31",
-    "datumLetzteMeldung": "2025-07-03",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Probleme bei der Endfreigabe",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Hydrocortison-POS N 2,5 %",
     "atcCode": "S01BA02",
     "wirkstoffe": "Hydrocortisonacetat (Ph.Eur.)",
+    "krankenhausrelevant": false,
+    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+    "telefon": "068059292188",
+    "mail": "christine.funk@ursapharm.de",
+    "infoFachkreise": "Vorgesehen"
+  },
+  {
+    "pzn": [
+      "00165209"
+    ],
+    "enr": [
+      "2157937"
+    ],
+    "meldungsart": "Änderungsmeldung",
+    "datumBeginn": "2024-11-21",
+    "datumEnde": "2026-01-31",
+    "datumErstmeldung": "2025-01-03",
+    "datumLetzteMeldung": "2025-11-03",
+    "grund": "Probleme bei der Endfreigabe",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Predni-POS 1 %",
+    "atcCode": "S01BA04",
+    "wirkstoffe": "Prednisolonacetat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
     "telefon": "068059292188",
@@ -20194,21 +20172,21 @@
   },
   {
     "pzn": [
-      "00165209"
+      "07590714"
     ],
     "enr": [
-      "2157937"
+      "2129347"
     ],
     "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-11-21",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-01-03",
-    "datumLetzteMeldung": "2025-07-03",
-    "grund": "Probleme bei der Endfreigabe",
+    "datumBeginn": "2024-08-22",
+    "datumEnde": "2026-01-31",
+    "datumErstmeldung": "2024-08-22",
+    "datumLetzteMeldung": "2025-11-03",
+    "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
-    "bezeichnung": "Predni-POS 1 %",
-    "atcCode": "S01BA04",
-    "wirkstoffe": "Prednisolonacetat",
+    "bezeichnung": "Fluoropos",
+    "atcCode": "S01BA07",
+    "wirkstoffe": "Fluorometholon",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
     "telefon": "068059292188",
@@ -20217,21 +20195,21 @@
   },
   {
     "pzn": [
-      "07590714"
+      "03083245"
     ],
     "enr": [
-      "2129347"
+      "2105961"
     ],
     "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2024-08-22",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2024-08-22",
-    "datumLetzteMeldung": "2025-07-03",
+    "datumBeginn": "2025-03-24",
+    "datumEnde": "2025-12-31",
+    "datumErstmeldung": "2025-03-24",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
-    "bezeichnung": "Fluoropos",
-    "atcCode": "S01BA07",
-    "wirkstoffe": "Fluorometholon",
+    "bezeichnung": "Dexa-Gentamicin",
+    "atcCode": "S01CA01",
+    "wirkstoffe": "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.); Gentamicinsulfat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
     "telefon": "068059292188",
@@ -20255,29 +20233,6 @@
     "bezeichnung": "Dexa-Gentamicin",
     "atcCode": "S01CA01",
     "wirkstoffe": "Dexamethason; Gentamicinsulfat",
-    "krankenhausrelevant": false,
-    "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-    "telefon": "068059292188",
-    "mail": "christine.funk@ursapharm.de",
-    "infoFachkreise": "Vorgesehen"
-  },
-  {
-    "pzn": [
-      "03083245"
-    ],
-    "enr": [
-      "2105961"
-    ],
-    "meldungsart": "Änderungsmeldung",
-    "datumBeginn": "2025-03-24",
-    "datumEnde": "2025-10-31",
-    "datumErstmeldung": "2025-03-24",
-    "datumLetzteMeldung": "2025-07-03",
-    "grund": "Probleme in der Herstellung",
-    "grundArt": "Produktionsproblem",
-    "bezeichnung": "Dexa-Gentamicin",
-    "atcCode": "S01CA01",
-    "wirkstoffe": "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.); Gentamicinsulfat",
     "krankenhausrelevant": false,
     "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
     "telefon": "068059292188",
@@ -20363,9 +20318,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-08-18",
-    "datumEnde": "2025-10-31",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2025-08-19",
-    "datumLetzteMeldung": "2025-10-17",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Neosynephrin-POS 5%",
@@ -20375,8 +20330,7 @@
     "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
     "telefon": "068059292188",
     "mail": "christine.funk@ursapharm.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Neosynephrin-POS 5% - Einreichungsnummer: 0008875"
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -20387,9 +20341,9 @@
     ],
     "meldungsart": "Änderungsmeldung",
     "datumBeginn": "2025-08-18",
-    "datumEnde": "2025-10-31",
+    "datumEnde": "2025-12-31",
     "datumErstmeldung": "2025-08-19",
-    "datumLetzteMeldung": "2025-10-17",
+    "datumLetzteMeldung": "2025-11-03",
     "grund": "Probleme in der Herstellung",
     "grundArt": "Produktionsproblem",
     "bezeichnung": "Neosynephrin-POS 5%",
@@ -20399,8 +20353,7 @@
     "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
     "telefon": "068059292188",
     "mail": "christine.funk@ursapharm.de",
-    "infoFachkreise": "Vorgesehen",
-    "alternativPraeparat": "Neosynephrin-POS 5% - Einreichungsnummer: 0008875"
+    "infoFachkreise": "Vorgesehen"
   },
   {
     "pzn": [
@@ -20469,6 +20422,52 @@
     "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
     "mail": "RA-Visudyne@cheplapharm.com",
     "infoFachkreise": "Ja"
+  },
+  {
+    "pzn": [
+      "16199883"
+    ],
+    "enr": [
+      "2193921"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-11-06",
+    "datumEnde": "2025-12-17",
+    "datumErstmeldung": "2025-11-03",
+    "datumLetzteMeldung": "2025-11-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Dimenhydrinat PANPHARMA 6,2 mg/ml Injektionslösung (i. v.) ",
+    "atcCode": "TERM_ID_NA_2090000395",
+    "wirkstoffe": "Dimenhydrinat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PANPHARMA Rechtsform: S.A.",
+    "telefon": "04154862163",
+    "mail": "rwindler@panpharma.de",
+    "infoFachkreise": "Nein"
+  },
+  {
+    "pzn": [
+      "17921922"
+    ],
+    "enr": [
+      "2193921"
+    ],
+    "meldungsart": "Erstmeldung",
+    "datumBeginn": "2025-11-06",
+    "datumEnde": "2025-12-17",
+    "datumErstmeldung": "2025-11-03",
+    "datumLetzteMeldung": "2025-11-03",
+    "grund": "Probleme in der Herstellung",
+    "grundArt": "Produktionsproblem",
+    "bezeichnung": "Dimenhydrinat PANPHARMA 6,2 mg/ml Injektionslösung (i. v.) ",
+    "atcCode": "TERM_ID_NA_2090000395",
+    "wirkstoffe": "Dimenhydrinat",
+    "krankenhausrelevant": true,
+    "zulassungsinhaber": "PANPHARMA Rechtsform: S.A.",
+    "telefon": "04154862163",
+    "mail": "rwindler@panpharma.de",
+    "infoFachkreise": "Nein"
   },
   {
     "pzn": [
