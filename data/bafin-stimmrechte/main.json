@@ -1136,24 +1136,6 @@
     }
   },
   {
-    "veroeffentlichung": "2025-10-28",
-    "emittent": {
-      "name": "NORMA Group SE",
-      "sitz": "Maintal",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Amundi S.A.",
-      "sitz": "Paris",
-      "land": "Frankreich"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.08,
-      "instrumente": 0.05,
-      "summe": 3.13
-    }
-  },
-  {
     "veroeffentlichung": "2025-05-06",
     "emittent": {
       "name": "MERCK Kommanditgesellschaft auf Aktien",
@@ -3584,7 +3566,25 @@
     }
   },
   {
-    "veroeffentlichung": "2025-11-10",
+    "veroeffentlichung": "2025-11-12",
+    "emittent": {
+      "name": "Nordex SE",
+      "sitz": "Rostock",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "BlackRock, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.09,
+      "instrumente": 1.25,
+      "summe": 4.34
+    }
+  },
+  {
+    "veroeffentlichung": "2025-11-12",
     "emittent": {
       "name": "Nemetschek SE",
       "sitz": "München",
@@ -3596,9 +3596,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.91,
-      "instrumente": 0.33,
-      "summe": 7.23
+      "gesamt": 6.84,
+      "instrumente": 0.31,
+      "summe": 7.15
     }
   },
   {
@@ -5346,8 +5346,8 @@
   {
     "veroeffentlichung": "2025-08-21",
     "emittent": {
-      "name": "Voltabox AG",
-      "sitz": "Paderborn",
+      "name": "Voltatron AG",
+      "sitz": "Fürth",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -11143,8 +11143,8 @@
   {
     "veroeffentlichung": "2025-08-20",
     "emittent": {
-      "name": "Voltabox AG",
-      "sitz": "Paderborn",
+      "name": "Voltatron AG",
+      "sitz": "Fürth",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -13695,8 +13695,8 @@
   {
     "veroeffentlichung": "2025-03-11",
     "emittent": {
-      "name": "Voltabox AG",
-      "sitz": "Paderborn",
+      "name": "Voltatron AG",
+      "sitz": "Fürth",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -13851,7 +13851,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-11-07",
+    "veroeffentlichung": "2025-11-11",
     "emittent": {
       "name": "HelloFresh SE",
       "sitz": "Berlin",
@@ -13863,9 +13863,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.84,
-      "instrumente": 4.67,
-      "summe": 5.51
+      "gesamt": 0.19,
+      "instrumente": 4.92,
+      "summe": 5.12
     }
   },
   {
@@ -19287,7 +19287,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-11-06",
+    "veroeffentlichung": "2025-11-11",
     "emittent": {
       "name": "Bilfinger SE",
       "sitz": "Mannheim",
@@ -19300,8 +19300,8 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 3.21,
-      "instrumente": 2.49,
-      "summe": 5.7
+      "instrumente": 2.55,
+      "summe": 5.76
     }
   },
   {
@@ -20493,7 +20493,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-11-06",
+    "veroeffentlichung": "2025-11-11",
     "emittent": {
       "name": "HUGO BOSS AG",
       "sitz": "Metzingen",
@@ -20506,8 +20506,8 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 0,
-      "instrumente": 12.94,
-      "summe": 12.94
+      "instrumente": 16.64,
+      "summe": 16.64
     }
   },
   {
@@ -26039,8 +26039,8 @@
   {
     "veroeffentlichung": "2025-03-11",
     "emittent": {
-      "name": "Voltabox AG",
-      "sitz": "Paderborn",
+      "name": "Voltatron AG",
+      "sitz": "Fürth",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -29061,6 +29061,24 @@
       "gesamt": 1.06,
       "instrumente": 4.1,
       "summe": 5.17
+    }
+  },
+  {
+    "veroeffentlichung": "2025-11-11",
+    "emittent": {
+      "name": "LANXESS Aktiengesellschaft",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.61,
+      "instrumente": 5.7,
+      "summe": 6.31
     }
   },
   {
