@@ -1298,6 +1298,24 @@
     }
   },
   {
+    "veroeffentlichung": "2025-12-22",
+    "emittent": {
+      "name": "Allianz SE",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Amundi S.A.",
+      "sitz": "Paris",
+      "land": "Frankreich"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.07,
+      "instrumente": 0.01,
+      "summe": 3.08
+    }
+  },
+  {
     "veroeffentlichung": "2025-08-06",
     "emittent": {
       "name": "adidas AG",
@@ -1345,6 +1363,24 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 71.56
+    }
+  },
+  {
+    "veroeffentlichung": "2025-12-23",
+    "emittent": {
+      "name": "Leo International Precision Health Aktiengesellschaft",
+      "sitz": "Düsseldorf",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Angel Ventures Limited",
+      "sitz": "Kowloon",
+      "land": "Hongkong"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.24,
+      "instrumente": 0,
+      "summe": 3.24
     }
   },
   {
@@ -2498,7 +2534,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-10-14",
+    "veroeffentlichung": "2025-12-23",
     "emittent": {
       "name": "Enapter AG",
       "sitz": "Düsseldorf",
@@ -2510,9 +2546,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.01,
-      "instrumente": 10.28,
-      "summe": 10.29
+      "gesamt": 0.00305,
+      "instrumente": 16.12,
+      "summe": 16.13
     }
   },
   {
@@ -3406,7 +3442,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-12-12",
+    "veroeffentlichung": "2025-12-23",
     "emittent": {
       "name": "Talanx Aktiengesellschaft",
       "sitz": "Hannover",
@@ -3418,9 +3454,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.01,
-      "instrumente": 0.003,
-      "summe": 3.01
+      "gesamt": 3.13,
+      "instrumente": 0.004,
+      "summe": 3.13
     }
   },
   {
@@ -4180,7 +4216,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-12-17",
+    "veroeffentlichung": "2025-12-23",
     "emittent": {
       "name": "COMMERZBANK Aktiengesellschaft",
       "sitz": "Frankfurt am Main",
@@ -4192,9 +4228,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.4,
-      "instrumente": 0.62,
-      "summe": 6.02
+      "gesamt": 5.61,
+      "instrumente": 0.35,
+      "summe": 5.96
     }
   },
   {
@@ -4531,24 +4567,6 @@
       "gesamt": 3.37,
       "instrumente": 0,
       "summe": 3.37
-    }
-  },
-  {
-    "veroeffentlichung": "2025-12-17",
-    "emittent": {
-      "name": "Gerresheimer AG",
-      "sitz": "Düsseldorf",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BNP Paribas S.A.",
-      "sitz": "Paris",
-      "land": "Frankreich"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.95,
-      "instrumente": 1.28,
-      "summe": 5.23
     }
   },
   {
@@ -6865,24 +6883,6 @@
       "gesamt": 3.85,
       "instrumente": 0,
       "summe": 3.85
-    }
-  },
-  {
-    "veroeffentlichung": "2025-12-19",
-    "emittent": {
-      "name": "Vulcan Energy Resources Limited",
-      "sitz": "Perth",
-      "land": "Australien"
-    },
-    "meldepflichtiger": {
-      "name": "DNR Capital Pty Ltd",
-      "sitz": "Brisbane",
-      "land": "Australien"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.03,
-      "instrumente": 0,
-      "summe": 3.03
     }
   },
   {
@@ -11633,7 +11633,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-12-09",
+    "veroeffentlichung": "2025-12-23",
     "emittent": {
       "name": "IONOS Group SE",
       "sitz": "Montabaur",
@@ -11645,9 +11645,9 @@
       "land": "Irland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.12,
-      "instrumente": 0.66,
-      "summe": 3.79
+      "gesamt": 3.94,
+      "instrumente": 1.07,
+      "summe": 5.01
     }
   },
   {
@@ -11749,7 +11749,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-12-10",
+    "veroeffentlichung": "2025-12-22",
     "emittent": {
       "name": "OVB Holding AG",
       "sitz": "Köln",
@@ -12804,22 +12804,6 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 6.09
-    }
-  },
-  {
-    "veroeffentlichung": "2023-09-12",
-    "emittent": {
-      "name": "capsensixx AG",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Hornung, Stephan"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.33,
-      "instrumente": 0,
-      "summe": 3.33
     }
   },
   {
@@ -14052,6 +14036,24 @@
       "gesamt": 2.95,
       "instrumente": 4.78,
       "summe": 7.74
+    }
+  },
+  {
+    "veroeffentlichung": "2025-12-22",
+    "emittent": {
+      "name": "Evotec SE",
+      "sitz": "Hamburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "JPMORGAN CHASE & CO",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 2.82,
+      "instrumente": 2.32,
+      "summe": 5.14
     }
   },
   {
@@ -16006,6 +16008,22 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 50
+    }
+  },
+  {
+    "veroeffentlichung": "2025-12-22",
+    "emittent": {
+      "name": "Mister Spex SE",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Lange, Christa"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 4.99758,
+      "instrumente": 0,
+      "summe": 4.99758
     }
   },
   {
@@ -19421,7 +19439,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-12-08",
+    "veroeffentlichung": "2025-12-23",
     "emittent": {
       "name": "Delivery Hero SE",
       "sitz": "Berlin",
@@ -19433,9 +19451,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 7.79,
-      "instrumente": 4,
-      "summe": 11.78
+      "gesamt": 8.81,
+      "instrumente": 4.49,
+      "summe": 13.3
     }
   },
   {
@@ -20083,7 +20101,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-09-09",
+    "veroeffentlichung": "2025-12-23",
     "emittent": {
       "name": "elumeo SE",
       "sitz": "Berlin",
@@ -20093,9 +20111,9 @@
       "name": "Neureither, Petra"
     },
     "stimmrechtsanteile": {
-      "gesamt": 14.41,
+      "gesamt": 16.93,
       "instrumente": 0,
-      "summe": 14.41
+      "summe": 16.93
     }
   },
   {
@@ -23747,7 +23765,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-12-09",
+    "veroeffentlichung": "2025-12-23",
     "emittent": {
       "name": "IONOS Group SE",
       "sitz": "Montabaur",
@@ -23757,9 +23775,9 @@
       "name": "Riggio, Federico"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.12,
-      "instrumente": 0.66,
-      "summe": 3.79
+      "gesamt": 3.94,
+      "instrumente": 1.07,
+      "summe": 5.01
     }
   },
   {
@@ -26631,7 +26649,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-12-19",
+    "veroeffentlichung": "2025-12-23",
     "emittent": {
       "name": "HUGO BOSS AG",
       "sitz": "Metzingen",
@@ -26643,13 +26661,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.29,
-      "instrumente": 15.87,
-      "summe": 18.16
+      "gesamt": 4.28,
+      "instrumente": 11.37,
+      "summe": 15.65
     }
   },
   {
-    "veroeffentlichung": "2025-11-21",
+    "veroeffentlichung": "2025-12-23",
     "emittent": {
       "name": "Aurubis AG",
       "sitz": "Hamburg",
@@ -26661,9 +26679,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.28,
-      "instrumente": 10.92,
-      "summe": 13.2
+      "gesamt": 1.36,
+      "instrumente": 9.87,
+      "summe": 11.23
     }
   },
   {
@@ -29072,7 +29090,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-12-05",
+    "veroeffentlichung": "2025-12-23",
     "emittent": {
       "name": "Salzgitter Aktiengesellschaft",
       "sitz": "Salzgitter",
@@ -29084,9 +29102,27 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.03,
-      "instrumente": 6.18,
-      "summe": 6.21
+      "gesamt": 0.8,
+      "instrumente": 8.3,
+      "summe": 9.1
+    }
+  },
+  {
+    "veroeffentlichung": "2025-12-22",
+    "emittent": {
+      "name": "PUMA SE",
+      "sitz": "Herzogenaurach",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.24,
+      "instrumente": 4.77,
+      "summe": 5.004
     }
   },
   {
@@ -29141,6 +29177,24 @@
       "gesamt": 0.74,
       "instrumente": 6.38,
       "summe": 7.12
+    }
+  },
+  {
+    "veroeffentlichung": "2025-12-22",
+    "emittent": {
+      "name": "K+S Aktiengesellschaft",
+      "sitz": "Kassel",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.16,
+      "instrumente": 5.05,
+      "summe": 5.21
     }
   },
   {
@@ -29621,6 +29675,24 @@
       "gesamt": 15.35,
       "instrumente": 0.04,
       "summe": 15.39
+    }
+  },
+  {
+    "veroeffentlichung": "2025-12-22",
+    "emittent": {
+      "name": "SUSS MicroTec SE",
+      "sitz": "Garching b. München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "UBS Group AG",
+      "sitz": "Zürich",
+      "land": "Schweiz"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 1.02,
+      "instrumente": 4.1,
+      "summe": 5.11
     }
   },
   {
@@ -31554,7 +31626,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-12-05",
+    "veroeffentlichung": "2025-12-21",
     "emittent": {
       "name": "PSI Software SE",
       "sitz": "Berlin",
@@ -31567,8 +31639,8 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 9.84,
-      "instrumente": 24.6,
-      "summe": 34.43
+      "instrumente": 29.6,
+      "summe": 39.43
     }
   },
   {
