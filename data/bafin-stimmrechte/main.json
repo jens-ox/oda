@@ -1010,7 +1010,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-12-11",
+    "veroeffentlichung": "2026-01-07",
     "emittent": {
       "name": "Stabilus SE",
       "sitz": "Frankfurt am Main",
@@ -1022,9 +1022,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.89,
+      "gesamt": 3.88,
       "instrumente": 0,
-      "summe": 4.89
+      "summe": 3.88
     }
   },
   {
@@ -3838,7 +3838,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-09-01",
+    "veroeffentlichung": "2026-01-08",
     "emittent": {
       "name": "LEG Immobilien SE",
       "sitz": "Düsseldorf",
@@ -3850,9 +3850,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 10.1,
-      "instrumente": 0.14,
-      "summe": 10.25
+      "gesamt": 10.85,
+      "instrumente": 1.06,
+      "summe": 11.91
     }
   },
   {
@@ -7557,6 +7557,24 @@
       "gesamt": 5.00001,
       "instrumente": 0,
       "summe": 5.00001
+    }
+  },
+  {
+    "veroeffentlichung": "2026-01-07",
+    "emittent": {
+      "name": "flatexDEGIRO SE",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "DWS Investment GmbH",
+      "sitz": "Frankfurt",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.35,
+      "instrumente": 0,
+      "summe": 3.35
     }
   },
   {
@@ -14109,24 +14127,6 @@
     }
   },
   {
-    "veroeffentlichung": "2026-01-06",
-    "emittent": {
-      "name": "Evotec SE",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JPMORGAN CHASE & CO",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 2.73,
-      "instrumente": 2.45,
-      "summe": 5.18
-    }
-  },
-  {
     "veroeffentlichung": "2025-09-05",
     "emittent": {
       "name": "Delivery Hero SE",
@@ -19352,6 +19352,24 @@
       "gesamt": 1.07,
       "instrumente": 8.3,
       "summe": 9.36
+    }
+  },
+  {
+    "veroeffentlichung": "2026-01-08",
+    "emittent": {
+      "name": "HelloFresh SE",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Morgan Stanley",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 1.91,
+      "instrumente": 3.15,
+      "summe": 5.06
     }
   },
   {
