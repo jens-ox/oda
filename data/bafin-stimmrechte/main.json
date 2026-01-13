@@ -886,7 +886,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-04-09",
+    "veroeffentlichung": "2026-01-09",
     "emittent": {
       "name": "JOST Werke SE",
       "sitz": "Neu-Isenburg",
@@ -898,9 +898,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 14.99,
+      "gesamt": 9.7,
       "instrumente": 0,
-      "summe": 14.99
+      "summe": 9.7
     }
   },
   {
@@ -3658,7 +3658,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-11-27",
+    "veroeffentlichung": "2026-01-12",
     "emittent": {
       "name": "SAP SE",
       "sitz": "Walldorf",
@@ -3670,9 +3670,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.52,
-      "instrumente": 0.04,
-      "summe": 6.56
+      "gesamt": 6.55,
+      "instrumente": 0.07,
+      "summe": 6.62
     }
   },
   {
@@ -3838,7 +3838,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-01-06",
+    "veroeffentlichung": "2026-01-12",
     "emittent": {
       "name": "Mercedes-Benz Group AG",
       "sitz": "Stuttgart",
@@ -3850,9 +3850,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.75,
-      "instrumente": 0.42,
-      "summe": 6.17
+      "gesamt": 5.74,
+      "instrumente": 0.45,
+      "summe": 6.19
     }
   },
   {
@@ -4468,7 +4468,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-12-29",
+    "veroeffentlichung": "2026-01-09",
     "emittent": {
       "name": "ADTRAN Holdings, Inc.",
       "sitz": "Wilmington",
@@ -4480,9 +4480,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 7.48,
-      "instrumente": 5.52,
-      "summe": 12.996
+      "gesamt": 8.63,
+      "instrumente": 4.98,
+      "summe": 13.6
     }
   },
   {
@@ -4675,24 +4675,6 @@
       "gesamt": 3.37,
       "instrumente": 0,
       "summe": 3.37
-    }
-  },
-  {
-    "veroeffentlichung": "2025-10-20",
-    "emittent": {
-      "name": "Aurubis AG",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BNP Paribas S.A.",
-      "sitz": "Paris",
-      "land": "Frankreich"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 5.21,
-      "instrumente": 0.83,
-      "summe": 6.04
     }
   },
   {
@@ -23232,7 +23214,7 @@
     }
   },
   {
-    "veroeffentlichung": "2020-09-30",
+    "veroeffentlichung": "2026-01-12",
     "emittent": {
       "name": "Südzucker AG",
       "sitz": "Mannheim",
@@ -23244,9 +23226,9 @@
       "land": "Österreich"
     },
     "stimmrechtsanteile": {
-      "gesamt": 69.43,
+      "gesamt": 75.00361,
       "instrumente": 0,
-      "summe": 69.43
+      "summe": 75.00361
     }
   },
   {
@@ -26675,7 +26657,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-12-23",
+    "veroeffentlichung": "2026-01-12",
     "emittent": {
       "name": "Aurubis AG",
       "sitz": "Hamburg",
@@ -26687,9 +26669,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.36,
-      "instrumente": 9.87,
-      "summe": 11.23
+      "gesamt": 1.42,
+      "instrumente": 10.35,
+      "summe": 11.77
     }
   },
   {
@@ -28422,7 +28404,7 @@
     }
   },
   {
-    "veroeffentlichung": "2013-02-05",
+    "veroeffentlichung": "2026-01-09",
     "emittent": {
       "name": "Südzucker AG",
       "sitz": "Mannheim",
@@ -28434,7 +28416,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 60.49
+      "gesamt": 75.00361,
+      "instrumente": 0,
+      "summe": 75.00361
     }
   },
   {
@@ -28843,6 +28827,24 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 100
+    }
+  },
+  {
+    "veroeffentlichung": "2026-01-12",
+    "emittent": {
+      "name": "Siemens Aktiengesellschaft",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Capital Group Companies, Inc.",
+      "sitz": "Los Angeles",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.04,
+      "instrumente": 0,
+      "summe": 3.04
     }
   },
   {
