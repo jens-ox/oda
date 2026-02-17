@@ -1010,7 +1010,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-02-03",
+    "veroeffentlichung": "2026-02-13",
     "emittent": {
       "name": "JOST Werke SE",
       "sitz": "Neu-Isenburg",
@@ -1022,9 +1022,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.55,
+      "gesamt": 4.76,
       "instrumente": 0,
-      "summe": 5.55
+      "summe": 4.76
     }
   },
   {
@@ -2588,24 +2588,6 @@
     }
   },
   {
-    "veroeffentlichung": "2026-02-13",
-    "emittent": {
-      "name": "Salzgitter Aktiengesellschaft",
-      "sitz": "Salzgitter",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Bank of America Corporation",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 2.03,
-      "instrumente": 3.16,
-      "summe": 5.19
-    }
-  },
-  {
     "veroeffentlichung": "2026-02-10",
     "emittent": {
       "name": "PUMA SE",
@@ -3676,7 +3658,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-02-13",
+    "veroeffentlichung": "2026-02-16",
     "emittent": {
       "name": "SAP SE",
       "sitz": "Walldorf",
@@ -3688,9 +3670,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.35,
-      "instrumente": 0.14,
-      "summe": 6.49
+      "gesamt": 6.44,
+      "instrumente": 0.05,
+      "summe": 6.5
     }
   },
   {
@@ -7560,6 +7542,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-02-16",
+    "emittent": {
+      "name": "Stabilus SE",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "DWS Investment GmbH",
+      "sitz": "Frankfurt",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.39,
+      "instrumente": 0,
+      "summe": 3.39
+    }
+  },
+  {
     "veroeffentlichung": "2025-12-16",
     "emittent": {
       "name": "Siltronic AG",
@@ -8503,6 +8503,22 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 9.02
+    }
+  },
+  {
+    "veroeffentlichung": "2026-02-13",
+    "emittent": {
+      "name": "AUTO1 Group SE",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Ferguson, Scott"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 1.78,
+      "instrumente": 3.57,
+      "summe": 5.35
     }
   },
   {
@@ -11331,7 +11347,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-04-08",
+    "veroeffentlichung": "2026-02-13",
     "emittent": {
       "name": "Brenntag SE",
       "sitz": "Essen",
@@ -11343,9 +11359,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.02,
+      "gesamt": 4.86,
       "instrumente": 0,
-      "summe": 5.02
+      "summe": 4.86
     }
   },
   {
@@ -14237,7 +14253,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-02-12",
+    "veroeffentlichung": "2026-02-13",
     "emittent": {
       "name": "HelloFresh SE",
       "sitz": "Berlin",
@@ -14249,9 +14265,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.65,
-      "instrumente": 5.19,
-      "summe": 5.84
+      "gesamt": 0.87,
+      "instrumente": 4.87,
+      "summe": 5.74
     }
   },
   {
@@ -19443,24 +19459,6 @@
     }
   },
   {
-    "veroeffentlichung": "2026-01-28",
-    "emittent": {
-      "name": "thyssenkrupp AG",
-      "sitz": "Essen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Morgan Stanley",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.11,
-      "instrumente": 2.89,
-      "summe": 6
-    }
-  },
-  {
     "veroeffentlichung": "2026-02-11",
     "emittent": {
       "name": "PUMA SE",
@@ -19569,6 +19567,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-02-13",
+    "emittent": {
+      "name": "LANXESS Aktiengesellschaft",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Morgan Stanley",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.07,
+      "instrumente": 1.28,
+      "summe": 4.36
+    }
+  },
+  {
     "veroeffentlichung": "2025-11-13",
     "emittent": {
       "name": "HUGO BOSS AG",
@@ -19620,6 +19636,24 @@
       "gesamt": 0.19,
       "instrumente": 8.65,
       "summe": 8.84
+    }
+  },
+  {
+    "veroeffentlichung": "2026-02-13",
+    "emittent": {
+      "name": "flatexDEGIRO SE",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Morgan Stanley",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.02,
+      "instrumente": 0.19,
+      "summe": 3.21
     }
   },
   {
@@ -24221,7 +24255,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-11-26",
+    "veroeffentlichung": "2026-02-16",
     "emittent": {
       "name": "Aurubis AG",
       "sitz": "Hamburg",
@@ -24233,9 +24267,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 15.01,
-      "instrumente": 7.34,
-      "summe": 22.35
+      "gesamt": 14.71,
+      "instrumente": 5.00481,
+      "summe": 19.71
     }
   },
   {
@@ -26867,7 +26901,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-02-13",
+    "veroeffentlichung": "2026-02-16",
     "emittent": {
       "name": "Aurubis AG",
       "sitz": "Hamburg",
@@ -26879,9 +26913,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.16,
-      "instrumente": 7.36,
-      "summe": 9.52
+      "gesamt": 4.39,
+      "instrumente": 4.8,
+      "summe": 9.2
     }
   },
   {
@@ -27364,6 +27398,24 @@
       "gesamt": 10.12,
       "instrumente": 0,
       "summe": 10.12
+    }
+  },
+  {
+    "veroeffentlichung": "2026-02-13",
+    "emittent": {
+      "name": "thyssenkrupp AG",
+      "sitz": "Essen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Staat Norwegen",
+      "sitz": "Oslo",
+      "land": "Norwegen"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.3,
+      "instrumente": 0.03,
+      "summe": 3.32
     }
   },
   {
@@ -29202,6 +29254,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-02-13",
+    "emittent": {
+      "name": "SNP Schneider-Neureither & Partner SE",
+      "sitz": "Heidelberg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.04,
+      "instrumente": 0.41,
+      "summe": 3.45
+    }
+  },
+  {
     "veroeffentlichung": "2026-01-27",
     "emittent": {
       "name": "SMA Solar Technology AG",
@@ -29289,6 +29359,24 @@
       "gesamt": 0.91,
       "instrumente": 4.11,
       "summe": 5.02
+    }
+  },
+  {
+    "veroeffentlichung": "2026-02-13",
+    "emittent": {
+      "name": "NORMA Group SE",
+      "sitz": "Maintal",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.87,
+      "instrumente": 5.2,
+      "summe": 6.07
     }
   },
   {
@@ -30220,7 +30308,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-08-04",
+    "veroeffentlichung": "2026-02-13",
     "emittent": {
       "name": "GRENKE AG",
       "sitz": "Baden-Baden",
@@ -30232,9 +30320,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.36,
+      "gesamt": 4.91,
       "instrumente": 0,
-      "summe": 5.36
+      "summe": 4.91
     }
   },
   {
