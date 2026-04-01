@@ -800,24 +800,6 @@
     }
   },
   {
-    "veroeffentlichung": "2026-03-23",
-    "emittent": {
-      "name": "Stabilus SE",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Allianz Global Investors GmbH",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.78,
-      "instrumente": 0,
-      "summe": 4.78
-    }
-  },
-  {
     "veroeffentlichung": "2024-01-04",
     "emittent": {
       "name": "NORMA Group SE",
@@ -851,24 +833,6 @@
       "gesamt": 9.7,
       "instrumente": 0,
       "summe": 9.7
-    }
-  },
-  {
-    "veroeffentlichung": "2024-12-09",
-    "emittent": {
-      "name": "Hypoport SE",
-      "sitz": "Lübeck",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Allianz Global Investors GmbH",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0,
-      "summe": 3.02
     }
   },
   {
@@ -1050,7 +1014,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-03-25",
+    "veroeffentlichung": "2026-03-31",
     "emittent": {
       "name": "thyssenkrupp AG",
       "sitz": "Essen",
@@ -1062,9 +1026,9 @@
       "land": "Frankreich"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.95,
-      "instrumente": 0.22,
-      "summe": 5.18
+      "gesamt": 5.05,
+      "instrumente": 0.18,
+      "summe": 5.23
     }
   },
   {
@@ -2482,7 +2446,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-03-23",
+    "veroeffentlichung": "2026-03-31",
     "emittent": {
       "name": "Salzgitter Aktiengesellschaft",
       "sitz": "Salzgitter",
@@ -2494,9 +2458,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.85,
-      "instrumente": 2.61,
-      "summe": 5.46
+      "gesamt": 4.34,
+      "instrumente": 2.44,
+      "summe": 6.78
     }
   },
   {
@@ -2533,6 +2497,42 @@
       "gesamt": 0.21,
       "instrumente": 5.01,
       "summe": 5.22
+    }
+  },
+  {
+    "veroeffentlichung": "2026-03-31",
+    "emittent": {
+      "name": "LANXESS Aktiengesellschaft",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Bank of America Corporation",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.76,
+      "instrumente": 4.29,
+      "summe": 5.06
+    }
+  },
+  {
+    "veroeffentlichung": "2026-03-31",
+    "emittent": {
+      "name": "K+S Aktiengesellschaft",
+      "sitz": "Kassel",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Bank of America Corporation",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 1.13,
+      "instrumente": 4.48,
+      "summe": 5.61
     }
   },
   {
@@ -3408,7 +3408,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-03-27",
+    "veroeffentlichung": "2026-03-30",
     "emittent": {
       "name": "thyssenkrupp AG",
       "sitz": "Essen",
@@ -3420,9 +3420,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.08,
+      "gesamt": 5.21,
       "instrumente": 0.14,
-      "summe": 5.22
+      "summe": 5.35
     }
   },
   {
@@ -3462,7 +3462,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-03-27",
+    "veroeffentlichung": "2026-03-30",
     "emittent": {
       "name": "TAG Immobilien AG",
       "sitz": "Hamburg",
@@ -3474,9 +3474,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.47,
-      "instrumente": 0.77,
-      "summe": 6.24
+      "gesamt": 4.96,
+      "instrumente": 1.22,
+      "summe": 6.18
     }
   },
   {
@@ -3642,25 +3642,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-03-27",
-    "emittent": {
-      "name": "PUMA SE",
-      "sitz": "Herzogenaurach",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.1,
-      "instrumente": 0.2,
-      "summe": 3.3
-    }
-  },
-  {
-    "veroeffentlichung": "2026-03-25",
+    "veroeffentlichung": "2026-03-30",
     "emittent": {
       "name": "Nemetschek SE",
       "sitz": "München",
@@ -3672,9 +3654,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.18,
-      "instrumente": 0.58,
-      "summe": 5.76
+      "gesamt": 5.06,
+      "instrumente": 0.61,
+      "summe": 5.68
     }
   },
   {
@@ -3732,7 +3714,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-03-16",
+    "veroeffentlichung": "2026-03-31",
     "emittent": {
       "name": "Mercedes-Benz Group AG",
       "sitz": "Stuttgart",
@@ -3744,13 +3726,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.09,
-      "instrumente": 0.13,
-      "summe": 6.22
+      "gesamt": 5.68,
+      "instrumente": 0.43,
+      "summe": 6.11
     }
   },
   {
-    "veroeffentlichung": "2026-03-24",
+    "veroeffentlichung": "2026-03-31",
     "emittent": {
       "name": "LEG Immobilien SE",
       "sitz": "Düsseldorf",
@@ -3762,9 +3744,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 9.77,
-      "instrumente": 0.35,
-      "summe": 10.12
+      "gesamt": 9.57,
+      "instrumente": 0.43,
+      "summe": 9.99
     }
   },
   {
@@ -3855,6 +3837,24 @@
       "gesamt": 7.49,
       "instrumente": 0.01,
       "summe": 7.5
+    }
+  },
+  {
+    "veroeffentlichung": "2026-03-31",
+    "emittent": {
+      "name": "HENSOLDT AG",
+      "sitz": "Taufkirchen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "BlackRock, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 2.53,
+      "instrumente": 2.67,
+      "summe": 5.2
     }
   },
   {
@@ -4326,7 +4326,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-03-26",
+    "veroeffentlichung": "2026-03-31",
     "emittent": {
       "name": "AIXTRON SE",
       "sitz": "Herzogenrath",
@@ -4338,9 +4338,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 7.31,
-      "instrumente": 0.27,
-      "summe": 7.58
+      "gesamt": 7.17,
+      "instrumente": 0.29,
+      "summe": 7.46
     }
   },
   {
@@ -4362,7 +4362,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-03-27",
+    "veroeffentlichung": "2026-03-30",
     "emittent": {
       "name": "adidas AG",
       "sitz": "Herzogenaurach",
@@ -4374,9 +4374,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.92,
-      "instrumente": 0.59,
-      "summe": 7.52
+      "gesamt": 7.18,
+      "instrumente": 0.35,
+      "summe": 7.54
     }
   },
   {
@@ -8010,7 +8010,7 @@
     }
   },
   {
-    "veroeffentlichung": "2022-09-20",
+    "veroeffentlichung": "2026-03-30",
     "emittent": {
       "name": "adidas AG",
       "sitz": "Herzogenaurach",
@@ -8022,9 +8022,9 @@
       "land": "Cayman Inseln (Kaimaninseln)"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.13,
-      "instrumente": 3.33,
-      "summe": 6.46
+      "gesamt": 3.34,
+      "instrumente": 0.86,
+      "summe": 4.2
     }
   },
   {
@@ -10460,6 +10460,22 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 36.35
+    }
+  },
+  {
+    "veroeffentlichung": "2026-03-30",
+    "emittent": {
+      "name": "Klöckner & Co SE",
+      "sitz": "Düsseldorf",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Griffin, Kenneth C."
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.00007,
+      "instrumente": 5.98,
+      "summe": 5.98
     }
   },
   {
@@ -14229,6 +14245,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-03-30",
+    "emittent": {
+      "name": "LANXESS Aktiengesellschaft",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "JPMORGAN CHASE & CO",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 1.4,
+      "instrumente": 4.09,
+      "summe": 5.49
+    }
+  },
+  {
     "veroeffentlichung": "2026-03-17",
     "emittent": {
       "name": "Klöckner & Co SE",
@@ -14247,7 +14281,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-03-26",
+    "veroeffentlichung": "2026-03-30",
     "emittent": {
       "name": "HelloFresh SE",
       "sitz": "Berlin",
@@ -14259,9 +14293,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.74,
-      "instrumente": 4.88,
-      "summe": 5.62
+      "gesamt": 0.88,
+      "instrumente": 5.31,
+      "summe": 6.19
     }
   },
   {
@@ -19471,7 +19505,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-03-20",
+    "veroeffentlichung": "2026-03-31",
     "emittent": {
       "name": "thyssenkrupp AG",
       "sitz": "Essen",
@@ -19483,9 +19517,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.41,
-      "instrumente": 3.68,
-      "summe": 5.1
+      "gesamt": 1.38,
+      "instrumente": 4.7,
+      "summe": 6.08
     }
   },
   {
@@ -19579,7 +19613,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-03-30",
+    "veroeffentlichung": "2026-03-31",
     "emittent": {
       "name": "Nagarro SE",
       "sitz": "München",
@@ -19591,9 +19625,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.78,
-      "instrumente": 9.99,
-      "summe": 10.77
+      "gesamt": 0.79,
+      "instrumente": 10.32,
+      "summe": 11.11
     }
   },
   {
@@ -23082,6 +23116,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-03-31",
+    "emittent": {
+      "name": "JOST Werke SE",
+      "sitz": "Neu-Isenburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Protector Forsikring ASA",
+      "sitz": "OSLO",
+      "land": "Norwegen"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.04928,
+      "instrumente": 0,
+      "summe": 3.04928
+    }
+  },
+  {
     "veroeffentlichung": "2025-03-24",
     "emittent": {
       "name": "Path2 Hydrogen AG",
@@ -25227,6 +25279,22 @@
     }
   },
   {
+    "veroeffentlichung": "2026-03-30",
+    "emittent": {
+      "name": "adidas AG",
+      "sitz": "Herzogenaurach",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Sawiris, Nassef"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.34,
+      "instrumente": 0.86,
+      "summe": 4.2
+    }
+  },
+  {
     "veroeffentlichung": "2022-09-27",
     "emittent": {
       "name": "YOC AG",
@@ -25671,7 +25739,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-12-17",
+    "veroeffentlichung": "2026-03-30",
     "emittent": {
       "name": "Enapter AG",
       "sitz": "Düsseldorf",
@@ -25681,9 +25749,9 @@
       "name": "Schmidt, Sebastian-Justus"
     },
     "stimmrechtsanteile": {
-      "gesamt": 24.24,
+      "gesamt": 13.03,
       "instrumente": 1.93,
-      "summe": 26.17
+      "summe": 14.97
     }
   },
   {
@@ -29564,6 +29632,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-03-31",
+    "emittent": {
+      "name": "Bayer Aktiengesellschaft",
+      "sitz": "Leverkusen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.93,
+      "instrumente": 4.26,
+      "summe": 5.2
+    }
+  },
+  {
     "veroeffentlichung": "2026-03-26",
     "emittent": {
       "name": "AUTO1 Group SE",
@@ -29985,24 +30071,6 @@
       "gesamt": 3.06,
       "instrumente": 2.35,
       "summe": 5.41
-    }
-  },
-  {
-    "veroeffentlichung": "2026-03-16",
-    "emittent": {
-      "name": "LANXESS Aktiengesellschaft",
-      "sitz": "Köln",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "UBS Group AG",
-      "sitz": "Zürich",
-      "land": "Schweiz"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 2.03,
-      "instrumente": 3.14,
-      "summe": 5.17
     }
   },
   {
@@ -32832,6 +32900,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-03-30",
+    "emittent": {
+      "name": "Klöckner & Co SE",
+      "sitz": "Düsseldorf",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "WK MS Holdings I Ltd.",
+      "sitz": "George Town",
+      "land": "Cayman Inseln (Kaimaninseln)"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0,
+      "instrumente": 5.98,
+      "summe": 5.98
+    }
+  },
+  {
     "veroeffentlichung": "2007-07-18",
     "emittent": {
       "name": "MATERNUS-Kliniken-Aktiengesellschaft",
@@ -33228,7 +33314,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-12-15",
+    "veroeffentlichung": "2026-03-31",
     "emittent": {
       "name": "Enapter AG",
       "sitz": "Düsseldorf",
@@ -33238,9 +33324,9 @@
       "name": "Yass, Jeffrey"
     },
     "stimmrechtsanteile": {
-      "gesamt": 16.12,
-      "instrumente": 1.35,
-      "summe": 17.47
+      "gesamt": 24.55,
+      "instrumente": 1.28,
+      "summe": 25.83
     }
   },
   {
